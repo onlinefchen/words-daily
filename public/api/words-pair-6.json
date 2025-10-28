@@ -1,0 +1,70 @@
+{
+  "generated": "2025-10-28T10:47:44.886Z",
+  "pair": 6,
+  "count": 2,
+  "words": [
+    {
+      "word": "copperhead",
+      "pronunciation": "/ˈkɑːpərhɛd/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "铜头蛇",
+          "en": "A type of venomous snake found in North America."
+        },
+        {
+          "pos": "n.",
+          "zh": "一种危险的毒蛇",
+          "en": "A term used to describe a dangerous person or situation."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The copperhead snake is known for its distinctive coloration.",
+          "zh": "铜头蛇以其独特的颜色而闻名。"
+        },
+        {
+          "en": "Be careful; that argument could lead to a copperhead situation.",
+          "zh": "小心；那个争论可能会导致危险的局面。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'copper' for the snake's color, like a penny."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=copperhead&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
+    },
+    {
+      "word": "geometry",
+      "pronunciation": "/dʒiˈɑː.mə.tri/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "几何",
+          "en": "The branch of mathematics that studies shapes, sizes, and properties of space."
+        },
+        {
+          "pos": "n.",
+          "zh": "几何图形",
+          "en": "A specific shape or figure created by points, lines, and surfaces."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Geometry is important for understanding the properties of different shapes.",
+          "zh": "几何学对于理解不同形状的属性很重要。"
+        },
+        {
+          "en": "In school, we learn about geometry and its applications in real life.",
+          "zh": "在学校，我们学习几何及其在现实生活中的应用。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'geometry' comes from the Greek 'geo' meaning 'earth' and 'metron' meaning 'measure'.",
+        "association": "Think of 'geometry' as the study of measuring the earth and its shapes."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=geometry&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
+    }
+  ]
+}

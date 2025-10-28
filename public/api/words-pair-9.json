@@ -1,0 +1,69 @@
+{
+  "generated": "2025-10-28T10:47:44.886Z",
+  "pair": 9,
+  "count": 2,
+  "words": [
+    {
+      "word": "comb",
+      "pronunciation": "/koʊm/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "梳理",
+          "en": "To arrange or untangle hair using a comb."
+        },
+        {
+          "pos": "n.",
+          "zh": "梳子",
+          "en": "A flat tool with teeth used to style or untangle hair."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She used a comb to straighten her curly hair before the party.",
+          "zh": "她在聚会前用梳子理顺了她的卷发。"
+        },
+        {
+          "en": "I always carry a small comb in my bag for quick touch-ups.",
+          "zh": "我总是在包里带一把小梳子，以便快速整理。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'comb' as a tool that 'comes' to the rescue for messy hair."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=comb&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
+    },
+    {
+      "word": "snake charmer",
+      "pronunciation": "/sneɪk ˈtʃɑːrmər/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "蛇魅者",
+          "en": "A person who plays music to charm snakes, often seen in performances."
+        },
+        {
+          "pos": "n.",
+          "zh": "操纵人",
+          "en": "Someone who has a captivating or controlling influence over others."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The snake charmer mesmerized the audience with his enchanting music.",
+          "zh": "蛇魅者用他迷人的音乐让观众陶醉。"
+        },
+        {
+          "en": "In the market, a snake charmer attracted many curious onlookers.",
+          "zh": "在市场上，蛇魅者吸引了许多好奇的旁观者。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a snake charmer as someone who 'charms' both snakes and people with their skills."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=snake%20charmer&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
+    }
+  ]
+}

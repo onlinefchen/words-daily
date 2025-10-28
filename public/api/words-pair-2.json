@@ -1,0 +1,62 @@
+{
+  "generated": "2025-10-28T10:47:44.886Z",
+  "pair": 2,
+  "count": 2,
+  "words": [
+    {
+      "word": "the Richter scale",
+      "pronunciation": "/ˈrɪk.tər skeɪl/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "里氏震级",
+          "en": "A scale used to measure the strength of earthquakes."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The earthquake registered 6.5 on the Richter scale last night.",
+          "zh": "昨晚的地震在里氏震级上记录为6.5级。"
+        },
+        {
+          "en": "Scientists use the Richter scale to assess earthquake damage.",
+          "zh": "科学家使用里氏震级来评估地震造成的损害。"
+        }
+      ],
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=the%20Richter%20scale&type=2",
+      "chapter": "认知词汇 自然分类 地震"
+    },
+    {
+      "word": "lenient",
+      "pronunciation": "/ˈliːniənt/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "宽容的",
+          "en": "Not strict or harsh; allowing more freedom."
+        },
+        {
+          "pos": "adj.",
+          "zh": "仁慈的",
+          "en": "Showing kindness or mercy; forgiving."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The teacher was lenient with students who missed the deadline.",
+          "zh": "老师对错过截止日期的学生很宽容。"
+        },
+        {
+          "en": "Her lenient attitude helped the children feel more comfortable.",
+          "zh": "她的宽容态度让孩子们感到更自在。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'lenient' as someone 'leaning in' to listen, showing care and understanding."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=lenient&type=2",
+      "chapter": "核心词汇 伦理与道德 Unit 3"
+    }
+  ]
+}

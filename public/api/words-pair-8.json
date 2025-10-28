@@ -1,0 +1,69 @@
+{
+  "generated": "2025-10-28T10:47:44.886Z",
+  "pair": 8,
+  "count": 2,
+  "words": [
+    {
+      "word": "decline",
+      "pronunciation": "/dɪˈklaɪn/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "减少; 下降",
+          "en": "To become less or lower in amount, quality, or strength."
+        },
+        {
+          "pos": "n.",
+          "zh": "下降; 衰退",
+          "en": "A decrease or reduction in something."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The number of students in the class has begun to decline.",
+          "zh": "班上的学生人数开始减少。"
+        },
+        {
+          "en": "There has been a decline in the quality of service recently.",
+          "zh": "最近服务质量有所下降。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'decline' as going down a hill, representing a decrease."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=decline&type=2",
+      "chapter": "基本词汇 动词200 Unit 5"
+    },
+    {
+      "word": "force",
+      "pronunciation": "/fɔrs/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "强迫",
+          "en": "To make someone do something they do not want to do."
+        },
+        {
+          "pos": "n.",
+          "zh": "力量",
+          "en": "Strength or energy as an attribute of physical action or movement."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The teacher had to force the students to complete their homework.",
+          "zh": "老师不得不强迫学生完成作业。"
+        },
+        {
+          "en": "The force of the wind knocked down several trees in the storm.",
+          "zh": "风的力量在风暴中吹倒了几棵树。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'force' comes from the Latin 'fortis', meaning strong or powerful."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=force&type=2",
+      "chapter": "基本词汇 动词200 Unit 7"
+    }
+  ]
+}

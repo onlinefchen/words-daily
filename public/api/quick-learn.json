@@ -1,0 +1,68 @@
+{
+  "generated": "2025-10-28T10:47:44.886Z",
+  "count": 2,
+  "words": [
+    {
+      "word": "clearing",
+      "pronunciation": "/ˈklɪrɪŋ/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "空地，清理",
+          "en": "An area where trees and plants have been removed."
+        },
+        {
+          "pos": "v.",
+          "zh": "清除，清理",
+          "en": "To remove things from a space or area."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The clearing in the forest was perfect for our picnic.",
+          "zh": "森林中的空地非常适合我们的野餐。"
+        },
+        {
+          "en": "They were clearing the area to build new houses.",
+          "zh": "他们正在清理该地区以建造新房子。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'clearing' as making a space 'clear' of clutter."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=clearing&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
+    },
+    {
+      "word": "interpreter",
+      "pronunciation": "/ɪnˈtɜːrprɪtər/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "口译员",
+          "en": "A person who translates spoken language orally."
+        },
+        {
+          "pos": "n.",
+          "zh": "解释者",
+          "en": "Someone who explains or clarifies information."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The interpreter helped us understand the foreign speaker's message.",
+          "zh": "口译员帮助我们理解外国演讲者的信息。"
+        },
+        {
+          "en": "Hiring a skilled interpreter can improve communication during meetings.",
+          "zh": "雇佣一位熟练的口译员可以改善会议中的沟通。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'interpret' as understanding something in a different language, which relates to the role of an interpreter."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=interpreter&type=2",
+      "chapter": "认知词汇 教育分类 双语教育"
+    }
+  ]
+}

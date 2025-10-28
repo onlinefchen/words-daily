@@ -1,0 +1,69 @@
+{
+  "generated": "2025-10-28T10:47:44.886Z",
+  "pair": 10,
+  "count": 2,
+  "words": [
+    {
+      "word": "commit",
+      "pronunciation": "/kəˈmɪt/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "承诺，保证",
+          "en": "To make a firm decision to do something or to promise to do something."
+        },
+        {
+          "pos": "n.",
+          "zh": "犯罪，犯错",
+          "en": "An act of doing something wrong or illegal."
+        }
+      ],
+      "examples": [
+        {
+          "en": "He decided to commit to his studies and improve his grades.",
+          "zh": "他决定投入学习，提升自己的成绩。"
+        },
+        {
+          "en": "The police were called to investigate the crime he committed.",
+          "zh": "警方被叫来调查他犯下的罪行。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'commit' as 'commitment' to help remember it as a promise or a decision."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=commit&type=2",
+      "chapter": "基本词汇 动词200 Unit 3"
+    },
+    {
+      "word": "conquer",
+      "pronunciation": "/ˈkɒŋ.kər/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "征服",
+          "en": "To gain control of a place or people by force."
+        },
+        {
+          "pos": "v.",
+          "zh": "克服",
+          "en": "To overcome a problem or difficulty."
+        }
+      ],
+      "examples": [
+        {
+          "en": "He managed to conquer his fear of public speaking.",
+          "zh": "他成功克服了对公众演讲的恐惧。"
+        },
+        {
+          "en": "The army aimed to conquer the enemy territory quickly.",
+          "zh": "军队的目标是迅速征服敌方领土。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'conquer' as 'con' (with) + 'quer' (to seek), meaning to seek to gain control."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=conquer&type=2",
+      "chapter": "基本词汇 动词200 Unit 4"
+    }
+  ]
+}

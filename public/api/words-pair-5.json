@@ -1,0 +1,69 @@
+{
+  "generated": "2025-10-28T10:47:44.886Z",
+  "pair": 5,
+  "count": 2,
+  "words": [
+    {
+      "word": "nurture",
+      "pronunciation": "/ˈnɜːr.tʃər/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "培养",
+          "en": "To care for and encourage the growth or development of someone or something."
+        },
+        {
+          "pos": "n.",
+          "zh": "养育",
+          "en": "The process of caring for and helping someone grow."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Parents should nurture their children's talents and interests.",
+          "zh": "父母应该培养孩子的才能和兴趣。"
+        },
+        {
+          "en": "The organization aims to nurture young artists through various programs.",
+          "zh": "该组织旨在通过各种项目培养年轻艺术家。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'nurture' as related to 'nature'; nurturing is part of how nature helps growth."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=nurture&type=2",
+      "chapter": "核心词汇 法制与犯罪 Unit 3"
+    },
+    {
+      "word": "involve",
+      "pronunciation": "/ɪnˈvɑlv/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "涉及",
+          "en": "To include something as a necessary part or result."
+        },
+        {
+          "pos": "v.",
+          "zh": "参与",
+          "en": "To take part in an activity or event."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The project will involve many different teams working together.",
+          "zh": "这个项目将涉及许多不同的团队共同合作。"
+        },
+        {
+          "en": "She decided to involve her friends in the planning process.",
+          "zh": "她决定让朋友们参与计划过程。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'involve' as 'in' + 'volve' (like revolve), meaning to include people in a situation."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=involve&type=2",
+      "chapter": "基本词汇 动词200 Unit 8"
+    }
+  ]
+}

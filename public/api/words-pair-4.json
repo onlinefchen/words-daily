@@ -1,0 +1,69 @@
+{
+  "generated": "2025-10-28T10:47:44.886Z",
+  "pair": 4,
+  "count": 2,
+  "words": [
+    {
+      "word": "forbid",
+      "pronunciation": "/fərˈbɪd/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "禁止",
+          "en": "To not allow something; to make it illegal or not permitted."
+        },
+        {
+          "pos": "v.",
+          "zh": "不准",
+          "en": "To tell someone they cannot do something."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The school forbids students from using mobile phones in class.",
+          "zh": "学校禁止学生在课堂上使用手机。"
+        },
+        {
+          "en": "His parents forbid him to go out late at night.",
+          "zh": "他的父母禁止他晚上外出。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'forbid' as 'for-bid', where you are bidding against something to prevent it from happening."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=forbid&type=2",
+      "chapter": "基本词汇 动词200 Unit 7"
+    },
+    {
+      "word": "abide by",
+      "pronunciation": "/əˈbaɪd baɪ/",
+      "meanings": [
+        {
+          "pos": "phr.",
+          "zh": "遵守",
+          "en": "To accept and follow a rule or decision."
+        },
+        {
+          "pos": "phr.",
+          "zh": "坚持",
+          "en": "To continue to keep to a commitment or agreement."
+        }
+      ],
+      "examples": [
+        {
+          "en": "All students must abide by the school rules at all times.",
+          "zh": "所有学生必须始终遵守学校规则。"
+        },
+        {
+          "en": "It is important to abide by the terms of the contract.",
+          "zh": "遵守合同条款是很重要的。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'abide by' as 'side by side' with rules, meaning you are standing with them."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=abide%20by&type=2",
+      "chapter": "基本词汇 动词200 Unit 1"
+    }
+  ]
+}

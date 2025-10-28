@@ -8,7 +8,8 @@
     "build": "vite build",
     "preview": "vite preview",
     "parse": "node scripts/parse-dict.js",
-    "generate": "node scripts/generate-with-ai.js"
+    "generate": "node scripts/generate-with-ai.js",
+    "daily": "node scripts/generate-daily-words.js"
   },
   "dependencies": {
     "vue": "^3.4.0",

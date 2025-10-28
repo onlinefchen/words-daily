@@ -1,0 +1,67 @@
+{
+  "generated": "2025-10-28T10:47:44.886Z",
+  "pair": 7,
+  "count": 2,
+  "words": [
+    {
+      "word": "social",
+      "pronunciation": "/ˈsoʊʃəl/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "社交的",
+          "en": "Related to interactions between people."
+        },
+        {
+          "pos": "n.",
+          "zh": "社交活动",
+          "en": "Activities that involve meeting and interacting with others."
+        }
+      ],
+      "examples": [
+        {
+          "en": "He enjoys attending social gatherings with his friends.",
+          "zh": "他喜欢和朋友参加社交聚会。"
+        },
+        {
+          "en": "Social media has changed how we communicate today.",
+          "zh": "社交媒体改变了我们今天的沟通方式。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'social' as 'sociable', which helps you remember it's about people and interaction."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=social&type=2",
+      "chapter": "核心词汇 工作与生活 Unit 5"
+    },
+    {
+      "word": "homesite",
+      "pronunciation": "/ˈhoʊmˌsaɪt/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "住宅用地",
+          "en": "A location where a house or building is planned to be constructed."
+        },
+        {
+          "pos": "n.",
+          "zh": "家园",
+          "en": "The place where someone lives or has lived."
+        }
+      ],
+      "examples": [
+        {
+          "en": "They chose a beautiful homesite near the lake for their new house.",
+          "zh": "他们选择了靠近湖泊的美丽住宅用地建造新房子。"
+        },
+        {
+          "en": "The family returned to their childhood homesite for a reunion.",
+          "zh": "这个家庭回到他们童年的家园举行重聚。"
+        }
+      ],
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=homesite&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
+    }
+  ]
+}

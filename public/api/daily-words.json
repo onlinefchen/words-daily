@@ -1,0 +1,757 @@
+{
+  "generated": "2025-10-28T10:47:44.886Z",
+  "date": "2025-10-28",
+  "totalWords": 20,
+  "words": [
+    {
+      "id": "w01908",
+      "word": "clearing",
+      "type": "single",
+      "chapterIndex": 8,
+      "globalIndex": 1908,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/ˈklɪrɪŋ/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "空地，清理",
+          "en": "An area where trees and plants have been removed."
+        },
+        {
+          "pos": "v.",
+          "zh": "清除，清理",
+          "en": "To remove things from a space or area."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The clearing in the forest was perfect for our picnic.",
+          "zh": "森林中的空地非常适合我们的野餐。"
+        },
+        {
+          "en": "They were clearing the area to build new houses.",
+          "zh": "他们正在清理该地区以建造新房子。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'clearing' as making a space 'clear' of clutter."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=clearing&type=2"
+    },
+    {
+      "id": "w04194",
+      "word": "interpreter",
+      "type": "single",
+      "chapterIndex": 16,
+      "globalIndex": 4194,
+      "chapter": "ch133",
+      "chapterName": "认知词汇 教育分类 双语教育",
+      "pronunciation": {
+        "us": "/ɪnˈtɜːrprɪtər/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "口译员",
+          "en": "A person who translates spoken language orally."
+        },
+        {
+          "pos": "n.",
+          "zh": "解释者",
+          "en": "Someone who explains or clarifies information."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The interpreter helped us understand the foreign speaker's message.",
+          "zh": "口译员帮助我们理解外国演讲者的信息。"
+        },
+        {
+          "en": "Hiring a skilled interpreter can improve communication during meetings.",
+          "zh": "雇佣一位熟练的口译员可以改善会议中的沟通。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'interpret' as understanding something in a different language, which relates to the role of an interpreter."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=interpreter&type=2"
+    },
+    {
+      "id": "w02463",
+      "word": "the Richter scale",
+      "type": "phrase",
+      "chapterIndex": 16,
+      "globalIndex": 2463,
+      "chapter": "ch102",
+      "chapterName": "认知词汇 自然分类 地震",
+      "pronunciation": {
+        "us": "/ˈrɪk.tər skeɪl/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "里氏震级",
+          "en": "A scale used to measure the strength of earthquakes."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The earthquake registered 6.5 on the Richter scale last night.",
+          "zh": "昨晚的地震在里氏震级上记录为6.5级。"
+        },
+        {
+          "en": "Scientists use the Richter scale to assess earthquake damage.",
+          "zh": "科学家使用里氏震级来评估地震造成的损害。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=the%20Richter%20scale&type=2"
+    },
+    {
+      "id": "w01154",
+      "word": "lenient",
+      "type": "single",
+      "chapterIndex": 14,
+      "globalIndex": 1154,
+      "chapter": "ch058",
+      "chapterName": "核心词汇 伦理与道德 Unit 3",
+      "pronunciation": {
+        "us": "/ˈliːniənt/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "宽容的",
+          "en": "Not strict or harsh; allowing more freedom."
+        },
+        {
+          "pos": "adj.",
+          "zh": "仁慈的",
+          "en": "Showing kindness or mercy; forgiving."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The teacher was lenient with students who missed the deadline.",
+          "zh": "老师对错过截止日期的学生很宽容。"
+        },
+        {
+          "en": "Her lenient attitude helped the children feel more comfortable.",
+          "zh": "她的宽容态度让孩子们感到更自在。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'lenient' as someone 'leaning in' to listen, showing care and understanding."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=lenient&type=2"
+    },
+    {
+      "id": "w00310",
+      "word": "obligation",
+      "type": "single",
+      "chapterIndex": 10,
+      "globalIndex": 310,
+      "chapter": "ch016",
+      "chapterName": "基本词汇 名词200 Unit 6",
+      "pronunciation": {
+        "us": "/ˌɒblɪˈɡeɪʃən/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "义务",
+          "en": "A duty or responsibility that someone is required to do."
+        },
+        {
+          "pos": "n.",
+          "zh": "承诺",
+          "en": "A commitment or promise to perform a certain action."
+        }
+      ],
+      "examples": [
+        {
+          "en": "He felt a strong obligation to help his elderly neighbors.",
+          "zh": "他感到有强烈的义务去帮助他的年长邻居。"
+        },
+        {
+          "en": "Meeting deadlines is an important obligation for all students.",
+          "zh": "按时完成任务是所有学生的重要责任。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'obligation' comes from the Latin 'obligatio', meaning 'binding' or 'to bind'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=obligation&type=2"
+    },
+    {
+      "id": "w00001",
+      "word": "abandon",
+      "type": "single",
+      "chapterIndex": 1,
+      "globalIndex": 1,
+      "chapter": "ch001",
+      "chapterName": "基本词汇 动词200 Unit 1",
+      "pronunciation": {
+        "us": "/əˈbændən/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "放弃",
+          "en": "To leave something behind or stop caring about it."
+        },
+        {
+          "pos": "n.",
+          "zh": "放弃",
+          "en": "The act of giving up something or someone."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many animals abandon their young when they are in danger.",
+          "zh": "许多动物在危险时会放弃它们的幼崽。"
+        },
+        {
+          "en": "She decided to abandon her plans for a vacation.",
+          "zh": "她决定放弃度假的计划。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'abandon ship' as a way to remember that it means to leave something behind."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=abandon&type=2"
+    },
+    {
+      "id": "w00132",
+      "word": "forbid",
+      "type": "single",
+      "chapterIndex": 12,
+      "globalIndex": 132,
+      "chapter": "ch007",
+      "chapterName": "基本词汇 动词200 Unit 7",
+      "pronunciation": {
+        "us": "/fərˈbɪd/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "禁止",
+          "en": "To not allow something; to make it illegal or not permitted."
+        },
+        {
+          "pos": "v.",
+          "zh": "不准",
+          "en": "To tell someone they cannot do something."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The school forbids students from using mobile phones in class.",
+          "zh": "学校禁止学生在课堂上使用手机。"
+        },
+        {
+          "en": "His parents forbid him to go out late at night.",
+          "zh": "他的父母禁止他晚上外出。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'forbid' as 'for-bid', where you are bidding against something to prevent it from happening."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=forbid&type=2"
+    },
+    {
+      "id": "w00002",
+      "word": "abide by",
+      "type": "phrase",
+      "chapterIndex": 2,
+      "globalIndex": 2,
+      "chapter": "ch001",
+      "chapterName": "基本词汇 动词200 Unit 1",
+      "pronunciation": {
+        "us": "/əˈbaɪd baɪ/"
+      },
+      "meanings": [
+        {
+          "pos": "phr.",
+          "zh": "遵守",
+          "en": "To accept and follow a rule or decision."
+        },
+        {
+          "pos": "phr.",
+          "zh": "坚持",
+          "en": "To continue to keep to a commitment or agreement."
+        }
+      ],
+      "examples": [
+        {
+          "en": "All students must abide by the school rules at all times.",
+          "zh": "所有学生必须始终遵守学校规则。"
+        },
+        {
+          "en": "It is important to abide by the terms of the contract.",
+          "zh": "遵守合同条款是很重要的。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'abide by' as 'side by side' with rules, meaning you are standing with them."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=abide%20by&type=2"
+    },
+    {
+      "id": "w01751",
+      "word": "nurture",
+      "type": "single",
+      "chapterIndex": 11,
+      "globalIndex": 1751,
+      "chapter": "ch088",
+      "chapterName": "核心词汇 法制与犯罪 Unit 3",
+      "pronunciation": {
+        "us": "/ˈnɜːr.tʃər/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "培养",
+          "en": "To care for and encourage the growth or development of someone or something."
+        },
+        {
+          "pos": "n.",
+          "zh": "养育",
+          "en": "The process of caring for and helping someone grow."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Parents should nurture their children's talents and interests.",
+          "zh": "父母应该培养孩子的才能和兴趣。"
+        },
+        {
+          "en": "The organization aims to nurture young artists through various programs.",
+          "zh": "该组织旨在通过各种项目培养年轻艺术家。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'nurture' as related to 'nature'; nurturing is part of how nature helps growth."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=nurture&type=2"
+    },
+    {
+      "id": "w00148",
+      "word": "involve",
+      "type": "single",
+      "chapterIndex": 8,
+      "globalIndex": 148,
+      "chapter": "ch008",
+      "chapterName": "基本词汇 动词200 Unit 8",
+      "pronunciation": {
+        "us": "/ɪnˈvɑlv/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "涉及",
+          "en": "To include something as a necessary part or result."
+        },
+        {
+          "pos": "v.",
+          "zh": "参与",
+          "en": "To take part in an activity or event."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The project will involve many different teams working together.",
+          "zh": "这个项目将涉及许多不同的团队共同合作。"
+        },
+        {
+          "en": "She decided to involve her friends in the planning process.",
+          "zh": "她决定让朋友们参与计划过程。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'involve' as 'in' + 'volve' (like revolve), meaning to include people in a situation."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=involve&type=2"
+    },
+    {
+      "id": "w02263",
+      "word": "copperhead",
+      "type": "single",
+      "chapterIndex": 363,
+      "globalIndex": 2263,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/ˈkɑːpərhɛd/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "铜头蛇",
+          "en": "A type of venomous snake found in North America."
+        },
+        {
+          "pos": "n.",
+          "zh": "一种危险的毒蛇",
+          "en": "A term used to describe a dangerous person or situation."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The copperhead snake is known for its distinctive coloration.",
+          "zh": "铜头蛇以其独特的颜色而闻名。"
+        },
+        {
+          "en": "Be careful; that argument could lead to a copperhead situation.",
+          "zh": "小心；那个争论可能会导致危险的局面。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'copper' for the snake's color, like a penny."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=copperhead&type=2"
+    },
+    {
+      "id": "w02221",
+      "word": "geometry",
+      "type": "single",
+      "chapterIndex": 321,
+      "globalIndex": 2221,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/dʒiˈɑː.mə.tri/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "几何",
+          "en": "The branch of mathematics that studies shapes, sizes, and properties of space."
+        },
+        {
+          "pos": "n.",
+          "zh": "几何图形",
+          "en": "A specific shape or figure created by points, lines, and surfaces."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Geometry is important for understanding the properties of different shapes.",
+          "zh": "几何学对于理解不同形状的属性很重要。"
+        },
+        {
+          "en": "In school, we learn about geometry and its applications in real life.",
+          "zh": "在学校，我们学习几何及其在现实生活中的应用。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'geometry' comes from the Greek 'geo' meaning 'earth' and 'metron' meaning 'measure'.",
+        "association": "Think of 'geometry' as the study of measuring the earth and its shapes."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=geometry&type=2"
+    },
+    {
+      "id": "w01684",
+      "word": "social",
+      "type": "single",
+      "chapterIndex": 4,
+      "globalIndex": 1684,
+      "chapter": "ch085",
+      "chapterName": "核心词汇 工作与生活 Unit 5",
+      "pronunciation": {
+        "us": "/ˈsoʊʃəl/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "社交的",
+          "en": "Related to interactions between people."
+        },
+        {
+          "pos": "n.",
+          "zh": "社交活动",
+          "en": "Activities that involve meeting and interacting with others."
+        }
+      ],
+      "examples": [
+        {
+          "en": "He enjoys attending social gatherings with his friends.",
+          "zh": "他喜欢和朋友参加社交聚会。"
+        },
+        {
+          "en": "Social media has changed how we communicate today.",
+          "zh": "社交媒体改变了我们今天的沟通方式。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'social' as 'sociable', which helps you remember it's about people and interaction."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=social&type=2"
+    },
+    {
+      "id": "w02224",
+      "word": "homesite",
+      "type": "single",
+      "chapterIndex": 324,
+      "globalIndex": 2224,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/ˈhoʊmˌsaɪt/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "住宅用地",
+          "en": "A location where a house or building is planned to be constructed."
+        },
+        {
+          "pos": "n.",
+          "zh": "家园",
+          "en": "The place where someone lives or has lived."
+        }
+      ],
+      "examples": [
+        {
+          "en": "They chose a beautiful homesite near the lake for their new house.",
+          "zh": "他们选择了靠近湖泊的美丽住宅用地建造新房子。"
+        },
+        {
+          "en": "The family returned to their childhood homesite for a reunion.",
+          "zh": "这个家庭回到他们童年的家园举行重聚。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=homesite&type=2"
+    },
+    {
+      "id": "w00081",
+      "word": "decline",
+      "type": "single",
+      "chapterIndex": 1,
+      "globalIndex": 81,
+      "chapter": "ch005",
+      "chapterName": "基本词汇 动词200 Unit 5",
+      "pronunciation": {
+        "us": "/dɪˈklaɪn/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "减少; 下降",
+          "en": "To become less or lower in amount, quality, or strength."
+        },
+        {
+          "pos": "n.",
+          "zh": "下降; 衰退",
+          "en": "A decrease or reduction in something."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The number of students in the class has begun to decline.",
+          "zh": "班上的学生人数开始减少。"
+        },
+        {
+          "en": "There has been a decline in the quality of service recently.",
+          "zh": "最近服务质量有所下降。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'decline' as going down a hill, representing a decrease."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=decline&type=2"
+    },
+    {
+      "id": "w00133",
+      "word": "force",
+      "type": "single",
+      "chapterIndex": 13,
+      "globalIndex": 133,
+      "chapter": "ch007",
+      "chapterName": "基本词汇 动词200 Unit 7",
+      "pronunciation": {
+        "us": "/fɔrs/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "强迫",
+          "en": "To make someone do something they do not want to do."
+        },
+        {
+          "pos": "n.",
+          "zh": "力量",
+          "en": "Strength or energy as an attribute of physical action or movement."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The teacher had to force the students to complete their homework.",
+          "zh": "老师不得不强迫学生完成作业。"
+        },
+        {
+          "en": "The force of the wind knocked down several trees in the storm.",
+          "zh": "风的力量在风暴中吹倒了几棵树。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'force' comes from the Latin 'fortis', meaning strong or powerful."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=force&type=2"
+    },
+    {
+      "id": "w02212",
+      "word": "comb",
+      "type": "single",
+      "chapterIndex": 312,
+      "globalIndex": 2212,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/koʊm/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "梳理",
+          "en": "To arrange or untangle hair using a comb."
+        },
+        {
+          "pos": "n.",
+          "zh": "梳子",
+          "en": "A flat tool with teeth used to style or untangle hair."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She used a comb to straighten her curly hair before the party.",
+          "zh": "她在聚会前用梳子理顺了她的卷发。"
+        },
+        {
+          "en": "I always carry a small comb in my bag for quick touch-ups.",
+          "zh": "我总是在包里带一把小梳子，以便快速整理。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'comb' as a tool that 'comes' to the rescue for messy hair."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=comb&type=2"
+    },
+    {
+      "id": "w02291",
+      "word": "snake charmer",
+      "type": "phrase",
+      "chapterIndex": 391,
+      "globalIndex": 2291,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/sneɪk ˈtʃɑːrmər/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "蛇魅者",
+          "en": "A person who plays music to charm snakes, often seen in performances."
+        },
+        {
+          "pos": "n.",
+          "zh": "操纵人",
+          "en": "Someone who has a captivating or controlling influence over others."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The snake charmer mesmerized the audience with his enchanting music.",
+          "zh": "蛇魅者用他迷人的音乐让观众陶醉。"
+        },
+        {
+          "en": "In the market, a snake charmer attracted many curious onlookers.",
+          "zh": "在市场上，蛇魅者吸引了许多好奇的旁观者。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a snake charmer as someone who 'charms' both snakes and people with their skills."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=snake%20charmer&type=2"
+    },
+    {
+      "id": "w00052",
+      "word": "commit",
+      "type": "single",
+      "chapterIndex": 12,
+      "globalIndex": 52,
+      "chapter": "ch003",
+      "chapterName": "基本词汇 动词200 Unit 3",
+      "pronunciation": {
+        "us": "/kəˈmɪt/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "承诺，保证",
+          "en": "To make a firm decision to do something or to promise to do something."
+        },
+        {
+          "pos": "n.",
+          "zh": "犯罪，犯错",
+          "en": "An act of doing something wrong or illegal."
+        }
+      ],
+      "examples": [
+        {
+          "en": "He decided to commit to his studies and improve his grades.",
+          "zh": "他决定投入学习，提升自己的成绩。"
+        },
+        {
+          "en": "The police were called to investigate the crime he committed.",
+          "zh": "警方被叫来调查他犯下的罪行。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'commit' as 'commitment' to help remember it as a promise or a decision."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=commit&type=2"
+    },
+    {
+      "id": "w00066",
+      "word": "conquer",
+      "type": "single",
+      "chapterIndex": 6,
+      "globalIndex": 66,
+      "chapter": "ch004",
+      "chapterName": "基本词汇 动词200 Unit 4",
+      "pronunciation": {
+        "us": "/ˈkɒŋ.kər/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "征服",
+          "en": "To gain control of a place or people by force."
+        },
+        {
+          "pos": "v.",
+          "zh": "克服",
+          "en": "To overcome a problem or difficulty."
+        }
+      ],
+      "examples": [
+        {
+          "en": "He managed to conquer his fear of public speaking.",
+          "zh": "他成功克服了对公众演讲的恐惧。"
+        },
+        {
+          "en": "The army aimed to conquer the enemy territory quickly.",
+          "zh": "军队的目标是迅速征服敌方领土。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'conquer' as 'con' (with) + 'quer' (to seek), meaning to seek to gain control."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=conquer&type=2"
+    }
+  ]
+}

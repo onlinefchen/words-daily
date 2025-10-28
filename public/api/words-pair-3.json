@@ -1,0 +1,69 @@
+{
+  "generated": "2025-10-28T10:47:44.886Z",
+  "pair": 3,
+  "count": 2,
+  "words": [
+    {
+      "word": "obligation",
+      "pronunciation": "/ˌɒblɪˈɡeɪʃən/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "义务",
+          "en": "A duty or responsibility that someone is required to do."
+        },
+        {
+          "pos": "n.",
+          "zh": "承诺",
+          "en": "A commitment or promise to perform a certain action."
+        }
+      ],
+      "examples": [
+        {
+          "en": "He felt a strong obligation to help his elderly neighbors.",
+          "zh": "他感到有强烈的义务去帮助他的年长邻居。"
+        },
+        {
+          "en": "Meeting deadlines is an important obligation for all students.",
+          "zh": "按时完成任务是所有学生的重要责任。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'obligation' comes from the Latin 'obligatio', meaning 'binding' or 'to bind'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=obligation&type=2",
+      "chapter": "基本词汇 名词200 Unit 6"
+    },
+    {
+      "word": "abandon",
+      "pronunciation": "/əˈbændən/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "放弃",
+          "en": "To leave something behind or stop caring about it."
+        },
+        {
+          "pos": "n.",
+          "zh": "放弃",
+          "en": "The act of giving up something or someone."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many animals abandon their young when they are in danger.",
+          "zh": "许多动物在危险时会放弃它们的幼崽。"
+        },
+        {
+          "en": "She decided to abandon her plans for a vacation.",
+          "zh": "她决定放弃度假的计划。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'abandon ship' as a way to remember that it means to leave something behind."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=abandon&type=2",
+      "chapter": "基本词汇 动词200 Unit 1"
+    }
+  ]
+}
