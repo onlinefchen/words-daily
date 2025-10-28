@@ -1,70 +1,64 @@
 {
-  "generated": "2025-10-28T10:47:44.886Z",
+  "generated": "2025-10-28T22:08:10.351Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "copperhead",
-      "pronunciation": "/ˈkɑːpərhɛd/",
+      "word": "guidance",
+      "pronunciation": "/ˈɡaɪdəns/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "铜头蛇",
-          "en": "A type of venomous snake found in North America."
+          "zh": "指导",
+          "en": "Advice or information aimed at helping someone."
         },
         {
           "pos": "n.",
-          "zh": "一种危险的毒蛇",
-          "en": "A term used to describe a dangerous person or situation."
+          "zh": "引导",
+          "en": "The act of leading or directing someone in a certain direction."
         }
       ],
       "examples": [
         {
-          "en": "The copperhead snake is known for its distinctive coloration.",
-          "zh": "铜头蛇以其独特的颜色而闻名。"
+          "en": "She sought guidance on how to improve her writing skills.",
+          "zh": "她寻求关于如何提高写作技巧的指导。"
         },
         {
-          "en": "Be careful; that argument could lead to a copperhead situation.",
-          "zh": "小心；那个争论可能会导致危险的局面。"
+          "en": "The teacher provided guidance to the students during their project.",
+          "zh": "老师在学生的项目期间提供了指导。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'copper' for the snake's color, like a penny."
+        "association": "Think of 'guide' as someone who leads you; 'guidance' is the support they provide."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=copperhead&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=guidance&type=2",
+      "chapter": "基本词汇 名词200 Unit 4"
     },
     {
-      "word": "geometry",
-      "pronunciation": "/dʒiˈɑː.mə.tri/",
+      "word": "astonishing",
+      "pronunciation": "/əˈstɒn.ɪ.ʃɪŋ/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "几何",
-          "en": "The branch of mathematics that studies shapes, sizes, and properties of space."
-        },
-        {
-          "pos": "n.",
-          "zh": "几何图形",
-          "en": "A specific shape or figure created by points, lines, and surfaces."
+          "pos": "adj.",
+          "zh": "令人惊讶的",
+          "en": "Something that is very surprising or impressive."
         }
       ],
       "examples": [
         {
-          "en": "Geometry is important for understanding the properties of different shapes.",
-          "zh": "几何学对于理解不同形状的属性很重要。"
+          "en": "The magician's tricks were absolutely astonishing and left everyone speechless.",
+          "zh": "魔术师的把戏令人惊讶，让每个人都说不出话来。"
         },
         {
-          "en": "In school, we learn about geometry and its applications in real life.",
-          "zh": "在学校，我们学习几何及其在现实生活中的应用。"
+          "en": "It is astonishing how much progress she has made in such a short time.",
+          "zh": "她在这么短的时间内取得的进步令人惊讶。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'geometry' comes from the Greek 'geo' meaning 'earth' and 'metron' meaning 'measure'.",
-        "association": "Think of 'geometry' as the study of measuring the earth and its shapes."
+        "association": "Think of 'astonishing' as 'a stone in the shin'—an unexpected shock that surprises you."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=geometry&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=astonishing&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 2"
     }
   ]
 }

@@ -1,69 +1,67 @@
 {
-  "generated": "2025-10-28T10:47:44.886Z",
+  "generated": "2025-10-28T22:08:10.350Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "obligation",
-      "pronunciation": "/ˌɒblɪˈɡeɪʃən/",
+      "word": "baneful",
+      "pronunciation": "/ˈbeɪn.fəl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "义务",
-          "en": "A duty or responsibility that someone is required to do."
+          "pos": "adj.",
+          "zh": "有害的",
+          "en": "Causing harm or destruction; very harmful."
         },
         {
-          "pos": "n.",
-          "zh": "承诺",
-          "en": "A commitment or promise to perform a certain action."
+          "pos": "adj.",
+          "zh": "致命的",
+          "en": "Having a negative effect that can lead to serious consequences."
         }
       ],
       "examples": [
         {
-          "en": "He felt a strong obligation to help his elderly neighbors.",
-          "zh": "他感到有强烈的义务去帮助他的年长邻居。"
+          "en": "The baneful effects of pollution are evident in the city's health statistics.",
+          "zh": "污染的有害影响在城市的健康统计中显而易见。"
         },
         {
-          "en": "Meeting deadlines is an important obligation for all students.",
-          "zh": "按时完成任务是所有学生的重要责任。"
+          "en": "His baneful influence led many young people astray.",
+          "zh": "他有害的影响使许多年轻人误入歧途。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'obligation' comes from the Latin 'obligatio', meaning 'binding' or 'to bind'."
+        "association": "Think of 'bane' as a source of harm, like a bad 'bane' to your health."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=obligation&type=2",
-      "chapter": "基本词汇 名词200 Unit 6"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=baneful&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 3"
     },
     {
-      "word": "abandon",
-      "pronunciation": "/əˈbændən/",
+      "word": "disposal",
+      "pronunciation": "/dɪsˈpoʊ.zəl/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "放弃",
-          "en": "To leave something behind or stop caring about it."
+          "pos": "n.",
+          "zh": "处理，处置",
+          "en": "The act of getting rid of something, usually waste."
         },
         {
           "pos": "n.",
-          "zh": "放弃",
-          "en": "The act of giving up something or someone."
+          "zh": "支配，安排",
+          "en": "The power to make decisions about something."
         }
       ],
       "examples": [
         {
-          "en": "Many animals abandon their young when they are in danger.",
-          "zh": "许多动物在危险时会放弃它们的幼崽。"
+          "en": "The city has strict rules for waste disposal to protect the environment.",
+          "zh": "这个城市对废物处理有严格的规定，以保护环境。"
         },
         {
-          "en": "She decided to abandon her plans for a vacation.",
-          "zh": "她决定放弃度假的计划。"
+          "en": "She had the disposal of the funds for the community project.",
+          "zh": "她负责管理社区项目的资金。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'abandon ship' as a way to remember that it means to leave something behind."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=abandon&type=2",
-      "chapter": "基本词汇 动词200 Unit 1"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disposal&type=2",
+      "chapter": "基本词汇 名词200 Unit 3"
     }
   ]
 }

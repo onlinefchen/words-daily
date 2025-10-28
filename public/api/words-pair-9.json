@@ -1,69 +1,67 @@
 {
-  "generated": "2025-10-28T10:47:44.886Z",
+  "generated": "2025-10-28T22:08:10.351Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "comb",
-      "pronunciation": "/koʊm/",
+      "word": "characteristic",
+      "pronunciation": "/ˌkɛrɪktəˈrɪstɪk/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "特征",
+          "en": "A special quality or feature of someone or something."
+        },
+        {
+          "pos": "adj.",
+          "zh": "特有的",
+          "en": "Describing something that is typical or unique to a person or thing."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Honesty is a characteristic that many people admire in leaders.",
+          "zh": "诚实是许多人欣赏领导者的特征。"
+        },
+        {
+          "en": "The characteristic colors of autumn make the season beautiful.",
+          "zh": "秋天特有的颜色使这个季节变得美丽。"
+        }
+      ],
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=characteristic&type=2",
+      "chapter": "核心词汇 文化与传统 Unit 1"
+    },
+    {
+      "word": "reduce",
+      "pronunciation": "/rɪˈduːs/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "梳理",
-          "en": "To arrange or untangle hair using a comb."
+          "zh": "减少",
+          "en": "To make something smaller in size, amount, or degree."
         },
         {
-          "pos": "n.",
-          "zh": "梳子",
-          "en": "A flat tool with teeth used to style or untangle hair."
+          "pos": "v.",
+          "zh": "降低",
+          "en": "To lessen the extent or intensity of something."
         }
       ],
       "examples": [
         {
-          "en": "She used a comb to straighten her curly hair before the party.",
-          "zh": "她在聚会前用梳子理顺了她的卷发。"
+          "en": "The government aims to reduce pollution in major cities.",
+          "zh": "政府旨在减少主要城市的污染。"
         },
         {
-          "en": "I always carry a small comb in my bag for quick touch-ups.",
-          "zh": "我总是在包里带一把小梳子，以便快速整理。"
+          "en": "She found ways to reduce her expenses each month.",
+          "zh": "她找到了每月减少开支的方法。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'comb' as a tool that 'comes' to the rescue for messy hair."
+        "association": "Think of 'reduce' as 're-duce', where 'duce' sounds like 'duce' in 'introduce', meaning to bring down or lower something."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=comb&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
-    },
-    {
-      "word": "snake charmer",
-      "pronunciation": "/sneɪk ˈtʃɑːrmər/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "蛇魅者",
-          "en": "A person who plays music to charm snakes, often seen in performances."
-        },
-        {
-          "pos": "n.",
-          "zh": "操纵人",
-          "en": "Someone who has a captivating or controlling influence over others."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The snake charmer mesmerized the audience with his enchanting music.",
-          "zh": "蛇魅者用他迷人的音乐让观众陶醉。"
-        },
-        {
-          "en": "In the market, a snake charmer attracted many curious onlookers.",
-          "zh": "在市场上，蛇魅者吸引了许多好奇的旁观者。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of a snake charmer as someone who 'charms' both snakes and people with their skills."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=snake%20charmer&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=reduce&type=2",
+      "chapter": "基本词汇 动词200 Unit 10"
     }
   ]
 }

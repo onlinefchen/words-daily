@@ -1,69 +1,69 @@
 {
-  "generated": "2025-10-28T10:47:44.886Z",
+  "generated": "2025-10-28T22:08:10.351Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "decline",
-      "pronunciation": "/dɪˈklaɪn/",
+      "word": "homogeneous",
+      "pronunciation": "/həˈmɒdʒənəs/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "减少; 下降",
-          "en": "To become less or lower in amount, quality, or strength."
+          "pos": "adj.",
+          "zh": "同质的",
+          "en": "Consisting of parts or elements that are all the same."
         },
         {
-          "pos": "n.",
-          "zh": "下降; 衰退",
-          "en": "A decrease or reduction in something."
+          "pos": "adj.",
+          "zh": "均匀的",
+          "en": "Having a uniform composition or character."
         }
       ],
       "examples": [
         {
-          "en": "The number of students in the class has begun to decline.",
-          "zh": "班上的学生人数开始减少。"
+          "en": "The students came from a homogeneous background, sharing similar cultural values.",
+          "zh": "学生们来自同质的背景，分享相似的文化价值观。"
         },
         {
-          "en": "There has been a decline in the quality of service recently.",
-          "zh": "最近服务质量有所下降。"
+          "en": "The researchers studied a homogeneous group of participants for accurate results.",
+          "zh": "研究人员对一组同质的参与者进行了研究，以获得准确的结果。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'decline' as going down a hill, representing a decrease."
+        "etymology": "The word 'homogeneous' comes from the Greek 'homogenes', meaning 'of the same kind'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=decline&type=2",
-      "chapter": "基本词汇 动词200 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=homogeneous&type=2",
+      "chapter": "核心词汇 文化与传统 Unit 3"
     },
     {
-      "word": "force",
-      "pronunciation": "/fɔrs/",
+      "word": "beneficial",
+      "pronunciation": "/ˌbɛnɪˈfɪʃəl/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "强迫",
-          "en": "To make someone do something they do not want to do."
+          "pos": "adj.",
+          "zh": "有益的",
+          "en": "Having a positive effect or helping to improve something."
         },
         {
-          "pos": "n.",
-          "zh": "力量",
-          "en": "Strength or energy as an attribute of physical action or movement."
+          "pos": "adj.",
+          "zh": "有利的",
+          "en": "Providing an advantage or benefit."
         }
       ],
       "examples": [
         {
-          "en": "The teacher had to force the students to complete their homework.",
-          "zh": "老师不得不强迫学生完成作业。"
+          "en": "Regular exercise is beneficial for both physical and mental health.",
+          "zh": "定期锻炼对身体和心理健康都是有益的。"
         },
         {
-          "en": "The force of the wind knocked down several trees in the storm.",
-          "zh": "风的力量在风暴中吹倒了几棵树。"
+          "en": "Eating fruits and vegetables is beneficial for maintaining a balanced diet.",
+          "zh": "吃水果和蔬菜有助于保持均衡饮食。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'force' comes from the Latin 'fortis', meaning strong or powerful."
+        "association": "Think of 'beneficial' as 'benefit' + 'icial'. Benefits are always good for you."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=force&type=2",
-      "chapter": "基本词汇 动词200 Unit 7"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=beneficial&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 3"
     }
   ]
 }

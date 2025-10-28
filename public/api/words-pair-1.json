@@ -1,69 +1,69 @@
 {
-  "generated": "2025-10-28T10:47:44.886Z",
+  "generated": "2025-10-28T22:08:10.350Z",
   "pair": 1,
   "count": 2,
   "words": [
     {
-      "word": "clearing",
-      "pronunciation": "/ˈklɪrɪŋ/",
+      "word": "immature",
+      "pronunciation": "/ˌɪməˈtʃʊr/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "空地，清理",
-          "en": "An area where trees and plants have been removed."
+          "pos": "adj.",
+          "zh": "不成熟的",
+          "en": "Not fully developed; behaving like a child."
         },
         {
-          "pos": "v.",
-          "zh": "清除，清理",
-          "en": "To remove things from a space or area."
+          "pos": "adj.",
+          "zh": "幼稚的",
+          "en": "Lacking in adult qualities or wisdom."
         }
       ],
       "examples": [
         {
-          "en": "The clearing in the forest was perfect for our picnic.",
-          "zh": "森林中的空地非常适合我们的野餐。"
+          "en": "His immature behavior often annoys his friends.",
+          "zh": "他幼稚的行为常常让朋友感到烦恼。"
         },
         {
-          "en": "They were clearing the area to build new houses.",
-          "zh": "他们正在清理该地区以建造新房子。"
+          "en": "She made an immature decision that affected everyone.",
+          "zh": "她做出了一个影响所有人的幼稚决定。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'clearing' as making a space 'clear' of clutter."
+        "association": "Think of 'immature' as 'not mature', like a fruit that isn't ripe."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=clearing&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=immature&type=2",
+      "chapter": "核心词汇 法制与犯罪 Unit 2"
     },
     {
-      "word": "interpreter",
-      "pronunciation": "/ɪnˈtɜːrprɪtər/",
+      "word": "cross-contamination",
+      "pronunciation": "/ˈkrɔs ˌkɒntæmɪˈneɪʃən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "口译员",
-          "en": "A person who translates spoken language orally."
+          "zh": "交叉污染",
+          "en": "The transfer of harmful substances from one food or surface to another."
         },
         {
           "pos": "n.",
-          "zh": "解释者",
-          "en": "Someone who explains or clarifies information."
+          "zh": "交叉感染",
+          "en": "The unintended spread of bacteria or viruses between different areas."
         }
       ],
       "examples": [
         {
-          "en": "The interpreter helped us understand the foreign speaker's message.",
-          "zh": "口译员帮助我们理解外国演讲者的信息。"
+          "en": "To avoid cross-contamination, keep raw meat separate from vegetables.",
+          "zh": "为了避免交叉污染，生肉与蔬菜要分开存放。"
         },
         {
-          "en": "Hiring a skilled interpreter can improve communication during meetings.",
-          "zh": "雇佣一位熟练的口译员可以改善会议中的沟通。"
+          "en": "Proper hygiene is essential to prevent cross-contamination in kitchens.",
+          "zh": "良好的卫生习惯对于防止厨房中的交叉污染至关重要。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'interpret' as understanding something in a different language, which relates to the role of an interpreter."
+        "association": "Think of 'cross' as crossing paths where germs might travel between foods."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=interpreter&type=2",
-      "chapter": "认知词汇 教育分类 双语教育"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cross-contamination&type=2",
+      "chapter": "认知词汇 环境分类 绿色农业"
     }
   ]
 }

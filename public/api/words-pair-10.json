@@ -1,69 +1,70 @@
 {
-  "generated": "2025-10-28T10:47:44.886Z",
+  "generated": "2025-10-28T22:08:10.351Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "commit",
-      "pronunciation": "/kəˈmɪt/",
+      "word": "abolishment",
+      "pronunciation": "/əˈbɑː.lɪʃ.mənt/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "承诺，保证",
-          "en": "To make a firm decision to do something or to promise to do something."
+          "pos": "n.",
+          "zh": "废除",
+          "en": "The act of officially ending or abolishing something."
         },
         {
           "pos": "n.",
-          "zh": "犯罪，犯错",
-          "en": "An act of doing something wrong or illegal."
+          "zh": "取消",
+          "en": "The state of being removed or canceled, especially in law or policy."
         }
       ],
       "examples": [
         {
-          "en": "He decided to commit to his studies and improve his grades.",
-          "zh": "他决定投入学习，提升自己的成绩。"
+          "en": "The abolishment of slavery was a significant step towards human rights.",
+          "zh": "废除奴隶制是朝着人权迈出的重要一步。"
         },
         {
-          "en": "The police were called to investigate the crime he committed.",
-          "zh": "警方被叫来调查他犯下的罪行。"
+          "en": "Many activists campaigned for the abolishment of unfair laws.",
+          "zh": "许多活动家为废除不公平的法律而奔走呼吁。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'commit' as 'commitment' to help remember it as a promise or a decision."
+        "etymology": "The word 'abolishment' comes from the Latin 'abolere', meaning to destroy or put an end to.",
+        "association": "Think of 'abolishment' as 'abandoning' something unwanted."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=commit&type=2",
-      "chapter": "基本词汇 动词200 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=abolishment&type=2",
+      "chapter": "基本词汇 名词200 Unit 1"
     },
     {
-      "word": "conquer",
-      "pronunciation": "/ˈkɒŋ.kər/",
+      "word": "emulate",
+      "pronunciation": "/ˈɛm.jʊ.leɪt/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "征服",
-          "en": "To gain control of a place or people by force."
+          "zh": "模仿",
+          "en": "To try to be like someone or something else, especially to be successful."
         },
         {
           "pos": "v.",
-          "zh": "克服",
-          "en": "To overcome a problem or difficulty."
+          "zh": "竞争",
+          "en": "To strive to equal or match another in quality or achievement."
         }
       ],
       "examples": [
         {
-          "en": "He managed to conquer his fear of public speaking.",
-          "zh": "他成功克服了对公众演讲的恐惧。"
+          "en": "Many young artists emulate the styles of famous painters.",
+          "zh": "许多年轻艺术家模仿著名画家的风格。"
         },
         {
-          "en": "The army aimed to conquer the enemy territory quickly.",
-          "zh": "军队的目标是迅速征服敌方领土。"
+          "en": "He hopes to emulate his father's success in business.",
+          "zh": "他希望能模仿父亲在商业上的成功。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'conquer' as 'con' (with) + 'quer' (to seek), meaning to seek to gain control."
+        "association": "Think of 'emulate' as 'imitate' but with a goal to succeed, like competing with a role model."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=conquer&type=2",
-      "chapter": "基本词汇 动词200 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=emulate&type=2",
+      "chapter": "核心词汇 文化与传统 Unit 2"
     }
   ]
 }
