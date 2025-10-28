@@ -75,36 +75,55 @@ async function generateWordDetails(word) {
   }
 }
 
-// 批量生成
+// 批量并发生成（优化版）
 async function generateBatch(words, startIndex = 0) {
   const results = [];
   const failed = [];
+  const BATCH_SIZE = 50; // 每批并发处理 50 个
 
-  for (let i = startIndex; i < words.length; i++) {
-    const word = words[i];
-    console.log(`   [${i + 1}/${words.length}] 正在生成: ${word.word}`);
+  for (let i = startIndex; i < words.length; i += BATCH_SIZE) {
+    const batchEnd = Math.min(i + BATCH_SIZE, words.length);
+    const batch = words.slice(i, batchEnd);
 
-    const details = await generateWordDetails(word.word);
+    console.log(`\n   📦 批次 ${Math.floor(i / BATCH_SIZE) + 1}: 处理 ${i + 1}-${batchEnd} (共 ${batch.length} 个)`);
 
-    if (details) {
-      results.push({
-        ...word,
-        ...details
-      });
-    } else {
-      failed.push(word);
-      // 失败了也继续，不中断
-    }
+    // 并发处理这一批
+    const batchPromises = batch.map(async (word, idx) => {
+      const globalIdx = i + idx;
+      console.log(`   [${globalIdx + 1}/${words.length}] 正在生成: ${word.word}`);
 
-    // 避免频率限制，延迟 1 秒
-    if (i < words.length - 1) {
-      await new Promise(resolve => setTimeout(resolve, 1000));
-    }
+      try {
+        const details = await generateWordDetails(word.word);
+        if (details) {
+          return { success: true, word: { ...word, ...details } };
+        } else {
+          return { success: false, word };
+        }
+      } catch (error) {
+        console.error(`   ❌ 批次错误 "${word.word}":`, error.message);
+        return { success: false, word };
+      }
+    });
 
-    // 每 50 个保存一次
-    if ((i + 1) % 50 === 0 || i === words.length - 1) {
-      console.log(`   💾 保存进度... (${results.length} 个成功)`);
-      saveProgress(results, failed, i + 1);
+    // 等待这一批全部完成
+    const batchResults = await Promise.all(batchPromises);
+
+    // 分类结果
+    batchResults.forEach(result => {
+      if (result.success) {
+        results.push(result.word);
+      } else {
+        failed.push(result.word);
+      }
+    });
+
+    // 保存进度
+    console.log(`   💾 保存进度... (${results.length} 个成功, ${failed.length} 个失败)`);
+    saveProgress(results, failed, batchEnd);
+
+    // 批次之间短暂延迟，避免过载
+    if (batchEnd < words.length) {
+      await new Promise(resolve => setTimeout(resolve, 100));
     }
   }
 
