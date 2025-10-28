@@ -1,0 +1,22 @@
+{
+  "name": "words-daily",
+  "version": "1.0.0",
+  "description": "Personal English vocabulary learning app based on Ebbinghaus forgetting curve",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "parse": "node scripts/parse-dict.js",
+    "generate": "node scripts/generate-with-ai.js"
+  },
+  "dependencies": {
+    "vue": "^3.4.0",
+    "vue-router": "^4.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.0",
+    "vite": "^5.0.0",
+    "openai": "^4.0.0"
+  }
+}

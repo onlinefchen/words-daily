@@ -1,0 +1,254 @@
+/* Apple Style Variables */
+:root {
+  /* Light mode */
+  --bg-primary: #F2F2F7;
+  --bg-card: #FFFFFF;
+  --text-primary: #000000;
+  --text-secondary: #8E8E93;
+  --text-tertiary: #C7C7CC;
+  --accent: #007AFF;
+  --success: #34C759;
+  --warning: #FF9500;
+  --separator: rgba(60, 60, 67, 0.29);
+  --shadow: rgba(0, 0, 0, 0.08);
+}
+
+.dark-mode {
+  /* Dark mode */
+  --bg-primary: #000000;
+  --bg-card: #1C1C1E;
+  --text-primary: #FFFFFF;
+  --text-secondary: #98989D;
+  --text-tertiary: #48484A;
+  --accent: #0A84FF;
+  --success: #32D74B;
+  --warning: #FF9F0A;
+  --separator: rgba(84, 84, 88, 0.65);
+  --shadow: rgba(0, 0, 0, 0.3);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 17px;
+  line-height: 1.5;
+  color: var(--text-primary);
+  background: var(--bg-primary);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Container */
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+/* Navigation */
+.nav-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 20px;
+  background: var(--bg-card);
+  border-bottom: 1px solid var(--separator);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.nav-title {
+  font-size: 20px;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.nav-back {
+  color: var(--accent);
+  text-decoration: none;
+  font-size: 17px;
+  cursor: pointer;
+}
+
+/* Card */
+.card {
+  background: var(--bg-card);
+  border-radius: 12px;
+  padding: 24px;
+  margin-bottom: 16px;
+  box-shadow: 0 2px 8px var(--shadow);
+  transition: box-shadow 0.2s;
+}
+
+.card:hover {
+  box-shadow: 0 4px 16px var(--shadow);
+}
+
+/* Button */
+.btn {
+  display: inline-block;
+  padding: 12px 24px;
+  font-size: 17px;
+  font-weight: 500;
+  text-align: center;
+  text-decoration: none;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.btn-primary {
+  background: var(--accent);
+  color: white;
+}
+
+.btn-primary:hover {
+  opacity: 0.8;
+  transform: translateY(-1px);
+}
+
+.btn-primary:active {
+  transform: scale(0.98);
+}
+
+.btn-secondary {
+  background: rgba(0, 122, 255, 0.1);
+  color: var(--accent);
+}
+
+/* Level buttons */
+.level-buttons {
+  display: flex;
+  gap: 10px;
+}
+
+.level-btn {
+  padding: 8px 20px;
+  border: 1px solid var(--separator);
+  border-radius: 8px;
+  background: var(--bg-card);
+  color: var(--text-primary);
+  font-size: 15px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+
+.level-btn:hover {
+  background: var(--bg-primary);
+  transform: translateY(-1px);
+}
+
+.level-btn.active-1 {
+  background: var(--warning);
+  color: white;
+  border-color: var(--warning);
+}
+
+.level-btn.active-2 {
+  background: var(--accent);
+  color: white;
+  border-color: var(--accent);
+}
+
+.level-btn.active-3 {
+  background: var(--success);
+  color: white;
+  border-color: var(--success);
+}
+
+/* Audio button */
+.audio-btn {
+  width: 36px;
+  height: 36px;
+  border: none;
+  background: var(--bg-primary);
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s;
+  font-size: 18px;
+}
+
+.audio-btn:hover {
+  transform: scale(1.1);
+}
+
+.audio-btn:active {
+  transform: scale(0.95);
+}
+
+/* Separator */
+.separator {
+  height: 1px;
+  background: var(--separator);
+  margin: 20px 0;
+}
+
+/* Text styles */
+.text-secondary {
+  color: var(--text-secondary);
+}
+
+.text-large {
+  font-size: 32px;
+  font-weight: 600;
+}
+
+.text-small {
+  font-size: 15px;
+}
+
+/* Utility */
+.flex {
+  display: flex;
+}
+
+.flex-between {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.gap-8 {
+  gap: 8px;
+}
+
+.gap-16 {
+  gap: 16px;
+}
+
+.mt-8 {
+  margin-top: 8px;
+}
+
+.mt-16 {
+  margin-top: 16px;
+}
+
+.mt-24 {
+  margin-top: 24px;
+}
+
+.mb-8 {
+  margin-bottom: 8px;
+}
+
+.mb-16 {
+  margin-bottom: 16px;
+}
