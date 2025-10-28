@@ -1,0 +1,72 @@
+[
+  {
+    "id": "ch001",
+    "name": "基本词汇 动词200 Unit 1",
+    "category": "基本词汇",
+    "subcategory": "动词",
+    "words": [
+      {
+        "id": "w00001",
+        "word": "abandon",
+        "type": "single",
+        "chapterIndex": 1,
+        "globalIndex": 1,
+        "pronunciation": {
+          "us": "/əˈbændən/"
+        },
+        "meanings": [
+          {
+            "pos": "v.",
+            "zh": "放弃；抛弃；遗弃",
+            "en": "to leave someone or something completely and permanently"
+          }
+        ],
+        "examples": [
+          {
+            "en": "The crew were forced to abandon the sinking ship.",
+            "zh": "船员被迫弃船。"
+          },
+          {
+            "en": "They had to abandon their attempt due to bad weather.",
+            "zh": "由于天气恶劣，他们不得不放弃尝试。"
+          }
+        ],
+        "memoryTips": {
+          "etymology": "词根：a- (away) + bandon (control) → 失去控制 → 放弃"
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=abandon&type=2"
+      },
+      {
+        "id": "w00002",
+        "word": "abide by",
+        "type": "phrase",
+        "chapterIndex": 2,
+        "globalIndex": 2,
+        "pronunciation": {
+          "us": "/əˈbaɪd baɪ/"
+        },
+        "meanings": [
+          {
+            "pos": "phr.",
+            "zh": "遵守；信守",
+            "en": "to obey or follow a rule, law, or agreement"
+          }
+        ],
+        "examples": [
+          {
+            "en": "All members must abide by the club rules.",
+            "zh": "所有成员必须遵守俱乐部规则。"
+          },
+          {
+            "en": "We have to abide by the decision of the court.",
+            "zh": "我们必须遵守法院的判决。"
+          }
+        ],
+        "memoryTips": {
+          "association": "abide (停留) + by (在旁边) → 停留在规则旁边 → 遵守规则"
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=abide%20by&type=2"
+      }
+    ]
+  }
+]
