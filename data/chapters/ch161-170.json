@@ -1,0 +1,4150 @@
+[
+  {
+    "id": "ch161",
+    "name": "阅读真题认知词汇 电脑化的交通工具",
+    "category": "阅读真题认知词汇",
+    "subcategory": "电脑化的交通工具",
+    "words": [
+      {
+        "id": "w05159",
+        "word": "automatic control",
+        "type": "phrase",
+        "chapterIndex": 1,
+        "globalIndex": 5159,
+        "chapter": "ch161",
+        "chapterName": "阅读真题认知词汇 电脑化的交通工具",
+        "pronunciation": {
+          "us": "/ˌɔːtəˈmætɪk kənˈtroʊl/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "自动控制",
+            "en": "A system that operates without human intervention."
+          },
+          {
+            "pos": "n.",
+            "zh": "自动调节系统",
+            "en": "Technology that regulates processes automatically."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The automatic control system improved efficiency in the factory.",
+            "zh": "自动控制系统提高了工厂的效率。"
+          },
+          {
+            "en": "Many modern cars use automatic control for better safety.",
+            "zh": "许多现代汽车使用自动控制以提高安全性。"
+          }
+        ],
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=automatic%20control&type=2"
+      },
+      {
+        "id": "w05160",
+        "word": "servo mechanism",
+        "type": "phrase",
+        "chapterIndex": 2,
+        "globalIndex": 5160,
+        "chapter": "ch161",
+        "chapterName": "阅读真题认知词汇 电脑化的交通工具",
+        "pronunciation": {
+          "us": "/ˈsɜrvoʊ ˌmɛkəˈnɪzəm/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "伺服机制",
+            "en": "A system that automatically controls a machine or device."
+          },
+          {
+            "pos": "n.",
+            "zh": "电机控制系统",
+            "en": "A device that uses feedback to adjust its operation."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The servo mechanism in the robot allows for precise movements.",
+            "zh": "机器人的伺服机制使其能够精确移动。"
+          },
+          {
+            "en": "Engineers often use servo mechanisms in automated systems.",
+            "zh": "工程师常在自动化系统中使用伺服机制。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of 'servo' as serving to control, like a waiter serving to adjust your needs."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=servo%20mechanism&type=2"
+      },
+      {
+        "id": "w05161",
+        "word": "cable",
+        "type": "single",
+        "chapterIndex": 3,
+        "globalIndex": 5161,
+        "chapter": "ch161",
+        "chapterName": "阅读真题认知词汇 电脑化的交通工具",
+        "pronunciation": {
+          "us": "/ˈkeɪbəl/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "电缆",
+            "en": "A strong, thick wire or group of wires used to carry electricity or information."
+          },
+          {
+            "pos": "v.",
+            "zh": "用电缆连接",
+            "en": "To connect or install something with a cable."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The electrician installed a new cable for the internet connection.",
+            "zh": "电工为互联网连接安装了一条新电缆。"
+          },
+          {
+            "en": "Many devices now use fiber-optic cables to transmit data quickly.",
+            "zh": "许多设备现在使用光纤电缆快速传输数据。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of a 'cable car' which travels along cables high above the ground, helping you remember the connection aspect of cables."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=cable&type=2"
+      },
+      {
+        "id": "w05162",
+        "word": "mechanism",
+        "type": "single",
+        "chapterIndex": 4,
+        "globalIndex": 5162,
+        "chapter": "ch161",
+        "chapterName": "阅读真题认知词汇 电脑化的交通工具",
+        "pronunciation": {
+          "us": "/ˈmɛkənɪzəm/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "机制",
+            "en": "A system or method that operates in a particular way."
+          },
+          {
+            "pos": "n.",
+            "zh": "机械装置",
+            "en": "The parts or processes that work together in a machine."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The mechanism of the clock was complicated and required careful assembly.",
+            "zh": "这座钟的机制很复杂，需要仔细组装。"
+          },
+          {
+            "en": "Understanding the mechanism behind climate change is essential for effective solutions.",
+            "zh": "理解气候变化背后的机制对有效解决问题至关重要。"
+          }
+        ],
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=mechanism&type=2"
+      },
+      {
+        "id": "w05163",
+        "word": "sensing",
+        "type": "single",
+        "chapterIndex": 5,
+        "globalIndex": 5163,
+        "chapter": "ch161",
+        "chapterName": "阅读真题认知词汇 电脑化的交通工具",
+        "pronunciation": {
+          "us": "/ˈsɛn.sɪŋ/"
+        },
+        "meanings": [
+          {
+            "pos": "v.",
+            "zh": "感知",
+            "en": "To become aware of something through the senses."
+          },
+          {
+            "pos": "n.",
+            "zh": "感知",
+            "en": "The process of detecting or perceiving something."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Sensing danger, the cat quickly ran away from the dog.",
+            "zh": "感知到危险后，猫迅速跑离了狗。"
+          },
+          {
+            "en": "The device is sensing changes in temperature and humidity.",
+            "zh": "该设备正在感知温度和湿度的变化。"
+          }
+        ],
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=sensing&type=2"
+      },
+      {
+        "id": "w05164",
+        "word": "science fiction",
+        "type": "phrase",
+        "chapterIndex": 6,
+        "globalIndex": 5164,
+        "chapter": "ch161",
+        "chapterName": "阅读真题认知词汇 电脑化的交通工具",
+        "pronunciation": {
+          "us": "/ˈsaɪəns ˈfɪkʃən/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "科幻小说",
+            "en": "A genre of literature that explores imaginative and futuristic concepts."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Many people enjoy reading science fiction novels for their creativity.",
+            "zh": "许多人喜欢阅读科幻小说，因为它们富有创造力。"
+          },
+          {
+            "en": "The film is a great example of science fiction, featuring advanced technology.",
+            "zh": "这部电影是科幻的一个很好的例子，展示了先进的技术。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of 'science' as the basis for 'fiction' in stories about the future."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=science%20fiction&type=2"
+      },
+      {
+        "id": "w05165",
+        "word": "television camera",
+        "type": "phrase",
+        "chapterIndex": 7,
+        "globalIndex": 5165,
+        "chapter": "ch161",
+        "chapterName": "阅读真题认知词汇 电脑化的交通工具",
+        "pronunciation": {
+          "us": "/ˈtɛlɪˌvɪʒən ˈkæmərə/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "电视摄像机",
+            "en": "A device used to capture moving images and sound for television."
+          },
+          {
+            "pos": "n.",
+            "zh": "电视拍摄设备",
+            "en": "Equipment that records video for broadcasting on television."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The television camera captured the live event perfectly for viewers.",
+            "zh": "电视摄像机完美地捕捉到了观众的现场直播。"
+          },
+          {
+            "en": "She learned how to operate a television camera during her film studies.",
+            "zh": "她在电影学习期间学习了如何操作电视摄像机。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of a camera that brings the world of television into focus.",
+          "mnemonic": "Television camera can be remembered as 'TV's eye,' capturing everything we see."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=television%20camera&type=2"
+      },
+      {
+        "id": "w05166",
+        "word": "visual input",
+        "type": "phrase",
+        "chapterIndex": 8,
+        "globalIndex": 5166,
+        "chapter": "ch161",
+        "chapterName": "阅读真题认知词汇 电脑化的交通工具",
+        "pronunciation": {
+          "us": "/ˈvɪʒuəl ˈɪnpʊt/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "视觉输入",
+            "en": "The information we receive through our eyes."
+          },
+          {
+            "pos": "n.",
+            "zh": "视觉数据",
+            "en": "Data that is processed by our visual system."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Visual input helps us understand our surroundings effectively.",
+            "zh": "视觉输入帮助我们有效地理解周围环境。"
+          },
+          {
+            "en": "Our brain processes visual input to create a clear picture.",
+            "zh": "我们的脑部处理视觉输入以形成清晰的图像。"
+          }
+        ],
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=visual%20input&type=2"
+      },
+      {
+        "id": "w05167",
+        "word": "an automatic chauffeur",
+        "type": "phrase",
+        "chapterIndex": 9,
+        "globalIndex": 5167,
+        "chapter": "ch161",
+        "chapterName": "阅读真题认知词汇 电脑化的交通工具",
+        "pronunciation": {
+          "us": "/ən əˈtɑːmətɪk ˈʃoʊfə/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "自动驾驶司机",
+            "en": "A vehicle that drives itself without human control."
+          }
+        ],
+        "examples": [
+          {
+            "en": "An automatic chauffeur can make long journeys more relaxing for passengers.",
+            "zh": "自动驾驶司机可以让长途旅行对乘客来说更轻松。"
+          },
+          {
+            "en": "Many companies are investing in technology for automatic chauffeurs.",
+            "zh": "许多公司正在投资自动驾驶司机的技术。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of a chauffeur as a personal driver, but now imagine that driver is replaced by technology."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=an%20automatic%20chauffeur&type=2"
+      },
+      {
+        "id": "w05168",
+        "word": "destination",
+        "type": "single",
+        "chapterIndex": 10,
+        "globalIndex": 5168,
+        "chapter": "ch161",
+        "chapterName": "阅读真题认知词汇 电脑化的交通工具",
+        "pronunciation": {
+          "us": "/ˌdɛstəˈneɪʃən/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "目的地",
+            "en": "A place where someone is going or being sent."
+          },
+          {
+            "pos": "n.",
+            "zh": "旅游目的地",
+            "en": "A location that people travel to for leisure or exploration."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Paris is a popular destination for tourists from around the world.",
+            "zh": "巴黎是来自世界各地游客的热门目的地。"
+          },
+          {
+            "en": "The travel agency offers packages to various exciting destinations.",
+            "zh": "旅行社提供各种令人兴奋的目的地的套餐。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of 'destination' as the 'final stop' in a journey, where you arrive."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=destination&type=2"
+      },
+      {
+        "id": "w05169",
+        "word": "keyboard",
+        "type": "single",
+        "chapterIndex": 11,
+        "globalIndex": 5169,
+        "chapter": "ch161",
+        "chapterName": "阅读真题认知词汇 电脑化的交通工具",
+        "pronunciation": {
+          "us": "/ˈkiːbɔːrd/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "键盘",
+            "en": "A keyboard is a set of keys used to input data into a computer."
+          },
+          {
+            "pos": "v.",
+            "zh": "在键盘上输入",
+            "en": "To keyboard means to type or enter information using a keyboard."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She quickly typed her essay using the keyboard.",
+            "zh": "她快速地用键盘打完了她的论文。"
+          },
+          {
+            "en": "He learned to keyboard efficiently during his computer class.",
+            "zh": "他在计算机课上学会了高效地打字。"
+          }
+        ],
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=keyboard&type=2"
+      },
+      {
+        "id": "w05170",
+        "word": "emergency speed",
+        "type": "phrase",
+        "chapterIndex": 12,
+        "globalIndex": 5170,
+        "chapter": "ch161",
+        "chapterName": "阅读真题认知词汇 电脑化的交通工具",
+        "pronunciation": {
+          "us": "/ɪˈmɜr.dʒən.si spiːd/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "紧急速度",
+            "en": "The speed required to respond quickly in a crisis or urgent situation."
+          },
+          {
+            "pos": "n.",
+            "zh": "紧急状态下的快速反应",
+            "en": "A rapid reaction needed during emergencies to save lives or prevent harm."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The ambulance arrived with emergency speed to save the patient.",
+            "zh": "救护车以紧急速度到达，以挽救病人。"
+          },
+          {
+            "en": "In emergencies, response teams must act with emergency speed.",
+            "zh": "在紧急情况下，响应团队必须以紧急速度行动。"
+          }
+        ],
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=emergency%20speed&type=2"
+      },
+      {
+        "id": "w05171",
+        "word": "computer controlled car",
+        "type": "phrase",
+        "chapterIndex": 13,
+        "globalIndex": 5171,
+        "chapter": "ch161",
+        "chapterName": "阅读真题认知词汇 电脑化的交通工具",
+        "pronunciation": {
+          "us": "/kəmˈpjuːtər kənˈtroʊld kɑr/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "计算机控制的汽车",
+            "en": "A car that is operated using computer technology."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The computer controlled car can drive itself without human intervention.",
+            "zh": "这辆计算机控制的汽车可以在没有人干预的情况下自行驾驶。"
+          },
+          {
+            "en": "Many companies are developing computer controlled cars for safer transportation.",
+            "zh": "许多公司正在开发计算机控制的汽车，以实现更安全的交通。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of a car as a robot that follows computer commands."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=computer%20controlled%20car&type=2"
+      },
+      {
+        "id": "w05172",
+        "word": "freeway",
+        "type": "single",
+        "chapterIndex": 14,
+        "globalIndex": 5172,
+        "chapter": "ch161",
+        "chapterName": "阅读真题认知词汇 电脑化的交通工具",
+        "pronunciation": {
+          "us": "/ˈfriːˌweɪ/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "高速公路",
+            "en": "A major road designed for fast traffic, often with multiple lanes."
+          },
+          {
+            "pos": "n.",
+            "zh": "快速道路",
+            "en": "A large road that allows vehicles to travel quickly between cities."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Driving on the freeway allows you to reach your destination faster.",
+            "zh": "在高速公路上驾驶可以更快到达目的地。"
+          },
+          {
+            "en": "Many people prefer to take the freeway for longer trips.",
+            "zh": "许多人在长途旅行中更喜欢走高速公路。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of the word 'free' as in 'freedom' to drive fast without many stops."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=freeway&type=2"
+      },
+      {
+        "id": "w05173",
+        "word": "bumper-to-bumper",
+        "type": "single",
+        "chapterIndex": 15,
+        "globalIndex": 5173,
+        "chapter": "ch161",
+        "chapterName": "阅读真题认知词汇 电脑化的交通工具",
+        "pronunciation": {
+          "us": "/ˈbʌm.pɚ tə ˈbʌm.pɚ/"
+        },
+        "meanings": [
+          {
+            "pos": "adj.",
+            "zh": "紧凑的，密集的",
+            "en": "Describes a situation where vehicles are very close together, often in traffic."
+          },
+          {
+            "pos": "phr.",
+            "zh": "形容交通状况",
+            "en": "Used to describe heavy traffic where cars are stuck closely together."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The highway was bumper-to-bumper during the evening rush hour.",
+            "zh": "在晚高峰时段，公路上车流密集。"
+          },
+          {
+            "en": "We sat bumper-to-bumper in traffic for over an hour.",
+            "zh": "我们在交通中堵了超过一个小时，车子紧挨着。"
+          }
+        ],
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=bumper-to-bumper&type=2"
+      },
+      {
+        "id": "w05174",
+        "word": "public utility",
+        "type": "phrase",
+        "chapterIndex": 16,
+        "globalIndex": 5174,
+        "chapter": "ch161",
+        "chapterName": "阅读真题认知词汇 电脑化的交通工具",
+        "pronunciation": {
+          "us": "/ˈpʌblɪk juːˈtɪləti/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "公共事业",
+            "en": "A service provided to the public, such as water or electricity."
+          },
+          {
+            "pos": "n.",
+            "zh": "公用设施",
+            "en": "The infrastructure that supports essential services for a community."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The local government invests in public utility services for residents.",
+            "zh": "地方政府为居民投资公共事业服务。"
+          },
+          {
+            "en": "Access to clean water is a vital public utility for all citizens.",
+            "zh": "获取清洁水源是所有公民的重要公共设施。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of 'public utility' as a 'public tool' that everyone can use for essential needs."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=public%20utility&type=2"
+      },
+      {
+        "id": "w05175",
+        "word": "fatality",
+        "type": "single",
+        "chapterIndex": 17,
+        "globalIndex": 5175,
+        "chapter": "ch161",
+        "chapterName": "阅读真题认知词汇 电脑化的交通工具",
+        "pronunciation": {
+          "us": "/fəˈtæl.ɪ.ti/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "死亡事件",
+            "en": "A death resulting from an accident or disaster."
+          },
+          {
+            "pos": "n.",
+            "zh": "致命性",
+            "en": "The quality of causing death or serious injury."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The car accident resulted in multiple fatalities last night.",
+            "zh": "昨晚的车祸导致多起死亡事件。"
+          },
+          {
+            "en": "The report revealed a high fatality rate from the disease.",
+            "zh": "报告显示该疾病的致命性很高。"
+          }
+        ],
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=fatality&type=2"
+      },
+      {
+        "id": "w05176",
+        "word": "compact computer",
+        "type": "phrase",
+        "chapterIndex": 18,
+        "globalIndex": 5176,
+        "chapter": "ch161",
+        "chapterName": "阅读真题认知词汇 电脑化的交通工具",
+        "pronunciation": {
+          "us": "/kəmˈpækt kəmˈpjuːtər/"
+        },
+        "meanings": [
+          {
+            "pos": "adj.",
+            "zh": "紧凑的",
+            "en": "Small in size but still functional and efficient."
+          },
+          {
+            "pos": "n.",
+            "zh": "小型计算机",
+            "en": "A small computer designed to save space while providing necessary features."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Many students prefer using a compact computer for its portability.",
+            "zh": "许多学生更喜欢使用紧凑型计算机，因为它便于携带。"
+          },
+          {
+            "en": "The compact computer fits perfectly on my small desk.",
+            "zh": "这台紧凑型计算机在我的小书桌上刚好合适。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of 'compact' as a way to describe something that is efficiently small, like a packed suitcase."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=compact%20computer&type=2"
+      },
+      {
+        "id": "w05177",
+        "word": "electronic circuitry",
+        "type": "phrase",
+        "chapterIndex": 19,
+        "globalIndex": 5177,
+        "chapter": "ch161",
+        "chapterName": "阅读真题认知词汇 电脑化的交通工具",
+        "pronunciation": {
+          "us": "/ɪˈlɛktrɒnɪk ˈsɜːrkɪtri/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "电子电路",
+            "en": "A system of electrical components that control electronic devices."
+          },
+          {
+            "pos": "n.",
+            "zh": "电路设计",
+            "en": "The design or layout of circuits in electronic devices."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The electronic circuitry in smartphones is very complex and advanced.",
+            "zh": "智能手机中的电子电路非常复杂且先进。"
+          },
+          {
+            "en": "Engineers must understand electronic circuitry to create new gadgets.",
+            "zh": "工程师必须了解电子电路才能创造新设备。"
+          }
+        ],
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=electronic%20circuitry&type=2"
+      },
+      {
+        "id": "w05178",
+        "word": "electronics",
+        "type": "single",
+        "chapterIndex": 20,
+        "globalIndex": 5178,
+        "chapter": "ch161",
+        "chapterName": "阅读真题认知词汇 电脑化的交通工具",
+        "pronunciation": {
+          "us": "/ɪˈlɛk.trɒ.nɪks/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "电子设备",
+            "en": "The branch of technology that deals with electrical circuits and devices."
+          },
+          {
+            "pos": "n.",
+            "zh": "电子学",
+            "en": "The study and use of electronic devices and systems."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Many students are interested in studying electronics and engineering.",
+            "zh": "许多学生对学习电子和工程感兴趣。"
+          },
+          {
+            "en": "Electronics play a vital role in modern communication systems.",
+            "zh": "电子技术在现代通信系统中发挥着重要作用。"
+          }
+        ],
+        "memoryTips": {
+          "etymology": "The word 'electronics' comes from 'electron', which is a basic particle in atoms.",
+          "association": "Think of 'electronics' as the 'electric' world of gadgets and devices that connect us."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=electronics&type=2"
+      },
+      {
+        "id": "w05179",
+        "word": "luxury",
+        "type": "single",
+        "chapterIndex": 21,
+        "globalIndex": 5179,
+        "chapter": "ch161",
+        "chapterName": "阅读真题认知词汇 电脑化的交通工具",
+        "pronunciation": {
+          "us": "/ˈlʌkʃəri/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "奢侈",
+            "en": "A state of great comfort and extravagant living."
+          },
+          {
+            "pos": "adj.",
+            "zh": "奢华的",
+            "en": "Relating to something that is very expensive and comfortable."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She enjoys the luxury of traveling in first class.",
+            "zh": "她享受乘坐头等舱旅行的奢侈。"
+          },
+          {
+            "en": "The hotel offers luxury accommodations with stunning views.",
+            "zh": "这家酒店提供奢华的住宿，享有壮丽的景色。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of 'luxury' as something you 'lust' after—it's desirable and often unattainable."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=luxury&type=2"
+      },
+      {
+        "id": "w05180",
+        "word": "reliability",
+        "type": "single",
+        "chapterIndex": 22,
+        "globalIndex": 5180,
+        "chapter": "ch161",
+        "chapterName": "阅读真题认知词汇 电脑化的交通工具",
+        "pronunciation": {
+          "us": "/rɪˈlaɪəˌbɪlɪti/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "可靠性",
+            "en": "The quality of being trustworthy or dependable."
+          },
+          {
+            "pos": "n.",
+            "zh": "可信度",
+            "en": "The degree to which something can be relied upon."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The reliability of this data is crucial for our research.",
+            "zh": "这些数据的可靠性对我们的研究至关重要。"
+          },
+          {
+            "en": "Consumers often check the reliability of brands before purchasing.",
+            "zh": "消费者在购买之前经常检查品牌的可信度。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of 'rely' in 'reliability' as a reminder that you can depend on something."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=reliability&type=2"
+      },
+      {
+        "id": "w05181",
+        "word": "vehicle",
+        "type": "single",
+        "chapterIndex": 23,
+        "globalIndex": 5181,
+        "chapter": "ch161",
+        "chapterName": "阅读真题认知词汇 电脑化的交通工具",
+        "pronunciation": {
+          "us": "/ˈviːəkl/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "交通工具",
+            "en": "A vehicle is a machine used for transporting people or goods."
+          },
+          {
+            "pos": "n.",
+            "zh": "手段",
+            "en": "A vehicle can also mean a method or way to achieve something."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The bus is a common vehicle for city transportation.",
+            "zh": "公共汽车是城市交通中常见的交通工具。"
+          },
+          {
+            "en": "Social media has become a powerful vehicle for communication.",
+            "zh": "社交媒体已成为一种强大的沟通手段。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of 'vehicle' as a way to 'navigate' through life, just like a car helps you navigate the roads."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=vehicle&type=2"
+      },
+      {
+        "id": "w05182",
+        "word": "artificial intelligence",
+        "type": "phrase",
+        "chapterIndex": 24,
+        "globalIndex": 5182,
+        "chapter": "ch161",
+        "chapterName": "阅读真题认知词汇 电脑化的交通工具",
+        "pronunciation": {
+          "us": "/ˌɑːrtɪˈfɪʃl ˌɪnˈtɛlɪɡəns/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "人工智能",
+            "en": "The ability of a computer or machine to perform tasks that usually require human intelligence."
+          },
+          {
+            "pos": "n.",
+            "zh": "人工智能",
+            "en": "A field of computer science focused on creating systems that can think and learn like humans."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Artificial intelligence is transforming various industries, including healthcare and finance.",
+            "zh": "人工智能正在改变多个行业，包括医疗和金融。"
+          },
+          {
+            "en": "Many experts believe that artificial intelligence will shape the future of work.",
+            "zh": "许多专家认为，人工智能将塑造未来的工作。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of 'artificial' as something made by humans, and 'intelligence' as smart thinking, so it’s smart thinking made by humans."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=artificial%20intelligence&type=2"
+      },
+      {
+        "id": "w05183",
+        "word": "road safety",
+        "type": "phrase",
+        "chapterIndex": 25,
+        "globalIndex": 5183,
+        "chapter": "ch161",
+        "chapterName": "阅读真题认知词汇 电脑化的交通工具",
+        "pronunciation": {
+          "us": "/roʊd ˈseɪfti/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "道路安全",
+            "en": "The condition of being safe while using roads."
+          },
+          {
+            "pos": "n.",
+            "zh": "交通安全",
+            "en": "Measures and regulations to prevent accidents on roads."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Improving road safety is essential for reducing accidents.",
+            "zh": "改善道路安全对于减少事故至关重要。"
+          },
+          {
+            "en": "The government launched a campaign to promote road safety awareness.",
+            "zh": "政府发起了一项宣传道路安全意识的运动。"
+          }
+        ],
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=road%20safety&type=2"
+      },
+      {
+        "id": "w05184",
+        "word": "wireless technology",
+        "type": "phrase",
+        "chapterIndex": 26,
+        "globalIndex": 5184,
+        "chapter": "ch161",
+        "chapterName": "阅读真题认知词汇 电脑化的交通工具",
+        "pronunciation": {
+          "us": "/ˈwaɪərləs tɛkˈnɒlədʒi/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "无线技术",
+            "en": "A technology that allows communication without physical wires."
+          },
+          {
+            "pos": "n.",
+            "zh": "无线通信",
+            "en": "The use of radio waves to connect devices without cables."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Wireless technology has transformed how we connect and communicate.",
+            "zh": "无线技术改变了我们的连接和沟通方式。"
+          },
+          {
+            "en": "Many devices now rely on wireless technology for internet access.",
+            "zh": "许多设备现在依靠无线技术连接互联网。"
+          }
+        ],
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=wireless%20technology&type=2"
+      },
+      {
+        "id": "w05185",
+        "word": "bump",
+        "type": "single",
+        "chapterIndex": 27,
+        "globalIndex": 5185,
+        "chapter": "ch161",
+        "chapterName": "阅读真题认知词汇 电脑化的交通工具",
+        "pronunciation": {
+          "us": "/bʌmp/"
+        },
+        "meanings": [
+          {
+            "pos": "v.",
+            "zh": "碰撞",
+            "en": "To hit or knock against something with force."
+          },
+          {
+            "pos": "n.",
+            "zh": "碰撞",
+            "en": "A slight collision or impact."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She accidentally bumped into me while walking down the street.",
+            "zh": "她在街上走时不小心撞到了我。"
+          },
+          {
+            "en": "There was a loud bump when the car hit the curb.",
+            "zh": "汽车撞到人行道时发出了一声巨响。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of a 'bump' as a little 'bump' in the road that you feel when you drive."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=bump&type=2"
+      },
+      {
+        "id": "w05186",
+        "word": "sixth sense",
+        "type": "phrase",
+        "chapterIndex": 28,
+        "globalIndex": 5186,
+        "chapter": "ch161",
+        "chapterName": "阅读真题认知词汇 电脑化的交通工具",
+        "pronunciation": {
+          "us": "/sɪksθ sɛns/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "第六感",
+            "en": "An ability to sense things that are not visible or obvious."
+          },
+          {
+            "pos": "n.",
+            "zh": "直觉",
+            "en": "A strong intuition or feeling about something without logical reasoning."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She had a sixth sense about people and often knew their true intentions.",
+            "zh": "她对人有第六感，常常知道他们的真实意图。"
+          },
+          {
+            "en": "His sixth sense warned him of danger before he could see it.",
+            "zh": "他的第六感在他看到危险之前就警告了他。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of the sixth sense as a hidden power, like a superhero's ability to detect danger."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=sixth%20sense&type=2"
+      },
+      {
+        "id": "w05187",
+        "word": "fuel cell",
+        "type": "phrase",
+        "chapterIndex": 29,
+        "globalIndex": 5187,
+        "chapter": "ch161",
+        "chapterName": "阅读真题认知词汇 电脑化的交通工具",
+        "pronunciation": {
+          "us": "/ˈfjuːəl sɛl/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "燃料电池",
+            "en": "A device that converts chemical energy from fuel into electricity."
+          },
+          {
+            "pos": "n.",
+            "zh": "能源转换装置",
+            "en": "An apparatus that produces power by using a fuel source."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Fuel cells are becoming popular for clean energy solutions.",
+            "zh": "燃料电池在清洁能源解决方案中越来越受欢迎。"
+          },
+          {
+            "en": "Many companies are investing in fuel cell technology for transportation.",
+            "zh": "许多公司正在投资于交通运输的燃料电池技术。"
+          }
+        ],
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=fuel%20cell&type=2"
+      },
+      {
+        "id": "w05188",
+        "word": "automaker",
+        "type": "single",
+        "chapterIndex": 30,
+        "globalIndex": 5188,
+        "chapter": "ch161",
+        "chapterName": "阅读真题认知词汇 电脑化的交通工具",
+        "pronunciation": {
+          "us": "/ˈɔːtəˌmeɪkər/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "汽车制造商",
+            "en": "A company that makes cars."
+          },
+          {
+            "pos": "n.",
+            "zh": "汽车制造业者",
+            "en": "An organization involved in producing automobiles."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The automaker announced a new electric vehicle model this year.",
+            "zh": "这家汽车制造商今年宣布了一款新的电动车型。"
+          },
+          {
+            "en": "Many automakers are shifting towards more sustainable practices.",
+            "zh": "许多汽车制造商正在转向更可持续的做法。"
+          }
+        ],
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=automaker&type=2"
+      },
+      {
+        "id": "w05189",
+        "word": "vertical takeoff and landing",
+        "type": "phrase",
+        "chapterIndex": 31,
+        "globalIndex": 5189,
+        "chapter": "ch161",
+        "chapterName": "阅读真题认知词汇 电脑化的交通工具",
+        "pronunciation": {
+          "us": "/ˈvɜrtɪkəl ˈteɪkˌɔf ənd ˈlændɪŋ/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "垂直起降",
+            "en": "A type of aircraft that can take off and land vertically."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The new drone features vertical takeoff and landing capabilities.",
+            "zh": "这款新无人机具有垂直起降的能力。"
+          },
+          {
+            "en": "Vertical takeoff and landing aircraft are useful in urban areas.",
+            "zh": "垂直起降的飞机在城市地区非常有用。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of a helicopter, which can take off and land vertically."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=vertical%20takeoff%20and%20landing&type=2"
+      },
+      {
+        "id": "w05190",
+        "word": "breakthrough",
+        "type": "single",
+        "chapterIndex": 32,
+        "globalIndex": 5190,
+        "chapter": "ch161",
+        "chapterName": "阅读真题认知词汇 电脑化的交通工具",
+        "pronunciation": {
+          "us": "/ˈbreɪkθruː/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "突破",
+            "en": "An important discovery or achievement that helps to advance knowledge or progress."
+          },
+          {
+            "pos": "v.",
+            "zh": "突破",
+            "en": "To make a significant progress in a difficult situation or to overcome an obstacle."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The scientist made a breakthrough in cancer research last year.",
+            "zh": "这位科学家去年在癌症研究中取得了突破。"
+          },
+          {
+            "en": "They finally broke through the barriers of communication in the project.",
+            "zh": "他们最终突破了项目中的沟通障碍。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of 'break' as breaking through a wall to discover something new."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=breakthrough&type=2"
+      },
+      {
+        "id": "w05191",
+        "word": "transportation",
+        "type": "single",
+        "chapterIndex": 33,
+        "globalIndex": 5191,
+        "chapter": "ch161",
+        "chapterName": "阅读真题认知词汇 电脑化的交通工具",
+        "pronunciation": {
+          "us": "/ˌtrænspɔːrˈteɪʃən/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "运输",
+            "en": "The act of moving people or goods from one place to another."
+          },
+          {
+            "pos": "n.",
+            "zh": "交通工具",
+            "en": "The means or methods used for travel, such as cars, buses, or trains."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Public transportation is essential for city residents and visitors.",
+            "zh": "公共交通对城市居民和游客至关重要。"
+          },
+          {
+            "en": "The transportation of goods has increased due to online shopping.",
+            "zh": "由于网购，货物运输量增加了。"
+          }
+        ],
+        "memoryTips": {
+          "etymology": "The word 'transportation' comes from Latin 'transportare', meaning 'to carry across'."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=transportation&type=2"
+      }
+    ]
+  },
+  {
+    "id": "ch162",
+    "name": "阅读真题认知词汇 交通阻塞",
+    "category": "阅读真题认知词汇",
+    "subcategory": "交通阻塞",
+    "words": [
+      {
+        "id": "w05192",
+        "word": "parking",
+        "type": "single",
+        "chapterIndex": 1,
+        "globalIndex": 5192,
+        "chapter": "ch162",
+        "chapterName": "阅读真题认知词汇 交通阻塞",
+        "pronunciation": {
+          "us": "/ˈpɑːrkɪŋ/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "停车",
+            "en": "The area where vehicles can be left temporarily."
+          },
+          {
+            "pos": "v.",
+            "zh": "停车",
+            "en": "To bring a vehicle to a stop and leave it in a place."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Finding a parking spot in the city can be very challenging.",
+            "zh": "在城市里找到停车位可能非常困难。"
+          },
+          {
+            "en": "He parked his car near the entrance of the shopping mall.",
+            "zh": "他把车停在购物中心的入口附近。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of 'park' as a place where you leave your car, like a park for vehicles."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=parking&type=2"
+      },
+      {
+        "id": "w05193",
+        "word": "well-maintained road",
+        "type": "phrase",
+        "chapterIndex": 2,
+        "globalIndex": 5193,
+        "chapter": "ch162",
+        "chapterName": "阅读真题认知词汇 交通阻塞",
+        "pronunciation": {
+          "us": "/ˌwɛl.meɪnˈteɪnd roʊd/"
+        },
+        "meanings": [
+          {
+            "pos": "adj.",
+            "zh": "维护良好的",
+            "en": "In good condition because it is regularly cared for."
+          },
+          {
+            "pos": "n.",
+            "zh": "道路",
+            "en": "A route for vehicles or people to travel on."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The city invested in a well-maintained road network for better transport.",
+            "zh": "这座城市投资于维护良好的道路网络以改善交通。"
+          },
+          {
+            "en": "Driving on a well-maintained road is much safer and smoother.",
+            "zh": "在维护良好的道路上行驶会更安全、更顺畅。"
+          }
+        ],
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=well-maintained%20road&type=2"
+      },
+      {
+        "id": "w05194",
+        "word": "automobile-dependent",
+        "type": "single",
+        "chapterIndex": 3,
+        "globalIndex": 5194,
+        "chapter": "ch162",
+        "chapterName": "阅读真题认知词汇 交通阻塞",
+        "pronunciation": {
+          "us": "/ˌɔːtəməˈbiːl dɪˈpɛndənt/"
+        },
+        "meanings": [
+          {
+            "pos": "adj.",
+            "zh": "依赖汽车的",
+            "en": "Referring to a lifestyle or system that relies heavily on cars for transportation."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Many cities are becoming increasingly automobile-dependent due to urban sprawl.",
+            "zh": "由于城市扩张，许多城市变得越来越依赖汽车。"
+          },
+          {
+            "en": "An automobile-dependent society can lead to traffic congestion and pollution.",
+            "zh": "依赖汽车的社会可能导致交通拥堵和污染。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of 'automobile' as a car and 'dependent' as needing something, like how people need cars to get around."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=automobile-dependent&type=2"
+      },
+      {
+        "id": "w05195",
+        "word": "congested",
+        "type": "single",
+        "chapterIndex": 4,
+        "globalIndex": 5195,
+        "chapter": "ch162",
+        "chapterName": "阅读真题认知词汇 交通阻塞",
+        "pronunciation": {
+          "us": "/kənˈdʒɛstɪd/"
+        },
+        "meanings": [
+          {
+            "pos": "adj.",
+            "zh": "拥挤的，堵塞的",
+            "en": "Filled with too much traffic or people, making movement difficult."
+          },
+          {
+            "pos": "v.",
+            "zh": "使堵塞",
+            "en": "To make a space crowded or blocked."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The roads were congested due to the heavy rain.",
+            "zh": "由于大雨，路面拥堵。"
+          },
+          {
+            "en": "During rush hour, the subway can become extremely congested.",
+            "zh": "在高峰时段，地铁可能非常拥挤。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of 'congested' as similar to 'congested nose', where blockage makes breathing difficult."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=congested&type=2"
+      },
+      {
+        "id": "w05196",
+        "word": "face-to-face interaction",
+        "type": "phrase",
+        "chapterIndex": 5,
+        "globalIndex": 5196,
+        "chapter": "ch162",
+        "chapterName": "阅读真题认知词汇 交通阻塞",
+        "pronunciation": {
+          "us": "/ˈfeɪs tə ˈfeɪs ˌɪn.təˈræk.ʃən/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "面对面互动",
+            "en": "Direct communication or interaction between people in person."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Face-to-face interaction helps build stronger relationships.",
+            "zh": "面对面互动有助于建立更强的关系。"
+          },
+          {
+            "en": "Many prefer face-to-face interaction over online chats.",
+            "zh": "许多人更喜欢面对面互动而不是在线聊天。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of 'face-to-face' as meeting someone directly, like a two-sided conversation."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=face-to-face%20interaction&type=2"
+      },
+      {
+        "id": "w05197",
+        "word": "motorize",
+        "type": "single",
+        "chapterIndex": 6,
+        "globalIndex": 5197,
+        "chapter": "ch162",
+        "chapterName": "阅读真题认知词汇 交通阻塞",
+        "pronunciation": {
+          "us": "/ˈmoʊtəraɪz/"
+        },
+        "meanings": [
+          {
+            "pos": "v.",
+            "zh": "使机械化",
+            "en": "To equip a vehicle or device with a motor."
+          },
+          {
+            "pos": "v.",
+            "zh": "使自动化",
+            "en": "To make something operate by using a motor instead of manual effort."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The company decided to motorize their production line for efficiency.",
+            "zh": "公司决定使他们的生产线机械化以提高效率。"
+          },
+          {
+            "en": "Many bicycles are now motorized to make riding easier.",
+            "zh": "现在许多自行车都已电动化，以便骑行更轻松。"
+          }
+        ],
+        "memoryTips": {
+          "etymology": "The word 'motorize' comes from 'motor', which is derived from the Latin 'movere', meaning 'to move'."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=motorize&type=2"
+      },
+      {
+        "id": "w05198",
+        "word": "emission",
+        "type": "single",
+        "chapterIndex": 7,
+        "globalIndex": 5198,
+        "chapter": "ch162",
+        "chapterName": "阅读真题认知词汇 交通阻塞",
+        "pronunciation": {
+          "us": "/ɪˈmɪʃ.ən/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "排放",
+            "en": "The act of releasing something, especially gas or radiation."
+          },
+          {
+            "pos": "n.",
+            "zh": "发射",
+            "en": "The process of sending out light, sound, or other forms of energy."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The emission of greenhouse gases is a major environmental concern.",
+            "zh": "温室气体的排放是一个主要的环境问题。"
+          },
+          {
+            "en": "New regulations aim to reduce the emission of harmful pollutants.",
+            "zh": "新法规旨在减少有害污染物的排放。"
+          }
+        ],
+        "memoryTips": {
+          "etymology": "The word 'emission' comes from the Latin 'emissio', meaning 'a sending out'."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=emission&type=2"
+      },
+      {
+        "id": "w05199",
+        "word": "pedestrian-friendly street",
+        "type": "phrase",
+        "chapterIndex": 8,
+        "globalIndex": 5199,
+        "chapter": "ch162",
+        "chapterName": "阅读真题认知词汇 交通阻塞",
+        "pronunciation": {
+          "us": "/pəˈdɛstrɪən ˈfrɛndli strit/"
+        },
+        "meanings": [
+          {
+            "pos": "adj.",
+            "zh": "适合行人通行的街道",
+            "en": "A street that is safe and easy for walking."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The city has made many pedestrian-friendly streets to encourage walking.",
+            "zh": "这座城市修建了许多适合行人通行的街道，以鼓励步行。"
+          },
+          {
+            "en": "Tourists enjoy exploring the pedestrian-friendly street filled with shops.",
+            "zh": "游客喜欢在满是商店的适合行人通行的街道上探索。"
+          }
+        ],
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=pedestrian-friendly%20street&type=2"
+      },
+      {
+        "id": "w05200",
+        "word": "culprit",
+        "type": "single",
+        "chapterIndex": 9,
+        "globalIndex": 5200,
+        "chapter": "ch162",
+        "chapterName": "阅读真题认知词汇 交通阻塞",
+        "pronunciation": {
+          "us": "/ˈkʌl.prɪt/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "罪犯",
+            "en": "A person who has done something wrong or illegal."
+          },
+          {
+            "pos": "n.",
+            "zh": "根本原因",
+            "en": "The main reason or cause of a problem."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The police finally identified the culprit of the robbery.",
+            "zh": "警方最终确定了抢劫案的罪犯。"
+          },
+          {
+            "en": "The culprit behind the pollution was a nearby factory.",
+            "zh": "污染的根本原因是附近的一家工厂。"
+          }
+        ],
+        "memoryTips": {
+          "etymology": "The word 'culprit' comes from the Latin 'culpa', meaning 'fault' or 'blame'."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=culprit&type=2"
+      },
+      {
+        "id": "w05201",
+        "word": "public transportation system",
+        "type": "phrase",
+        "chapterIndex": 10,
+        "globalIndex": 5201,
+        "chapter": "ch162",
+        "chapterName": "阅读真题认知词汇 交通阻塞",
+        "pronunciation": {
+          "us": "/ˈpʌblɪk ˌtrænspɔrˈteɪʃən ˈsɪstəm/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "公共交通系统",
+            "en": "A system of vehicles such as buses and trains that transport people in a city."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Many cities rely on a public transportation system for daily commuting.",
+            "zh": "许多城市依赖公共交通系统进行日常通勤。"
+          },
+          {
+            "en": "Improving the public transportation system can reduce traffic congestion.",
+            "zh": "改善公共交通系统可以减少交通拥堵。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of 'public' as something everyone can use and 'transportation system' as a way to move around."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=public%20transportation%20system&type=2"
+      },
+      {
+        "id": "w05202",
+        "word": "mileage",
+        "type": "single",
+        "chapterIndex": 11,
+        "globalIndex": 5202,
+        "chapter": "ch162",
+        "chapterName": "阅读真题认知词汇 交通阻塞",
+        "pronunciation": {
+          "us": "/ˈmaɪlɪdʒ/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "里程",
+            "en": "The distance in miles traveled or used."
+          },
+          {
+            "pos": "n.",
+            "zh": "燃油经济性",
+            "en": "The number of miles a vehicle can travel per unit of fuel."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The car's mileage is impressive for a vehicle of its size.",
+            "zh": "这辆车的里程对于它的尺寸来说很令人印象深刻。"
+          },
+          {
+            "en": "I need to check the mileage before our road trip next week.",
+            "zh": "我需要在下周的公路旅行前检查一下里程。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of 'mile' in 'mileage' to remember it relates to distance traveled."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=mileage&type=2"
+      },
+      {
+        "id": "w05203",
+        "word": "congestion",
+        "type": "single",
+        "chapterIndex": 12,
+        "globalIndex": 5203,
+        "chapter": "ch162",
+        "chapterName": "阅读真题认知词汇 交通阻塞",
+        "pronunciation": {
+          "us": "/kənˈdʒɛs.tʃən/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "拥堵",
+            "en": "A situation where there is too much traffic or people, causing delays."
+          },
+          {
+            "pos": "n.",
+            "zh": "充血",
+            "en": "An excessive accumulation of fluid in a body part, often referring to blood vessels."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The city faces severe congestion during rush hour every day.",
+            "zh": "这个城市在每天的高峰时段面临严重的拥堵。"
+          },
+          {
+            "en": "Nasal congestion can make it difficult to breathe properly.",
+            "zh": "鼻子充血可能会使呼吸变得困难。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of 'congestion' as 'con' (together) + 'gest' (to carry), meaning things are packed together."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=congestion&type=2"
+      },
+      {
+        "id": "w05204",
+        "word": "traffic jam",
+        "type": "phrase",
+        "chapterIndex": 13,
+        "globalIndex": 5204,
+        "chapter": "ch162",
+        "chapterName": "阅读真题认知词汇 交通阻塞",
+        "pronunciation": {
+          "us": "/ˈtræfɪk dʒæm/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "交通堵塞",
+            "en": "A situation where vehicles cannot move because there are too many of them."
+          }
+        ],
+        "examples": [
+          {
+            "en": "I was stuck in a traffic jam for over an hour yesterday.",
+            "zh": "我昨天在交通堵塞中卡了超过一个小时。"
+          },
+          {
+            "en": "The traffic jam made me late for my important meeting.",
+            "zh": "交通堵塞让我错过了重要会议。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of 'traffic' as cars and 'jam' as a thick spread that stops movement."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=traffic%20jam&type=2"
+      },
+      {
+        "id": "w05205",
+        "word": "queue",
+        "type": "single",
+        "chapterIndex": 14,
+        "globalIndex": 5205,
+        "chapter": "ch162",
+        "chapterName": "阅读真题认知词汇 交通阻塞",
+        "pronunciation": {
+          "us": "/kjuː/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "队列",
+            "en": "A line of people or vehicles waiting for something."
+          },
+          {
+            "pos": "v.",
+            "zh": "排队",
+            "en": "To wait in line for something."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Many people were waiting in a queue at the bus station.",
+            "zh": "许多人在公交车站排队等候。"
+          },
+          {
+            "en": "He decided to queue for tickets to the concert.",
+            "zh": "他决定排队买音乐会的票。"
+          }
+        ],
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=queue&type=2"
+      },
+      {
+        "id": "w05206",
+        "word": "passenger",
+        "type": "single",
+        "chapterIndex": 15,
+        "globalIndex": 5206,
+        "chapter": "ch162",
+        "chapterName": "阅读真题认知词汇 交通阻塞",
+        "pronunciation": {
+          "us": "/ˈpæs.ən.dʒər/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "乘客",
+            "en": "A person who travels in a vehicle but is not driving it."
+          },
+          {
+            "pos": "n.",
+            "zh": "旅客",
+            "en": "Someone who is traveling, especially in a bus, train, or plane."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The passenger seated next to me was reading a book.",
+            "zh": "坐在我旁边的乘客正在看一本书。"
+          },
+          {
+            "en": "All passengers must wear their seatbelts during the flight.",
+            "zh": "所有乘客在飞行期间必须系上安全带。"
+          }
+        ],
+        "memoryTips": {
+          "etymology": "The word 'passenger' comes from the Old French 'passager', which means 'one who passes through'.",
+          "association": "Think of a 'pass' as someone who passes time in a vehicle."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=passenger&type=2"
+      },
+      {
+        "id": "w05207",
+        "word": "motorist",
+        "type": "single",
+        "chapterIndex": 16,
+        "globalIndex": 5207,
+        "chapter": "ch162",
+        "chapterName": "阅读真题认知词汇 交通阻塞",
+        "pronunciation": {
+          "us": "/ˈmoʊtərɪst/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "驾驶员",
+            "en": "A person who drives a car."
+          },
+          {
+            "pos": "n.",
+            "zh": "机动车驾驶者",
+            "en": "Someone who operates a motor vehicle."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The motorist was stopped by the police for speeding.",
+            "zh": "这名驾驶员因超速被警察拦下。"
+          },
+          {
+            "en": "Every motorist should wear a seatbelt while driving.",
+            "zh": "每位驾驶员在开车时都应该系好安全带。"
+          }
+        ],
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=motorist&type=2"
+      },
+      {
+        "id": "w05208",
+        "word": "artery",
+        "type": "single",
+        "chapterIndex": 17,
+        "globalIndex": 5208,
+        "chapter": "ch162",
+        "chapterName": "阅读真题认知词汇 交通阻塞",
+        "pronunciation": {
+          "us": "/ˈɑːrtəri/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "动脉",
+            "en": "A blood vessel that carries blood away from the heart."
+          },
+          {
+            "pos": "n.",
+            "zh": "主要通道",
+            "en": "A main route or channel for something, like ideas or information."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The artery supplies oxygen-rich blood to the organs.",
+            "zh": "这条动脉为器官提供富含氧气的血液。"
+          },
+          {
+            "en": "The internet acts as an artery for information exchange.",
+            "zh": "互联网作为信息交流的主要通道。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of an 'artery' as a 'highway' for blood in the body."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=artery&type=2"
+      },
+      {
+        "id": "w05209",
+        "word": "real estate",
+        "type": "phrase",
+        "chapterIndex": 18,
+        "globalIndex": 5209,
+        "chapter": "ch162",
+        "chapterName": "阅读真题认知词汇 交通阻塞",
+        "pronunciation": {
+          "us": "/ˈriːəl ɪˈsteɪt/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "房地产",
+            "en": "Property consisting of land and any buildings on it."
+          },
+          {
+            "pos": "n.",
+            "zh": "房地产行业",
+            "en": "The business of buying, selling, or renting land and buildings."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Investing in real estate can provide good financial returns.",
+            "zh": "投资房地产可以带来良好的经济回报。"
+          },
+          {
+            "en": "Many people choose real estate as a long-term investment option.",
+            "zh": "许多人选择房地产作为长期投资选择。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of 'real' as something genuine and 'estate' as land; together they mean genuine land."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=real%20estate&type=2"
+      },
+      {
+        "id": "w05210",
+        "word": "vehicle",
+        "type": "single",
+        "chapterIndex": 19,
+        "globalIndex": 5210,
+        "chapter": "ch162",
+        "chapterName": "阅读真题认知词汇 交通阻塞",
+        "pronunciation": {
+          "us": "/ˈviːəkl/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "交通工具",
+            "en": "A vehicle is something that carries people or goods from one place to another."
+          },
+          {
+            "pos": "n.",
+            "zh": "媒介",
+            "en": "A vehicle can also mean a method or tool used to express ideas or feelings."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Electric cars are becoming a popular vehicle for eco-conscious drivers.",
+            "zh": "电动车正在成为环保意识强的驾驶者的热门交通工具。"
+          },
+          {
+            "en": "Social media is a powerful vehicle for spreading information quickly.",
+            "zh": "社交媒体是快速传播信息的强大媒介。"
+          }
+        ],
+        "memoryTips": {
+          "association": "You can think of a 'vehicle' as something that 'veers' you towards your destination."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=vehicle&type=2"
+      },
+      {
+        "id": "w05211",
+        "word": "metropolitan",
+        "type": "single",
+        "chapterIndex": 20,
+        "globalIndex": 5211,
+        "chapter": "ch162",
+        "chapterName": "阅读真题认知词汇 交通阻塞",
+        "pronunciation": {
+          "us": "/ˌmɛt.rəˈpɒl.ɪ.tən/"
+        },
+        "meanings": [
+          {
+            "pos": "adj.",
+            "zh": "大都市的",
+            "en": "Relating to a large city or urban area."
+          },
+          {
+            "pos": "n.",
+            "zh": "大都市居民",
+            "en": "A person who lives in a large city."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Living in a metropolitan area offers many job opportunities.",
+            "zh": "生活在大都市地区提供了许多就业机会。"
+          },
+          {
+            "en": "The metropolitan lifestyle can be fast-paced and exciting.",
+            "zh": "大都市生活方式可能是快节奏和令人兴奋的。"
+          }
+        ],
+        "memoryTips": {
+          "etymology": "The word 'metropolitan' comes from the Greek 'metropolis', meaning 'mother city'."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=metropolitan&type=2"
+      },
+      {
+        "id": "w05212",
+        "word": "intersection",
+        "type": "single",
+        "chapterIndex": 21,
+        "globalIndex": 5212,
+        "chapter": "ch162",
+        "chapterName": "阅读真题认知词汇 交通阻塞",
+        "pronunciation": {
+          "us": "/ˌɪn.təˈsɛk.ʃən/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "交叉口",
+            "en": "A place where two or more roads meet."
+          },
+          {
+            "pos": "n.",
+            "zh": "交集",
+            "en": "A point or area where different things come together."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The intersection of Main Street and First Avenue is very busy.",
+            "zh": "主街和第一大道的交叉口非常繁忙。"
+          },
+          {
+            "en": "At the intersection of art and science, creativity flourishes.",
+            "zh": "在艺术与科学的交集处，创造力蓬勃发展。"
+          }
+        ],
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=intersection&type=2"
+      },
+      {
+        "id": "w05213",
+        "word": "capacity",
+        "type": "single",
+        "chapterIndex": 22,
+        "globalIndex": 5213,
+        "chapter": "ch162",
+        "chapterName": "阅读真题认知词汇 交通阻塞",
+        "pronunciation": {
+          "us": "/kəˈpæs.ɪ.ti/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "容量，能力",
+            "en": "The ability to hold or contain something."
+          },
+          {
+            "pos": "n.",
+            "zh": "能力，才干",
+            "en": "The maximum amount that something can produce or manage."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The stadium has a seating capacity of fifty thousand people.",
+            "zh": "这个体育场的座位容量为五万人。"
+          },
+          {
+            "en": "She has the capacity to learn new languages quickly.",
+            "zh": "她有快速学习新语言的能力。"
+          }
+        ],
+        "memoryTips": {
+          "etymology": "The word 'capacity' comes from the Latin word 'capacitas', meaning 'ability to hold'."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=capacity&type=2"
+      },
+      {
+        "id": "w05214",
+        "word": "freeway",
+        "type": "single",
+        "chapterIndex": 23,
+        "globalIndex": 5214,
+        "chapter": "ch162",
+        "chapterName": "阅读真题认知词汇 交通阻塞",
+        "pronunciation": {
+          "us": "/ˈfriːweɪ/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "高速公路",
+            "en": "A type of large road designed for fast traffic."
+          },
+          {
+            "pos": "n.",
+            "zh": "高速公路系统",
+            "en": "A network of major roads that connect cities and regions."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Driving on the freeway can save a lot of time during long trips.",
+            "zh": "在高速公路上驾驶可以在长途旅行中节省很多时间。"
+          },
+          {
+            "en": "Many accidents occur on the freeway due to high speeds.",
+            "zh": "由于高速行驶，许多事故发生在高速公路上。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of a 'free way' to travel quickly without many stops."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=freeway&type=2"
+      },
+      {
+        "id": "w05215",
+        "word": "bottleneck",
+        "type": "single",
+        "chapterIndex": 24,
+        "globalIndex": 5215,
+        "chapter": "ch162",
+        "chapterName": "阅读真题认知词汇 交通阻塞",
+        "pronunciation": {
+          "us": "/ˈbɒtəlˌnɛk/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "瓶颈",
+            "en": "A point where progress is slowed down or blocked."
+          },
+          {
+            "pos": "v.",
+            "zh": "使瓶颈化",
+            "en": "To cause a delay in a process."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The traffic jam created a bottleneck on the highway.",
+            "zh": "交通堵塞在高速公路上造成了瓶颈。"
+          },
+          {
+            "en": "We need to address the bottleneck in our production line.",
+            "zh": "我们需要解决生产线上的瓶颈问题。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of a bottle that gets narrow at the neck, slowing down the flow of liquid."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=bottleneck&type=2"
+      },
+      {
+        "id": "w05216",
+        "word": "carpool",
+        "type": "single",
+        "chapterIndex": 25,
+        "globalIndex": 5216,
+        "chapter": "ch162",
+        "chapterName": "阅读真题认知词汇 交通阻塞",
+        "pronunciation": {
+          "us": "/ˈkɑrˌpul/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "拼车",
+            "en": "A carpool is a group of people who share a car journey to reduce costs or environmental impact."
+          },
+          {
+            "pos": "v.",
+            "zh": "拼车",
+            "en": "To carpool means to share a ride in a car with others instead of driving alone."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Many people choose to carpool to save money on fuel costs.",
+            "zh": "许多人选择拼车来节省燃料费用。"
+          },
+          {
+            "en": "We decided to carpool to reduce our carbon footprint while commuting.",
+            "zh": "我们决定拼车，以减少通勤时的碳足迹。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of a 'pool' of cars where people gather to travel together."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=carpool&type=2"
+      },
+      {
+        "id": "w05217",
+        "word": "vanpool",
+        "type": "single",
+        "chapterIndex": 26,
+        "globalIndex": 5217,
+        "chapter": "ch162",
+        "chapterName": "阅读真题认知词汇 交通阻塞",
+        "pronunciation": {
+          "us": "/ˈvænˌpuːl/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "拼车",
+            "en": "A group of people sharing a vehicle to travel together."
+          },
+          {
+            "pos": "v.",
+            "zh": "拼车",
+            "en": "To travel together in a vehicle with others to save costs."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Many employees choose to vanpool to save on commuting costs.",
+            "zh": "许多员工选择拼车以节省通勤费用。"
+          },
+          {
+            "en": "Vanpooling can reduce traffic congestion and pollution in cities.",
+            "zh": "拼车可以减少城市的交通拥堵和污染。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of a 'van' filled with 'pool' of friends traveling together."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=vanpool&type=2"
+      },
+      {
+        "id": "w05218",
+        "word": "ride sharing",
+        "type": "phrase",
+        "chapterIndex": 27,
+        "globalIndex": 5218,
+        "chapter": "ch162",
+        "chapterName": "阅读真题认知词汇 交通阻塞",
+        "pronunciation": {
+          "us": "/ˈraɪd ˈʃɛrɪŋ/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "拼车",
+            "en": "A service where people share a vehicle to travel together."
+          },
+          {
+            "pos": "v.",
+            "zh": "共享乘车",
+            "en": "To use a service that connects drivers with passengers to share rides."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Many people prefer ride sharing to save money on transport costs.",
+            "zh": "许多人更喜欢拼车来节省交通费用。"
+          },
+          {
+            "en": "Ride sharing apps have become popular in urban areas worldwide.",
+            "zh": "拼车应用在全球城市地区变得越来越受欢迎。"
+          }
+        ],
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=ride%20sharing&type=2"
+      },
+      {
+        "id": "w05219",
+        "word": "quota",
+        "type": "single",
+        "chapterIndex": 28,
+        "globalIndex": 5219,
+        "chapter": "ch162",
+        "chapterName": "阅读真题认知词汇 交通阻塞",
+        "pronunciation": {
+          "us": "/ˈkwoʊtə/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "配额",
+            "en": "A fixed share or amount that a person or group is allowed."
+          },
+          {
+            "pos": "n.",
+            "zh": "限额",
+            "en": "A limit on the quantity of something that can be done or produced."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The country set a quota on the number of imported cars.",
+            "zh": "这个国家对进口汽车的数量设定了配额。"
+          },
+          {
+            "en": "Each student must meet their quota of assignments for the semester.",
+            "zh": "每个学生必须完成他们这个学期的作业配额。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of 'quota' as 'quote a limit' – a limit on what can be done."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=quota&type=2"
+      },
+      {
+        "id": "w05220",
+        "word": "licensed",
+        "type": "single",
+        "chapterIndex": 29,
+        "globalIndex": 5220,
+        "chapter": "ch162",
+        "chapterName": "阅读真题认知词汇 交通阻塞",
+        "pronunciation": {
+          "us": "/ˈlaɪsənst/"
+        },
+        "meanings": [
+          {
+            "pos": "adj.",
+            "zh": "持有执照的",
+            "en": "Having official permission to do something."
+          },
+          {
+            "pos": "v.",
+            "zh": "授予执照",
+            "en": "To give someone official permission to do something."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Only licensed professionals can perform these medical procedures.",
+            "zh": "只有持有执照的专业人士才能进行这些医疗程序。"
+          },
+          {
+            "en": "She is a licensed teacher in her state, allowing her to teach legally.",
+            "zh": "她在她的州是持证教师，允许她合法授课。"
+          }
+        ],
+        "memoryTips": {
+          "etymology": "The word 'licensed' comes from the Latin 'licentia', meaning freedom or permission."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=licensed&type=2"
+      },
+      {
+        "id": "w05221",
+        "word": "crossroad",
+        "type": "single",
+        "chapterIndex": 30,
+        "globalIndex": 5221,
+        "chapter": "ch162",
+        "chapterName": "阅读真题认知词汇 交通阻塞",
+        "pronunciation": {
+          "us": "/ˈkrɔːs.roʊd/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "交叉路口",
+            "en": "A place where two or more roads meet."
+          },
+          {
+            "pos": "n.",
+            "zh": "十字路口",
+            "en": "A critical point where important decisions must be made."
+          }
+        ],
+        "examples": [
+          {
+            "en": "We stopped at the crossroad to decide which way to go.",
+            "zh": "我们在十字路口停下，决定走哪条路。"
+          },
+          {
+            "en": "At this crossroad in her career, she needed to make a choice.",
+            "zh": "在她职业生涯的这个十字路口，她需要做出选择。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of a crossroad as a point where paths diverge, symbolizing choices in life."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=crossroad&type=2"
+      },
+      {
+        "id": "w05222",
+        "word": "legislation",
+        "type": "single",
+        "chapterIndex": 31,
+        "globalIndex": 5222,
+        "chapter": "ch162",
+        "chapterName": "阅读真题认知词汇 交通阻塞",
+        "pronunciation": {
+          "us": "/lɛɡɪsˈleɪʃən/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "立法",
+            "en": "A law or set of laws made by a government."
+          },
+          {
+            "pos": "n.",
+            "zh": "立法过程",
+            "en": "The process of making or enacting laws."
+          }
+        ],
+        "examples": [
+          {
+            "en": "New legislation was introduced to protect endangered species in the country.",
+            "zh": "新立法被引入以保护该国的濒危物种。"
+          },
+          {
+            "en": "The government is debating new legislation to improve healthcare access.",
+            "zh": "政府正在辩论新的立法，以改善医疗保健的可及性。"
+          }
+        ],
+        "memoryTips": {
+          "etymology": "The word 'legislation' comes from the Latin 'legis' meaning 'law' and 'latio' meaning 'to make or bring.'"
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=legislation&type=2"
+      },
+      {
+        "id": "w05223",
+        "word": "speed limit",
+        "type": "phrase",
+        "chapterIndex": 32,
+        "globalIndex": 5223,
+        "chapter": "ch162",
+        "chapterName": "阅读真题认知词汇 交通阻塞",
+        "pronunciation": {
+          "us": "/spiːd ˈlɪmɪt/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "速度限制",
+            "en": "The maximum speed at which a vehicle is allowed to travel."
+          },
+          {
+            "pos": "n.",
+            "zh": "限速标志",
+            "en": "A sign indicating the maximum speed permitted on a road."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The speed limit on this highway is 65 miles per hour.",
+            "zh": "这条高速公路的限速是每小时65英里。"
+          },
+          {
+            "en": "Drivers must obey the speed limit to ensure safety.",
+            "zh": "司机必须遵守限速以确保安全。"
+          }
+        ],
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=speed%20limit&type=2"
+      },
+      {
+        "id": "w05224",
+        "word": "mobility",
+        "type": "single",
+        "chapterIndex": 33,
+        "globalIndex": 5224,
+        "chapter": "ch162",
+        "chapterName": "阅读真题认知词汇 交通阻塞",
+        "pronunciation": {
+          "us": "/məˈbɪləti/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "移动性",
+            "en": "The ability to move freely and easily."
+          },
+          {
+            "pos": "n.",
+            "zh": "灵活性",
+            "en": "The ability to adapt or change easily."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Increasing mobility in urban areas can reduce traffic congestion.",
+            "zh": "提高城市地区的流动性可以减少交通拥堵。"
+          },
+          {
+            "en": "Mobility is essential for a healthy lifestyle and well-being.",
+            "zh": "流动性对健康生活方式和幸福感至关重要。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of 'mobility' as 'mobile ability' to remember its meaning related to movement."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=mobility&type=2"
+      },
+      {
+        "id": "w05225",
+        "word": "productivity",
+        "type": "single",
+        "chapterIndex": 34,
+        "globalIndex": 5225,
+        "chapter": "ch162",
+        "chapterName": "阅读真题认知词汇 交通阻塞",
+        "pronunciation": {
+          "us": "/prəˈdʌk.tɪ.vɪ.ti/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "生产率",
+            "en": "The rate at which goods or services are produced."
+          },
+          {
+            "pos": "n.",
+            "zh": "效率",
+            "en": "The effectiveness of productive effort, especially in industry."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Improving productivity can lead to higher profits for a business.",
+            "zh": "提高生产率可以为企业带来更高的利润。"
+          },
+          {
+            "en": "Many companies invest in technology to boost employee productivity.",
+            "zh": "许多公司投资于技术以提高员工的效率。"
+          }
+        ],
+        "memoryTips": {
+          "etymology": "The word 'productivity' comes from 'produce' and the suffix '-ity', indicating the state of being productive."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=productivity&type=2"
+      },
+      {
+        "id": "w05226",
+        "word": "transport network",
+        "type": "phrase",
+        "chapterIndex": 35,
+        "globalIndex": 5226,
+        "chapter": "ch162",
+        "chapterName": "阅读真题认知词汇 交通阻塞",
+        "pronunciation": {
+          "us": "/ˈtrænspɔrt ˈnɛtˌwɜrk/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "运输网络",
+            "en": "A system of transport that connects different places."
+          },
+          {
+            "pos": "n.",
+            "zh": "交通网络",
+            "en": "The various methods and routes used for moving people or goods."
+          }
+        ],
+        "examples": [
+          {
+            "en": "A well-developed transport network is essential for economic growth.",
+            "zh": "发达的运输网络对经济增长至关重要。"
+          },
+          {
+            "en": "Many cities are improving their transport networks to reduce traffic congestion.",
+            "zh": "许多城市正在改善其交通网络以减少交通拥堵。"
+          }
+        ],
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=transport%20network&type=2"
+      }
+    ]
+  },
+  {
+    "id": "ch163",
+    "name": "阅读真题认知词汇 语言教学方法研究",
+    "category": "阅读真题认知词汇",
+    "subcategory": "语言教学方法研究",
+    "words": [
+      {
+        "id": "w05227",
+        "word": "strategy",
+        "type": "single",
+        "chapterIndex": 1,
+        "globalIndex": 5227,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/ˈstrætədʒi/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "策略",
+            "en": "A plan or method used to achieve a goal."
+          },
+          {
+            "pos": "n.",
+            "zh": "策略学",
+            "en": "The study or art of planning and directing overall operations."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The company developed a new strategy to improve sales next year.",
+            "zh": "公司制定了一个新的策略，以提高明年的销售。"
+          },
+          {
+            "en": "A successful strategy is essential for winning the competition.",
+            "zh": "成功的策略对赢得竞争至关重要。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of a chess strategy, where each move is planned to win the game."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=strategy&type=2"
+      },
+      {
+        "id": "w05228",
+        "word": "psychology",
+        "type": "single",
+        "chapterIndex": 2,
+        "globalIndex": 5228,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/saɪˈkɒlədʒi/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "心理学",
+            "en": "The study of the mind and behavior."
+          },
+          {
+            "pos": "n.",
+            "zh": "心理状态",
+            "en": "The mental and emotional state of a person."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Psychology helps us understand human behavior and emotions.",
+            "zh": "心理学帮助我们理解人类的行为和情感。"
+          },
+          {
+            "en": "Many students choose psychology to explore the mind's mysteries.",
+            "zh": "许多学生选择心理学来探索心理的奥秘。"
+          }
+        ],
+        "memoryTips": {
+          "etymology": "The word 'psychology' comes from the Greek 'psyche' meaning soul or mind and 'logos' meaning study."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=psychology&type=2"
+      },
+      {
+        "id": "w05229",
+        "word": "language teaching",
+        "type": "phrase",
+        "chapterIndex": 3,
+        "globalIndex": 5229,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/ˈlæŋɡwɪdʒ ˈtiːtʃɪŋ/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "语言教学",
+            "en": "The process of teaching people how to use a language."
+          },
+          {
+            "pos": "n.",
+            "zh": "语言教育",
+            "en": "The field that focuses on methods and practices of teaching a language."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Effective language teaching can significantly improve students' communication skills.",
+            "zh": "有效的语言教学可以显著提高学生的沟通能力。"
+          },
+          {
+            "en": "Many teachers attend workshops to enhance their language teaching techniques.",
+            "zh": "许多教师参加研讨会以提升他们的语言教学技巧。"
+          }
+        ],
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=language%20teaching&type=2"
+      },
+      {
+        "id": "w05230",
+        "word": "conventional",
+        "type": "single",
+        "chapterIndex": 4,
+        "globalIndex": 5230,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/kənˈvɛnʃənl/"
+        },
+        "meanings": [
+          {
+            "pos": "adj.",
+            "zh": "传统的",
+            "en": "Following accepted customs and practices."
+          },
+          {
+            "pos": "adj.",
+            "zh": "常规的",
+            "en": "Based on established standards or norms."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Many people prefer conventional methods of learning over modern techniques.",
+            "zh": "许多人更喜欢传统的学习方法而不是现代技术。"
+          },
+          {
+            "en": "The conventional wisdom is that hard work leads to success.",
+            "zh": "传统观念是勤奋工作会带来成功。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of 'conventional' as 'convene' + 'tional', where people gather to follow traditional practices."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=conventional&type=2"
+      },
+      {
+        "id": "w05231",
+        "word": "communicative",
+        "type": "single",
+        "chapterIndex": 5,
+        "globalIndex": 5231,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/kəˈmjunɪˌkeɪtɪv/"
+        },
+        "meanings": [
+          {
+            "pos": "adj.",
+            "zh": "善于交际的",
+            "en": "Able to communicate well with others."
+          },
+          {
+            "pos": "adj.",
+            "zh": "传达信息的",
+            "en": "Relating to the sharing of information."
+          }
+        ],
+        "examples": [
+          {
+            "en": "She is very communicative, always sharing her thoughts and ideas.",
+            "zh": "她非常善于交际，总是分享她的想法和创意。"
+          },
+          {
+            "en": "Being communicative is essential in teamwork for success.",
+            "zh": "在团队合作中，善于沟通对成功至关重要。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of 'communicative' as someone who is 'in the loop' and shares information freely."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=communicative&type=2"
+      },
+      {
+        "id": "w05232",
+        "word": "structural",
+        "type": "single",
+        "chapterIndex": 6,
+        "globalIndex": 5232,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/ˈstrʌk.tʃər.əl/"
+        },
+        "meanings": [
+          {
+            "pos": "adj.",
+            "zh": "结构的",
+            "en": "Relating to the arrangement or organization of parts."
+          },
+          {
+            "pos": "adj.",
+            "zh": "建筑的",
+            "en": "Related to the physical construction of buildings or structures."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The structural integrity of the bridge was thoroughly examined.",
+            "zh": "桥的结构完整性经过了彻底检查。"
+          },
+          {
+            "en": "They studied the structural features of ancient temples.",
+            "zh": "他们研究了古代寺庙的结构特征。"
+          }
+        ],
+        "memoryTips": {
+          "etymology": "The word 'structural' comes from the Latin 'structura', meaning 'a fitting together'."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=structural&type=2"
+      },
+      {
+        "id": "w05233",
+        "word": "incorporate",
+        "type": "single",
+        "chapterIndex": 7,
+        "globalIndex": 5233,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/ɪnˈkɔːr.pə.reɪt/"
+        },
+        "meanings": [
+          {
+            "pos": "v.",
+            "zh": "合并，纳入",
+            "en": "To combine or include something as part of a whole."
+          },
+          {
+            "pos": "v.",
+            "zh": "吸收",
+            "en": "To absorb or integrate ideas or elements into something larger."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The company decided to incorporate new technologies into their production process.",
+            "zh": "公司决定将新技术纳入他们的生产过程中。"
+          },
+          {
+            "en": "It is essential to incorporate feedback from users in the design phase.",
+            "zh": "在设计阶段，纳入用户反馈是至关重要的。"
+          }
+        ],
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=incorporate&type=2"
+      },
+      {
+        "id": "w05234",
+        "word": "grammatical rule",
+        "type": "phrase",
+        "chapterIndex": 8,
+        "globalIndex": 5234,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/ˈɡræmətɪkəl ruːl/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "语法规则",
+            "en": "A rule that explains how words are used together in a language."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Understanding grammatical rules helps improve your writing skills.",
+            "zh": "理解语法规则有助于提高你的写作技能。"
+          },
+          {
+            "en": "Teachers often emphasize the importance of following grammatical rules.",
+            "zh": "老师们常常强调遵循语法规则的重要性。"
+          }
+        ],
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=grammatical%20rule&type=2"
+      },
+      {
+        "id": "w05235",
+        "word": "hypothesis",
+        "type": "single",
+        "chapterIndex": 9,
+        "globalIndex": 5235,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/haɪˈpɒθɪsɪs/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "假设",
+            "en": "A proposed explanation for a phenomenon, often based on limited evidence."
+          },
+          {
+            "pos": "n.",
+            "zh": "假说",
+            "en": "An idea that can be tested through experiments or observations."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The scientist presented a hypothesis to explain the unusual results.",
+            "zh": "科学家提出了一个假设来解释这个不寻常的结果。"
+          },
+          {
+            "en": "Testing the hypothesis is essential for validating the research findings.",
+            "zh": "测试假设对于验证研究结果至关重要。"
+          }
+        ],
+        "memoryTips": {
+          "etymology": "The word 'hypothesis' comes from the Greek 'hypotithenai', meaning 'to put under' or 'to suppose'."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=hypothesis&type=2"
+      },
+      {
+        "id": "w05236",
+        "word": "communicative approach",
+        "type": "phrase",
+        "chapterIndex": 10,
+        "globalIndex": 5236,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/kəˈmjunɪˌkeɪtɪv əˈproʊtʃ/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "交际法",
+            "en": "A method of teaching that emphasizes interaction and communication."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The communicative approach encourages students to speak more in class.",
+            "zh": "交际法鼓励学生在课堂上多说。"
+          },
+          {
+            "en": "Many teachers prefer the communicative approach for language learning.",
+            "zh": "许多教师更喜欢交际法来学习语言。"
+          }
+        ],
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=communicative%20approach&type=2"
+      },
+      {
+        "id": "w05237",
+        "word": "cognitive",
+        "type": "single",
+        "chapterIndex": 11,
+        "globalIndex": 5237,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/ˈkɑɡ.nɪ.tɪv/"
+        },
+        "meanings": [
+          {
+            "pos": "adj.",
+            "zh": "认知的",
+            "en": "Related to the mental processes of understanding and thinking."
+          },
+          {
+            "pos": "n.",
+            "zh": "认知",
+            "en": "The process of acquiring knowledge and understanding through thought."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Cognitive development is essential for children's learning abilities.",
+            "zh": "认知发展对儿童的学习能力至关重要。"
+          },
+          {
+            "en": "Meditation can improve cognitive functions and mental clarity.",
+            "zh": "冥想可以改善认知功能和心理清晰度。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of 'cognitive' as related to 'cognition', which sounds similar and both involve thinking."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=cognitive&type=2"
+      },
+      {
+        "id": "w05238",
+        "word": "long-term memory",
+        "type": "phrase",
+        "chapterIndex": 12,
+        "globalIndex": 5238,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/lɔŋ tɜrm ˈmɛməri/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "长期记忆",
+            "en": "The ability to store and recall information over a long period."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Practicing regularly helps improve long-term memory significantly.",
+            "zh": "定期练习有助于显著提高长期记忆。"
+          },
+          {
+            "en": "Sleep is crucial for consolidating long-term memory in the brain.",
+            "zh": "睡眠对巩固大脑中的长期记忆至关重要。"
+          }
+        ],
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=long-term%20memory&type=2"
+      },
+      {
+        "id": "w05239",
+        "word": "incentive",
+        "type": "single",
+        "chapterIndex": 13,
+        "globalIndex": 5239,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/ɪnˈsɛntɪv/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "激励",
+            "en": "Something that encourages a person to do something."
+          },
+          {
+            "pos": "adj.",
+            "zh": "激励的",
+            "en": "Related to something that motivates or encourages action."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The government offers tax incentives for renewable energy projects.",
+            "zh": "政府为可再生能源项目提供税收激励。"
+          },
+          {
+            "en": "Employees need incentives to increase their productivity at work.",
+            "zh": "员工需要激励以提高他们的工作效率。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of 'incentive' as 'in-scent-ive', where a pleasant scent motivates you to enter a room."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=incentive&type=2"
+      },
+      {
+        "id": "w05240",
+        "word": "methodology",
+        "type": "single",
+        "chapterIndex": 14,
+        "globalIndex": 5240,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/ˌmɛθ.əˈdɒl.ə.dʒi/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "方法论",
+            "en": "A system of methods used in a particular area of study or activity."
+          },
+          {
+            "pos": "n.",
+            "zh": "研究方法",
+            "en": "The set of procedures or techniques used for conducting research."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The methodology of the study was clearly explained in the report.",
+            "zh": "研究的方法论在报告中得到了清晰的解释。"
+          },
+          {
+            "en": "Different methodologies can lead to different results in research.",
+            "zh": "不同的方法论可能导致研究中的不同结果。"
+          }
+        ],
+        "memoryTips": {
+          "etymology": "The word 'methodology' comes from the Greek 'methodos', meaning 'path' or 'way', combined with 'logia', meaning 'study' or 'science'."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=methodology&type=2"
+      },
+      {
+        "id": "w05241",
+        "word": "grammar translation method",
+        "type": "phrase",
+        "chapterIndex": 15,
+        "globalIndex": 5241,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/ˈɡræmər trænˈsleɪʃən ˈmɛθəd/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "语法翻译法",
+            "en": "A method of teaching languages by translating texts and focusing on grammar rules."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The grammar translation method is often used in traditional language classes.",
+            "zh": "语法翻译法通常用于传统语言课程中。"
+          },
+          {
+            "en": "Many students find the grammar translation method helpful for understanding structure.",
+            "zh": "许多学生发现语法翻译法有助于理解语言结构。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of 'grammar' as the foundation and 'translation' as the bridge connecting two languages."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=grammar%20translation%20method&type=2"
+      },
+      {
+        "id": "w05242",
+        "word": "grammatical structure",
+        "type": "phrase",
+        "chapterIndex": 16,
+        "globalIndex": 5242,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/ˈɡræmətɪkəl ˈstrʌk.tʃɚ/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "语法结构",
+            "en": "The way words are arranged in a sentence."
+          },
+          {
+            "pos": "n.",
+            "zh": "句法",
+            "en": "The system of rules that governs sentence formation."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Understanding grammatical structure is essential for clear writing.",
+            "zh": "理解语法结构对于清晰的写作至关重要。"
+          },
+          {
+            "en": "The teacher explained the grammatical structure of complex sentences.",
+            "zh": "老师解释了复杂句子的语法结构。"
+          }
+        ],
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=grammatical%20structure&type=2"
+      },
+      {
+        "id": "w05243",
+        "word": "native language",
+        "type": "phrase",
+        "chapterIndex": 17,
+        "globalIndex": 5243,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/ˈneɪtɪv ˈlæŋɡwɪdʒ/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "母语",
+            "en": "A language that a person has spoken from early childhood."
+          },
+          {
+            "pos": "n.",
+            "zh": "本国语",
+            "en": "The language that is most commonly used in a particular country."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Spanish is my native language, and I speak it fluently.",
+            "zh": "西班牙语是我的母语，我说得很流利。"
+          },
+          {
+            "en": "Many people learn English as a second language, not their native language.",
+            "zh": "许多人把英语作为第二语言学习，而不是他们的母语。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of 'native' as 'nature' - the language you grow up with, like your natural environment."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=native%20language&type=2"
+      },
+      {
+        "id": "w05244",
+        "word": "target language",
+        "type": "phrase",
+        "chapterIndex": 18,
+        "globalIndex": 5244,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/ˈtɑːrɡɪt ˈlæŋɡwɪdʒ/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "目标语言",
+            "en": "The language that a person is trying to learn or use."
+          },
+          {
+            "pos": "n.",
+            "zh": "目标语言",
+            "en": "The specific language used for communication in a learning context."
+          }
+        ],
+        "examples": [
+          {
+            "en": "In language classes, students practice speaking the target language daily.",
+            "zh": "在语言课上，学生们每天练习说目标语言。"
+          },
+          {
+            "en": "Teachers encourage students to immerse themselves in the target language.",
+            "zh": "老师鼓励学生沉浸在目标语言中。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of 'target' as hitting a bullseye, where the target language is the focus of your learning efforts."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=target%20language&type=2"
+      },
+      {
+        "id": "w05245",
+        "word": "audiolingual method",
+        "type": "phrase",
+        "chapterIndex": 19,
+        "globalIndex": 5245,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/ˌɔː.di.oʊˈlɪŋ.ɡwəl ˈmɛθ.əd/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "听说法",
+            "en": "A teaching method focusing on listening and speaking skills."
+          },
+          {
+            "pos": "n.",
+            "zh": "语言学习法",
+            "en": "An approach that emphasizes repetition and drills in language learning."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The audiolingual method is effective for learning pronunciation quickly.",
+            "zh": "听说法对于快速学习发音非常有效。"
+          },
+          {
+            "en": "Many language schools use the audiolingual method to teach new languages.",
+            "zh": "许多语言学校使用听说法来教授新语言。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of 'audio' for listening and 'lingual' for language, connecting both to the teaching method."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=audiolingual%20method&type=2"
+      },
+      {
+        "id": "w05246",
+        "word": "mimicry",
+        "type": "single",
+        "chapterIndex": 20,
+        "globalIndex": 5246,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/ˈmɪmɪkri/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "模仿",
+            "en": "The act of copying someone else's behavior or actions."
+          },
+          {
+            "pos": "n.",
+            "zh": "拟态",
+            "en": "A natural adaptation where an organism resembles another for protection or advantage."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The chameleon uses mimicry to blend into its surroundings.",
+            "zh": "变色龙利用拟态融入周围环境。"
+          },
+          {
+            "en": "Mimicry can help animals avoid predators in the wild.",
+            "zh": "拟态可以帮助动物在野外避开捕食者。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of a 'mimic' who copies others perfectly, helping you remember 'mimicry' as imitation."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=mimicry&type=2"
+      },
+      {
+        "id": "w05247",
+        "word": "direct method",
+        "type": "phrase",
+        "chapterIndex": 21,
+        "globalIndex": 5247,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/dəˈrɛkt ˈmɛθəd/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "直接法",
+            "en": "A teaching method that focuses on using the target language directly."
+          },
+          {
+            "pos": "n.",
+            "zh": "直接方法",
+            "en": "An approach in language learning that emphasizes speaking and listening."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The direct method encourages students to think in the target language.",
+            "zh": "直接法鼓励学生用目标语言思考。"
+          },
+          {
+            "en": "Many language schools adopt the direct method for effective learning.",
+            "zh": "许多语言学校采用直接法以实现有效学习。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of 'direct' as a straight path to learning, with no detours."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=direct%20method&type=2"
+      },
+      {
+        "id": "w05248",
+        "word": "first language",
+        "type": "phrase",
+        "chapterIndex": 22,
+        "globalIndex": 5248,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/fɜrst ˈlæŋɡwɪdʒ/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "第一语言",
+            "en": "The language that a person learns first in their life."
+          },
+          {
+            "pos": "n.",
+            "zh": "母语",
+            "en": "The native language spoken by a group of people."
+          }
+        ],
+        "examples": [
+          {
+            "en": "English is my first language, but I also speak Spanish.",
+            "zh": "英语是我的第一语言，但我也会说西班牙语。"
+          },
+          {
+            "en": "Many people feel a strong connection to their first language.",
+            "zh": "许多人对他们的母语有强烈的联系。"
+          }
+        ],
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=first%20language&type=2"
+      },
+      {
+        "id": "w05249",
+        "word": "linguistic",
+        "type": "single",
+        "chapterIndex": 23,
+        "globalIndex": 5249,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/lɪŋˈɡwɪstɪk/"
+        },
+        "meanings": [
+          {
+            "pos": "adj.",
+            "zh": "语言的",
+            "en": "Related to language or languages."
+          },
+          {
+            "pos": "n.",
+            "zh": "语言学",
+            "en": "The scientific study of language and its structure."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Linguistic skills are essential for effective communication in different cultures.",
+            "zh": "语言能力对于在不同文化中有效沟通至关重要。"
+          },
+          {
+            "en": "The professor specializes in linguistic analysis of ancient texts.",
+            "zh": "这位教授专注于古代文本的语言学分析。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of 'linguistic' as related to 'lingua', which means 'tongue' in Latin, often used to refer to language."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=linguistic&type=2"
+      },
+      {
+        "id": "w05250",
+        "word": "mother tongue",
+        "type": "phrase",
+        "chapterIndex": 24,
+        "globalIndex": 5250,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/ˈmʌðər tʌŋ/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "母语",
+            "en": "A person's native language that they learn from childhood."
+          },
+          {
+            "pos": "n.",
+            "zh": "母语",
+            "en": "The first language that a person speaks or understands."
+          }
+        ],
+        "examples": [
+          {
+            "en": "English is not my mother tongue; I learned it later in life.",
+            "zh": "英语不是我的母语；我后来的生活中学会了它。"
+          },
+          {
+            "en": "Many people feel proud of their mother tongue and culture.",
+            "zh": "许多人对自己的母语和文化感到自豪。"
+          }
+        ],
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=mother%20tongue&type=2"
+      },
+      {
+        "id": "w05251",
+        "word": "immigrant",
+        "type": "single",
+        "chapterIndex": 25,
+        "globalIndex": 5251,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/ˈɪmɪɡrənt/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "移民",
+            "en": "A person who comes to live permanently in a foreign country."
+          },
+          {
+            "pos": "adj.",
+            "zh": "移民的",
+            "en": "Relating to a person who has moved to another country."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Many immigrant families seek better opportunities for their children.",
+            "zh": "许多移民家庭为孩子寻找更好的机会。"
+          },
+          {
+            "en": "The city has a rich history of welcoming immigrant communities.",
+            "zh": "这座城市有着欢迎移民社区的丰富历史。"
+          }
+        ],
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=immigrant&type=2"
+      },
+      {
+        "id": "w05252",
+        "word": "ESL",
+        "type": "single",
+        "chapterIndex": 26,
+        "globalIndex": 5252,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/ˌiː ɛs ˈɛl/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "英语作为第二语言",
+            "en": "ESL refers to the study or use of English by non-native speakers."
+          },
+          {
+            "pos": "n.",
+            "zh": "英语作为第二语言的课程或教育",
+            "en": "ESL also means programs designed to teach English to those who speak other languages."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Many students enroll in ESL classes to improve their English skills.",
+            "zh": "许多学生报名参加英语作为第二语言课程以提高他们的英语水平。"
+          },
+          {
+            "en": "She teaches ESL to help immigrants adapt to their new environment.",
+            "zh": "她教授英语作为第二语言，帮助移民适应他们的新环境。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of ESL as 'English for Speakers of Other Languages', which highlights its purpose."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=ESL&type=2"
+      },
+      {
+        "id": "w05253",
+        "word": "English as a second language",
+        "type": "phrase",
+        "chapterIndex": 27,
+        "globalIndex": 5253,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/ˈɪŋɡlɪʃ æz ə ˈsɛkənd ˈlæŋɡwɪdʒ/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "英语作为第二语言",
+            "en": "The use of English by people whose first language is not English."
+          },
+          {
+            "pos": "phr.",
+            "zh": "英语作为第二语言的学习",
+            "en": "The process of learning English when it is not the native language."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Many students choose English as a second language to improve their job prospects.",
+            "zh": "许多学生选择英语作为第二语言以提高他们的就业前景。"
+          },
+          {
+            "en": "Learning English as a second language can be challenging but rewarding.",
+            "zh": "学习英语作为第二语言可能具有挑战性，但也是有回报的。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of 'English' as a bridge connecting people from different languages."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=English%20as%20a%20second%20language&type=2"
+      },
+      {
+        "id": "w05254",
+        "word": "EFL",
+        "type": "single",
+        "chapterIndex": 28,
+        "globalIndex": 5254,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/iː ɛf ɛl/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "英语作为外语",
+            "en": "EFL stands for English as a Foreign Language, which is the teaching of English to people whose first language is not English."
+          },
+          {
+            "pos": "n.",
+            "zh": "英语学习者",
+            "en": "An EFL learner is someone who is learning English in a non-English speaking country."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Many EFL students struggle with pronunciation and vocabulary.",
+            "zh": "许多英语作为外语的学生在发音和词汇上挣扎。"
+          },
+          {
+            "en": "EFL classes often use interactive methods to engage learners.",
+            "zh": "英语作为外语的课程通常使用互动方法来吸引学习者。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of EFL as 'English for Foreign Learners', emphasizing its purpose."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=EFL&type=2"
+      },
+      {
+        "id": "w05255",
+        "word": "English as a foreign language",
+        "type": "phrase",
+        "chapterIndex": 29,
+        "globalIndex": 5255,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/ˈɪŋɡlɪʃ æz ə ˈfɔrən ˈlæŋɡwɪdʒ/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "外语英语",
+            "en": "English taught to people whose first language is not English."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Many students study English as a foreign language to improve their job prospects.",
+            "zh": "许多学生学习外语英语以提高他们的就业前景。"
+          },
+          {
+            "en": "English as a foreign language is often required in international business.",
+            "zh": "在国际商务中，外语英语通常是必要的。"
+          }
+        ],
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=English%20as%20a%20foreign%20language&type=2"
+      },
+      {
+        "id": "w05256",
+        "word": "theory",
+        "type": "single",
+        "chapterIndex": 30,
+        "globalIndex": 5256,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/ˈθiːəri/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "理论",
+            "en": "A set of ideas intended to explain something."
+          },
+          {
+            "pos": "n.",
+            "zh": "学说",
+            "en": "The general principles or ideas in a particular field."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The theory of evolution explains how species change over time.",
+            "zh": "进化论解释了物种如何随着时间变化。"
+          },
+          {
+            "en": "Many scientists support the theory that climate change is caused by human activity.",
+            "zh": "许多科学家支持气候变化是由人类活动引起的理论。"
+          }
+        ],
+        "memoryTips": {
+          "etymology": "The word 'theory' comes from the Greek 'theoria', meaning 'a looking at' or 'contemplation'."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=theory&type=2"
+      },
+      {
+        "id": "w05257",
+        "word": "language teaching methodology",
+        "type": "phrase",
+        "chapterIndex": 31,
+        "globalIndex": 5257,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/ˈlæŋɡwɪdʒ ˈtiːtʃɪŋ ˌmɛθəˈdɑːlədʒi/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "语言教学方法",
+            "en": "A systematic approach to teaching languages."
+          },
+          {
+            "pos": "n.",
+            "zh": "语言教学理论",
+            "en": "The theory behind how languages are taught."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Understanding language teaching methodology is essential for effective instruction.",
+            "zh": "理解语言教学方法对有效教学至关重要。"
+          },
+          {
+            "en": "Different methodologies can significantly impact students' learning outcomes.",
+            "zh": "不同的教学方法可以显著影响学生的学习成果。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of 'methodology' as a 'method' for 'teaching' languages, linking the two concepts."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=language%20teaching%20methodology&type=2"
+      },
+      {
+        "id": "w05258",
+        "word": "applied linguistics",
+        "type": "phrase",
+        "chapterIndex": 32,
+        "globalIndex": 5258,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/əˈplaɪd ˈlɪŋɡwɪstɪks/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "应用语言学",
+            "en": "The study of how language is used in real-life situations."
+          },
+          {
+            "pos": "n.",
+            "zh": "语言学的应用",
+            "en": "A field that applies linguistic theories to practical problems."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Applied linguistics helps improve language teaching methods worldwide.",
+            "zh": "应用语言学有助于改善全球的语言教学方法。"
+          },
+          {
+            "en": "Researchers in applied linguistics study language in social contexts.",
+            "zh": "应用语言学的研究人员研究语言在社会语境中的使用。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of 'applied' as using knowledge practically, and 'linguistics' as the study of language. Together, they mean using language knowledge in real-life situations."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=applied%20linguistics&type=2"
+      },
+      {
+        "id": "w05259",
+        "word": "graphic",
+        "type": "single",
+        "chapterIndex": 33,
+        "globalIndex": 5259,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/ˈɡræfɪk/"
+        },
+        "meanings": [
+          {
+            "pos": "adj.",
+            "zh": "图形的，生动的",
+            "en": "Relating to visual art or images; very clear and vivid."
+          },
+          {
+            "pos": "n.",
+            "zh": "图形，图像",
+            "en": "A visual representation or image, often used to illustrate information."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The graphic design of the website is very appealing to users.",
+            "zh": "这个网站的图形设计对用户非常吸引。"
+          },
+          {
+            "en": "She created a graphic to summarize the research findings.",
+            "zh": "她制作了一幅图形来总结研究结果。"
+          }
+        ],
+        "memoryTips": {
+          "etymology": "The word 'graphic' comes from the Greek word 'graphikos,' meaning 'relating to writing or drawing.'"
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=graphic&type=2"
+      },
+      {
+        "id": "w05260",
+        "word": "structural linguistics",
+        "type": "phrase",
+        "chapterIndex": 34,
+        "globalIndex": 5260,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/ˈstrʌk.tʃər.əl lɪŋˈɡwɪs.tɪks/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "结构语言学",
+            "en": "The branch of linguistics that studies the structure of language."
+          },
+          {
+            "pos": "n.",
+            "zh": "结构语言学理论",
+            "en": "The theory that focuses on the systematic arrangement of language elements."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Structural linguistics helps us understand how languages are organized.",
+            "zh": "结构语言学帮助我们理解语言是如何组织的。"
+          },
+          {
+            "en": "Many modern theories in linguistics are based on structural linguistics principles.",
+            "zh": "现代语言学中的许多理论基于结构语言学的原则。"
+          }
+        ],
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=structural%20linguistics&type=2"
+      },
+      {
+        "id": "w05261",
+        "word": "structuralism",
+        "type": "single",
+        "chapterIndex": 35,
+        "globalIndex": 5261,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/ˈstrʌk.tʃər.əl.ɪ.zəm/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "结构主义",
+            "en": "A theory in philosophy and social sciences that emphasizes the structures shaping human culture."
+          },
+          {
+            "pos": "n.",
+            "zh": "结构主义",
+            "en": "An approach that analyzes cultural phenomena in terms of their underlying structures."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Structuralism offers a new way to understand cultural texts and practices.",
+            "zh": "结构主义提供了一种新的理解文化文本和实践的方式。"
+          },
+          {
+            "en": "Many scholars adopt structuralism to analyze language and literature effectively.",
+            "zh": "许多学者采用结构主义有效地分析语言和文学。"
+          }
+        ],
+        "memoryTips": {
+          "etymology": "The term comes from 'structure' and the suffix '-ism', indicating a system of beliefs related to structures."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=structuralism&type=2"
+      },
+      {
+        "id": "w05262",
+        "word": "behaviouristic",
+        "type": "single",
+        "chapterIndex": 36,
+        "globalIndex": 5262,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/bɪˈheɪvjərɪstɪk/"
+        },
+        "meanings": [
+          {
+            "pos": "adj.",
+            "zh": "行为主义的",
+            "en": "Related to the theory that all behaviors are learned from the environment."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Many psychologists support behaviouristic approaches to understanding learning.",
+            "zh": "许多心理学家支持使用行为主义的方法来理解学习。"
+          },
+          {
+            "en": "Behaviouristic theories emphasize observable actions rather than internal thoughts.",
+            "zh": "行为主义理论强调可观察的行为，而不是内部思维。"
+          }
+        ],
+        "memoryTips": {
+          "etymology": "The word 'behaviouristic' derives from 'behaviour,' which comes from the Old French 'behaivor,' meaning 'to have or hold.'",
+          "association": "Think of 'behaviouristic' as focusing on 'behaviour' in a 'scientific' way, like a 'scientist' observing actions."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=behaviouristic&type=2"
+      },
+      {
+        "id": "w05263",
+        "word": "behaviourism",
+        "type": "single",
+        "chapterIndex": 37,
+        "globalIndex": 5263,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/bɪˈheɪvjərɪzəm/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "行为主义",
+            "en": "A theory in psychology that focuses on observable behaviors."
+          },
+          {
+            "pos": "n.",
+            "zh": "行为学",
+            "en": "The study of how people act in different situations."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Behaviorism emphasizes the importance of environmental factors on behavior.",
+            "zh": "行为主义强调环境因素对行为的重要性。"
+          },
+          {
+            "en": "Many educators use behaviorism to shape students' learning habits.",
+            "zh": "许多教育工作者利用行为主义来塑造学生的学习习惯。"
+          }
+        ],
+        "memoryTips": {
+          "etymology": "The term comes from 'behavior' plus the suffix '-ism', indicating a theory or practice."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=behaviourism&type=2"
+      },
+      {
+        "id": "w05264",
+        "word": "rote",
+        "type": "single",
+        "chapterIndex": 38,
+        "globalIndex": 5264,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/roʊt/"
+        },
+        "meanings": [
+          {
+            "pos": "v.",
+            "zh": "死记硬背",
+            "en": "To learn something by repeating it many times without understanding."
+          },
+          {
+            "pos": "n.",
+            "zh": "机械记忆",
+            "en": "The act of memorizing something without comprehension."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Students often use rote learning to prepare for exams.",
+            "zh": "学生们常常通过死记硬背来准备考试。"
+          },
+          {
+            "en": "Rote memorization can be ineffective for deeper understanding.",
+            "zh": "死记硬背对深入理解可能没有效果。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of 'rote' as 'rote learning,' where you repeat information like a robot."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=rote&type=2"
+      },
+      {
+        "id": "w05265",
+        "word": "memorization",
+        "type": "single",
+        "chapterIndex": 39,
+        "globalIndex": 5265,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/ˌmɛm.ə.raɪˈzeɪ.ʃən/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "记忆，记忆力",
+            "en": "The ability to remember information."
+          },
+          {
+            "pos": "n.",
+            "zh": "背诵，记忆的过程",
+            "en": "The process of learning something so you can recall it."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Memorization of vocabulary is essential for language learning success.",
+            "zh": "词汇的记忆对语言学习的成功至关重要。"
+          },
+          {
+            "en": "Effective memorization techniques can improve students' exam performance.",
+            "zh": "有效的记忆技巧可以提高学生的考试表现。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of 'memorization' as 'memory' plus 'organization', where organizing information helps you remember better."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=memorization&type=2"
+      },
+      {
+        "id": "w05266",
+        "word": "role playing",
+        "type": "phrase",
+        "chapterIndex": 40,
+        "globalIndex": 5266,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/roʊl ˈpleɪɪŋ/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "角色扮演",
+            "en": "The activity of acting out a particular role or character."
+          },
+          {
+            "pos": "v.",
+            "zh": "进行角色扮演",
+            "en": "To perform tasks or situations by pretending to be someone else."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Role playing can help students practice their language skills effectively.",
+            "zh": "角色扮演可以帮助学生有效地练习语言技能。"
+          },
+          {
+            "en": "In therapy, role playing is used to explore different perspectives.",
+            "zh": "在治疗中，角色扮演用于探索不同的观点。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of 'role' as a character in a play and 'playing' as acting it out."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=role%20playing&type=2"
+      },
+      {
+        "id": "w05267",
+        "word": "proficiency",
+        "type": "single",
+        "chapterIndex": 41,
+        "globalIndex": 5267,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/prəˈfɪʃənsi/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "熟练，精通",
+            "en": "The ability to do something well due to training and practice."
+          },
+          {
+            "pos": "n.",
+            "zh": "能力，水平",
+            "en": "A level of skill or knowledge in a particular area."
+          }
+        ],
+        "examples": [
+          {
+            "en": "His proficiency in English helped him secure a job abroad.",
+            "zh": "他在英语方面的熟练程度帮助他在国外找到工作。"
+          },
+          {
+            "en": "The course aims to improve students' proficiency in mathematics.",
+            "zh": "该课程旨在提高学生在数学方面的能力。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of 'proficient' as being 'pro' in a skill, highlighting expertise."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=proficiency&type=2"
+      },
+      {
+        "id": "w05268",
+        "word": "psychologist",
+        "type": "single",
+        "chapterIndex": 42,
+        "globalIndex": 5268,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/saɪˈkɑːlədʒɪst/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "心理学家",
+            "en": "A professional who studies the mind and behavior."
+          },
+          {
+            "pos": "n.",
+            "zh": "心理顾问",
+            "en": "Someone who helps people with mental health issues."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The psychologist provided valuable insights into human behavior.",
+            "zh": "心理学家对人类行为提供了宝贵的见解。"
+          },
+          {
+            "en": "Many people seek help from a psychologist during tough times.",
+            "zh": "在困难时期，许多人寻求心理学家的帮助。"
+          }
+        ],
+        "memoryTips": {
+          "etymology": "The word 'psychologist' comes from the Greek 'psyche' meaning 'soul' or 'mind' and 'logos' meaning 'study' or 'discourse'."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=psychologist&type=2"
+      },
+      {
+        "id": "w05269",
+        "word": "Chomsky",
+        "type": "single",
+        "chapterIndex": 43,
+        "globalIndex": 5269,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/ˈtʃoʊmski/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "乔姆斯基（人名）",
+            "en": "Chomsky is a famous linguist and philosopher known for his theories about language."
+          },
+          {
+            "pos": "n.",
+            "zh": "乔姆斯基主义（理论）",
+            "en": "Chomskyan refers to ideas and theories developed by Noam Chomsky in linguistics."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Noam Chomsky revolutionized our understanding of language development.",
+            "zh": "诺姆·乔姆斯基彻底改变了我们对语言发展的理解。"
+          },
+          {
+            "en": "Many students study Chomsky's theories in linguistics classes.",
+            "zh": "许多学生在语言学课程中学习乔姆斯基的理论。"
+          }
+        ],
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=Chomsky&type=2"
+      },
+      {
+        "id": "w05270",
+        "word": "Chomskian",
+        "type": "single",
+        "chapterIndex": 44,
+        "globalIndex": 5270,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/ˈtʃɑːmskiən/"
+        },
+        "meanings": [
+          {
+            "pos": "adj.",
+            "zh": "乔姆斯基的",
+            "en": "Related to the theories of Noam Chomsky, especially in linguistics."
+          },
+          {
+            "pos": "n.",
+            "zh": "乔姆斯基主义者",
+            "en": "A person who supports or follows Noam Chomsky's ideas."
+          }
+        ],
+        "examples": [
+          {
+            "en": "The Chomskian approach to language emphasizes innate grammar.",
+            "zh": "乔姆斯基的语言学方法强调内在的语法。"
+          },
+          {
+            "en": "Many Chomskian theories have changed how we understand language acquisition.",
+            "zh": "许多乔姆斯基理论改变了我们对语言习得的理解。"
+          }
+        ],
+        "memoryTips": {
+          "association": "Think of Chomsky as a 'grammatical architect' who builds language structures."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=Chomskian&type=2"
+      },
+      {
+        "id": "w05271",
+        "word": "eclecticism",
+        "type": "single",
+        "chapterIndex": 45,
+        "globalIndex": 5271,
+        "chapter": "ch163",
+        "chapterName": "阅读真题认知词汇 语言教学方法研究",
+        "pronunciation": {
+          "us": "/ɪˈklɛk.tɪ.sɪ.zəm/"
+        },
+        "meanings": [
+          {
+            "pos": "n.",
+            "zh": "折衷主义",
+            "en": "The practice of combining ideas or styles from different sources."
+          },
+          {
+            "pos": "n.",
+            "zh": "兼容并蓄",
+            "en": "A philosophical approach that values diversity and variety."
+          }
+        ],
+        "examples": [
+          {
+            "en": "Her eclecticism in music reflects her diverse cultural background.",
+            "zh": "她在音乐上的折衷主义反映了她多样的文化背景。"
+          },
+          {
+            "en": "The artist's work is known for its eclecticism, mixing various styles.",
+            "zh": "这位艺术家的作品以其兼容并蓄而闻名，混合了多种风格。"
+          }
+        ],
+        "memoryTips": {
+          "etymology": "The word 'eclecticism' comes from the Greek word 'eklektikos', meaning 'selective'."
+        },
+        "audioUrl": "https://dict.youdao.com/dictvoice?audio=eclecticism&type=2"
+      }
+    ]
+  }
+]
