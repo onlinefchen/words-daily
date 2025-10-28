@@ -1,0 +1,1313 @@
+{
+  "version": "1.0",
+  "source": "剑桥雅思词汇精典",
+  "totalChapters": 163,
+  "totalWords": 5271,
+  "lastUpdated": "2025-10-28T07:18:51.480Z",
+  "chapters": [
+    {
+      "id": "ch001",
+      "name": "基本词汇 动词200 Unit 1",
+      "category": "基本词汇",
+      "subcategory": "动词",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch002",
+      "name": "基本词汇 动词200 Unit 2",
+      "category": "基本词汇",
+      "subcategory": "动词",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch003",
+      "name": "基本词汇 动词200 Unit 3",
+      "category": "基本词汇",
+      "subcategory": "动词",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch004",
+      "name": "基本词汇 动词200 Unit 4",
+      "category": "基本词汇",
+      "subcategory": "动词",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch005",
+      "name": "基本词汇 动词200 Unit 5",
+      "category": "基本词汇",
+      "subcategory": "动词",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch006",
+      "name": "基本词汇 动词200 Unit 6",
+      "category": "基本词汇",
+      "subcategory": "动词",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch007",
+      "name": "基本词汇 动词200 Unit 7",
+      "category": "基本词汇",
+      "subcategory": "动词",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch008",
+      "name": "基本词汇 动词200 Unit 8",
+      "category": "基本词汇",
+      "subcategory": "动词",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch009",
+      "name": "基本词汇 动词200 Unit 9",
+      "category": "基本词汇",
+      "subcategory": "动词",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch010",
+      "name": "基本词汇 动词200 Unit 10",
+      "category": "基本词汇",
+      "subcategory": "动词",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch011",
+      "name": "基本词汇 名词200 Unit 1",
+      "category": "基本词汇",
+      "subcategory": "名词",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch012",
+      "name": "基本词汇 名词200 Unit 2",
+      "category": "基本词汇",
+      "subcategory": "名词",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch013",
+      "name": "基本词汇 名词200 Unit 3",
+      "category": "基本词汇",
+      "subcategory": "名词",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch014",
+      "name": "基本词汇 名词200 Unit 4",
+      "category": "基本词汇",
+      "subcategory": "名词",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch015",
+      "name": "基本词汇 名词200 Unit 5",
+      "category": "基本词汇",
+      "subcategory": "名词",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch016",
+      "name": "基本词汇 名词200 Unit 6",
+      "category": "基本词汇",
+      "subcategory": "名词",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch017",
+      "name": "基本词汇 名词200 Unit 7",
+      "category": "基本词汇",
+      "subcategory": "名词",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch018",
+      "name": "基本词汇 名词200 Unit 8",
+      "category": "基本词汇",
+      "subcategory": "名词",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch019",
+      "name": "基本词汇 名词200 Unit 9",
+      "category": "基本词汇",
+      "subcategory": "名词",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch020",
+      "name": "基本词汇 名词200 Unit 10",
+      "category": "基本词汇",
+      "subcategory": "名词",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch021",
+      "name": "基本词汇 形容词和副词400 Unit 1",
+      "category": "基本词汇",
+      "subcategory": "形容词和副词",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch022",
+      "name": "基本词汇 形容词和副词400 Unit 2",
+      "category": "基本词汇",
+      "subcategory": "形容词和副词",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch023",
+      "name": "基本词汇 形容词和副词400 Unit 3",
+      "category": "基本词汇",
+      "subcategory": "形容词和副词",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch024",
+      "name": "基本词汇 形容词和副词400 Unit 4",
+      "category": "基本词汇",
+      "subcategory": "形容词和副词",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch025",
+      "name": "基本词汇 形容词和副词400 Unit 5",
+      "category": "基本词汇",
+      "subcategory": "形容词和副词",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch026",
+      "name": "基本词汇 形容词和副词400 Unit 6",
+      "category": "基本词汇",
+      "subcategory": "形容词和副词",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch027",
+      "name": "基本词汇 形容词和副词400 Unit 7",
+      "category": "基本词汇",
+      "subcategory": "形容词和副词",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch028",
+      "name": "基本词汇 形容词和副词400 Unit 8",
+      "category": "基本词汇",
+      "subcategory": "形容词和副词",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch029",
+      "name": "基本词汇 形容词和副词400 Unit 9",
+      "category": "基本词汇",
+      "subcategory": "形容词和副词",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch030",
+      "name": "基本词汇 形容词和副词400 Unit 10",
+      "category": "基本词汇",
+      "subcategory": "形容词和副词",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch031",
+      "name": "基本词汇 形容词和副词400 Unit 11",
+      "category": "基本词汇",
+      "subcategory": "形容词和副词",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch032",
+      "name": "基本词汇 形容词和副词400 Unit 12",
+      "category": "基本词汇",
+      "subcategory": "形容词和副词",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch033",
+      "name": "基本词汇 形容词和副词400 Unit 13",
+      "category": "基本词汇",
+      "subcategory": "形容词和副词",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch034",
+      "name": "基本词汇 形容词和副词400 Unit 14",
+      "category": "基本词汇",
+      "subcategory": "形容词和副词",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch035",
+      "name": "基本词汇 形容词和副词400 Unit 15",
+      "category": "基本词汇",
+      "subcategory": "形容词和副词",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch036",
+      "name": "基本词汇 形容词和副词400 Unit 16",
+      "category": "基本词汇",
+      "subcategory": "形容词和副词",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch037",
+      "name": "基本词汇 形容词和副词400 Unit 17",
+      "category": "基本词汇",
+      "subcategory": "形容词和副词",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch038",
+      "name": "基本词汇 形容词和副词400 Unit 18",
+      "category": "基本词汇",
+      "subcategory": "形容词和副词",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch039",
+      "name": "基本词汇 形容词和副词400 Unit 19",
+      "category": "基本词汇",
+      "subcategory": "形容词和副词",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch040",
+      "name": "基本词汇 形容词和副词400 Unit 20",
+      "category": "基本词汇",
+      "subcategory": "形容词和副词",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch041",
+      "name": "核心词汇 科技发展 Unit 1",
+      "category": "核心词汇",
+      "subcategory": "1",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch042",
+      "name": "核心词汇 科技发展 Unit 2",
+      "category": "核心词汇",
+      "subcategory": "2",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch043",
+      "name": "核心词汇 科技发展 Unit 3",
+      "category": "核心词汇",
+      "subcategory": "3",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch044",
+      "name": "核心词汇 科技发展 Unit 4",
+      "category": "核心词汇",
+      "subcategory": "4",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch045",
+      "name": "核心词汇 科技发展 Unit 5",
+      "category": "核心词汇",
+      "subcategory": "5",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch046",
+      "name": "核心词汇 环境保护 Unit 1",
+      "category": "核心词汇",
+      "subcategory": "1",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch047",
+      "name": "核心词汇 环境保护 Unit 2",
+      "category": "核心词汇",
+      "subcategory": "2",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch048",
+      "name": "核心词汇 环境保护 Unit 3",
+      "category": "核心词汇",
+      "subcategory": "3",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch049",
+      "name": "核心词汇 环境保护 Unit 4",
+      "category": "核心词汇",
+      "subcategory": "4",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch050",
+      "name": "核心词汇 环境保护 Unit 5",
+      "category": "核心词汇",
+      "subcategory": "5",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch051",
+      "name": "核心词汇 文化与传统 Unit 1",
+      "category": "核心词汇",
+      "subcategory": "1",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch052",
+      "name": "核心词汇 文化与传统 Unit 2",
+      "category": "核心词汇",
+      "subcategory": "2",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch053",
+      "name": "核心词汇 文化与传统 Unit 3",
+      "category": "核心词汇",
+      "subcategory": "3",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch054",
+      "name": "核心词汇 文化与传统 Unit 4",
+      "category": "核心词汇",
+      "subcategory": "4",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch055",
+      "name": "核心词汇 文化与传统 Unit 5",
+      "category": "核心词汇",
+      "subcategory": "5",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch056",
+      "name": "核心词汇 伦理与道德 Unit 1",
+      "category": "核心词汇",
+      "subcategory": "1",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch057",
+      "name": "核心词汇 伦理与道德 Unit 2",
+      "category": "核心词汇",
+      "subcategory": "2",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch058",
+      "name": "核心词汇 伦理与道德 Unit 3",
+      "category": "核心词汇",
+      "subcategory": "3",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch059",
+      "name": "核心词汇 伦理与道德 Unit 4",
+      "category": "核心词汇",
+      "subcategory": "4",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch060",
+      "name": "核心词汇 伦理与道德 Unit 5",
+      "category": "核心词汇",
+      "subcategory": "5",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch061",
+      "name": "核心词汇 青少年教育 Unit 1",
+      "category": "核心词汇",
+      "subcategory": "1",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch062",
+      "name": "核心词汇 青少年教育 Unit 2",
+      "category": "核心词汇",
+      "subcategory": "2",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch063",
+      "name": "核心词汇 青少年教育 Unit 3",
+      "category": "核心词汇",
+      "subcategory": "3",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch064",
+      "name": "核心词汇 青少年教育 Unit 4",
+      "category": "核心词汇",
+      "subcategory": "4",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch065",
+      "name": "核心词汇 青少年教育 Unit 5",
+      "category": "核心词汇",
+      "subcategory": "5",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch066",
+      "name": "核心词汇 青少年教育 Unit 6",
+      "category": "核心词汇",
+      "subcategory": "6",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch067",
+      "name": "核心词汇 青少年教育 Unit 7",
+      "category": "核心词汇",
+      "subcategory": "7",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch068",
+      "name": "核心词汇 青少年教育 Unit 8",
+      "category": "核心词汇",
+      "subcategory": "8",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch069",
+      "name": "核心词汇 青少年教育 Unit 9",
+      "category": "核心词汇",
+      "subcategory": "9",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch070",
+      "name": "核心词汇 青少年教育 Unit 10",
+      "category": "核心词汇",
+      "subcategory": "10",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch071",
+      "name": "核心词汇 动物权益与保护 Unit 1",
+      "category": "核心词汇",
+      "subcategory": "1",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch072",
+      "name": "核心词汇 动物权益与保护 Unit 2",
+      "category": "核心词汇",
+      "subcategory": "2",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch073",
+      "name": "核心词汇 动物权益与保护 Unit 3",
+      "category": "核心词汇",
+      "subcategory": "3",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch074",
+      "name": "核心词汇 动物权益与保护 Unit 4",
+      "category": "核心词汇",
+      "subcategory": "4",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch075",
+      "name": "核心词汇 动物权益与保护 Unit 5",
+      "category": "核心词汇",
+      "subcategory": "5",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch076",
+      "name": "核心词汇 民主与权利 Unit 1",
+      "category": "核心词汇",
+      "subcategory": "1",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch077",
+      "name": "核心词汇 民主与权利 Unit 2",
+      "category": "核心词汇",
+      "subcategory": "2",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch078",
+      "name": "核心词汇 民主与权利 Unit 3",
+      "category": "核心词汇",
+      "subcategory": "3",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch079",
+      "name": "核心词汇 民主与权利 Unit 4",
+      "category": "核心词汇",
+      "subcategory": "4",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch080",
+      "name": "核心词汇 民主与权利 Unit 5",
+      "category": "核心词汇",
+      "subcategory": "5",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch081",
+      "name": "核心词汇 工作与生活 Unit 1",
+      "category": "核心词汇",
+      "subcategory": "1",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch082",
+      "name": "核心词汇 工作与生活 Unit 2",
+      "category": "核心词汇",
+      "subcategory": "2",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch083",
+      "name": "核心词汇 工作与生活 Unit 3",
+      "category": "核心词汇",
+      "subcategory": "3",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch084",
+      "name": "核心词汇 工作与生活 Unit 4",
+      "category": "核心词汇",
+      "subcategory": "4",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch085",
+      "name": "核心词汇 工作与生活 Unit 5",
+      "category": "核心词汇",
+      "subcategory": "5",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch086",
+      "name": "核心词汇 法制与犯罪 Unit 1",
+      "category": "核心词汇",
+      "subcategory": "1",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch087",
+      "name": "核心词汇 法制与犯罪 Unit 2",
+      "category": "核心词汇",
+      "subcategory": "2",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch088",
+      "name": "核心词汇 法制与犯罪 Unit 3",
+      "category": "核心词汇",
+      "subcategory": "3",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch089",
+      "name": "核心词汇 法制与犯罪 Unit 4",
+      "category": "核心词汇",
+      "subcategory": "4",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch090",
+      "name": "核心词汇 法制与犯罪 Unit 5",
+      "category": "核心词汇",
+      "subcategory": "5",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch091",
+      "name": "核心词汇 健康话题 Unit 1",
+      "category": "核心词汇",
+      "subcategory": "1",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch092",
+      "name": "核心词汇 健康话题 Unit 2",
+      "category": "核心词汇",
+      "subcategory": "2",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch093",
+      "name": "核心词汇 健康话题 Unit 3",
+      "category": "核心词汇",
+      "subcategory": "3",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch094",
+      "name": "核心词汇 健康话题 Unit 4",
+      "category": "核心词汇",
+      "subcategory": "4",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch095",
+      "name": "核心词汇 健康话题 Unit 5",
+      "category": "核心词汇",
+      "subcategory": "5",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch096",
+      "name": "认知词汇 动物分类 常考生物",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 397,
+      "estimatedMinutes": 596
+    },
+    {
+      "id": "ch097",
+      "name": "认知词汇 动物分类 动物航行能力",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 41,
+      "estimatedMinutes": 62
+    },
+    {
+      "id": "ch098",
+      "name": "认知词汇 动物分类 动物思维",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch099",
+      "name": "认知词汇 动物分类 动物行为",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 24,
+      "estimatedMinutes": 36
+    },
+    {
+      "id": "ch100",
+      "name": "认知词汇 动物分类 动物智力与语言习得",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 50,
+      "estimatedMinutes": 75
+    },
+    {
+      "id": "ch101",
+      "name": "认知词汇 自然分类 北极的恶劣气候",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 15,
+      "estimatedMinutes": 23
+    },
+    {
+      "id": "ch102",
+      "name": "认知词汇 自然分类 地震",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 81,
+      "estimatedMinutes": 122
+    },
+    {
+      "id": "ch103",
+      "name": "认知词汇 自然分类 \"厄尔尼诺\"现象",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 39,
+      "estimatedMinutes": 59
+    },
+    {
+      "id": "ch104",
+      "name": "认知词汇 自然分类 海沙流失",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 18,
+      "estimatedMinutes": 27
+    },
+    {
+      "id": "ch105",
+      "name": "认知词汇 自然分类 火山",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 74,
+      "estimatedMinutes": 111
+    },
+    {
+      "id": "ch106",
+      "name": "认知词汇 自然分类 全球变暖",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 49,
+      "estimatedMinutes": 74
+    },
+    {
+      "id": "ch107",
+      "name": "认知词汇 自然分类 热带雨林",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 69,
+      "estimatedMinutes": 104
+    },
+    {
+      "id": "ch108",
+      "name": "认知词汇 自然分类 闪电",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 25,
+      "estimatedMinutes": 38
+    },
+    {
+      "id": "ch109",
+      "name": "认知词汇 自然分类 海底热资源",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 18,
+      "estimatedMinutes": 27
+    },
+    {
+      "id": "ch110",
+      "name": "认知词汇 环境分类 伦敦大雾",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 56,
+      "estimatedMinutes": 84
+    },
+    {
+      "id": "ch111",
+      "name": "认知词汇 环境分类 绿色农业",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 39,
+      "estimatedMinutes": 59
+    },
+    {
+      "id": "ch112",
+      "name": "认知词汇 环境分类 人类与动物灭绝",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 57,
+      "estimatedMinutes": 86
+    },
+    {
+      "id": "ch113",
+      "name": "认知词汇 环境分类 欧洲森林保护",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 76,
+      "estimatedMinutes": 114
+    },
+    {
+      "id": "ch114",
+      "name": "认知词汇 环境分类 病虫害防治",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 33,
+      "estimatedMinutes": 50
+    },
+    {
+      "id": "ch115",
+      "name": "认知词汇 健康分类 室内空气综合征",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 78,
+      "estimatedMinutes": 117
+    },
+    {
+      "id": "ch116",
+      "name": "认知词汇 健康分类 吸烟与被动吸烟",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 64,
+      "estimatedMinutes": 96
+    },
+    {
+      "id": "ch117",
+      "name": "认知词汇 健康分类 澳大利亚医疗研究",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 55,
+      "estimatedMinutes": 83
+    },
+    {
+      "id": "ch118",
+      "name": "认知词汇 健康分类 澳大利亚皮肤癌研究",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch119",
+      "name": "认知词汇 健康分类 运动与青少年健康",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 23,
+      "estimatedMinutes": 35
+    },
+    {
+      "id": "ch120",
+      "name": "认知词汇 科技分类 莫尔斯电码",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 63,
+      "estimatedMinutes": 95
+    },
+    {
+      "id": "ch121",
+      "name": "认知词汇 科技分类 桥梁检测",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 134,
+      "estimatedMinutes": 201
+    },
+    {
+      "id": "ch122",
+      "name": "认知词汇 科技分类 染料与颜料",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 49,
+      "estimatedMinutes": 74
+    },
+    {
+      "id": "ch123",
+      "name": "认知词汇 科技分类 探索太空生物",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 77,
+      "estimatedMinutes": 116
+    },
+    {
+      "id": "ch124",
+      "name": "认知词汇 历史分类 地图发展史",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 90,
+      "estimatedMinutes": 135
+    },
+    {
+      "id": "ch125",
+      "name": "认知词汇 历史分类 交通工具发展史",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 45,
+      "estimatedMinutes": 68
+    },
+    {
+      "id": "ch126",
+      "name": "认知词汇 历史分类 电影发展史",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 65,
+      "estimatedMinutes": 98
+    },
+    {
+      "id": "ch127",
+      "name": "认知词汇 历史分类 记时器发展史",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 85,
+      "estimatedMinutes": 128
+    },
+    {
+      "id": "ch128",
+      "name": "认知词汇 历史分类 钱币发展史",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 110,
+      "estimatedMinutes": 165
+    },
+    {
+      "id": "ch129",
+      "name": "认知词汇 历史分类 数字发展史",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 50,
+      "estimatedMinutes": 75
+    },
+    {
+      "id": "ch130",
+      "name": "认知词汇 历史分类 电讯发展史",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 35,
+      "estimatedMinutes": 53
+    },
+    {
+      "id": "ch131",
+      "name": "认知词汇 历史分类 淘金史",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 34,
+      "estimatedMinutes": 51
+    },
+    {
+      "id": "ch132",
+      "name": "认知词汇 教育分类 语言变迁原因",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 20,
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "ch133",
+      "name": "认知词汇 教育分类 双语教育",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 31,
+      "estimatedMinutes": 47
+    },
+    {
+      "id": "ch134",
+      "name": "认知词汇 教育分类 阅读技能",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 52,
+      "estimatedMinutes": 78
+    },
+    {
+      "id": "ch135",
+      "name": "认知词汇 教育分类 校园暴力",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 39,
+      "estimatedMinutes": 59
+    },
+    {
+      "id": "ch136",
+      "name": "认知词汇 教育分类 天才",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 25,
+      "estimatedMinutes": 38
+    },
+    {
+      "id": "ch137",
+      "name": "认知词汇 教育分类 学术道德与剽窃",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 22,
+      "estimatedMinutes": 33
+    },
+    {
+      "id": "ch138",
+      "name": "认知词汇 教育分类 远程教育",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 40,
+      "estimatedMinutes": 60
+    },
+    {
+      "id": "ch139",
+      "name": "认知词汇 社会与生活分类 工作与家庭冲突",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 47,
+      "estimatedMinutes": 71
+    },
+    {
+      "id": "ch140",
+      "name": "认知词汇 社会与生活分类 面试技巧",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 28,
+      "estimatedMinutes": 42
+    },
+    {
+      "id": "ch141",
+      "name": "认知词汇 社会与生活分类 市场营销",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 31,
+      "estimatedMinutes": 47
+    },
+    {
+      "id": "ch142",
+      "name": "认知词汇 社会与生活分类 提高运动员成绩",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 49,
+      "estimatedMinutes": 74
+    },
+    {
+      "id": "ch143",
+      "name": "认知词汇 社会与生活分类 医生与药品推销",
+      "category": "基本词汇",
+      "subcategory": "",
+      "wordCount": 57,
+      "estimatedMinutes": 86
+    },
+    {
+      "id": "ch144",
+      "name": "阅读真题认知词汇 恐龙的灭绝",
+      "category": "阅读真题认知词汇",
+      "subcategory": "恐龙的灭绝",
+      "wordCount": 41,
+      "estimatedMinutes": 62
+    },
+    {
+      "id": "ch145",
+      "name": "阅读真题认知词汇 蚂蚁智商",
+      "category": "阅读真题认知词汇",
+      "subcategory": "蚂蚁智商",
+      "wordCount": 33,
+      "estimatedMinutes": 50
+    },
+    {
+      "id": "ch146",
+      "name": "阅读真题认知词汇 生物钟",
+      "category": "阅读真题认知词汇",
+      "subcategory": "生物钟",
+      "wordCount": 31,
+      "estimatedMinutes": 47
+    },
+    {
+      "id": "ch147",
+      "name": "阅读真题认知词汇 植物情感实验",
+      "category": "阅读真题认知词汇",
+      "subcategory": "植物情感实验",
+      "wordCount": 28,
+      "estimatedMinutes": 42
+    },
+    {
+      "id": "ch148",
+      "name": "阅读真题认知词汇 冰河时代",
+      "category": "阅读真题认知词汇",
+      "subcategory": "冰河时代",
+      "wordCount": 39,
+      "estimatedMinutes": 59
+    },
+    {
+      "id": "ch149",
+      "name": "阅读真题认知词汇 濒临灭绝的少数民族语言",
+      "category": "阅读真题认知词汇",
+      "subcategory": "濒临灭绝的少数民族语言",
+      "wordCount": 39,
+      "estimatedMinutes": 59
+    },
+    {
+      "id": "ch150",
+      "name": "阅读真题认知词汇 短信互动电视",
+      "category": "阅读真题认知词汇",
+      "subcategory": "短信互动电视",
+      "wordCount": 43,
+      "estimatedMinutes": 65
+    },
+    {
+      "id": "ch151",
+      "name": "阅读真题认知词汇 英国儿童肥胖症",
+      "category": "阅读真题认知词汇",
+      "subcategory": "英国儿童肥胖症",
+      "wordCount": 30,
+      "estimatedMinutes": 45
+    },
+    {
+      "id": "ch152",
+      "name": "阅读真题认知词汇 法国古堡",
+      "category": "阅读真题认知词汇",
+      "subcategory": "法国古堡",
+      "wordCount": 32,
+      "estimatedMinutes": 48
+    },
+    {
+      "id": "ch153",
+      "name": "阅读真题认知词汇 乐观与健康的关系",
+      "category": "阅读真题认知词汇",
+      "subcategory": "乐观与健康的关系",
+      "wordCount": 30,
+      "estimatedMinutes": 45
+    },
+    {
+      "id": "ch154",
+      "name": "阅读真题认知词汇 粮食增产与环境污染",
+      "category": "阅读真题认知词汇",
+      "subcategory": "粮食增产与环境污染",
+      "wordCount": 37,
+      "estimatedMinutes": 56
+    },
+    {
+      "id": "ch155",
+      "name": "阅读真题认知词汇 美国肥胖问题",
+      "category": "阅读真题认知词汇",
+      "subcategory": "美国肥胖问题",
+      "wordCount": 26,
+      "estimatedMinutes": 39
+    },
+    {
+      "id": "ch156",
+      "name": "阅读真题认知词汇 小班教学",
+      "category": "阅读真题认知词汇",
+      "subcategory": "小班教学",
+      "wordCount": 28,
+      "estimatedMinutes": 42
+    },
+    {
+      "id": "ch157",
+      "name": "阅读真题认知词汇 男女共校",
+      "category": "阅读真题认知词汇",
+      "subcategory": "男女共校",
+      "wordCount": 22,
+      "estimatedMinutes": 33
+    },
+    {
+      "id": "ch158",
+      "name": "阅读真题认知词汇 香蕉种植",
+      "category": "阅读真题认知词汇",
+      "subcategory": "香蕉种植",
+      "wordCount": 26,
+      "estimatedMinutes": 39
+    },
+    {
+      "id": "ch159",
+      "name": "阅读真题认知词汇 雪崩",
+      "category": "阅读真题认知词汇",
+      "subcategory": "雪崩",
+      "wordCount": 24,
+      "estimatedMinutes": 36
+    },
+    {
+      "id": "ch160",
+      "name": "阅读真题认知词汇 英国建筑",
+      "category": "阅读真题认知词汇",
+      "subcategory": "英国建筑",
+      "wordCount": 50,
+      "estimatedMinutes": 75
+    },
+    {
+      "id": "ch161",
+      "name": "阅读真题认知词汇 电脑化的交通工具",
+      "category": "阅读真题认知词汇",
+      "subcategory": "电脑化的交通工具",
+      "wordCount": 33,
+      "estimatedMinutes": 50
+    },
+    {
+      "id": "ch162",
+      "name": "阅读真题认知词汇 交通阻塞",
+      "category": "阅读真题认知词汇",
+      "subcategory": "交通阻塞",
+      "wordCount": 35,
+      "estimatedMinutes": 53
+    },
+    {
+      "id": "ch163",
+      "name": "阅读真题认知词汇 语言教学方法研究",
+      "category": "阅读真题认知词汇",
+      "subcategory": "语言教学方法研究",
+      "wordCount": 45,
+      "estimatedMinutes": 68
+    }
+  ]
+}
