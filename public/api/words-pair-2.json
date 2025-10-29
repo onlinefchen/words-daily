@@ -1,63 +1,69 @@
 {
-  "generated": "2025-10-28T22:08:10.350Z",
+  "generated": "2025-10-29T22:08:05.732Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "ulterior",
-      "pronunciation": "/ʌlˈtɪəriər/",
+      "word": "provide",
+      "pronunciation": "/prəˈvaɪd/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "隐秘的，别有用心的",
-          "en": "Something that is hidden and not immediately obvious."
+          "pos": "v.",
+          "zh": "提供",
+          "en": "To give someone what they need or want."
+        },
+        {
+          "pos": "v.",
+          "zh": "供应",
+          "en": "To supply or make something available."
         }
       ],
       "examples": [
         {
-          "en": "He had ulterior motives for helping her with the project.",
-          "zh": "他帮助她完成项目有隐秘的动机。"
+          "en": "The school aims to provide quality education for all students.",
+          "zh": "学校的目标是为所有学生提供优质教育。"
         },
         {
-          "en": "Her ulterior plan was to gain influence in the company.",
-          "zh": "她的隐秘计划是为了在公司获得影响力。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ulterior&type=2",
-      "chapter": "核心词汇 伦理与道德 Unit 5"
-    },
-    {
-      "word": "infrastructure",
-      "pronunciation": "/ˈɪnfrəˌstrʌk.tʃər/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "基础设施",
-          "en": "The basic physical systems of a country or organization, like transportation and communication."
-        },
-        {
-          "pos": "n.",
-          "zh": "建筑基础",
-          "en": "The fundamental facilities and systems that support the economy and services."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The government is investing in new infrastructure projects to boost the economy.",
-          "zh": "政府正在投资新的基础设施项目以促进经济。"
-        },
-        {
-          "en": "Good infrastructure is essential for a country’s development and growth.",
-          "zh": "良好的基础设施对一个国家的发展和增长至关重要。"
+          "en": "We need to provide more resources for our community projects.",
+          "zh": "我们需要为我们的社区项目提供更多资源。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'infrastructure' comes from the French 'infrastructure', meaning 'under-structure'. It combines 'infra-' meaning 'below' and 'structure'.",
-        "association": "Think of 'infrastructure' as the 'foundation' or 'underlying structure' of a city, similar to the base of a building."
+        "association": "Think of 'provide' as 'pro' (for) + 'vide' (video) - to make a video available for someone."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=infrastructure&type=2",
-      "chapter": "基本词汇 名词200 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=provide&type=2",
+      "chapter": "基本词汇 动词200 Unit 9"
+    },
+    {
+      "word": "mechanical",
+      "pronunciation": "/məˈkæn.ɪ.kəl/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "机械的",
+          "en": "Related to machines or tools."
+        },
+        {
+          "pos": "adj.",
+          "zh": "呆板的",
+          "en": "Lacking emotion or spontaneity; routine."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The mechanical parts of the robot work together smoothly.",
+          "zh": "机器人的机械部件协同工作顺畅。"
+        },
+        {
+          "en": "Her mechanical response showed no real interest in the topic.",
+          "zh": "她机械的回答对这个话题没有真正的兴趣。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'mechanical' as something that operates like a machine, which is often predictable and automatic."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=mechanical&type=2",
+      "chapter": "核心词汇 科技发展 Unit 3"
     }
   ]
 }

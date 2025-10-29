@@ -1,64 +1,67 @@
 {
-  "generated": "2025-10-28T22:08:10.351Z",
+  "generated": "2025-10-29T22:08:05.733Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "guidance",
-      "pronunciation": "/ˈɡaɪdəns/",
+      "word": "flying capacity",
+      "pronunciation": "/ˈflaɪɪŋ kəˈpæsɪti/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "指导",
-          "en": "Advice or information aimed at helping someone."
+          "zh": "飞行能力",
+          "en": "The ability of an aircraft to fly, often measured by its weight and design."
         },
         {
           "pos": "n.",
-          "zh": "引导",
-          "en": "The act of leading or directing someone in a certain direction."
+          "zh": "飞行容量",
+          "en": "The maximum amount of weight or number of passengers an aircraft can carry while flying."
         }
       ],
       "examples": [
         {
-          "en": "She sought guidance on how to improve her writing skills.",
-          "zh": "她寻求关于如何提高写作技巧的指导。"
+          "en": "The flying capacity of this new airplane is significantly higher than previous models.",
+          "zh": "这款新飞机的飞行能力明显高于之前的型号。"
         },
         {
-          "en": "The teacher provided guidance to the students during their project.",
-          "zh": "老师在学生的项目期间提供了指导。"
+          "en": "Engine improvements have increased the flying capacity for commercial jets.",
+          "zh": "发动机的改进提高了商用喷气机的飞行容量。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'guide' as someone who leads you; 'guidance' is the support they provide."
+        "association": "Think of 'flying' as soaring through the sky and 'capacity' as the limit of what can be carried, like a suitcase."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=guidance&type=2",
-      "chapter": "基本词汇 名词200 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=flying%20capacity&type=2",
+      "chapter": "认知词汇 动物分类 动物航行能力"
     },
     {
-      "word": "astonishing",
-      "pronunciation": "/əˈstɒn.ɪ.ʃɪŋ/",
+      "word": "cruising speed",
+      "pronunciation": "/ˈkruːzɪŋ spiːd/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "令人惊讶的",
-          "en": "Something that is very surprising or impressive."
+          "pos": "n.",
+          "zh": "巡航速度",
+          "en": "The speed at which a vehicle travels steadily."
+        },
+        {
+          "pos": "n.",
+          "zh": "稳定的行驶速度",
+          "en": "A constant speed maintained during travel, especially in aviation or shipping."
         }
       ],
       "examples": [
         {
-          "en": "The magician's tricks were absolutely astonishing and left everyone speechless.",
-          "zh": "魔术师的把戏令人惊讶，让每个人都说不出话来。"
+          "en": "The airplane reached its cruising speed after takeoff.",
+          "zh": "飞机在起飞后达到了巡航速度。"
         },
         {
-          "en": "It is astonishing how much progress she has made in such a short time.",
-          "zh": "她在这么短的时间内取得的进步令人惊讶。"
+          "en": "The ship maintained a cruising speed to optimize fuel efficiency.",
+          "zh": "这艘船保持巡航速度以优化燃油效率。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'astonishing' as 'a stone in the shin'—an unexpected shock that surprises you."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=astonishing&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 2"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cruising%20speed&type=2",
+      "chapter": "认知词汇 动物分类 动物航行能力"
     }
   ]
 }

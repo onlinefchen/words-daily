@@ -1,68 +1,66 @@
 {
-  "generated": "2025-10-28T22:08:10.350Z",
+  "generated": "2025-10-29T22:08:05.732Z",
   "count": 2,
   "words": [
     {
-      "word": "immature",
-      "pronunciation": "/ˌɪməˈtʃʊr/",
+      "word": "Mercator",
+      "pronunciation": "/mɜːrˈkeɪtər/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "不成熟的",
-          "en": "Not fully developed; behaving like a child."
+          "pos": "n.",
+          "zh": "梅卡托投影法",
+          "en": "A type of map projection that distorts size but preserves shape."
         },
         {
-          "pos": "adj.",
-          "zh": "幼稚的",
-          "en": "Lacking in adult qualities or wisdom."
+          "pos": "n.",
+          "zh": "梅卡托",
+          "en": "The name of a Flemish cartographer known for his map projections."
         }
       ],
       "examples": [
         {
-          "en": "His immature behavior often annoys his friends.",
-          "zh": "他幼稚的行为常常让朋友感到烦恼。"
+          "en": "The Mercator projection is widely used for navigation purposes.",
+          "zh": "梅卡托投影广泛用于导航目的。"
         },
         {
-          "en": "She made an immature decision that affected everyone.",
-          "zh": "她做出了一个影响所有人的幼稚决定。"
+          "en": "Mercator's maps helped sailors to plot their courses accurately.",
+          "zh": "梅卡托的地图帮助水手准确绘制航线。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'immature' as 'not mature', like a fruit that isn't ripe."
+        "association": "Think of 'Mercator' like a 'marker' for navigation on a map."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=immature&type=2",
-      "chapter": "核心词汇 法制与犯罪 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=Mercator&type=2",
+      "chapter": "认知词汇 历史分类 地图发展史"
     },
     {
-      "word": "cross-contamination",
-      "pronunciation": "/ˈkrɔs ˌkɒntæmɪˈneɪʃən/",
+      "word": "disposal",
+      "pronunciation": "/dɪsˈpoʊ.zəl/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "交叉污染",
-          "en": "The transfer of harmful substances from one food or surface to another."
+          "zh": "处理，处置",
+          "en": "The act of getting rid of something, usually waste."
         },
         {
           "pos": "n.",
-          "zh": "交叉感染",
-          "en": "The unintended spread of bacteria or viruses between different areas."
+          "zh": "支配，安排",
+          "en": "The power to make decisions about something."
         }
       ],
       "examples": [
         {
-          "en": "To avoid cross-contamination, keep raw meat separate from vegetables.",
-          "zh": "为了避免交叉污染，生肉与蔬菜要分开存放。"
+          "en": "The city has strict rules for waste disposal to protect the environment.",
+          "zh": "这个城市对废物处理有严格的规定，以保护环境。"
         },
         {
-          "en": "Proper hygiene is essential to prevent cross-contamination in kitchens.",
-          "zh": "良好的卫生习惯对于防止厨房中的交叉污染至关重要。"
+          "en": "She had the disposal of the funds for the community project.",
+          "zh": "她负责管理社区项目的资金。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'cross' as crossing paths where germs might travel between foods."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cross-contamination&type=2",
-      "chapter": "认知词汇 环境分类 绿色农业"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disposal&type=2",
+      "chapter": "基本词汇 名词200 Unit 3"
     }
   ]
 }

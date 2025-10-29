@@ -1,69 +1,69 @@
 {
-  "generated": "2025-10-28T22:08:10.350Z",
+  "generated": "2025-10-29T22:08:05.732Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "authority",
-      "pronunciation": "/əˈθɔːrɪti/",
+      "word": "critic",
+      "pronunciation": "/ˈkrɪtɪk/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "权威; 当局",
-          "en": "The power or right to give orders and make decisions."
+          "zh": "评论家",
+          "en": "A person who reviews or judges something, especially art or literature."
         },
         {
-          "pos": "n.",
-          "zh": "权威人士; 专家",
-          "en": "A person with knowledge or expertise in a specific area."
+          "pos": "v.",
+          "zh": "批评",
+          "en": "To express disapproval or to analyze the merits and faults of something."
         }
       ],
       "examples": [
         {
-          "en": "The scientists are the authorities on climate change issues.",
-          "zh": "科学家是气候变化问题的权威。"
+          "en": "The critic praised the new film for its stunning visuals.",
+          "zh": "评论家称赞这部新电影的惊人视觉效果。"
         },
         {
-          "en": "Local authorities have decided to close the park for repairs.",
-          "zh": "当地当局已决定关闭公园进行维修。"
+          "en": "She decided to criticize the proposal due to its flaws.",
+          "zh": "她决定批评这个提案，因为它存在缺陷。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'authority' comes from the Latin 'auctoritas', meaning 'influence' or 'responsibility'."
+        "association": "Think of a critic as someone who 'cuts' through the noise to find the truth about art or performances."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=authority&type=2",
-      "chapter": "基本词汇 名词200 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=critic&type=2",
+      "chapter": "基本词汇 名词200 Unit 3"
     },
     {
-      "word": "aggressive",
-      "pronunciation": "/əˈɡrɛsɪv/",
+      "word": "virtual",
+      "pronunciation": "/ˈvɜr.tʃu.əl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "好斗的，侵略性的",
-          "en": "Having a strong and forceful attitude; ready to fight or attack."
+          "zh": "虚拟的",
+          "en": "Not real; created by computer technology to simulate reality."
         },
         {
           "pos": "adj.",
-          "zh": "积极的，进取的",
-          "en": "Showing a willingness to take action; proactive in achieving goals."
+          "zh": "几乎的",
+          "en": "Almost or nearly the same as something else; not completely."
         }
       ],
       "examples": [
         {
-          "en": "His aggressive behavior in the meeting surprised everyone.",
-          "zh": "他在会议上的好斗行为让所有人感到惊讶。"
+          "en": "Many businesses now operate in a virtual environment to reach more customers.",
+          "zh": "许多企业现在在虚拟环境中运营，以接触更多客户。"
         },
         {
-          "en": "To succeed, you need to adopt an aggressive approach in business.",
-          "zh": "要成功，你需要在商业中采取积极的方式。"
+          "en": "Virtual reality games provide an immersive experience for players.",
+          "zh": "虚拟现实游戏为玩家提供了沉浸式体验。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'aggressive' as someone who 'aggressively' pursues their goals, like a lion chasing its prey."
+        "association": "Think of 'virtual' as 'virtually real', where things seem real but are not."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aggressive&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=virtual&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 20"
     }
   ]
 }

@@ -1,69 +1,69 @@
 {
-  "generated": "2025-10-28T22:08:10.351Z",
+  "generated": "2025-10-29T22:08:05.733Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "indigenous",
-      "pronunciation": "/ɪnˈdɪdʒ.ɪ.nəs/",
+      "word": "baboon",
+      "pronunciation": "/bəˈbuːn/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "土著的，原住民的",
-          "en": "Relating to the original people of a place."
+          "pos": "n.",
+          "zh": "狒狒",
+          "en": "A type of large monkey found in Africa, known for its long snout and strong build."
         },
         {
           "pos": "n.",
-          "zh": "土著居民",
-          "en": "The original inhabitants of a region."
+          "zh": "粗鲁的人",
+          "en": "A rude or aggressive person, often used informally."
         }
       ],
       "examples": [
         {
-          "en": "The indigenous tribes have lived in this area for thousands of years.",
-          "zh": "土著部落在这个地区生活了数千年。"
+          "en": "The baboon is known for its social behavior in troops.",
+          "zh": "狒狒以其群体中的社交行为而闻名。"
         },
         {
-          "en": "Many indigenous cultures are rich in traditions and languages.",
-          "zh": "许多土著文化在传统和语言上非常丰富。"
+          "en": "Some people describe him as a baboon due to his aggressive attitude.",
+          "zh": "有些人把他形容为狒狒，因为他的攻击性态度。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'indigenous' as 'in the origin,' which connects it to the original people."
+        "association": "Think of a 'baboon' as a 'barking baboon' when it feels threatened, which makes it memorable."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=indigenous&type=2",
-      "chapter": "核心词汇 文化与传统 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=baboon&type=2",
+      "chapter": "认知词汇 动物分类 动物智力与语言习得"
     },
     {
-      "word": "conformity",
-      "pronunciation": "/kənˈfɔːrmɪti/",
+      "word": "frustrate",
+      "pronunciation": "/frʌˈstreɪt/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "遵从; 一致性",
-          "en": "The act of matching attitudes, beliefs, and behaviors to group norms."
+          "pos": "v.",
+          "zh": "使沮丧",
+          "en": "To make someone feel annoyed or upset because they cannot achieve what they want."
         },
         {
-          "pos": "n.",
-          "zh": "符合; 符合性",
-          "en": "The state of being in agreement or harmony with something."
+          "pos": "v.",
+          "zh": "阻止",
+          "en": "To prevent something from happening or being successful."
         }
       ],
       "examples": [
         {
-          "en": "Social conformity can lead to a loss of individual identity.",
-          "zh": "社会的遵从可能导致个人身份的丧失。"
+          "en": "The traffic jam will frustrate our plans for the trip.",
+          "zh": "交通堵塞会让我们的旅行计划感到沮丧。"
         },
         {
-          "en": "He felt pressured to conform to the expectations of his peers.",
-          "zh": "他感到被迫遵从同龄人的期望。"
+          "en": "She felt frustrated when she couldn't solve the math problem.",
+          "zh": "当她无法解决数学题时，她感到沮丧。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'conformity' as 'conforming' to a 'norm' in a group."
+        "association": "Think of 'frustrate' as 'frustration' which is the feeling you get when things don’t go your way."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=conformity&type=2",
-      "chapter": "核心词汇 文化与传统 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=frustrate&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 4"
     }
   ]
 }

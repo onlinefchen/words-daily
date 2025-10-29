@@ -1,69 +1,69 @@
 {
-  "generated": "2025-10-28T22:08:10.351Z",
+  "generated": "2025-10-29T22:08:05.733Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "homogeneous",
-      "pronunciation": "/həˈmɒdʒənəs/",
+      "word": "superiority",
+      "pronunciation": "/suːˈpɪr.i.ɔːr.ɪ.ti/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "同质的",
-          "en": "Consisting of parts or elements that are all the same."
+          "pos": "n.",
+          "zh": "优越性",
+          "en": "The quality of being better than others."
         },
         {
-          "pos": "adj.",
-          "zh": "均匀的",
-          "en": "Having a uniform composition or character."
+          "pos": "n.",
+          "zh": "优越感",
+          "en": "A feeling of being superior or better than someone."
         }
       ],
       "examples": [
         {
-          "en": "The students came from a homogeneous background, sharing similar cultural values.",
-          "zh": "学生们来自同质的背景，分享相似的文化价值观。"
+          "en": "Her superiority in math helped her win the competition.",
+          "zh": "她在数学方面的优越性帮助她赢得了比赛。"
         },
         {
-          "en": "The researchers studied a homogeneous group of participants for accurate results.",
-          "zh": "研究人员对一组同质的参与者进行了研究，以获得准确的结果。"
+          "en": "He felt a sense of superiority over his classmates.",
+          "zh": "他对同学们感到一种优越感。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'homogeneous' comes from the Greek 'homogenes', meaning 'of the same kind'."
+        "etymology": "The word 'superiority' comes from the Latin 'superior', meaning 'higher' or 'above'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=homogeneous&type=2",
-      "chapter": "核心词汇 文化与传统 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=superiority&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 5"
     },
     {
-      "word": "beneficial",
-      "pronunciation": "/ˌbɛnɪˈfɪʃəl/",
+      "word": "versatile",
+      "pronunciation": "/ˈvɜr.sə.taɪl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "有益的",
-          "en": "Having a positive effect or helping to improve something."
+          "zh": "多才多艺的",
+          "en": "Able to adapt or be used for many different purposes."
         },
         {
           "pos": "adj.",
-          "zh": "有利的",
-          "en": "Providing an advantage or benefit."
+          "zh": "多功能的",
+          "en": "Having many different skills or abilities."
         }
       ],
       "examples": [
         {
-          "en": "Regular exercise is beneficial for both physical and mental health.",
-          "zh": "定期锻炼对身体和心理健康都是有益的。"
+          "en": "She is a versatile actress who can perform in many genres.",
+          "zh": "她是一位多才多艺的女演员，能够在多种类型中表演。"
         },
         {
-          "en": "Eating fruits and vegetables is beneficial for maintaining a balanced diet.",
-          "zh": "吃水果和蔬菜有助于保持均衡饮食。"
+          "en": "The versatile tool can be used for cutting, drilling, and sanding.",
+          "zh": "这个多功能工具可以用来切割、钻孔和打磨。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'beneficial' as 'benefit' + 'icial'. Benefits are always good for you."
+        "association": "Think of 'versatile' as 'versatile vehicle' that can drive on any terrain."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=beneficial&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=versatile&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 10"
     }
   ]
 }

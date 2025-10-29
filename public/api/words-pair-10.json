@@ -1,70 +1,69 @@
 {
-  "generated": "2025-10-28T22:08:10.351Z",
+  "generated": "2025-10-29T22:08:05.733Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "abolishment",
-      "pronunciation": "/əˈbɑː.lɪʃ.mənt/",
+      "word": "diversity",
+      "pronunciation": "/daɪˈvɜr.sɪ.ti/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "废除",
-          "en": "The act of officially ending or abolishing something."
+          "zh": "多样性",
+          "en": "The quality of being different or varied."
         },
         {
           "pos": "n.",
-          "zh": "取消",
-          "en": "The state of being removed or canceled, especially in law or policy."
+          "zh": "多元性",
+          "en": "The presence of a range of different elements."
         }
       ],
       "examples": [
         {
-          "en": "The abolishment of slavery was a significant step towards human rights.",
-          "zh": "废除奴隶制是朝着人权迈出的重要一步。"
+          "en": "Cultural diversity enriches our society in many ways.",
+          "zh": "文化多样性在许多方面丰富了我们的社会。"
         },
         {
-          "en": "Many activists campaigned for the abolishment of unfair laws.",
-          "zh": "许多活动家为废除不公平的法律而奔走呼吁。"
+          "en": "The diversity of opinions in the discussion was impressive.",
+          "zh": "讨论中意见的多样性令人印象深刻。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'abolishment' comes from the Latin 'abolere', meaning to destroy or put an end to.",
-        "association": "Think of 'abolishment' as 'abandoning' something unwanted."
+        "association": "Think of 'diverse' when you hear 'diversity' to remember it relates to differences."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=abolishment&type=2",
-      "chapter": "基本词汇 名词200 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=diversity&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "emulate",
-      "pronunciation": "/ˈɛm.jʊ.leɪt/",
+      "word": "vulgar",
+      "pronunciation": "/ˈvʌɡlər/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "模仿",
-          "en": "To try to be like someone or something else, especially to be successful."
+          "pos": "adj.",
+          "zh": "粗俗的",
+          "en": "Related to being rude or offensive, often in language or behavior."
         },
         {
-          "pos": "v.",
-          "zh": "竞争",
-          "en": "To strive to equal or match another in quality or achievement."
+          "pos": "adj.",
+          "zh": "下流的",
+          "en": "Referring to something that is inappropriate or lacking in refinement."
         }
       ],
       "examples": [
         {
-          "en": "Many young artists emulate the styles of famous painters.",
-          "zh": "许多年轻艺术家模仿著名画家的风格。"
+          "en": "His vulgar jokes made everyone feel uncomfortable during dinner.",
+          "zh": "他的粗俗笑话让晚餐时每个人都感到不舒服。"
         },
         {
-          "en": "He hopes to emulate his father's success in business.",
-          "zh": "他希望能模仿父亲在商业上的成功。"
+          "en": "The film was criticized for its vulgar language and scenes.",
+          "zh": "这部电影因其粗俗的语言和场景而受到批评。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'emulate' as 'imitate' but with a goal to succeed, like competing with a role model."
+        "association": "Think of 'vulgar' as 'vulgarity', which is often associated with low-class behavior."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=emulate&type=2",
-      "chapter": "核心词汇 文化与传统 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vulgar&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 20"
     }
   ]
 }

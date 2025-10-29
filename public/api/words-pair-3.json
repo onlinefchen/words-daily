@@ -1,67 +1,69 @@
 {
-  "generated": "2025-10-28T22:08:10.350Z",
+  "generated": "2025-10-29T22:08:05.732Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "baneful",
-      "pronunciation": "/ˈbeɪn.fəl/",
+      "word": "workmanship",
+      "pronunciation": "/ˈwɜrk.mən.ʃɪp/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "有害的",
-          "en": "Causing harm or destruction; very harmful."
+          "pos": "n.",
+          "zh": "工艺，技艺",
+          "en": "The skill and quality of someone's work, especially in making things."
         },
         {
-          "pos": "adj.",
-          "zh": "致命的",
-          "en": "Having a negative effect that can lead to serious consequences."
+          "pos": "n.",
+          "zh": "手艺， workmanship",
+          "en": "The art or skill of making something with care and attention."
         }
       ],
       "examples": [
         {
-          "en": "The baneful effects of pollution are evident in the city's health statistics.",
-          "zh": "污染的有害影响在城市的健康统计中显而易见。"
+          "en": "The workmanship of this handmade furniture is truly impressive.",
+          "zh": "这件手工家具的工艺真让人印象深刻。"
         },
         {
-          "en": "His baneful influence led many young people astray.",
-          "zh": "他有害的影响使许多年轻人误入歧途。"
+          "en": "She praised the artist for his excellent workmanship on the sculpture.",
+          "zh": "她称赞艺术家在雕塑上的精湛技艺。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'bane' as a source of harm, like a bad 'bane' to your health."
+        "etymology": "The word 'workmanship' comes from the Old English 'wyrcman', meaning 'maker' or 'worker'. It combines 'work' with 'man' to emphasize the skill of the worker."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=baneful&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=workmanship&type=2",
+      "chapter": "核心词汇 文化与传统 Unit 5"
     },
     {
-      "word": "disposal",
-      "pronunciation": "/dɪsˈpoʊ.zəl/",
+      "word": "ambiguity",
+      "pronunciation": "/æmˈbɪɡ.juː/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "处理，处置",
-          "en": "The act of getting rid of something, usually waste."
+          "zh": "模棱两可",
+          "en": "The quality of being open to more than one interpretation."
         },
         {
           "pos": "n.",
-          "zh": "支配，安排",
-          "en": "The power to make decisions about something."
+          "zh": "不明确",
+          "en": "A situation where something is not clear or has multiple meanings."
         }
       ],
       "examples": [
         {
-          "en": "The city has strict rules for waste disposal to protect the environment.",
-          "zh": "这个城市对废物处理有严格的规定，以保护环境。"
+          "en": "The ambiguity in her statement caused confusion among the team members.",
+          "zh": "她的陈述中的模棱两可让团队成员感到困惑。"
         },
         {
-          "en": "She had the disposal of the funds for the community project.",
-          "zh": "她负责管理社区项目的资金。"
+          "en": "Legal documents often contain ambiguity, making them hard to understand.",
+          "zh": "法律文件通常包含模糊不清的内容，这使得它们难以理解。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disposal&type=2",
-      "chapter": "基本词汇 名词200 Unit 3"
+      "memoryTips": {
+        "etymology": "The word 'ambiguity' comes from the Latin word 'ambiguitas', which means 'doubtfulness'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ambiguity&type=2",
+      "chapter": "核心词汇 科技发展 Unit 1"
     }
   ]
 }

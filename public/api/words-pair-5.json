@@ -1,69 +1,69 @@
 {
-  "generated": "2025-10-28T22:08:10.351Z",
+  "generated": "2025-10-29T22:08:05.732Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "discrimination",
-      "pronunciation": "/ˌdɪs.krɪ.mɪˈneɪ.ʃən/",
+      "word": "insomnia",
+      "pronunciation": "/ɪnˈsɑːm.ni.ə/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "歧视",
-          "en": "The unfair treatment of a person or group based on characteristics like race or gender."
+          "zh": "失眠",
+          "en": "A condition where a person has trouble sleeping."
         },
         {
           "pos": "n.",
-          "zh": "辨别",
-          "en": "The ability to recognize and understand differences between things."
+          "zh": "无法入睡",
+          "en": "The inability to fall asleep or stay asleep."
         }
       ],
       "examples": [
         {
-          "en": "Many countries have laws against racial discrimination in the workplace.",
-          "zh": "许多国家在职场上有反对种族歧视的法律。"
+          "en": "Many students experience insomnia during exam periods.",
+          "zh": "许多学生在考试期间经历失眠。"
         },
         {
-          "en": "Her strong discrimination between right and wrong is admirable.",
-          "zh": "她对是非的强烈辨别能力令人钦佩。"
+          "en": "Insomnia can lead to serious health problems if untreated.",
+          "zh": "如果不治疗，失眠可能导致严重的健康问题。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word comes from the Latin 'discriminare', meaning 'to distinguish'."
+        "association": "Think of 'in' as inside and 'somnia' as sleep, meaning you can’t get inside sleep."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=discrimination&type=2",
-      "chapter": "基本词汇 名词200 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=insomnia&type=2",
+      "chapter": "核心词汇 健康话题 Unit 3"
     },
     {
-      "word": "intellectual",
-      "pronunciation": "/ˌɪn.təˈlɛk.tʃu.əl/",
+      "word": "Geophysical Observatory",
+      "pronunciation": "/ˌdʒiːəˈfɪzɪkəl əbˈzɜːrvətɔːri/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "智力的，知识的",
-          "en": "Relating to the ability to think and understand."
+          "pos": "n.",
+          "zh": "地球物理观测站",
+          "en": "A place where scientists study and monitor Earth's physical properties."
         },
         {
           "pos": "n.",
-          "zh": "知识分子",
-          "en": "A person who engages in critical thinking and reflection."
+          "zh": "地球物理观测",
+          "en": "The act of observing and measuring physical aspects of the Earth."
         }
       ],
       "examples": [
         {
-          "en": "Many intellectuals contribute to society through their writings and ideas.",
-          "zh": "许多知识分子通过他们的著作和思想为社会做出贡献。"
+          "en": "The geophysical observatory collects data on seismic activity.",
+          "zh": "地球物理观测站收集关于地震活动的数据。"
         },
         {
-          "en": "The university promotes intellectual discussions among its students.",
-          "zh": "这所大学鼓励学生之间进行智力讨论。"
+          "en": "Researchers at the geophysical observatory analyze climate change effects.",
+          "zh": "地球物理观测站的研究人员分析气候变化的影响。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'intellectual' comes from the Latin 'intellectus', meaning 'understanding'."
+        "association": "Think of a 'geophysical observatory' as a 'watchtower' for Earth, observing its physical signs."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=intellectual&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 10"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=Geophysical%20Observatory&type=2",
+      "chapter": "认知词汇 自然分类 地震"
     }
   ]
 }

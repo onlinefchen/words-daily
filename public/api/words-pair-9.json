@@ -1,67 +1,64 @@
 {
-  "generated": "2025-10-28T22:08:10.351Z",
+  "generated": "2025-10-29T22:08:05.733Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "characteristic",
-      "pronunciation": "/ˌkɛrɪktəˈrɪstɪk/",
+      "word": "volcanic cinder and dust",
+      "pronunciation": "/vɒlˈkænɪk ˈsɪndər ənd dʌst/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "特征",
-          "en": "A special quality or feature of someone or something."
-        },
-        {
-          "pos": "adj.",
-          "zh": "特有的",
-          "en": "Describing something that is typical or unique to a person or thing."
+          "zh": "火山灰和碎屑",
+          "en": "Volcanic cinder and dust are small particles created by volcanic eruptions."
         }
       ],
       "examples": [
         {
-          "en": "Honesty is a characteristic that many people admire in leaders.",
-          "zh": "诚实是许多人欣赏领导者的特征。"
+          "en": "The volcanic cinder covered the landscape after the eruption.",
+          "zh": "火山喷发后，火山灰覆盖了整个景观。"
         },
         {
-          "en": "The characteristic colors of autumn make the season beautiful.",
-          "zh": "秋天特有的颜色使这个季节变得美丽。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=characteristic&type=2",
-      "chapter": "核心词汇 文化与传统 Unit 1"
-    },
-    {
-      "word": "reduce",
-      "pronunciation": "/rɪˈduːs/",
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "减少",
-          "en": "To make something smaller in size, amount, or degree."
-        },
-        {
-          "pos": "v.",
-          "zh": "降低",
-          "en": "To lessen the extent or intensity of something."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The government aims to reduce pollution in major cities.",
-          "zh": "政府旨在减少主要城市的污染。"
-        },
-        {
-          "en": "She found ways to reduce her expenses each month.",
-          "zh": "她找到了每月减少开支的方法。"
+          "en": "Volcanic dust can travel long distances in the atmosphere.",
+          "zh": "火山灰可以在大气中传播很远的距离。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'reduce' as 're-duce', where 'duce' sounds like 'duce' in 'introduce', meaning to bring down or lower something."
+        "association": "Think of 'cinder' as the remnants of a fire, and 'dust' as tiny particles that linger in the air, both related to volcanic activity."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=reduce&type=2",
-      "chapter": "基本词汇 动词200 Unit 10"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=volcanic%20cinder%20and%20dust&type=2",
+      "chapter": "认知词汇 自然分类 火山"
+    },
+    {
+      "word": "individualism",
+      "pronunciation": "/ˌɪndɪˈvɪdʒuəlɪzəm/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "个人主义",
+          "en": "A belief in the importance of individual rights and independence."
+        },
+        {
+          "pos": "n.",
+          "zh": "个体主义",
+          "en": "A social theory that emphasizes the moral worth of the individual."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Individualism encourages people to express their unique identities.",
+          "zh": "个人主义鼓励人们表达他们独特的身份。"
+        },
+        {
+          "en": "The rise of individualism has changed social interactions significantly.",
+          "zh": "个人主义的兴起显著改变了社会互动。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word comes from 'individual', meaning a single person, combined with the suffix '-ism', which denotes a belief or practice."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=individualism&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 6"
     }
   ]
 }
