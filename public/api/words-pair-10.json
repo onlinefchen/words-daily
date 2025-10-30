@@ -1,69 +1,69 @@
 {
-  "generated": "2025-10-29T22:08:05.733Z",
+  "generated": "2025-10-30T22:08:02.923Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "diversity",
-      "pronunciation": "/daɪˈvɜr.sɪ.ti/",
+      "word": "feeling",
+      "pronunciation": "/ˈfiːlɪŋ/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "多样性",
-          "en": "The quality of being different or varied."
+          "zh": "感觉；情感",
+          "en": "A physical sensation or an emotional response."
         },
         {
-          "pos": "n.",
-          "zh": "多元性",
-          "en": "The presence of a range of different elements."
+          "pos": "v.",
+          "zh": "感觉；认为",
+          "en": "To perceive or experience something emotionally or physically."
         }
       ],
       "examples": [
         {
-          "en": "Cultural diversity enriches our society in many ways.",
-          "zh": "文化多样性在许多方面丰富了我们的社会。"
+          "en": "She had a feeling of happiness when she received the news.",
+          "zh": "当她收到消息时，她感到幸福。"
         },
         {
-          "en": "The diversity of opinions in the discussion was impressive.",
-          "zh": "讨论中意见的多样性令人印象深刻。"
+          "en": "I can feel the warmth of the sun on my skin.",
+          "zh": "我能感受到阳光照在我皮肤上的温暖。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'diverse' when you hear 'diversity' to remember it relates to differences."
+        "association": "Link 'feeling' with 'sense' as both relate to emotions or physical sensations."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=diversity&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=feeling&type=2",
+      "chapter": "基本词汇 名词200 Unit 4"
     },
     {
-      "word": "vulgar",
-      "pronunciation": "/ˈvʌɡlər/",
+      "word": "conventional",
+      "pronunciation": "/kənˈvɛnʃənl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "粗俗的",
-          "en": "Related to being rude or offensive, often in language or behavior."
+          "zh": "传统的",
+          "en": "Following traditional methods or ideas, not modern."
         },
         {
           "pos": "adj.",
-          "zh": "下流的",
-          "en": "Referring to something that is inappropriate or lacking in refinement."
+          "zh": "常规的",
+          "en": "Relating to accepted standards or norms."
         }
       ],
       "examples": [
         {
-          "en": "His vulgar jokes made everyone feel uncomfortable during dinner.",
-          "zh": "他的粗俗笑话让晚餐时每个人都感到不舒服。"
+          "en": "Many students prefer conventional studying methods over new techniques.",
+          "zh": "许多学生更喜欢传统的学习方法，而不是新技巧。"
         },
         {
-          "en": "The film was criticized for its vulgar language and scenes.",
-          "zh": "这部电影因其粗俗的语言和场景而受到批评。"
+          "en": "His conventional views often clash with modern opinions.",
+          "zh": "他的传统观点常常与现代观点冲突。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'vulgar' as 'vulgarity', which is often associated with low-class behavior."
+        "association": "Think of 'conventional' as 'conveniently traditional' to remember its meaning."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vulgar&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 20"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=conventional&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 5"
     }
   ]
 }

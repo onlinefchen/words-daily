@@ -1,69 +1,69 @@
 {
-  "generated": "2025-10-29T22:08:05.733Z",
+  "generated": "2025-10-30T22:08:02.923Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "baboon",
-      "pronunciation": "/bəˈbuːn/",
+      "word": "interrupt",
+      "pronunciation": "/ˌɪn.təˈrʌpt/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "狒狒",
-          "en": "A type of large monkey found in Africa, known for its long snout and strong build."
+          "pos": "v.",
+          "zh": "打断",
+          "en": "To stop someone from speaking or doing something."
         },
         {
           "pos": "n.",
-          "zh": "粗鲁的人",
-          "en": "A rude or aggressive person, often used informally."
+          "zh": "中断",
+          "en": "An occasion when someone interrupts."
         }
       ],
       "examples": [
         {
-          "en": "The baboon is known for its social behavior in troops.",
-          "zh": "狒狒以其群体中的社交行为而闻名。"
+          "en": "Please do not interrupt me while I am speaking.",
+          "zh": "请不要在我说话时打断我。"
         },
         {
-          "en": "Some people describe him as a baboon due to his aggressive attitude.",
-          "zh": "有些人把他形容为狒狒，因为他的攻击性态度。"
+          "en": "Her sudden cough interrupted the quiet lecture.",
+          "zh": "她突如其来的咳嗽打断了安静的讲座。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'baboon' as a 'barking baboon' when it feels threatened, which makes it memorable."
+        "association": "Think of an 'interruption' as a 'disruption' in communication, like a traffic jam in a conversation."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=baboon&type=2",
-      "chapter": "认知词汇 动物分类 动物智力与语言习得"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=interrupt&type=2",
+      "chapter": "基本词汇 动词200 Unit 8"
     },
     {
-      "word": "frustrate",
-      "pronunciation": "/frʌˈstreɪt/",
+      "word": "environment",
+      "pronunciation": "/ɪnˈvaɪrənmənt/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "使沮丧",
-          "en": "To make someone feel annoyed or upset because they cannot achieve what they want."
+          "pos": "n.",
+          "zh": "环境",
+          "en": "The natural world around us, including land, air, and water."
         },
         {
-          "pos": "v.",
-          "zh": "阻止",
-          "en": "To prevent something from happening or being successful."
+          "pos": "n.",
+          "zh": "环境",
+          "en": "The conditions or influences affecting the growth and development of someone or something."
         }
       ],
       "examples": [
         {
-          "en": "The traffic jam will frustrate our plans for the trip.",
-          "zh": "交通堵塞会让我们的旅行计划感到沮丧。"
+          "en": "Protecting the environment is essential for future generations.",
+          "zh": "保护环境对未来几代人至关重要。"
         },
         {
-          "en": "She felt frustrated when she couldn't solve the math problem.",
-          "zh": "当她无法解决数学题时，她感到沮丧。"
+          "en": "Many species are endangered due to changes in their environment.",
+          "zh": "许多物种因其环境的变化而濒临灭绝。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'frustrate' as 'frustration' which is the feeling you get when things don’t go your way."
+        "association": "Think of 'environment' as 'the surroundings that nurture life', like a garden."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=frustrate&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=environment&type=2",
+      "chapter": "基本词汇 名词200 Unit 4"
     }
   ]
 }

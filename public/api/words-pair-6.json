@@ -1,67 +1,69 @@
 {
-  "generated": "2025-10-29T22:08:05.733Z",
+  "generated": "2025-10-30T22:08:02.923Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "flying capacity",
-      "pronunciation": "/ˈflaɪɪŋ kəˈpæsɪti/",
+      "word": "aggressive",
+      "pronunciation": "/əˈɡrɛsɪv/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "飞行能力",
-          "en": "The ability of an aircraft to fly, often measured by its weight and design."
+          "pos": "adj.",
+          "zh": "好斗的，侵略性的",
+          "en": "Having a strong and forceful attitude; ready to fight or attack."
         },
         {
-          "pos": "n.",
-          "zh": "飞行容量",
-          "en": "The maximum amount of weight or number of passengers an aircraft can carry while flying."
+          "pos": "adj.",
+          "zh": "积极的，进取的",
+          "en": "Showing a willingness to take action; proactive in achieving goals."
         }
       ],
       "examples": [
         {
-          "en": "The flying capacity of this new airplane is significantly higher than previous models.",
-          "zh": "这款新飞机的飞行能力明显高于之前的型号。"
+          "en": "His aggressive behavior in the meeting surprised everyone.",
+          "zh": "他在会议上的好斗行为让所有人感到惊讶。"
         },
         {
-          "en": "Engine improvements have increased the flying capacity for commercial jets.",
-          "zh": "发动机的改进提高了商用喷气机的飞行容量。"
+          "en": "To succeed, you need to adopt an aggressive approach in business.",
+          "zh": "要成功，你需要在商业中采取积极的方式。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'flying' as soaring through the sky and 'capacity' as the limit of what can be carried, like a suitcase."
+        "association": "Think of 'aggressive' as someone who 'aggressively' pursues their goals, like a lion chasing its prey."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=flying%20capacity&type=2",
-      "chapter": "认知词汇 动物分类 动物航行能力"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aggressive&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 2"
     },
     {
-      "word": "cruising speed",
-      "pronunciation": "/ˈkruːzɪŋ spiːd/",
+      "word": "baneful",
+      "pronunciation": "/ˈbeɪn.fəl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "巡航速度",
-          "en": "The speed at which a vehicle travels steadily."
+          "pos": "adj.",
+          "zh": "有害的",
+          "en": "Causing harm or destruction; very harmful."
         },
         {
-          "pos": "n.",
-          "zh": "稳定的行驶速度",
-          "en": "A constant speed maintained during travel, especially in aviation or shipping."
+          "pos": "adj.",
+          "zh": "致命的",
+          "en": "Having a negative effect that can lead to serious consequences."
         }
       ],
       "examples": [
         {
-          "en": "The airplane reached its cruising speed after takeoff.",
-          "zh": "飞机在起飞后达到了巡航速度。"
+          "en": "The baneful effects of pollution are evident in the city's health statistics.",
+          "zh": "污染的有害影响在城市的健康统计中显而易见。"
         },
         {
-          "en": "The ship maintained a cruising speed to optimize fuel efficiency.",
-          "zh": "这艘船保持巡航速度以优化燃油效率。"
+          "en": "His baneful influence led many young people astray.",
+          "zh": "他有害的影响使许多年轻人误入歧途。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cruising%20speed&type=2",
-      "chapter": "认知词汇 动物分类 动物航行能力"
+      "memoryTips": {
+        "association": "Think of 'bane' as a source of harm, like a bad 'bane' to your health."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=baneful&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 3"
     }
   ]
 }

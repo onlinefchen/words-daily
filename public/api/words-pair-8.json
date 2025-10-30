@@ -1,69 +1,69 @@
 {
-  "generated": "2025-10-29T22:08:05.733Z",
+  "generated": "2025-10-30T22:08:02.923Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "superiority",
-      "pronunciation": "/suːˈpɪr.i.ɔːr.ɪ.ti/",
+      "word": "disgusting",
+      "pronunciation": "/dɪsˈɡʌstɪŋ/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "优越性",
-          "en": "The quality of being better than others."
+          "pos": "adj.",
+          "zh": "令人厌恶的",
+          "en": "Something that makes you feel sick or very displeased."
         },
         {
-          "pos": "n.",
-          "zh": "优越感",
-          "en": "A feeling of being superior or better than someone."
+          "pos": "adj.",
+          "zh": "恶心的",
+          "en": "Describes something that is very unpleasant or offensive."
         }
       ],
       "examples": [
         {
-          "en": "Her superiority in math helped her win the competition.",
-          "zh": "她在数学方面的优越性帮助她赢得了比赛。"
+          "en": "The smell from the garbage was absolutely disgusting and unbearable.",
+          "zh": "垃圾散发的气味让人感到非常恶心，无法忍受。"
         },
         {
-          "en": "He felt a sense of superiority over his classmates.",
-          "zh": "他对同学们感到一种优越感。"
+          "en": "She found the idea of eating insects to be quite disgusting.",
+          "zh": "她觉得吃昆虫的想法非常恶心。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'superiority' comes from the Latin 'superior', meaning 'higher' or 'above'."
+        "association": "Think of 'disgusting' as 'dis' (not) + 'gust' (taste), meaning something that tastes bad."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=superiority&type=2",
-      "chapter": "核心词汇 动物权益与保护 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disgusting&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 6"
     },
     {
-      "word": "versatile",
-      "pronunciation": "/ˈvɜr.sə.taɪl/",
+      "word": "catastrophic",
+      "pronunciation": "/ˌkætəˈstrɑːfɪk/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "多才多艺的",
-          "en": "Able to adapt or be used for many different purposes."
+          "zh": "灾难性的",
+          "en": "Causing a lot of damage or suffering."
         },
         {
           "pos": "adj.",
-          "zh": "多功能的",
-          "en": "Having many different skills or abilities."
+          "zh": "极其严重的",
+          "en": "Extremely serious or disastrous."
         }
       ],
       "examples": [
         {
-          "en": "She is a versatile actress who can perform in many genres.",
-          "zh": "她是一位多才多艺的女演员，能够在多种类型中表演。"
+          "en": "The catastrophic flood destroyed many homes in the village.",
+          "zh": "灾难性的洪水摧毁了村庄里的许多房屋。"
         },
         {
-          "en": "The versatile tool can be used for cutting, drilling, and sanding.",
-          "zh": "这个多功能工具可以用来切割、钻孔和打磨。"
+          "en": "Experts warned that climate change could have catastrophic effects.",
+          "zh": "专家警告气候变化可能会产生灾难性的影响。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'versatile' as 'versatile vehicle' that can drive on any terrain."
+        "association": "Think of a 'cat' trapped in a 'traffic' jam, leading to a disastrous situation."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=versatile&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 10"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=catastrophic&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 4"
     }
   ]
 }

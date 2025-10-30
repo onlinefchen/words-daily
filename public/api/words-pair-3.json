@@ -1,69 +1,69 @@
 {
-  "generated": "2025-10-29T22:08:05.732Z",
+  "generated": "2025-10-30T22:08:02.922Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "workmanship",
-      "pronunciation": "/ˈwɜrk.mən.ʃɪp/",
+      "word": "explore",
+      "pronunciation": "/ɪkˈsplɔːr/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "工艺，技艺",
-          "en": "The skill and quality of someone's work, especially in making things."
+          "pos": "v.",
+          "zh": "探索",
+          "en": "To travel through a place to learn more about it."
         },
         {
-          "pos": "n.",
-          "zh": "手艺， workmanship",
-          "en": "The art or skill of making something with care and attention."
+          "pos": "v.",
+          "zh": "研究",
+          "en": "To examine something in detail to understand it better."
         }
       ],
       "examples": [
         {
-          "en": "The workmanship of this handmade furniture is truly impressive.",
-          "zh": "这件手工家具的工艺真让人印象深刻。"
+          "en": "Scientists explore the ocean to find new species.",
+          "zh": "科学家探索海洋以发现新物种。"
         },
         {
-          "en": "She praised the artist for his excellent workmanship on the sculpture.",
-          "zh": "她称赞艺术家在雕塑上的精湛技艺。"
+          "en": "We decided to explore the ancient ruins during our trip.",
+          "zh": "我们决定在旅行中探索古老的遗址。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'workmanship' comes from the Old English 'wyrcman', meaning 'maker' or 'worker'. It combines 'work' with 'man' to emphasize the skill of the worker."
+        "association": "Think of 'exploring' as 'ex-ploring' where you 'explore' different 'ploring' areas."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=workmanship&type=2",
-      "chapter": "核心词汇 文化与传统 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=explore&type=2",
+      "chapter": "基本词汇 动词200 Unit 7"
     },
     {
-      "word": "ambiguity",
-      "pronunciation": "/æmˈbɪɡ.juː/",
+      "word": "devastating",
+      "pronunciation": "/ˈdɛv.ə.steɪ.tɪŋ/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "模棱两可",
-          "en": "The quality of being open to more than one interpretation."
+          "pos": "adj.",
+          "zh": "毁灭性的",
+          "en": "Causing a lot of damage or destruction."
         },
         {
-          "pos": "n.",
-          "zh": "不明确",
-          "en": "A situation where something is not clear or has multiple meanings."
+          "pos": "adj.",
+          "zh": "令人痛苦的",
+          "en": "Causing great sadness or suffering."
         }
       ],
       "examples": [
         {
-          "en": "The ambiguity in her statement caused confusion among the team members.",
-          "zh": "她的陈述中的模棱两可让团队成员感到困惑。"
+          "en": "The hurricane had a devastating impact on the coastal communities.",
+          "zh": "飓风对沿海社区造成了毁灭性的影响。"
         },
         {
-          "en": "Legal documents often contain ambiguity, making them hard to understand.",
-          "zh": "法律文件通常包含模糊不清的内容，这使得它们难以理解。"
+          "en": "Losing her job was a devastating blow to her mental health.",
+          "zh": "失去工作对她的心理健康是一个毁灭性的打击。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'ambiguity' comes from the Latin word 'ambiguitas', which means 'doubtfulness'."
+        "association": "Think of 'devastating' as 'devastate' + 'ing', where 'devastate' means to destroy, and the 'ing' indicates an ongoing action."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ambiguity&type=2",
-      "chapter": "核心词汇 科技发展 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=devastating&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 6"
     }
   ]
 }

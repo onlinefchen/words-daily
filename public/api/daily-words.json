@@ -1,756 +1,768 @@
 {
-  "generated": "2025-10-29T22:08:05.731Z",
-  "date": "2025-10-29",
+  "generated": "2025-10-30T22:08:02.921Z",
+  "date": "2025-10-30",
   "totalWords": 20,
   "words": [
     {
-      "id": "w03702",
-      "word": "Mercator",
-      "type": "single",
-      "chapterIndex": 58,
-      "globalIndex": 3702,
-      "chapter": "ch124",
-      "chapterName": "认知词汇 历史分类 地图发展史",
-      "pronunciation": {
-        "us": "/mɜːrˈkeɪtər/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "梅卡托投影法",
-          "en": "A type of map projection that distorts size but preserves shape."
-        },
-        {
-          "pos": "n.",
-          "zh": "梅卡托",
-          "en": "The name of a Flemish cartographer known for his map projections."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The Mercator projection is widely used for navigation purposes.",
-          "zh": "梅卡托投影广泛用于导航目的。"
-        },
-        {
-          "en": "Mercator's maps helped sailors to plot their courses accurately.",
-          "zh": "梅卡托的地图帮助水手准确绘制航线。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'Mercator' like a 'marker' for navigation on a map."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=Mercator&type=2"
-    },
-    {
-      "id": "w00254",
-      "word": "disposal",
+      "id": "w00974",
+      "word": "recycle",
       "type": "single",
       "chapterIndex": 14,
-      "globalIndex": 254,
-      "chapter": "ch013",
-      "chapterName": "基本词汇 名词200 Unit 3",
+      "globalIndex": 974,
+      "chapter": "ch049",
+      "chapterName": "核心词汇 环境保护 Unit 4",
       "pronunciation": {
-        "us": "/dɪsˈpoʊ.zəl/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "处理，处置",
-          "en": "The act of getting rid of something, usually waste."
-        },
-        {
-          "pos": "n.",
-          "zh": "支配，安排",
-          "en": "The power to make decisions about something."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The city has strict rules for waste disposal to protect the environment.",
-          "zh": "这个城市对废物处理有严格的规定，以保护环境。"
-        },
-        {
-          "en": "She had the disposal of the funds for the community project.",
-          "zh": "她负责管理社区项目的资金。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disposal&type=2"
-    },
-    {
-      "id": "w00174",
-      "word": "provide",
-      "type": "single",
-      "chapterIndex": 14,
-      "globalIndex": 174,
-      "chapter": "ch009",
-      "chapterName": "基本词汇 动词200 Unit 9",
-      "pronunciation": {
-        "us": "/prəˈvaɪd/"
+        "us": "/riːˈsaɪkəl/"
       },
       "meanings": [
         {
           "pos": "v.",
-          "zh": "提供",
-          "en": "To give someone what they need or want."
+          "zh": "回收利用",
+          "en": "To process used materials so they can be used again."
         },
         {
-          "pos": "v.",
-          "zh": "供应",
-          "en": "To supply or make something available."
+          "pos": "n.",
+          "zh": "回收物品",
+          "en": "A material that has been collected to be reused."
         }
       ],
       "examples": [
         {
-          "en": "The school aims to provide quality education for all students.",
-          "zh": "学校的目标是为所有学生提供优质教育。"
+          "en": "Many people forget to recycle their plastic bottles each week.",
+          "zh": "许多人忘记每周回收他们的塑料瓶。"
         },
         {
-          "en": "We need to provide more resources for our community projects.",
-          "zh": "我们需要为我们的社区项目提供更多资源。"
+          "en": "Recycling helps reduce waste and protect the environment.",
+          "zh": "回收利用有助于减少废物并保护环境。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'provide' as 'pro' (for) + 'vide' (video) - to make a video available for someone."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=provide&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=recycle&type=2"
     },
     {
-      "id": "w00854",
-      "word": "mechanical",
-      "type": "single",
-      "chapterIndex": 14,
-      "globalIndex": 854,
-      "chapter": "ch043",
-      "chapterName": "核心词汇 科技发展 Unit 3",
-      "pronunciation": {
-        "us": "/məˈkæn.ɪ.kəl/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "机械的",
-          "en": "Related to machines or tools."
-        },
-        {
-          "pos": "adj.",
-          "zh": "呆板的",
-          "en": "Lacking emotion or spontaneity; routine."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The mechanical parts of the robot work together smoothly.",
-          "zh": "机器人的机械部件协同工作顺畅。"
-        },
-        {
-          "en": "Her mechanical response showed no real interest in the topic.",
-          "zh": "她机械的回答对这个话题没有真正的兴趣。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'mechanical' as something that operates like a machine, which is often predictable and automatic."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=mechanical&type=2"
-    },
-    {
-      "id": "w01099",
-      "word": "workmanship",
-      "type": "single",
-      "chapterIndex": 19,
-      "globalIndex": 1099,
-      "chapter": "ch055",
-      "chapterName": "核心词汇 文化与传统 Unit 5",
-      "pronunciation": {
-        "us": "/ˈwɜrk.mən.ʃɪp/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "工艺，技艺",
-          "en": "The skill and quality of someone's work, especially in making things."
-        },
-        {
-          "pos": "n.",
-          "zh": "手艺， workmanship",
-          "en": "The art or skill of making something with care and attention."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The workmanship of this handmade furniture is truly impressive.",
-          "zh": "这件手工家具的工艺真让人印象深刻。"
-        },
-        {
-          "en": "She praised the artist for his excellent workmanship on the sculpture.",
-          "zh": "她称赞艺术家在雕塑上的精湛技艺。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'workmanship' comes from the Old English 'wyrcman', meaning 'maker' or 'worker'. It combines 'work' with 'man' to emphasize the skill of the worker."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=workmanship&type=2"
-    },
-    {
-      "id": "w00802",
-      "word": "ambiguity",
-      "type": "single",
-      "chapterIndex": 2,
-      "globalIndex": 802,
-      "chapter": "ch041",
-      "chapterName": "核心词汇 科技发展 Unit 1",
-      "pronunciation": {
-        "us": "/æmˈbɪɡ.juː/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "模棱两可",
-          "en": "The quality of being open to more than one interpretation."
-        },
-        {
-          "pos": "n.",
-          "zh": "不明确",
-          "en": "A situation where something is not clear or has multiple meanings."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The ambiguity in her statement caused confusion among the team members.",
-          "zh": "她的陈述中的模棱两可让团队成员感到困惑。"
-        },
-        {
-          "en": "Legal documents often contain ambiguity, making them hard to understand.",
-          "zh": "法律文件通常包含模糊不清的内容，这使得它们难以理解。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'ambiguity' comes from the Latin word 'ambiguitas', which means 'doubtfulness'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ambiguity&type=2"
-    },
-    {
-      "id": "w00241",
-      "word": "critic",
-      "type": "single",
-      "chapterIndex": 1,
-      "globalIndex": 241,
-      "chapter": "ch013",
-      "chapterName": "基本词汇 名词200 Unit 3",
-      "pronunciation": {
-        "us": "/ˈkrɪtɪk/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "评论家",
-          "en": "A person who reviews or judges something, especially art or literature."
-        },
-        {
-          "pos": "v.",
-          "zh": "批评",
-          "en": "To express disapproval or to analyze the merits and faults of something."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The critic praised the new film for its stunning visuals.",
-          "zh": "评论家称赞这部新电影的惊人视觉效果。"
-        },
-        {
-          "en": "She decided to criticize the proposal due to its flaws.",
-          "zh": "她决定批评这个提案，因为它存在缺陷。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of a critic as someone who 'cuts' through the noise to find the truth about art or performances."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=critic&type=2"
-    },
-    {
-      "id": "w00791",
-      "word": "virtual",
-      "type": "single",
-      "chapterIndex": 11,
-      "globalIndex": 791,
-      "chapter": "ch040",
-      "chapterName": "基本词汇 形容词和副词400 Unit 20",
-      "pronunciation": {
-        "us": "/ˈvɜr.tʃu.əl/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "虚拟的",
-          "en": "Not real; created by computer technology to simulate reality."
-        },
-        {
-          "pos": "adj.",
-          "zh": "几乎的",
-          "en": "Almost or nearly the same as something else; not completely."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Many businesses now operate in a virtual environment to reach more customers.",
-          "zh": "许多企业现在在虚拟环境中运营，以接触更多客户。"
-        },
-        {
-          "en": "Virtual reality games provide an immersive experience for players.",
-          "zh": "虚拟现实游戏为玩家提供了沉浸式体验。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'virtual' as 'virtually real', where things seem real but are not."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=virtual&type=2"
-    },
-    {
-      "id": "w01860",
-      "word": "insomnia",
-      "type": "single",
-      "chapterIndex": 20,
-      "globalIndex": 1860,
-      "chapter": "ch093",
-      "chapterName": "核心词汇 健康话题 Unit 3",
-      "pronunciation": {
-        "us": "/ɪnˈsɑːm.ni.ə/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "失眠",
-          "en": "A condition where a person has trouble sleeping."
-        },
-        {
-          "pos": "n.",
-          "zh": "无法入睡",
-          "en": "The inability to fall asleep or stay asleep."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Many students experience insomnia during exam periods.",
-          "zh": "许多学生在考试期间经历失眠。"
-        },
-        {
-          "en": "Insomnia can lead to serious health problems if untreated.",
-          "zh": "如果不治疗，失眠可能导致严重的健康问题。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'in' as inside and 'somnia' as sleep, meaning you can’t get inside sleep."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=insomnia&type=2"
-    },
-    {
-      "id": "w02479",
-      "word": "Geophysical Observatory",
-      "type": "phrase",
-      "chapterIndex": 32,
-      "globalIndex": 2479,
-      "chapter": "ch102",
-      "chapterName": "认知词汇 自然分类 地震",
-      "pronunciation": {
-        "us": "/ˌdʒiːəˈfɪzɪkəl əbˈzɜːrvətɔːri/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "地球物理观测站",
-          "en": "A place where scientists study and monitor Earth's physical properties."
-        },
-        {
-          "pos": "n.",
-          "zh": "地球物理观测",
-          "en": "The act of observing and measuring physical aspects of the Earth."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The geophysical observatory collects data on seismic activity.",
-          "zh": "地球物理观测站收集关于地震活动的数据。"
-        },
-        {
-          "en": "Researchers at the geophysical observatory analyze climate change effects.",
-          "zh": "地球物理观测站的研究人员分析气候变化的影响。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of a 'geophysical observatory' as a 'watchtower' for Earth, observing its physical signs."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=Geophysical%20Observatory&type=2"
-    },
-    {
-      "id": "w02312",
-      "word": "flying capacity",
-      "type": "phrase",
-      "chapterIndex": 15,
-      "globalIndex": 2312,
-      "chapter": "ch097",
-      "chapterName": "认知词汇 动物分类 动物航行能力",
-      "pronunciation": {
-        "us": "/ˈflaɪɪŋ kəˈpæsɪti/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "飞行能力",
-          "en": "The ability of an aircraft to fly, often measured by its weight and design."
-        },
-        {
-          "pos": "n.",
-          "zh": "飞行容量",
-          "en": "The maximum amount of weight or number of passengers an aircraft can carry while flying."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The flying capacity of this new airplane is significantly higher than previous models.",
-          "zh": "这款新飞机的飞行能力明显高于之前的型号。"
-        },
-        {
-          "en": "Engine improvements have increased the flying capacity for commercial jets.",
-          "zh": "发动机的改进提高了商用喷气机的飞行容量。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'flying' as soaring through the sky and 'capacity' as the limit of what can be carried, like a suitcase."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=flying%20capacity&type=2"
-    },
-    {
-      "id": "w02305",
-      "word": "cruising speed",
-      "type": "phrase",
-      "chapterIndex": 8,
-      "globalIndex": 2305,
-      "chapter": "ch097",
-      "chapterName": "认知词汇 动物分类 动物航行能力",
-      "pronunciation": {
-        "us": "/ˈkruːzɪŋ spiːd/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "巡航速度",
-          "en": "The speed at which a vehicle travels steadily."
-        },
-        {
-          "pos": "n.",
-          "zh": "稳定的行驶速度",
-          "en": "A constant speed maintained during travel, especially in aviation or shipping."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The airplane reached its cruising speed after takeoff.",
-          "zh": "飞机在起飞后达到了巡航速度。"
-        },
-        {
-          "en": "The ship maintained a cruising speed to optimize fuel efficiency.",
-          "zh": "这艘船保持巡航速度以优化燃油效率。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cruising%20speed&type=2"
-    },
-    {
-      "id": "w02392",
-      "word": "baboon",
-      "type": "single",
-      "chapterIndex": 10,
-      "globalIndex": 2392,
-      "chapter": "ch100",
-      "chapterName": "认知词汇 动物分类 动物智力与语言习得",
-      "pronunciation": {
-        "us": "/bəˈbuːn/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "狒狒",
-          "en": "A type of large monkey found in Africa, known for its long snout and strong build."
-        },
-        {
-          "pos": "n.",
-          "zh": "粗鲁的人",
-          "en": "A rude or aggressive person, often used informally."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The baboon is known for its social behavior in troops.",
-          "zh": "狒狒以其群体中的社交行为而闻名。"
-        },
-        {
-          "en": "Some people describe him as a baboon due to his aggressive attitude.",
-          "zh": "有些人把他形容为狒狒，因为他的攻击性态度。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of a 'baboon' as a 'barking baboon' when it feels threatened, which makes it memorable."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=baboon&type=2"
-    },
-    {
-      "id": "w01278",
-      "word": "frustrate",
-      "type": "single",
-      "chapterIndex": 18,
-      "globalIndex": 1278,
-      "chapter": "ch064",
-      "chapterName": "核心词汇 青少年教育 Unit 4",
-      "pronunciation": {
-        "us": "/frʌˈstreɪt/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "使沮丧",
-          "en": "To make someone feel annoyed or upset because they cannot achieve what they want."
-        },
-        {
-          "pos": "v.",
-          "zh": "阻止",
-          "en": "To prevent something from happening or being successful."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The traffic jam will frustrate our plans for the trip.",
-          "zh": "交通堵塞会让我们的旅行计划感到沮丧。"
-        },
-        {
-          "en": "She felt frustrated when she couldn't solve the math problem.",
-          "zh": "当她无法解决数学题时，她感到沮丧。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'frustrate' as 'frustration' which is the feeling you get when things don’t go your way."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=frustrate&type=2"
-    },
-    {
-      "id": "w01489",
-      "word": "superiority",
+      "id": "w04098",
+      "word": "deflect",
       "type": "single",
       "chapterIndex": 9,
-      "globalIndex": 1489,
-      "chapter": "ch075",
-      "chapterName": "核心词汇 动物权益与保护 Unit 5",
+      "globalIndex": 4098,
+      "chapter": "ch130",
+      "chapterName": "认知词汇 历史分类 电讯发展史",
       "pronunciation": {
-        "us": "/suːˈpɪr.i.ɔːr.ɪ.ti/"
+        "us": "/dɪˈflɛkt/"
       },
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "优越性",
-          "en": "The quality of being better than others."
+          "pos": "v.",
+          "zh": "偏转，转移",
+          "en": "To cause something to change direction or to be redirected."
         },
         {
-          "pos": "n.",
-          "zh": "优越感",
-          "en": "A feeling of being superior or better than someone."
+          "pos": "v.",
+          "zh": "避开，逃避",
+          "en": "To avoid discussing or dealing with something directly."
         }
       ],
       "examples": [
         {
-          "en": "Her superiority in math helped her win the competition.",
-          "zh": "她在数学方面的优越性帮助她赢得了比赛。"
+          "en": "He tried to deflect the blame onto his colleagues during the meeting.",
+          "zh": "他试图在会议上将责任转移到同事身上。"
         },
         {
-          "en": "He felt a sense of superiority over his classmates.",
-          "zh": "他对同学们感到一种优越感。"
+          "en": "The shield can deflect bullets away from the soldier's body.",
+          "zh": "这个盾牌可以将子弹偏转离士兵的身体。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'superiority' comes from the Latin 'superior', meaning 'higher' or 'above'."
+        "association": "Think of a 'reflector' that deflects light; both words share a similar function of changing direction."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=superiority&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=deflect&type=2"
     },
     {
-      "id": "w01388",
-      "word": "versatile",
+      "id": "w00307",
+      "word": "motivation",
       "type": "single",
-      "chapterIndex": 8,
-      "globalIndex": 1388,
-      "chapter": "ch070",
-      "chapterName": "核心词汇 青少年教育 Unit 10",
+      "chapterIndex": 7,
+      "globalIndex": 307,
+      "chapter": "ch016",
+      "chapterName": "基本词汇 名词200 Unit 6",
       "pronunciation": {
-        "us": "/ˈvɜr.sə.taɪl/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "多才多艺的",
-          "en": "Able to adapt or be used for many different purposes."
-        },
-        {
-          "pos": "adj.",
-          "zh": "多功能的",
-          "en": "Having many different skills or abilities."
-        }
-      ],
-      "examples": [
-        {
-          "en": "She is a versatile actress who can perform in many genres.",
-          "zh": "她是一位多才多艺的女演员，能够在多种类型中表演。"
-        },
-        {
-          "en": "The versatile tool can be used for cutting, drilling, and sanding.",
-          "zh": "这个多功能工具可以用来切割、钻孔和打磨。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'versatile' as 'versatile vehicle' that can drive on any terrain."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=versatile&type=2"
-    },
-    {
-      "id": "w02649",
-      "word": "volcanic cinder and dust",
-      "type": "phrase",
-      "chapterIndex": 64,
-      "globalIndex": 2649,
-      "chapter": "ch105",
-      "chapterName": "认知词汇 自然分类 火山",
-      "pronunciation": {
-        "us": "/vɒlˈkænɪk ˈsɪndər ənd dʌst/"
+        "us": "/ˌmoʊtɪˈveɪʃən/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "火山灰和碎屑",
-          "en": "Volcanic cinder and dust are small particles created by volcanic eruptions."
+          "zh": "动机",
+          "en": "The reason or desire that drives someone to do something."
+        },
+        {
+          "pos": "n.",
+          "zh": "激励",
+          "en": "A feeling that encourages someone to act or achieve something."
         }
       ],
       "examples": [
         {
-          "en": "The volcanic cinder covered the landscape after the eruption.",
-          "zh": "火山喷发后，火山灰覆盖了整个景观。"
+          "en": "Her motivation to study hard comes from her desire to succeed.",
+          "zh": "她努力学习的动机来自于她成功的渴望。"
         },
         {
-          "en": "Volcanic dust can travel long distances in the atmosphere.",
-          "zh": "火山灰可以在大气中传播很远的距离。"
+          "en": "Finding motivation to exercise can be challenging for many people.",
+          "zh": "对许多人来说，寻找锻炼的动机可能很有挑战性。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'cinder' as the remnants of a fire, and 'dust' as tiny particles that linger in the air, both related to volcanic activity."
+        "association": "Think of 'motivation' as 'motion' towards a goal, where 'moti-' suggests movement.",
+        "mnemonic": "'Moti' sounds like 'motive', which relates to reasons and drives."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=volcanic%20cinder%20and%20dust&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=motivation&type=2"
     },
     {
-      "id": "w01303",
-      "word": "individualism",
-      "type": "single",
-      "chapterIndex": 3,
-      "globalIndex": 1303,
-      "chapter": "ch066",
-      "chapterName": "核心词汇 青少年教育 Unit 6",
-      "pronunciation": {
-        "us": "/ˌɪndɪˈvɪdʒuəlɪzəm/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "个人主义",
-          "en": "A belief in the importance of individual rights and independence."
-        },
-        {
-          "pos": "n.",
-          "zh": "个体主义",
-          "en": "A social theory that emphasizes the moral worth of the individual."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Individualism encourages people to express their unique identities.",
-          "zh": "个人主义鼓励人们表达他们独特的身份。"
-        },
-        {
-          "en": "The rise of individualism has changed social interactions significantly.",
-          "zh": "个人主义的兴起显著改变了社会互动。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word comes from 'individual', meaning a single person, combined with the suffix '-ism', which denotes a belief or practice."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=individualism&type=2"
-    },
-    {
-      "id": "w01977",
-      "word": "diversity",
-      "type": "single",
-      "chapterIndex": 77,
-      "globalIndex": 1977,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/daɪˈvɜr.sɪ.ti/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "多样性",
-          "en": "The quality of being different or varied."
-        },
-        {
-          "pos": "n.",
-          "zh": "多元性",
-          "en": "The presence of a range of different elements."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Cultural diversity enriches our society in many ways.",
-          "zh": "文化多样性在许多方面丰富了我们的社会。"
-        },
-        {
-          "en": "The diversity of opinions in the discussion was impressive.",
-          "zh": "讨论中意见的多样性令人印象深刻。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'diverse' when you hear 'diversity' to remember it relates to differences."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=diversity&type=2"
-    },
-    {
-      "id": "w00795",
-      "word": "vulgar",
+      "id": "w00455",
+      "word": "biased",
       "type": "single",
       "chapterIndex": 15,
-      "globalIndex": 795,
-      "chapter": "ch040",
-      "chapterName": "基本词汇 形容词和副词400 Unit 20",
+      "globalIndex": 455,
+      "chapter": "ch023",
+      "chapterName": "基本词汇 形容词和副词400 Unit 3",
       "pronunciation": {
-        "us": "/ˈvʌɡlər/"
+        "us": "/ˈbaɪəst/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "粗俗的",
-          "en": "Related to being rude or offensive, often in language or behavior."
+          "zh": "有偏见的",
+          "en": "Having an unfair preference for or against something."
         },
         {
-          "pos": "adj.",
-          "zh": "下流的",
-          "en": "Referring to something that is inappropriate or lacking in refinement."
+          "pos": "v.",
+          "zh": "使有偏见",
+          "en": "To cause someone to have a particular opinion that is not based on reason."
         }
       ],
       "examples": [
         {
-          "en": "His vulgar jokes made everyone feel uncomfortable during dinner.",
-          "zh": "他的粗俗笑话让晚餐时每个人都感到不舒服。"
+          "en": "The article was criticized for being biased towards one political party.",
+          "zh": "这篇文章因偏向一个政党而受到批评。"
         },
         {
-          "en": "The film was criticized for its vulgar language and scenes.",
-          "zh": "这部电影因其粗俗的语言和场景而受到批评。"
+          "en": "He is often biased in his judgments due to personal beliefs.",
+          "zh": "由于个人信念，他在判断上常常有偏见。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'vulgar' as 'vulgarity', which is often associated with low-class behavior."
+        "association": "Think of 'bias' as a 'bias tape' that distorts the truth."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vulgar&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=biased&type=2"
+    },
+    {
+      "id": "w00127",
+      "word": "explore",
+      "type": "single",
+      "chapterIndex": 7,
+      "globalIndex": 127,
+      "chapter": "ch007",
+      "chapterName": "基本词汇 动词200 Unit 7",
+      "pronunciation": {
+        "us": "/ɪkˈsplɔːr/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "探索",
+          "en": "To travel through a place to learn more about it."
+        },
+        {
+          "pos": "v.",
+          "zh": "研究",
+          "en": "To examine something in detail to understand it better."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Scientists explore the ocean to find new species.",
+          "zh": "科学家探索海洋以发现新物种。"
+        },
+        {
+          "en": "We decided to explore the ancient ruins during our trip.",
+          "zh": "我们决定在旅行中探索古老的遗址。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'exploring' as 'ex-ploring' where you 'explore' different 'ploring' areas."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=explore&type=2"
+    },
+    {
+      "id": "w00503",
+      "word": "devastating",
+      "type": "single",
+      "chapterIndex": 3,
+      "globalIndex": 503,
+      "chapter": "ch026",
+      "chapterName": "基本词汇 形容词和副词400 Unit 6",
+      "pronunciation": {
+        "us": "/ˈdɛv.ə.steɪ.tɪŋ/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "毁灭性的",
+          "en": "Causing a lot of damage or destruction."
+        },
+        {
+          "pos": "adj.",
+          "zh": "令人痛苦的",
+          "en": "Causing great sadness or suffering."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The hurricane had a devastating impact on the coastal communities.",
+          "zh": "飓风对沿海社区造成了毁灭性的影响。"
+        },
+        {
+          "en": "Losing her job was a devastating blow to her mental health.",
+          "zh": "失去工作对她的心理健康是一个毁灭性的打击。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'devastating' as 'devastate' + 'ing', where 'devastate' means to destroy, and the 'ing' indicates an ongoing action."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=devastating&type=2"
+    },
+    {
+      "id": "w00463",
+      "word": "carnivorous",
+      "type": "single",
+      "chapterIndex": 3,
+      "globalIndex": 463,
+      "chapter": "ch024",
+      "chapterName": "基本词汇 形容词和副词400 Unit 4",
+      "pronunciation": {
+        "us": "/kɑːrˈnɪvərəs/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "肉食性的",
+          "en": "Describing animals that eat meat."
+        },
+        {
+          "pos": "adj.",
+          "zh": "有肉食倾向的",
+          "en": "Referring to plants that eat insects or other animals."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Lions are carnivorous animals that hunt for their food.",
+          "zh": "狮子是肉食动物，猎捕食物。"
+        },
+        {
+          "en": "Some plants, like the Venus flytrap, are carnivorous and catch insects.",
+          "zh": "一些植物，如捕蝇草，是肉食性的，会捕捉昆虫。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'carnivorous' comes from the Latin 'carnivorus', meaning 'flesh-eating'.",
+        "association": "Think of 'carnival' where there is meat (carn) served at festivities, connecting it to meat-eating."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=carnivorous&type=2"
+    },
+    {
+      "id": "w00576",
+      "word": "guilty",
+      "type": "single",
+      "chapterIndex": 16,
+      "globalIndex": 576,
+      "chapter": "ch029",
+      "chapterName": "基本词汇 形容词和副词400 Unit 9",
+      "pronunciation": {
+        "us": "/ˈɡɪlti/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "有罪的",
+          "en": "Feeling responsible for a crime or offense."
+        },
+        {
+          "pos": "adj.",
+          "zh": "内疚的",
+          "en": "Feeling regret or remorse for something wrong."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She felt guilty for not visiting her grandmother more often.",
+          "zh": "她因没有更常去看望祖母而感到内疚。"
+        },
+        {
+          "en": "The guilty man confessed to the crime in court.",
+          "zh": "那个有罪的人在法庭上承认了罪行。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'guilt' as the feeling that weighs you down, like carrying a heavy backpack."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=guilty&type=2"
+    },
+    {
+      "id": "w00073",
+      "word": "cooperate",
+      "type": "single",
+      "chapterIndex": 13,
+      "globalIndex": 73,
+      "chapter": "ch004",
+      "chapterName": "基本词汇 动词200 Unit 4",
+      "pronunciation": {
+        "us": "/koʊˈɑːpəreɪt/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "合作",
+          "en": "To work together with others to achieve a common goal."
+        },
+        {
+          "pos": "v.",
+          "zh": "配合",
+          "en": "To be helpful and willing to assist others in their tasks."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The two companies decided to cooperate on the new project.",
+          "zh": "这两家公司决定在新项目上合作。"
+        },
+        {
+          "en": "It is important for nations to cooperate to solve global issues.",
+          "zh": "各国合作解决全球问题是很重要的。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'cooperate' comes from the Latin 'cooperari', which means 'to work together'.",
+        "association": "Think of 'cooperate' as 'co' meaning together and 'operate' meaning to work, so it literally means to work together."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cooperate&type=2"
+    },
+    {
+      "id": "w00499",
+      "word": "depressed",
+      "type": "single",
+      "chapterIndex": 19,
+      "globalIndex": 499,
+      "chapter": "ch025",
+      "chapterName": "基本词汇 形容词和副词400 Unit 5",
+      "pronunciation": {
+        "us": "/dɪˈprɛst/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "沮丧的",
+          "en": "Feeling sad and unhappy for a long time."
+        },
+        {
+          "pos": "v.",
+          "zh": "压抑",
+          "en": "To make someone or something less strong or powerful."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She felt depressed after receiving the bad news about her exam.",
+          "zh": "她在收到关于考试的坏消息后感到沮丧。"
+        },
+        {
+          "en": "The gloomy weather often makes people feel depressed and unmotivated.",
+          "zh": "阴沉的天气常常让人感到沮丧和缺乏动力。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'depressed' as being pressed down by heavy feelings.",
+        "mnemonic": "D for down, meaning feeling low or sad."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=depressed&type=2"
+    },
+    {
+      "id": "w00424",
+      "word": "aggressive",
+      "type": "single",
+      "chapterIndex": 4,
+      "globalIndex": 424,
+      "chapter": "ch022",
+      "chapterName": "基本词汇 形容词和副词400 Unit 2",
+      "pronunciation": {
+        "us": "/əˈɡrɛsɪv/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "好斗的，侵略性的",
+          "en": "Having a strong and forceful attitude; ready to fight or attack."
+        },
+        {
+          "pos": "adj.",
+          "zh": "积极的，进取的",
+          "en": "Showing a willingness to take action; proactive in achieving goals."
+        }
+      ],
+      "examples": [
+        {
+          "en": "His aggressive behavior in the meeting surprised everyone.",
+          "zh": "他在会议上的好斗行为让所有人感到惊讶。"
+        },
+        {
+          "en": "To succeed, you need to adopt an aggressive approach in business.",
+          "zh": "要成功，你需要在商业中采取积极的方式。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'aggressive' as someone who 'aggressively' pursues their goals, like a lion chasing its prey."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aggressive&type=2"
+    },
+    {
+      "id": "w00448",
+      "word": "baneful",
+      "type": "single",
+      "chapterIndex": 8,
+      "globalIndex": 448,
+      "chapter": "ch023",
+      "chapterName": "基本词汇 形容词和副词400 Unit 3",
+      "pronunciation": {
+        "us": "/ˈbeɪn.fəl/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "有害的",
+          "en": "Causing harm or destruction; very harmful."
+        },
+        {
+          "pos": "adj.",
+          "zh": "致命的",
+          "en": "Having a negative effect that can lead to serious consequences."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The baneful effects of pollution are evident in the city's health statistics.",
+          "zh": "污染的有害影响在城市的健康统计中显而易见。"
+        },
+        {
+          "en": "His baneful influence led many young people astray.",
+          "zh": "他有害的影响使许多年轻人误入歧途。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'bane' as a source of harm, like a bad 'bane' to your health."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=baneful&type=2"
+    },
+    {
+      "id": "w00147",
+      "word": "interrupt",
+      "type": "single",
+      "chapterIndex": 7,
+      "globalIndex": 147,
+      "chapter": "ch008",
+      "chapterName": "基本词汇 动词200 Unit 8",
+      "pronunciation": {
+        "us": "/ˌɪn.təˈrʌpt/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "打断",
+          "en": "To stop someone from speaking or doing something."
+        },
+        {
+          "pos": "n.",
+          "zh": "中断",
+          "en": "An occasion when someone interrupts."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Please do not interrupt me while I am speaking.",
+          "zh": "请不要在我说话时打断我。"
+        },
+        {
+          "en": "Her sudden cough interrupted the quiet lecture.",
+          "zh": "她突如其来的咳嗽打断了安静的讲座。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of an 'interruption' as a 'disruption' in communication, like a traffic jam in a conversation."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=interrupt&type=2"
+    },
+    {
+      "id": "w00267",
+      "word": "environment",
+      "type": "single",
+      "chapterIndex": 7,
+      "globalIndex": 267,
+      "chapter": "ch014",
+      "chapterName": "基本词汇 名词200 Unit 4",
+      "pronunciation": {
+        "us": "/ɪnˈvaɪrənmənt/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "环境",
+          "en": "The natural world around us, including land, air, and water."
+        },
+        {
+          "pos": "n.",
+          "zh": "环境",
+          "en": "The conditions or influences affecting the growth and development of someone or something."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Protecting the environment is essential for future generations.",
+          "zh": "保护环境对未来几代人至关重要。"
+        },
+        {
+          "en": "Many species are endangered due to changes in their environment.",
+          "zh": "许多物种因其环境的变化而濒临灭绝。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'environment' as 'the surroundings that nurture life', like a garden."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=environment&type=2"
+    },
+    {
+      "id": "w00513",
+      "word": "disgusting",
+      "type": "single",
+      "chapterIndex": 13,
+      "globalIndex": 513,
+      "chapter": "ch026",
+      "chapterName": "基本词汇 形容词和副词400 Unit 6",
+      "pronunciation": {
+        "us": "/dɪsˈɡʌstɪŋ/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "令人厌恶的",
+          "en": "Something that makes you feel sick or very displeased."
+        },
+        {
+          "pos": "adj.",
+          "zh": "恶心的",
+          "en": "Describes something that is very unpleasant or offensive."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The smell from the garbage was absolutely disgusting and unbearable.",
+          "zh": "垃圾散发的气味让人感到非常恶心，无法忍受。"
+        },
+        {
+          "en": "She found the idea of eating insects to be quite disgusting.",
+          "zh": "她觉得吃昆虫的想法非常恶心。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'disgusting' as 'dis' (not) + 'gust' (taste), meaning something that tastes bad."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disgusting&type=2"
+    },
+    {
+      "id": "w00464",
+      "word": "catastrophic",
+      "type": "single",
+      "chapterIndex": 4,
+      "globalIndex": 464,
+      "chapter": "ch024",
+      "chapterName": "基本词汇 形容词和副词400 Unit 4",
+      "pronunciation": {
+        "us": "/ˌkætəˈstrɑːfɪk/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "灾难性的",
+          "en": "Causing a lot of damage or suffering."
+        },
+        {
+          "pos": "adj.",
+          "zh": "极其严重的",
+          "en": "Extremely serious or disastrous."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The catastrophic flood destroyed many homes in the village.",
+          "zh": "灾难性的洪水摧毁了村庄里的许多房屋。"
+        },
+        {
+          "en": "Experts warned that climate change could have catastrophic effects.",
+          "zh": "专家警告气候变化可能会产生灾难性的影响。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a 'cat' trapped in a 'traffic' jam, leading to a disastrous situation."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=catastrophic&type=2"
+    },
+    {
+      "id": "w00553",
+      "word": "evil",
+      "type": "single",
+      "chapterIndex": 13,
+      "globalIndex": 553,
+      "chapter": "ch028",
+      "chapterName": "基本词汇 形容词和副词400 Unit 8",
+      "pronunciation": {
+        "us": "/ˈiːvəl/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "邪恶的",
+          "en": "Morally very bad or wrong."
+        },
+        {
+          "pos": "n.",
+          "zh": "邪恶",
+          "en": "The quality of being very bad or morally wrong."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The villain in the movie was portrayed as an evil character.",
+          "zh": "电影中的反派被描绘成一个邪恶的角色。"
+        },
+        {
+          "en": "Some people believe that evil exists in the world.",
+          "zh": "有些人相信世界上存在邪恶。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'evil' as 'e' for 'enemies' and 'vil' for 'villains'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=evil&type=2"
+    },
+    {
+      "id": "w00606",
+      "word": "intolerable",
+      "type": "single",
+      "chapterIndex": 6,
+      "globalIndex": 606,
+      "chapter": "ch031",
+      "chapterName": "基本词汇 形容词和副词400 Unit 11",
+      "pronunciation": {
+        "us": "/ɪnˈtɒlərəbl/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "不可忍受的",
+          "en": "Something that is very difficult to accept or endure."
+        },
+        {
+          "pos": "adj.",
+          "zh": "无法容忍的",
+          "en": "A situation that causes great discomfort or annoyance."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The heat during summer can sometimes be intolerable for many people.",
+          "zh": "夏天的热量对很多人来说有时是无法忍受的。"
+        },
+        {
+          "en": "Living in an intolerable environment affects mental health significantly.",
+          "zh": "生活在一个不可忍受的环境中会严重影响心理健康。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'tolerate' as being able to accept something. The prefix 'in-' means not, so 'intolerable' is something you cannot tolerate."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=intolerable&type=2"
+    },
+    {
+      "id": "w00273",
+      "word": "feeling",
+      "type": "single",
+      "chapterIndex": 13,
+      "globalIndex": 273,
+      "chapter": "ch014",
+      "chapterName": "基本词汇 名词200 Unit 4",
+      "pronunciation": {
+        "us": "/ˈfiːlɪŋ/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "感觉；情感",
+          "en": "A physical sensation or an emotional response."
+        },
+        {
+          "pos": "v.",
+          "zh": "感觉；认为",
+          "en": "To perceive or experience something emotionally or physically."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She had a feeling of happiness when she received the news.",
+          "zh": "当她收到消息时，她感到幸福。"
+        },
+        {
+          "en": "I can feel the warmth of the sun on my skin.",
+          "zh": "我能感受到阳光照在我皮肤上的温暖。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Link 'feeling' with 'sense' as both relate to emotions or physical sensations."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=feeling&type=2"
+    },
+    {
+      "id": "w00486",
+      "word": "conventional",
+      "type": "single",
+      "chapterIndex": 6,
+      "globalIndex": 486,
+      "chapter": "ch025",
+      "chapterName": "基本词汇 形容词和副词400 Unit 5",
+      "pronunciation": {
+        "us": "/kənˈvɛnʃənl/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "传统的",
+          "en": "Following traditional methods or ideas, not modern."
+        },
+        {
+          "pos": "adj.",
+          "zh": "常规的",
+          "en": "Relating to accepted standards or norms."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many students prefer conventional studying methods over new techniques.",
+          "zh": "许多学生更喜欢传统的学习方法，而不是新技巧。"
+        },
+        {
+          "en": "His conventional views often clash with modern opinions.",
+          "zh": "他的传统观点常常与现代观点冲突。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'conventional' as 'conveniently traditional' to remember its meaning."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=conventional&type=2"
     }
   ]
 }

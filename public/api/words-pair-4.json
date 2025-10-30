@@ -1,69 +1,70 @@
 {
-  "generated": "2025-10-29T22:08:05.732Z",
+  "generated": "2025-10-30T22:08:02.923Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "critic",
-      "pronunciation": "/ˈkrɪtɪk/",
+      "word": "carnivorous",
+      "pronunciation": "/kɑːrˈnɪvərəs/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "评论家",
-          "en": "A person who reviews or judges something, especially art or literature."
+          "pos": "adj.",
+          "zh": "肉食性的",
+          "en": "Describing animals that eat meat."
         },
         {
-          "pos": "v.",
-          "zh": "批评",
-          "en": "To express disapproval or to analyze the merits and faults of something."
+          "pos": "adj.",
+          "zh": "有肉食倾向的",
+          "en": "Referring to plants that eat insects or other animals."
         }
       ],
       "examples": [
         {
-          "en": "The critic praised the new film for its stunning visuals.",
-          "zh": "评论家称赞这部新电影的惊人视觉效果。"
+          "en": "Lions are carnivorous animals that hunt for their food.",
+          "zh": "狮子是肉食动物，猎捕食物。"
         },
         {
-          "en": "She decided to criticize the proposal due to its flaws.",
-          "zh": "她决定批评这个提案，因为它存在缺陷。"
+          "en": "Some plants, like the Venus flytrap, are carnivorous and catch insects.",
+          "zh": "一些植物，如捕蝇草，是肉食性的，会捕捉昆虫。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a critic as someone who 'cuts' through the noise to find the truth about art or performances."
+        "etymology": "The word 'carnivorous' comes from the Latin 'carnivorus', meaning 'flesh-eating'.",
+        "association": "Think of 'carnival' where there is meat (carn) served at festivities, connecting it to meat-eating."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=critic&type=2",
-      "chapter": "基本词汇 名词200 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=carnivorous&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 4"
     },
     {
-      "word": "virtual",
-      "pronunciation": "/ˈvɜr.tʃu.əl/",
+      "word": "guilty",
+      "pronunciation": "/ˈɡɪlti/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "虚拟的",
-          "en": "Not real; created by computer technology to simulate reality."
+          "zh": "有罪的",
+          "en": "Feeling responsible for a crime or offense."
         },
         {
           "pos": "adj.",
-          "zh": "几乎的",
-          "en": "Almost or nearly the same as something else; not completely."
+          "zh": "内疚的",
+          "en": "Feeling regret or remorse for something wrong."
         }
       ],
       "examples": [
         {
-          "en": "Many businesses now operate in a virtual environment to reach more customers.",
-          "zh": "许多企业现在在虚拟环境中运营，以接触更多客户。"
+          "en": "She felt guilty for not visiting her grandmother more often.",
+          "zh": "她因没有更常去看望祖母而感到内疚。"
         },
         {
-          "en": "Virtual reality games provide an immersive experience for players.",
-          "zh": "虚拟现实游戏为玩家提供了沉浸式体验。"
+          "en": "The guilty man confessed to the crime in court.",
+          "zh": "那个有罪的人在法庭上承认了罪行。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'virtual' as 'virtually real', where things seem real but are not."
+        "association": "Think of 'guilt' as the feeling that weighs you down, like carrying a heavy backpack."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=virtual&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 20"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=guilty&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 9"
     }
   ]
 }

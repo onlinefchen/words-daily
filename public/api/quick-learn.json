@@ -1,66 +1,66 @@
 {
-  "generated": "2025-10-29T22:08:05.732Z",
+  "generated": "2025-10-30T22:08:02.922Z",
   "count": 2,
   "words": [
     {
-      "word": "Mercator",
-      "pronunciation": "/mɜːrˈkeɪtər/",
+      "word": "recycle",
+      "pronunciation": "/riːˈsaɪkəl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "梅卡托投影法",
-          "en": "A type of map projection that distorts size but preserves shape."
+          "pos": "v.",
+          "zh": "回收利用",
+          "en": "To process used materials so they can be used again."
         },
         {
           "pos": "n.",
-          "zh": "梅卡托",
-          "en": "The name of a Flemish cartographer known for his map projections."
+          "zh": "回收物品",
+          "en": "A material that has been collected to be reused."
         }
       ],
       "examples": [
         {
-          "en": "The Mercator projection is widely used for navigation purposes.",
-          "zh": "梅卡托投影广泛用于导航目的。"
+          "en": "Many people forget to recycle their plastic bottles each week.",
+          "zh": "许多人忘记每周回收他们的塑料瓶。"
         },
         {
-          "en": "Mercator's maps helped sailors to plot their courses accurately.",
-          "zh": "梅卡托的地图帮助水手准确绘制航线。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'Mercator' like a 'marker' for navigation on a map."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=Mercator&type=2",
-      "chapter": "认知词汇 历史分类 地图发展史"
-    },
-    {
-      "word": "disposal",
-      "pronunciation": "/dɪsˈpoʊ.zəl/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "处理，处置",
-          "en": "The act of getting rid of something, usually waste."
-        },
-        {
-          "pos": "n.",
-          "zh": "支配，安排",
-          "en": "The power to make decisions about something."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The city has strict rules for waste disposal to protect the environment.",
-          "zh": "这个城市对废物处理有严格的规定，以保护环境。"
-        },
-        {
-          "en": "She had the disposal of the funds for the community project.",
-          "zh": "她负责管理社区项目的资金。"
+          "en": "Recycling helps reduce waste and protect the environment.",
+          "zh": "回收利用有助于减少废物并保护环境。"
         }
       ],
       "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disposal&type=2",
-      "chapter": "基本词汇 名词200 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=recycle&type=2",
+      "chapter": "核心词汇 环境保护 Unit 4"
+    },
+    {
+      "word": "deflect",
+      "pronunciation": "/dɪˈflɛkt/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "偏转，转移",
+          "en": "To cause something to change direction or to be redirected."
+        },
+        {
+          "pos": "v.",
+          "zh": "避开，逃避",
+          "en": "To avoid discussing or dealing with something directly."
+        }
+      ],
+      "examples": [
+        {
+          "en": "He tried to deflect the blame onto his colleagues during the meeting.",
+          "zh": "他试图在会议上将责任转移到同事身上。"
+        },
+        {
+          "en": "The shield can deflect bullets away from the soldier's body.",
+          "zh": "这个盾牌可以将子弹偏转离士兵的身体。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a 'reflector' that deflects light; both words share a similar function of changing direction."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=deflect&type=2",
+      "chapter": "认知词汇 历史分类 电讯发展史"
     }
   ]
 }

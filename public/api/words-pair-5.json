@@ -1,69 +1,71 @@
 {
-  "generated": "2025-10-29T22:08:05.732Z",
+  "generated": "2025-10-30T22:08:02.923Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "insomnia",
-      "pronunciation": "/ɪnˈsɑːm.ni.ə/",
+      "word": "cooperate",
+      "pronunciation": "/koʊˈɑːpəreɪt/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "失眠",
-          "en": "A condition where a person has trouble sleeping."
+          "pos": "v.",
+          "zh": "合作",
+          "en": "To work together with others to achieve a common goal."
         },
         {
-          "pos": "n.",
-          "zh": "无法入睡",
-          "en": "The inability to fall asleep or stay asleep."
+          "pos": "v.",
+          "zh": "配合",
+          "en": "To be helpful and willing to assist others in their tasks."
         }
       ],
       "examples": [
         {
-          "en": "Many students experience insomnia during exam periods.",
-          "zh": "许多学生在考试期间经历失眠。"
+          "en": "The two companies decided to cooperate on the new project.",
+          "zh": "这两家公司决定在新项目上合作。"
         },
         {
-          "en": "Insomnia can lead to serious health problems if untreated.",
-          "zh": "如果不治疗，失眠可能导致严重的健康问题。"
+          "en": "It is important for nations to cooperate to solve global issues.",
+          "zh": "各国合作解决全球问题是很重要的。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'in' as inside and 'somnia' as sleep, meaning you can’t get inside sleep."
+        "etymology": "The word 'cooperate' comes from the Latin 'cooperari', which means 'to work together'.",
+        "association": "Think of 'cooperate' as 'co' meaning together and 'operate' meaning to work, so it literally means to work together."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=insomnia&type=2",
-      "chapter": "核心词汇 健康话题 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cooperate&type=2",
+      "chapter": "基本词汇 动词200 Unit 4"
     },
     {
-      "word": "Geophysical Observatory",
-      "pronunciation": "/ˌdʒiːəˈfɪzɪkəl əbˈzɜːrvətɔːri/",
+      "word": "depressed",
+      "pronunciation": "/dɪˈprɛst/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "地球物理观测站",
-          "en": "A place where scientists study and monitor Earth's physical properties."
+          "pos": "adj.",
+          "zh": "沮丧的",
+          "en": "Feeling sad and unhappy for a long time."
         },
         {
-          "pos": "n.",
-          "zh": "地球物理观测",
-          "en": "The act of observing and measuring physical aspects of the Earth."
+          "pos": "v.",
+          "zh": "压抑",
+          "en": "To make someone or something less strong or powerful."
         }
       ],
       "examples": [
         {
-          "en": "The geophysical observatory collects data on seismic activity.",
-          "zh": "地球物理观测站收集关于地震活动的数据。"
+          "en": "She felt depressed after receiving the bad news about her exam.",
+          "zh": "她在收到关于考试的坏消息后感到沮丧。"
         },
         {
-          "en": "Researchers at the geophysical observatory analyze climate change effects.",
-          "zh": "地球物理观测站的研究人员分析气候变化的影响。"
+          "en": "The gloomy weather often makes people feel depressed and unmotivated.",
+          "zh": "阴沉的天气常常让人感到沮丧和缺乏动力。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'geophysical observatory' as a 'watchtower' for Earth, observing its physical signs."
+        "association": "Think of 'depressed' as being pressed down by heavy feelings.",
+        "mnemonic": "D for down, meaning feeling low or sad."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=Geophysical%20Observatory&type=2",
-      "chapter": "认知词汇 自然分类 地震"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=depressed&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 5"
     }
   ]
 }

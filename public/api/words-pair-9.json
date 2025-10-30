@@ -1,64 +1,69 @@
 {
-  "generated": "2025-10-29T22:08:05.733Z",
+  "generated": "2025-10-30T22:08:02.923Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "volcanic cinder and dust",
-      "pronunciation": "/vɒlˈkænɪk ˈsɪndər ənd dʌst/",
+      "word": "evil",
+      "pronunciation": "/ˈiːvəl/",
       "meanings": [
         {
+          "pos": "adj.",
+          "zh": "邪恶的",
+          "en": "Morally very bad or wrong."
+        },
+        {
           "pos": "n.",
-          "zh": "火山灰和碎屑",
-          "en": "Volcanic cinder and dust are small particles created by volcanic eruptions."
+          "zh": "邪恶",
+          "en": "The quality of being very bad or morally wrong."
         }
       ],
       "examples": [
         {
-          "en": "The volcanic cinder covered the landscape after the eruption.",
-          "zh": "火山喷发后，火山灰覆盖了整个景观。"
+          "en": "The villain in the movie was portrayed as an evil character.",
+          "zh": "电影中的反派被描绘成一个邪恶的角色。"
         },
         {
-          "en": "Volcanic dust can travel long distances in the atmosphere.",
-          "zh": "火山灰可以在大气中传播很远的距离。"
+          "en": "Some people believe that evil exists in the world.",
+          "zh": "有些人相信世界上存在邪恶。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'cinder' as the remnants of a fire, and 'dust' as tiny particles that linger in the air, both related to volcanic activity."
+        "association": "Think of 'evil' as 'e' for 'enemies' and 'vil' for 'villains'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=volcanic%20cinder%20and%20dust&type=2",
-      "chapter": "认知词汇 自然分类 火山"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=evil&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 8"
     },
     {
-      "word": "individualism",
-      "pronunciation": "/ˌɪndɪˈvɪdʒuəlɪzəm/",
+      "word": "intolerable",
+      "pronunciation": "/ɪnˈtɒlərəbl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "个人主义",
-          "en": "A belief in the importance of individual rights and independence."
+          "pos": "adj.",
+          "zh": "不可忍受的",
+          "en": "Something that is very difficult to accept or endure."
         },
         {
-          "pos": "n.",
-          "zh": "个体主义",
-          "en": "A social theory that emphasizes the moral worth of the individual."
+          "pos": "adj.",
+          "zh": "无法容忍的",
+          "en": "A situation that causes great discomfort or annoyance."
         }
       ],
       "examples": [
         {
-          "en": "Individualism encourages people to express their unique identities.",
-          "zh": "个人主义鼓励人们表达他们独特的身份。"
+          "en": "The heat during summer can sometimes be intolerable for many people.",
+          "zh": "夏天的热量对很多人来说有时是无法忍受的。"
         },
         {
-          "en": "The rise of individualism has changed social interactions significantly.",
-          "zh": "个人主义的兴起显著改变了社会互动。"
+          "en": "Living in an intolerable environment affects mental health significantly.",
+          "zh": "生活在一个不可忍受的环境中会严重影响心理健康。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word comes from 'individual', meaning a single person, combined with the suffix '-ism', which denotes a belief or practice."
+        "association": "Think of 'tolerate' as being able to accept something. The prefix 'in-' means not, so 'intolerable' is something you cannot tolerate."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=individualism&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 6"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=intolerable&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 11"
     }
   ]
 }
