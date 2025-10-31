@@ -1,70 +1,69 @@
 {
-  "generated": "2025-10-30T22:08:02.923Z",
+  "generated": "2025-10-31T22:07:58.370Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "carnivorous",
-      "pronunciation": "/kɑːrˈnɪvərəs/",
+      "word": "animal behaviour",
+      "pronunciation": "/ˈænɪməl bɪˈheɪvjər/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "肉食性的",
-          "en": "Describing animals that eat meat."
+          "pos": "n.",
+          "zh": "动物行为",
+          "en": "The way animals act or respond to their environment."
         },
         {
-          "pos": "adj.",
-          "zh": "有肉食倾向的",
-          "en": "Referring to plants that eat insects or other animals."
+          "pos": "n.",
+          "zh": "动物行为学",
+          "en": "The scientific study of how animals behave."
         }
       ],
       "examples": [
         {
-          "en": "Lions are carnivorous animals that hunt for their food.",
-          "zh": "狮子是肉食动物，猎捕食物。"
+          "en": "Understanding animal behaviour can help us protect endangered species.",
+          "zh": "理解动物行为可以帮助我们保护濒危物种。"
         },
         {
-          "en": "Some plants, like the Venus flytrap, are carnivorous and catch insects.",
-          "zh": "一些植物，如捕蝇草，是肉食性的，会捕捉昆虫。"
+          "en": "Researchers observe animal behaviour to learn about their social interactions.",
+          "zh": "研究人员观察动物行为以了解它们的社会互动。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'carnivorous' comes from the Latin 'carnivorus', meaning 'flesh-eating'.",
-        "association": "Think of 'carnival' where there is meat (carn) served at festivities, connecting it to meat-eating."
+        "association": "Think of how animals behave in the wild, which helps link the word to its meaning."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=carnivorous&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=animal%20behaviour&type=2",
+      "chapter": "认知词汇 动物分类 动物行为"
     },
     {
-      "word": "guilty",
-      "pronunciation": "/ˈɡɪlti/",
+      "word": "punishment",
+      "pronunciation": "/ˈpʌnɪʃmənt/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "有罪的",
-          "en": "Feeling responsible for a crime or offense."
+          "pos": "n.",
+          "zh": "惩罚",
+          "en": "A penalty given for doing something wrong."
         },
         {
-          "pos": "adj.",
-          "zh": "内疚的",
-          "en": "Feeling regret or remorse for something wrong."
+          "pos": "n.",
+          "zh": "刑罚",
+          "en": "A consequence imposed on someone as a result of their actions."
         }
       ],
       "examples": [
         {
-          "en": "She felt guilty for not visiting her grandmother more often.",
-          "zh": "她因没有更常去看望祖母而感到内疚。"
+          "en": "The teacher decided on a punishment for the misbehaving students.",
+          "zh": "老师决定对不守规矩的学生施加惩罚。"
         },
         {
-          "en": "The guilty man confessed to the crime in court.",
-          "zh": "那个有罪的人在法庭上承认了罪行。"
+          "en": "Many believe that punishment should aim to correct behavior, not just to harm.",
+          "zh": "许多人认为惩罚应该旨在纠正行为，而不仅仅是造成伤害。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'guilt' as the feeling that weighs you down, like carrying a heavy backpack."
+        "association": "Think of 'punish' as a parent scolding a child, linking punishment to discipline."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=guilty&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 9"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=punishment&type=2",
+      "chapter": "核心词汇 法制与犯罪 Unit 4"
     }
   ]
 }

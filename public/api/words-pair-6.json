@@ -1,69 +1,69 @@
 {
-  "generated": "2025-10-30T22:08:02.923Z",
+  "generated": "2025-10-31T22:07:58.370Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "aggressive",
-      "pronunciation": "/əˈɡrɛsɪv/",
+      "word": "fatal",
+      "pronunciation": "/ˈfeɪ.təl/",
       "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "好斗的，侵略性的",
-          "en": "Having a strong and forceful attitude; ready to fight or attack."
-        },
-        {
-          "pos": "adj.",
-          "zh": "积极的，进取的",
-          "en": "Showing a willingness to take action; proactive in achieving goals."
-        }
-      ],
-      "examples": [
-        {
-          "en": "His aggressive behavior in the meeting surprised everyone.",
-          "zh": "他在会议上的好斗行为让所有人感到惊讶。"
-        },
-        {
-          "en": "To succeed, you need to adopt an aggressive approach in business.",
-          "zh": "要成功，你需要在商业中采取积极的方式。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'aggressive' as someone who 'aggressively' pursues their goals, like a lion chasing its prey."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aggressive&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 2"
-    },
-    {
-      "word": "baneful",
-      "pronunciation": "/ˈbeɪn.fəl/",
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "有害的",
-          "en": "Causing harm or destruction; very harmful."
-        },
         {
           "pos": "adj.",
           "zh": "致命的",
-          "en": "Having a negative effect that can lead to serious consequences."
+          "en": "Causing death or able to cause death."
+        },
+        {
+          "pos": "adj.",
+          "zh": "极其严重的",
+          "en": "Extremely serious or important."
         }
       ],
       "examples": [
         {
-          "en": "The baneful effects of pollution are evident in the city's health statistics.",
-          "zh": "污染的有害影响在城市的健康统计中显而易见。"
+          "en": "The accident resulted in a fatal injury to the driver.",
+          "zh": "这起事故导致驾驶员致命受伤。"
         },
         {
-          "en": "His baneful influence led many young people astray.",
-          "zh": "他有害的影响使许多年轻人误入歧途。"
+          "en": "Ignoring safety rules can lead to fatal consequences.",
+          "zh": "忽视安全规则可能导致严重后果。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'bane' as a source of harm, like a bad 'bane' to your health."
+        "association": "Think of 'fate', as in fate can be fatal."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=baneful&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=fatal&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 3"
+    },
+    {
+      "word": "refrain",
+      "pronunciation": "/rɪˈfreɪn/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "克制",
+          "en": "To stop yourself from doing something."
+        },
+        {
+          "pos": "v.",
+          "zh": "避免",
+          "en": "To avoid doing something that you would normally do."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She decided to refrain from eating dessert to stay healthy.",
+          "zh": "她决定克制自己不吃甜点以保持健康。"
+        },
+        {
+          "en": "It's important to refrain from interrupting others during meetings.",
+          "zh": "在会议中，重要的是避免打断他人。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'refrain' as 'refrain from doing something' like a musician refraining from playing a note."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=refrain&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 8"
     }
   ]
 }

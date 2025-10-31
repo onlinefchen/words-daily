@@ -1,69 +1,67 @@
 {
-  "generated": "2025-10-30T22:08:02.923Z",
+  "generated": "2025-10-31T22:07:58.370Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "disgusting",
-      "pronunciation": "/dɪsˈɡʌstɪŋ/",
+      "word": "viper",
+      "pronunciation": "/ˈvaɪpər/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "令人厌恶的",
-          "en": "Something that makes you feel sick or very displeased."
+          "pos": "n.",
+          "zh": "毒蛇",
+          "en": "A type of snake that is often poisonous."
         },
         {
-          "pos": "adj.",
-          "zh": "恶心的",
-          "en": "Describes something that is very unpleasant or offensive."
+          "pos": "n.",
+          "zh": "阴险的人",
+          "en": "A person who is deceitful or treacherous."
         }
       ],
       "examples": [
         {
-          "en": "The smell from the garbage was absolutely disgusting and unbearable.",
-          "zh": "垃圾散发的气味让人感到非常恶心，无法忍受。"
+          "en": "The viper slithered silently through the grass, searching for prey.",
+          "zh": "毒蛇在草丛中悄悄滑行，寻找猎物。"
         },
         {
-          "en": "She found the idea of eating insects to be quite disgusting.",
-          "zh": "她觉得吃昆虫的想法非常恶心。"
+          "en": "He was a viper in the business world, always betraying his friends.",
+          "zh": "他在商界是一条毒蛇，总是背叛朋友。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'disgusting' as 'dis' (not) + 'gust' (taste), meaning something that tastes bad."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disgusting&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 6"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=viper&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "catastrophic",
-      "pronunciation": "/ˌkætəˈstrɑːfɪk/",
+      "word": "instinct",
+      "pronunciation": "/ˈɪn.stɪŋkt/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "灾难性的",
-          "en": "Causing a lot of damage or suffering."
+          "pos": "n.",
+          "zh": "本能",
+          "en": "A natural ability to know or do something without thinking."
         },
         {
-          "pos": "adj.",
-          "zh": "极其严重的",
-          "en": "Extremely serious or disastrous."
+          "pos": "n.",
+          "zh": "直觉",
+          "en": "A feeling or belief that guides you to act in a certain way."
         }
       ],
       "examples": [
         {
-          "en": "The catastrophic flood destroyed many homes in the village.",
-          "zh": "灾难性的洪水摧毁了村庄里的许多房屋。"
+          "en": "Her instinct told her to avoid the dark alley at night.",
+          "zh": "她的直觉告诉她晚上要避开那条黑暗的巷子。"
         },
         {
-          "en": "Experts warned that climate change could have catastrophic effects.",
-          "zh": "专家警告气候变化可能会产生灾难性的影响。"
+          "en": "Many animals rely on instinct for survival in the wild.",
+          "zh": "许多动物依靠本能在野外生存。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'cat' trapped in a 'traffic' jam, leading to a disastrous situation."
+        "association": "Think of 'instinct' as 'in-sync' with your feelings, guiding your actions."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=catastrophic&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=instinct&type=2",
+      "chapter": "认知词汇 动物分类 动物行为"
     }
   ]
 }

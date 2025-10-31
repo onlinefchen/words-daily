@@ -1,69 +1,64 @@
 {
-  "generated": "2025-10-30T22:08:02.922Z",
+  "generated": "2025-10-31T22:07:58.370Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "explore",
-      "pronunciation": "/ɪkˈsplɔːr/",
+      "word": "neurotoxic",
+      "pronunciation": "/ˌnjʊəroʊˈtɒksɪk/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "探索",
-          "en": "To travel through a place to learn more about it."
-        },
-        {
-          "pos": "v.",
-          "zh": "研究",
-          "en": "To examine something in detail to understand it better."
+          "pos": "adj.",
+          "zh": "神经毒性的",
+          "en": "Having the ability to cause damage to the nervous system."
         }
       ],
       "examples": [
         {
-          "en": "Scientists explore the ocean to find new species.",
-          "zh": "科学家探索海洋以发现新物种。"
+          "en": "Certain pesticides are known to be neurotoxic to humans.",
+          "zh": "某些农药已知对人类具有神经毒性。"
         },
         {
-          "en": "We decided to explore the ancient ruins during our trip.",
-          "zh": "我们决定在旅行中探索古老的遗址。"
+          "en": "Neurotoxic effects can lead to serious health problems over time.",
+          "zh": "神经毒性影响可能会导致长期严重的健康问题。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'exploring' as 'ex-ploring' where you 'explore' different 'ploring' areas."
+        "association": "Think of 'neuro-' as relating to nerves and 'toxic' as poisonous, so neurotoxic means poisonous to the nerves."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=explore&type=2",
-      "chapter": "基本词汇 动词200 Unit 7"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=neurotoxic&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "devastating",
-      "pronunciation": "/ˈdɛv.ə.steɪ.tɪŋ/",
+      "word": "melon",
+      "pronunciation": "/ˈmɛlən/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "毁灭性的",
-          "en": "Causing a lot of damage or destruction."
+          "pos": "n.",
+          "zh": "甜瓜",
+          "en": "A large, sweet fruit with a smooth skin and soft flesh."
         },
         {
-          "pos": "adj.",
-          "zh": "令人痛苦的",
-          "en": "Causing great sadness or suffering."
+          "pos": "n.",
+          "zh": "瓜类植物",
+          "en": "Any of several types of plants that produce sweet fruits."
         }
       ],
       "examples": [
         {
-          "en": "The hurricane had a devastating impact on the coastal communities.",
-          "zh": "飓风对沿海社区造成了毁灭性的影响。"
+          "en": "I enjoy eating melon during the hot summer months.",
+          "zh": "我喜欢在炎热的夏天吃甜瓜。"
         },
         {
-          "en": "Losing her job was a devastating blow to her mental health.",
-          "zh": "失去工作对她的心理健康是一个毁灭性的打击。"
+          "en": "Melons can be used in salads or eaten alone as snacks.",
+          "zh": "甜瓜可以用来做沙拉或单独作为小吃。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'devastating' as 'devastate' + 'ing', where 'devastate' means to destroy, and the 'ing' indicates an ongoing action."
+        "association": "Think of a 'melon' as a 'mellow' fruit that brings a 'cool' feeling in summer."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=devastating&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 6"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=melon&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

@@ -1,71 +1,69 @@
 {
-  "generated": "2025-10-30T22:08:02.923Z",
+  "generated": "2025-10-31T22:07:58.370Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "cooperate",
-      "pronunciation": "/koʊˈɑːpəreɪt/",
+      "word": "variation",
+      "pronunciation": "/ˌvɛr.iˈeɪ.ʃən/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "合作",
-          "en": "To work together with others to achieve a common goal."
+          "pos": "n.",
+          "zh": "变种",
+          "en": "A change or difference in condition or amount."
         },
         {
-          "pos": "v.",
-          "zh": "配合",
-          "en": "To be helpful and willing to assist others in their tasks."
+          "pos": "n.",
+          "zh": "变异",
+          "en": "A different form or version of something."
         }
       ],
       "examples": [
         {
-          "en": "The two companies decided to cooperate on the new project.",
-          "zh": "这两家公司决定在新项目上合作。"
+          "en": "There is a significant variation in temperatures across the seasons.",
+          "zh": "不同季节的温度差异很大。"
         },
         {
-          "en": "It is important for nations to cooperate to solve global issues.",
-          "zh": "各国合作解决全球问题是很重要的。"
+          "en": "The study showed variation in participants' responses to the same question.",
+          "zh": "研究显示参与者对同一问题的回答存在差异。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'cooperate' comes from the Latin 'cooperari', which means 'to work together'.",
-        "association": "Think of 'cooperate' as 'co' meaning together and 'operate' meaning to work, so it literally means to work together."
+        "etymology": "The word 'variation' comes from the Latin 'variatio', meaning 'change' or 'difference'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cooperate&type=2",
-      "chapter": "基本词汇 动词200 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=variation&type=2",
+      "chapter": "认知词汇 动物分类 动物行为"
     },
     {
-      "word": "depressed",
-      "pronunciation": "/dɪˈprɛst/",
+      "word": "glacier",
+      "pronunciation": "/ˈɡleɪʃər/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "沮丧的",
-          "en": "Feeling sad and unhappy for a long time."
+          "pos": "n.",
+          "zh": "冰川",
+          "en": "A large, slow-moving mass of ice that forms from compacted snow."
         },
         {
-          "pos": "v.",
-          "zh": "压抑",
-          "en": "To make someone or something less strong or powerful."
+          "pos": "n.",
+          "zh": "冰川",
+          "en": "A persistent body of dense ice that covers the land and moves under its own weight."
         }
       ],
       "examples": [
         {
-          "en": "She felt depressed after receiving the bad news about her exam.",
-          "zh": "她在收到关于考试的坏消息后感到沮丧。"
+          "en": "The glacier slowly melted due to rising global temperatures.",
+          "zh": "由于全球气温上升，冰川缓慢融化。"
         },
         {
-          "en": "The gloomy weather often makes people feel depressed and unmotivated.",
-          "zh": "阴沉的天气常常让人感到沮丧和缺乏动力。"
+          "en": "Scientists study glaciers to understand climate change better.",
+          "zh": "科学家研究冰川以更好地了解气候变化。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'depressed' as being pressed down by heavy feelings.",
-        "mnemonic": "D for down, meaning feeling low or sad."
+        "association": "Think of 'glacier' as 'glassy' ice moving slowly down a mountain."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=depressed&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=glacier&type=2",
+      "chapter": "认知词汇 自然分类 \"厄尔尼诺\"现象"
     }
   ]
 }

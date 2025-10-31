@@ -1,69 +1,67 @@
 {
-  "generated": "2025-10-30T22:08:02.923Z",
+  "generated": "2025-10-31T22:07:58.370Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "evil",
-      "pronunciation": "/ˈiːvəl/",
+      "word": "brutal",
+      "pronunciation": "/ˈbruːtəl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "邪恶的",
-          "en": "Morally very bad or wrong."
+          "zh": "残忍的",
+          "en": "Very cruel or violent."
         },
         {
-          "pos": "n.",
-          "zh": "邪恶",
-          "en": "The quality of being very bad or morally wrong."
+          "pos": "adj.",
+          "zh": "严酷的",
+          "en": "Severe or harsh, often in a way that is shocking."
         }
       ],
       "examples": [
         {
-          "en": "The villain in the movie was portrayed as an evil character.",
-          "zh": "电影中的反派被描绘成一个邪恶的角色。"
+          "en": "The brutal winter cold made it difficult to go outside.",
+          "zh": "残酷的冬季寒冷使得外出变得困难。"
         },
         {
-          "en": "Some people believe that evil exists in the world.",
-          "zh": "有些人相信世界上存在邪恶。"
+          "en": "The documentary revealed the brutal conditions of factory workers.",
+          "zh": "纪录片揭示了工厂工人残酷的工作条件。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'evil' as 'e' for 'enemies' and 'vil' for 'villains'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=evil&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 8"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=brutal&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 1"
     },
     {
-      "word": "intolerable",
-      "pronunciation": "/ɪnˈtɒlərəbl/",
+      "word": "physical",
+      "pronunciation": "/ˈfɪz.ɪ.kəl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "不可忍受的",
-          "en": "Something that is very difficult to accept or endure."
+          "zh": "身体的",
+          "en": "Related to the body or material things."
         },
         {
           "pos": "adj.",
-          "zh": "无法容忍的",
-          "en": "A situation that causes great discomfort or annoyance."
+          "zh": "物理的",
+          "en": "Relating to the science of matter and energy."
         }
       ],
       "examples": [
         {
-          "en": "The heat during summer can sometimes be intolerable for many people.",
-          "zh": "夏天的热量对很多人来说有时是无法忍受的。"
+          "en": "Regular exercise is crucial for maintaining good physical health.",
+          "zh": "定期锻炼对保持良好的身体健康至关重要。"
         },
         {
-          "en": "Living in an intolerable environment affects mental health significantly.",
-          "zh": "生活在一个不可忍受的环境中会严重影响心理健康。"
+          "en": "The physical laws of motion govern how objects move in space.",
+          "zh": "运动的物理定律决定了物体在空间中的运动方式。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'tolerate' as being able to accept something. The prefix 'in-' means not, so 'intolerable' is something you cannot tolerate."
+        "etymology": "The word 'physical' comes from the Greek word 'physikos', meaning 'natural'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=intolerable&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 11"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=physical&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 8"
     }
   ]
 }

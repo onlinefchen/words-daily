@@ -1,69 +1,69 @@
 {
-  "generated": "2025-10-30T22:08:02.923Z",
+  "generated": "2025-10-31T22:07:58.370Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "feeling",
-      "pronunciation": "/ˈfiːlɪŋ/",
+      "word": "vanity",
+      "pronunciation": "/ˈvæn.ɪ.ti/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "感觉；情感",
-          "en": "A physical sensation or an emotional response."
+          "zh": "虚荣",
+          "en": "Excessive pride in one's appearance or achievements."
         },
         {
-          "pos": "v.",
-          "zh": "感觉；认为",
-          "en": "To perceive or experience something emotionally or physically."
+          "pos": "n.",
+          "zh": "无意义",
+          "en": "The quality of being worthless or insignificant."
         }
       ],
       "examples": [
         {
-          "en": "She had a feeling of happiness when she received the news.",
-          "zh": "当她收到消息时，她感到幸福。"
+          "en": "Her vanity often led her to spend too much on clothing.",
+          "zh": "她的虚荣心常常让她在衣服上花费过多。"
         },
         {
-          "en": "I can feel the warmth of the sun on my skin.",
-          "zh": "我能感受到阳光照在我皮肤上的温暖。"
+          "en": "He realized that his vanity prevented him from listening to others.",
+          "zh": "他意识到自己的虚荣心让他无法倾听他人。"
         }
       ],
       "memoryTips": {
-        "association": "Link 'feeling' with 'sense' as both relate to emotions or physical sensations."
+        "association": "Think of 'vanity' as being like a 'van' that carries only looks and ego, not substance."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=feeling&type=2",
-      "chapter": "基本词汇 名词200 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vanity&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 10"
     },
     {
-      "word": "conventional",
-      "pronunciation": "/kənˈvɛnʃənl/",
+      "word": "king cobra",
+      "pronunciation": "/kɪŋ ˈkoʊ.brə/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "传统的",
-          "en": "Following traditional methods or ideas, not modern."
+          "pos": "n.",
+          "zh": "眼镜蛇的一种",
+          "en": "A large, venomous snake found in South and Southeast Asia."
         },
         {
-          "pos": "adj.",
-          "zh": "常规的",
-          "en": "Relating to accepted standards or norms."
+          "pos": "n.",
+          "zh": "最毒的蛇之一",
+          "en": "One of the most poisonous snakes in the world."
         }
       ],
       "examples": [
         {
-          "en": "Many students prefer conventional studying methods over new techniques.",
-          "zh": "许多学生更喜欢传统的学习方法，而不是新技巧。"
+          "en": "The king cobra can grow up to 18 feet in length.",
+          "zh": "眼镜王蛇可以长到18英尺长。"
         },
         {
-          "en": "His conventional views often clash with modern opinions.",
-          "zh": "他的传统观点常常与现代观点冲突。"
+          "en": "Many people fear the king cobra due to its potent venom.",
+          "zh": "许多人因为眼镜王蛇的强毒而感到害怕。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'conventional' as 'conveniently traditional' to remember its meaning."
+        "association": "Think of a 'king' as the ruler of snakes, emphasizing its dominance and fearsome nature."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=conventional&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=king%20cobra&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

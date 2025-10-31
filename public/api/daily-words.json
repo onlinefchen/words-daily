@@ -1,768 +1,752 @@
 {
-  "generated": "2025-10-30T22:08:02.921Z",
-  "date": "2025-10-30",
+  "generated": "2025-10-31T22:07:58.368Z",
+  "date": "2025-10-31",
   "totalWords": 20,
   "words": [
     {
-      "id": "w00974",
-      "word": "recycle",
-      "type": "single",
-      "chapterIndex": 14,
-      "globalIndex": 974,
-      "chapter": "ch049",
-      "chapterName": "核心词汇 环境保护 Unit 4",
+      "id": "w05189",
+      "word": "vertical takeoff and landing",
+      "type": "phrase",
+      "chapterIndex": 31,
+      "globalIndex": 5189,
+      "chapter": "ch161",
+      "chapterName": "阅读真题认知词汇 电脑化的交通工具",
       "pronunciation": {
-        "us": "/riːˈsaɪkəl/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "回收利用",
-          "en": "To process used materials so they can be used again."
-        },
-        {
-          "pos": "n.",
-          "zh": "回收物品",
-          "en": "A material that has been collected to be reused."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Many people forget to recycle their plastic bottles each week.",
-          "zh": "许多人忘记每周回收他们的塑料瓶。"
-        },
-        {
-          "en": "Recycling helps reduce waste and protect the environment.",
-          "zh": "回收利用有助于减少废物并保护环境。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=recycle&type=2"
-    },
-    {
-      "id": "w04098",
-      "word": "deflect",
-      "type": "single",
-      "chapterIndex": 9,
-      "globalIndex": 4098,
-      "chapter": "ch130",
-      "chapterName": "认知词汇 历史分类 电讯发展史",
-      "pronunciation": {
-        "us": "/dɪˈflɛkt/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "偏转，转移",
-          "en": "To cause something to change direction or to be redirected."
-        },
-        {
-          "pos": "v.",
-          "zh": "避开，逃避",
-          "en": "To avoid discussing or dealing with something directly."
-        }
-      ],
-      "examples": [
-        {
-          "en": "He tried to deflect the blame onto his colleagues during the meeting.",
-          "zh": "他试图在会议上将责任转移到同事身上。"
-        },
-        {
-          "en": "The shield can deflect bullets away from the soldier's body.",
-          "zh": "这个盾牌可以将子弹偏转离士兵的身体。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of a 'reflector' that deflects light; both words share a similar function of changing direction."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=deflect&type=2"
-    },
-    {
-      "id": "w00307",
-      "word": "motivation",
-      "type": "single",
-      "chapterIndex": 7,
-      "globalIndex": 307,
-      "chapter": "ch016",
-      "chapterName": "基本词汇 名词200 Unit 6",
-      "pronunciation": {
-        "us": "/ˌmoʊtɪˈveɪʃən/"
+        "us": "/ˈvɜrtɪkəl ˈteɪkˌɔf ənd ˈlændɪŋ/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "动机",
-          "en": "The reason or desire that drives someone to do something."
-        },
-        {
-          "pos": "n.",
-          "zh": "激励",
-          "en": "A feeling that encourages someone to act or achieve something."
+          "zh": "垂直起降",
+          "en": "A type of aircraft that can take off and land vertically."
         }
       ],
       "examples": [
         {
-          "en": "Her motivation to study hard comes from her desire to succeed.",
-          "zh": "她努力学习的动机来自于她成功的渴望。"
+          "en": "The new drone features vertical takeoff and landing capabilities.",
+          "zh": "这款新无人机具有垂直起降的能力。"
         },
         {
-          "en": "Finding motivation to exercise can be challenging for many people.",
-          "zh": "对许多人来说，寻找锻炼的动机可能很有挑战性。"
+          "en": "Vertical takeoff and landing aircraft are useful in urban areas.",
+          "zh": "垂直起降的飞机在城市地区非常有用。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'motivation' as 'motion' towards a goal, where 'moti-' suggests movement.",
-        "mnemonic": "'Moti' sounds like 'motive', which relates to reasons and drives."
+        "association": "Think of a helicopter, which can take off and land vertically."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=motivation&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vertical%20takeoff%20and%20landing&type=2"
     },
     {
-      "id": "w00455",
-      "word": "biased",
-      "type": "single",
-      "chapterIndex": 15,
-      "globalIndex": 455,
-      "chapter": "ch023",
-      "chapterName": "基本词汇 形容词和副词400 Unit 3",
-      "pronunciation": {
-        "us": "/ˈbaɪəst/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "有偏见的",
-          "en": "Having an unfair preference for or against something."
-        },
-        {
-          "pos": "v.",
-          "zh": "使有偏见",
-          "en": "To cause someone to have a particular opinion that is not based on reason."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The article was criticized for being biased towards one political party.",
-          "zh": "这篇文章因偏向一个政党而受到批评。"
-        },
-        {
-          "en": "He is often biased in his judgments due to personal beliefs.",
-          "zh": "由于个人信念，他在判断上常常有偏见。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'bias' as a 'bias tape' that distorts the truth."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=biased&type=2"
-    },
-    {
-      "id": "w00127",
-      "word": "explore",
-      "type": "single",
-      "chapterIndex": 7,
-      "globalIndex": 127,
-      "chapter": "ch007",
-      "chapterName": "基本词汇 动词200 Unit 7",
-      "pronunciation": {
-        "us": "/ɪkˈsplɔːr/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "探索",
-          "en": "To travel through a place to learn more about it."
-        },
-        {
-          "pos": "v.",
-          "zh": "研究",
-          "en": "To examine something in detail to understand it better."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Scientists explore the ocean to find new species.",
-          "zh": "科学家探索海洋以发现新物种。"
-        },
-        {
-          "en": "We decided to explore the ancient ruins during our trip.",
-          "zh": "我们决定在旅行中探索古老的遗址。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'exploring' as 'ex-ploring' where you 'explore' different 'ploring' areas."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=explore&type=2"
-    },
-    {
-      "id": "w00503",
-      "word": "devastating",
-      "type": "single",
-      "chapterIndex": 3,
-      "globalIndex": 503,
-      "chapter": "ch026",
-      "chapterName": "基本词汇 形容词和副词400 Unit 6",
-      "pronunciation": {
-        "us": "/ˈdɛv.ə.steɪ.tɪŋ/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "毁灭性的",
-          "en": "Causing a lot of damage or destruction."
-        },
-        {
-          "pos": "adj.",
-          "zh": "令人痛苦的",
-          "en": "Causing great sadness or suffering."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The hurricane had a devastating impact on the coastal communities.",
-          "zh": "飓风对沿海社区造成了毁灭性的影响。"
-        },
-        {
-          "en": "Losing her job was a devastating blow to her mental health.",
-          "zh": "失去工作对她的心理健康是一个毁灭性的打击。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'devastating' as 'devastate' + 'ing', where 'devastate' means to destroy, and the 'ing' indicates an ongoing action."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=devastating&type=2"
-    },
-    {
-      "id": "w00463",
-      "word": "carnivorous",
-      "type": "single",
-      "chapterIndex": 3,
-      "globalIndex": 463,
-      "chapter": "ch024",
-      "chapterName": "基本词汇 形容词和副词400 Unit 4",
-      "pronunciation": {
-        "us": "/kɑːrˈnɪvərəs/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "肉食性的",
-          "en": "Describing animals that eat meat."
-        },
-        {
-          "pos": "adj.",
-          "zh": "有肉食倾向的",
-          "en": "Referring to plants that eat insects or other animals."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Lions are carnivorous animals that hunt for their food.",
-          "zh": "狮子是肉食动物，猎捕食物。"
-        },
-        {
-          "en": "Some plants, like the Venus flytrap, are carnivorous and catch insects.",
-          "zh": "一些植物，如捕蝇草，是肉食性的，会捕捉昆虫。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'carnivorous' comes from the Latin 'carnivorus', meaning 'flesh-eating'.",
-        "association": "Think of 'carnival' where there is meat (carn) served at festivities, connecting it to meat-eating."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=carnivorous&type=2"
-    },
-    {
-      "id": "w00576",
-      "word": "guilty",
+      "id": "w01596",
+      "word": "victim",
       "type": "single",
       "chapterIndex": 16,
-      "globalIndex": 576,
-      "chapter": "ch029",
-      "chapterName": "基本词汇 形容词和副词400 Unit 9",
+      "globalIndex": 1596,
+      "chapter": "ch080",
+      "chapterName": "核心词汇 民主与权利 Unit 5",
       "pronunciation": {
-        "us": "/ˈɡɪlti/"
+        "us": "/ˈvɪk.tɪm/"
       },
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "有罪的",
-          "en": "Feeling responsible for a crime or offense."
+          "pos": "n.",
+          "zh": "受害者",
+          "en": "A person who suffers harm or injury."
         },
         {
-          "pos": "adj.",
-          "zh": "内疚的",
-          "en": "Feeling regret or remorse for something wrong."
+          "pos": "n.",
+          "zh": "牺牲品",
+          "en": "Someone who is tricked or deceived."
         }
       ],
       "examples": [
         {
-          "en": "She felt guilty for not visiting her grandmother more often.",
-          "zh": "她因没有更常去看望祖母而感到内疚。"
+          "en": "The victim of the accident was taken to the hospital immediately.",
+          "zh": "事故的受害者被立即送往医院。"
         },
         {
-          "en": "The guilty man confessed to the crime in court.",
-          "zh": "那个有罪的人在法庭上承认了罪行。"
+          "en": "Many victims of fraud lose their life savings to scammers.",
+          "zh": "许多欺诈的受害者将毕生积蓄拱手让给骗子。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'guilt' as the feeling that weighs you down, like carrying a heavy backpack."
+        "association": "Think of a victim as someone who is 'vicked' or harmed by others."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=guilty&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=victim&type=2"
     },
     {
-      "id": "w00073",
-      "word": "cooperate",
+      "id": "w02610",
+      "word": "emission",
       "type": "single",
-      "chapterIndex": 13,
-      "globalIndex": 73,
-      "chapter": "ch004",
-      "chapterName": "基本词汇 动词200 Unit 4",
+      "chapterIndex": 25,
+      "globalIndex": 2610,
+      "chapter": "ch105",
+      "chapterName": "认知词汇 自然分类 火山",
       "pronunciation": {
-        "us": "/koʊˈɑːpəreɪt/"
+        "us": "/ɪˈmɪʃən/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "排放",
+          "en": "The act of releasing something, especially gas or liquid, into the environment."
+        },
+        {
+          "pos": "n.",
+          "zh": "发射",
+          "en": "The process of sending out light, heat, or sound."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The city aims to reduce carbon emissions from vehicles.",
+          "zh": "这座城市旨在减少汽车的碳排放。"
+        },
+        {
+          "en": "The emission of light from the stars is essential for astronomy.",
+          "zh": "星星发出的光对天文学至关重要。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'emission' comes from the Latin 'emissio', meaning 'a sending out'.",
+        "association": "Think of 'emission' as 'a mission to emit' something into the air."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=emission&type=2"
+    },
+    {
+      "id": "w02573",
+      "word": "encroach",
+      "type": "single",
+      "chapterIndex": 6,
+      "globalIndex": 2573,
+      "chapter": "ch104",
+      "chapterName": "认知词汇 自然分类 海沙流失",
+      "pronunciation": {
+        "us": "/ɪnˈkroʊtʃ/"
       },
       "meanings": [
         {
           "pos": "v.",
-          "zh": "合作",
-          "en": "To work together with others to achieve a common goal."
+          "zh": "侵入",
+          "en": "To gradually take over someone's space or rights."
         },
         {
           "pos": "v.",
-          "zh": "配合",
-          "en": "To be helpful and willing to assist others in their tasks."
+          "zh": "侵犯",
+          "en": "To advance beyond the usual or proper limits."
         }
       ],
       "examples": [
         {
-          "en": "The two companies decided to cooperate on the new project.",
-          "zh": "这两家公司决定在新项目上合作。"
+          "en": "The construction project began to encroach on the nearby wildlife habitat.",
+          "zh": "这个建筑项目开始侵占附近的野生动物栖息地。"
         },
         {
-          "en": "It is important for nations to cooperate to solve global issues.",
-          "zh": "各国合作解决全球问题是很重要的。"
+          "en": "As the city expanded, it began to encroach upon rural areas.",
+          "zh": "随着城市扩张，它开始侵犯乡村地区。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'cooperate' comes from the Latin 'cooperari', which means 'to work together'.",
-        "association": "Think of 'cooperate' as 'co' meaning together and 'operate' meaning to work, so it literally means to work together."
+        "association": "Think of 'encroach' as 'crouching' into someone's space, like a person slowly moving into your area."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cooperate&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=encroach&type=2"
     },
     {
-      "id": "w00499",
-      "word": "depressed",
+      "id": "w02281",
+      "word": "neurotoxic",
       "type": "single",
-      "chapterIndex": 19,
-      "globalIndex": 499,
-      "chapter": "ch025",
-      "chapterName": "基本词汇 形容词和副词400 Unit 5",
+      "chapterIndex": 381,
+      "globalIndex": 2281,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
       "pronunciation": {
-        "us": "/dɪˈprɛst/"
+        "us": "/ˌnjʊəroʊˈtɒksɪk/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "沮丧的",
-          "en": "Feeling sad and unhappy for a long time."
-        },
-        {
-          "pos": "v.",
-          "zh": "压抑",
-          "en": "To make someone or something less strong or powerful."
+          "zh": "神经毒性的",
+          "en": "Having the ability to cause damage to the nervous system."
         }
       ],
       "examples": [
         {
-          "en": "She felt depressed after receiving the bad news about her exam.",
-          "zh": "她在收到关于考试的坏消息后感到沮丧。"
+          "en": "Certain pesticides are known to be neurotoxic to humans.",
+          "zh": "某些农药已知对人类具有神经毒性。"
         },
         {
-          "en": "The gloomy weather often makes people feel depressed and unmotivated.",
-          "zh": "阴沉的天气常常让人感到沮丧和缺乏动力。"
+          "en": "Neurotoxic effects can lead to serious health problems over time.",
+          "zh": "神经毒性影响可能会导致长期严重的健康问题。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'depressed' as being pressed down by heavy feelings.",
-        "mnemonic": "D for down, meaning feeling low or sad."
+        "association": "Think of 'neuro-' as relating to nerves and 'toxic' as poisonous, so neurotoxic means poisonous to the nerves."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=depressed&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=neurotoxic&type=2"
     },
     {
-      "id": "w00424",
-      "word": "aggressive",
+      "id": "w02080",
+      "word": "melon",
       "type": "single",
-      "chapterIndex": 4,
-      "globalIndex": 424,
-      "chapter": "ch022",
-      "chapterName": "基本词汇 形容词和副词400 Unit 2",
+      "chapterIndex": 180,
+      "globalIndex": 2080,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
       "pronunciation": {
-        "us": "/əˈɡrɛsɪv/"
+        "us": "/ˈmɛlən/"
       },
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "好斗的，侵略性的",
-          "en": "Having a strong and forceful attitude; ready to fight or attack."
+          "pos": "n.",
+          "zh": "甜瓜",
+          "en": "A large, sweet fruit with a smooth skin and soft flesh."
         },
         {
-          "pos": "adj.",
-          "zh": "积极的，进取的",
-          "en": "Showing a willingness to take action; proactive in achieving goals."
+          "pos": "n.",
+          "zh": "瓜类植物",
+          "en": "Any of several types of plants that produce sweet fruits."
         }
       ],
       "examples": [
         {
-          "en": "His aggressive behavior in the meeting surprised everyone.",
-          "zh": "他在会议上的好斗行为让所有人感到惊讶。"
+          "en": "I enjoy eating melon during the hot summer months.",
+          "zh": "我喜欢在炎热的夏天吃甜瓜。"
         },
         {
-          "en": "To succeed, you need to adopt an aggressive approach in business.",
-          "zh": "要成功，你需要在商业中采取积极的方式。"
+          "en": "Melons can be used in salads or eaten alone as snacks.",
+          "zh": "甜瓜可以用来做沙拉或单独作为小吃。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'aggressive' as someone who 'aggressively' pursues their goals, like a lion chasing its prey."
+        "association": "Think of a 'melon' as a 'mellow' fruit that brings a 'cool' feeling in summer."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aggressive&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=melon&type=2"
     },
     {
-      "id": "w00448",
-      "word": "baneful",
-      "type": "single",
-      "chapterIndex": 8,
-      "globalIndex": 448,
-      "chapter": "ch023",
-      "chapterName": "基本词汇 形容词和副词400 Unit 3",
+      "id": "w02359",
+      "word": "animal behaviour",
+      "type": "phrase",
+      "chapterIndex": 1,
+      "globalIndex": 2359,
+      "chapter": "ch099",
+      "chapterName": "认知词汇 动物分类 动物行为",
       "pronunciation": {
-        "us": "/ˈbeɪn.fəl/"
+        "us": "/ˈænɪməl bɪˈheɪvjər/"
       },
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "有害的",
-          "en": "Causing harm or destruction; very harmful."
+          "pos": "n.",
+          "zh": "动物行为",
+          "en": "The way animals act or respond to their environment."
         },
+        {
+          "pos": "n.",
+          "zh": "动物行为学",
+          "en": "The scientific study of how animals behave."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Understanding animal behaviour can help us protect endangered species.",
+          "zh": "理解动物行为可以帮助我们保护濒危物种。"
+        },
+        {
+          "en": "Researchers observe animal behaviour to learn about their social interactions.",
+          "zh": "研究人员观察动物行为以了解它们的社会互动。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of how animals behave in the wild, which helps link the word to its meaning."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=animal%20behaviour&type=2"
+    },
+    {
+      "id": "w01772",
+      "word": "punishment",
+      "type": "single",
+      "chapterIndex": 12,
+      "globalIndex": 1772,
+      "chapter": "ch089",
+      "chapterName": "核心词汇 法制与犯罪 Unit 4",
+      "pronunciation": {
+        "us": "/ˈpʌnɪʃmənt/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "惩罚",
+          "en": "A penalty given for doing something wrong."
+        },
+        {
+          "pos": "n.",
+          "zh": "刑罚",
+          "en": "A consequence imposed on someone as a result of their actions."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The teacher decided on a punishment for the misbehaving students.",
+          "zh": "老师决定对不守规矩的学生施加惩罚。"
+        },
+        {
+          "en": "Many believe that punishment should aim to correct behavior, not just to harm.",
+          "zh": "许多人认为惩罚应该旨在纠正行为，而不仅仅是造成伤害。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'punish' as a parent scolding a child, linking punishment to discipline."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=punishment&type=2"
+    },
+    {
+      "id": "w02382",
+      "word": "variation",
+      "type": "single",
+      "chapterIndex": 24,
+      "globalIndex": 2382,
+      "chapter": "ch099",
+      "chapterName": "认知词汇 动物分类 动物行为",
+      "pronunciation": {
+        "us": "/ˌvɛr.iˈeɪ.ʃən/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "变种",
+          "en": "A change or difference in condition or amount."
+        },
+        {
+          "pos": "n.",
+          "zh": "变异",
+          "en": "A different form or version of something."
+        }
+      ],
+      "examples": [
+        {
+          "en": "There is a significant variation in temperatures across the seasons.",
+          "zh": "不同季节的温度差异很大。"
+        },
+        {
+          "en": "The study showed variation in participants' responses to the same question.",
+          "zh": "研究显示参与者对同一问题的回答存在差异。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'variation' comes from the Latin 'variatio', meaning 'change' or 'difference'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=variation&type=2"
+    },
+    {
+      "id": "w02544",
+      "word": "glacier",
+      "type": "single",
+      "chapterIndex": 16,
+      "globalIndex": 2544,
+      "chapter": "ch103",
+      "chapterName": "认知词汇 自然分类 \"厄尔尼诺\"现象",
+      "pronunciation": {
+        "us": "/ˈɡleɪʃər/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "冰川",
+          "en": "A large, slow-moving mass of ice that forms from compacted snow."
+        },
+        {
+          "pos": "n.",
+          "zh": "冰川",
+          "en": "A persistent body of dense ice that covers the land and moves under its own weight."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The glacier slowly melted due to rising global temperatures.",
+          "zh": "由于全球气温上升，冰川缓慢融化。"
+        },
+        {
+          "en": "Scientists study glaciers to understand climate change better.",
+          "zh": "科学家研究冰川以更好地了解气候变化。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'glacier' as 'glassy' ice moving slowly down a mountain."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=glacier&type=2"
+    },
+    {
+      "id": "w01452",
+      "word": "fatal",
+      "type": "single",
+      "chapterIndex": 12,
+      "globalIndex": 1452,
+      "chapter": "ch073",
+      "chapterName": "核心词汇 动物权益与保护 Unit 3",
+      "pronunciation": {
+        "us": "/ˈfeɪ.təl/"
+      },
+      "meanings": [
         {
           "pos": "adj.",
           "zh": "致命的",
-          "en": "Having a negative effect that can lead to serious consequences."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The baneful effects of pollution are evident in the city's health statistics.",
-          "zh": "污染的有害影响在城市的健康统计中显而易见。"
-        },
-        {
-          "en": "His baneful influence led many young people astray.",
-          "zh": "他有害的影响使许多年轻人误入歧途。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'bane' as a source of harm, like a bad 'bane' to your health."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=baneful&type=2"
-    },
-    {
-      "id": "w00147",
-      "word": "interrupt",
-      "type": "single",
-      "chapterIndex": 7,
-      "globalIndex": 147,
-      "chapter": "ch008",
-      "chapterName": "基本词汇 动词200 Unit 8",
-      "pronunciation": {
-        "us": "/ˌɪn.təˈrʌpt/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "打断",
-          "en": "To stop someone from speaking or doing something."
-        },
-        {
-          "pos": "n.",
-          "zh": "中断",
-          "en": "An occasion when someone interrupts."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Please do not interrupt me while I am speaking.",
-          "zh": "请不要在我说话时打断我。"
-        },
-        {
-          "en": "Her sudden cough interrupted the quiet lecture.",
-          "zh": "她突如其来的咳嗽打断了安静的讲座。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of an 'interruption' as a 'disruption' in communication, like a traffic jam in a conversation."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=interrupt&type=2"
-    },
-    {
-      "id": "w00267",
-      "word": "environment",
-      "type": "single",
-      "chapterIndex": 7,
-      "globalIndex": 267,
-      "chapter": "ch014",
-      "chapterName": "基本词汇 名词200 Unit 4",
-      "pronunciation": {
-        "us": "/ɪnˈvaɪrənmənt/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "环境",
-          "en": "The natural world around us, including land, air, and water."
-        },
-        {
-          "pos": "n.",
-          "zh": "环境",
-          "en": "The conditions or influences affecting the growth and development of someone or something."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Protecting the environment is essential for future generations.",
-          "zh": "保护环境对未来几代人至关重要。"
-        },
-        {
-          "en": "Many species are endangered due to changes in their environment.",
-          "zh": "许多物种因其环境的变化而濒临灭绝。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'environment' as 'the surroundings that nurture life', like a garden."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=environment&type=2"
-    },
-    {
-      "id": "w00513",
-      "word": "disgusting",
-      "type": "single",
-      "chapterIndex": 13,
-      "globalIndex": 513,
-      "chapter": "ch026",
-      "chapterName": "基本词汇 形容词和副词400 Unit 6",
-      "pronunciation": {
-        "us": "/dɪsˈɡʌstɪŋ/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "令人厌恶的",
-          "en": "Something that makes you feel sick or very displeased."
-        },
-        {
-          "pos": "adj.",
-          "zh": "恶心的",
-          "en": "Describes something that is very unpleasant or offensive."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The smell from the garbage was absolutely disgusting and unbearable.",
-          "zh": "垃圾散发的气味让人感到非常恶心，无法忍受。"
-        },
-        {
-          "en": "She found the idea of eating insects to be quite disgusting.",
-          "zh": "她觉得吃昆虫的想法非常恶心。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'disgusting' as 'dis' (not) + 'gust' (taste), meaning something that tastes bad."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disgusting&type=2"
-    },
-    {
-      "id": "w00464",
-      "word": "catastrophic",
-      "type": "single",
-      "chapterIndex": 4,
-      "globalIndex": 464,
-      "chapter": "ch024",
-      "chapterName": "基本词汇 形容词和副词400 Unit 4",
-      "pronunciation": {
-        "us": "/ˌkætəˈstrɑːfɪk/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "灾难性的",
-          "en": "Causing a lot of damage or suffering."
+          "en": "Causing death or able to cause death."
         },
         {
           "pos": "adj.",
           "zh": "极其严重的",
-          "en": "Extremely serious or disastrous."
+          "en": "Extremely serious or important."
         }
       ],
       "examples": [
         {
-          "en": "The catastrophic flood destroyed many homes in the village.",
-          "zh": "灾难性的洪水摧毁了村庄里的许多房屋。"
+          "en": "The accident resulted in a fatal injury to the driver.",
+          "zh": "这起事故导致驾驶员致命受伤。"
         },
         {
-          "en": "Experts warned that climate change could have catastrophic effects.",
-          "zh": "专家警告气候变化可能会产生灾难性的影响。"
+          "en": "Ignoring safety rules can lead to fatal consequences.",
+          "zh": "忽视安全规则可能导致严重后果。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'cat' trapped in a 'traffic' jam, leading to a disastrous situation."
+        "association": "Think of 'fate', as in fate can be fatal."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=catastrophic&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=fatal&type=2"
     },
     {
-      "id": "w00553",
-      "word": "evil",
+      "id": "w01360",
+      "word": "refrain",
       "type": "single",
-      "chapterIndex": 13,
-      "globalIndex": 553,
-      "chapter": "ch028",
-      "chapterName": "基本词汇 形容词和副词400 Unit 8",
+      "chapterIndex": 20,
+      "globalIndex": 1360,
+      "chapter": "ch068",
+      "chapterName": "核心词汇 青少年教育 Unit 8",
       "pronunciation": {
-        "us": "/ˈiːvəl/"
+        "us": "/rɪˈfreɪn/"
       },
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "邪恶的",
-          "en": "Morally very bad or wrong."
-        },
-        {
-          "pos": "n.",
-          "zh": "邪恶",
-          "en": "The quality of being very bad or morally wrong."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The villain in the movie was portrayed as an evil character.",
-          "zh": "电影中的反派被描绘成一个邪恶的角色。"
-        },
-        {
-          "en": "Some people believe that evil exists in the world.",
-          "zh": "有些人相信世界上存在邪恶。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'evil' as 'e' for 'enemies' and 'vil' for 'villains'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=evil&type=2"
-    },
-    {
-      "id": "w00606",
-      "word": "intolerable",
-      "type": "single",
-      "chapterIndex": 6,
-      "globalIndex": 606,
-      "chapter": "ch031",
-      "chapterName": "基本词汇 形容词和副词400 Unit 11",
-      "pronunciation": {
-        "us": "/ɪnˈtɒlərəbl/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "不可忍受的",
-          "en": "Something that is very difficult to accept or endure."
-        },
-        {
-          "pos": "adj.",
-          "zh": "无法容忍的",
-          "en": "A situation that causes great discomfort or annoyance."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The heat during summer can sometimes be intolerable for many people.",
-          "zh": "夏天的热量对很多人来说有时是无法忍受的。"
-        },
-        {
-          "en": "Living in an intolerable environment affects mental health significantly.",
-          "zh": "生活在一个不可忍受的环境中会严重影响心理健康。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'tolerate' as being able to accept something. The prefix 'in-' means not, so 'intolerable' is something you cannot tolerate."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=intolerable&type=2"
-    },
-    {
-      "id": "w00273",
-      "word": "feeling",
-      "type": "single",
-      "chapterIndex": 13,
-      "globalIndex": 273,
-      "chapter": "ch014",
-      "chapterName": "基本词汇 名词200 Unit 4",
-      "pronunciation": {
-        "us": "/ˈfiːlɪŋ/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "感觉；情感",
-          "en": "A physical sensation or an emotional response."
+          "pos": "v.",
+          "zh": "克制",
+          "en": "To stop yourself from doing something."
         },
         {
           "pos": "v.",
-          "zh": "感觉；认为",
-          "en": "To perceive or experience something emotionally or physically."
+          "zh": "避免",
+          "en": "To avoid doing something that you would normally do."
         }
       ],
       "examples": [
         {
-          "en": "She had a feeling of happiness when she received the news.",
-          "zh": "当她收到消息时，她感到幸福。"
+          "en": "She decided to refrain from eating dessert to stay healthy.",
+          "zh": "她决定克制自己不吃甜点以保持健康。"
         },
         {
-          "en": "I can feel the warmth of the sun on my skin.",
-          "zh": "我能感受到阳光照在我皮肤上的温暖。"
+          "en": "It's important to refrain from interrupting others during meetings.",
+          "zh": "在会议中，重要的是避免打断他人。"
         }
       ],
       "memoryTips": {
-        "association": "Link 'feeling' with 'sense' as both relate to emotions or physical sensations."
+        "association": "Think of 'refrain' as 'refrain from doing something' like a musician refraining from playing a note."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=feeling&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=refrain&type=2"
     },
     {
-      "id": "w00486",
-      "word": "conventional",
+      "id": "w01425",
+      "word": "compassion",
       "type": "single",
-      "chapterIndex": 6,
-      "globalIndex": 486,
-      "chapter": "ch025",
-      "chapterName": "基本词汇 形容词和副词400 Unit 5",
+      "chapterIndex": 5,
+      "globalIndex": 1425,
+      "chapter": "ch072",
+      "chapterName": "核心词汇 动物权益与保护 Unit 2",
       "pronunciation": {
-        "us": "/kənˈvɛnʃənl/"
+        "us": "/kəmˈpæʃ.ən/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "同情，怜悯",
+          "en": "A feeling of deep sympathy for someone who is suffering."
+        },
+        {
+          "pos": "n.",
+          "zh": "怜悯之心",
+          "en": "The ability to understand and share the feelings of others."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She showed great compassion to the victims of the disaster.",
+          "zh": "她对灾难的受害者表现出极大的同情。"
+        },
+        {
+          "en": "His compassion for animals led him to become a veterinarian.",
+          "zh": "他对动物的怜悯促使他成为了一名兽医。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'compassion' as 'com-passion', meaning to share in someone's suffering."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compassion&type=2"
+    },
+    {
+      "id": "w02318",
+      "word": "magnetic field",
+      "type": "phrase",
+      "chapterIndex": 21,
+      "globalIndex": 2318,
+      "chapter": "ch097",
+      "chapterName": "认知词汇 动物分类 动物航行能力",
+      "pronunciation": {
+        "us": "/mæɡˈnɛtɪk fiːld/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "磁场",
+          "en": "A region around a magnet where magnetic forces can be felt."
+        },
+        {
+          "pos": "n.",
+          "zh": "电磁场",
+          "en": "An area around electric currents where magnetic effects occur."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The Earth has a magnetic field that protects us from solar radiation.",
+          "zh": "地球有一个磁场，可以保护我们免受太阳辐射。"
+        },
+        {
+          "en": "Scientists study the magnetic field to understand its effects on satellites.",
+          "zh": "科学家研究磁场，以了解其对卫星的影响。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of how magnets attract metal objects; that pull is the magnetic field."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=magnetic%20field&type=2"
+    },
+    {
+      "id": "w02297",
+      "word": "viper",
+      "type": "single",
+      "chapterIndex": 397,
+      "globalIndex": 2297,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/ˈvaɪpər/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "毒蛇",
+          "en": "A type of snake that is often poisonous."
+        },
+        {
+          "pos": "n.",
+          "zh": "阴险的人",
+          "en": "A person who is deceitful or treacherous."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The viper slithered silently through the grass, searching for prey.",
+          "zh": "毒蛇在草丛中悄悄滑行，寻找猎物。"
+        },
+        {
+          "en": "He was a viper in the business world, always betraying his friends.",
+          "zh": "他在商界是一条毒蛇，总是背叛朋友。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=viper&type=2"
+    },
+    {
+      "id": "w02370",
+      "word": "instinct",
+      "type": "single",
+      "chapterIndex": 12,
+      "globalIndex": 2370,
+      "chapter": "ch099",
+      "chapterName": "认知词汇 动物分类 动物行为",
+      "pronunciation": {
+        "us": "/ˈɪn.stɪŋkt/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "本能",
+          "en": "A natural ability to know or do something without thinking."
+        },
+        {
+          "pos": "n.",
+          "zh": "直觉",
+          "en": "A feeling or belief that guides you to act in a certain way."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Her instinct told her to avoid the dark alley at night.",
+          "zh": "她的直觉告诉她晚上要避开那条黑暗的巷子。"
+        },
+        {
+          "en": "Many animals rely on instinct for survival in the wild.",
+          "zh": "许多动物依靠本能在野外生存。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'instinct' as 'in-sync' with your feelings, guiding your actions."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=instinct&type=2"
+    },
+    {
+      "id": "w01417",
+      "word": "brutal",
+      "type": "single",
+      "chapterIndex": 17,
+      "globalIndex": 1417,
+      "chapter": "ch071",
+      "chapterName": "核心词汇 动物权益与保护 Unit 1",
+      "pronunciation": {
+        "us": "/ˈbruːtəl/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "传统的",
-          "en": "Following traditional methods or ideas, not modern."
+          "zh": "残忍的",
+          "en": "Very cruel or violent."
         },
         {
           "pos": "adj.",
-          "zh": "常规的",
-          "en": "Relating to accepted standards or norms."
+          "zh": "严酷的",
+          "en": "Severe or harsh, often in a way that is shocking."
         }
       ],
       "examples": [
         {
-          "en": "Many students prefer conventional studying methods over new techniques.",
-          "zh": "许多学生更喜欢传统的学习方法，而不是新技巧。"
+          "en": "The brutal winter cold made it difficult to go outside.",
+          "zh": "残酷的冬季寒冷使得外出变得困难。"
         },
         {
-          "en": "His conventional views often clash with modern opinions.",
-          "zh": "他的传统观点常常与现代观点冲突。"
+          "en": "The documentary revealed the brutal conditions of factory workers.",
+          "zh": "纪录片揭示了工厂工人残酷的工作条件。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=brutal&type=2"
+    },
+    {
+      "id": "w01347",
+      "word": "physical",
+      "type": "single",
+      "chapterIndex": 7,
+      "globalIndex": 1347,
+      "chapter": "ch068",
+      "chapterName": "核心词汇 青少年教育 Unit 8",
+      "pronunciation": {
+        "us": "/ˈfɪz.ɪ.kəl/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "身体的",
+          "en": "Related to the body or material things."
+        },
+        {
+          "pos": "adj.",
+          "zh": "物理的",
+          "en": "Relating to the science of matter and energy."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Regular exercise is crucial for maintaining good physical health.",
+          "zh": "定期锻炼对保持良好的身体健康至关重要。"
+        },
+        {
+          "en": "The physical laws of motion govern how objects move in space.",
+          "zh": "运动的物理定律决定了物体在空间中的运动方式。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'conventional' as 'conveniently traditional' to remember its meaning."
+        "etymology": "The word 'physical' comes from the Greek word 'physikos', meaning 'natural'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=conventional&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=physical&type=2"
+    },
+    {
+      "id": "w01387",
+      "word": "vanity",
+      "type": "single",
+      "chapterIndex": 7,
+      "globalIndex": 1387,
+      "chapter": "ch070",
+      "chapterName": "核心词汇 青少年教育 Unit 10",
+      "pronunciation": {
+        "us": "/ˈvæn.ɪ.ti/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "虚荣",
+          "en": "Excessive pride in one's appearance or achievements."
+        },
+        {
+          "pos": "n.",
+          "zh": "无意义",
+          "en": "The quality of being worthless or insignificant."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Her vanity often led her to spend too much on clothing.",
+          "zh": "她的虚荣心常常让她在衣服上花费过多。"
+        },
+        {
+          "en": "He realized that his vanity prevented him from listening to others.",
+          "zh": "他意识到自己的虚荣心让他无法倾听他人。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'vanity' as being like a 'van' that carries only looks and ego, not substance."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vanity&type=2"
+    },
+    {
+      "id": "w02276",
+      "word": "king cobra",
+      "type": "phrase",
+      "chapterIndex": 376,
+      "globalIndex": 2276,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/kɪŋ ˈkoʊ.brə/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "眼镜蛇的一种",
+          "en": "A large, venomous snake found in South and Southeast Asia."
+        },
+        {
+          "pos": "n.",
+          "zh": "最毒的蛇之一",
+          "en": "One of the most poisonous snakes in the world."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The king cobra can grow up to 18 feet in length.",
+          "zh": "眼镜王蛇可以长到18英尺长。"
+        },
+        {
+          "en": "Many people fear the king cobra due to its potent venom.",
+          "zh": "许多人因为眼镜王蛇的强毒而感到害怕。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a 'king' as the ruler of snakes, emphasizing its dominance and fearsome nature."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=king%20cobra&type=2"
     }
   ]
 }

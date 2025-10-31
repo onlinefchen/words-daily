@@ -1,70 +1,70 @@
 {
-  "generated": "2025-10-30T22:08:02.922Z",
+  "generated": "2025-10-31T22:07:58.370Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "motivation",
-      "pronunciation": "/ˌmoʊtɪˈveɪʃən/",
+      "word": "emission",
+      "pronunciation": "/ɪˈmɪʃən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "动机",
-          "en": "The reason or desire that drives someone to do something."
+          "zh": "排放",
+          "en": "The act of releasing something, especially gas or liquid, into the environment."
         },
         {
           "pos": "n.",
-          "zh": "激励",
-          "en": "A feeling that encourages someone to act or achieve something."
+          "zh": "发射",
+          "en": "The process of sending out light, heat, or sound."
         }
       ],
       "examples": [
         {
-          "en": "Her motivation to study hard comes from her desire to succeed.",
-          "zh": "她努力学习的动机来自于她成功的渴望。"
+          "en": "The city aims to reduce carbon emissions from vehicles.",
+          "zh": "这座城市旨在减少汽车的碳排放。"
         },
         {
-          "en": "Finding motivation to exercise can be challenging for many people.",
-          "zh": "对许多人来说，寻找锻炼的动机可能很有挑战性。"
+          "en": "The emission of light from the stars is essential for astronomy.",
+          "zh": "星星发出的光对天文学至关重要。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'motivation' as 'motion' towards a goal, where 'moti-' suggests movement.",
-        "mnemonic": "'Moti' sounds like 'motive', which relates to reasons and drives."
+        "etymology": "The word 'emission' comes from the Latin 'emissio', meaning 'a sending out'.",
+        "association": "Think of 'emission' as 'a mission to emit' something into the air."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=motivation&type=2",
-      "chapter": "基本词汇 名词200 Unit 6"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=emission&type=2",
+      "chapter": "认知词汇 自然分类 火山"
     },
     {
-      "word": "biased",
-      "pronunciation": "/ˈbaɪəst/",
+      "word": "encroach",
+      "pronunciation": "/ɪnˈkroʊtʃ/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "有偏见的",
-          "en": "Having an unfair preference for or against something."
+          "pos": "v.",
+          "zh": "侵入",
+          "en": "To gradually take over someone's space or rights."
         },
         {
           "pos": "v.",
-          "zh": "使有偏见",
-          "en": "To cause someone to have a particular opinion that is not based on reason."
+          "zh": "侵犯",
+          "en": "To advance beyond the usual or proper limits."
         }
       ],
       "examples": [
         {
-          "en": "The article was criticized for being biased towards one political party.",
-          "zh": "这篇文章因偏向一个政党而受到批评。"
+          "en": "The construction project began to encroach on the nearby wildlife habitat.",
+          "zh": "这个建筑项目开始侵占附近的野生动物栖息地。"
         },
         {
-          "en": "He is often biased in his judgments due to personal beliefs.",
-          "zh": "由于个人信念，他在判断上常常有偏见。"
+          "en": "As the city expanded, it began to encroach upon rural areas.",
+          "zh": "随着城市扩张，它开始侵犯乡村地区。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'bias' as a 'bias tape' that distorts the truth."
+        "association": "Think of 'encroach' as 'crouching' into someone's space, like a person slowly moving into your area."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=biased&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=encroach&type=2",
+      "chapter": "认知词汇 自然分类 海沙流失"
     }
   ]
 }
