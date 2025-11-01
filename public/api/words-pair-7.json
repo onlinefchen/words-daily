@@ -1,69 +1,69 @@
 {
-  "generated": "2025-10-31T22:07:58.370Z",
+  "generated": "2025-11-01T22:06:57.297Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "compassion",
-      "pronunciation": "/kəmˈpæʃ.ən/",
+      "word": "block",
+      "pronunciation": "/blɑk/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "同情，怜悯",
-          "en": "A feeling of deep sympathy for someone who is suffering."
+          "zh": "块；障碍",
+          "en": "A solid piece of material with flat surfaces."
         },
         {
-          "pos": "n.",
-          "zh": "怜悯之心",
-          "en": "The ability to understand and share the feelings of others."
+          "pos": "v.",
+          "zh": "阻止；封锁",
+          "en": "To prevent movement or progress."
         }
       ],
       "examples": [
         {
-          "en": "She showed great compassion to the victims of the disaster.",
-          "zh": "她对灾难的受害者表现出极大的同情。"
+          "en": "He used a block of wood to hold the door open.",
+          "zh": "他用一块木头把门撑开。"
         },
         {
-          "en": "His compassion for animals led him to become a veterinarian.",
-          "zh": "他对动物的怜悯促使他成为了一名兽医。"
+          "en": "They need to block the road for maintenance work.",
+          "zh": "他们需要封锁道路进行维修工作。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'compassion' as 'com-passion', meaning to share in someone's suffering."
+        "association": "Think of a 'block' as something that stops or holds back, like a block in a game."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compassion&type=2",
-      "chapter": "核心词汇 动物权益与保护 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=block&type=2",
+      "chapter": "基本词汇 动词200 Unit 3"
     },
     {
-      "word": "magnetic field",
-      "pronunciation": "/mæɡˈnɛtɪk fiːld/",
+      "word": "jogging",
+      "pronunciation": "/ˈdʒɑːɡɪŋ/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "磁场",
-          "en": "A region around a magnet where magnetic forces can be felt."
+          "zh": "慢跑",
+          "en": "A form of exercise where a person runs at a slow and steady pace."
         },
         {
-          "pos": "n.",
-          "zh": "电磁场",
-          "en": "An area around electric currents where magnetic effects occur."
+          "pos": "v.",
+          "zh": "慢跑（的现在分词）",
+          "en": "The action of running at a slow, steady speed for exercise."
         }
       ],
       "examples": [
         {
-          "en": "The Earth has a magnetic field that protects us from solar radiation.",
-          "zh": "地球有一个磁场，可以保护我们免受太阳辐射。"
+          "en": "I enjoy jogging in the park every morning before work.",
+          "zh": "我喜欢在上班前每天早晨在公园慢跑。"
         },
         {
-          "en": "Scientists study the magnetic field to understand its effects on satellites.",
-          "zh": "科学家研究磁场，以了解其对卫星的影响。"
+          "en": "Jogging helps to improve my fitness and clear my mind.",
+          "zh": "慢跑有助于提高我的健康和清理我的思绪。"
         }
       ],
       "memoryTips": {
-        "association": "Think of how magnets attract metal objects; that pull is the magnetic field."
+        "association": "Think of 'jogging' as 'jogging your memory' to stay fit and clear-headed."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=magnetic%20field&type=2",
-      "chapter": "认知词汇 动物分类 动物航行能力"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=jogging&type=2",
+      "chapter": "核心词汇 健康话题 Unit 4"
     }
   ]
 }

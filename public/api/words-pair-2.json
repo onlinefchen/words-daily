@@ -1,70 +1,69 @@
 {
-  "generated": "2025-10-31T22:07:58.370Z",
+  "generated": "2025-11-01T22:06:57.296Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "emission",
-      "pronunciation": "/ɪˈmɪʃən/",
+      "word": "liberation",
+      "pronunciation": "/ˌlɪbəˈreɪʃən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "排放",
-          "en": "The act of releasing something, especially gas or liquid, into the environment."
+          "zh": "解放",
+          "en": "The act of setting someone free from restrictions."
         },
         {
           "pos": "n.",
-          "zh": "发射",
-          "en": "The process of sending out light, heat, or sound."
+          "zh": "自主",
+          "en": "The state of being free and independent."
         }
       ],
       "examples": [
         {
-          "en": "The city aims to reduce carbon emissions from vehicles.",
-          "zh": "这座城市旨在减少汽车的碳排放。"
+          "en": "The liberation of the country was celebrated with great joy.",
+          "zh": "国家的解放得到了热烈的庆祝。"
         },
         {
-          "en": "The emission of light from the stars is essential for astronomy.",
-          "zh": "星星发出的光对天文学至关重要。"
+          "en": "She felt a sense of liberation after leaving her job.",
+          "zh": "她在离开工作后感到一种解放感。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'emission' comes from the Latin 'emissio', meaning 'a sending out'.",
-        "association": "Think of 'emission' as 'a mission to emit' something into the air."
+        "etymology": "The word 'liberation' comes from the Latin 'liberatio', which means 'to free'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=emission&type=2",
-      "chapter": "认知词汇 自然分类 火山"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=liberation&type=2",
+      "chapter": "核心词汇 民主与权利 Unit 3"
     },
     {
-      "word": "encroach",
-      "pronunciation": "/ɪnˈkroʊtʃ/",
+      "word": "extensive exploitation",
+      "pronunciation": "/ɪkˈsploʊɪˌteɪʃən/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "侵入",
-          "en": "To gradually take over someone's space or rights."
+          "pos": "n.",
+          "zh": "广泛的开发利用",
+          "en": "The act of using resources to a large extent."
         },
         {
-          "pos": "v.",
-          "zh": "侵犯",
-          "en": "To advance beyond the usual or proper limits."
+          "pos": "n.",
+          "zh": "剥削",
+          "en": "Taking unfair advantage of someone or something for profit."
         }
       ],
       "examples": [
         {
-          "en": "The construction project began to encroach on the nearby wildlife habitat.",
-          "zh": "这个建筑项目开始侵占附近的野生动物栖息地。"
+          "en": "The extensive exploitation of natural resources can cause environmental damage.",
+          "zh": "自然资源的广泛开发利用可能会造成环境损害。"
         },
         {
-          "en": "As the city expanded, it began to encroach upon rural areas.",
-          "zh": "随着城市扩张，它开始侵犯乡村地区。"
+          "en": "Many communities suffer from the extensive exploitation of their labor.",
+          "zh": "许多社区遭受其劳动的广泛剥削。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'encroach' as 'crouching' into someone's space, like a person slowly moving into your area."
+        "association": "Think of 'extensive' as 'large scale' and 'exploitation' as 'using something up'. Together, they mean using resources widely."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=encroach&type=2",
-      "chapter": "认知词汇 自然分类 海沙流失"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=extensive%20exploitation&type=2",
+      "chapter": "认知词汇 环境分类 欧洲森林保护"
     }
   ]
 }

@@ -1,69 +1,64 @@
 {
-  "generated": "2025-10-31T22:07:58.370Z",
+  "generated": "2025-11-01T22:06:57.296Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "animal behaviour",
-      "pronunciation": "/ˈænɪməl bɪˈheɪvjər/",
+      "word": "virtue",
+      "pronunciation": "/ˈvɜːr.tʃuː/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "动物行为",
-          "en": "The way animals act or respond to their environment."
+          "zh": "美德",
+          "en": "A quality considered morally good or desirable."
         },
         {
           "pos": "n.",
-          "zh": "动物行为学",
-          "en": "The scientific study of how animals behave."
+          "zh": "优点",
+          "en": "A good quality or feature of a person or thing."
         }
       ],
       "examples": [
         {
-          "en": "Understanding animal behaviour can help us protect endangered species.",
-          "zh": "理解动物行为可以帮助我们保护濒危物种。"
+          "en": "Honesty is a virtue that everyone should strive to possess.",
+          "zh": "诚实是一种每个人都应该努力拥有的美德。"
         },
         {
-          "en": "Researchers observe animal behaviour to learn about their social interactions.",
-          "zh": "研究人员观察动物行为以了解它们的社会互动。"
+          "en": "Patience is often seen as a virtue in challenging situations.",
+          "zh": "在困难情况下，耐心常常被视为一种美德。"
         }
       ],
       "memoryTips": {
-        "association": "Think of how animals behave in the wild, which helps link the word to its meaning."
+        "association": "Think of 'virtue' as 'veracity' (truthfulness), both promote good character."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=animal%20behaviour&type=2",
-      "chapter": "认知词汇 动物分类 动物行为"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=virtue&type=2",
+      "chapter": "核心词汇 工作与生活 Unit 5"
     },
     {
-      "word": "punishment",
-      "pronunciation": "/ˈpʌnɪʃmənt/",
+      "word": "non-native predator",
+      "pronunciation": "/ˈnɒnˈneɪtɪv ˈprɛdətər/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "惩罚",
-          "en": "A penalty given for doing something wrong."
-        },
-        {
-          "pos": "n.",
-          "zh": "刑罚",
-          "en": "A consequence imposed on someone as a result of their actions."
+          "zh": "非本地捕食者",
+          "en": "A predator that is not originally from the place where it hunts."
         }
       ],
       "examples": [
         {
-          "en": "The teacher decided on a punishment for the misbehaving students.",
-          "zh": "老师决定对不守规矩的学生施加惩罚。"
+          "en": "The non-native predator has caused a decline in local species.",
+          "zh": "这种非本地捕食者导致了当地物种的减少。"
         },
         {
-          "en": "Many believe that punishment should aim to correct behavior, not just to harm.",
-          "zh": "许多人认为惩罚应该旨在纠正行为，而不仅仅是造成伤害。"
+          "en": "Scientists study non-native predators to understand their impact on ecosystems.",
+          "zh": "科学家研究非本地捕食者以了解它们对生态系统的影响。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'punish' as a parent scolding a child, linking punishment to discipline."
+        "association": "Think of 'non-native' as someone who moved to a new country, and 'predator' as a hunter. Together, they represent a hunter from another place."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=punishment&type=2",
-      "chapter": "核心词汇 法制与犯罪 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=non-native%20predator&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

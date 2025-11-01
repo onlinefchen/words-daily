@@ -1,69 +1,67 @@
 {
-  "generated": "2025-10-31T22:07:58.370Z",
+  "generated": "2025-11-01T22:06:57.296Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "variation",
-      "pronunciation": "/ˌvɛr.iˈeɪ.ʃən/",
+      "word": "abolish",
+      "pronunciation": "/əˈbɑːlɪʃ/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "变种",
-          "en": "A change or difference in condition or amount."
+          "pos": "v.",
+          "zh": "废除",
+          "en": "To formally put an end to a system, practice, or institution."
         },
         {
-          "pos": "n.",
-          "zh": "变异",
-          "en": "A different form or version of something."
+          "pos": "v.",
+          "zh": "取消",
+          "en": "To get rid of something completely."
         }
       ],
       "examples": [
         {
-          "en": "There is a significant variation in temperatures across the seasons.",
-          "zh": "不同季节的温度差异很大。"
+          "en": "Many countries have decided to abolish death penalty laws.",
+          "zh": "许多国家决定废除死刑法。"
         },
         {
-          "en": "The study showed variation in participants' responses to the same question.",
-          "zh": "研究显示参与者对同一问题的回答存在差异。"
+          "en": "The government plans to abolish outdated regulations next year.",
+          "zh": "政府计划明年废除过时的法规。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'variation' comes from the Latin 'variatio', meaning 'change' or 'difference'."
+        "etymology": "The word 'abolish' comes from the Latin 'abolire', which means 'to destroy' or 'to put an end to'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=variation&type=2",
-      "chapter": "认知词汇 动物分类 动物行为"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=abolish&type=2",
+      "chapter": "基本词汇 动词200 Unit 1"
     },
     {
-      "word": "glacier",
-      "pronunciation": "/ˈɡleɪʃər/",
+      "word": "satisfy",
+      "pronunciation": "/ˈsæt.ɪ.faɪ/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "冰川",
-          "en": "A large, slow-moving mass of ice that forms from compacted snow."
+          "pos": "v.",
+          "zh": "满足",
+          "en": "To meet someone's needs or desires."
         },
         {
-          "pos": "n.",
-          "zh": "冰川",
-          "en": "A persistent body of dense ice that covers the land and moves under its own weight."
+          "pos": "v.",
+          "zh": "使满意",
+          "en": "To make someone feel pleased or content."
         }
       ],
       "examples": [
         {
-          "en": "The glacier slowly melted due to rising global temperatures.",
-          "zh": "由于全球气温上升，冰川缓慢融化。"
+          "en": "The teacher tried to satisfy all the students' questions.",
+          "zh": "老师尽量满足所有学生的问题。"
         },
         {
-          "en": "Scientists study glaciers to understand climate change better.",
-          "zh": "科学家研究冰川以更好地了解气候变化。"
+          "en": "She worked hard to satisfy her parents' expectations.",
+          "zh": "她努力工作以满足父母的期望。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'glacier' as 'glassy' ice moving slowly down a mountain."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=glacier&type=2",
-      "chapter": "认知词汇 自然分类 \"厄尔尼诺\"现象"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=satisfy&type=2",
+      "chapter": "基本词汇 动词200 Unit 10"
     }
   ]
 }

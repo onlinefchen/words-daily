@@ -1,64 +1,65 @@
 {
-  "generated": "2025-10-31T22:07:58.369Z",
+  "generated": "2025-11-01T22:06:57.296Z",
   "pair": 1,
   "count": 2,
   "words": [
     {
-      "word": "vertical takeoff and landing",
-      "pronunciation": "/ˈvɜrtɪkəl ˈteɪkˌɔf ənd ˈlændɪŋ/",
+      "word": "alternating layers of lava flows",
+      "pronunciation": "/ˈɔːltərneɪtɪŋ ˈleɪərz əv ˈlɑːvə floʊz/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "垂直起降",
-          "en": "A type of aircraft that can take off and land vertically."
+          "zh": "交替的熔岩流层",
+          "en": "Layers of lava that are stacked alternately in a sequence."
         }
       ],
       "examples": [
         {
-          "en": "The new drone features vertical takeoff and landing capabilities.",
-          "zh": "这款新无人机具有垂直起降的能力。"
+          "en": "The volcano erupted, creating alternating layers of lava flows.",
+          "zh": "火山爆发，形成了交替的熔岩流层。"
         },
         {
-          "en": "Vertical takeoff and landing aircraft are useful in urban areas.",
-          "zh": "垂直起降的飞机在城市地区非常有用。"
+          "en": "Scientists study alternating layers of lava flows to understand volcanic activity.",
+          "zh": "科学家研究交替的熔岩流层，以了解火山活动。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a helicopter, which can take off and land vertically."
+        "association": "Think of a layered cake where each layer represents a different lava flow.",
+        "mnemonic": "Remember 'lava flows alternate' like a pattern in music."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vertical%20takeoff%20and%20landing&type=2",
-      "chapter": "阅读真题认知词汇 电脑化的交通工具"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=alternating%20layers%20of%20lava%20flows&type=2",
+      "chapter": "认知词汇 自然分类 火山"
     },
     {
-      "word": "victim",
-      "pronunciation": "/ˈvɪk.tɪm/",
+      "word": "ruthless",
+      "pronunciation": "/ˈruːθləs/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "受害者",
-          "en": "A person who suffers harm or injury."
+          "pos": "adj.",
+          "zh": "无情的",
+          "en": "Having no pity or compassion; harsh and cruel."
         },
         {
-          "pos": "n.",
-          "zh": "牺牲品",
-          "en": "Someone who is tricked or deceived."
+          "pos": "adj.",
+          "zh": "冷酷无情的",
+          "en": "Willing to do anything to achieve a goal, regardless of others' suffering."
         }
       ],
       "examples": [
         {
-          "en": "The victim of the accident was taken to the hospital immediately.",
-          "zh": "事故的受害者被立即送往医院。"
+          "en": "The ruthless businessman fired employees without any hesitation.",
+          "zh": "这位无情的商人毫不犹豫地解雇了员工。"
         },
         {
-          "en": "Many victims of fraud lose their life savings to scammers.",
-          "zh": "许多欺诈的受害者将毕生积蓄拱手让给骗子。"
+          "en": "In a ruthless world, only the strongest survive the competition.",
+          "zh": "在一个无情的世界里，只有最强者才能在竞争中生存。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a victim as someone who is 'vicked' or harmed by others."
+        "association": "Think of 'ruthless' as 'without ruth', where 'ruth' means pity. If you lack pity, you are ruthless."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=victim&type=2",
-      "chapter": "核心词汇 民主与权利 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ruthless&type=2",
+      "chapter": "核心词汇 法制与犯罪 Unit 4"
     }
   ]
 }

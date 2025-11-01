@@ -1,69 +1,69 @@
 {
-  "generated": "2025-10-31T22:07:58.370Z",
+  "generated": "2025-11-01T22:06:57.296Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "fatal",
-      "pronunciation": "/ˈfeɪ.təl/",
+      "word": "penalty",
+      "pronunciation": "/ˈpɛnəlti/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "致命的",
-          "en": "Causing death or able to cause death."
+          "pos": "n.",
+          "zh": "惩罚",
+          "en": "A punishment for breaking a rule or law."
         },
         {
-          "pos": "adj.",
-          "zh": "极其严重的",
-          "en": "Extremely serious or important."
+          "pos": "n.",
+          "zh": "罚金",
+          "en": "A fine or fee paid as a consequence of an offense."
         }
       ],
       "examples": [
         {
-          "en": "The accident resulted in a fatal injury to the driver.",
-          "zh": "这起事故导致驾驶员致命受伤。"
+          "en": "The player received a penalty for committing a foul during the game.",
+          "zh": "该球员因在比赛中犯规而受到处罚。"
         },
         {
-          "en": "Ignoring safety rules can lead to fatal consequences.",
-          "zh": "忽视安全规则可能导致严重后果。"
+          "en": "The penalty for late submission of the assignment is a reduced grade.",
+          "zh": "迟交作业的惩罚是降低分数。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'fate', as in fate can be fatal."
+        "etymology": "The word 'penalty' comes from the Latin word 'poena,' meaning punishment."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=fatal&type=2",
-      "chapter": "核心词汇 动物权益与保护 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=penalty&type=2",
+      "chapter": "核心词汇 民主与权利 Unit 4"
     },
     {
-      "word": "refrain",
-      "pronunciation": "/rɪˈfreɪn/",
+      "word": "truly",
+      "pronunciation": "/ˈtruːli/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "克制",
-          "en": "To stop yourself from doing something."
+          "pos": "adv.",
+          "zh": "真正地",
+          "en": "In a way that is sincere or genuine."
         },
         {
-          "pos": "v.",
-          "zh": "避免",
-          "en": "To avoid doing something that you would normally do."
+          "pos": "adv.",
+          "zh": "确实地",
+          "en": "Used to emphasize the truth of a statement."
         }
       ],
       "examples": [
         {
-          "en": "She decided to refrain from eating dessert to stay healthy.",
-          "zh": "她决定克制自己不吃甜点以保持健康。"
+          "en": "She truly believes that honesty is the best policy.",
+          "zh": "她真的相信诚实是最好的原则。"
         },
         {
-          "en": "It's important to refrain from interrupting others during meetings.",
-          "zh": "在会议中，重要的是避免打断他人。"
+          "en": "I am truly grateful for all your help and support.",
+          "zh": "我真的很感激你所有的帮助和支持。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'refrain' as 'refrain from doing something' like a musician refraining from playing a note."
+        "association": "Think of 'truly' as 'true' + 'ly', where 'true' signifies sincerity."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=refrain&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 8"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=truly&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 19"
     }
   ]
 }

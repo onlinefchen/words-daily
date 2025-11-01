@@ -1,67 +1,70 @@
 {
-  "generated": "2025-10-31T22:07:58.370Z",
+  "generated": "2025-11-01T22:06:57.297Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "viper",
-      "pronunciation": "/ˈvaɪpər/",
+      "word": "expand",
+      "pronunciation": "/ɪkˈspænd/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "毒蛇",
-          "en": "A type of snake that is often poisonous."
+          "pos": "v.",
+          "zh": "扩展，增加",
+          "en": "To make something larger or more extensive."
         },
         {
-          "pos": "n.",
-          "zh": "阴险的人",
-          "en": "A person who is deceitful or treacherous."
+          "pos": "v.",
+          "zh": "详细阐述",
+          "en": "To explain or discuss something in more detail."
         }
       ],
       "examples": [
         {
-          "en": "The viper slithered silently through the grass, searching for prey.",
-          "zh": "毒蛇在草丛中悄悄滑行，寻找猎物。"
+          "en": "The company plans to expand its operations into new markets.",
+          "zh": "公司计划将业务扩展到新市场。"
         },
         {
-          "en": "He was a viper in the business world, always betraying his friends.",
-          "zh": "他在商界是一条毒蛇，总是背叛朋友。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=viper&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
-    },
-    {
-      "word": "instinct",
-      "pronunciation": "/ˈɪn.stɪŋkt/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "本能",
-          "en": "A natural ability to know or do something without thinking."
-        },
-        {
-          "pos": "n.",
-          "zh": "直觉",
-          "en": "A feeling or belief that guides you to act in a certain way."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Her instinct told her to avoid the dark alley at night.",
-          "zh": "她的直觉告诉她晚上要避开那条黑暗的巷子。"
-        },
-        {
-          "en": "Many animals rely on instinct for survival in the wild.",
-          "zh": "许多动物依靠本能在野外生存。"
+          "en": "He decided to expand on his ideas during the presentation.",
+          "zh": "他决定在演示中详细阐述他的想法。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'instinct' as 'in-sync' with your feelings, guiding your actions."
+        "etymology": "Originates from the Latin word 'expandere', meaning 'to spread out'.",
+        "association": "Think of 'expand' as 'ex' (out) + 'pand' (to spread), like a balloon inflating."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=instinct&type=2",
-      "chapter": "认知词汇 动物分类 动物行为"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=expand&type=2",
+      "chapter": "基本词汇 动词200 Unit 7"
+    },
+    {
+      "word": "strengthen",
+      "pronunciation": "/ˈstrɛŋθən/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "增强",
+          "en": "To make something stronger or more powerful."
+        },
+        {
+          "pos": "v.",
+          "zh": "巩固",
+          "en": "To improve the effectiveness or stability of something."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Regular exercise can strengthen your muscles and improve health.",
+          "zh": "定期锻炼可以增强肌肉并改善健康。"
+        },
+        {
+          "en": "The new policy aims to strengthen community relations and support.",
+          "zh": "新政策旨在巩固社区关系和支持。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'strength' in 'strengthen' as making something stronger."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=strengthen&type=2",
+      "chapter": "基本词汇 动词200 Unit 10"
     }
   ]
 }

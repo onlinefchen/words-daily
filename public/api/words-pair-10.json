@@ -1,69 +1,69 @@
 {
-  "generated": "2025-10-31T22:07:58.370Z",
+  "generated": "2025-11-01T22:06:57.297Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "vanity",
-      "pronunciation": "/ˈvæn.ɪ.ti/",
+      "word": "prominent",
+      "pronunciation": "/ˈprɒmɪnənt/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "虚荣",
-          "en": "Excessive pride in one's appearance or achievements."
+          "pos": "adj.",
+          "zh": "突出的，显著的",
+          "en": "Something that is very noticeable or important."
         },
         {
-          "pos": "n.",
-          "zh": "无意义",
-          "en": "The quality of being worthless or insignificant."
+          "pos": "adj.",
+          "zh": "杰出的，著名的",
+          "en": "A person who is well-known and respected in a specific field."
         }
       ],
       "examples": [
         {
-          "en": "Her vanity often led her to spend too much on clothing.",
-          "zh": "她的虚荣心常常让她在衣服上花费过多。"
+          "en": "She played a prominent role in the community's development.",
+          "zh": "她在社区的发展中发挥了重要作用。"
         },
         {
-          "en": "He realized that his vanity prevented him from listening to others.",
-          "zh": "他意识到自己的虚荣心让他无法倾听他人。"
+          "en": "He is a prominent scientist recognized for his groundbreaking research.",
+          "zh": "他是一位因开创性研究而受到认可的杰出科学家。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'vanity' as being like a 'van' that carries only looks and ego, not substance."
+        "association": "Think of 'prominent' as 'promote', meaning to highlight or make something stand out."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vanity&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 10"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=prominent&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 15"
     },
     {
-      "word": "king cobra",
-      "pronunciation": "/kɪŋ ˈkoʊ.brə/",
+      "word": "replacement",
+      "pronunciation": "/rɪˈpleɪsmənt/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "眼镜蛇的一种",
-          "en": "A large, venomous snake found in South and Southeast Asia."
+          "zh": "替代品",
+          "en": "Something that takes the place of another."
         },
         {
           "pos": "n.",
-          "zh": "最毒的蛇之一",
-          "en": "One of the most poisonous snakes in the world."
+          "zh": "更换",
+          "en": "The act of replacing something with another."
         }
       ],
       "examples": [
         {
-          "en": "The king cobra can grow up to 18 feet in length.",
-          "zh": "眼镜王蛇可以长到18英尺长。"
+          "en": "The replacement of the old road will improve traffic flow significantly.",
+          "zh": "新道路的替换将显著改善交通流量。"
         },
         {
-          "en": "Many people fear the king cobra due to its potent venom.",
-          "zh": "许多人因为眼镜王蛇的强毒而感到害怕。"
+          "en": "He found a suitable replacement for the broken equipment.",
+          "zh": "他找到了合适的替代品来替换损坏的设备。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'king' as the ruler of snakes, emphasizing its dominance and fearsome nature."
+        "association": "Think of 'replacement' as 're-place-ment', where you are placing something again."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=king%20cobra&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=replacement&type=2",
+      "chapter": "基本词汇 名词200 Unit 7"
     }
   ]
 }

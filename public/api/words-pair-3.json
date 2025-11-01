@@ -1,64 +1,69 @@
 {
-  "generated": "2025-10-31T22:07:58.370Z",
+  "generated": "2025-11-01T22:06:57.296Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "neurotoxic",
-      "pronunciation": "/ˌnjʊəroʊˈtɒksɪk/",
+      "word": "pollution",
+      "pronunciation": "/pəˈluːʃən/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "神经毒性的",
-          "en": "Having the ability to cause damage to the nervous system."
+          "pos": "n.",
+          "zh": "污染",
+          "en": "The presence of harmful substances in the environment."
+        },
+        {
+          "pos": "v.",
+          "zh": "使污染",
+          "en": "To make something dirty or harmful, especially air or water."
         }
       ],
       "examples": [
         {
-          "en": "Certain pesticides are known to be neurotoxic to humans.",
-          "zh": "某些农药已知对人类具有神经毒性。"
+          "en": "Air pollution can cause serious health problems for people.",
+          "zh": "空气污染会对人们造成严重的健康问题。"
         },
         {
-          "en": "Neurotoxic effects can lead to serious health problems over time.",
-          "zh": "神经毒性影响可能会导致长期严重的健康问题。"
+          "en": "Governments must take action to reduce water pollution in rivers.",
+          "zh": "政府必须采取措施减少河流中的水污染。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'neuro-' as relating to nerves and 'toxic' as poisonous, so neurotoxic means poisonous to the nerves."
+        "association": "Think of 'pollution' as 'polling' or 'making dirty', like a vote that spoils a clean environment."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=neurotoxic&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pollution&type=2",
+      "chapter": "基本词汇 名词200 Unit 6"
     },
     {
-      "word": "melon",
-      "pronunciation": "/ˈmɛlən/",
+      "word": "sandstorm",
+      "pronunciation": "/ˈsændˌstɔrm/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "甜瓜",
-          "en": "A large, sweet fruit with a smooth skin and soft flesh."
+          "zh": "沙尘暴",
+          "en": "A strong wind that carries sand through the air, often in deserts."
         },
         {
           "pos": "n.",
-          "zh": "瓜类植物",
-          "en": "Any of several types of plants that produce sweet fruits."
+          "zh": "强风沙暴",
+          "en": "A weather event characterized by a large amount of dust or sand in the air."
         }
       ],
       "examples": [
         {
-          "en": "I enjoy eating melon during the hot summer months.",
-          "zh": "我喜欢在炎热的夏天吃甜瓜。"
+          "en": "The sandstorm created poor visibility and disrupted travel plans.",
+          "zh": "沙尘暴导致能见度差，影响了旅行计划。"
         },
         {
-          "en": "Melons can be used in salads or eaten alone as snacks.",
-          "zh": "甜瓜可以用来做沙拉或单独作为小吃。"
+          "en": "In the desert, a sudden sandstorm can be very dangerous for travelers.",
+          "zh": "在沙漠中，突如其来的沙尘暴对旅行者非常危险。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'melon' as a 'mellow' fruit that brings a 'cool' feeling in summer."
+        "association": "Think of a 'storm' that brings 'sand' instead of rain."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=melon&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sandstorm&type=2",
+      "chapter": "核心词汇 环境保护 Unit 4"
     }
   ]
 }
