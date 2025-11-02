@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-01T22:06:57.296Z",
+  "generated": "2025-11-02T22:07:01.362Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "pollution",
-      "pronunciation": "/pəˈluːʃən/",
+      "word": "prodigy",
+      "pronunciation": "/ˈprɒd.ɪ.dʒi/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "污染",
-          "en": "The presence of harmful substances in the environment."
+          "zh": "神童",
+          "en": "A person, usually a child, with exceptional talent or ability."
         },
         {
-          "pos": "v.",
-          "zh": "使污染",
-          "en": "To make something dirty or harmful, especially air or water."
+          "pos": "n.",
+          "zh": "奇迹",
+          "en": "Something extraordinary that is difficult to explain."
         }
       ],
       "examples": [
         {
-          "en": "Air pollution can cause serious health problems for people.",
-          "zh": "空气污染会对人们造成严重的健康问题。"
+          "en": "The young musician is a prodigy, performing at prestigious venues.",
+          "zh": "这位年轻的音乐家是个神童，在著名场所演出。"
         },
         {
-          "en": "Governments must take action to reduce water pollution in rivers.",
-          "zh": "政府必须采取措施减少河流中的水污染。"
+          "en": "Many consider her a prodigy due to her remarkable math skills.",
+          "zh": "许多人认为她是个神童，因为她惊人的数学能力。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'pollution' as 'polling' or 'making dirty', like a vote that spoils a clean environment."
+        "etymology": "The word 'prodigy' comes from the Latin 'prodigium', meaning ' omen or portent'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pollution&type=2",
-      "chapter": "基本词汇 名词200 Unit 6"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=prodigy&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 8"
     },
     {
-      "word": "sandstorm",
-      "pronunciation": "/ˈsændˌstɔrm/",
+      "word": "torture",
+      "pronunciation": "/ˈtɔːr.tʃər/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "沙尘暴",
-          "en": "A strong wind that carries sand through the air, often in deserts."
+          "pos": "v.",
+          "zh": "折磨",
+          "en": "To cause someone severe pain or suffering."
         },
         {
           "pos": "n.",
-          "zh": "强风沙暴",
-          "en": "A weather event characterized by a large amount of dust or sand in the air."
+          "zh": "酷刑",
+          "en": "The act of inflicting severe pain as a punishment."
         }
       ],
       "examples": [
         {
-          "en": "The sandstorm created poor visibility and disrupted travel plans.",
-          "zh": "沙尘暴导致能见度差，影响了旅行计划。"
+          "en": "Many prisoners have suffered torture during wars throughout history.",
+          "zh": "许多囚犯在历史上的战争中遭受了酷刑。"
         },
         {
-          "en": "In the desert, a sudden sandstorm can be very dangerous for travelers.",
-          "zh": "在沙漠中，突如其来的沙尘暴对旅行者非常危险。"
+          "en": "The movie depicted the torture faced by innocent people in conflict zones.",
+          "zh": "这部电影描绘了无辜人在冲突地区所遭受的折磨。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'storm' that brings 'sand' instead of rain."
+        "association": "Think of 'torture' as 'torment', both involve causing pain."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sandstorm&type=2",
-      "chapter": "核心词汇 环境保护 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=torture&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 5"
     }
   ]
 }

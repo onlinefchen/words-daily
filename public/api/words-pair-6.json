@@ -1,69 +1,67 @@
 {
-  "generated": "2025-11-01T22:06:57.296Z",
+  "generated": "2025-11-02T22:07:01.362Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "penalty",
-      "pronunciation": "/ˈpɛnəlti/",
+      "word": "heritage",
+      "pronunciation": "/ˈhɛrɪtɪdʒ/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "惩罚",
-          "en": "A punishment for breaking a rule or law."
+          "zh": "遗产",
+          "en": "The history and traditions passed down from previous generations."
         },
         {
           "pos": "n.",
-          "zh": "罚金",
-          "en": "A fine or fee paid as a consequence of an offense."
+          "zh": "文化遗产",
+          "en": "The cultural aspects and values that are important to a group of people."
         }
       ],
       "examples": [
         {
-          "en": "The player received a penalty for committing a foul during the game.",
-          "zh": "该球员因在比赛中犯规而受到处罚。"
+          "en": "The city is known for its rich cultural heritage and historic landmarks.",
+          "zh": "这座城市因其丰富的文化遗产和历史地标而闻名。"
         },
         {
-          "en": "The penalty for late submission of the assignment is a reduced grade.",
-          "zh": "迟交作业的惩罚是降低分数。"
+          "en": "Many countries work to preserve their natural and historical heritage.",
+          "zh": "许多国家致力于保护其自然和历史遗产。"
         }
       ],
-      "memoryTips": {
-        "etymology": "The word 'penalty' comes from the Latin word 'poena,' meaning punishment."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=penalty&type=2",
-      "chapter": "核心词汇 民主与权利 Unit 4"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=heritage&type=2",
+      "chapter": "核心词汇 文化与传统 Unit 3"
     },
     {
-      "word": "truly",
-      "pronunciation": "/ˈtruːli/",
+      "word": "priority",
+      "pronunciation": "/praɪˈɔrɪti/",
       "meanings": [
         {
-          "pos": "adv.",
-          "zh": "真正地",
-          "en": "In a way that is sincere or genuine."
+          "pos": "n.",
+          "zh": "优先事项",
+          "en": "Something that is considered more important than other things."
         },
         {
-          "pos": "adv.",
-          "zh": "确实地",
-          "en": "Used to emphasize the truth of a statement."
+          "pos": "n.",
+          "zh": "优先权",
+          "en": "The right to be dealt with before others."
         }
       ],
       "examples": [
         {
-          "en": "She truly believes that honesty is the best policy.",
-          "zh": "她真的相信诚实是最好的原则。"
+          "en": "Education should be the top priority for every government.",
+          "zh": "教育应该是每个政府的首要任务。"
         },
         {
-          "en": "I am truly grateful for all your help and support.",
-          "zh": "我真的很感激你所有的帮助和支持。"
+          "en": "She made her health a priority after the illness.",
+          "zh": "她在生病后把健康放在了首位。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'truly' as 'true' + 'ly', where 'true' signifies sincerity."
+        "association": "Think of 'priority' as what you place 'first' in your list of tasks."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=truly&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 19"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=priority&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 5"
     }
   ]
 }

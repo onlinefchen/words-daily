@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-01T22:06:57.296Z",
+  "generated": "2025-11-02T22:07:01.362Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "liberation",
-      "pronunciation": "/ˌlɪbəˈreɪʃən/",
+      "word": "protest",
+      "pronunciation": "/ˈproʊ.tɛst/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "解放",
-          "en": "The act of setting someone free from restrictions."
+          "pos": "v.",
+          "zh": "抗议",
+          "en": "To express strong disagreement about something."
         },
         {
           "pos": "n.",
-          "zh": "自主",
-          "en": "The state of being free and independent."
+          "zh": "抗议活动",
+          "en": "An event where people show their disagreement publicly."
         }
       ],
       "examples": [
         {
-          "en": "The liberation of the country was celebrated with great joy.",
-          "zh": "国家的解放得到了热烈的庆祝。"
+          "en": "Many students decided to protest against the new school rules.",
+          "zh": "许多学生决定抗议新的校规。"
         },
         {
-          "en": "She felt a sense of liberation after leaving her job.",
-          "zh": "她在离开工作后感到一种解放感。"
+          "en": "The protest attracted thousands of people from all backgrounds.",
+          "zh": "这场抗议吸引了来自各行各业的数千人。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'liberation' comes from the Latin 'liberatio', which means 'to free'."
+        "etymology": "The word 'protest' comes from Latin 'protestari', meaning 'to testify publicly'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=liberation&type=2",
-      "chapter": "核心词汇 民主与权利 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=protest&type=2",
+      "chapter": "核心词汇 法制与犯罪 Unit 4"
     },
     {
-      "word": "extensive exploitation",
-      "pronunciation": "/ɪkˈsploʊɪˌteɪʃən/",
+      "word": "expertise",
+      "pronunciation": "/ˌɛkspərˈtiːz/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "广泛的开发利用",
-          "en": "The act of using resources to a large extent."
+          "zh": "专业知识",
+          "en": "A high level of knowledge or skill in a particular area."
         },
         {
           "pos": "n.",
-          "zh": "剥削",
-          "en": "Taking unfair advantage of someone or something for profit."
+          "zh": "专长",
+          "en": "The special skill or knowledge someone has in a certain field."
         }
       ],
       "examples": [
         {
-          "en": "The extensive exploitation of natural resources can cause environmental damage.",
-          "zh": "自然资源的广泛开发利用可能会造成环境损害。"
+          "en": "Her expertise in finance helped the company grow significantly.",
+          "zh": "她在金融方面的专业知识帮助公司显著增长。"
         },
         {
-          "en": "Many communities suffer from the extensive exploitation of their labor.",
-          "zh": "许多社区遭受其劳动的广泛剥削。"
+          "en": "We need his expertise to complete this complex project.",
+          "zh": "我们需要他的专长来完成这个复杂的项目。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'extensive' as 'large scale' and 'exploitation' as 'using something up'. Together, they mean using resources widely."
+        "etymology": "The word 'expertise' comes from the Latin 'expertus', meaning 'experienced' or 'tested'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=extensive%20exploitation&type=2",
-      "chapter": "认知词汇 环境分类 欧洲森林保护"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=expertise&type=2",
+      "chapter": "核心词汇 工作与生活 Unit 3"
     }
   ]
 }

@@ -1,50 +1,352 @@
 {
-  "generated": "2025-11-01T22:06:57.295Z",
-  "date": "2025-11-01",
+  "generated": "2025-11-02T22:07:01.361Z",
+  "date": "2025-11-02",
   "totalWords": 20,
   "words": [
     {
-      "id": "w02588",
-      "word": "alternating layers of lava flows",
-      "type": "phrase",
-      "chapterIndex": 3,
-      "globalIndex": 2588,
-      "chapter": "ch105",
-      "chapterName": "认知词汇 自然分类 火山",
+      "id": "w02940",
+      "word": "fishery",
+      "type": "single",
+      "chapterIndex": 25,
+      "globalIndex": 2940,
+      "chapter": "ch112",
+      "chapterName": "认知词汇 环境分类 人类与动物灭绝",
       "pronunciation": {
-        "us": "/ˈɔːltərneɪtɪŋ ˈleɪərz əv ˈlɑːvə floʊz/"
+        "us": "/ˈfɪʃ.ər.i/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "交替的熔岩流层",
-          "en": "Layers of lava that are stacked alternately in a sequence."
+          "zh": "渔业",
+          "en": "A place where fish are bred for commercial purposes."
+        },
+        {
+          "pos": "n.",
+          "zh": "渔场",
+          "en": "An area or industry involved in catching fish."
         }
       ],
       "examples": [
         {
-          "en": "The volcano erupted, creating alternating layers of lava flows.",
-          "zh": "火山爆发，形成了交替的熔岩流层。"
+          "en": "The fishery industry is vital for many coastal communities.",
+          "zh": "渔业对许多沿海社区至关重要。"
         },
         {
-          "en": "Scientists study alternating layers of lava flows to understand volcanic activity.",
-          "zh": "科学家研究交替的熔岩流层，以了解火山活动。"
+          "en": "Sustainable fishery practices help protect marine ecosystems.",
+          "zh": "可持续的渔业实践有助于保护海洋生态系统。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=fishery&type=2"
+    },
+    {
+      "id": "w02382",
+      "word": "variation",
+      "type": "single",
+      "chapterIndex": 24,
+      "globalIndex": 2382,
+      "chapter": "ch099",
+      "chapterName": "认知词汇 动物分类 动物行为",
+      "pronunciation": {
+        "us": "/ˌvɛr.iˈeɪ.ʃən/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "变种",
+          "en": "A change or difference in condition or amount."
+        },
+        {
+          "pos": "n.",
+          "zh": "变异",
+          "en": "A different form or version of something."
+        }
+      ],
+      "examples": [
+        {
+          "en": "There is a significant variation in temperatures across the seasons.",
+          "zh": "不同季节的温度差异很大。"
+        },
+        {
+          "en": "The study showed variation in participants' responses to the same question.",
+          "zh": "研究显示参与者对同一问题的回答存在差异。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a layered cake where each layer represents a different lava flow.",
-        "mnemonic": "Remember 'lava flows alternate' like a pattern in music."
+        "etymology": "The word 'variation' comes from the Latin 'variatio', meaning 'change' or 'difference'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=alternating%20layers%20of%20lava%20flows&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=variation&type=2"
     },
     {
-      "id": "w01780",
-      "word": "ruthless",
+      "id": "w01771",
+      "word": "protest",
       "type": "single",
-      "chapterIndex": 20,
-      "globalIndex": 1780,
+      "chapterIndex": 11,
+      "globalIndex": 1771,
       "chapter": "ch089",
       "chapterName": "核心词汇 法制与犯罪 Unit 4",
+      "pronunciation": {
+        "us": "/ˈproʊ.tɛst/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "抗议",
+          "en": "To express strong disagreement about something."
+        },
+        {
+          "pos": "n.",
+          "zh": "抗议活动",
+          "en": "An event where people show their disagreement publicly."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many students decided to protest against the new school rules.",
+          "zh": "许多学生决定抗议新的校规。"
+        },
+        {
+          "en": "The protest attracted thousands of people from all backgrounds.",
+          "zh": "这场抗议吸引了来自各行各业的数千人。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'protest' comes from Latin 'protestari', meaning 'to testify publicly'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=protest&type=2"
+    },
+    {
+      "id": "w01641",
+      "word": "expertise",
+      "type": "single",
+      "chapterIndex": 1,
+      "globalIndex": 1641,
+      "chapter": "ch083",
+      "chapterName": "核心词汇 工作与生活 Unit 3",
+      "pronunciation": {
+        "us": "/ˌɛkspərˈtiːz/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "专业知识",
+          "en": "A high level of knowledge or skill in a particular area."
+        },
+        {
+          "pos": "n.",
+          "zh": "专长",
+          "en": "The special skill or knowledge someone has in a certain field."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Her expertise in finance helped the company grow significantly.",
+          "zh": "她在金融方面的专业知识帮助公司显著增长。"
+        },
+        {
+          "en": "We need his expertise to complete this complex project.",
+          "zh": "我们需要他的专长来完成这个复杂的项目。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'expertise' comes from the Latin 'expertus', meaning 'experienced' or 'tested'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=expertise&type=2"
+    },
+    {
+      "id": "w01352",
+      "word": "prodigy",
+      "type": "single",
+      "chapterIndex": 12,
+      "globalIndex": 1352,
+      "chapter": "ch068",
+      "chapterName": "核心词汇 青少年教育 Unit 8",
+      "pronunciation": {
+        "us": "/ˈprɒd.ɪ.dʒi/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "神童",
+          "en": "A person, usually a child, with exceptional talent or ability."
+        },
+        {
+          "pos": "n.",
+          "zh": "奇迹",
+          "en": "Something extraordinary that is difficult to explain."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The young musician is a prodigy, performing at prestigious venues.",
+          "zh": "这位年轻的音乐家是个神童，在著名场所演出。"
+        },
+        {
+          "en": "Many consider her a prodigy due to her remarkable math skills.",
+          "zh": "许多人认为她是个神童，因为她惊人的数学能力。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'prodigy' comes from the Latin 'prodigium', meaning ' omen or portent'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=prodigy&type=2"
+    },
+    {
+      "id": "w01493",
+      "word": "torture",
+      "type": "single",
+      "chapterIndex": 13,
+      "globalIndex": 1493,
+      "chapter": "ch075",
+      "chapterName": "核心词汇 动物权益与保护 Unit 5",
+      "pronunciation": {
+        "us": "/ˈtɔːr.tʃər/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "折磨",
+          "en": "To cause someone severe pain or suffering."
+        },
+        {
+          "pos": "n.",
+          "zh": "酷刑",
+          "en": "The act of inflicting severe pain as a punishment."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many prisoners have suffered torture during wars throughout history.",
+          "zh": "许多囚犯在历史上的战争中遭受了酷刑。"
+        },
+        {
+          "en": "The movie depicted the torture faced by innocent people in conflict zones.",
+          "zh": "这部电影描绘了无辜人在冲突地区所遭受的折磨。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'torture' as 'torment', both involve causing pain."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=torture&type=2"
+    },
+    {
+      "id": "w00344",
+      "word": "sense",
+      "type": "single",
+      "chapterIndex": 4,
+      "globalIndex": 344,
+      "chapter": "ch018",
+      "chapterName": "基本词汇 名词200 Unit 8",
+      "pronunciation": {
+        "us": "/sɛns/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "感觉；意识",
+          "en": "A way of perceiving something through the body, like touch or taste."
+        },
+        {
+          "pos": "v.",
+          "zh": "感知；理解",
+          "en": "To become aware of something through the senses."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She has a strong sense of direction and never gets lost.",
+          "zh": "她有很强的方向感，从不迷路。"
+        },
+        {
+          "en": "It makes sense to save money for emergencies.",
+          "zh": "为紧急情况存钱是明智的。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'sense' as the way we connect with the world through our senses like sight, sound, and touch."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sense&type=2"
+    },
+    {
+      "id": "w00085",
+      "word": "defy",
+      "type": "single",
+      "chapterIndex": 5,
+      "globalIndex": 85,
+      "chapter": "ch005",
+      "chapterName": "基本词汇 动词200 Unit 5",
+      "pronunciation": {
+        "us": "/dɪˈfaɪ/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "反抗，违抗",
+          "en": "To refuse to obey someone or something."
+        },
+        {
+          "pos": "v.",
+          "zh": "挑战",
+          "en": "To challenge someone to do something; to confront."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She decided to defy the rules and speak her mind.",
+          "zh": "她决定违抗规则，直言不讳。"
+        },
+        {
+          "en": "The athlete chose to defy expectations and win the race.",
+          "zh": "这位运动员选择挑战预期并赢得了比赛。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'defy' as 'defending your right' to do something against opposition."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=defy&type=2"
+    },
+    {
+      "id": "w01355",
+      "word": "promote",
+      "type": "single",
+      "chapterIndex": 15,
+      "globalIndex": 1355,
+      "chapter": "ch068",
+      "chapterName": "核心词汇 青少年教育 Unit 8",
+      "pronunciation": {
+        "us": "/prəˈmoʊt/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "促进",
+          "en": "To help something grow or develop."
+        },
+        {
+          "pos": "v.",
+          "zh": "推销",
+          "en": "To advertise or sell a product or service."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The organization aims to promote healthy eating habits among children.",
+          "zh": "该组织旨在促进儿童健康饮食习惯。"
+        },
+        {
+          "en": "The company will promote the new product through social media campaigns.",
+          "zh": "该公司将通过社交媒体活动推广新产品。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=promote&type=2"
+    },
+    {
+      "id": "w00714",
+      "word": "ruthless",
+      "type": "single",
+      "chapterIndex": 14,
+      "globalIndex": 714,
+      "chapter": "ch036",
+      "chapterName": "基本词汇 形容词和副词400 Unit 16",
       "pronunciation": {
         "us": "/ˈruːθləs/"
       },
@@ -52,260 +354,186 @@
         {
           "pos": "adj.",
           "zh": "无情的",
-          "en": "Having no pity or compassion; harsh and cruel."
+          "en": "Having no compassion or pity; cruel."
         },
         {
           "pos": "adj.",
-          "zh": "冷酷无情的",
-          "en": "Willing to do anything to achieve a goal, regardless of others' suffering."
+          "zh": "不择手段的",
+          "en": "Determined to succeed at all costs, regardless of how it affects others."
         }
       ],
       "examples": [
         {
-          "en": "The ruthless businessman fired employees without any hesitation.",
-          "zh": "这位无情的商人毫不犹豫地解雇了员工。"
+          "en": "The ruthless businessman drove his competitors out of the market.",
+          "zh": "这个无情的商人把竞争对手赶出了市场。"
         },
         {
-          "en": "In a ruthless world, only the strongest survive the competition.",
-          "zh": "在一个无情的世界里，只有最强者才能在竞争中生存。"
+          "en": "Her ruthless ambition led her to betray her closest friends.",
+          "zh": "她无情的野心使她背叛了最亲密的朋友。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'ruthless' as 'without ruth', where 'ruth' means pity. If you lack pity, you are ruthless."
+        "association": "Think of 'ruth' as a feeling of pity; without 'ruth,' one is ruthless."
       },
       "audioUrl": "https://dict.youdao.com/dictvoice?audio=ruthless&type=2"
     },
     {
-      "id": "w01558",
-      "word": "liberation",
+      "id": "w01051",
+      "word": "heritage",
       "type": "single",
-      "chapterIndex": 18,
-      "globalIndex": 1558,
-      "chapter": "ch078",
-      "chapterName": "核心词汇 民主与权利 Unit 3",
+      "chapterIndex": 11,
+      "globalIndex": 1051,
+      "chapter": "ch053",
+      "chapterName": "核心词汇 文化与传统 Unit 3",
       "pronunciation": {
-        "us": "/ˌlɪbəˈreɪʃən/"
+        "us": "/ˈhɛrɪtɪdʒ/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "解放",
-          "en": "The act of setting someone free from restrictions."
+          "zh": "遗产",
+          "en": "The history and traditions passed down from previous generations."
         },
         {
           "pos": "n.",
-          "zh": "自主",
-          "en": "The state of being free and independent."
+          "zh": "文化遗产",
+          "en": "The cultural aspects and values that are important to a group of people."
         }
       ],
       "examples": [
         {
-          "en": "The liberation of the country was celebrated with great joy.",
-          "zh": "国家的解放得到了热烈的庆祝。"
+          "en": "The city is known for its rich cultural heritage and historic landmarks.",
+          "zh": "这座城市因其丰富的文化遗产和历史地标而闻名。"
         },
         {
-          "en": "She felt a sense of liberation after leaving her job.",
-          "zh": "她在离开工作后感到一种解放感。"
+          "en": "Many countries work to preserve their natural and historical heritage.",
+          "zh": "许多国家致力于保护其自然和历史遗产。"
         }
       ],
-      "memoryTips": {
-        "etymology": "The word 'liberation' comes from the Latin 'liberatio', which means 'to free'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=liberation&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=heritage&type=2"
     },
     {
-      "id": "w02989",
-      "word": "extensive exploitation",
-      "type": "phrase",
-      "chapterIndex": 17,
-      "globalIndex": 2989,
-      "chapter": "ch113",
-      "chapterName": "认知词汇 环境分类 欧洲森林保护",
-      "pronunciation": {
-        "us": "/ɪkˈsploʊɪˌteɪʃən/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "广泛的开发利用",
-          "en": "The act of using resources to a large extent."
-        },
-        {
-          "pos": "n.",
-          "zh": "剥削",
-          "en": "Taking unfair advantage of someone or something for profit."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The extensive exploitation of natural resources can cause environmental damage.",
-          "zh": "自然资源的广泛开发利用可能会造成环境损害。"
-        },
-        {
-          "en": "Many communities suffer from the extensive exploitation of their labor.",
-          "zh": "许多社区遭受其劳动的广泛剥削。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'extensive' as 'large scale' and 'exploitation' as 'using something up'. Together, they mean using resources widely."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=extensive%20exploitation&type=2"
-    },
-    {
-      "id": "w00318",
-      "word": "pollution",
+      "id": "w01484",
+      "word": "priority",
       "type": "single",
-      "chapterIndex": 18,
-      "globalIndex": 318,
-      "chapter": "ch016",
-      "chapterName": "基本词汇 名词200 Unit 6",
+      "chapterIndex": 4,
+      "globalIndex": 1484,
+      "chapter": "ch075",
+      "chapterName": "核心词汇 动物权益与保护 Unit 5",
       "pronunciation": {
-        "us": "/pəˈluːʃən/"
+        "us": "/praɪˈɔrɪti/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "污染",
-          "en": "The presence of harmful substances in the environment."
+          "zh": "优先事项",
+          "en": "Something that is considered more important than other things."
         },
         {
-          "pos": "v.",
-          "zh": "使污染",
-          "en": "To make something dirty or harmful, especially air or water."
+          "pos": "n.",
+          "zh": "优先权",
+          "en": "The right to be dealt with before others."
         }
       ],
       "examples": [
         {
-          "en": "Air pollution can cause serious health problems for people.",
-          "zh": "空气污染会对人们造成严重的健康问题。"
+          "en": "Education should be the top priority for every government.",
+          "zh": "教育应该是每个政府的首要任务。"
         },
         {
-          "en": "Governments must take action to reduce water pollution in rivers.",
-          "zh": "政府必须采取措施减少河流中的水污染。"
+          "en": "She made her health a priority after the illness.",
+          "zh": "她在生病后把健康放在了首位。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'pollution' as 'polling' or 'making dirty', like a vote that spoils a clean environment."
+        "association": "Think of 'priority' as what you place 'first' in your list of tasks."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pollution&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=priority&type=2"
     },
     {
-      "id": "w00979",
-      "word": "sandstorm",
+      "id": "w00684",
+      "word": "pregnant",
       "type": "single",
-      "chapterIndex": 19,
-      "globalIndex": 979,
-      "chapter": "ch049",
-      "chapterName": "核心词汇 环境保护 Unit 4",
+      "chapterIndex": 4,
+      "globalIndex": 684,
+      "chapter": "ch035",
+      "chapterName": "基本词汇 形容词和副词400 Unit 15",
       "pronunciation": {
-        "us": "/ˈsændˌstɔrm/"
+        "us": "/ˈprɛɡnənt/"
       },
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "沙尘暴",
-          "en": "A strong wind that carries sand through the air, often in deserts."
+          "pos": "adj.",
+          "zh": "怀孕的",
+          "en": "Having a baby developing inside the body."
         },
         {
-          "pos": "n.",
-          "zh": "强风沙暴",
-          "en": "A weather event characterized by a large amount of dust or sand in the air."
+          "pos": "adj.",
+          "zh": "充满的",
+          "en": "Full of something or rich in meaning."
         }
       ],
       "examples": [
         {
-          "en": "The sandstorm created poor visibility and disrupted travel plans.",
-          "zh": "沙尘暴导致能见度差，影响了旅行计划。"
+          "en": "She is pregnant and expecting her first child in June.",
+          "zh": "她怀孕了，预计在六月生下她的第一个孩子。"
         },
         {
-          "en": "In the desert, a sudden sandstorm can be very dangerous for travelers.",
-          "zh": "在沙漠中，突如其来的沙尘暴对旅行者非常危险。"
+          "en": "The artist's pregnant ideas challenged traditional views on art.",
+          "zh": "这位艺术家的丰富创意挑战了传统艺术观。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'storm' that brings 'sand' instead of rain."
+        "association": "Think of 'pregnant' as 'pre-gnant', where 'pre' suggests before a baby arrives."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sandstorm&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pregnant&type=2"
     },
     {
-      "id": "w01696",
-      "word": "virtue",
+      "id": "w00852",
+      "word": "longevity",
       "type": "single",
-      "chapterIndex": 16,
-      "globalIndex": 1696,
-      "chapter": "ch085",
-      "chapterName": "核心词汇 工作与生活 Unit 5",
+      "chapterIndex": 12,
+      "globalIndex": 852,
+      "chapter": "ch043",
+      "chapterName": "核心词汇 科技发展 Unit 3",
       "pronunciation": {
-        "us": "/ˈvɜːr.tʃuː/"
+        "us": "/lɒnˈdʒɛvəti/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "美德",
-          "en": "A quality considered morally good or desirable."
+          "zh": "长寿",
+          "en": "The length of time that a person lives."
         },
         {
           "pos": "n.",
-          "zh": "优点",
-          "en": "A good quality or feature of a person or thing."
+          "zh": "持久性",
+          "en": "The duration of something's existence or effectiveness."
         }
       ],
       "examples": [
         {
-          "en": "Honesty is a virtue that everyone should strive to possess.",
-          "zh": "诚实是一种每个人都应该努力拥有的美德。"
+          "en": "Many people are seeking ways to improve their longevity.",
+          "zh": "许多人在寻找提高他们寿命的方法。"
         },
         {
-          "en": "Patience is often seen as a virtue in challenging situations.",
-          "zh": "在困难情况下，耐心常常被视为一种美德。"
+          "en": "The longevity of certain species can be quite remarkable.",
+          "zh": "某些物种的持久性可以非常显著。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'virtue' as 'veracity' (truthfulness), both promote good character."
+        "association": "Think of 'long' in longevity to remember it relates to a long life."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=virtue&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=longevity&type=2"
     },
     {
-      "id": "w02006",
-      "word": "non-native predator",
-      "type": "phrase",
-      "chapterIndex": 106,
-      "globalIndex": 2006,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/ˈnɒnˈneɪtɪv ˈprɛdətər/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "非本地捕食者",
-          "en": "A predator that is not originally from the place where it hunts."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The non-native predator has caused a decline in local species.",
-          "zh": "这种非本地捕食者导致了当地物种的减少。"
-        },
-        {
-          "en": "Scientists study non-native predators to understand their impact on ecosystems.",
-          "zh": "科学家研究非本地捕食者以了解它们对生态系统的影响。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'non-native' as someone who moved to a new country, and 'predator' as a hunter. Together, they represent a hunter from another place."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=non-native%20predator&type=2"
-    },
-    {
-      "id": "w00003",
+      "id": "w01501",
       "word": "abolish",
       "type": "single",
-      "chapterIndex": 3,
-      "globalIndex": 3,
-      "chapter": "ch001",
-      "chapterName": "基本词汇 动词200 Unit 1",
+      "chapterIndex": 1,
+      "globalIndex": 1501,
+      "chapter": "ch076",
+      "chapterName": "核心词汇 民主与权利 Unit 1",
       "pronunciation": {
         "us": "/əˈbɑːlɪʃ/"
       },
@@ -318,436 +546,214 @@
         {
           "pos": "v.",
           "zh": "取消",
-          "en": "To get rid of something completely."
+          "en": "To do away with something completely."
         }
       ],
       "examples": [
         {
-          "en": "Many countries have decided to abolish death penalty laws.",
-          "zh": "许多国家决定废除死刑法。"
+          "en": "Many countries have chosen to abolish the death penalty.",
+          "zh": "许多国家选择废除死刑。"
         },
         {
-          "en": "The government plans to abolish outdated regulations next year.",
-          "zh": "政府计划明年废除过时的法规。"
+          "en": "The government decided to abolish outdated laws for modernization.",
+          "zh": "政府决定废除过时的法律以实现现代化。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'abolish' comes from the Latin 'abolire', which means 'to destroy' or 'to put an end to'."
+        "etymology": "The word 'abolish' comes from the Latin 'abolire', meaning 'to put an end to'."
       },
       "audioUrl": "https://dict.youdao.com/dictvoice?audio=abolish&type=2"
     },
     {
-      "id": "w00190",
-      "word": "satisfy",
+      "id": "w01368",
+      "word": "sequacious",
       "type": "single",
-      "chapterIndex": 10,
-      "globalIndex": 190,
-      "chapter": "ch010",
-      "chapterName": "基本词汇 动词200 Unit 10",
+      "chapterIndex": 8,
+      "globalIndex": 1368,
+      "chapter": "ch069",
+      "chapterName": "核心词汇 青少年教育 Unit 9",
       "pronunciation": {
-        "us": "/ˈsæt.ɪ.faɪ/"
+        "us": "/sɪˈkweɪ.ʃəs/"
       },
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "满足",
-          "en": "To meet someone's needs or desires."
+          "pos": "adj.",
+          "zh": "顺从的，缺乏独立性的",
+          "en": "Easily influenced or lacking independence in thought."
         },
         {
-          "pos": "v.",
-          "zh": "使满意",
-          "en": "To make someone feel pleased or content."
+          "pos": "adj.",
+          "zh": "盲从的",
+          "en": "Following others without critical thinking or originality."
         }
       ],
       "examples": [
         {
-          "en": "The teacher tried to satisfy all the students' questions.",
-          "zh": "老师尽量满足所有学生的问题。"
+          "en": "Many followers are sequacious, lacking their own opinions.",
+          "zh": "许多追随者盲从，缺乏自己的看法。"
         },
         {
-          "en": "She worked hard to satisfy her parents' expectations.",
-          "zh": "她努力工作以满足父母的期望。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=satisfy&type=2"
-    },
-    {
-      "id": "w01572",
-      "word": "penalty",
-      "type": "single",
-      "chapterIndex": 12,
-      "globalIndex": 1572,
-      "chapter": "ch079",
-      "chapterName": "核心词汇 民主与权利 Unit 4",
-      "pronunciation": {
-        "us": "/ˈpɛnəlti/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "惩罚",
-          "en": "A punishment for breaking a rule or law."
-        },
-        {
-          "pos": "n.",
-          "zh": "罚金",
-          "en": "A fine or fee paid as a consequence of an offense."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The player received a penalty for committing a foul during the game.",
-          "zh": "该球员因在比赛中犯规而受到处罚。"
-        },
-        {
-          "en": "The penalty for late submission of the assignment is a reduced grade.",
-          "zh": "迟交作业的惩罚是降低分数。"
+          "en": "His sequacious nature made it hard for him to lead others.",
+          "zh": "他顺从的性格使他很难领导他人。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'penalty' comes from the Latin word 'poena,' meaning punishment."
+        "association": "Think of 'sequel' and 'cautious'. A sequacious person follows the sequel cautiously, without thinking for themselves."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=penalty&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sequacious&type=2"
     },
     {
-      "id": "w00767",
-      "word": "truly",
-      "type": "single",
-      "chapterIndex": 7,
-      "globalIndex": 767,
-      "chapter": "ch039",
-      "chapterName": "基本词汇 形容词和副词400 Unit 19",
-      "pronunciation": {
-        "us": "/ˈtruːli/"
-      },
-      "meanings": [
-        {
-          "pos": "adv.",
-          "zh": "真正地",
-          "en": "In a way that is sincere or genuine."
-        },
-        {
-          "pos": "adv.",
-          "zh": "确实地",
-          "en": "Used to emphasize the truth of a statement."
-        }
-      ],
-      "examples": [
-        {
-          "en": "She truly believes that honesty is the best policy.",
-          "zh": "她真的相信诚实是最好的原则。"
-        },
-        {
-          "en": "I am truly grateful for all your help and support.",
-          "zh": "我真的很感激你所有的帮助和支持。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'truly' as 'true' + 'ly', where 'true' signifies sincerity."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=truly&type=2"
-    },
-    {
-      "id": "w00043",
-      "word": "block",
-      "type": "single",
-      "chapterIndex": 3,
-      "globalIndex": 43,
-      "chapter": "ch003",
-      "chapterName": "基本词汇 动词200 Unit 3",
-      "pronunciation": {
-        "us": "/blɑk/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "块；障碍",
-          "en": "A solid piece of material with flat surfaces."
-        },
-        {
-          "pos": "v.",
-          "zh": "阻止；封锁",
-          "en": "To prevent movement or progress."
-        }
-      ],
-      "examples": [
-        {
-          "en": "He used a block of wood to hold the door open.",
-          "zh": "他用一块木头把门撑开。"
-        },
-        {
-          "en": "They need to block the road for maintenance work.",
-          "zh": "他们需要封锁道路进行维修工作。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of a 'block' as something that stops or holds back, like a block in a game."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=block&type=2"
-    },
-    {
-      "id": "w01861",
-      "word": "jogging",
-      "type": "single",
-      "chapterIndex": 1,
-      "globalIndex": 1861,
-      "chapter": "ch094",
-      "chapterName": "核心词汇 健康话题 Unit 4",
-      "pronunciation": {
-        "us": "/ˈdʒɑːɡɪŋ/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "慢跑",
-          "en": "A form of exercise where a person runs at a slow and steady pace."
-        },
-        {
-          "pos": "v.",
-          "zh": "慢跑（的现在分词）",
-          "en": "The action of running at a slow, steady speed for exercise."
-        }
-      ],
-      "examples": [
-        {
-          "en": "I enjoy jogging in the park every morning before work.",
-          "zh": "我喜欢在上班前每天早晨在公园慢跑。"
-        },
-        {
-          "en": "Jogging helps to improve my fitness and clear my mind.",
-          "zh": "慢跑有助于提高我的健康和清理我的思绪。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'jogging' as 'jogging your memory' to stay fit and clear-headed."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=jogging&type=2"
-    },
-    {
-      "id": "w00125",
-      "word": "expand",
-      "type": "single",
-      "chapterIndex": 5,
-      "globalIndex": 125,
-      "chapter": "ch007",
-      "chapterName": "基本词汇 动词200 Unit 7",
-      "pronunciation": {
-        "us": "/ɪkˈspænd/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "扩展，增加",
-          "en": "To make something larger or more extensive."
-        },
-        {
-          "pos": "v.",
-          "zh": "详细阐述",
-          "en": "To explain or discuss something in more detail."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The company plans to expand its operations into new markets.",
-          "zh": "公司计划将业务扩展到新市场。"
-        },
-        {
-          "en": "He decided to expand on his ideas during the presentation.",
-          "zh": "他决定在演示中详细阐述他的想法。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "Originates from the Latin word 'expandere', meaning 'to spread out'.",
-        "association": "Think of 'expand' as 'ex' (out) + 'pand' (to spread), like a balloon inflating."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=expand&type=2"
-    },
-    {
-      "id": "w00194",
-      "word": "strengthen",
-      "type": "single",
-      "chapterIndex": 14,
-      "globalIndex": 194,
-      "chapter": "ch010",
-      "chapterName": "基本词汇 动词200 Unit 10",
-      "pronunciation": {
-        "us": "/ˈstrɛŋθən/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "增强",
-          "en": "To make something stronger or more powerful."
-        },
-        {
-          "pos": "v.",
-          "zh": "巩固",
-          "en": "To improve the effectiveness or stability of something."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Regular exercise can strengthen your muscles and improve health.",
-          "zh": "定期锻炼可以增强肌肉并改善健康。"
-        },
-        {
-          "en": "The new policy aims to strengthen community relations and support.",
-          "zh": "新政策旨在巩固社区关系和支持。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'strength' in 'strengthen' as making something stronger."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=strengthen&type=2"
-    },
-    {
-      "id": "w01723",
-      "word": "differentiate",
-      "type": "single",
-      "chapterIndex": 3,
-      "globalIndex": 1723,
-      "chapter": "ch087",
-      "chapterName": "核心词汇 法制与犯罪 Unit 2",
-      "pronunciation": {
-        "us": "/ˌdɪf.əˈrɛn.ʧ.eɪt/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "区分",
-          "en": "To recognize or ascertain what makes something different."
-        },
-        {
-          "pos": "v.",
-          "zh": "区分对待",
-          "en": "To treat differently based on certain characteristics."
-        }
-      ],
-      "examples": [
-        {
-          "en": "It's important to differentiate between facts and opinions in an argument.",
-          "zh": "在争论中区分事实和观点是很重要的。"
-        },
-        {
-          "en": "Teachers need to differentiate their instruction to meet diverse student needs.",
-          "zh": "教师需要区分教学方法以满足不同学生的需求。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=differentiate&type=2"
-    },
-    {
-      "id": "w01721",
-      "word": "depravation",
-      "type": "single",
-      "chapterIndex": 1,
-      "globalIndex": 1721,
-      "chapter": "ch087",
-      "chapterName": "核心词汇 法制与犯罪 Unit 2",
-      "pronunciation": {
-        "us": "/ˌdɛprəˈveɪʃən/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "剥夺，缺乏",
-          "en": "The state of being deprived of something essential."
-        },
-        {
-          "pos": "n.",
-          "zh": "道德败坏，堕落",
-          "en": "A condition of moral corruption or wickedness."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The depravation of basic needs can lead to severe health issues.",
-          "zh": "基本需求的剥夺可能导致严重的健康问题。"
-        },
-        {
-          "en": "His actions were a clear sign of moral depravation in society.",
-          "zh": "他的行为清楚地显示了社会的道德败坏。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'depravation' comes from the Latin 'depravare', meaning to corrupt or distort."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=depravation&type=2"
-    },
-    {
-      "id": "w00693",
-      "word": "prominent",
+      "id": "w01473",
+      "word": "medical",
       "type": "single",
       "chapterIndex": 13,
-      "globalIndex": 693,
-      "chapter": "ch035",
-      "chapterName": "基本词汇 形容词和副词400 Unit 15",
+      "globalIndex": 1473,
+      "chapter": "ch074",
+      "chapterName": "核心词汇 动物权益与保护 Unit 4",
       "pronunciation": {
-        "us": "/ˈprɒmɪnənt/"
+        "us": "/ˈmɛdɪkəl/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "突出的，显著的",
-          "en": "Something that is very noticeable or important."
+          "zh": "医学的",
+          "en": "Related to the practice of medicine or health."
         },
         {
-          "pos": "adj.",
-          "zh": "杰出的，著名的",
-          "en": "A person who is well-known and respected in a specific field."
+          "pos": "n.",
+          "zh": "医疗",
+          "en": "The field that involves the treatment of diseases and injuries."
         }
       ],
       "examples": [
         {
-          "en": "She played a prominent role in the community's development.",
-          "zh": "她在社区的发展中发挥了重要作用。"
+          "en": "She decided to pursue a medical career to help others.",
+          "zh": "她决定追求医学事业，帮助他人。"
         },
         {
-          "en": "He is a prominent scientist recognized for his groundbreaking research.",
-          "zh": "他是一位因开创性研究而受到认可的杰出科学家。"
+          "en": "The hospital provides various medical services and treatments.",
+          "zh": "医院提供各种医疗服务和治疗。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'prominent' as 'promote', meaning to highlight or make something stand out."
+        "etymology": "The word 'medical' comes from the Latin 'medicus', meaning 'physician'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=prominent&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=medical&type=2"
     },
     {
-      "id": "w00334",
-      "word": "replacement",
+      "id": "w00961",
+      "word": "landfill",
       "type": "single",
-      "chapterIndex": 14,
-      "globalIndex": 334,
-      "chapter": "ch017",
-      "chapterName": "基本词汇 名词200 Unit 7",
+      "chapterIndex": 1,
+      "globalIndex": 961,
+      "chapter": "ch049",
+      "chapterName": "核心词汇 环境保护 Unit 4",
       "pronunciation": {
-        "us": "/rɪˈpleɪsmənt/"
+        "us": "/ˈlændfɪl/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "替代品",
-          "en": "Something that takes the place of another."
+          "zh": "垃圾填埋场",
+          "en": "A site where waste materials are buried."
         },
         {
-          "pos": "n.",
-          "zh": "更换",
-          "en": "The act of replacing something with another."
+          "pos": "v.",
+          "zh": "填埋垃圾",
+          "en": "To dispose of waste by burying it in the ground."
         }
       ],
       "examples": [
         {
-          "en": "The replacement of the old road will improve traffic flow significantly.",
-          "zh": "新道路的替换将显著改善交通流量。"
+          "en": "The city is planning to close the old landfill soon.",
+          "zh": "这座城市计划很快关闭旧的垃圾填埋场。"
         },
         {
-          "en": "He found a suitable replacement for the broken equipment.",
-          "zh": "他找到了合适的替代品来替换损坏的设备。"
+          "en": "Landfilling is one of the most common waste disposal methods.",
+          "zh": "填埋是最常见的垃圾处理方法之一。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'replacement' as 're-place-ment', where you are placing something again."
+        "association": "Think of 'land' as the ground and 'fill' as filling it with waste."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=replacement&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=landfill&type=2"
+    },
+    {
+      "id": "w01004",
+      "word": "ancestor",
+      "type": "single",
+      "chapterIndex": 4,
+      "globalIndex": 1004,
+      "chapter": "ch051",
+      "chapterName": "核心词汇 文化与传统 Unit 1",
+      "pronunciation": {
+        "us": "/ˈæn.ses.tɚ/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "祖先",
+          "en": "A person from whom one is descended, especially in a distant generation."
+        },
+        {
+          "pos": "n.",
+          "zh": "祖宗",
+          "en": "An earlier member of a family or group."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many people trace their lineage back to famous ancestors.",
+          "zh": "许多人追溯他们的血统到著名的祖先。"
+        },
+        {
+          "en": "Our ancestors lived in harmony with nature and respected its power.",
+          "zh": "我们的祖先与自然和谐共处，尊重它的力量。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'ancestor' comes from the Latin 'antecessor', meaning 'one who goes before'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ancestor&type=2"
+    },
+    {
+      "id": "w01430",
+      "word": "creator",
+      "type": "single",
+      "chapterIndex": 10,
+      "globalIndex": 1430,
+      "chapter": "ch072",
+      "chapterName": "核心词汇 动物权益与保护 Unit 2",
+      "pronunciation": {
+        "us": "/krɪˈeɪtər/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "创造者",
+          "en": "A person who makes or produces something."
+        },
+        {
+          "pos": "v.",
+          "zh": "创造",
+          "en": "To bring something into existence."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The creator of the popular video game received many awards.",
+          "zh": "这款受欢迎的视频游戏的创造者获得了许多奖项。"
+        },
+        {
+          "en": "Many artists consider themselves creators of unique works.",
+          "zh": "许多艺术家认为自己是独特作品的创造者。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'creator' comes from the Latin 'creare', meaning 'to make or produce'.",
+        "association": "Think of a 'creator' as someone who 'creates' new ideas or things, like a chef creating a new recipe."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=creator&type=2"
     }
   ]
 }

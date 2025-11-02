@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-01T22:06:57.297Z",
+  "generated": "2025-11-02T22:07:01.363Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "block",
-      "pronunciation": "/blɑk/",
+      "word": "pregnant",
+      "pronunciation": "/ˈprɛɡnənt/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "块；障碍",
-          "en": "A solid piece of material with flat surfaces."
+          "pos": "adj.",
+          "zh": "怀孕的",
+          "en": "Having a baby developing inside the body."
         },
         {
-          "pos": "v.",
-          "zh": "阻止；封锁",
-          "en": "To prevent movement or progress."
+          "pos": "adj.",
+          "zh": "充满的",
+          "en": "Full of something or rich in meaning."
         }
       ],
       "examples": [
         {
-          "en": "He used a block of wood to hold the door open.",
-          "zh": "他用一块木头把门撑开。"
+          "en": "She is pregnant and expecting her first child in June.",
+          "zh": "她怀孕了，预计在六月生下她的第一个孩子。"
         },
         {
-          "en": "They need to block the road for maintenance work.",
-          "zh": "他们需要封锁道路进行维修工作。"
+          "en": "The artist's pregnant ideas challenged traditional views on art.",
+          "zh": "这位艺术家的丰富创意挑战了传统艺术观。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'block' as something that stops or holds back, like a block in a game."
+        "association": "Think of 'pregnant' as 'pre-gnant', where 'pre' suggests before a baby arrives."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=block&type=2",
-      "chapter": "基本词汇 动词200 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pregnant&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 15"
     },
     {
-      "word": "jogging",
-      "pronunciation": "/ˈdʒɑːɡɪŋ/",
+      "word": "longevity",
+      "pronunciation": "/lɒnˈdʒɛvəti/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "慢跑",
-          "en": "A form of exercise where a person runs at a slow and steady pace."
+          "zh": "长寿",
+          "en": "The length of time that a person lives."
         },
         {
-          "pos": "v.",
-          "zh": "慢跑（的现在分词）",
-          "en": "The action of running at a slow, steady speed for exercise."
+          "pos": "n.",
+          "zh": "持久性",
+          "en": "The duration of something's existence or effectiveness."
         }
       ],
       "examples": [
         {
-          "en": "I enjoy jogging in the park every morning before work.",
-          "zh": "我喜欢在上班前每天早晨在公园慢跑。"
+          "en": "Many people are seeking ways to improve their longevity.",
+          "zh": "许多人在寻找提高他们寿命的方法。"
         },
         {
-          "en": "Jogging helps to improve my fitness and clear my mind.",
-          "zh": "慢跑有助于提高我的健康和清理我的思绪。"
+          "en": "The longevity of certain species can be quite remarkable.",
+          "zh": "某些物种的持久性可以非常显著。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'jogging' as 'jogging your memory' to stay fit and clear-headed."
+        "association": "Think of 'long' in longevity to remember it relates to a long life."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=jogging&type=2",
-      "chapter": "核心词汇 健康话题 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=longevity&type=2",
+      "chapter": "核心词汇 科技发展 Unit 3"
     }
   ]
 }

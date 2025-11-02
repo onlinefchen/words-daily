@@ -1,70 +1,69 @@
 {
-  "generated": "2025-11-01T22:06:57.297Z",
+  "generated": "2025-11-02T22:07:01.363Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "expand",
-      "pronunciation": "/ɪkˈspænd/",
+      "word": "abolish",
+      "pronunciation": "/əˈbɑːlɪʃ/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "扩展，增加",
-          "en": "To make something larger or more extensive."
+          "zh": "废除",
+          "en": "To formally put an end to a system, practice, or institution."
         },
         {
           "pos": "v.",
-          "zh": "详细阐述",
-          "en": "To explain or discuss something in more detail."
+          "zh": "取消",
+          "en": "To do away with something completely."
         }
       ],
       "examples": [
         {
-          "en": "The company plans to expand its operations into new markets.",
-          "zh": "公司计划将业务扩展到新市场。"
+          "en": "Many countries have chosen to abolish the death penalty.",
+          "zh": "许多国家选择废除死刑。"
         },
         {
-          "en": "He decided to expand on his ideas during the presentation.",
-          "zh": "他决定在演示中详细阐述他的想法。"
+          "en": "The government decided to abolish outdated laws for modernization.",
+          "zh": "政府决定废除过时的法律以实现现代化。"
         }
       ],
       "memoryTips": {
-        "etymology": "Originates from the Latin word 'expandere', meaning 'to spread out'.",
-        "association": "Think of 'expand' as 'ex' (out) + 'pand' (to spread), like a balloon inflating."
+        "etymology": "The word 'abolish' comes from the Latin 'abolire', meaning 'to put an end to'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=expand&type=2",
-      "chapter": "基本词汇 动词200 Unit 7"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=abolish&type=2",
+      "chapter": "核心词汇 民主与权利 Unit 1"
     },
     {
-      "word": "strengthen",
-      "pronunciation": "/ˈstrɛŋθən/",
+      "word": "sequacious",
+      "pronunciation": "/sɪˈkweɪ.ʃəs/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "增强",
-          "en": "To make something stronger or more powerful."
+          "pos": "adj.",
+          "zh": "顺从的，缺乏独立性的",
+          "en": "Easily influenced or lacking independence in thought."
         },
         {
-          "pos": "v.",
-          "zh": "巩固",
-          "en": "To improve the effectiveness or stability of something."
+          "pos": "adj.",
+          "zh": "盲从的",
+          "en": "Following others without critical thinking or originality."
         }
       ],
       "examples": [
         {
-          "en": "Regular exercise can strengthen your muscles and improve health.",
-          "zh": "定期锻炼可以增强肌肉并改善健康。"
+          "en": "Many followers are sequacious, lacking their own opinions.",
+          "zh": "许多追随者盲从，缺乏自己的看法。"
         },
         {
-          "en": "The new policy aims to strengthen community relations and support.",
-          "zh": "新政策旨在巩固社区关系和支持。"
+          "en": "His sequacious nature made it hard for him to lead others.",
+          "zh": "他顺从的性格使他很难领导他人。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'strength' in 'strengthen' as making something stronger."
+        "association": "Think of 'sequel' and 'cautious'. A sequacious person follows the sequel cautiously, without thinking for themselves."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=strengthen&type=2",
-      "chapter": "基本词汇 动词200 Unit 10"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sequacious&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 9"
     }
   ]
 }

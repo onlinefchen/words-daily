@@ -1,64 +1,69 @@
 {
-  "generated": "2025-11-01T22:06:57.296Z",
+  "generated": "2025-11-02T22:07:01.362Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "virtue",
-      "pronunciation": "/ˈvɜːr.tʃuː/",
+      "word": "sense",
+      "pronunciation": "/sɛns/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "美德",
-          "en": "A quality considered morally good or desirable."
+          "zh": "感觉；意识",
+          "en": "A way of perceiving something through the body, like touch or taste."
         },
         {
-          "pos": "n.",
-          "zh": "优点",
-          "en": "A good quality or feature of a person or thing."
+          "pos": "v.",
+          "zh": "感知；理解",
+          "en": "To become aware of something through the senses."
         }
       ],
       "examples": [
         {
-          "en": "Honesty is a virtue that everyone should strive to possess.",
-          "zh": "诚实是一种每个人都应该努力拥有的美德。"
+          "en": "She has a strong sense of direction and never gets lost.",
+          "zh": "她有很强的方向感，从不迷路。"
         },
         {
-          "en": "Patience is often seen as a virtue in challenging situations.",
-          "zh": "在困难情况下，耐心常常被视为一种美德。"
+          "en": "It makes sense to save money for emergencies.",
+          "zh": "为紧急情况存钱是明智的。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'virtue' as 'veracity' (truthfulness), both promote good character."
+        "association": "Think of 'sense' as the way we connect with the world through our senses like sight, sound, and touch."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=virtue&type=2",
-      "chapter": "核心词汇 工作与生活 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sense&type=2",
+      "chapter": "基本词汇 名词200 Unit 8"
     },
     {
-      "word": "non-native predator",
-      "pronunciation": "/ˈnɒnˈneɪtɪv ˈprɛdətər/",
+      "word": "defy",
+      "pronunciation": "/dɪˈfaɪ/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "非本地捕食者",
-          "en": "A predator that is not originally from the place where it hunts."
+          "pos": "v.",
+          "zh": "反抗，违抗",
+          "en": "To refuse to obey someone or something."
+        },
+        {
+          "pos": "v.",
+          "zh": "挑战",
+          "en": "To challenge someone to do something; to confront."
         }
       ],
       "examples": [
         {
-          "en": "The non-native predator has caused a decline in local species.",
-          "zh": "这种非本地捕食者导致了当地物种的减少。"
+          "en": "She decided to defy the rules and speak her mind.",
+          "zh": "她决定违抗规则，直言不讳。"
         },
         {
-          "en": "Scientists study non-native predators to understand their impact on ecosystems.",
-          "zh": "科学家研究非本地捕食者以了解它们对生态系统的影响。"
+          "en": "The athlete chose to defy expectations and win the race.",
+          "zh": "这位运动员选择挑战预期并赢得了比赛。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'non-native' as someone who moved to a new country, and 'predator' as a hunter. Together, they represent a hunter from another place."
+        "association": "Think of 'defy' as 'defending your right' to do something against opposition."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=non-native%20predator&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=defy&type=2",
+      "chapter": "基本词汇 动词200 Unit 5"
     }
   ]
 }

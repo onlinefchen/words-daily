@@ -1,67 +1,69 @@
 {
-  "generated": "2025-11-01T22:06:57.297Z",
+  "generated": "2025-11-02T22:07:01.363Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "differentiate",
-      "pronunciation": "/ˌdɪf.əˈrɛn.ʧ.eɪt/",
+      "word": "medical",
+      "pronunciation": "/ˈmɛdɪkəl/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "区分",
-          "en": "To recognize or ascertain what makes something different."
+          "pos": "adj.",
+          "zh": "医学的",
+          "en": "Related to the practice of medicine or health."
         },
         {
-          "pos": "v.",
-          "zh": "区分对待",
-          "en": "To treat differently based on certain characteristics."
+          "pos": "n.",
+          "zh": "医疗",
+          "en": "The field that involves the treatment of diseases and injuries."
         }
       ],
       "examples": [
         {
-          "en": "It's important to differentiate between facts and opinions in an argument.",
-          "zh": "在争论中区分事实和观点是很重要的。"
+          "en": "She decided to pursue a medical career to help others.",
+          "zh": "她决定追求医学事业，帮助他人。"
         },
         {
-          "en": "Teachers need to differentiate their instruction to meet diverse student needs.",
-          "zh": "教师需要区分教学方法以满足不同学生的需求。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=differentiate&type=2",
-      "chapter": "核心词汇 法制与犯罪 Unit 2"
-    },
-    {
-      "word": "depravation",
-      "pronunciation": "/ˌdɛprəˈveɪʃən/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "剥夺，缺乏",
-          "en": "The state of being deprived of something essential."
-        },
-        {
-          "pos": "n.",
-          "zh": "道德败坏，堕落",
-          "en": "A condition of moral corruption or wickedness."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The depravation of basic needs can lead to severe health issues.",
-          "zh": "基本需求的剥夺可能导致严重的健康问题。"
-        },
-        {
-          "en": "His actions were a clear sign of moral depravation in society.",
-          "zh": "他的行为清楚地显示了社会的道德败坏。"
+          "en": "The hospital provides various medical services and treatments.",
+          "zh": "医院提供各种医疗服务和治疗。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'depravation' comes from the Latin 'depravare', meaning to corrupt or distort."
+        "etymology": "The word 'medical' comes from the Latin 'medicus', meaning 'physician'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=depravation&type=2",
-      "chapter": "核心词汇 法制与犯罪 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=medical&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 4"
+    },
+    {
+      "word": "landfill",
+      "pronunciation": "/ˈlændfɪl/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "垃圾填埋场",
+          "en": "A site where waste materials are buried."
+        },
+        {
+          "pos": "v.",
+          "zh": "填埋垃圾",
+          "en": "To dispose of waste by burying it in the ground."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The city is planning to close the old landfill soon.",
+          "zh": "这座城市计划很快关闭旧的垃圾填埋场。"
+        },
+        {
+          "en": "Landfilling is one of the most common waste disposal methods.",
+          "zh": "填埋是最常见的垃圾处理方法之一。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'land' as the ground and 'fill' as filling it with waste."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=landfill&type=2",
+      "chapter": "核心词汇 环境保护 Unit 4"
     }
   ]
 }

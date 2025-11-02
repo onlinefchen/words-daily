@@ -1,64 +1,66 @@
 {
-  "generated": "2025-11-01T22:06:57.296Z",
+  "generated": "2025-11-02T22:07:01.362Z",
   "count": 2,
   "words": [
     {
-      "word": "alternating layers of lava flows",
-      "pronunciation": "/ˈɔːltərneɪtɪŋ ˈleɪərz əv ˈlɑːvə floʊz/",
+      "word": "fishery",
+      "pronunciation": "/ˈfɪʃ.ər.i/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "交替的熔岩流层",
-          "en": "Layers of lava that are stacked alternately in a sequence."
+          "zh": "渔业",
+          "en": "A place where fish are bred for commercial purposes."
+        },
+        {
+          "pos": "n.",
+          "zh": "渔场",
+          "en": "An area or industry involved in catching fish."
         }
       ],
       "examples": [
         {
-          "en": "The volcano erupted, creating alternating layers of lava flows.",
-          "zh": "火山爆发，形成了交替的熔岩流层。"
+          "en": "The fishery industry is vital for many coastal communities.",
+          "zh": "渔业对许多沿海社区至关重要。"
         },
         {
-          "en": "Scientists study alternating layers of lava flows to understand volcanic activity.",
-          "zh": "科学家研究交替的熔岩流层，以了解火山活动。"
+          "en": "Sustainable fishery practices help protect marine ecosystems.",
+          "zh": "可持续的渔业实践有助于保护海洋生态系统。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of a layered cake where each layer represents a different lava flow.",
-        "mnemonic": "Remember 'lava flows alternate' like a pattern in music."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=alternating%20layers%20of%20lava%20flows&type=2",
-      "chapter": "认知词汇 自然分类 火山"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=fishery&type=2",
+      "chapter": "认知词汇 环境分类 人类与动物灭绝"
     },
     {
-      "word": "ruthless",
-      "pronunciation": "/ˈruːθləs/",
+      "word": "variation",
+      "pronunciation": "/ˌvɛr.iˈeɪ.ʃən/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "无情的",
-          "en": "Having no pity or compassion; harsh and cruel."
+          "pos": "n.",
+          "zh": "变种",
+          "en": "A change or difference in condition or amount."
         },
         {
-          "pos": "adj.",
-          "zh": "冷酷无情的",
-          "en": "Willing to do anything to achieve a goal, regardless of others' suffering."
+          "pos": "n.",
+          "zh": "变异",
+          "en": "A different form or version of something."
         }
       ],
       "examples": [
         {
-          "en": "The ruthless businessman fired employees without any hesitation.",
-          "zh": "这位无情的商人毫不犹豫地解雇了员工。"
+          "en": "There is a significant variation in temperatures across the seasons.",
+          "zh": "不同季节的温度差异很大。"
         },
         {
-          "en": "In a ruthless world, only the strongest survive the competition.",
-          "zh": "在一个无情的世界里，只有最强者才能在竞争中生存。"
+          "en": "The study showed variation in participants' responses to the same question.",
+          "zh": "研究显示参与者对同一问题的回答存在差异。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'ruthless' as 'without ruth', where 'ruth' means pity. If you lack pity, you are ruthless."
+        "etymology": "The word 'variation' comes from the Latin 'variatio', meaning 'change' or 'difference'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ruthless&type=2",
-      "chapter": "核心词汇 法制与犯罪 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=variation&type=2",
+      "chapter": "认知词汇 动物分类 动物行为"
     }
   ]
 }

@@ -1,69 +1,70 @@
 {
-  "generated": "2025-11-01T22:06:57.297Z",
+  "generated": "2025-11-02T22:07:01.363Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "prominent",
-      "pronunciation": "/ˈprɒmɪnənt/",
+      "word": "ancestor",
+      "pronunciation": "/ˈæn.ses.tɚ/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "突出的，显著的",
-          "en": "Something that is very noticeable or important."
+          "pos": "n.",
+          "zh": "祖先",
+          "en": "A person from whom one is descended, especially in a distant generation."
         },
         {
-          "pos": "adj.",
-          "zh": "杰出的，著名的",
-          "en": "A person who is well-known and respected in a specific field."
+          "pos": "n.",
+          "zh": "祖宗",
+          "en": "An earlier member of a family or group."
         }
       ],
       "examples": [
         {
-          "en": "She played a prominent role in the community's development.",
-          "zh": "她在社区的发展中发挥了重要作用。"
+          "en": "Many people trace their lineage back to famous ancestors.",
+          "zh": "许多人追溯他们的血统到著名的祖先。"
         },
         {
-          "en": "He is a prominent scientist recognized for his groundbreaking research.",
-          "zh": "他是一位因开创性研究而受到认可的杰出科学家。"
+          "en": "Our ancestors lived in harmony with nature and respected its power.",
+          "zh": "我们的祖先与自然和谐共处，尊重它的力量。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'prominent' as 'promote', meaning to highlight or make something stand out."
+        "etymology": "The word 'ancestor' comes from the Latin 'antecessor', meaning 'one who goes before'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=prominent&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 15"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ancestor&type=2",
+      "chapter": "核心词汇 文化与传统 Unit 1"
     },
     {
-      "word": "replacement",
-      "pronunciation": "/rɪˈpleɪsmənt/",
+      "word": "creator",
+      "pronunciation": "/krɪˈeɪtər/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "替代品",
-          "en": "Something that takes the place of another."
+          "zh": "创造者",
+          "en": "A person who makes or produces something."
         },
         {
-          "pos": "n.",
-          "zh": "更换",
-          "en": "The act of replacing something with another."
+          "pos": "v.",
+          "zh": "创造",
+          "en": "To bring something into existence."
         }
       ],
       "examples": [
         {
-          "en": "The replacement of the old road will improve traffic flow significantly.",
-          "zh": "新道路的替换将显著改善交通流量。"
+          "en": "The creator of the popular video game received many awards.",
+          "zh": "这款受欢迎的视频游戏的创造者获得了许多奖项。"
         },
         {
-          "en": "He found a suitable replacement for the broken equipment.",
-          "zh": "他找到了合适的替代品来替换损坏的设备。"
+          "en": "Many artists consider themselves creators of unique works.",
+          "zh": "许多艺术家认为自己是独特作品的创造者。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'replacement' as 're-place-ment', where you are placing something again."
+        "etymology": "The word 'creator' comes from the Latin 'creare', meaning 'to make or produce'.",
+        "association": "Think of a 'creator' as someone who 'creates' new ideas or things, like a chef creating a new recipe."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=replacement&type=2",
-      "chapter": "基本词汇 名词200 Unit 7"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=creator&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 2"
     }
   ]
 }
