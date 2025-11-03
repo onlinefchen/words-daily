@@ -1,70 +1,62 @@
 {
-  "generated": "2025-11-02T22:07:01.363Z",
+  "generated": "2025-11-03T22:08:15.729Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "ancestor",
-      "pronunciation": "/ˈæn.ses.tɚ/",
+      "word": "compassion",
+      "pronunciation": "/kəmˈpæʃən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "祖先",
-          "en": "A person from whom one is descended, especially in a distant generation."
+          "zh": "同情，怜悯",
+          "en": "A feeling of deep sympathy for someone who is suffering."
         },
         {
           "pos": "n.",
-          "zh": "祖宗",
-          "en": "An earlier member of a family or group."
+          "zh": "慈悲，善良",
+          "en": "The desire to help others and show kindness."
         }
       ],
       "examples": [
         {
-          "en": "Many people trace their lineage back to famous ancestors.",
-          "zh": "许多人追溯他们的血统到著名的祖先。"
+          "en": "Her compassion for the homeless inspired many to help.",
+          "zh": "她对无家可归者的同情激励了许多人去帮助。"
         },
         {
-          "en": "Our ancestors lived in harmony with nature and respected its power.",
-          "zh": "我们的祖先与自然和谐共处，尊重它的力量。"
+          "en": "Compassion is essential for building a caring community.",
+          "zh": "同情心对于建立一个关怀的社区是必不可少的。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'ancestor' comes from the Latin 'antecessor', meaning 'one who goes before'."
+        "association": "Think of 'compassion' as 'companion' + 'passion', suggesting a passionate connection with others' feelings."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ancestor&type=2",
-      "chapter": "核心词汇 文化与传统 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compassion&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 2"
     },
     {
-      "word": "creator",
-      "pronunciation": "/krɪˈeɪtər/",
+      "word": "conducive",
+      "pronunciation": "/kənˈduːsɪv/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "创造者",
-          "en": "A person who makes or produces something."
-        },
-        {
-          "pos": "v.",
-          "zh": "创造",
-          "en": "To bring something into existence."
+          "pos": "adj.",
+          "zh": "有助于的",
+          "en": "Making a situation likely or possible."
         }
       ],
       "examples": [
         {
-          "en": "The creator of the popular video game received many awards.",
-          "zh": "这款受欢迎的视频游戏的创造者获得了许多奖项。"
+          "en": "A quiet environment is conducive to studying effectively.",
+          "zh": "安静的环境有利于高效学习。"
         },
         {
-          "en": "Many artists consider themselves creators of unique works.",
-          "zh": "许多艺术家认为自己是独特作品的创造者。"
+          "en": "Good nutrition is conducive to overall health.",
+          "zh": "良好的营养有助于整体健康。"
         }
       ],
-      "memoryTips": {
-        "etymology": "The word 'creator' comes from the Latin 'creare', meaning 'to make or produce'.",
-        "association": "Think of a 'creator' as someone who 'creates' new ideas or things, like a chef creating a new recipe."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=creator&type=2",
-      "chapter": "核心词汇 动物权益与保护 Unit 2"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=conducive&type=2",
+      "chapter": "核心词汇 健康话题 Unit 2"
     }
   ]
 }

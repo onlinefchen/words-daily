@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-02T22:07:01.362Z",
+  "generated": "2025-11-03T22:08:15.728Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "prodigy",
-      "pronunciation": "/ˈprɒd.ɪ.dʒi/",
+      "word": "guilty",
+      "pronunciation": "/ˈɡɪlti/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "神童",
-          "en": "A person, usually a child, with exceptional talent or ability."
+          "pos": "adj.",
+          "zh": "有罪的",
+          "en": "Feeling responsible for a wrongdoing or crime."
         },
         {
-          "pos": "n.",
-          "zh": "奇迹",
-          "en": "Something extraordinary that is difficult to explain."
+          "pos": "adj.",
+          "zh": "内疚的",
+          "en": "Feeling regret or remorse about something you did."
         }
       ],
       "examples": [
         {
-          "en": "The young musician is a prodigy, performing at prestigious venues.",
-          "zh": "这位年轻的音乐家是个神童，在著名场所演出。"
+          "en": "She felt guilty for not helping her friend in need.",
+          "zh": "她因为没有帮助需要帮助的朋友而感到内疚。"
         },
         {
-          "en": "Many consider her a prodigy due to her remarkable math skills.",
-          "zh": "许多人认为她是个神童，因为她惊人的数学能力。"
+          "en": "The guilty man was sentenced to ten years in prison.",
+          "zh": "这个有罪的人被判处十年监禁。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'prodigy' comes from the Latin 'prodigium', meaning ' omen or portent'."
+        "association": "Think of 'guilt' as a weight on your conscience, making you feel heavy and responsible."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=prodigy&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 8"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=guilty&type=2",
+      "chapter": "核心词汇 法制与犯罪 Unit 2"
     },
     {
-      "word": "torture",
-      "pronunciation": "/ˈtɔːr.tʃər/",
+      "word": "devoid",
+      "pronunciation": "/dɪˈvɔɪd/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "折磨",
-          "en": "To cause someone severe pain or suffering."
+          "pos": "adj.",
+          "zh": "缺乏的",
+          "en": "Completely lacking something."
         },
         {
-          "pos": "n.",
-          "zh": "酷刑",
-          "en": "The act of inflicting severe pain as a punishment."
+          "pos": "v.",
+          "zh": "使缺乏",
+          "en": "To remove or take away something."
         }
       ],
       "examples": [
         {
-          "en": "Many prisoners have suffered torture during wars throughout history.",
-          "zh": "许多囚犯在历史上的战争中遭受了酷刑。"
+          "en": "The room was devoid of any furniture or decoration.",
+          "zh": "这个房间缺乏任何家具或装饰。"
         },
         {
-          "en": "The movie depicted the torture faced by innocent people in conflict zones.",
-          "zh": "这部电影描绘了无辜人在冲突地区所遭受的折磨。"
+          "en": "She felt devoid of energy after the long meeting.",
+          "zh": "长时间的会议后，她感到精力匮乏。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'torture' as 'torment', both involve causing pain."
+        "association": "Think of 'devoid' as 'de void' meaning 'empty space'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=torture&type=2",
-      "chapter": "核心词汇 动物权益与保护 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=devoid&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 6"
     }
   ]
 }

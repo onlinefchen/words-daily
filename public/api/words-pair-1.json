@@ -1,67 +1,67 @@
 {
-  "generated": "2025-11-02T22:07:01.362Z",
+  "generated": "2025-11-03T22:08:15.728Z",
   "pair": 1,
   "count": 2,
   "words": [
     {
-      "word": "fishery",
-      "pronunciation": "/ˈfɪʃ.ər.i/",
+      "word": "handle",
+      "pronunciation": "/ˈhændl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "渔业",
-          "en": "A place where fish are bred for commercial purposes."
+          "pos": "v.",
+          "zh": "处理",
+          "en": "To manage or deal with something."
         },
         {
           "pos": "n.",
-          "zh": "渔场",
-          "en": "An area or industry involved in catching fish."
+          "zh": "把手",
+          "en": "A part of an object used to hold or control it."
         }
       ],
       "examples": [
         {
-          "en": "The fishery industry is vital for many coastal communities.",
-          "zh": "渔业对许多沿海社区至关重要。"
+          "en": "She knows how to handle difficult situations with ease.",
+          "zh": "她知道如何轻松处理困难的情况。"
         },
         {
-          "en": "Sustainable fishery practices help protect marine ecosystems.",
-          "zh": "可持续的渔业实践有助于保护海洋生态系统。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=fishery&type=2",
-      "chapter": "认知词汇 环境分类 人类与动物灭绝"
-    },
-    {
-      "word": "variation",
-      "pronunciation": "/ˌvɛr.iˈeɪ.ʃən/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "变种",
-          "en": "A change or difference in condition or amount."
-        },
-        {
-          "pos": "n.",
-          "zh": "变异",
-          "en": "A different form or version of something."
-        }
-      ],
-      "examples": [
-        {
-          "en": "There is a significant variation in temperatures across the seasons.",
-          "zh": "不同季节的温度差异很大。"
-        },
-        {
-          "en": "The study showed variation in participants' responses to the same question.",
-          "zh": "研究显示参与者对同一问题的回答存在差异。"
+          "en": "The handle of the door was broken and needed repair.",
+          "zh": "门的把手坏了，需要修理。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'variation' comes from the Latin 'variatio', meaning 'change' or 'difference'."
+        "association": "Think of 'handle' as 'hand' + 'able'. If something is 'handleable', it means you can manage it with your hands."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=variation&type=2",
-      "chapter": "认知词汇 动物分类 动物行为"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=handle&type=2",
+      "chapter": "基本词汇 动词200 Unit 7"
+    },
+    {
+      "word": "transport network",
+      "pronunciation": "/ˈtrænspɔrt ˈnɛtˌwɜrk/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "运输网络",
+          "en": "A system of transport that connects different places."
+        },
+        {
+          "pos": "n.",
+          "zh": "交通网络",
+          "en": "The various methods and routes used for moving people or goods."
+        }
+      ],
+      "examples": [
+        {
+          "en": "A well-developed transport network is essential for economic growth.",
+          "zh": "发达的运输网络对经济增长至关重要。"
+        },
+        {
+          "en": "Many cities are improving their transport networks to reduce traffic congestion.",
+          "zh": "许多城市正在改善其交通网络以减少交通拥堵。"
+        }
+      ],
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=transport%20network&type=2",
+      "chapter": "阅读真题认知词汇 交通阻塞"
     }
   ]
 }

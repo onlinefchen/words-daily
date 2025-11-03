@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-02T22:07:01.362Z",
+  "generated": "2025-11-03T22:08:15.728Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "protest",
-      "pronunciation": "/ˈproʊ.tɛst/",
+      "word": "poison",
+      "pronunciation": "/ˈpɔɪ.zən/",
       "meanings": [
+        {
+          "pos": "n.",
+          "zh": "毒药",
+          "en": "A substance that can cause illness or death when ingested."
+        },
         {
           "pos": "v.",
-          "zh": "抗议",
-          "en": "To express strong disagreement about something."
-        },
-        {
-          "pos": "n.",
-          "zh": "抗议活动",
-          "en": "An event where people show their disagreement publicly."
+          "zh": "毒害",
+          "en": "To make something harmful or deadly, especially by adding poison."
         }
       ],
       "examples": [
         {
-          "en": "Many students decided to protest against the new school rules.",
-          "zh": "许多学生决定抗议新的校规。"
+          "en": "The scientist studied how poison affects the human body.",
+          "zh": "科学家研究毒药如何影响人体。"
         },
         {
-          "en": "The protest attracted thousands of people from all backgrounds.",
-          "zh": "这场抗议吸引了来自各行各业的数千人。"
+          "en": "He was poisoned by a toxic substance in the food.",
+          "zh": "他被食物中的有毒物质毒害了。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'protest' comes from Latin 'protestari', meaning 'to testify publicly'."
+        "association": "Think of 'poison' as a 'poisonous' drink that can harm you."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=protest&type=2",
-      "chapter": "核心词汇 法制与犯罪 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=poison&type=2",
+      "chapter": "核心词汇 环境保护 Unit 4"
     },
     {
-      "word": "expertise",
-      "pronunciation": "/ˌɛkspərˈtiːz/",
+      "word": "vibration",
+      "pronunciation": "/vaɪˈbreɪʃən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "专业知识",
-          "en": "A high level of knowledge or skill in a particular area."
+          "zh": "震动",
+          "en": "A continuous shaking or oscillation of an object."
         },
         {
-          "pos": "n.",
-          "zh": "专长",
-          "en": "The special skill or knowledge someone has in a certain field."
+          "pos": "v.",
+          "zh": "振动",
+          "en": "To move back and forth quickly."
         }
       ],
       "examples": [
         {
-          "en": "Her expertise in finance helped the company grow significantly.",
-          "zh": "她在金融方面的专业知识帮助公司显著增长。"
+          "en": "The vibration of the speakers made the whole room shake.",
+          "zh": "扬声器的震动使整个房间摇晃。"
         },
         {
-          "en": "We need his expertise to complete this complex project.",
-          "zh": "我们需要他的专长来完成这个复杂的项目。"
+          "en": "He could feel the vibration of the train approaching.",
+          "zh": "他能感觉到火车接近时的震动。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'expertise' comes from the Latin 'expertus', meaning 'experienced' or 'tested'."
+        "association": "Think of the word 'vibrate' as something that shakes or moves energetically, like a phone on silent mode."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=expertise&type=2",
-      "chapter": "核心词汇 工作与生活 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vibration&type=2",
+      "chapter": "认知词汇 自然分类 地震"
     }
   ]
 }

@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-02T22:07:01.363Z",
+  "generated": "2025-11-03T22:08:15.728Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "pregnant",
-      "pronunciation": "/ˈprɛɡnənt/",
+      "word": "aesthetic",
+      "pronunciation": "/ɛsˈθɛtɪk/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "怀孕的",
-          "en": "Having a baby developing inside the body."
+          "zh": "美学的；审美的",
+          "en": "Related to beauty or the appreciation of beauty."
         },
         {
-          "pos": "adj.",
-          "zh": "充满的",
-          "en": "Full of something or rich in meaning."
+          "pos": "n.",
+          "zh": "美学；审美观",
+          "en": "A set of principles concerned with the nature and appreciation of beauty."
         }
       ],
       "examples": [
         {
-          "en": "She is pregnant and expecting her first child in June.",
-          "zh": "她怀孕了，预计在六月生下她的第一个孩子。"
+          "en": "The aesthetic design of the building attracts many visitors.",
+          "zh": "这座建筑美学设计吸引了许多游客。"
         },
         {
-          "en": "The artist's pregnant ideas challenged traditional views on art.",
-          "zh": "这位艺术家的丰富创意挑战了传统艺术观。"
+          "en": "Her artwork reflects a unique aesthetic vision and style.",
+          "zh": "她的艺术作品反映出独特的美学视野和风格。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'pregnant' as 'pre-gnant', where 'pre' suggests before a baby arrives."
+        "association": "Think of 'aesthetic' as 'a scene that is aesthetically pleasing', like a beautiful painting or a scenic view."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pregnant&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 15"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aesthetic&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 2"
     },
     {
-      "word": "longevity",
-      "pronunciation": "/lɒnˈdʒɛvəti/",
+      "word": "weary",
+      "pronunciation": "/ˈwɪəri/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "长寿",
-          "en": "The length of time that a person lives."
+          "pos": "adj.",
+          "zh": "疲惫的",
+          "en": "Feeling very tired, especially after a lot of work."
         },
         {
-          "pos": "n.",
-          "zh": "持久性",
-          "en": "The duration of something's existence or effectiveness."
+          "pos": "v.",
+          "zh": "厌倦",
+          "en": "To become tired or bored of something."
         }
       ],
       "examples": [
         {
-          "en": "Many people are seeking ways to improve their longevity.",
-          "zh": "许多人在寻找提高他们寿命的方法。"
+          "en": "After the long hike, I felt extremely weary and needed rest.",
+          "zh": "经过长时间的远足，我感到非常疲惫，需要休息。"
         },
         {
-          "en": "The longevity of certain species can be quite remarkable.",
-          "zh": "某些物种的持久性可以非常显著。"
+          "en": "She was weary of the constant noise in the city.",
+          "zh": "她对城市里不断的噪音感到厌倦。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'long' in longevity to remember it relates to a long life."
+        "association": "Think of a 'weary' traveler who needs to rest after a long journey."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=longevity&type=2",
-      "chapter": "核心词汇 科技发展 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=weary&type=2",
+      "chapter": "核心词汇 工作与生活 Unit 5"
     }
   ]
 }

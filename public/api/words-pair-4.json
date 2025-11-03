@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-02T22:07:01.362Z",
+  "generated": "2025-11-03T22:08:15.728Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "sense",
-      "pronunciation": "/sɛns/",
+      "word": "junk",
+      "pronunciation": "/dʒʌŋk/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "感觉；意识",
-          "en": "A way of perceiving something through the body, like touch or taste."
+          "zh": "垃圾",
+          "en": "Old or unwanted items that are no longer useful."
         },
         {
           "pos": "v.",
-          "zh": "感知；理解",
-          "en": "To become aware of something through the senses."
+          "zh": "丢弃",
+          "en": "To throw away or discard something useless."
         }
       ],
       "examples": [
         {
-          "en": "She has a strong sense of direction and never gets lost.",
-          "zh": "她有很强的方向感，从不迷路。"
+          "en": "He decided to throw away the junk in his garage.",
+          "zh": "他决定扔掉车库里的垃圾。"
         },
         {
-          "en": "It makes sense to save money for emergencies.",
-          "zh": "为紧急情况存钱是明智的。"
+          "en": "Don't let junk accumulate in your living space.",
+          "zh": "不要让垃圾在你的生活空间中堆积。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'sense' as the way we connect with the world through our senses like sight, sound, and touch."
+        "association": "Think of 'junk' as 'junk food' which is unhealthy and often unwanted."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sense&type=2",
-      "chapter": "基本词汇 名词200 Unit 8"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=junk&type=2",
+      "chapter": "核心词汇 健康话题 Unit 4"
     },
     {
-      "word": "defy",
-      "pronunciation": "/dɪˈfaɪ/",
+      "word": "evil",
+      "pronunciation": "/ˈiːvəl/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "反抗，违抗",
-          "en": "To refuse to obey someone or something."
+          "pos": "adj.",
+          "zh": "邪恶的",
+          "en": "Something that causes harm or is morally wrong."
         },
         {
-          "pos": "v.",
-          "zh": "挑战",
-          "en": "To challenge someone to do something; to confront."
+          "pos": "n.",
+          "zh": "邪恶",
+          "en": "The quality of being morally bad or wicked."
         }
       ],
       "examples": [
         {
-          "en": "She decided to defy the rules and speak her mind.",
-          "zh": "她决定违抗规则，直言不讳。"
+          "en": "The evil villain plotted to take over the world.",
+          "zh": "那个邪恶的恶棍策划统治世界。"
         },
         {
-          "en": "The athlete chose to defy expectations and win the race.",
-          "zh": "这位运动员选择挑战预期并赢得了比赛。"
+          "en": "People often struggle against the forces of evil in society.",
+          "zh": "人们常常在社会中与邪恶势力斗争。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'defy' as 'defending your right' to do something against opposition."
+        "association": "You can associate 'evil' with 'villains' in stories or movies, as they often embody evil traits."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=defy&type=2",
-      "chapter": "基本词汇 动词200 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=evil&type=2",
+      "chapter": "核心词汇 法制与犯罪 Unit 2"
     }
   ]
 }

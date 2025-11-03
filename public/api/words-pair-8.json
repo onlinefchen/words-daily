@@ -1,69 +1,70 @@
 {
-  "generated": "2025-11-02T22:07:01.363Z",
+  "generated": "2025-11-03T22:08:15.729Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "abolish",
-      "pronunciation": "/əˈbɑːlɪʃ/",
+      "word": "cooperative",
+      "pronunciation": "/koʊˈɒpərətɪv/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "废除",
-          "en": "To formally put an end to a system, practice, or institution."
+          "pos": "adj.",
+          "zh": "合作的",
+          "en": "Willing to work together with others."
         },
         {
-          "pos": "v.",
-          "zh": "取消",
-          "en": "To do away with something completely."
+          "pos": "n.",
+          "zh": "合作社",
+          "en": "An organization owned and operated by a group of individuals for mutual benefit."
         }
       ],
       "examples": [
         {
-          "en": "Many countries have chosen to abolish the death penalty.",
-          "zh": "许多国家选择废除死刑。"
+          "en": "The cooperative project improved the local community's resources significantly.",
+          "zh": "这个合作项目显著改善了当地社区的资源。"
         },
         {
-          "en": "The government decided to abolish outdated laws for modernization.",
-          "zh": "政府决定废除过时的法律以实现现代化。"
+          "en": "She is very cooperative when it comes to group tasks at school.",
+          "zh": "在学校的团队任务中，她非常合作。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'abolish' comes from the Latin 'abolire', meaning 'to put an end to'."
+        "etymology": "The word 'cooperative' comes from the Latin 'cooperari', meaning 'to work together'.",
+        "association": "Think of 'cooperative' as 'co-op' where people join together to help each other."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=abolish&type=2",
-      "chapter": "核心词汇 民主与权利 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cooperative&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 5"
     },
     {
-      "word": "sequacious",
-      "pronunciation": "/sɪˈkweɪ.ʃəs/",
+      "word": "lower",
+      "pronunciation": "/ˈloʊ.ər/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "顺从的，缺乏独立性的",
-          "en": "Easily influenced or lacking independence in thought."
+          "pos": "v.",
+          "zh": "降低",
+          "en": "To make something less in amount, degree, or size."
         },
         {
-          "pos": "adj.",
-          "zh": "盲从的",
-          "en": "Following others without critical thinking or originality."
+          "pos": "n.",
+          "zh": "较低的状态",
+          "en": "The condition of being less than something else."
         }
       ],
       "examples": [
         {
-          "en": "Many followers are sequacious, lacking their own opinions.",
-          "zh": "许多追随者盲从，缺乏自己的看法。"
+          "en": "The company decided to lower the prices of its products.",
+          "zh": "公司决定降低产品的价格。"
         },
         {
-          "en": "His sequacious nature made it hard for him to lead others.",
-          "zh": "他顺从的性格使他很难领导他人。"
+          "en": "He aims to lower his running time in the next marathon.",
+          "zh": "他希望在下次马拉松中降低自己的跑步时间。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'sequel' and 'cautious'. A sequacious person follows the sequel cautiously, without thinking for themselves."
+        "association": "Think of 'lower' as moving downwards, like lowering a flag."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sequacious&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 9"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=lower&type=2",
+      "chapter": "基本词汇 动词200 Unit 8"
     }
   ]
 }

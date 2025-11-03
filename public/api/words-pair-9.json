@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-02T22:07:01.363Z",
+  "generated": "2025-11-03T22:08:15.729Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "medical",
-      "pronunciation": "/ˈmɛdɪkəl/",
+      "word": "excessive",
+      "pronunciation": "/ɪkˈsɛsɪv/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "医学的",
-          "en": "Related to the practice of medicine or health."
+          "zh": "过多的",
+          "en": "More than what is necessary or reasonable."
         },
         {
-          "pos": "n.",
-          "zh": "医疗",
-          "en": "The field that involves the treatment of diseases and injuries."
+          "pos": "adj.",
+          "zh": "极端的",
+          "en": "Extreme or excessive in amount or degree."
         }
       ],
       "examples": [
         {
-          "en": "She decided to pursue a medical career to help others.",
-          "zh": "她决定追求医学事业，帮助他人。"
+          "en": "The excessive heat caused many people to stay indoors.",
+          "zh": "过多的热量使很多人待在室内。"
         },
         {
-          "en": "The hospital provides various medical services and treatments.",
-          "zh": "医院提供各种医疗服务和治疗。"
+          "en": "She received excessive praise for her simple achievement.",
+          "zh": "她因简单的成就而获得了过多的赞扬。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'medical' comes from the Latin 'medicus', meaning 'physician'."
+        "association": "Think of 'excess' which sounds similar, reminding you of too much of something."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=medical&type=2",
-      "chapter": "核心词汇 动物权益与保护 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=excessive&type=2",
+      "chapter": "核心词汇 健康话题 Unit 3"
     },
     {
-      "word": "landfill",
-      "pronunciation": "/ˈlændfɪl/",
+      "word": "pass",
+      "pronunciation": "/pæs/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "垃圾填埋场",
-          "en": "A site where waste materials are buried."
+          "pos": "v.",
+          "zh": "通过",
+          "en": "To move past something or to succeed in a test or course."
         },
         {
-          "pos": "v.",
-          "zh": "填埋垃圾",
-          "en": "To dispose of waste by burying it in the ground."
+          "pos": "n.",
+          "zh": "通行证",
+          "en": "A document or permission allowing someone to enter or pass."
         }
       ],
       "examples": [
         {
-          "en": "The city is planning to close the old landfill soon.",
-          "zh": "这座城市计划很快关闭旧的垃圾填埋场。"
+          "en": "She managed to pass the IELTS exam with a high score.",
+          "zh": "她成功地以高分通过了雅思考试。"
         },
         {
-          "en": "Landfilling is one of the most common waste disposal methods.",
-          "zh": "填埋是最常见的垃圾处理方法之一。"
+          "en": "He showed his pass to the security guard at the entrance.",
+          "zh": "他在入口处向保安出示了通行证。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'land' as the ground and 'fill' as filling it with waste."
+        "association": "Think of 'pass' as moving past obstacles or challenges in life, like passing through a door."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=landfill&type=2",
-      "chapter": "核心词汇 环境保护 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pass&type=2",
+      "chapter": "基本词汇 动词200 Unit 9"
     }
   ]
 }

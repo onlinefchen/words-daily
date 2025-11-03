@@ -1,67 +1,69 @@
 {
-  "generated": "2025-11-02T22:07:01.362Z",
+  "generated": "2025-11-03T22:08:15.728Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "promote",
-      "pronunciation": "/prəˈmoʊt/",
+      "word": "protest",
+      "pronunciation": "/ˈproʊ.tɛst/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "促进",
-          "en": "To help something grow or develop."
+          "zh": "抗议",
+          "en": "To express strong disagreement about something."
         },
         {
-          "pos": "v.",
-          "zh": "推销",
-          "en": "To advertise or sell a product or service."
+          "pos": "n.",
+          "zh": "抗议活动",
+          "en": "An event where people show their disagreement publicly."
         }
       ],
       "examples": [
         {
-          "en": "The organization aims to promote healthy eating habits among children.",
-          "zh": "该组织旨在促进儿童健康饮食习惯。"
+          "en": "Many students decided to protest against the new school rules.",
+          "zh": "许多学生决定抗议新的校规。"
         },
         {
-          "en": "The company will promote the new product through social media campaigns.",
-          "zh": "该公司将通过社交媒体活动推广新产品。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=promote&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 8"
-    },
-    {
-      "word": "ruthless",
-      "pronunciation": "/ˈruːθləs/",
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "无情的",
-          "en": "Having no compassion or pity; cruel."
-        },
-        {
-          "pos": "adj.",
-          "zh": "不择手段的",
-          "en": "Determined to succeed at all costs, regardless of how it affects others."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The ruthless businessman drove his competitors out of the market.",
-          "zh": "这个无情的商人把竞争对手赶出了市场。"
-        },
-        {
-          "en": "Her ruthless ambition led her to betray her closest friends.",
-          "zh": "她无情的野心使她背叛了最亲密的朋友。"
+          "en": "The protest attracted thousands of people from all backgrounds.",
+          "zh": "这场抗议吸引了来自各行各业的数千人。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'ruth' as a feeling of pity; without 'ruth,' one is ruthless."
+        "etymology": "The word 'protest' comes from Latin 'protestari', meaning 'to testify publicly'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ruthless&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 16"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=protest&type=2",
+      "chapter": "核心词汇 法制与犯罪 Unit 4"
+    },
+    {
+      "word": "indulge",
+      "pronunciation": "/ɪnˈdʌldʒ/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "沉迷于，放纵",
+          "en": "To allow oneself to enjoy something, often excessively."
+        },
+        {
+          "pos": "v.",
+          "zh": "满足，迎合",
+          "en": "To give in to someone's wishes, desires, or needs."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She decided to indulge in a delicious dessert after dinner.",
+          "zh": "她决定在晚餐后享用一份美味的甜点。"
+        },
+        {
+          "en": "Many people indulge their children with gifts and treats.",
+          "zh": "许多人用礼物和款待来满足他们的孩子。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'indulge' as 'in-dulge', where 'dulge' sounds like 'deluge', meaning to flood with enjoyment."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=indulge&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 6"
     }
   ]
 }
