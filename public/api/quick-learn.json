@@ -1,66 +1,63 @@
 {
-  "generated": "2025-11-03T22:08:15.728Z",
+  "generated": "2025-11-04T22:07:50.076Z",
   "count": 2,
   "words": [
     {
-      "word": "handle",
-      "pronunciation": "/ˈhændl/",
+      "word": "incidence of asthma",
+      "pronunciation": "/ˈɪnsɪdəns əv ˈæsmə/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "处理",
-          "en": "To manage or deal with something."
-        },
-        {
           "pos": "n.",
-          "zh": "把手",
-          "en": "A part of an object used to hold or control it."
+          "zh": "哮喘的发生率",
+          "en": "The frequency or occurrence of asthma cases in a population."
         }
       ],
       "examples": [
         {
-          "en": "She knows how to handle difficult situations with ease.",
-          "zh": "她知道如何轻松处理困难的情况。"
+          "en": "The incidence of asthma has increased in urban areas.",
+          "zh": "城市地区的哮喘发生率增加了。"
         },
         {
-          "en": "The handle of the door was broken and needed repair.",
-          "zh": "门的把手坏了，需要修理。"
+          "en": "Researchers study the incidence of asthma among children.",
+          "zh": "研究人员研究儿童中哮喘的发生率。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'handle' as 'hand' + 'able'. If something is 'handleable', it means you can manage it with your hands."
+        "association": "Think of 'incidence' as 'in' + 'cidence' like an incident happening, which can help you remember it relates to the occurrence of asthma."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=handle&type=2",
-      "chapter": "基本词汇 动词200 Unit 7"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=incidence%20of%20asthma&type=2",
+      "chapter": "认知词汇 健康分类 吸烟与被动吸烟"
     },
     {
-      "word": "transport network",
-      "pronunciation": "/ˈtrænspɔrt ˈnɛtˌwɜrk/",
+      "word": "guarantee",
+      "pronunciation": "/ˌɡærənˈti/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "运输网络",
-          "en": "A system of transport that connects different places."
+          "pos": "v.",
+          "zh": "保证",
+          "en": "To promise that something will happen or be done."
         },
         {
           "pos": "n.",
-          "zh": "交通网络",
-          "en": "The various methods and routes used for moving people or goods."
+          "zh": "保证",
+          "en": "A formal assurance that certain conditions will be fulfilled."
         }
       ],
       "examples": [
         {
-          "en": "A well-developed transport network is essential for economic growth.",
-          "zh": "发达的运输网络对经济增长至关重要。"
+          "en": "The company guarantees that the product will last for five years.",
+          "zh": "公司保证该产品将使用五年。"
         },
         {
-          "en": "Many cities are improving their transport networks to reduce traffic congestion.",
-          "zh": "许多城市正在改善其交通网络以减少交通拥堵。"
+          "en": "She received a guarantee for her new car's warranty.",
+          "zh": "她收到了新车质保的保证。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=transport%20network&type=2",
-      "chapter": "阅读真题认知词汇 交通阻塞"
+      "memoryTips": {
+        "association": "Think of 'guarantee' as a 'guard' that ensures something will happen."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=guarantee&type=2",
+      "chapter": "基本词汇 动词200 Unit 7"
     }
   ]
 }

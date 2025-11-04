@@ -1,67 +1,69 @@
 {
-  "generated": "2025-11-03T22:08:15.728Z",
+  "generated": "2025-11-04T22:07:50.077Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "follow",
-      "pronunciation": "/ˈfɑloʊ/",
+      "word": "violate",
+      "pronunciation": "/ˈvaɪəˌleɪt/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "跟随",
-          "en": "To go after someone or something."
+          "zh": "违反",
+          "en": "To break or disregard a law, rule, or agreement."
         },
         {
-          "pos": "n.",
-          "zh": "追随者",
-          "en": "A person who supports or believes in someone or something."
+          "pos": "v.",
+          "zh": "侵犯",
+          "en": "To treat someone or something in a way that is disrespectful or harmful."
         }
       ],
       "examples": [
         {
-          "en": "Many people choose to follow their favorite celebrities on social media.",
-          "zh": "许多人选择在社交媒体上关注他们最喜欢的名人。"
+          "en": "The company was fined for violating environmental regulations.",
+          "zh": "该公司因违反环保法规而被罚款。"
         },
         {
-          "en": "He decided to follow the instructions carefully to avoid mistakes.",
-          "zh": "他决定仔细遵循说明，以避免错误。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=follow&type=2",
-      "chapter": "基本词汇 动词200 Unit 7"
-    },
-    {
-      "word": "food",
-      "pronunciation": "/fuːd/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "食物",
-          "en": "Any substance that people or animals eat or drink."
-        },
-        {
-          "pos": "v.",
-          "zh": "喂养",
-          "en": "To provide someone or something with nourishment."
-        }
-      ],
-      "examples": [
-        {
-          "en": "I enjoy trying different types of food from various cultures.",
-          "zh": "我喜欢尝试来自不同文化的各种食物。"
-        },
-        {
-          "en": "It is important to food your pets with healthy meals.",
-          "zh": "给你的宠物提供健康饮食是很重要的。"
+          "en": "He felt that his privacy was violated by the media.",
+          "zh": "他觉得自己的隐私被媒体侵犯了。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'food' as 'fuel' for your body, similar to what cars need to run."
+        "association": "Think of 'violate' as 'violation' of rules, which can help you remember its meaning."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=food&type=2",
-      "chapter": "核心词汇 健康话题 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=violate&type=2",
+      "chapter": "核心词汇 民主与权利 Unit 5"
+    },
+    {
+      "word": "prosperous",
+      "pronunciation": "/ˈprɒspərəs/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "繁荣的",
+          "en": "Having success, wealth, or good fortune."
+        },
+        {
+          "pos": "adj.",
+          "zh": "兴旺的",
+          "en": "Characterized by growth and success in business or life."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The prosperous city attracted many new businesses and residents.",
+          "zh": "这个繁荣的城市吸引了许多新企业和居民。"
+        },
+        {
+          "en": "After years of hard work, he finally became prosperous and happy.",
+          "zh": "经过多年的努力工作，他终于变得繁荣和快乐。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'prosper' as 'prosperous', where both words are linked to success and wealth."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=prosperous&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 15"
     }
   ]
 }

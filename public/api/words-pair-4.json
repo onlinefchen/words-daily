@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-03T22:08:15.728Z",
+  "generated": "2025-11-04T22:07:50.077Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "junk",
-      "pronunciation": "/dʒʌŋk/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "垃圾",
-          "en": "Old or unwanted items that are no longer useful."
-        },
-        {
-          "pos": "v.",
-          "zh": "丢弃",
-          "en": "To throw away or discard something useless."
-        }
-      ],
-      "examples": [
-        {
-          "en": "He decided to throw away the junk in his garage.",
-          "zh": "他决定扔掉车库里的垃圾。"
-        },
-        {
-          "en": "Don't let junk accumulate in your living space.",
-          "zh": "不要让垃圾在你的生活空间中堆积。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'junk' as 'junk food' which is unhealthy and often unwanted."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=junk&type=2",
-      "chapter": "核心词汇 健康话题 Unit 4"
-    },
-    {
-      "word": "evil",
-      "pronunciation": "/ˈiːvəl/",
+      "word": "guilty",
+      "pronunciation": "/ˈɡɪlti/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "邪恶的",
-          "en": "Something that causes harm or is morally wrong."
+          "zh": "内疚的",
+          "en": "Feeling responsible for a bad action."
         },
         {
-          "pos": "n.",
-          "zh": "邪恶",
-          "en": "The quality of being morally bad or wicked."
+          "pos": "adj.",
+          "zh": "有罪的",
+          "en": "Having committed a crime or wrongdoing."
         }
       ],
       "examples": [
         {
-          "en": "The evil villain plotted to take over the world.",
-          "zh": "那个邪恶的恶棍策划统治世界。"
+          "en": "She felt guilty for not helping her friend in need.",
+          "zh": "她因为没有帮助需要她的朋友而感到内疚。"
         },
         {
-          "en": "People often struggle against the forces of evil in society.",
-          "zh": "人们常常在社会中与邪恶势力斗争。"
+          "en": "The jury found him guilty of the crime after the trial.",
+          "zh": "陪审团在审判后裁定他对该罪行有罪。"
         }
       ],
       "memoryTips": {
-        "association": "You can associate 'evil' with 'villains' in stories or movies, as they often embody evil traits."
+        "association": "Think of 'guilt' as the feeling that weighs you down like a heavy anchor."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=evil&type=2",
-      "chapter": "核心词汇 法制与犯罪 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=guilty&type=2",
+      "chapter": "核心词汇 伦理与道德 Unit 3"
+    },
+    {
+      "word": "destiny",
+      "pronunciation": "/ˈdɛs.tɪ.ni/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "命运",
+          "en": "The events that will necessarily happen to a person in the future."
+        },
+        {
+          "pos": "n.",
+          "zh": "天命",
+          "en": "A predetermined course of events that is often seen as unavoidable."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many believe that our destiny is shaped by our choices.",
+          "zh": "许多人相信我们的命运是由我们的选择决定的。"
+        },
+        {
+          "en": "She felt it was her destiny to become a great artist.",
+          "zh": "她觉得成为一位伟大艺术家是她的命运。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'destiny' comes from the Latin 'destinare', meaning 'to determine' or 'to make firm'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=destiny&type=2",
+      "chapter": "基本词汇 名词200 Unit 3"
     }
   ]
 }

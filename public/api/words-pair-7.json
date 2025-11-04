@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-03T22:08:15.728Z",
+  "generated": "2025-11-04T22:07:50.077Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "aesthetic",
-      "pronunciation": "/ɛsˈθɛtɪk/",
+      "word": "strain",
+      "pronunciation": "/streɪn/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "美学的；审美的",
-          "en": "Related to beauty or the appreciation of beauty."
+          "pos": "v.",
+          "zh": "施加压力",
+          "en": "To exert pressure or force on something."
         },
         {
           "pos": "n.",
-          "zh": "美学；审美观",
-          "en": "A set of principles concerned with the nature and appreciation of beauty."
+          "zh": "压力",
+          "en": "A state of tension or stress."
         }
       ],
       "examples": [
         {
-          "en": "The aesthetic design of the building attracts many visitors.",
-          "zh": "这座建筑美学设计吸引了许多游客。"
+          "en": "The constant strain of work led to his health problems.",
+          "zh": "持续的工作压力导致了他的健康问题。"
         },
         {
-          "en": "Her artwork reflects a unique aesthetic vision and style.",
-          "zh": "她的艺术作品反映出独特的美学视野和风格。"
+          "en": "She felt a strain in her back after lifting the heavy box.",
+          "zh": "搬动重箱子后，她感到背部有些紧张。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'aesthetic' as 'a scene that is aesthetically pleasing', like a beautiful painting or a scenic view."
+        "association": "Think of 'strain' as a string being pulled tight; it represents tension."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aesthetic&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=strain&type=2",
+      "chapter": "基本词汇 名词200 Unit 8"
     },
     {
-      "word": "weary",
-      "pronunciation": "/ˈwɪəri/",
+      "word": "demanding",
+      "pronunciation": "/dɪˈmændɪŋ/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "疲惫的",
-          "en": "Feeling very tired, especially after a lot of work."
+          "zh": "苛求的",
+          "en": "Something that requires a lot of effort or attention."
         },
         {
-          "pos": "v.",
-          "zh": "厌倦",
-          "en": "To become tired or bored of something."
+          "pos": "adj.",
+          "zh": "要求高的",
+          "en": "A person or situation that is very hard to satisfy."
         }
       ],
       "examples": [
         {
-          "en": "After the long hike, I felt extremely weary and needed rest.",
-          "zh": "经过长时间的远足，我感到非常疲惫，需要休息。"
+          "en": "The job can be very demanding, requiring long hours and dedication.",
+          "zh": "这份工作可能非常苛求，需要长时间和奉献精神。"
         },
         {
-          "en": "She was weary of the constant noise in the city.",
-          "zh": "她对城市里不断的噪音感到厌倦。"
+          "en": "She is a demanding teacher who expects her students to excel.",
+          "zh": "她是一位要求严格的老师，期望学生表现出色。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'weary' traveler who needs to rest after a long journey."
+        "association": "Think of 'demanding' as a 'demand' for high standards, similar to a strict parent."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=weary&type=2",
-      "chapter": "核心词汇 工作与生活 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=demanding&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 5"
     }
   ]
 }

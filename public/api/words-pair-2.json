@@ -1,69 +1,64 @@
 {
-  "generated": "2025-11-03T22:08:15.728Z",
+  "generated": "2025-11-04T22:07:50.076Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "poison",
-      "pronunciation": "/ˈpɔɪ.zən/",
+      "word": "discourteous",
+      "pronunciation": "/dɪsˈkɜr.t̬əs/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "毒药",
-          "en": "A substance that can cause illness or death when ingested."
-        },
-        {
-          "pos": "v.",
-          "zh": "毒害",
-          "en": "To make something harmful or deadly, especially by adding poison."
+          "pos": "adj.",
+          "zh": "无礼的",
+          "en": "Not showing proper respect or manners."
         }
       ],
       "examples": [
         {
-          "en": "The scientist studied how poison affects the human body.",
-          "zh": "科学家研究毒药如何影响人体。"
+          "en": "It is discourteous to interrupt someone while they are speaking.",
+          "zh": "在某人说话时打断他们是不礼貌的。"
         },
         {
-          "en": "He was poisoned by a toxic substance in the food.",
-          "zh": "他被食物中的有毒物质毒害了。"
+          "en": "She found his discourteous behavior very upsetting during the meeting.",
+          "zh": "她发现他在会议上无礼的行为让人非常不快。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'poison' as a 'poisonous' drink that can harm you."
+        "association": "Think of 'discourteous' as 'dis-courtesy,' meaning the absence of courtesy."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=poison&type=2",
-      "chapter": "核心词汇 环境保护 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=discourteous&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 3"
     },
     {
-      "word": "vibration",
-      "pronunciation": "/vaɪˈbreɪʃən/",
+      "word": "hypertension",
+      "pronunciation": "/haɪpərˈtɛnʃən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "震动",
-          "en": "A continuous shaking or oscillation of an object."
+          "zh": "高血压",
+          "en": "A medical condition where the blood pressure in the arteries is consistently too high."
         },
         {
-          "pos": "v.",
-          "zh": "振动",
-          "en": "To move back and forth quickly."
+          "pos": "n.",
+          "zh": "压力",
+          "en": "An increased level of stress or tension in the body."
         }
       ],
       "examples": [
         {
-          "en": "The vibration of the speakers made the whole room shake.",
-          "zh": "扬声器的震动使整个房间摇晃。"
+          "en": "Many people with hypertension may not experience any symptoms.",
+          "zh": "许多高血压患者可能没有任何症状。"
         },
         {
-          "en": "He could feel the vibration of the train approaching.",
-          "zh": "他能感觉到火车接近时的震动。"
+          "en": "Managing hypertension is crucial for overall health and well-being.",
+          "zh": "管理高血压对整体健康和幸福至关重要。"
         }
       ],
       "memoryTips": {
-        "association": "Think of the word 'vibrate' as something that shakes or moves energetically, like a phone on silent mode."
+        "etymology": "The term 'hypertension' comes from the Greek 'hyper-' meaning 'over' and 'tension' meaning 'pressure'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vibration&type=2",
-      "chapter": "认知词汇 自然分类 地震"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=hypertension&type=2",
+      "chapter": "核心词汇 健康话题 Unit 3"
     }
   ]
 }

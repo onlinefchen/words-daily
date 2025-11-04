@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-03T22:08:15.729Z",
+  "generated": "2025-11-04T22:07:50.077Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "excessive",
-      "pronunciation": "/ɪkˈsɛsɪv/",
+      "word": "susceptible",
+      "pronunciation": "/səˈsɛptəbl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "过多的",
-          "en": "More than what is necessary or reasonable."
+          "zh": "易受影响的",
+          "en": "Able to be easily influenced or affected by something."
         },
         {
           "pos": "adj.",
-          "zh": "极端的",
-          "en": "Extreme or excessive in amount or degree."
+          "zh": "易患病的",
+          "en": "Likely to suffer from a particular condition or illness."
         }
       ],
       "examples": [
         {
-          "en": "The excessive heat caused many people to stay indoors.",
-          "zh": "过多的热量使很多人待在室内。"
+          "en": "Children are often more susceptible to infections than adults.",
+          "zh": "儿童通常比成年人更容易感染。"
         },
         {
-          "en": "She received excessive praise for her simple achievement.",
-          "zh": "她因简单的成就而获得了过多的赞扬。"
+          "en": "Some people are more susceptible to stress during exams.",
+          "zh": "有些人在考试期间更容易受到压力的影响。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'excess' which sounds similar, reminding you of too much of something."
+        "association": "Think of 'susceptible' as being 'susceptible to' ideas or influences, like a sponge soaking up water."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=excessive&type=2",
-      "chapter": "核心词汇 健康话题 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=susceptible&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 18"
     },
     {
-      "word": "pass",
-      "pronunciation": "/pæs/",
+      "word": "corruption",
+      "pronunciation": "/kəˈrʌpʃən/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "通过",
-          "en": "To move past something or to succeed in a test or course."
+          "pos": "n.",
+          "zh": "腐败",
+          "en": "Dishonest or unethical behavior by people in power."
         },
         {
           "pos": "n.",
-          "zh": "通行证",
-          "en": "A document or permission allowing someone to enter or pass."
+          "zh": "损坏",
+          "en": "The process of something becoming damaged or altered."
         }
       ],
       "examples": [
         {
-          "en": "She managed to pass the IELTS exam with a high score.",
-          "zh": "她成功地以高分通过了雅思考试。"
+          "en": "Corruption in government can lead to serious social issues.",
+          "zh": "政府中的腐败可能导致严重的社会问题。"
         },
         {
-          "en": "He showed his pass to the security guard at the entrance.",
-          "zh": "他在入口处向保安出示了通行证。"
+          "en": "The corruption of data can affect the accuracy of research.",
+          "zh": "数据的损坏可能影响研究的准确性。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'pass' as moving past obstacles or challenges in life, like passing through a door."
+        "association": "Think of 'corrupt' as 'broken' or 'damaged', which can help remember its meanings."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pass&type=2",
-      "chapter": "基本词汇 动词200 Unit 9"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=corruption&type=2",
+      "chapter": "核心词汇 民主与权利 Unit 1"
     }
   ]
 }

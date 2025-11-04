@@ -1,754 +1,754 @@
 {
-  "generated": "2025-11-03T22:08:15.727Z",
-  "date": "2025-11-03",
+  "generated": "2025-11-04T22:07:50.075Z",
+  "date": "2025-11-04",
   "totalWords": 20,
   "words": [
     {
-      "id": "w00139",
-      "word": "handle",
+      "id": "w03193",
+      "word": "incidence of asthma",
+      "type": "phrase",
+      "chapterIndex": 34,
+      "globalIndex": 3193,
+      "chapter": "ch116",
+      "chapterName": "认知词汇 健康分类 吸烟与被动吸烟",
+      "pronunciation": {
+        "us": "/ˈɪnsɪdəns əv ˈæsmə/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "哮喘的发生率",
+          "en": "The frequency or occurrence of asthma cases in a population."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The incidence of asthma has increased in urban areas.",
+          "zh": "城市地区的哮喘发生率增加了。"
+        },
+        {
+          "en": "Researchers study the incidence of asthma among children.",
+          "zh": "研究人员研究儿童中哮喘的发生率。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'incidence' as 'in' + 'cidence' like an incident happening, which can help you remember it relates to the occurrence of asthma."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=incidence%20of%20asthma&type=2"
+    },
+    {
+      "id": "w00138",
+      "word": "guarantee",
       "type": "single",
-      "chapterIndex": 19,
-      "globalIndex": 139,
+      "chapterIndex": 18,
+      "globalIndex": 138,
       "chapter": "ch007",
       "chapterName": "基本词汇 动词200 Unit 7",
       "pronunciation": {
-        "us": "/ˈhændl/"
+        "us": "/ˌɡærənˈti/"
       },
       "meanings": [
         {
           "pos": "v.",
-          "zh": "处理",
-          "en": "To manage or deal with something."
+          "zh": "保证",
+          "en": "To promise that something will happen or be done."
         },
         {
           "pos": "n.",
-          "zh": "把手",
-          "en": "A part of an object used to hold or control it."
+          "zh": "保证",
+          "en": "A formal assurance that certain conditions will be fulfilled."
         }
       ],
       "examples": [
         {
-          "en": "She knows how to handle difficult situations with ease.",
-          "zh": "她知道如何轻松处理困难的情况。"
+          "en": "The company guarantees that the product will last for five years.",
+          "zh": "公司保证该产品将使用五年。"
         },
         {
-          "en": "The handle of the door was broken and needed repair.",
-          "zh": "门的把手坏了，需要修理。"
+          "en": "She received a guarantee for her new car's warranty.",
+          "zh": "她收到了新车质保的保证。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'handle' as 'hand' + 'able'. If something is 'handleable', it means you can manage it with your hands."
+        "association": "Think of 'guarantee' as a 'guard' that ensures something will happen."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=handle&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=guarantee&type=2"
     },
     {
-      "id": "w05226",
-      "word": "transport network",
-      "type": "phrase",
-      "chapterIndex": 35,
-      "globalIndex": 5226,
-      "chapter": "ch162",
-      "chapterName": "阅读真题认知词汇 交通阻塞",
-      "pronunciation": {
-        "us": "/ˈtrænspɔrt ˈnɛtˌwɜrk/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "运输网络",
-          "en": "A system of transport that connects different places."
-        },
-        {
-          "pos": "n.",
-          "zh": "交通网络",
-          "en": "The various methods and routes used for moving people or goods."
-        }
-      ],
-      "examples": [
-        {
-          "en": "A well-developed transport network is essential for economic growth.",
-          "zh": "发达的运输网络对经济增长至关重要。"
-        },
-        {
-          "en": "Many cities are improving their transport networks to reduce traffic congestion.",
-          "zh": "许多城市正在改善其交通网络以减少交通拥堵。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=transport%20network&type=2"
-    },
-    {
-      "id": "w00970",
-      "word": "poison",
+      "id": "w01249",
+      "word": "discourteous",
       "type": "single",
-      "chapterIndex": 10,
-      "globalIndex": 970,
-      "chapter": "ch049",
-      "chapterName": "核心词汇 环境保护 Unit 4",
+      "chapterIndex": 9,
+      "globalIndex": 1249,
+      "chapter": "ch063",
+      "chapterName": "核心词汇 青少年教育 Unit 3",
       "pronunciation": {
-        "us": "/ˈpɔɪ.zən/"
+        "us": "/dɪsˈkɜr.t̬əs/"
       },
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "毒药",
-          "en": "A substance that can cause illness or death when ingested."
-        },
-        {
-          "pos": "v.",
-          "zh": "毒害",
-          "en": "To make something harmful or deadly, especially by adding poison."
+          "pos": "adj.",
+          "zh": "无礼的",
+          "en": "Not showing proper respect or manners."
         }
       ],
       "examples": [
         {
-          "en": "The scientist studied how poison affects the human body.",
-          "zh": "科学家研究毒药如何影响人体。"
+          "en": "It is discourteous to interrupt someone while they are speaking.",
+          "zh": "在某人说话时打断他们是不礼貌的。"
         },
         {
-          "en": "He was poisoned by a toxic substance in the food.",
-          "zh": "他被食物中的有毒物质毒害了。"
+          "en": "She found his discourteous behavior very upsetting during the meeting.",
+          "zh": "她发现他在会议上无礼的行为让人非常不快。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'poison' as a 'poisonous' drink that can harm you."
+        "association": "Think of 'discourteous' as 'dis-courtesy,' meaning the absence of courtesy."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=poison&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=discourteous&type=2"
     },
     {
-      "id": "w02525",
-      "word": "vibration",
+      "id": "w01853",
+      "word": "hypertension",
       "type": "single",
-      "chapterIndex": 78,
-      "globalIndex": 2525,
-      "chapter": "ch102",
-      "chapterName": "认知词汇 自然分类 地震",
+      "chapterIndex": 13,
+      "globalIndex": 1853,
+      "chapter": "ch093",
+      "chapterName": "核心词汇 健康话题 Unit 3",
       "pronunciation": {
-        "us": "/vaɪˈbreɪʃən/"
+        "us": "/haɪpərˈtɛnʃən/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "震动",
-          "en": "A continuous shaking or oscillation of an object."
+          "zh": "高血压",
+          "en": "A medical condition where the blood pressure in the arteries is consistently too high."
         },
         {
-          "pos": "v.",
-          "zh": "振动",
-          "en": "To move back and forth quickly."
+          "pos": "n.",
+          "zh": "压力",
+          "en": "An increased level of stress or tension in the body."
         }
       ],
       "examples": [
         {
-          "en": "The vibration of the speakers made the whole room shake.",
-          "zh": "扬声器的震动使整个房间摇晃。"
+          "en": "Many people with hypertension may not experience any symptoms.",
+          "zh": "许多高血压患者可能没有任何症状。"
         },
         {
-          "en": "He could feel the vibration of the train approaching.",
-          "zh": "他能感觉到火车接近时的震动。"
+          "en": "Managing hypertension is crucial for overall health and well-being.",
+          "zh": "管理高血压对整体健康和幸福至关重要。"
         }
       ],
       "memoryTips": {
-        "association": "Think of the word 'vibrate' as something that shakes or moves energetically, like a phone on silent mode."
+        "etymology": "The term 'hypertension' comes from the Greek 'hyper-' meaning 'over' and 'tension' meaning 'pressure'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vibration&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=hypertension&type=2"
     },
     {
-      "id": "w01731",
+      "id": "w01618",
+      "word": "compassion",
+      "type": "single",
+      "chapterIndex": 18,
+      "globalIndex": 1618,
+      "chapter": "ch081",
+      "chapterName": "核心词汇 工作与生活 Unit 1",
+      "pronunciation": {
+        "us": "/kəmˈpæʃ.ən/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "同情，怜悯",
+          "en": "A feeling of deep sympathy and concern for someone who is suffering."
+        },
+        {
+          "pos": "n.",
+          "zh": "慈悲，仁爱",
+          "en": "A desire to help those who are in pain or distress."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Her compassion for the homeless inspired many to help.",
+          "zh": "她对无家可归者的同情激励了许多人提供帮助。"
+        },
+        {
+          "en": "Showing compassion can make a big difference in someone's life.",
+          "zh": "展现同情心可以对某人的生活产生重大影响。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'compassion' as 'co-passion', where you share the feelings of others."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compassion&type=2"
+    },
+    {
+      "id": "w01620",
+      "word": "compromise",
+      "type": "single",
+      "chapterIndex": 20,
+      "globalIndex": 1620,
+      "chapter": "ch081",
+      "chapterName": "核心词汇 工作与生活 Unit 1",
+      "pronunciation": {
+        "us": "/ˈkɒmprəmaɪz/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "妥协",
+          "en": "To make a mutual agreement where both sides give up something."
+        },
+        {
+          "pos": "n.",
+          "zh": "妥协",
+          "en": "An agreement reached by each side making concessions."
+        }
+      ],
+      "examples": [
+        {
+          "en": "They decided to compromise on the terms of the contract.",
+          "zh": "他们决定在合同条款上做出妥协。"
+        },
+        {
+          "en": "Finding a compromise is essential for a successful negotiation.",
+          "zh": "找到妥协对成功的谈判至关重要。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'compromise' as 'com' (together) and 'promise' (to agree), meaning a mutual agreement."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compromise&type=2"
+    },
+    {
+      "id": "w01143",
       "word": "guilty",
       "type": "single",
-      "chapterIndex": 11,
-      "globalIndex": 1731,
-      "chapter": "ch087",
-      "chapterName": "核心词汇 法制与犯罪 Unit 2",
+      "chapterIndex": 3,
+      "globalIndex": 1143,
+      "chapter": "ch058",
+      "chapterName": "核心词汇 伦理与道德 Unit 3",
       "pronunciation": {
         "us": "/ˈɡɪlti/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "有罪的",
-          "en": "Feeling responsible for a wrongdoing or crime."
+          "zh": "内疚的",
+          "en": "Feeling responsible for a bad action."
         },
         {
           "pos": "adj.",
-          "zh": "内疚的",
-          "en": "Feeling regret or remorse about something you did."
+          "zh": "有罪的",
+          "en": "Having committed a crime or wrongdoing."
         }
       ],
       "examples": [
         {
           "en": "She felt guilty for not helping her friend in need.",
-          "zh": "她因为没有帮助需要帮助的朋友而感到内疚。"
+          "zh": "她因为没有帮助需要她的朋友而感到内疚。"
         },
         {
-          "en": "The guilty man was sentenced to ten years in prison.",
-          "zh": "这个有罪的人被判处十年监禁。"
+          "en": "The jury found him guilty of the crime after the trial.",
+          "zh": "陪审团在审判后裁定他对该罪行有罪。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'guilt' as a weight on your conscience, making you feel heavy and responsible."
+        "association": "Think of 'guilt' as the feeling that weighs you down like a heavy anchor."
       },
       "audioUrl": "https://dict.youdao.com/dictvoice?audio=guilty&type=2"
     },
     {
-      "id": "w00505",
-      "word": "devoid",
-      "type": "single",
-      "chapterIndex": 5,
-      "globalIndex": 505,
-      "chapter": "ch026",
-      "chapterName": "基本词汇 形容词和副词400 Unit 6",
-      "pronunciation": {
-        "us": "/dɪˈvɔɪd/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "缺乏的",
-          "en": "Completely lacking something."
-        },
-        {
-          "pos": "v.",
-          "zh": "使缺乏",
-          "en": "To remove or take away something."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The room was devoid of any furniture or decoration.",
-          "zh": "这个房间缺乏任何家具或装饰。"
-        },
-        {
-          "en": "She felt devoid of energy after the long meeting.",
-          "zh": "长时间的会议后，她感到精力匮乏。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'devoid' as 'de void' meaning 'empty space'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=devoid&type=2"
-    },
-    {
-      "id": "w01862",
-      "word": "junk",
-      "type": "single",
-      "chapterIndex": 2,
-      "globalIndex": 1862,
-      "chapter": "ch094",
-      "chapterName": "核心词汇 健康话题 Unit 4",
-      "pronunciation": {
-        "us": "/dʒʌŋk/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "垃圾",
-          "en": "Old or unwanted items that are no longer useful."
-        },
-        {
-          "pos": "v.",
-          "zh": "丢弃",
-          "en": "To throw away or discard something useless."
-        }
-      ],
-      "examples": [
-        {
-          "en": "He decided to throw away the junk in his garage.",
-          "zh": "他决定扔掉车库里的垃圾。"
-        },
-        {
-          "en": "Don't let junk accumulate in your living space.",
-          "zh": "不要让垃圾在你的生活空间中堆积。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'junk' as 'junk food' which is unhealthy and often unwanted."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=junk&type=2"
-    },
-    {
-      "id": "w01729",
-      "word": "evil",
-      "type": "single",
-      "chapterIndex": 9,
-      "globalIndex": 1729,
-      "chapter": "ch087",
-      "chapterName": "核心词汇 法制与犯罪 Unit 2",
-      "pronunciation": {
-        "us": "/ˈiːvəl/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "邪恶的",
-          "en": "Something that causes harm or is morally wrong."
-        },
-        {
-          "pos": "n.",
-          "zh": "邪恶",
-          "en": "The quality of being morally bad or wicked."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The evil villain plotted to take over the world.",
-          "zh": "那个邪恶的恶棍策划统治世界。"
-        },
-        {
-          "en": "People often struggle against the forces of evil in society.",
-          "zh": "人们常常在社会中与邪恶势力斗争。"
-        }
-      ],
-      "memoryTips": {
-        "association": "You can associate 'evil' with 'villains' in stories or movies, as they often embody evil traits."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=evil&type=2"
-    },
-    {
-      "id": "w01771",
-      "word": "protest",
-      "type": "single",
-      "chapterIndex": 11,
-      "globalIndex": 1771,
-      "chapter": "ch089",
-      "chapterName": "核心词汇 法制与犯罪 Unit 4",
-      "pronunciation": {
-        "us": "/ˈproʊ.tɛst/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "抗议",
-          "en": "To express strong disagreement about something."
-        },
-        {
-          "pos": "n.",
-          "zh": "抗议活动",
-          "en": "An event where people show their disagreement publicly."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Many students decided to protest against the new school rules.",
-          "zh": "许多学生决定抗议新的校规。"
-        },
-        {
-          "en": "The protest attracted thousands of people from all backgrounds.",
-          "zh": "这场抗议吸引了来自各行各业的数千人。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'protest' comes from Latin 'protestari', meaning 'to testify publicly'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=protest&type=2"
-    },
-    {
-      "id": "w01306",
-      "word": "indulge",
-      "type": "single",
-      "chapterIndex": 6,
-      "globalIndex": 1306,
-      "chapter": "ch066",
-      "chapterName": "核心词汇 青少年教育 Unit 6",
-      "pronunciation": {
-        "us": "/ɪnˈdʌldʒ/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "沉迷于，放纵",
-          "en": "To allow oneself to enjoy something, often excessively."
-        },
-        {
-          "pos": "v.",
-          "zh": "满足，迎合",
-          "en": "To give in to someone's wishes, desires, or needs."
-        }
-      ],
-      "examples": [
-        {
-          "en": "She decided to indulge in a delicious dessert after dinner.",
-          "zh": "她决定在晚餐后享用一份美味的甜点。"
-        },
-        {
-          "en": "Many people indulge their children with gifts and treats.",
-          "zh": "许多人用礼物和款待来满足他们的孩子。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'indulge' as 'in-dulge', where 'dulge' sounds like 'deluge', meaning to flood with enjoyment."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=indulge&type=2"
-    },
-    {
-      "id": "w00131",
-      "word": "follow",
-      "type": "single",
-      "chapterIndex": 11,
-      "globalIndex": 131,
-      "chapter": "ch007",
-      "chapterName": "基本词汇 动词200 Unit 7",
-      "pronunciation": {
-        "us": "/ˈfɑloʊ/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "跟随",
-          "en": "To go after someone or something."
-        },
-        {
-          "pos": "n.",
-          "zh": "追随者",
-          "en": "A person who supports or believes in someone or something."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Many people choose to follow their favorite celebrities on social media.",
-          "zh": "许多人选择在社交媒体上关注他们最喜欢的名人。"
-        },
-        {
-          "en": "He decided to follow the instructions carefully to avoid mistakes.",
-          "zh": "他决定仔细遵循说明，以避免错误。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=follow&type=2"
-    },
-    {
-      "id": "w01846",
-      "word": "food",
-      "type": "single",
-      "chapterIndex": 6,
-      "globalIndex": 1846,
-      "chapter": "ch093",
-      "chapterName": "核心词汇 健康话题 Unit 3",
-      "pronunciation": {
-        "us": "/fuːd/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "食物",
-          "en": "Any substance that people or animals eat or drink."
-        },
-        {
-          "pos": "v.",
-          "zh": "喂养",
-          "en": "To provide someone or something with nourishment."
-        }
-      ],
-      "examples": [
-        {
-          "en": "I enjoy trying different types of food from various cultures.",
-          "zh": "我喜欢尝试来自不同文化的各种食物。"
-        },
-        {
-          "en": "It is important to food your pets with healthy meals.",
-          "zh": "给你的宠物提供健康饮食是很重要的。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'food' as 'fuel' for your body, similar to what cars need to run."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=food&type=2"
-    },
-    {
-      "id": "w00421",
-      "word": "aesthetic",
-      "type": "single",
-      "chapterIndex": 1,
-      "globalIndex": 421,
-      "chapter": "ch022",
-      "chapterName": "基本词汇 形容词和副词400 Unit 2",
-      "pronunciation": {
-        "us": "/ɛsˈθɛtɪk/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "美学的；审美的",
-          "en": "Related to beauty or the appreciation of beauty."
-        },
-        {
-          "pos": "n.",
-          "zh": "美学；审美观",
-          "en": "A set of principles concerned with the nature and appreciation of beauty."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The aesthetic design of the building attracts many visitors.",
-          "zh": "这座建筑美学设计吸引了许多游客。"
-        },
-        {
-          "en": "Her artwork reflects a unique aesthetic vision and style.",
-          "zh": "她的艺术作品反映出独特的美学视野和风格。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'aesthetic' as 'a scene that is aesthetically pleasing', like a beautiful painting or a scenic view."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aesthetic&type=2"
-    },
-    {
-      "id": "w01697",
-      "word": "weary",
-      "type": "single",
-      "chapterIndex": 17,
-      "globalIndex": 1697,
-      "chapter": "ch085",
-      "chapterName": "核心词汇 工作与生活 Unit 5",
-      "pronunciation": {
-        "us": "/ˈwɪəri/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "疲惫的",
-          "en": "Feeling very tired, especially after a lot of work."
-        },
-        {
-          "pos": "v.",
-          "zh": "厌倦",
-          "en": "To become tired or bored of something."
-        }
-      ],
-      "examples": [
-        {
-          "en": "After the long hike, I felt extremely weary and needed rest.",
-          "zh": "经过长时间的远足，我感到非常疲惫，需要休息。"
-        },
-        {
-          "en": "She was weary of the constant noise in the city.",
-          "zh": "她对城市里不断的噪音感到厌倦。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of a 'weary' traveler who needs to rest after a long journey."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=weary&type=2"
-    },
-    {
-      "id": "w00487",
-      "word": "cooperative",
+      "id": "w00247",
+      "word": "destiny",
       "type": "single",
       "chapterIndex": 7,
-      "globalIndex": 487,
-      "chapter": "ch025",
-      "chapterName": "基本词汇 形容词和副词400 Unit 5",
+      "globalIndex": 247,
+      "chapter": "ch013",
+      "chapterName": "基本词汇 名词200 Unit 3",
       "pronunciation": {
-        "us": "/koʊˈɒpərətɪv/"
+        "us": "/ˈdɛs.tɪ.ni/"
       },
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "合作的",
-          "en": "Willing to work together with others."
+          "pos": "n.",
+          "zh": "命运",
+          "en": "The events that will necessarily happen to a person in the future."
         },
         {
           "pos": "n.",
-          "zh": "合作社",
-          "en": "An organization owned and operated by a group of individuals for mutual benefit."
+          "zh": "天命",
+          "en": "A predetermined course of events that is often seen as unavoidable."
         }
       ],
       "examples": [
         {
-          "en": "The cooperative project improved the local community's resources significantly.",
-          "zh": "这个合作项目显著改善了当地社区的资源。"
+          "en": "Many believe that our destiny is shaped by our choices.",
+          "zh": "许多人相信我们的命运是由我们的选择决定的。"
         },
         {
-          "en": "She is very cooperative when it comes to group tasks at school.",
-          "zh": "在学校的团队任务中，她非常合作。"
+          "en": "She felt it was her destiny to become a great artist.",
+          "zh": "她觉得成为一位伟大艺术家是她的命运。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'cooperative' comes from the Latin 'cooperari', meaning 'to work together'.",
-        "association": "Think of 'cooperative' as 'co-op' where people join together to help each other."
+        "etymology": "The word 'destiny' comes from the Latin 'destinare', meaning 'to determine' or 'to make firm'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cooperative&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=destiny&type=2"
     },
     {
-      "id": "w00154",
-      "word": "lower",
+      "id": "w00806",
+      "word": "catastrophe",
       "type": "single",
-      "chapterIndex": 14,
-      "globalIndex": 154,
-      "chapter": "ch008",
-      "chapterName": "基本词汇 动词200 Unit 8",
+      "chapterIndex": 6,
+      "globalIndex": 806,
+      "chapter": "ch041",
+      "chapterName": "核心词汇 科技发展 Unit 1",
       "pronunciation": {
-        "us": "/ˈloʊ.ər/"
+        "us": "/kəˈtæs.trə.fi/"
       },
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "降低",
-          "en": "To make something less in amount, degree, or size."
+          "pos": "n.",
+          "zh": "灾难",
+          "en": "A sudden event that causes great damage or suffering."
         },
         {
           "pos": "n.",
-          "zh": "较低的状态",
-          "en": "The condition of being less than something else."
+          "zh": "大失败",
+          "en": "A complete failure or disaster in a situation."
         }
       ],
       "examples": [
         {
-          "en": "The company decided to lower the prices of its products.",
-          "zh": "公司决定降低产品的价格。"
+          "en": "The earthquake resulted in a catastrophe for the entire region.",
+          "zh": "这场地震导致了整个地区的灾难。"
         },
         {
-          "en": "He aims to lower his running time in the next marathon.",
-          "zh": "他希望在下次马拉松中降低自己的跑步时间。"
+          "en": "Her project turned into a catastrophe due to poor planning.",
+          "zh": "由于计划不周，她的项目变成了一个大失败。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'lower' as moving downwards, like lowering a flag."
+        "association": "Think of 'cat' and 'astro' (related to stars) to remember that a catastrophe is something that can be as shocking as a cat falling from the sky."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=lower&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=catastrophe&type=2"
     },
     {
-      "id": "w01842",
-      "word": "excessive",
+      "id": "w00178",
+      "word": "realise",
       "type": "single",
-      "chapterIndex": 2,
-      "globalIndex": 1842,
-      "chapter": "ch093",
-      "chapterName": "核心词汇 健康话题 Unit 3",
-      "pronunciation": {
-        "us": "/ɪkˈsɛsɪv/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "过多的",
-          "en": "More than what is necessary or reasonable."
-        },
-        {
-          "pos": "adj.",
-          "zh": "极端的",
-          "en": "Extreme or excessive in amount or degree."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The excessive heat caused many people to stay indoors.",
-          "zh": "过多的热量使很多人待在室内。"
-        },
-        {
-          "en": "She received excessive praise for her simple achievement.",
-          "zh": "她因简单的成就而获得了过多的赞扬。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'excess' which sounds similar, reminding you of too much of something."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=excessive&type=2"
-    },
-    {
-      "id": "w00164",
-      "word": "pass",
-      "type": "single",
-      "chapterIndex": 4,
-      "globalIndex": 164,
+      "chapterIndex": 18,
+      "globalIndex": 178,
       "chapter": "ch009",
       "chapterName": "基本词汇 动词200 Unit 9",
       "pronunciation": {
-        "us": "/pæs/"
+        "us": "/ˈriːəˌlaɪz/"
       },
       "meanings": [
         {
           "pos": "v.",
-          "zh": "通过",
-          "en": "To move past something or to succeed in a test or course."
+          "zh": "意识到",
+          "en": "To become aware of something or understand it clearly."
         },
         {
-          "pos": "n.",
-          "zh": "通行证",
-          "en": "A document or permission allowing someone to enter or pass."
+          "pos": "v.",
+          "zh": "实现",
+          "en": "To make something happen or to bring it into existence."
         }
       ],
       "examples": [
         {
-          "en": "She managed to pass the IELTS exam with a high score.",
-          "zh": "她成功地以高分通过了雅思考试。"
+          "en": "I didn’t realize how important this decision was for my future.",
+          "zh": "我没有意识到这个决定对我的未来有多重要。"
         },
         {
-          "en": "He showed his pass to the security guard at the entrance.",
-          "zh": "他在入口处向保安出示了通行证。"
+          "en": "She hopes to realize her dream of becoming a doctor one day.",
+          "zh": "她希望有一天能实现她成为医生的梦想。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'pass' as moving past obstacles or challenges in life, like passing through a door."
+        "association": "Think of 'real' in 'realize' as making something real or true."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pass&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=realise&type=2"
     },
     {
-      "id": "w01229",
-      "word": "compassion",
+      "id": "w01597",
+      "word": "violate",
       "type": "single",
-      "chapterIndex": 9,
-      "globalIndex": 1229,
-      "chapter": "ch062",
-      "chapterName": "核心词汇 青少年教育 Unit 2",
+      "chapterIndex": 17,
+      "globalIndex": 1597,
+      "chapter": "ch080",
+      "chapterName": "核心词汇 民主与权利 Unit 5",
       "pronunciation": {
-        "us": "/kəmˈpæʃən/"
+        "us": "/ˈvaɪəˌleɪt/"
       },
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "同情，怜悯",
-          "en": "A feeling of deep sympathy for someone who is suffering."
+          "pos": "v.",
+          "zh": "违反",
+          "en": "To break or disregard a law, rule, or agreement."
         },
         {
-          "pos": "n.",
-          "zh": "慈悲，善良",
-          "en": "The desire to help others and show kindness."
+          "pos": "v.",
+          "zh": "侵犯",
+          "en": "To treat someone or something in a way that is disrespectful or harmful."
         }
       ],
       "examples": [
         {
-          "en": "Her compassion for the homeless inspired many to help.",
-          "zh": "她对无家可归者的同情激励了许多人去帮助。"
+          "en": "The company was fined for violating environmental regulations.",
+          "zh": "该公司因违反环保法规而被罚款。"
         },
         {
-          "en": "Compassion is essential for building a caring community.",
-          "zh": "同情心对于建立一个关怀的社区是必不可少的。"
+          "en": "He felt that his privacy was violated by the media.",
+          "zh": "他觉得自己的隐私被媒体侵犯了。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'compassion' as 'companion' + 'passion', suggesting a passionate connection with others' feelings."
+        "association": "Think of 'violate' as 'violation' of rules, which can help you remember its meaning."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compassion&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=violate&type=2"
     },
     {
-      "id": "w01823",
-      "word": "conducive",
+      "id": "w00697",
+      "word": "prosperous",
       "type": "single",
-      "chapterIndex": 3,
-      "globalIndex": 1823,
-      "chapter": "ch092",
-      "chapterName": "核心词汇 健康话题 Unit 2",
+      "chapterIndex": 17,
+      "globalIndex": 697,
+      "chapter": "ch035",
+      "chapterName": "基本词汇 形容词和副词400 Unit 15",
       "pronunciation": {
-        "us": "/kənˈduːsɪv/"
+        "us": "/ˈprɒspərəs/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "有助于的",
-          "en": "Making a situation likely or possible."
+          "zh": "繁荣的",
+          "en": "Having success, wealth, or good fortune."
+        },
+        {
+          "pos": "adj.",
+          "zh": "兴旺的",
+          "en": "Characterized by growth and success in business or life."
         }
       ],
       "examples": [
         {
-          "en": "A quiet environment is conducive to studying effectively.",
-          "zh": "安静的环境有利于高效学习。"
+          "en": "The prosperous city attracted many new businesses and residents.",
+          "zh": "这个繁荣的城市吸引了许多新企业和居民。"
         },
         {
-          "en": "Good nutrition is conducive to overall health.",
-          "zh": "良好的营养有助于整体健康。"
+          "en": "After years of hard work, he finally became prosperous and happy.",
+          "zh": "经过多年的努力工作，他终于变得繁荣和快乐。"
         }
       ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=conducive&type=2"
+      "memoryTips": {
+        "association": "Think of 'prosper' as 'prosperous', where both words are linked to success and wealth."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=prosperous&type=2"
+    },
+    {
+      "id": "w00352",
+      "word": "strain",
+      "type": "single",
+      "chapterIndex": 12,
+      "globalIndex": 352,
+      "chapter": "ch018",
+      "chapterName": "基本词汇 名词200 Unit 8",
+      "pronunciation": {
+        "us": "/streɪn/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "施加压力",
+          "en": "To exert pressure or force on something."
+        },
+        {
+          "pos": "n.",
+          "zh": "压力",
+          "en": "A state of tension or stress."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The constant strain of work led to his health problems.",
+          "zh": "持续的工作压力导致了他的健康问题。"
+        },
+        {
+          "en": "She felt a strain in her back after lifting the heavy box.",
+          "zh": "搬动重箱子后，她感到背部有些紧张。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'strain' as a string being pulled tight; it represents tension."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=strain&type=2"
+    },
+    {
+      "id": "w00496",
+      "word": "demanding",
+      "type": "single",
+      "chapterIndex": 16,
+      "globalIndex": 496,
+      "chapter": "ch025",
+      "chapterName": "基本词汇 形容词和副词400 Unit 5",
+      "pronunciation": {
+        "us": "/dɪˈmændɪŋ/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "苛求的",
+          "en": "Something that requires a lot of effort or attention."
+        },
+        {
+          "pos": "adj.",
+          "zh": "要求高的",
+          "en": "A person or situation that is very hard to satisfy."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The job can be very demanding, requiring long hours and dedication.",
+          "zh": "这份工作可能非常苛求，需要长时间和奉献精神。"
+        },
+        {
+          "en": "She is a demanding teacher who expects her students to excel.",
+          "zh": "她是一位要求严格的老师，期望学生表现出色。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'demanding' as a 'demand' for high standards, similar to a strict parent."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=demanding&type=2"
+    },
+    {
+      "id": "w00005",
+      "word": "abuse",
+      "type": "single",
+      "chapterIndex": 5,
+      "globalIndex": 5,
+      "chapter": "ch001",
+      "chapterName": "基本词汇 动词200 Unit 1",
+      "pronunciation": {
+        "us": "/əˈbjuz/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "滥用；虐待",
+          "en": "To use something in a harmful or wrong way."
+        },
+        {
+          "pos": "n.",
+          "zh": "虐待；滥用",
+          "en": "The act of treating someone or something badly."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The organization works to prevent child abuse in our community.",
+          "zh": "该组织致力于防止我们社区的儿童虐待。"
+        },
+        {
+          "en": "Many people suffer from substance abuse due to addiction.",
+          "zh": "许多人因成瘾而遭受药物滥用。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'abuse' comes from the Latin 'abusus', meaning 'to use wrongly'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=abuse&type=2"
+    },
+    {
+      "id": "w02449",
+      "word": "casualties",
+      "type": "single",
+      "chapterIndex": 2,
+      "globalIndex": 2449,
+      "chapter": "ch102",
+      "chapterName": "认知词汇 自然分类 地震",
+      "pronunciation": {
+        "us": "/ˈkæʒ.u.əl.tiz/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "伤亡人员",
+          "en": "People who are killed or injured in a war or accident."
+        },
+        {
+          "pos": "n.",
+          "zh": "损失",
+          "en": "The total number of people affected by an event, particularly in terms of injuries or deaths."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The earthquake caused many casualties and widespread destruction.",
+          "zh": "这场地震造成了许多伤亡和广泛的破坏。"
+        },
+        {
+          "en": "The report highlighted the casualties from the recent conflict.",
+          "zh": "报告强调了最近冲突中的伤亡情况。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=casualties&type=2"
+    },
+    {
+      "id": "w00747",
+      "word": "susceptible",
+      "type": "single",
+      "chapterIndex": 7,
+      "globalIndex": 747,
+      "chapter": "ch038",
+      "chapterName": "基本词汇 形容词和副词400 Unit 18",
+      "pronunciation": {
+        "us": "/səˈsɛptəbl/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "易受影响的",
+          "en": "Able to be easily influenced or affected by something."
+        },
+        {
+          "pos": "adj.",
+          "zh": "易患病的",
+          "en": "Likely to suffer from a particular condition or illness."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Children are often more susceptible to infections than adults.",
+          "zh": "儿童通常比成年人更容易感染。"
+        },
+        {
+          "en": "Some people are more susceptible to stress during exams.",
+          "zh": "有些人在考试期间更容易受到压力的影响。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'susceptible' as being 'susceptible to' ideas or influences, like a sponge soaking up water."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=susceptible&type=2"
+    },
+    {
+      "id": "w01519",
+      "word": "corruption",
+      "type": "single",
+      "chapterIndex": 19,
+      "globalIndex": 1519,
+      "chapter": "ch076",
+      "chapterName": "核心词汇 民主与权利 Unit 1",
+      "pronunciation": {
+        "us": "/kəˈrʌpʃən/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "腐败",
+          "en": "Dishonest or unethical behavior by people in power."
+        },
+        {
+          "pos": "n.",
+          "zh": "损坏",
+          "en": "The process of something becoming damaged or altered."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Corruption in government can lead to serious social issues.",
+          "zh": "政府中的腐败可能导致严重的社会问题。"
+        },
+        {
+          "en": "The corruption of data can affect the accuracy of research.",
+          "zh": "数据的损坏可能影响研究的准确性。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'corrupt' as 'broken' or 'damaged', which can help remember its meanings."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=corruption&type=2"
+    },
+    {
+      "id": "w01011",
+      "word": "assimilate",
+      "type": "single",
+      "chapterIndex": 11,
+      "globalIndex": 1011,
+      "chapter": "ch051",
+      "chapterName": "核心词汇 文化与传统 Unit 1",
+      "pronunciation": {
+        "us": "/əˈsɪməˌleɪt/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "同化",
+          "en": "To absorb and integrate new information or ideas into existing knowledge."
+        },
+        {
+          "pos": "v.",
+          "zh": "消化",
+          "en": "To adapt or adjust to a new environment or culture."
+        }
+      ],
+      "examples": [
+        {
+          "en": "It takes time to assimilate all the information from the lecture.",
+          "zh": "消化讲座中的所有信息需要时间。"
+        },
+        {
+          "en": "Many immigrants find it challenging to assimilate into a new culture.",
+          "zh": "许多移民发现融入新文化是一个挑战。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'assimilate' as 'similar' - when you assimilate, you become similar to your surroundings."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=assimilate&type=2"
+    },
+    {
+      "id": "w04582",
+      "word": "personal and professional profile",
+      "type": "phrase",
+      "chapterIndex": 40,
+      "globalIndex": 4582,
+      "chapter": "ch143",
+      "chapterName": "认知词汇 社会与生活分类 医生与药品推销",
+      "pronunciation": {
+        "us": "/ˈpɜrsənl ənd prəˈfɛʃənl ˈproʊfaɪl/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "个人与职业简介",
+          "en": "A summary of someone's personal and work experience."
+        },
+        {
+          "pos": "n.",
+          "zh": "个人与职业形象",
+          "en": "The overall impression a person gives based on their experiences."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She updated her personal and professional profile on LinkedIn.",
+          "zh": "她在LinkedIn上更新了个人与职业简介。"
+        },
+        {
+          "en": "A strong personal and professional profile can attract employers.",
+          "zh": "一个强大的个人与职业形象可以吸引雇主。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'profile' as a 'file' of your personal and work life."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=personal%20and%20professional%20profile&type=2"
     }
   ]
 }

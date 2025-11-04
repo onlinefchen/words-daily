@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-03T22:08:15.728Z",
+  "generated": "2025-11-04T22:07:50.077Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "protest",
-      "pronunciation": "/ˈproʊ.tɛst/",
+      "word": "catastrophe",
+      "pronunciation": "/kəˈtæs.trə.fi/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "抗议",
-          "en": "To express strong disagreement about something."
+          "pos": "n.",
+          "zh": "灾难",
+          "en": "A sudden event that causes great damage or suffering."
         },
         {
           "pos": "n.",
-          "zh": "抗议活动",
-          "en": "An event where people show their disagreement publicly."
+          "zh": "大失败",
+          "en": "A complete failure or disaster in a situation."
         }
       ],
       "examples": [
         {
-          "en": "Many students decided to protest against the new school rules.",
-          "zh": "许多学生决定抗议新的校规。"
+          "en": "The earthquake resulted in a catastrophe for the entire region.",
+          "zh": "这场地震导致了整个地区的灾难。"
         },
         {
-          "en": "The protest attracted thousands of people from all backgrounds.",
-          "zh": "这场抗议吸引了来自各行各业的数千人。"
+          "en": "Her project turned into a catastrophe due to poor planning.",
+          "zh": "由于计划不周，她的项目变成了一个大失败。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'protest' comes from Latin 'protestari', meaning 'to testify publicly'."
+        "association": "Think of 'cat' and 'astro' (related to stars) to remember that a catastrophe is something that can be as shocking as a cat falling from the sky."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=protest&type=2",
-      "chapter": "核心词汇 法制与犯罪 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=catastrophe&type=2",
+      "chapter": "核心词汇 科技发展 Unit 1"
     },
     {
-      "word": "indulge",
-      "pronunciation": "/ɪnˈdʌldʒ/",
+      "word": "realise",
+      "pronunciation": "/ˈriːəˌlaɪz/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "沉迷于，放纵",
-          "en": "To allow oneself to enjoy something, often excessively."
+          "zh": "意识到",
+          "en": "To become aware of something or understand it clearly."
         },
         {
           "pos": "v.",
-          "zh": "满足，迎合",
-          "en": "To give in to someone's wishes, desires, or needs."
+          "zh": "实现",
+          "en": "To make something happen or to bring it into existence."
         }
       ],
       "examples": [
         {
-          "en": "She decided to indulge in a delicious dessert after dinner.",
-          "zh": "她决定在晚餐后享用一份美味的甜点。"
+          "en": "I didn’t realize how important this decision was for my future.",
+          "zh": "我没有意识到这个决定对我的未来有多重要。"
         },
         {
-          "en": "Many people indulge their children with gifts and treats.",
-          "zh": "许多人用礼物和款待来满足他们的孩子。"
+          "en": "She hopes to realize her dream of becoming a doctor one day.",
+          "zh": "她希望有一天能实现她成为医生的梦想。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'indulge' as 'in-dulge', where 'dulge' sounds like 'deluge', meaning to flood with enjoyment."
+        "association": "Think of 'real' in 'realize' as making something real or true."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=indulge&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 6"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=realise&type=2",
+      "chapter": "基本词汇 动词200 Unit 9"
     }
   ]
 }

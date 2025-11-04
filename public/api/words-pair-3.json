@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-03T22:08:15.728Z",
+  "generated": "2025-11-04T22:07:50.076Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "guilty",
-      "pronunciation": "/ˈɡɪlti/",
+      "word": "compassion",
+      "pronunciation": "/kəmˈpæʃ.ən/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "有罪的",
-          "en": "Feeling responsible for a wrongdoing or crime."
+          "pos": "n.",
+          "zh": "同情，怜悯",
+          "en": "A feeling of deep sympathy and concern for someone who is suffering."
         },
         {
-          "pos": "adj.",
-          "zh": "内疚的",
-          "en": "Feeling regret or remorse about something you did."
+          "pos": "n.",
+          "zh": "慈悲，仁爱",
+          "en": "A desire to help those who are in pain or distress."
         }
       ],
       "examples": [
         {
-          "en": "She felt guilty for not helping her friend in need.",
-          "zh": "她因为没有帮助需要帮助的朋友而感到内疚。"
+          "en": "Her compassion for the homeless inspired many to help.",
+          "zh": "她对无家可归者的同情激励了许多人提供帮助。"
         },
         {
-          "en": "The guilty man was sentenced to ten years in prison.",
-          "zh": "这个有罪的人被判处十年监禁。"
+          "en": "Showing compassion can make a big difference in someone's life.",
+          "zh": "展现同情心可以对某人的生活产生重大影响。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'guilt' as a weight on your conscience, making you feel heavy and responsible."
+        "association": "Think of 'compassion' as 'co-passion', where you share the feelings of others."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=guilty&type=2",
-      "chapter": "核心词汇 法制与犯罪 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compassion&type=2",
+      "chapter": "核心词汇 工作与生活 Unit 1"
     },
     {
-      "word": "devoid",
-      "pronunciation": "/dɪˈvɔɪd/",
+      "word": "compromise",
+      "pronunciation": "/ˈkɒmprəmaɪz/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "缺乏的",
-          "en": "Completely lacking something."
+          "pos": "v.",
+          "zh": "妥协",
+          "en": "To make a mutual agreement where both sides give up something."
         },
         {
-          "pos": "v.",
-          "zh": "使缺乏",
-          "en": "To remove or take away something."
+          "pos": "n.",
+          "zh": "妥协",
+          "en": "An agreement reached by each side making concessions."
         }
       ],
       "examples": [
         {
-          "en": "The room was devoid of any furniture or decoration.",
-          "zh": "这个房间缺乏任何家具或装饰。"
+          "en": "They decided to compromise on the terms of the contract.",
+          "zh": "他们决定在合同条款上做出妥协。"
         },
         {
-          "en": "She felt devoid of energy after the long meeting.",
-          "zh": "长时间的会议后，她感到精力匮乏。"
+          "en": "Finding a compromise is essential for a successful negotiation.",
+          "zh": "找到妥协对成功的谈判至关重要。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'devoid' as 'de void' meaning 'empty space'."
+        "association": "Think of 'compromise' as 'com' (together) and 'promise' (to agree), meaning a mutual agreement."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=devoid&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 6"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compromise&type=2",
+      "chapter": "核心词汇 工作与生活 Unit 1"
     }
   ]
 }

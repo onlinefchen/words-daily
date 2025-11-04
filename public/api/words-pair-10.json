@@ -1,62 +1,69 @@
 {
-  "generated": "2025-11-03T22:08:15.729Z",
+  "generated": "2025-11-04T22:07:50.077Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "compassion",
-      "pronunciation": "/kəmˈpæʃən/",
+      "word": "assimilate",
+      "pronunciation": "/əˈsɪməˌleɪt/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "同情，怜悯",
-          "en": "A feeling of deep sympathy for someone who is suffering."
+          "pos": "v.",
+          "zh": "同化",
+          "en": "To absorb and integrate new information or ideas into existing knowledge."
         },
         {
-          "pos": "n.",
-          "zh": "慈悲，善良",
-          "en": "The desire to help others and show kindness."
+          "pos": "v.",
+          "zh": "消化",
+          "en": "To adapt or adjust to a new environment or culture."
         }
       ],
       "examples": [
         {
-          "en": "Her compassion for the homeless inspired many to help.",
-          "zh": "她对无家可归者的同情激励了许多人去帮助。"
+          "en": "It takes time to assimilate all the information from the lecture.",
+          "zh": "消化讲座中的所有信息需要时间。"
         },
         {
-          "en": "Compassion is essential for building a caring community.",
-          "zh": "同情心对于建立一个关怀的社区是必不可少的。"
+          "en": "Many immigrants find it challenging to assimilate into a new culture.",
+          "zh": "许多移民发现融入新文化是一个挑战。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'compassion' as 'companion' + 'passion', suggesting a passionate connection with others' feelings."
+        "association": "Think of 'assimilate' as 'similar' - when you assimilate, you become similar to your surroundings."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compassion&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=assimilate&type=2",
+      "chapter": "核心词汇 文化与传统 Unit 1"
     },
     {
-      "word": "conducive",
-      "pronunciation": "/kənˈduːsɪv/",
+      "word": "personal and professional profile",
+      "pronunciation": "/ˈpɜrsənl ənd prəˈfɛʃənl ˈproʊfaɪl/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "有助于的",
-          "en": "Making a situation likely or possible."
+          "pos": "n.",
+          "zh": "个人与职业简介",
+          "en": "A summary of someone's personal and work experience."
+        },
+        {
+          "pos": "n.",
+          "zh": "个人与职业形象",
+          "en": "The overall impression a person gives based on their experiences."
         }
       ],
       "examples": [
         {
-          "en": "A quiet environment is conducive to studying effectively.",
-          "zh": "安静的环境有利于高效学习。"
+          "en": "She updated her personal and professional profile on LinkedIn.",
+          "zh": "她在LinkedIn上更新了个人与职业简介。"
         },
         {
-          "en": "Good nutrition is conducive to overall health.",
-          "zh": "良好的营养有助于整体健康。"
+          "en": "A strong personal and professional profile can attract employers.",
+          "zh": "一个强大的个人与职业形象可以吸引雇主。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=conducive&type=2",
-      "chapter": "核心词汇 健康话题 Unit 2"
+      "memoryTips": {
+        "association": "Think of 'profile' as a 'file' of your personal and work life."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=personal%20and%20professional%20profile&type=2",
+      "chapter": "认知词汇 社会与生活分类 医生与药品推销"
     }
   ]
 }
