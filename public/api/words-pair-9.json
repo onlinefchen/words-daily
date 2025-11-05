@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-04T22:07:50.077Z",
+  "generated": "2025-11-05T22:07:52.128Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "susceptible",
-      "pronunciation": "/səˈsɛptəbl/",
+      "word": "germ",
+      "pronunciation": "/dʒɜrm/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "易受影响的",
-          "en": "Able to be easily influenced or affected by something."
+          "pos": "n.",
+          "zh": "细菌",
+          "en": "A very small living thing that can cause disease."
         },
         {
-          "pos": "adj.",
-          "zh": "易患病的",
-          "en": "Likely to suffer from a particular condition or illness."
+          "pos": "n.",
+          "zh": "萌芽",
+          "en": "The beginning or early stage of something."
         }
       ],
       "examples": [
         {
-          "en": "Children are often more susceptible to infections than adults.",
-          "zh": "儿童通常比成年人更容易感染。"
+          "en": "Washing your hands can help eliminate harmful germs.",
+          "zh": "洗手可以帮助消灭有害的细菌。"
         },
         {
-          "en": "Some people are more susceptible to stress during exams.",
-          "zh": "有些人在考试期间更容易受到压力的影响。"
+          "en": "The germ of an idea can lead to great innovations.",
+          "zh": "一个想法的萌芽可能会导致伟大的创新。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'susceptible' as being 'susceptible to' ideas or influences, like a sponge soaking up water."
+        "association": "Think of 'germ' as something that starts small, like a seed, and can grow into something bigger."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=susceptible&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 18"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=germ&type=2",
+      "chapter": "认知词汇 环境分类 绿色农业"
     },
     {
-      "word": "corruption",
-      "pronunciation": "/kəˈrʌpʃən/",
+      "word": "tannin",
+      "pronunciation": "/ˈtæn.ɪn/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "腐败",
-          "en": "Dishonest or unethical behavior by people in power."
+          "zh": "单宁",
+          "en": "A type of natural substance found in plants that can make liquids taste bitter."
         },
         {
           "pos": "n.",
-          "zh": "损坏",
-          "en": "The process of something becoming damaged or altered."
+          "zh": "鞣酸",
+          "en": "A chemical used in the tanning process of leather."
         }
       ],
       "examples": [
         {
-          "en": "Corruption in government can lead to serious social issues.",
-          "zh": "政府中的腐败可能导致严重的社会问题。"
+          "en": "Tannin is often responsible for the bitterness in red wine.",
+          "zh": "单宁通常是红酒中苦味的原因。"
         },
         {
-          "en": "The corruption of data can affect the accuracy of research.",
-          "zh": "数据的损坏可能影响研究的准确性。"
+          "en": "The presence of tannin can affect the flavor of various beverages.",
+          "zh": "单宁的存在会影响各种饮料的味道。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'corrupt' as 'broken' or 'damaged', which can help remember its meanings."
+        "association": "Think of 'tannin' as 'tan' for leather, which relates to its use in tanning."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=corruption&type=2",
-      "chapter": "核心词汇 民主与权利 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=tannin&type=2",
+      "chapter": "认知词汇 科技分类 染料与颜料"
     }
   ]
 }

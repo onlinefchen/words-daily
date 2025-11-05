@@ -1,67 +1,67 @@
 {
-  "generated": "2025-11-04T22:07:50.077Z",
+  "generated": "2025-11-05T22:07:52.128Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "abuse",
-      "pronunciation": "/əˈbjuz/",
+      "word": "ultra-violet",
+      "pronunciation": "/ˌʌl.trəˈvaɪ.lɪt/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "滥用；虐待",
-          "en": "To use something in a harmful or wrong way."
+          "pos": "adj.",
+          "zh": "紫外的",
+          "en": "Relating to a type of light that is not visible to humans."
         },
         {
           "pos": "n.",
-          "zh": "虐待；滥用",
-          "en": "The act of treating someone or something badly."
+          "zh": "紫外线",
+          "en": "A type of radiation that can cause sunburn and other effects."
         }
       ],
       "examples": [
         {
-          "en": "The organization works to prevent child abuse in our community.",
-          "zh": "该组织致力于防止我们社区的儿童虐待。"
+          "en": "Ultra-violet light can cause skin damage if not protected.",
+          "zh": "如果不做好保护，紫外线会导致皮肤损伤。"
         },
         {
-          "en": "Many people suffer from substance abuse due to addiction.",
-          "zh": "许多人因成瘾而遭受药物滥用。"
+          "en": "Scientists use ultra-violet rays to study molecular structures.",
+          "zh": "科学家使用紫外线研究分子结构。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'abuse' comes from the Latin 'abusus', meaning 'to use wrongly'."
+        "association": "Think of 'ultra' as something extreme, and 'violet' as a color in the spectrum that is just beyond visible light."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=abuse&type=2",
-      "chapter": "基本词汇 动词200 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ultra-violet&type=2",
+      "chapter": "认知词汇 科技分类 探索太空生物"
     },
     {
-      "word": "casualties",
-      "pronunciation": "/ˈkæʒ.u.əl.tiz/",
+      "word": "direct dye",
+      "pronunciation": "/dəˈrɛkt daɪ/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "伤亡人员",
-          "en": "People who are killed or injured in a war or accident."
+          "zh": "直接染料",
+          "en": "A type of dye that bonds directly to the fabric without a mordant."
         },
         {
-          "pos": "n.",
-          "zh": "损失",
-          "en": "The total number of people affected by an event, particularly in terms of injuries or deaths."
+          "pos": "v.",
+          "zh": "直接染色",
+          "en": "To color fabric by applying the dye directly to it."
         }
       ],
       "examples": [
         {
-          "en": "The earthquake caused many casualties and widespread destruction.",
-          "zh": "这场地震造成了许多伤亡和广泛的破坏。"
+          "en": "Direct dyes are popular for their vibrant colors and ease of use.",
+          "zh": "直接染料因其鲜艳的颜色和易于使用而受到欢迎。"
         },
         {
-          "en": "The report highlighted the casualties from the recent conflict.",
-          "zh": "报告强调了最近冲突中的伤亡情况。"
+          "en": "Many artists prefer to direct dye their fabrics for unique effects.",
+          "zh": "许多艺术家喜欢直接染色他们的织物以获得独特效果。"
         }
       ],
       "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=casualties&type=2",
-      "chapter": "认知词汇 自然分类 地震"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=direct%20dye&type=2",
+      "chapter": "认知词汇 科技分类 染料与颜料"
     }
   ]
 }

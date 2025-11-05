@@ -1,64 +1,64 @@
 {
-  "generated": "2025-11-04T22:07:50.076Z",
+  "generated": "2025-11-05T22:07:52.127Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "discourteous",
-      "pronunciation": "/dɪsˈkɜr.t̬əs/",
+      "word": "fabric",
+      "pronunciation": "/ˈfæbrɪk/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "无礼的",
-          "en": "Not showing proper respect or manners."
+          "pos": "n.",
+          "zh": "织物",
+          "en": "A material made by weaving fibers together."
+        },
+        {
+          "pos": "n.",
+          "zh": "构成，结构",
+          "en": "The underlying structure or framework of something."
         }
       ],
       "examples": [
         {
-          "en": "It is discourteous to interrupt someone while they are speaking.",
-          "zh": "在某人说话时打断他们是不礼貌的。"
+          "en": "The dress is made from a soft and comfortable fabric.",
+          "zh": "这条裙子是用柔软舒适的织物制成的。"
         },
         {
-          "en": "She found his discourteous behavior very upsetting during the meeting.",
-          "zh": "她发现他在会议上无礼的行为让人非常不快。"
+          "en": "The fabric of society is changing due to technology.",
+          "zh": "由于技术的进步，社会的结构正在发生变化。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'discourteous' as 'dis-courtesy,' meaning the absence of courtesy."
+        "association": "Think of 'fabric' as the 'fabric' of life, which includes both materials and social structures."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=discourteous&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=fabric&type=2",
+      "chapter": "认知词汇 科技分类 染料与颜料"
     },
     {
-      "word": "hypertension",
-      "pronunciation": "/haɪpərˈtɛnʃən/",
+      "word": "disperse dye",
+      "pronunciation": "/dɪsˈpɜrs daɪ/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "高血压",
-          "en": "A medical condition where the blood pressure in the arteries is consistently too high."
-        },
-        {
-          "pos": "n.",
-          "zh": "压力",
-          "en": "An increased level of stress or tension in the body."
+          "zh": "分散染料",
+          "en": "A type of dye that can spread evenly in water."
         }
       ],
       "examples": [
         {
-          "en": "Many people with hypertension may not experience any symptoms.",
-          "zh": "许多高血压患者可能没有任何症状。"
+          "en": "Disperse dyes are often used for coloring synthetic fabrics.",
+          "zh": "分散染料通常用于给合成面料上色。"
         },
         {
-          "en": "Managing hypertension is crucial for overall health and well-being.",
-          "zh": "管理高血压对整体健康和幸福至关重要。"
+          "en": "Artists prefer disperse dyes for their vibrant colors and fastness.",
+          "zh": "艺术家喜欢分散染料，因为它们的色彩鲜艳且耐光。"
         }
       ],
       "memoryTips": {
-        "etymology": "The term 'hypertension' comes from the Greek 'hyper-' meaning 'over' and 'tension' meaning 'pressure'."
+        "association": "Think of 'disperse' as 'spread out' and 'dye' as 'color'; together, they create colors that spread out in materials."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=hypertension&type=2",
-      "chapter": "核心词汇 健康话题 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disperse%20dye&type=2",
+      "chapter": "认知词汇 科技分类 染料与颜料"
     }
   ]
 }

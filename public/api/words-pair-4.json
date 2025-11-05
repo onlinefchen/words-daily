@@ -1,69 +1,65 @@
 {
-  "generated": "2025-11-04T22:07:50.077Z",
+  "generated": "2025-11-05T22:07:52.127Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "guilty",
-      "pronunciation": "/ˈɡɪlti/",
+      "word": "radiotelegraphy",
+      "pronunciation": "/ˌreɪdioʊˈtɛlɪɡrəfi/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "内疚的",
-          "en": "Feeling responsible for a bad action."
+          "pos": "n.",
+          "zh": "无线电报通信",
+          "en": "The method of sending messages over long distances using radio waves."
         },
         {
-          "pos": "adj.",
-          "zh": "有罪的",
-          "en": "Having committed a crime or wrongdoing."
+          "pos": "n.",
+          "zh": "无线电报机",
+          "en": "A system or device that transmits messages using radio signals."
         }
       ],
       "examples": [
         {
-          "en": "She felt guilty for not helping her friend in need.",
-          "zh": "她因为没有帮助需要她的朋友而感到内疚。"
+          "en": "Radiotelegraphy revolutionized communication in the early 20th century.",
+          "zh": "无线电报通信在20世纪初彻底改变了通信方式。"
         },
         {
-          "en": "The jury found him guilty of the crime after the trial.",
-          "zh": "陪审团在审判后裁定他对该罪行有罪。"
+          "en": "Many ships used radiotelegraphy to send distress signals at sea.",
+          "zh": "许多船只使用无线电报通信在海上发送求救信号。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'guilt' as the feeling that weighs you down like a heavy anchor."
+        "etymology": "The word combines 'radio', relating to waves, and 'telegraphy', which means writing at a distance.",
+        "association": "Think of 'radio' as a way to communicate across distances like a 'telegraph'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=guilty&type=2",
-      "chapter": "核心词汇 伦理与道德 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=radiotelegraphy&type=2",
+      "chapter": "认知词汇 科技分类 莫尔斯电码"
     },
     {
-      "word": "destiny",
-      "pronunciation": "/ˈdɛs.tɪ.ni/",
+      "word": "geographic information system",
+      "pronunciation": "/dʒiˈɒɡrəfɪk ɪn.fəˈmeɪ.ʃən ˈsɪs.təm/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "命运",
-          "en": "The events that will necessarily happen to a person in the future."
-        },
-        {
-          "pos": "n.",
-          "zh": "天命",
-          "en": "A predetermined course of events that is often seen as unavoidable."
+          "zh": "地理信息系统",
+          "en": "A system that captures, stores, analyzes, and manages geographic data."
         }
       ],
       "examples": [
         {
-          "en": "Many believe that our destiny is shaped by our choices.",
-          "zh": "许多人相信我们的命运是由我们的选择决定的。"
+          "en": "The geographic information system helps in urban planning and development.",
+          "zh": "地理信息系统有助于城市规划和发展。"
         },
         {
-          "en": "She felt it was her destiny to become a great artist.",
-          "zh": "她觉得成为一位伟大艺术家是她的命运。"
+          "en": "Scientists use a geographic information system to map environmental changes.",
+          "zh": "科学家使用地理信息系统来绘制环境变化图。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'destiny' comes from the Latin 'destinare', meaning 'to determine' or 'to make firm'."
+        "association": "Think of GIS as a map that provides detailed information about locations."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=destiny&type=2",
-      "chapter": "基本词汇 名词200 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=geographic%20information%20system&type=2",
+      "chapter": "认知词汇 历史分类 地图发展史"
     }
   ]
 }

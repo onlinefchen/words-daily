@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-04T22:07:50.077Z",
+  "generated": "2025-11-05T22:07:52.128Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "assimilate",
-      "pronunciation": "/əˈsɪməˌleɪt/",
+      "word": "microbial",
+      "pronunciation": "/maɪˈkroʊ.bi.əl/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "同化",
-          "en": "To absorb and integrate new information or ideas into existing knowledge."
+          "pos": "adj.",
+          "zh": "微生物的",
+          "en": "Relating to microorganisms, which are tiny living things."
         },
         {
-          "pos": "v.",
-          "zh": "消化",
-          "en": "To adapt or adjust to a new environment or culture."
+          "pos": "adj.",
+          "zh": "微生物引起的",
+          "en": "Caused by or involving microbes, like bacteria or viruses."
         }
       ],
       "examples": [
         {
-          "en": "It takes time to assimilate all the information from the lecture.",
-          "zh": "消化讲座中的所有信息需要时间。"
+          "en": "The microbial life in soil is essential for plant growth.",
+          "zh": "土壤中的微生物生活对植物生长至关重要。"
         },
         {
-          "en": "Many immigrants find it challenging to assimilate into a new culture.",
-          "zh": "许多移民发现融入新文化是一个挑战。"
+          "en": "Microbial infections can lead to serious health problems if untreated.",
+          "zh": "如果不治疗，微生物感染可能导致严重的健康问题。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'assimilate' as 'similar' - when you assimilate, you become similar to your surroundings."
+        "etymology": "The word 'microbial' comes from 'microbe,' which is derived from the Greek 'mikros' meaning 'small.'"
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=assimilate&type=2",
-      "chapter": "核心词汇 文化与传统 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=microbial&type=2",
+      "chapter": "认知词汇 科技分类 探索太空生物"
     },
     {
-      "word": "personal and professional profile",
-      "pronunciation": "/ˈpɜrsənl ənd prəˈfɛʃənl ˈproʊfaɪl/",
+      "word": "forest ecosystem",
+      "pronunciation": "/ˈfɔrɪst ˌiːkəˈsɪstəm/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "个人与职业简介",
-          "en": "A summary of someone's personal and work experience."
+          "zh": "森林生态系统",
+          "en": "A community of living organisms and their environment in a forest."
         },
         {
           "pos": "n.",
-          "zh": "个人与职业形象",
-          "en": "The overall impression a person gives based on their experiences."
+          "zh": "生态系统的组成部分",
+          "en": "The system formed by interactions among plants, animals, and microorganisms in a forest."
         }
       ],
       "examples": [
         {
-          "en": "She updated her personal and professional profile on LinkedIn.",
-          "zh": "她在LinkedIn上更新了个人与职业简介。"
+          "en": "The forest ecosystem supports diverse species of plants and animals.",
+          "zh": "森林生态系统支持多样的植物和动物种类。"
         },
         {
-          "en": "A strong personal and professional profile can attract employers.",
-          "zh": "一个强大的个人与职业形象可以吸引雇主。"
+          "en": "Conserving the forest ecosystem is essential for environmental balance.",
+          "zh": "保护森林生态系统对环境平衡至关重要。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'profile' as a 'file' of your personal and work life."
+        "association": "Think of a 'forest' as a 'for rest' area where many organisms coexist peacefully."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=personal%20and%20professional%20profile&type=2",
-      "chapter": "认知词汇 社会与生活分类 医生与药品推销"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=forest%20ecosystem&type=2",
+      "chapter": "认知词汇 环境分类 人类与动物灭绝"
     }
   ]
 }

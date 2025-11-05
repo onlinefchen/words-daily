@@ -1,64 +1,70 @@
 {
-  "generated": "2025-11-04T22:07:50.076Z",
+  "generated": "2025-11-05T22:07:52.127Z",
   "pair": 1,
   "count": 2,
   "words": [
     {
-      "word": "incidence of asthma",
-      "pronunciation": "/ˈɪnsɪdəns əv ˈæsmə/",
+      "word": "obligation",
+      "pronunciation": "/ˌɑː.blɪˈɡeɪ.ʃən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "哮喘的发生率",
-          "en": "The frequency or occurrence of asthma cases in a population."
+          "zh": "义务",
+          "en": "A duty or responsibility that you must do."
+        },
+        {
+          "pos": "n.",
+          "zh": "承诺",
+          "en": "A promise or commitment to do something."
         }
       ],
       "examples": [
         {
-          "en": "The incidence of asthma has increased in urban areas.",
-          "zh": "城市地区的哮喘发生率增加了。"
+          "en": "Students have an obligation to complete their assignments on time.",
+          "zh": "学生有义务按时完成作业。"
         },
         {
-          "en": "Researchers study the incidence of asthma among children.",
-          "zh": "研究人员研究儿童中哮喘的发生率。"
+          "en": "He felt a strong obligation to help his friends in need.",
+          "zh": "他感到有强烈的义务去帮助需要帮助的朋友。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'incidence' as 'in' + 'cidence' like an incident happening, which can help you remember it relates to the occurrence of asthma."
+        "etymology": "The word 'obligation' comes from the Latin 'obligatio', meaning 'to bind'.",
+        "association": "Think of 'obligation' as being 'bound' to do something important."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=incidence%20of%20asthma&type=2",
-      "chapter": "认知词汇 健康分类 吸烟与被动吸烟"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=obligation&type=2",
+      "chapter": "核心词汇 工作与生活 Unit 4"
     },
     {
-      "word": "guarantee",
-      "pronunciation": "/ˌɡærənˈti/",
+      "word": "indigenous language",
+      "pronunciation": "/ɪnˈdɪdʒ.ɪ.nəs ˈlæŋ.ɡwɪdʒ/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "保证",
-          "en": "To promise that something will happen or be done."
+          "pos": "n.",
+          "zh": "土著语言",
+          "en": "A language traditionally spoken by native people in a specific region."
         },
         {
           "pos": "n.",
-          "zh": "保证",
-          "en": "A formal assurance that certain conditions will be fulfilled."
+          "zh": "本土语言",
+          "en": "A language that originates from a particular place, often used by local communities."
         }
       ],
       "examples": [
         {
-          "en": "The company guarantees that the product will last for five years.",
-          "zh": "公司保证该产品将使用五年。"
+          "en": "Many indigenous languages are at risk of disappearing today.",
+          "zh": "许多土著语言今天面临消失的风险。"
         },
         {
-          "en": "She received a guarantee for her new car's warranty.",
-          "zh": "她收到了新车质保的保证。"
+          "en": "Efforts are being made to preserve indigenous languages worldwide.",
+          "zh": "全球正在努力保护土著语言。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'guarantee' as a 'guard' that ensures something will happen."
+        "association": "Think of 'indigenous' as 'in' the 'native' place where these languages belong."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=guarantee&type=2",
-      "chapter": "基本词汇 动词200 Unit 7"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=indigenous%20language&type=2",
+      "chapter": "阅读真题认知词汇 濒临灭绝的少数民族语言"
     }
   ]
 }

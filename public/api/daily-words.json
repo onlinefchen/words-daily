@@ -1,754 +1,751 @@
 {
-  "generated": "2025-11-04T22:07:50.075Z",
-  "date": "2025-11-04",
+  "generated": "2025-11-05T22:07:52.126Z",
+  "date": "2025-11-05",
   "totalWords": 20,
   "words": [
     {
-      "id": "w03193",
-      "word": "incidence of asthma",
+      "id": "w01668",
+      "word": "obligation",
+      "type": "single",
+      "chapterIndex": 8,
+      "globalIndex": 1668,
+      "chapter": "ch084",
+      "chapterName": "核心词汇 工作与生活 Unit 4",
+      "pronunciation": {
+        "us": "/ˌɑː.blɪˈɡeɪ.ʃən/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "义务",
+          "en": "A duty or responsibility that you must do."
+        },
+        {
+          "pos": "n.",
+          "zh": "承诺",
+          "en": "A promise or commitment to do something."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Students have an obligation to complete their assignments on time.",
+          "zh": "学生有义务按时完成作业。"
+        },
+        {
+          "en": "He felt a strong obligation to help his friends in need.",
+          "zh": "他感到有强烈的义务去帮助需要帮助的朋友。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'obligation' comes from the Latin 'obligatio', meaning 'to bind'.",
+        "association": "Think of 'obligation' as being 'bound' to do something important."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=obligation&type=2"
+    },
+    {
+      "id": "w04792",
+      "word": "indigenous language",
       "type": "phrase",
-      "chapterIndex": 34,
-      "globalIndex": 3193,
-      "chapter": "ch116",
-      "chapterName": "认知词汇 健康分类 吸烟与被动吸烟",
+      "chapterIndex": 21,
+      "globalIndex": 4792,
+      "chapter": "ch149",
+      "chapterName": "阅读真题认知词汇 濒临灭绝的少数民族语言",
       "pronunciation": {
-        "us": "/ˈɪnsɪdəns əv ˈæsmə/"
+        "us": "/ɪnˈdɪdʒ.ɪ.nəs ˈlæŋ.ɡwɪdʒ/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "哮喘的发生率",
-          "en": "The frequency or occurrence of asthma cases in a population."
+          "zh": "土著语言",
+          "en": "A language traditionally spoken by native people in a specific region."
+        },
+        {
+          "pos": "n.",
+          "zh": "本土语言",
+          "en": "A language that originates from a particular place, often used by local communities."
         }
       ],
       "examples": [
         {
-          "en": "The incidence of asthma has increased in urban areas.",
-          "zh": "城市地区的哮喘发生率增加了。"
+          "en": "Many indigenous languages are at risk of disappearing today.",
+          "zh": "许多土著语言今天面临消失的风险。"
         },
         {
-          "en": "Researchers study the incidence of asthma among children.",
-          "zh": "研究人员研究儿童中哮喘的发生率。"
+          "en": "Efforts are being made to preserve indigenous languages worldwide.",
+          "zh": "全球正在努力保护土著语言。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'incidence' as 'in' + 'cidence' like an incident happening, which can help you remember it relates to the occurrence of asthma."
+        "association": "Think of 'indigenous' as 'in' the 'native' place where these languages belong."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=incidence%20of%20asthma&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=indigenous%20language&type=2"
     },
     {
-      "id": "w00138",
-      "word": "guarantee",
-      "type": "single",
-      "chapterIndex": 18,
-      "globalIndex": 138,
-      "chapter": "ch007",
-      "chapterName": "基本词汇 动词200 Unit 7",
-      "pronunciation": {
-        "us": "/ˌɡærənˈti/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "保证",
-          "en": "To promise that something will happen or be done."
-        },
-        {
-          "pos": "n.",
-          "zh": "保证",
-          "en": "A formal assurance that certain conditions will be fulfilled."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The company guarantees that the product will last for five years.",
-          "zh": "公司保证该产品将使用五年。"
-        },
-        {
-          "en": "She received a guarantee for her new car's warranty.",
-          "zh": "她收到了新车质保的保证。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'guarantee' as a 'guard' that ensures something will happen."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=guarantee&type=2"
-    },
-    {
-      "id": "w01249",
-      "word": "discourteous",
-      "type": "single",
-      "chapterIndex": 9,
-      "globalIndex": 1249,
-      "chapter": "ch063",
-      "chapterName": "核心词汇 青少年教育 Unit 3",
-      "pronunciation": {
-        "us": "/dɪsˈkɜr.t̬əs/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "无礼的",
-          "en": "Not showing proper respect or manners."
-        }
-      ],
-      "examples": [
-        {
-          "en": "It is discourteous to interrupt someone while they are speaking.",
-          "zh": "在某人说话时打断他们是不礼貌的。"
-        },
-        {
-          "en": "She found his discourteous behavior very upsetting during the meeting.",
-          "zh": "她发现他在会议上无礼的行为让人非常不快。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'discourteous' as 'dis-courtesy,' meaning the absence of courtesy."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=discourteous&type=2"
-    },
-    {
-      "id": "w01853",
-      "word": "hypertension",
-      "type": "single",
-      "chapterIndex": 13,
-      "globalIndex": 1853,
-      "chapter": "ch093",
-      "chapterName": "核心词汇 健康话题 Unit 3",
-      "pronunciation": {
-        "us": "/haɪpərˈtɛnʃən/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "高血压",
-          "en": "A medical condition where the blood pressure in the arteries is consistently too high."
-        },
-        {
-          "pos": "n.",
-          "zh": "压力",
-          "en": "An increased level of stress or tension in the body."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Many people with hypertension may not experience any symptoms.",
-          "zh": "许多高血压患者可能没有任何症状。"
-        },
-        {
-          "en": "Managing hypertension is crucial for overall health and well-being.",
-          "zh": "管理高血压对整体健康和幸福至关重要。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The term 'hypertension' comes from the Greek 'hyper-' meaning 'over' and 'tension' meaning 'pressure'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=hypertension&type=2"
-    },
-    {
-      "id": "w01618",
-      "word": "compassion",
-      "type": "single",
-      "chapterIndex": 18,
-      "globalIndex": 1618,
-      "chapter": "ch081",
-      "chapterName": "核心词汇 工作与生活 Unit 1",
-      "pronunciation": {
-        "us": "/kəmˈpæʃ.ən/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "同情，怜悯",
-          "en": "A feeling of deep sympathy and concern for someone who is suffering."
-        },
-        {
-          "pos": "n.",
-          "zh": "慈悲，仁爱",
-          "en": "A desire to help those who are in pain or distress."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Her compassion for the homeless inspired many to help.",
-          "zh": "她对无家可归者的同情激励了许多人提供帮助。"
-        },
-        {
-          "en": "Showing compassion can make a big difference in someone's life.",
-          "zh": "展现同情心可以对某人的生活产生重大影响。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'compassion' as 'co-passion', where you share the feelings of others."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compassion&type=2"
-    },
-    {
-      "id": "w01620",
-      "word": "compromise",
-      "type": "single",
-      "chapterIndex": 20,
-      "globalIndex": 1620,
-      "chapter": "ch081",
-      "chapterName": "核心词汇 工作与生活 Unit 1",
-      "pronunciation": {
-        "us": "/ˈkɒmprəmaɪz/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "妥协",
-          "en": "To make a mutual agreement where both sides give up something."
-        },
-        {
-          "pos": "n.",
-          "zh": "妥协",
-          "en": "An agreement reached by each side making concessions."
-        }
-      ],
-      "examples": [
-        {
-          "en": "They decided to compromise on the terms of the contract.",
-          "zh": "他们决定在合同条款上做出妥协。"
-        },
-        {
-          "en": "Finding a compromise is essential for a successful negotiation.",
-          "zh": "找到妥协对成功的谈判至关重要。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'compromise' as 'com' (together) and 'promise' (to agree), meaning a mutual agreement."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compromise&type=2"
-    },
-    {
-      "id": "w01143",
-      "word": "guilty",
-      "type": "single",
-      "chapterIndex": 3,
-      "globalIndex": 1143,
-      "chapter": "ch058",
-      "chapterName": "核心词汇 伦理与道德 Unit 3",
-      "pronunciation": {
-        "us": "/ˈɡɪlti/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "内疚的",
-          "en": "Feeling responsible for a bad action."
-        },
-        {
-          "pos": "adj.",
-          "zh": "有罪的",
-          "en": "Having committed a crime or wrongdoing."
-        }
-      ],
-      "examples": [
-        {
-          "en": "She felt guilty for not helping her friend in need.",
-          "zh": "她因为没有帮助需要她的朋友而感到内疚。"
-        },
-        {
-          "en": "The jury found him guilty of the crime after the trial.",
-          "zh": "陪审团在审判后裁定他对该罪行有罪。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'guilt' as the feeling that weighs you down like a heavy anchor."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=guilty&type=2"
-    },
-    {
-      "id": "w00247",
-      "word": "destiny",
-      "type": "single",
-      "chapterIndex": 7,
-      "globalIndex": 247,
-      "chapter": "ch013",
-      "chapterName": "基本词汇 名词200 Unit 3",
-      "pronunciation": {
-        "us": "/ˈdɛs.tɪ.ni/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "命运",
-          "en": "The events that will necessarily happen to a person in the future."
-        },
-        {
-          "pos": "n.",
-          "zh": "天命",
-          "en": "A predetermined course of events that is often seen as unavoidable."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Many believe that our destiny is shaped by our choices.",
-          "zh": "许多人相信我们的命运是由我们的选择决定的。"
-        },
-        {
-          "en": "She felt it was her destiny to become a great artist.",
-          "zh": "她觉得成为一位伟大艺术家是她的命运。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'destiny' comes from the Latin 'destinare', meaning 'to determine' or 'to make firm'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=destiny&type=2"
-    },
-    {
-      "id": "w00806",
-      "word": "catastrophe",
-      "type": "single",
-      "chapterIndex": 6,
-      "globalIndex": 806,
-      "chapter": "ch041",
-      "chapterName": "核心词汇 科技发展 Unit 1",
-      "pronunciation": {
-        "us": "/kəˈtæs.trə.fi/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "灾难",
-          "en": "A sudden event that causes great damage or suffering."
-        },
-        {
-          "pos": "n.",
-          "zh": "大失败",
-          "en": "A complete failure or disaster in a situation."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The earthquake resulted in a catastrophe for the entire region.",
-          "zh": "这场地震导致了整个地区的灾难。"
-        },
-        {
-          "en": "Her project turned into a catastrophe due to poor planning.",
-          "zh": "由于计划不周，她的项目变成了一个大失败。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'cat' and 'astro' (related to stars) to remember that a catastrophe is something that can be as shocking as a cat falling from the sky."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=catastrophe&type=2"
-    },
-    {
-      "id": "w00178",
-      "word": "realise",
-      "type": "single",
-      "chapterIndex": 18,
-      "globalIndex": 178,
-      "chapter": "ch009",
-      "chapterName": "基本词汇 动词200 Unit 9",
-      "pronunciation": {
-        "us": "/ˈriːəˌlaɪz/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "意识到",
-          "en": "To become aware of something or understand it clearly."
-        },
-        {
-          "pos": "v.",
-          "zh": "实现",
-          "en": "To make something happen or to bring it into existence."
-        }
-      ],
-      "examples": [
-        {
-          "en": "I didn’t realize how important this decision was for my future.",
-          "zh": "我没有意识到这个决定对我的未来有多重要。"
-        },
-        {
-          "en": "She hopes to realize her dream of becoming a doctor one day.",
-          "zh": "她希望有一天能实现她成为医生的梦想。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'real' in 'realize' as making something real or true."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=realise&type=2"
-    },
-    {
-      "id": "w01597",
-      "word": "violate",
+      "id": "w03535",
+      "word": "fabric",
       "type": "single",
       "chapterIndex": 17,
-      "globalIndex": 1597,
-      "chapter": "ch080",
-      "chapterName": "核心词汇 民主与权利 Unit 5",
+      "globalIndex": 3535,
+      "chapter": "ch122",
+      "chapterName": "认知词汇 科技分类 染料与颜料",
       "pronunciation": {
-        "us": "/ˈvaɪəˌleɪt/"
+        "us": "/ˈfæbrɪk/"
       },
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "违反",
-          "en": "To break or disregard a law, rule, or agreement."
+          "pos": "n.",
+          "zh": "织物",
+          "en": "A material made by weaving fibers together."
         },
         {
-          "pos": "v.",
-          "zh": "侵犯",
-          "en": "To treat someone or something in a way that is disrespectful or harmful."
+          "pos": "n.",
+          "zh": "构成，结构",
+          "en": "The underlying structure or framework of something."
         }
       ],
       "examples": [
         {
-          "en": "The company was fined for violating environmental regulations.",
-          "zh": "该公司因违反环保法规而被罚款。"
+          "en": "The dress is made from a soft and comfortable fabric.",
+          "zh": "这条裙子是用柔软舒适的织物制成的。"
         },
         {
-          "en": "He felt that his privacy was violated by the media.",
-          "zh": "他觉得自己的隐私被媒体侵犯了。"
+          "en": "The fabric of society is changing due to technology.",
+          "zh": "由于技术的进步，社会的结构正在发生变化。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'violate' as 'violation' of rules, which can help you remember its meaning."
+        "association": "Think of 'fabric' as the 'fabric' of life, which includes both materials and social structures."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=violate&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=fabric&type=2"
     },
     {
-      "id": "w00697",
-      "word": "prosperous",
+      "id": "w03533",
+      "word": "disperse dye",
+      "type": "phrase",
+      "chapterIndex": 15,
+      "globalIndex": 3533,
+      "chapter": "ch122",
+      "chapterName": "认知词汇 科技分类 染料与颜料",
+      "pronunciation": {
+        "us": "/dɪsˈpɜrs daɪ/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "分散染料",
+          "en": "A type of dye that can spread evenly in water."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Disperse dyes are often used for coloring synthetic fabrics.",
+          "zh": "分散染料通常用于给合成面料上色。"
+        },
+        {
+          "en": "Artists prefer disperse dyes for their vibrant colors and fastness.",
+          "zh": "艺术家喜欢分散染料，因为它们的色彩鲜艳且耐光。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'disperse' as 'spread out' and 'dye' as 'color'; together, they create colors that spread out in materials."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disperse%20dye&type=2"
+    },
+    {
+      "id": "w03543",
+      "word": "jute",
       "type": "single",
-      "chapterIndex": 17,
-      "globalIndex": 697,
-      "chapter": "ch035",
-      "chapterName": "基本词汇 形容词和副词400 Unit 15",
+      "chapterIndex": 25,
+      "globalIndex": 3543,
+      "chapter": "ch122",
+      "chapterName": "认知词汇 科技分类 染料与颜料",
       "pronunciation": {
-        "us": "/ˈprɒspərəs/"
+        "us": "/dʒuːt/"
       },
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "繁荣的",
-          "en": "Having success, wealth, or good fortune."
+          "pos": "n.",
+          "zh": "黄麻",
+          "en": "A strong fiber used to make ropes and bags."
         },
         {
-          "pos": "adj.",
-          "zh": "兴旺的",
-          "en": "Characterized by growth and success in business or life."
+          "pos": "n.",
+          "zh": "黄麻植物",
+          "en": "The plant that produces jute fiber, often grown in tropical regions."
         }
       ],
       "examples": [
         {
-          "en": "The prosperous city attracted many new businesses and residents.",
-          "zh": "这个繁荣的城市吸引了许多新企业和居民。"
+          "en": "Jute is a popular material for making eco-friendly bags.",
+          "zh": "黄麻是一种流行的环保袋材料。"
         },
         {
-          "en": "After years of hard work, he finally became prosperous and happy.",
-          "zh": "经过多年的努力工作，他终于变得繁荣和快乐。"
+          "en": "Farmers in Bangladesh grow jute for its strong fibers.",
+          "zh": "孟加拉国的农民种植黄麻以获取其强韧的纤维。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'prosper' as 'prosperous', where both words are linked to success and wealth."
+        "association": "Think of 'jute' as 'juice' for plants, since it comes from a plant and is used in sustainable products."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=prosperous&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=jute&type=2"
     },
     {
-      "id": "w00352",
-      "word": "strain",
+      "id": "w02868",
+      "word": "smog",
+      "type": "single",
+      "chapterIndex": 48,
+      "globalIndex": 2868,
+      "chapter": "ch110",
+      "chapterName": "认知词汇 环境分类 伦敦大雾",
+      "pronunciation": {
+        "us": "/smɔɡ/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "烟雾",
+          "en": "A type of air pollution that is a mix of smoke and fog."
+        },
+        {
+          "pos": "n.",
+          "zh": "雾霾",
+          "en": "A thick cloud of smoke and dust in the air, reducing visibility."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The city was covered in smog, making it hard to breathe.",
+          "zh": "城市被烟雾笼罩，呼吸变得困难。"
+        },
+        {
+          "en": "Smog can cause serious health issues for many people.",
+          "zh": "烟雾可能对许多人造成严重的健康问题。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'smoke' and 'fog' coming together to form 'smog'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=smog&type=2"
+    },
+    {
+      "id": "w03357",
+      "word": "radiotelegraphy",
+      "type": "single",
+      "chapterIndex": 36,
+      "globalIndex": 3357,
+      "chapter": "ch120",
+      "chapterName": "认知词汇 科技分类 莫尔斯电码",
+      "pronunciation": {
+        "us": "/ˌreɪdioʊˈtɛlɪɡrəfi/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "无线电报通信",
+          "en": "The method of sending messages over long distances using radio waves."
+        },
+        {
+          "pos": "n.",
+          "zh": "无线电报机",
+          "en": "A system or device that transmits messages using radio signals."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Radiotelegraphy revolutionized communication in the early 20th century.",
+          "zh": "无线电报通信在20世纪初彻底改变了通信方式。"
+        },
+        {
+          "en": "Many ships used radiotelegraphy to send distress signals at sea.",
+          "zh": "许多船只使用无线电报通信在海上发送求救信号。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word combines 'radio', relating to waves, and 'telegraphy', which means writing at a distance.",
+        "association": "Think of 'radio' as a way to communicate across distances like a 'telegraph'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=radiotelegraphy&type=2"
+    },
+    {
+      "id": "w03681",
+      "word": "geographic information system",
+      "type": "phrase",
+      "chapterIndex": 37,
+      "globalIndex": 3681,
+      "chapter": "ch124",
+      "chapterName": "认知词汇 历史分类 地图发展史",
+      "pronunciation": {
+        "us": "/dʒiˈɒɡrəfɪk ɪn.fəˈmeɪ.ʃən ˈsɪs.təm/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "地理信息系统",
+          "en": "A system that captures, stores, analyzes, and manages geographic data."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The geographic information system helps in urban planning and development.",
+          "zh": "地理信息系统有助于城市规划和发展。"
+        },
+        {
+          "en": "Scientists use a geographic information system to map environmental changes.",
+          "zh": "科学家使用地理信息系统来绘制环境变化图。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of GIS as a map that provides detailed information about locations."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=geographic%20information%20system&type=2"
+    },
+    {
+      "id": "w03606",
+      "word": "inorganic",
+      "type": "single",
+      "chapterIndex": 39,
+      "globalIndex": 3606,
+      "chapter": "ch123",
+      "chapterName": "认知词汇 科技分类 探索太空生物",
+      "pronunciation": {
+        "us": "/ɪnˈɔːrɡənɪk/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "无机的",
+          "en": "Relating to substances that do not contain carbon."
+        },
+        {
+          "pos": "adj.",
+          "zh": "非生物的",
+          "en": "Not derived from living organisms."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Inorganic compounds are essential for many industrial processes.",
+          "zh": "无机化合物对许多工业过程至关重要。"
+        },
+        {
+          "en": "The study of inorganic chemistry focuses on non-carbon-based materials.",
+          "zh": "无机化学的研究集中在非碳基材料上。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The term 'inorganic' comes from 'in-' meaning 'not' and 'organic' meaning 'derived from living things.'"
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=inorganic&type=2"
+    },
+    {
+      "id": "w02972",
+      "word": "wildlife",
+      "type": "single",
+      "chapterIndex": 57,
+      "globalIndex": 2972,
+      "chapter": "ch112",
+      "chapterName": "认知词汇 环境分类 人类与动物灭绝",
+      "pronunciation": {
+        "us": "/ˈwaɪldˌlaɪf/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "野生动物",
+          "en": "Animals and plants that live in their natural environment."
+        },
+        {
+          "pos": "n.",
+          "zh": "野生生物",
+          "en": "All living creatures that are not domesticated."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Protecting wildlife is essential for maintaining a balanced ecosystem.",
+          "zh": "保护野生动物对维持生态平衡至关重要。"
+        },
+        {
+          "en": "Many countries have laws to protect endangered wildlife species.",
+          "zh": "许多国家有法律保护濒危野生动物物种。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'wild' as untamed and 'life' as living things, connecting them to nature."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=wildlife&type=2"
+    },
+    {
+      "id": "w03530",
+      "word": "condensation",
       "type": "single",
       "chapterIndex": 12,
-      "globalIndex": 352,
-      "chapter": "ch018",
-      "chapterName": "基本词汇 名词200 Unit 8",
+      "globalIndex": 3530,
+      "chapter": "ch122",
+      "chapterName": "认知词汇 科技分类 染料与颜料",
       "pronunciation": {
-        "us": "/streɪn/"
+        "us": "/ˌkɒn.dənˈseɪ.ʃən/"
       },
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "施加压力",
-          "en": "To exert pressure or force on something."
+          "pos": "n.",
+          "zh": "凝结",
+          "en": "The process of water vapor turning into liquid."
         },
         {
           "pos": "n.",
-          "zh": "压力",
-          "en": "A state of tension or stress."
+          "zh": "浓缩",
+          "en": "The act of making something shorter or more concentrated."
         }
       ],
       "examples": [
         {
-          "en": "The constant strain of work led to his health problems.",
-          "zh": "持续的工作压力导致了他的健康问题。"
+          "en": "Condensation forms on the outside of a cold glass of water.",
+          "zh": "冷水杯外侧会形成凝结水珠。"
         },
         {
-          "en": "She felt a strain in her back after lifting the heavy box.",
-          "zh": "搬动重箱子后，她感到背部有些紧张。"
+          "en": "The condensation of the report helped to highlight key points.",
+          "zh": "报告的浓缩有助于突出关键要点。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'strain' as a string being pulled tight; it represents tension."
+        "association": "Think of 'condensation' as 'con-dense', meaning to make something denser or more concentrated."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=strain&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=condensation&type=2"
     },
     {
-      "id": "w00496",
-      "word": "demanding",
+      "id": "w02936",
+      "word": "exploiter",
       "type": "single",
-      "chapterIndex": 16,
-      "globalIndex": 496,
-      "chapter": "ch025",
-      "chapterName": "基本词汇 形容词和副词400 Unit 5",
+      "chapterIndex": 21,
+      "globalIndex": 2936,
+      "chapter": "ch112",
+      "chapterName": "认知词汇 环境分类 人类与动物灭绝",
       "pronunciation": {
-        "us": "/dɪˈmændɪŋ/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "苛求的",
-          "en": "Something that requires a lot of effort or attention."
-        },
-        {
-          "pos": "adj.",
-          "zh": "要求高的",
-          "en": "A person or situation that is very hard to satisfy."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The job can be very demanding, requiring long hours and dedication.",
-          "zh": "这份工作可能非常苛求，需要长时间和奉献精神。"
-        },
-        {
-          "en": "She is a demanding teacher who expects her students to excel.",
-          "zh": "她是一位要求严格的老师，期望学生表现出色。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'demanding' as a 'demand' for high standards, similar to a strict parent."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=demanding&type=2"
-    },
-    {
-      "id": "w00005",
-      "word": "abuse",
-      "type": "single",
-      "chapterIndex": 5,
-      "globalIndex": 5,
-      "chapter": "ch001",
-      "chapterName": "基本词汇 动词200 Unit 1",
-      "pronunciation": {
-        "us": "/əˈbjuz/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "滥用；虐待",
-          "en": "To use something in a harmful or wrong way."
-        },
-        {
-          "pos": "n.",
-          "zh": "虐待；滥用",
-          "en": "The act of treating someone or something badly."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The organization works to prevent child abuse in our community.",
-          "zh": "该组织致力于防止我们社区的儿童虐待。"
-        },
-        {
-          "en": "Many people suffer from substance abuse due to addiction.",
-          "zh": "许多人因成瘾而遭受药物滥用。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'abuse' comes from the Latin 'abusus', meaning 'to use wrongly'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=abuse&type=2"
-    },
-    {
-      "id": "w02449",
-      "word": "casualties",
-      "type": "single",
-      "chapterIndex": 2,
-      "globalIndex": 2449,
-      "chapter": "ch102",
-      "chapterName": "认知词汇 自然分类 地震",
-      "pronunciation": {
-        "us": "/ˈkæʒ.u.əl.tiz/"
+        "us": "/ɪkˈsplɔɪtər/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "伤亡人员",
-          "en": "People who are killed or injured in a war or accident."
-        },
-        {
-          "pos": "n.",
-          "zh": "损失",
-          "en": "The total number of people affected by an event, particularly in terms of injuries or deaths."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The earthquake caused many casualties and widespread destruction.",
-          "zh": "这场地震造成了许多伤亡和广泛的破坏。"
-        },
-        {
-          "en": "The report highlighted the casualties from the recent conflict.",
-          "zh": "报告强调了最近冲突中的伤亡情况。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=casualties&type=2"
-    },
-    {
-      "id": "w00747",
-      "word": "susceptible",
-      "type": "single",
-      "chapterIndex": 7,
-      "globalIndex": 747,
-      "chapter": "ch038",
-      "chapterName": "基本词汇 形容词和副词400 Unit 18",
-      "pronunciation": {
-        "us": "/səˈsɛptəbl/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "易受影响的",
-          "en": "Able to be easily influenced or affected by something."
-        },
-        {
-          "pos": "adj.",
-          "zh": "易患病的",
-          "en": "Likely to suffer from a particular condition or illness."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Children are often more susceptible to infections than adults.",
-          "zh": "儿童通常比成年人更容易感染。"
-        },
-        {
-          "en": "Some people are more susceptible to stress during exams.",
-          "zh": "有些人在考试期间更容易受到压力的影响。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'susceptible' as being 'susceptible to' ideas or influences, like a sponge soaking up water."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=susceptible&type=2"
-    },
-    {
-      "id": "w01519",
-      "word": "corruption",
-      "type": "single",
-      "chapterIndex": 19,
-      "globalIndex": 1519,
-      "chapter": "ch076",
-      "chapterName": "核心词汇 民主与权利 Unit 1",
-      "pronunciation": {
-        "us": "/kəˈrʌpʃən/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "腐败",
-          "en": "Dishonest or unethical behavior by people in power."
-        },
-        {
-          "pos": "n.",
-          "zh": "损坏",
-          "en": "The process of something becoming damaged or altered."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Corruption in government can lead to serious social issues.",
-          "zh": "政府中的腐败可能导致严重的社会问题。"
-        },
-        {
-          "en": "The corruption of data can affect the accuracy of research.",
-          "zh": "数据的损坏可能影响研究的准确性。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'corrupt' as 'broken' or 'damaged', which can help remember its meanings."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=corruption&type=2"
-    },
-    {
-      "id": "w01011",
-      "word": "assimilate",
-      "type": "single",
-      "chapterIndex": 11,
-      "globalIndex": 1011,
-      "chapter": "ch051",
-      "chapterName": "核心词汇 文化与传统 Unit 1",
-      "pronunciation": {
-        "us": "/əˈsɪməˌleɪt/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "同化",
-          "en": "To absorb and integrate new information or ideas into existing knowledge."
+          "zh": "剥削者",
+          "en": "A person who takes advantage of others for personal gain."
         },
         {
           "pos": "v.",
-          "zh": "消化",
-          "en": "To adapt or adjust to a new environment or culture."
+          "zh": "利用",
+          "en": "To use something or someone to get an advantage."
         }
       ],
       "examples": [
         {
-          "en": "It takes time to assimilate all the information from the lecture.",
-          "zh": "消化讲座中的所有信息需要时间。"
+          "en": "The company was accused of being an exploiter of cheap labor.",
+          "zh": "该公司被指控为剥削廉价劳动力。"
         },
         {
-          "en": "Many immigrants find it challenging to assimilate into a new culture.",
-          "zh": "许多移民发现融入新文化是一个挑战。"
+          "en": "He was known to be an exploiter, taking advantage of vulnerable people.",
+          "zh": "他以剥削者而闻名，利用弱势群体。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'assimilate' as 'similar' - when you assimilate, you become similar to your surroundings."
+        "association": "Think of an 'exploiter' as someone who 'exploits' opportunities, particularly at the expense of others."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=assimilate&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=exploiter&type=2"
     },
     {
-      "id": "w04582",
-      "word": "personal and professional profile",
+      "id": "w02887",
+      "word": "food chain",
       "type": "phrase",
-      "chapterIndex": 40,
-      "globalIndex": 4582,
-      "chapter": "ch143",
-      "chapterName": "认知词汇 社会与生活分类 医生与药品推销",
+      "chapterIndex": 11,
+      "globalIndex": 2887,
+      "chapter": "ch111",
+      "chapterName": "认知词汇 环境分类 绿色农业",
       "pronunciation": {
-        "us": "/ˈpɜrsənl ənd prəˈfɛʃənl ˈproʊfaɪl/"
+        "us": "/fuːd tʃeɪn/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "个人与职业简介",
-          "en": "A summary of someone's personal and work experience."
-        },
-        {
-          "pos": "n.",
-          "zh": "个人与职业形象",
-          "en": "The overall impression a person gives based on their experiences."
+          "zh": "食物链",
+          "en": "A series of organisms each dependent on the next as a source of food."
         }
       ],
       "examples": [
         {
-          "en": "She updated her personal and professional profile on LinkedIn.",
-          "zh": "她在LinkedIn上更新了个人与职业简介。"
+          "en": "The food chain shows how energy flows in an ecosystem.",
+          "zh": "食物链展示了能量在生态系统中的流动方式。"
         },
         {
-          "en": "A strong personal and professional profile can attract employers.",
-          "zh": "一个强大的个人与职业形象可以吸引雇主。"
+          "en": "Human activities can disrupt the natural food chain in many habitats.",
+          "zh": "人类活动可以破坏许多栖息地中的自然食物链。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'profile' as a 'file' of your personal and work life."
+        "association": "Think of a chain where each link represents an organism that relies on the one before it for survival."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=personal%20and%20professional%20profile&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=food%20chain&type=2"
+    },
+    {
+      "id": "w02946",
+      "word": "heritage",
+      "type": "single",
+      "chapterIndex": 31,
+      "globalIndex": 2946,
+      "chapter": "ch112",
+      "chapterName": "认知词汇 环境分类 人类与动物灭绝",
+      "pronunciation": {
+        "us": "/ˈhɛrɪtɪdʒ/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "遗产",
+          "en": "Something important that is passed down from previous generations."
+        },
+        {
+          "pos": "n.",
+          "zh": "文化遗产",
+          "en": "Cultural traditions and values that are inherited."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The ancient ruins are part of our cultural heritage.",
+          "zh": "这些古代遗址是我们文化遗产的一部分。"
+        },
+        {
+          "en": "Preserving heritage is vital for future generations.",
+          "zh": "保护遗产对未来的世代至关重要。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'heritage' as the 'herit' that is 'age-old,' linking the past with the present."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=heritage&type=2"
+    },
+    {
+      "id": "w03643",
+      "word": "ultra-violet",
+      "type": "single",
+      "chapterIndex": 76,
+      "globalIndex": 3643,
+      "chapter": "ch123",
+      "chapterName": "认知词汇 科技分类 探索太空生物",
+      "pronunciation": {
+        "us": "/ˌʌl.trəˈvaɪ.lɪt/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "紫外的",
+          "en": "Relating to a type of light that is not visible to humans."
+        },
+        {
+          "pos": "n.",
+          "zh": "紫外线",
+          "en": "A type of radiation that can cause sunburn and other effects."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Ultra-violet light can cause skin damage if not protected.",
+          "zh": "如果不做好保护，紫外线会导致皮肤损伤。"
+        },
+        {
+          "en": "Scientists use ultra-violet rays to study molecular structures.",
+          "zh": "科学家使用紫外线研究分子结构。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'ultra' as something extreme, and 'violet' as a color in the spectrum that is just beyond visible light."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ultra-violet&type=2"
+    },
+    {
+      "id": "w03532",
+      "word": "direct dye",
+      "type": "phrase",
+      "chapterIndex": 14,
+      "globalIndex": 3532,
+      "chapter": "ch122",
+      "chapterName": "认知词汇 科技分类 染料与颜料",
+      "pronunciation": {
+        "us": "/dəˈrɛkt daɪ/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "直接染料",
+          "en": "A type of dye that bonds directly to the fabric without a mordant."
+        },
+        {
+          "pos": "v.",
+          "zh": "直接染色",
+          "en": "To color fabric by applying the dye directly to it."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Direct dyes are popular for their vibrant colors and ease of use.",
+          "zh": "直接染料因其鲜艳的颜色和易于使用而受到欢迎。"
+        },
+        {
+          "en": "Many artists prefer to direct dye their fabrics for unique effects.",
+          "zh": "许多艺术家喜欢直接染色他们的织物以获得独特效果。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=direct%20dye&type=2"
+    },
+    {
+      "id": "w02890",
+      "word": "germ",
+      "type": "single",
+      "chapterIndex": 14,
+      "globalIndex": 2890,
+      "chapter": "ch111",
+      "chapterName": "认知词汇 环境分类 绿色农业",
+      "pronunciation": {
+        "us": "/dʒɜrm/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "细菌",
+          "en": "A very small living thing that can cause disease."
+        },
+        {
+          "pos": "n.",
+          "zh": "萌芽",
+          "en": "The beginning or early stage of something."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Washing your hands can help eliminate harmful germs.",
+          "zh": "洗手可以帮助消灭有害的细菌。"
+        },
+        {
+          "en": "The germ of an idea can lead to great innovations.",
+          "zh": "一个想法的萌芽可能会导致伟大的创新。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'germ' as something that starts small, like a seed, and can grow into something bigger."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=germ&type=2"
+    },
+    {
+      "id": "w03562",
+      "word": "tannin",
+      "type": "single",
+      "chapterIndex": 44,
+      "globalIndex": 3562,
+      "chapter": "ch122",
+      "chapterName": "认知词汇 科技分类 染料与颜料",
+      "pronunciation": {
+        "us": "/ˈtæn.ɪn/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "单宁",
+          "en": "A type of natural substance found in plants that can make liquids taste bitter."
+        },
+        {
+          "pos": "n.",
+          "zh": "鞣酸",
+          "en": "A chemical used in the tanning process of leather."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Tannin is often responsible for the bitterness in red wine.",
+          "zh": "单宁通常是红酒中苦味的原因。"
+        },
+        {
+          "en": "The presence of tannin can affect the flavor of various beverages.",
+          "zh": "单宁的存在会影响各种饮料的味道。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'tannin' as 'tan' for leather, which relates to its use in tanning."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=tannin&type=2"
+    },
+    {
+      "id": "w03613",
+      "word": "microbial",
+      "type": "single",
+      "chapterIndex": 46,
+      "globalIndex": 3613,
+      "chapter": "ch123",
+      "chapterName": "认知词汇 科技分类 探索太空生物",
+      "pronunciation": {
+        "us": "/maɪˈkroʊ.bi.əl/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "微生物的",
+          "en": "Relating to microorganisms, which are tiny living things."
+        },
+        {
+          "pos": "adj.",
+          "zh": "微生物引起的",
+          "en": "Caused by or involving microbes, like bacteria or viruses."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The microbial life in soil is essential for plant growth.",
+          "zh": "土壤中的微生物生活对植物生长至关重要。"
+        },
+        {
+          "en": "Microbial infections can lead to serious health problems if untreated.",
+          "zh": "如果不治疗，微生物感染可能导致严重的健康问题。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'microbial' comes from 'microbe,' which is derived from the Greek 'mikros' meaning 'small.'"
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=microbial&type=2"
+    },
+    {
+      "id": "w02941",
+      "word": "forest ecosystem",
+      "type": "phrase",
+      "chapterIndex": 26,
+      "globalIndex": 2941,
+      "chapter": "ch112",
+      "chapterName": "认知词汇 环境分类 人类与动物灭绝",
+      "pronunciation": {
+        "us": "/ˈfɔrɪst ˌiːkəˈsɪstəm/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "森林生态系统",
+          "en": "A community of living organisms and their environment in a forest."
+        },
+        {
+          "pos": "n.",
+          "zh": "生态系统的组成部分",
+          "en": "The system formed by interactions among plants, animals, and microorganisms in a forest."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The forest ecosystem supports diverse species of plants and animals.",
+          "zh": "森林生态系统支持多样的植物和动物种类。"
+        },
+        {
+          "en": "Conserving the forest ecosystem is essential for environmental balance.",
+          "zh": "保护森林生态系统对环境平衡至关重要。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a 'forest' as a 'for rest' area where many organisms coexist peacefully."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=forest%20ecosystem&type=2"
     }
   ]
 }

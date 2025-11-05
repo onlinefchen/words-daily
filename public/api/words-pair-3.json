@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-04T22:07:50.076Z",
+  "generated": "2025-11-05T22:07:52.127Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "compassion",
-      "pronunciation": "/kəmˈpæʃ.ən/",
+      "word": "jute",
+      "pronunciation": "/dʒuːt/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "同情，怜悯",
-          "en": "A feeling of deep sympathy and concern for someone who is suffering."
+          "zh": "黄麻",
+          "en": "A strong fiber used to make ropes and bags."
         },
         {
           "pos": "n.",
-          "zh": "慈悲，仁爱",
-          "en": "A desire to help those who are in pain or distress."
+          "zh": "黄麻植物",
+          "en": "The plant that produces jute fiber, often grown in tropical regions."
         }
       ],
       "examples": [
         {
-          "en": "Her compassion for the homeless inspired many to help.",
-          "zh": "她对无家可归者的同情激励了许多人提供帮助。"
+          "en": "Jute is a popular material for making eco-friendly bags.",
+          "zh": "黄麻是一种流行的环保袋材料。"
         },
         {
-          "en": "Showing compassion can make a big difference in someone's life.",
-          "zh": "展现同情心可以对某人的生活产生重大影响。"
+          "en": "Farmers in Bangladesh grow jute for its strong fibers.",
+          "zh": "孟加拉国的农民种植黄麻以获取其强韧的纤维。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'compassion' as 'co-passion', where you share the feelings of others."
+        "association": "Think of 'jute' as 'juice' for plants, since it comes from a plant and is used in sustainable products."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compassion&type=2",
-      "chapter": "核心词汇 工作与生活 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=jute&type=2",
+      "chapter": "认知词汇 科技分类 染料与颜料"
     },
     {
-      "word": "compromise",
-      "pronunciation": "/ˈkɒmprəmaɪz/",
+      "word": "smog",
+      "pronunciation": "/smɔɡ/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "妥协",
-          "en": "To make a mutual agreement where both sides give up something."
+          "pos": "n.",
+          "zh": "烟雾",
+          "en": "A type of air pollution that is a mix of smoke and fog."
         },
         {
           "pos": "n.",
-          "zh": "妥协",
-          "en": "An agreement reached by each side making concessions."
+          "zh": "雾霾",
+          "en": "A thick cloud of smoke and dust in the air, reducing visibility."
         }
       ],
       "examples": [
         {
-          "en": "They decided to compromise on the terms of the contract.",
-          "zh": "他们决定在合同条款上做出妥协。"
+          "en": "The city was covered in smog, making it hard to breathe.",
+          "zh": "城市被烟雾笼罩，呼吸变得困难。"
         },
         {
-          "en": "Finding a compromise is essential for a successful negotiation.",
-          "zh": "找到妥协对成功的谈判至关重要。"
+          "en": "Smog can cause serious health issues for many people.",
+          "zh": "烟雾可能对许多人造成严重的健康问题。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'compromise' as 'com' (together) and 'promise' (to agree), meaning a mutual agreement."
+        "association": "Think of 'smoke' and 'fog' coming together to form 'smog'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compromise&type=2",
-      "chapter": "核心词汇 工作与生活 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=smog&type=2",
+      "chapter": "认知词汇 环境分类 伦敦大雾"
     }
   ]
 }

@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-04T22:07:50.077Z",
+  "generated": "2025-11-05T22:07:52.127Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "violate",
-      "pronunciation": "/ˈvaɪəˌleɪt/",
+      "word": "condensation",
+      "pronunciation": "/ˌkɒn.dənˈseɪ.ʃən/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "违反",
-          "en": "To break or disregard a law, rule, or agreement."
+          "pos": "n.",
+          "zh": "凝结",
+          "en": "The process of water vapor turning into liquid."
         },
         {
-          "pos": "v.",
-          "zh": "侵犯",
-          "en": "To treat someone or something in a way that is disrespectful or harmful."
+          "pos": "n.",
+          "zh": "浓缩",
+          "en": "The act of making something shorter or more concentrated."
         }
       ],
       "examples": [
         {
-          "en": "The company was fined for violating environmental regulations.",
-          "zh": "该公司因违反环保法规而被罚款。"
+          "en": "Condensation forms on the outside of a cold glass of water.",
+          "zh": "冷水杯外侧会形成凝结水珠。"
         },
         {
-          "en": "He felt that his privacy was violated by the media.",
-          "zh": "他觉得自己的隐私被媒体侵犯了。"
+          "en": "The condensation of the report helped to highlight key points.",
+          "zh": "报告的浓缩有助于突出关键要点。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'violate' as 'violation' of rules, which can help you remember its meaning."
+        "association": "Think of 'condensation' as 'con-dense', meaning to make something denser or more concentrated."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=violate&type=2",
-      "chapter": "核心词汇 民主与权利 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=condensation&type=2",
+      "chapter": "认知词汇 科技分类 染料与颜料"
     },
     {
-      "word": "prosperous",
-      "pronunciation": "/ˈprɒspərəs/",
+      "word": "exploiter",
+      "pronunciation": "/ɪkˈsplɔɪtər/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "繁荣的",
-          "en": "Having success, wealth, or good fortune."
+          "pos": "n.",
+          "zh": "剥削者",
+          "en": "A person who takes advantage of others for personal gain."
         },
         {
-          "pos": "adj.",
-          "zh": "兴旺的",
-          "en": "Characterized by growth and success in business or life."
+          "pos": "v.",
+          "zh": "利用",
+          "en": "To use something or someone to get an advantage."
         }
       ],
       "examples": [
         {
-          "en": "The prosperous city attracted many new businesses and residents.",
-          "zh": "这个繁荣的城市吸引了许多新企业和居民。"
+          "en": "The company was accused of being an exploiter of cheap labor.",
+          "zh": "该公司被指控为剥削廉价劳动力。"
         },
         {
-          "en": "After years of hard work, he finally became prosperous and happy.",
-          "zh": "经过多年的努力工作，他终于变得繁荣和快乐。"
+          "en": "He was known to be an exploiter, taking advantage of vulnerable people.",
+          "zh": "他以剥削者而闻名，利用弱势群体。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'prosper' as 'prosperous', where both words are linked to success and wealth."
+        "association": "Think of an 'exploiter' as someone who 'exploits' opportunities, particularly at the expense of others."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=prosperous&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 15"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=exploiter&type=2",
+      "chapter": "认知词汇 环境分类 人类与动物灭绝"
     }
   ]
 }

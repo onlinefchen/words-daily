@@ -1,69 +1,64 @@
 {
-  "generated": "2025-11-04T22:07:50.077Z",
+  "generated": "2025-11-05T22:07:52.127Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "strain",
-      "pronunciation": "/streɪn/",
+      "word": "food chain",
+      "pronunciation": "/fuːd tʃeɪn/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "施加压力",
-          "en": "To exert pressure or force on something."
+          "pos": "n.",
+          "zh": "食物链",
+          "en": "A series of organisms each dependent on the next as a source of food."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The food chain shows how energy flows in an ecosystem.",
+          "zh": "食物链展示了能量在生态系统中的流动方式。"
+        },
+        {
+          "en": "Human activities can disrupt the natural food chain in many habitats.",
+          "zh": "人类活动可以破坏许多栖息地中的自然食物链。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a chain where each link represents an organism that relies on the one before it for survival."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=food%20chain&type=2",
+      "chapter": "认知词汇 环境分类 绿色农业"
+    },
+    {
+      "word": "heritage",
+      "pronunciation": "/ˈhɛrɪtɪdʒ/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "遗产",
+          "en": "Something important that is passed down from previous generations."
         },
         {
           "pos": "n.",
-          "zh": "压力",
-          "en": "A state of tension or stress."
+          "zh": "文化遗产",
+          "en": "Cultural traditions and values that are inherited."
         }
       ],
       "examples": [
         {
-          "en": "The constant strain of work led to his health problems.",
-          "zh": "持续的工作压力导致了他的健康问题。"
+          "en": "The ancient ruins are part of our cultural heritage.",
+          "zh": "这些古代遗址是我们文化遗产的一部分。"
         },
         {
-          "en": "She felt a strain in her back after lifting the heavy box.",
-          "zh": "搬动重箱子后，她感到背部有些紧张。"
+          "en": "Preserving heritage is vital for future generations.",
+          "zh": "保护遗产对未来的世代至关重要。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'strain' as a string being pulled tight; it represents tension."
+        "association": "Think of 'heritage' as the 'herit' that is 'age-old,' linking the past with the present."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=strain&type=2",
-      "chapter": "基本词汇 名词200 Unit 8"
-    },
-    {
-      "word": "demanding",
-      "pronunciation": "/dɪˈmændɪŋ/",
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "苛求的",
-          "en": "Something that requires a lot of effort or attention."
-        },
-        {
-          "pos": "adj.",
-          "zh": "要求高的",
-          "en": "A person or situation that is very hard to satisfy."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The job can be very demanding, requiring long hours and dedication.",
-          "zh": "这份工作可能非常苛求，需要长时间和奉献精神。"
-        },
-        {
-          "en": "She is a demanding teacher who expects her students to excel.",
-          "zh": "她是一位要求严格的老师，期望学生表现出色。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'demanding' as a 'demand' for high standards, similar to a strict parent."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=demanding&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=heritage&type=2",
+      "chapter": "认知词汇 环境分类 人类与动物灭绝"
     }
   ]
 }

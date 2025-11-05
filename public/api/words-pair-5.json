@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-04T22:07:50.077Z",
+  "generated": "2025-11-05T22:07:52.127Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "catastrophe",
-      "pronunciation": "/kəˈtæs.trə.fi/",
+      "word": "inorganic",
+      "pronunciation": "/ɪnˈɔːrɡənɪk/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "灾难",
-          "en": "A sudden event that causes great damage or suffering."
+          "pos": "adj.",
+          "zh": "无机的",
+          "en": "Relating to substances that do not contain carbon."
         },
         {
-          "pos": "n.",
-          "zh": "大失败",
-          "en": "A complete failure or disaster in a situation."
+          "pos": "adj.",
+          "zh": "非生物的",
+          "en": "Not derived from living organisms."
         }
       ],
       "examples": [
         {
-          "en": "The earthquake resulted in a catastrophe for the entire region.",
-          "zh": "这场地震导致了整个地区的灾难。"
+          "en": "Inorganic compounds are essential for many industrial processes.",
+          "zh": "无机化合物对许多工业过程至关重要。"
         },
         {
-          "en": "Her project turned into a catastrophe due to poor planning.",
-          "zh": "由于计划不周，她的项目变成了一个大失败。"
+          "en": "The study of inorganic chemistry focuses on non-carbon-based materials.",
+          "zh": "无机化学的研究集中在非碳基材料上。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'cat' and 'astro' (related to stars) to remember that a catastrophe is something that can be as shocking as a cat falling from the sky."
+        "etymology": "The term 'inorganic' comes from 'in-' meaning 'not' and 'organic' meaning 'derived from living things.'"
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=catastrophe&type=2",
-      "chapter": "核心词汇 科技发展 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=inorganic&type=2",
+      "chapter": "认知词汇 科技分类 探索太空生物"
     },
     {
-      "word": "realise",
-      "pronunciation": "/ˈriːəˌlaɪz/",
+      "word": "wildlife",
+      "pronunciation": "/ˈwaɪldˌlaɪf/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "意识到",
-          "en": "To become aware of something or understand it clearly."
+          "pos": "n.",
+          "zh": "野生动物",
+          "en": "Animals and plants that live in their natural environment."
         },
         {
-          "pos": "v.",
-          "zh": "实现",
-          "en": "To make something happen or to bring it into existence."
+          "pos": "n.",
+          "zh": "野生生物",
+          "en": "All living creatures that are not domesticated."
         }
       ],
       "examples": [
         {
-          "en": "I didn’t realize how important this decision was for my future.",
-          "zh": "我没有意识到这个决定对我的未来有多重要。"
+          "en": "Protecting wildlife is essential for maintaining a balanced ecosystem.",
+          "zh": "保护野生动物对维持生态平衡至关重要。"
         },
         {
-          "en": "She hopes to realize her dream of becoming a doctor one day.",
-          "zh": "她希望有一天能实现她成为医生的梦想。"
+          "en": "Many countries have laws to protect endangered wildlife species.",
+          "zh": "许多国家有法律保护濒危野生动物物种。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'real' in 'realize' as making something real or true."
+        "association": "Think of 'wild' as untamed and 'life' as living things, connecting them to nature."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=realise&type=2",
-      "chapter": "基本词汇 动词200 Unit 9"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=wildlife&type=2",
+      "chapter": "认知词汇 环境分类 人类与动物灭绝"
     }
   ]
 }
