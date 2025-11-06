@@ -1,69 +1,68 @@
 {
-  "generated": "2025-11-05T22:07:52.126Z",
+  "generated": "2025-11-06T22:07:53.081Z",
   "count": 2,
   "words": [
     {
-      "word": "obligation",
-      "pronunciation": "/ˌɑː.blɪˈɡeɪ.ʃən/",
+      "word": "smolt",
+      "pronunciation": "/smoʊlt/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "义务",
-          "en": "A duty or responsibility that you must do."
+          "zh": "小鱼",
+          "en": "A young salmon that has recently left its freshwater habitat for the sea."
         },
         {
-          "pos": "n.",
-          "zh": "承诺",
-          "en": "A promise or commitment to do something."
+          "pos": "v.",
+          "zh": "变成小鱼",
+          "en": "To undergo the process of becoming a smolt."
         }
       ],
       "examples": [
         {
-          "en": "Students have an obligation to complete their assignments on time.",
-          "zh": "学生有义务按时完成作业。"
+          "en": "The smolt swims downstream to begin its life in the ocean.",
+          "zh": "小鱼顺流而下，开始它在海洋中的生活。"
         },
         {
-          "en": "He felt a strong obligation to help his friends in need.",
-          "zh": "他感到有强烈的义务去帮助需要帮助的朋友。"
+          "en": "After several months, the young salmon turns into a smolt.",
+          "zh": "几个月后，年轻的鲑鱼变成了小鱼。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'obligation' comes from the Latin 'obligatio', meaning 'to bind'.",
-        "association": "Think of 'obligation' as being 'bound' to do something important."
+        "association": "Think of 'smolt' as 'small' fish transitioning to the sea."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=obligation&type=2",
-      "chapter": "核心词汇 工作与生活 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=smolt&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "indigenous language",
-      "pronunciation": "/ɪnˈdɪdʒ.ɪ.nəs ˈlæŋ.ɡwɪdʒ/",
+      "word": "accessible",
+      "pronunciation": "/əkˈsɛsəbl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "土著语言",
-          "en": "A language traditionally spoken by native people in a specific region."
+          "pos": "adj.",
+          "zh": "可接近的；可获得的",
+          "en": "Able to be reached or obtained easily."
         },
         {
-          "pos": "n.",
-          "zh": "本土语言",
-          "en": "A language that originates from a particular place, often used by local communities."
+          "pos": "adj.",
+          "zh": "无障碍的；易理解的",
+          "en": "Easy to understand or use, often referring to information."
         }
       ],
       "examples": [
         {
-          "en": "Many indigenous languages are at risk of disappearing today.",
-          "zh": "许多土著语言今天面临消失的风险。"
+          "en": "The library is accessible to all students and staff.",
+          "zh": "图书馆对所有学生和教职员工开放。"
         },
         {
-          "en": "Efforts are being made to preserve indigenous languages worldwide.",
-          "zh": "全球正在努力保护土著语言。"
+          "en": "This website provides accessible information for everyone.",
+          "zh": "这个网站为每个人提供了易于理解的信息。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'indigenous' as 'in' the 'native' place where these languages belong."
+        "association": "Think of 'access' in 'accessible' as being able to reach something easily, like a door that is always open."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=indigenous%20language&type=2",
-      "chapter": "阅读真题认知词汇 濒临灭绝的少数民族语言"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=accessible&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 1"
     }
   ]
 }

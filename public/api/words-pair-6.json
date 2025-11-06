@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-05T22:07:52.127Z",
+  "generated": "2025-11-06T22:07:53.081Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "condensation",
-      "pronunciation": "/ˌkɒn.dənˈseɪ.ʃən/",
+      "word": "bully",
+      "pronunciation": "/ˈbʊli/",
       "meanings": [
-        {
-          "pos": "n.",
-          "zh": "凝结",
-          "en": "The process of water vapor turning into liquid."
-        },
-        {
-          "pos": "n.",
-          "zh": "浓缩",
-          "en": "The act of making something shorter or more concentrated."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Condensation forms on the outside of a cold glass of water.",
-          "zh": "冷水杯外侧会形成凝结水珠。"
-        },
-        {
-          "en": "The condensation of the report helped to highlight key points.",
-          "zh": "报告的浓缩有助于突出关键要点。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'condensation' as 'con-dense', meaning to make something denser or more concentrated."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=condensation&type=2",
-      "chapter": "认知词汇 科技分类 染料与颜料"
-    },
-    {
-      "word": "exploiter",
-      "pronunciation": "/ɪkˈsplɔɪtər/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "剥削者",
-          "en": "A person who takes advantage of others for personal gain."
-        },
         {
           "pos": "v.",
-          "zh": "利用",
-          "en": "To use something or someone to get an advantage."
+          "zh": "欺负",
+          "en": "To hurt or intimidate someone, often repeatedly."
+        },
+        {
+          "pos": "n.",
+          "zh": "恶霸",
+          "en": "A person who uses strength or power to harm or intimidate others."
         }
       ],
       "examples": [
         {
-          "en": "The company was accused of being an exploiter of cheap labor.",
-          "zh": "该公司被指控为剥削廉价劳动力。"
+          "en": "No one should have to deal with a bully at school.",
+          "zh": "没有人应该在学校里应对恶霸。"
         },
         {
-          "en": "He was known to be an exploiter, taking advantage of vulnerable people.",
-          "zh": "他以剥削者而闻名，利用弱势群体。"
+          "en": "The teacher intervened when she saw a student being bullied.",
+          "zh": "老师介入了，当她看到一个学生被欺负时。"
         }
       ],
       "memoryTips": {
-        "association": "Think of an 'exploiter' as someone who 'exploits' opportunities, particularly at the expense of others."
+        "association": "Think of a 'bully' as someone who pushes others around, like a bull."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=exploiter&type=2",
-      "chapter": "认知词汇 环境分类 人类与动物灭绝"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=bully&type=2",
+      "chapter": "核心词汇 法制与犯罪 Unit 1"
+    },
+    {
+      "word": "strain",
+      "pronunciation": "/streɪn/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "施加压力",
+          "en": "To exert pressure or force on something."
+        },
+        {
+          "pos": "n.",
+          "zh": "压力",
+          "en": "A state of tension or stress."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The constant strain of work led to his health problems.",
+          "zh": "持续的工作压力导致了他的健康问题。"
+        },
+        {
+          "en": "She felt a strain in her back after lifting the heavy box.",
+          "zh": "搬动重箱子后，她感到背部有些紧张。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'strain' as a string being pulled tight; it represents tension."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=strain&type=2",
+      "chapter": "基本词汇 名词200 Unit 8"
     }
   ]
 }

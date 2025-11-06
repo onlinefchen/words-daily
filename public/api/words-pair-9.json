@@ -1,69 +1,70 @@
 {
-  "generated": "2025-11-05T22:07:52.128Z",
+  "generated": "2025-11-06T22:07:53.081Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "germ",
-      "pronunciation": "/dʒɜrm/",
+      "word": "seismograph",
+      "pronunciation": "/ˈsaɪzməˌgræf/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "细菌",
-          "en": "A very small living thing that can cause disease."
+          "zh": "地震仪",
+          "en": "A device that records the motion of the ground during an earthquake."
         },
         {
           "pos": "n.",
-          "zh": "萌芽",
-          "en": "The beginning or early stage of something."
+          "zh": "震动记录仪",
+          "en": "An instrument used to measure and record seismic activity."
         }
       ],
       "examples": [
         {
-          "en": "Washing your hands can help eliminate harmful germs.",
-          "zh": "洗手可以帮助消灭有害的细菌。"
+          "en": "The seismograph detected a small earthquake last night.",
+          "zh": "地震仪昨晚探测到了一次小地震。"
         },
         {
-          "en": "The germ of an idea can lead to great innovations.",
-          "zh": "一个想法的萌芽可能会导致伟大的创新。"
+          "en": "Scientists use seismographs to study the Earth's movements.",
+          "zh": "科学家使用地震仪研究地球的运动。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'germ' as something that starts small, like a seed, and can grow into something bigger."
+        "association": "Think of 'seismo-' relating to earthquakes and 'graph' as something that records data."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=germ&type=2",
-      "chapter": "认知词汇 环境分类 绿色农业"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=seismograph&type=2",
+      "chapter": "认知词汇 自然分类 地震"
     },
     {
-      "word": "tannin",
-      "pronunciation": "/ˈtæn.ɪn/",
+      "word": "bewildering",
+      "pronunciation": "/bɪˈwɪldərɪŋ/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "单宁",
-          "en": "A type of natural substance found in plants that can make liquids taste bitter."
+          "pos": "adj.",
+          "zh": "令人困惑的",
+          "en": "Causing confusion or puzzlement."
         },
         {
-          "pos": "n.",
-          "zh": "鞣酸",
-          "en": "A chemical used in the tanning process of leather."
+          "pos": "adj.",
+          "zh": "令人惊讶的",
+          "en": "Extremely surprising or difficult to understand."
         }
       ],
       "examples": [
         {
-          "en": "Tannin is often responsible for the bitterness in red wine.",
-          "zh": "单宁通常是红酒中苦味的原因。"
+          "en": "The instructions were so bewildering that I gave up trying to understand.",
+          "zh": "这些指示令人困惑，我放弃了尝试理解。"
         },
         {
-          "en": "The presence of tannin can affect the flavor of various beverages.",
-          "zh": "单宁的存在会影响各种饮料的味道。"
+          "en": "Her sudden change of plans was bewildering for everyone involved.",
+          "zh": "她计划的突然变化让所有人都感到困惑。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'tannin' as 'tan' for leather, which relates to its use in tanning."
+        "etymology": "The word 'bewildering' comes from 'bewilder', which means to confuse or befuddle someone.",
+        "association": "Think of 'wild' as in untamed; something wild can be confusing or bewildering."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=tannin&type=2",
-      "chapter": "认知词汇 科技分类 染料与颜料"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=bewildering&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 3"
     }
   ]
 }

@@ -1,64 +1,69 @@
 {
-  "generated": "2025-11-05T22:07:52.127Z",
+  "generated": "2025-11-06T22:07:53.081Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "fabric",
-      "pronunciation": "/ˈfæbrɪk/",
+      "word": "treasure",
+      "pronunciation": "/ˈtrɛʒər/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "织物",
-          "en": "A material made by weaving fibers together."
+          "zh": "宝藏",
+          "en": "A valuable collection of items or something very precious."
         },
         {
-          "pos": "n.",
-          "zh": "构成，结构",
-          "en": "The underlying structure or framework of something."
+          "pos": "v.",
+          "zh": "珍视",
+          "en": "To hold something dear and value it highly."
         }
       ],
       "examples": [
         {
-          "en": "The dress is made from a soft and comfortable fabric.",
-          "zh": "这条裙子是用柔软舒适的织物制成的。"
+          "en": "The old chest contained a treasure of gold coins.",
+          "zh": "那个旧箱子里装着一箱金币的宝藏。"
         },
         {
-          "en": "The fabric of society is changing due to technology.",
-          "zh": "由于技术的进步，社会的结构正在发生变化。"
+          "en": "She treasures her grandmother's jewelry as a family heirloom.",
+          "zh": "她珍视祖母的珠宝，视其为家族遗产。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'fabric' as the 'fabric' of life, which includes both materials and social structures."
+        "association": "Think of treasure as something you 'trea-sure' or hold dear."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=fabric&type=2",
-      "chapter": "认知词汇 科技分类 染料与颜料"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=treasure&type=2",
+      "chapter": "基本词汇 名词200 Unit 9"
     },
     {
-      "word": "disperse dye",
-      "pronunciation": "/dɪsˈpɜrs daɪ/",
+      "word": "puppet",
+      "pronunciation": "/ˈpʌpɪt/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "分散染料",
-          "en": "A type of dye that can spread evenly in water."
+          "zh": "木偶",
+          "en": "A puppet is a figure that is moved by someone, often used in shows."
+        },
+        {
+          "pos": "n.",
+          "zh": "傀儡",
+          "en": "A puppet can also mean a person controlled by another, lacking independence."
         }
       ],
       "examples": [
         {
-          "en": "Disperse dyes are often used for coloring synthetic fabrics.",
-          "zh": "分散染料通常用于给合成面料上色。"
+          "en": "The children were excited to watch the puppet show at the festival.",
+          "zh": "孩子们很兴奋地观看节日的木偶表演。"
         },
         {
-          "en": "Artists prefer disperse dyes for their vibrant colors and fastness.",
-          "zh": "艺术家喜欢分散染料，因为它们的色彩鲜艳且耐光。"
+          "en": "He felt like a puppet, controlled by his boss's every decision.",
+          "zh": "他感觉自己像个傀儡，被老板的每个决定所控制。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'disperse' as 'spread out' and 'dye' as 'color'; together, they create colors that spread out in materials."
+        "association": "Think of a puppet as a 'puppy' that is controlled by a string, making it move."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disperse%20dye&type=2",
-      "chapter": "认知词汇 科技分类 染料与颜料"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=puppet&type=2",
+      "chapter": "认知词汇 历史分类 电影发展史"
     }
   ]
 }

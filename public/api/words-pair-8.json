@@ -1,67 +1,65 @@
 {
-  "generated": "2025-11-05T22:07:52.128Z",
+  "generated": "2025-11-06T22:07:53.081Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "ultra-violet",
-      "pronunciation": "/ˌʌl.trəˈvaɪ.lɪt/",
+      "word": "welfare",
+      "pronunciation": "/ˈwɛlˌfɛr/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "紫外的",
-          "en": "Relating to a type of light that is not visible to humans."
+          "pos": "n.",
+          "zh": "福利",
+          "en": "The health, happiness, and fortunes of a person or group."
         },
         {
           "pos": "n.",
-          "zh": "紫外线",
-          "en": "A type of radiation that can cause sunburn and other effects."
+          "zh": "社会保障",
+          "en": "Government support for those in need, such as financial aid."
         }
       ],
       "examples": [
         {
-          "en": "Ultra-violet light can cause skin damage if not protected.",
-          "zh": "如果不做好保护，紫外线会导致皮肤损伤。"
+          "en": "The government provides welfare to support low-income families.",
+          "zh": "政府提供福利以支持低收入家庭。"
         },
         {
-          "en": "Scientists use ultra-violet rays to study molecular structures.",
-          "zh": "科学家使用紫外线研究分子结构。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'ultra' as something extreme, and 'violet' as a color in the spectrum that is just beyond visible light."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ultra-violet&type=2",
-      "chapter": "认知词汇 科技分类 探索太空生物"
-    },
-    {
-      "word": "direct dye",
-      "pronunciation": "/dəˈrɛkt daɪ/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "直接染料",
-          "en": "A type of dye that bonds directly to the fabric without a mordant."
-        },
-        {
-          "pos": "v.",
-          "zh": "直接染色",
-          "en": "To color fabric by applying the dye directly to it."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Direct dyes are popular for their vibrant colors and ease of use.",
-          "zh": "直接染料因其鲜艳的颜色和易于使用而受到欢迎。"
-        },
-        {
-          "en": "Many artists prefer to direct dye their fabrics for unique effects.",
-          "zh": "许多艺术家喜欢直接染色他们的织物以获得独特效果。"
+          "en": "Welfare programs can help improve community health and education.",
+          "zh": "福利项目可以帮助改善社区健康和教育。"
         }
       ],
       "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=direct%20dye&type=2",
-      "chapter": "认知词汇 科技分类 染料与颜料"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=welfare&type=2",
+      "chapter": "核心词汇 民主与权利 Unit 5"
+    },
+    {
+      "word": "cheating",
+      "pronunciation": "/ˈtʃiːtɪŋ/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "作弊",
+          "en": "To act dishonestly to gain an advantage, especially in a test or game."
+        },
+        {
+          "pos": "n.",
+          "zh": "作弊行为",
+          "en": "The act of deceiving or breaking rules to achieve unfair success."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many students resort to cheating during exams to pass.",
+          "zh": "许多学生在考试中作弊以及格。"
+        },
+        {
+          "en": "Cheating undermines the integrity of academic institutions.",
+          "zh": "作弊破坏了学术机构的诚信。"
+        }
+      ],
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cheating&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 4"
     }
   ]
 }

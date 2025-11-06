@@ -1,69 +1,62 @@
 {
-  "generated": "2025-11-05T22:07:52.127Z",
+  "generated": "2025-11-06T22:07:53.081Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "jute",
-      "pronunciation": "/dʒuːt/",
+      "word": "conducive",
+      "pronunciation": "/kənˈduːsɪv/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "黄麻",
-          "en": "A strong fiber used to make ropes and bags."
-        },
-        {
-          "pos": "n.",
-          "zh": "黄麻植物",
-          "en": "The plant that produces jute fiber, often grown in tropical regions."
+          "pos": "adj.",
+          "zh": "有助于",
+          "en": "Making a situation likely or possible; helping to bring about."
         }
       ],
       "examples": [
         {
-          "en": "Jute is a popular material for making eco-friendly bags.",
-          "zh": "黄麻是一种流行的环保袋材料。"
+          "en": "A quiet environment is conducive to studying effectively.",
+          "zh": "安静的环境有助于有效学习。"
         },
         {
-          "en": "Farmers in Bangladesh grow jute for its strong fibers.",
-          "zh": "孟加拉国的农民种植黄麻以获取其强韧的纤维。"
+          "en": "The new policies created a conducive atmosphere for innovation.",
+          "zh": "新政策营造了有利于创新的氛围。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'jute' as 'juice' for plants, since it comes from a plant and is used in sustainable products."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=jute&type=2",
-      "chapter": "认知词汇 科技分类 染料与颜料"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=conducive&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 4"
     },
     {
-      "word": "smog",
-      "pronunciation": "/smɔɡ/",
+      "word": "optional",
+      "pronunciation": "/ˈɒpʃənl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "烟雾",
-          "en": "A type of air pollution that is a mix of smoke and fog."
+          "pos": "adj.",
+          "zh": "可选择的",
+          "en": "Not required; something that you can choose to do or not."
         },
         {
           "pos": "n.",
-          "zh": "雾霾",
-          "en": "A thick cloud of smoke and dust in the air, reducing visibility."
+          "zh": "选修课程",
+          "en": "A choice that is available but not compulsory."
         }
       ],
       "examples": [
         {
-          "en": "The city was covered in smog, making it hard to breathe.",
-          "zh": "城市被烟雾笼罩，呼吸变得困难。"
+          "en": "Choosing an optional course can enhance your learning experience.",
+          "zh": "选择一门选修课程可以增强你的学习体验。"
         },
         {
-          "en": "Smog can cause serious health issues for many people.",
-          "zh": "烟雾可能对许多人造成严重的健康问题。"
+          "en": "The extra homework is optional, but it can help you improve.",
+          "zh": "额外的作业是可选的，但它可以帮助你提高。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'smoke' and 'fog' coming together to form 'smog'."
+        "association": "Think of 'optional' as 'opting in or out'; you have a choice."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=smog&type=2",
-      "chapter": "认知词汇 环境分类 伦敦大雾"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=optional&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 13"
     }
   ]
 }

@@ -1,69 +1,70 @@
 {
-  "generated": "2025-11-05T22:07:52.127Z",
+  "generated": "2025-11-06T22:07:53.081Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "inorganic",
-      "pronunciation": "/ɪnˈɔːrɡənɪk/",
+      "word": "slaughter",
+      "pronunciation": "/ˈslɔːtər/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "无机的",
-          "en": "Relating to substances that do not contain carbon."
+          "pos": "v.",
+          "zh": "屠杀; 杀戮",
+          "en": "To kill animals for food or to kill a large number of people."
         },
         {
-          "pos": "adj.",
-          "zh": "非生物的",
-          "en": "Not derived from living organisms."
+          "pos": "n.",
+          "zh": "屠杀; 杀戮",
+          "en": "The act of killing a large number of animals or people."
         }
       ],
       "examples": [
         {
-          "en": "Inorganic compounds are essential for many industrial processes.",
-          "zh": "无机化合物对许多工业过程至关重要。"
+          "en": "The slaughter of animals for food raises ethical questions.",
+          "zh": "为食物屠杀动物引发了伦理问题。"
         },
         {
-          "en": "The study of inorganic chemistry focuses on non-carbon-based materials.",
-          "zh": "无机化学的研究集中在非碳基材料上。"
+          "en": "The documentary highlighted the slaughter that occurs during wars.",
+          "zh": "这部纪录片强调了战争中发生的屠杀。"
         }
       ],
       "memoryTips": {
-        "etymology": "The term 'inorganic' comes from 'in-' meaning 'not' and 'organic' meaning 'derived from living things.'"
+        "association": "Think of 'slaughter' as 'slay' and 'laughter' combined; it's a serious act that contrasts with joy."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=inorganic&type=2",
-      "chapter": "认知词汇 科技分类 探索太空生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=slaughter&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 5"
     },
     {
-      "word": "wildlife",
-      "pronunciation": "/ˈwaɪldˌlaɪf/",
+      "word": "permissive",
+      "pronunciation": "/pərˈmɪsɪv/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "野生动物",
-          "en": "Animals and plants that live in their natural environment."
+          "pos": "adj.",
+          "zh": "宽容的，放任的",
+          "en": "Willing to allow freedom of behavior; not strict."
         },
         {
-          "pos": "n.",
-          "zh": "野生生物",
-          "en": "All living creatures that are not domesticated."
+          "pos": "adj.",
+          "zh": "过于宽容的",
+          "en": "Having few rules or limits; very lenient."
         }
       ],
       "examples": [
         {
-          "en": "Protecting wildlife is essential for maintaining a balanced ecosystem.",
-          "zh": "保护野生动物对维持生态平衡至关重要。"
+          "en": "The permissive attitude of the parents surprised the teachers.",
+          "zh": "父母的宽容态度让老师们感到惊讶。"
         },
         {
-          "en": "Many countries have laws to protect endangered wildlife species.",
-          "zh": "许多国家有法律保护濒危野生动物物种。"
+          "en": "Some believe that permissive parenting can lead to spoiled children.",
+          "zh": "有些人认为宽容的养育方式会导致孩子变得娇惯。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'wild' as untamed and 'life' as living things, connecting them to nature."
+        "etymology": "The word 'permissive' comes from 'permit', which means to allow or let happen.",
+        "association": "Think of 'permit' as giving permission; 'permissive' is an extension of that idea."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=wildlife&type=2",
-      "chapter": "认知词汇 环境分类 人类与动物灭绝"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=permissive&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 14"
     }
   ]
 }

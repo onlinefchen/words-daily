@@ -1,69 +1,64 @@
 {
-  "generated": "2025-11-05T22:07:52.128Z",
+  "generated": "2025-11-06T22:07:53.081Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "microbial",
-      "pronunciation": "/maɪˈkroʊ.bi.əl/",
+      "word": "indigenous",
+      "pronunciation": "/ɪnˈdɪdʒ.ɪ.nəs/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "微生物的",
-          "en": "Relating to microorganisms, which are tiny living things."
+          "zh": "土著的，原住民的",
+          "en": "Relating to the original people of a place."
         },
         {
-          "pos": "adj.",
-          "zh": "微生物引起的",
-          "en": "Caused by or involving microbes, like bacteria or viruses."
+          "pos": "n.",
+          "zh": "土著居民，原住民",
+          "en": "A person who belongs to the original population of a region."
         }
       ],
       "examples": [
         {
-          "en": "The microbial life in soil is essential for plant growth.",
-          "zh": "土壤中的微生物生活对植物生长至关重要。"
+          "en": "The indigenous tribes have lived in this region for centuries.",
+          "zh": "这些土著部落在这个地区生活了几个世纪。"
         },
         {
-          "en": "Microbial infections can lead to serious health problems if untreated.",
-          "zh": "如果不治疗，微生物感染可能导致严重的健康问题。"
+          "en": "Indigenous plants are crucial for maintaining local ecosystems.",
+          "zh": "土著植物对于维持当地生态系统至关重要。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'microbial' comes from 'microbe,' which is derived from the Greek 'mikros' meaning 'small.'"
+        "association": "Think of 'indigenous' as 'in-dig' - people who dig into their own soil and culture."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=microbial&type=2",
-      "chapter": "认知词汇 科技分类 探索太空生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=indigenous&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 10"
     },
     {
-      "word": "forest ecosystem",
-      "pronunciation": "/ˈfɔrɪst ˌiːkəˈsɪstəm/",
+      "word": "earthquake prediction",
+      "pronunciation": "/ˈɜrθkweɪk prɪˈdɪkʃən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "森林生态系统",
-          "en": "A community of living organisms and their environment in a forest."
-        },
-        {
-          "pos": "n.",
-          "zh": "生态系统的组成部分",
-          "en": "The system formed by interactions among plants, animals, and microorganisms in a forest."
+          "zh": "地震预测",
+          "en": "The process of forecasting when and where an earthquake will occur."
         }
       ],
       "examples": [
         {
-          "en": "The forest ecosystem supports diverse species of plants and animals.",
-          "zh": "森林生态系统支持多样的植物和动物种类。"
+          "en": "Scientists are working on improving earthquake prediction methods.",
+          "zh": "科学家们正在努力改善地震预测方法。"
         },
         {
-          "en": "Conserving the forest ecosystem is essential for environmental balance.",
-          "zh": "保护森林生态系统对环境平衡至关重要。"
+          "en": "Accurate earthquake prediction could save many lives and reduce damage.",
+          "zh": "准确的地震预测可以拯救许多生命并减少损失。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'forest' as a 'for rest' area where many organisms coexist peacefully."
+        "association": "Think of 'earthquake' as the shaking of the earth and 'prediction' as guessing what will happen, linking the two concepts."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=forest%20ecosystem&type=2",
-      "chapter": "认知词汇 环境分类 人类与动物灭绝"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=earthquake%20prediction&type=2",
+      "chapter": "认知词汇 自然分类 地震"
     }
   ]
 }
