@@ -1,70 +1,69 @@
 {
-  "generated": "2025-11-06T22:07:53.081Z",
+  "generated": "2025-11-07T22:07:45.813Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "seismograph",
-      "pronunciation": "/ˈsaɪzməˌgræf/",
+      "word": "spell",
+      "pronunciation": "/spɛl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "地震仪",
-          "en": "A device that records the motion of the ground during an earthquake."
+          "pos": "v.",
+          "zh": "拼写",
+          "en": "To write or say the letters of a word in the correct order."
         },
         {
           "pos": "n.",
-          "zh": "震动记录仪",
-          "en": "An instrument used to measure and record seismic activity."
+          "zh": "拼写",
+          "en": "The way in which a word is written with letters."
         }
       ],
       "examples": [
         {
-          "en": "The seismograph detected a small earthquake last night.",
-          "zh": "地震仪昨晚探测到了一次小地震。"
+          "en": "Can you spell your name for me, please?",
+          "zh": "请你为我拼写一下你的名字好吗？"
         },
         {
-          "en": "Scientists use seismographs to study the Earth's movements.",
-          "zh": "科学家使用地震仪研究地球的运动。"
+          "en": "The correct spelling of the word is important in writing.",
+          "zh": "这个词的正确拼写在写作中很重要。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'seismo-' relating to earthquakes and 'graph' as something that records data."
+        "association": "Think of 'spell' as casting a magical spell with letters to create words."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=seismograph&type=2",
-      "chapter": "认知词汇 自然分类 地震"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=spell&type=2",
+      "chapter": "核心词汇 科技发展 Unit 5"
     },
     {
-      "word": "bewildering",
-      "pronunciation": "/bɪˈwɪldərɪŋ/",
+      "word": "self-esteem",
+      "pronunciation": "/ˌsɛlf ɪˈstiːm/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "令人困惑的",
-          "en": "Causing confusion or puzzlement."
+          "pos": "n.",
+          "zh": "自尊",
+          "en": "Self-esteem is how much you value and respect yourself."
         },
         {
-          "pos": "adj.",
-          "zh": "令人惊讶的",
-          "en": "Extremely surprising or difficult to understand."
+          "pos": "n.",
+          "zh": "自信心",
+          "en": "It refers to your confidence in your own worth or abilities."
         }
       ],
       "examples": [
         {
-          "en": "The instructions were so bewildering that I gave up trying to understand.",
-          "zh": "这些指示令人困惑，我放弃了尝试理解。"
+          "en": "High self-esteem can lead to better mental health and happiness.",
+          "zh": "高自尊可以带来更好的心理健康和幸福感。"
         },
         {
-          "en": "Her sudden change of plans was bewildering for everyone involved.",
-          "zh": "她计划的突然变化让所有人都感到困惑。"
+          "en": "Building self-esteem is important for personal growth and success.",
+          "zh": "建立自尊对个人成长和成功很重要。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'bewildering' comes from 'bewilder', which means to confuse or befuddle someone.",
-        "association": "Think of 'wild' as in untamed; something wild can be confusing or bewildering."
+        "association": "Think of 'self' as your own identity and 'esteem' as respect. Together, they form how you regard yourself."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=bewildering&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=self-esteem&type=2",
+      "chapter": "核心词汇 法制与犯罪 Unit 5"
     }
   ]
 }

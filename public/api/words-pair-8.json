@@ -1,65 +1,69 @@
 {
-  "generated": "2025-11-06T22:07:53.081Z",
+  "generated": "2025-11-07T22:07:45.813Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "welfare",
-      "pronunciation": "/ˈwɛlˌfɛr/",
+      "word": "reliable",
+      "pronunciation": "/rɪˈlaɪəbl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "福利",
-          "en": "The health, happiness, and fortunes of a person or group."
+          "pos": "adj.",
+          "zh": "可靠的",
+          "en": "Able to be trusted or depended on."
         },
         {
-          "pos": "n.",
-          "zh": "社会保障",
-          "en": "Government support for those in need, such as financial aid."
+          "pos": "adj.",
+          "zh": "可靠的",
+          "en": "Consistently good in quality or performance."
         }
       ],
       "examples": [
         {
-          "en": "The government provides welfare to support low-income families.",
-          "zh": "政府提供福利以支持低收入家庭。"
+          "en": "I need a reliable source for my research project.",
+          "zh": "我需要一个可靠的来源来完成我的研究项目。"
         },
         {
-          "en": "Welfare programs can help improve community health and education.",
-          "zh": "福利项目可以帮助改善社区健康和教育。"
+          "en": "She is known for her reliable work ethic and dedication.",
+          "zh": "她以可靠的工作道德和奉献精神而闻名。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=welfare&type=2",
-      "chapter": "核心词汇 民主与权利 Unit 5"
+      "memoryTips": {
+        "association": "Think of 'rely' in 'reliable' as you can 'rely' on someone or something."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=reliable&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 16"
     },
     {
-      "word": "cheating",
-      "pronunciation": "/ˈtʃiːtɪŋ/",
+      "word": "conformity",
+      "pronunciation": "/kənˈfɔːrmɪti/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "作弊",
-          "en": "To act dishonestly to gain an advantage, especially in a test or game."
+          "pos": "n.",
+          "zh": "一致，遵从",
+          "en": "The act of following rules or standards."
         },
         {
           "pos": "n.",
-          "zh": "作弊行为",
-          "en": "The act of deceiving or breaking rules to achieve unfair success."
+          "zh": "适应，顺应",
+          "en": "Behavior that matches the expectations of a group."
         }
       ],
       "examples": [
         {
-          "en": "Many students resort to cheating during exams to pass.",
-          "zh": "许多学生在考试中作弊以及格。"
+          "en": "Many students feel pressure to maintain conformity in their social groups.",
+          "zh": "许多学生感受到在社交群体中保持一致性的压力。"
         },
         {
-          "en": "Cheating undermines the integrity of academic institutions.",
-          "zh": "作弊破坏了学术机构的诚信。"
+          "en": "Conformity can limit creativity and individual expression.",
+          "zh": "一致性可能会限制创造力和个人表达。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cheating&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 4"
+      "memoryTips": {
+        "association": "Think of 'conformity' as 'conforming' to norms, like wearing uniforms in schools."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=conformity&type=2",
+      "chapter": "核心词汇 民主与权利 Unit 1"
     }
   ]
 }

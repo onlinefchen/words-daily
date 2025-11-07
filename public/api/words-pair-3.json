@@ -1,62 +1,69 @@
 {
-  "generated": "2025-11-06T22:07:53.081Z",
+  "generated": "2025-11-07T22:07:45.812Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "conducive",
-      "pronunciation": "/kənˈduːsɪv/",
+      "word": "compassion",
+      "pronunciation": "/kəmˈpæʃən/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "有助于",
-          "en": "Making a situation likely or possible; helping to bring about."
-        }
-      ],
-      "examples": [
-        {
-          "en": "A quiet environment is conducive to studying effectively.",
-          "zh": "安静的环境有助于有效学习。"
-        },
-        {
-          "en": "The new policies created a conducive atmosphere for innovation.",
-          "zh": "新政策营造了有利于创新的氛围。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=conducive&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 4"
-    },
-    {
-      "word": "optional",
-      "pronunciation": "/ˈɒpʃənl/",
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "可选择的",
-          "en": "Not required; something that you can choose to do or not."
+          "pos": "n.",
+          "zh": "同情，怜悯",
+          "en": "A feeling of deep sympathy for someone who is suffering."
         },
         {
           "pos": "n.",
-          "zh": "选修课程",
-          "en": "A choice that is available but not compulsory."
+          "zh": "慈悲，善良",
+          "en": "The desire to help others and show kindness."
         }
       ],
       "examples": [
         {
-          "en": "Choosing an optional course can enhance your learning experience.",
-          "zh": "选择一门选修课程可以增强你的学习体验。"
+          "en": "Her compassion for the homeless inspired many to help.",
+          "zh": "她对无家可归者的同情激励了许多人去帮助。"
         },
         {
-          "en": "The extra homework is optional, but it can help you improve.",
-          "zh": "额外的作业是可选的，但它可以帮助你提高。"
+          "en": "Compassion is essential for building a caring community.",
+          "zh": "同情心对于建立一个关怀的社区是必不可少的。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'optional' as 'opting in or out'; you have a choice."
+        "association": "Think of 'compassion' as 'companion' + 'passion', suggesting a passionate connection with others' feelings."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=optional&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 13"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compassion&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 2"
+    },
+    {
+      "word": "pessimistic",
+      "pronunciation": "/ˌpɛsɪˈmɪstɪk/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "悲观的",
+          "en": "Having a negative outlook on life or expecting bad outcomes."
+        },
+        {
+          "pos": "adj.",
+          "zh": "消极的",
+          "en": "Believing that the worst will happen or that things will not improve."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Her pessimistic view made it hard to see any positive changes.",
+          "zh": "她悲观的观点使人难以看到任何积极的变化。"
+        },
+        {
+          "en": "Despite the challenges, he tried not to be pessimistic about the future.",
+          "zh": "尽管面临挑战，他试图对未来保持乐观。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'pessimistic' as 'pess' (like 'press') which can make you feel heavy and down."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pessimistic&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 14"
     }
   ]
 }

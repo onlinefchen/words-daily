@@ -1,70 +1,69 @@
 {
-  "generated": "2025-11-06T22:07:53.081Z",
+  "generated": "2025-11-07T22:07:45.813Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "depressed",
-      "pronunciation": "/dɪˈprɛst/",
+      "word": "regular",
+      "pronunciation": "/ˈrɛɡjələr/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "沮丧的",
-          "en": "Feeling sad and unhappy for a long time."
+          "zh": "定期的，规律的",
+          "en": "Happening at the same time or in a fixed pattern."
         },
         {
-          "pos": "v.",
-          "zh": "压抑",
-          "en": "To make someone or something less strong or powerful."
+          "pos": "n.",
+          "zh": "常客，常规",
+          "en": "Someone or something that is familiar and often present."
         }
       ],
       "examples": [
         {
-          "en": "She felt depressed after receiving the bad news about her exam.",
-          "zh": "她在收到关于考试的坏消息后感到沮丧。"
+          "en": "She goes to the gym for regular exercise every week.",
+          "zh": "她每周去健身房进行规律的锻炼。"
         },
         {
-          "en": "The gloomy weather often makes people feel depressed and unmotivated.",
-          "zh": "阴沉的天气常常让人感到沮丧和缺乏动力。"
+          "en": "He is a regular visitor at the local coffee shop.",
+          "zh": "他是当地咖啡店的常客。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'depressed' as being pressed down by heavy feelings.",
-        "mnemonic": "D for down, meaning feeling low or sad."
+        "association": "Think of 'regular' as 'regulating' your habits, like a routine."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=depressed&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=regular&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 16"
     },
     {
-      "word": "crustal",
-      "pronunciation": "/ˈkrʌstl/",
+      "word": "addicted",
+      "pronunciation": "/əˈdɪk.tɪd/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "地壳的",
-          "en": "Relating to the outer layer of the Earth."
+          "zh": "上瘾的",
+          "en": "Being unable to stop doing something, usually harmful."
         },
         {
           "pos": "adj.",
-          "zh": "坚硬的",
-          "en": "Describing something that is hard or solid."
+          "zh": "沉迷的",
+          "en": "Having a strong desire for something, often to the detriment of other activities."
         }
       ],
       "examples": [
         {
-          "en": "The crustal movements caused several earthquakes last year.",
-          "zh": "地壳运动导致去年发生了几次地震。"
+          "en": "He is addicted to playing video games every night.",
+          "zh": "他每晚都沉迷于玩电子游戏。"
         },
         {
-          "en": "Scientists study crustal rocks to understand Earth's history.",
-          "zh": "科学家研究地壳岩石以了解地球的历史。"
+          "en": "Many teenagers are addicted to social media and cannot focus on studies.",
+          "zh": "许多青少年沉迷于社交媒体，无法专注于学习。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'crust' as the outer layer of a pie, similar to the Earth's crust."
+        "association": "Think of 'addicted' as being 'added' to something you can't give up."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=crustal&type=2",
-      "chapter": "认知词汇 自然分类 地震"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=addicted&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 1"
     }
   ]
 }

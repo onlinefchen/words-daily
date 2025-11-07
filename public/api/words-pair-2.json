@@ -1,69 +1,64 @@
 {
-  "generated": "2025-11-06T22:07:53.081Z",
+  "generated": "2025-11-07T22:07:45.812Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "treasure",
-      "pronunciation": "/ˈtrɛʒər/",
+      "word": "Fujiyama",
+      "pronunciation": "/fuːˈdʒiːˌɑːmə/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "宝藏",
-          "en": "A valuable collection of items or something very precious."
+          "zh": "富士山",
+          "en": "A famous mountain in Japan, known for its tall, symmetrical cone shape."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Fujiyama is often depicted in Japanese art and culture.",
+          "zh": "富士山常常出现在日本的艺术和文化中。"
+        },
+        {
+          "en": "Many tourists visit Fujiyama to enjoy its breathtaking views.",
+          "zh": "许多游客造访富士山以欣赏其令人叹为观止的景色。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'Fujiyama' as 'Fuji' meaning 'rich' and 'yama' meaning 'mountain' in Japanese, linking the name to its grandeur."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=Fujiyama&type=2",
+      "chapter": "认知词汇 自然分类 火山"
+    },
+    {
+      "word": "explore",
+      "pronunciation": "/ɪkˈsplɔːr/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "探索",
+          "en": "To travel around an area to learn about it."
         },
         {
           "pos": "v.",
-          "zh": "珍视",
-          "en": "To hold something dear and value it highly."
+          "zh": "研究",
+          "en": "To examine something in detail to understand it better."
         }
       ],
       "examples": [
         {
-          "en": "The old chest contained a treasure of gold coins.",
-          "zh": "那个旧箱子里装着一箱金币的宝藏。"
+          "en": "Scientists explore the ocean to discover new species.",
+          "zh": "科学家探索海洋以发现新物种。"
         },
         {
-          "en": "She treasures her grandmother's jewelry as a family heirloom.",
-          "zh": "她珍视祖母的珠宝，视其为家族遗产。"
+          "en": "We will explore the city to find interesting places.",
+          "zh": "我们将探索这座城市以寻找有趣的地方。"
         }
       ],
       "memoryTips": {
-        "association": "Think of treasure as something you 'trea-sure' or hold dear."
+        "association": "Think of 'explore' as 'exploring new doors' to find new opportunities or knowledge."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=treasure&type=2",
-      "chapter": "基本词汇 名词200 Unit 9"
-    },
-    {
-      "word": "puppet",
-      "pronunciation": "/ˈpʌpɪt/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "木偶",
-          "en": "A puppet is a figure that is moved by someone, often used in shows."
-        },
-        {
-          "pos": "n.",
-          "zh": "傀儡",
-          "en": "A puppet can also mean a person controlled by another, lacking independence."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The children were excited to watch the puppet show at the festival.",
-          "zh": "孩子们很兴奋地观看节日的木偶表演。"
-        },
-        {
-          "en": "He felt like a puppet, controlled by his boss's every decision.",
-          "zh": "他感觉自己像个傀儡，被老板的每个决定所控制。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of a puppet as a 'puppy' that is controlled by a string, making it move."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=puppet&type=2",
-      "chapter": "认知词汇 历史分类 电影发展史"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=explore&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 4"
     }
   ]
 }

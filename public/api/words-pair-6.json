@@ -1,69 +1,70 @@
 {
-  "generated": "2025-11-06T22:07:53.081Z",
+  "generated": "2025-11-07T22:07:45.812Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "bully",
-      "pronunciation": "/ˈbʊli/",
+      "word": "homesick",
+      "pronunciation": "/ˈhoʊmˌsɪk/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "欺负",
-          "en": "To hurt or intimidate someone, often repeatedly."
+          "pos": "adj.",
+          "zh": "思乡的",
+          "en": "Feeling sad because you are away from home."
         },
         {
           "pos": "n.",
-          "zh": "恶霸",
-          "en": "A person who uses strength or power to harm or intimidate others."
+          "zh": "思乡之情",
+          "en": "A feeling of sadness because you miss your home."
         }
       ],
       "examples": [
         {
-          "en": "No one should have to deal with a bully at school.",
-          "zh": "没有人应该在学校里应对恶霸。"
+          "en": "After moving to a new city, I often feel homesick and lonely.",
+          "zh": "搬到新城市后，我常常感到思乡和孤独。"
         },
         {
-          "en": "The teacher intervened when she saw a student being bullied.",
-          "zh": "老师介入了，当她看到一个学生被欺负时。"
+          "en": "She wrote a letter home because she was feeling homesick.",
+          "zh": "她写了一封信回家，因为她感到思乡。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'bully' as someone who pushes others around, like a bull."
+        "association": "Think of 'home' and 'sick' together; when you're far from home, you feel sick with longing."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=bully&type=2",
-      "chapter": "核心词汇 法制与犯罪 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=homesick&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 5"
     },
     {
-      "word": "strain",
-      "pronunciation": "/streɪn/",
+      "word": "sensational",
+      "pronunciation": "/sɛnˈseɪʃənl/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "施加压力",
-          "en": "To exert pressure or force on something."
+          "pos": "adj.",
+          "zh": "轰动的",
+          "en": "Very exciting or surprising, often in a way that attracts a lot of attention."
         },
         {
-          "pos": "n.",
-          "zh": "压力",
-          "en": "A state of tension or stress."
+          "pos": "adj.",
+          "zh": "极好的",
+          "en": "Extremely good or impressive, usually in a way that stands out."
         }
       ],
       "examples": [
         {
-          "en": "The constant strain of work led to his health problems.",
-          "zh": "持续的工作压力导致了他的健康问题。"
+          "en": "The movie received sensational reviews from critics and audiences alike.",
+          "zh": "这部电影得到了评论家和观众的轰动评价。"
         },
         {
-          "en": "She felt a strain in her back after lifting the heavy box.",
-          "zh": "搬动重箱子后，她感到背部有些紧张。"
+          "en": "Her sensational performance in the competition amazed everyone present.",
+          "zh": "她在比赛中的精彩表现让在场的每个人都惊叹不已。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'strain' as a string being pulled tight; it represents tension."
+        "etymology": "The word 'sensational' comes from 'sensation', which relates to feelings and perceptions.",
+        "association": "Think of 'sensation' like a thrilling news headline that grabs your attention."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=strain&type=2",
-      "chapter": "基本词汇 名词200 Unit 8"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sensational&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 17"
     }
   ]
 }

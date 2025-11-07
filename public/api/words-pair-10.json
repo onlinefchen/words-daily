@@ -1,64 +1,69 @@
 {
-  "generated": "2025-11-06T22:07:53.081Z",
+  "generated": "2025-11-07T22:07:45.813Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "indigenous",
-      "pronunciation": "/ɪnˈdɪdʒ.ɪ.nəs/",
+      "word": "absorb",
+      "pronunciation": "/əbˈzɔrb/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "土著的，原住民的",
-          "en": "Relating to the original people of a place."
+          "pos": "v.",
+          "zh": "吸收",
+          "en": "To take in a substance or information."
         },
         {
-          "pos": "n.",
-          "zh": "土著居民，原住民",
-          "en": "A person who belongs to the original population of a region."
+          "pos": "v.",
+          "zh": "理解",
+          "en": "To fully understand or grasp an idea."
         }
       ],
       "examples": [
         {
-          "en": "The indigenous tribes have lived in this region for centuries.",
-          "zh": "这些土著部落在这个地区生活了几个世纪。"
+          "en": "Plants absorb sunlight to produce their own food through photosynthesis.",
+          "zh": "植物吸收阳光通过光合作用制造自己的食物。"
         },
         {
-          "en": "Indigenous plants are crucial for maintaining local ecosystems.",
-          "zh": "土著植物对于维持当地生态系统至关重要。"
+          "en": "He needs time to absorb all the information from the lecture.",
+          "zh": "他需要时间来理解讲座中的所有信息。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'indigenous' as 'in-dig' - people who dig into their own soil and culture."
+        "association": "Think of a sponge absorbing water; it takes in liquid just like we absorb knowledge."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=indigenous&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 10"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=absorb&type=2",
+      "chapter": "核心词汇 环境保护 Unit 1"
     },
     {
-      "word": "earthquake prediction",
-      "pronunciation": "/ˈɜrθkweɪk prɪˈdɪkʃən/",
+      "word": "deforestation",
+      "pronunciation": "/ˌdiːfɔːrɪˈsteɪʃən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "地震预测",
-          "en": "The process of forecasting when and where an earthquake will occur."
+          "zh": "森林砍伐",
+          "en": "The process of cutting down trees in a forest."
+        },
+        {
+          "pos": "v.",
+          "zh": "砍伐森林",
+          "en": "To remove trees from a forest area."
         }
       ],
       "examples": [
         {
-          "en": "Scientists are working on improving earthquake prediction methods.",
-          "zh": "科学家们正在努力改善地震预测方法。"
+          "en": "Deforestation leads to loss of wildlife habitats and biodiversity.",
+          "zh": "森林砍伐导致野生动物栖息地和生物多样性的丧失。"
         },
         {
-          "en": "Accurate earthquake prediction could save many lives and reduce damage.",
-          "zh": "准确的地震预测可以拯救许多生命并减少损失。"
+          "en": "Many countries are facing severe problems due to deforestation.",
+          "zh": "许多国家因森林砍伐面临严重问题。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'earthquake' as the shaking of the earth and 'prediction' as guessing what will happen, linking the two concepts."
+        "etymology": "The word comes from 'de-' meaning removal and 'forestation' relating to forests."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=earthquake%20prediction&type=2",
-      "chapter": "认知词汇 自然分类 地震"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=deforestation&type=2",
+      "chapter": "核心词汇 环境保护 Unit 1"
     }
   ]
 }

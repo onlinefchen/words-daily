@@ -1,70 +1,70 @@
 {
-  "generated": "2025-11-06T22:07:53.081Z",
+  "generated": "2025-11-07T22:07:45.812Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "slaughter",
-      "pronunciation": "/ˈslɔːtər/",
+      "word": "sanitary",
+      "pronunciation": "/ˈsænɪˌtɛri/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "屠杀; 杀戮",
-          "en": "To kill animals for food or to kill a large number of people."
+          "pos": "adj.",
+          "zh": "卫生的",
+          "en": "Relating to health and cleanliness, preventing disease."
         },
         {
-          "pos": "n.",
-          "zh": "屠杀; 杀戮",
-          "en": "The act of killing a large number of animals or people."
+          "pos": "adj.",
+          "zh": "符合卫生标准的",
+          "en": "Suitable for maintaining good health, especially in food and living conditions."
         }
       ],
       "examples": [
         {
-          "en": "The slaughter of animals for food raises ethical questions.",
-          "zh": "为食物屠杀动物引发了伦理问题。"
+          "en": "The restaurant passed the health inspection due to its sanitary conditions.",
+          "zh": "这家餐厅因其卫生条件通过了健康检查。"
         },
         {
-          "en": "The documentary highlighted the slaughter that occurs during wars.",
-          "zh": "这部纪录片强调了战争中发生的屠杀。"
+          "en": "Keeping your home sanitary is essential for your family's well-being.",
+          "zh": "保持家庭卫生对家庭的健康至关重要。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'slaughter' as 'slay' and 'laughter' combined; it's a serious act that contrasts with joy."
+        "etymology": "The word 'sanitary' comes from the Latin 'sanitas', meaning health.",
+        "association": "Think of 'sanitary' as 'sanity' for your environment, promoting a healthy space."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=slaughter&type=2",
-      "chapter": "核心词汇 动物权益与保护 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sanitary&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 16"
     },
     {
-      "word": "permissive",
-      "pronunciation": "/pərˈmɪsɪv/",
+      "word": "innocent",
+      "pronunciation": "/ˈɪnəsənt/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "宽容的，放任的",
-          "en": "Willing to allow freedom of behavior; not strict."
+          "zh": "无辜的",
+          "en": "Not guilty of a crime; free from wrongdoing."
         },
         {
           "pos": "adj.",
-          "zh": "过于宽容的",
-          "en": "Having few rules or limits; very lenient."
+          "zh": "天真的",
+          "en": "Lacking experience or sophistication; naive."
         }
       ],
       "examples": [
         {
-          "en": "The permissive attitude of the parents surprised the teachers.",
-          "zh": "父母的宽容态度让老师们感到惊讶。"
+          "en": "The innocent child did not understand the situation.",
+          "zh": "那个无辜的孩子不理解这个情况。"
         },
         {
-          "en": "Some believe that permissive parenting can lead to spoiled children.",
-          "zh": "有些人认为宽容的养育方式会导致孩子变得娇惯。"
+          "en": "She maintained her innocent demeanor throughout the trial.",
+          "zh": "在整个审判过程中，她保持了无辜的举止。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'permissive' comes from 'permit', which means to allow or let happen.",
-        "association": "Think of 'permit' as giving permission; 'permissive' is an extension of that idea."
+        "association": "Think of 'innocent' as 'in-no-sin', meaning someone who has not committed any sins or wrongdoings."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=permissive&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 14"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=innocent&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 6"
     }
   ]
 }
