@@ -1,69 +1,68 @@
 {
-  "generated": "2025-11-07T22:07:45.813Z",
+  "generated": "2025-11-08T22:06:51.401Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "absorb",
-      "pronunciation": "/əbˈzɔrb/",
+      "word": "exploit",
+      "pronunciation": "/ɪkˈsplɔɪt/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "吸收",
-          "en": "To take in a substance or information."
+          "zh": "利用",
+          "en": "To make use of something for one's own benefit."
         },
-        {
-          "pos": "v.",
-          "zh": "理解",
-          "en": "To fully understand or grasp an idea."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Plants absorb sunlight to produce their own food through photosynthesis.",
-          "zh": "植物吸收阳光通过光合作用制造自己的食物。"
-        },
-        {
-          "en": "He needs time to absorb all the information from the lecture.",
-          "zh": "他需要时间来理解讲座中的所有信息。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of a sponge absorbing water; it takes in liquid just like we absorb knowledge."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=absorb&type=2",
-      "chapter": "核心词汇 环境保护 Unit 1"
-    },
-    {
-      "word": "deforestation",
-      "pronunciation": "/ˌdiːfɔːrɪˈsteɪʃən/",
-      "meanings": [
         {
           "pos": "n.",
-          "zh": "森林砍伐",
-          "en": "The process of cutting down trees in a forest."
-        },
-        {
-          "pos": "v.",
-          "zh": "砍伐森林",
-          "en": "To remove trees from a forest area."
+          "zh": "剥削",
+          "en": "An act of taking advantage of someone or something."
         }
       ],
       "examples": [
         {
-          "en": "Deforestation leads to loss of wildlife habitats and biodiversity.",
-          "zh": "森林砍伐导致野生动物栖息地和生物多样性的丧失。"
+          "en": "The company aims to exploit new technology for better efficiency.",
+          "zh": "该公司旨在利用新技术提高效率。"
         },
         {
-          "en": "Many countries are facing severe problems due to deforestation.",
-          "zh": "许多国家因森林砍伐面临严重问题。"
+          "en": "Many workers feel they are being exploited by their employers.",
+          "zh": "许多工人感到自己被雇主剥削。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word comes from 'de-' meaning removal and 'forestation' relating to forests."
+        "etymology": "The word 'exploit' comes from the Latin 'exploitatio', meaning 'to unfold' or 'to set forth'.",
+        "association": "Think of 'exploit' as 'using' an 'opportunity' to gain something valuable."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=deforestation&type=2",
-      "chapter": "核心词汇 环境保护 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=exploit&type=2",
+      "chapter": "核心词汇 民主与权利 Unit 2"
+    },
+    {
+      "word": "interfere",
+      "pronunciation": "/ˌɪn.təˈfɪr/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "干预，插手",
+          "en": "To get involved in a situation where you are not wanted."
+        },
+        {
+          "pos": "v.",
+          "zh": "妨碍，影响",
+          "en": "To cause problems or make something harder."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Please do not interfere with my personal decisions.",
+          "zh": "请不要干预我的个人决定。"
+        },
+        {
+          "en": "His actions may interfere with the project’s progress.",
+          "zh": "他的行为可能会影响项目的进展。"
+        }
+      ],
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=interfere&type=2",
+      "chapter": "核心词汇 民主与权利 Unit 3"
     }
   ]
 }

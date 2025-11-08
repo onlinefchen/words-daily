@@ -1,70 +1,69 @@
 {
-  "generated": "2025-11-07T22:07:45.812Z",
+  "generated": "2025-11-08T22:06:51.400Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "homesick",
-      "pronunciation": "/ˈhoʊmˌsɪk/",
+      "word": "aerodynamic construction",
+      "pronunciation": "/ˌɛəroʊdaɪˈnæmɪk kənˈstrʌkʃən/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "思乡的",
-          "en": "Feeling sad because you are away from home."
+          "zh": "空气动力学的",
+          "en": "Relating to the way air moves around things."
         },
         {
           "pos": "n.",
-          "zh": "思乡之情",
-          "en": "A feeling of sadness because you miss your home."
+          "zh": "气动结构",
+          "en": "A design or shape that reduces air resistance."
         }
       ],
       "examples": [
         {
-          "en": "After moving to a new city, I often feel homesick and lonely.",
-          "zh": "搬到新城市后，我常常感到思乡和孤独。"
+          "en": "The car's aerodynamic construction helps it move faster on highways.",
+          "zh": "这辆车的空气动力学结构帮助它在高速公路上更快行驶。"
         },
         {
-          "en": "She wrote a letter home because she was feeling homesick.",
-          "zh": "她写了一封信回家，因为她感到思乡。"
+          "en": "Engineers focus on aerodynamic construction to improve fuel efficiency.",
+          "zh": "工程师们专注于气动结构，以提高燃油效率。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'home' and 'sick' together; when you're far from home, you feel sick with longing."
+        "association": "Think of 'aero' as related to air, and 'dynamic' as something that moves or changes. Together, they describe how shapes interact with air."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=homesick&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aerodynamic%20construction&type=2",
+      "chapter": "认知词汇 动物分类 动物航行能力"
     },
     {
-      "word": "sensational",
-      "pronunciation": "/sɛnˈseɪʃənl/",
+      "word": "internal hormonal and neural mechanism",
+      "pronunciation": "/ɪnˈtɜrnəl ˈhɔr.mə.nəl ənd ˈnʊr.əl ˈmɛk.ə.nɪz.əm/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "轰动的",
-          "en": "Very exciting or surprising, often in a way that attracts a lot of attention."
+          "zh": "内部的",
+          "en": "Related to processes inside the body."
         },
         {
-          "pos": "adj.",
-          "zh": "极好的",
-          "en": "Extremely good or impressive, usually in a way that stands out."
+          "pos": "n.",
+          "zh": "机制",
+          "en": "A system or process that helps control functions."
         }
       ],
       "examples": [
         {
-          "en": "The movie received sensational reviews from critics and audiences alike.",
-          "zh": "这部电影得到了评论家和观众的轰动评价。"
+          "en": "The internal hormonal mechanism regulates our mood and emotions.",
+          "zh": "内部的激素机制调节我们的情绪和心情。"
         },
         {
-          "en": "Her sensational performance in the competition amazed everyone present.",
-          "zh": "她在比赛中的精彩表现让在场的每个人都惊叹不已。"
+          "en": "Neural mechanisms play a crucial role in how we perceive pain.",
+          "zh": "神经机制在我们感知疼痛的方式中起着关键作用。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'sensational' comes from 'sensation', which relates to feelings and perceptions.",
-        "association": "Think of 'sensation' like a thrilling news headline that grabs your attention."
+        "association": "Think of 'internal' as 'inside' and 'mechanism' as a 'machine' that works within your body."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sensational&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 17"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=internal%20hormonal%20and%20neural%20mechanism&type=2",
+      "chapter": "认知词汇 动物分类 动物行为"
     }
   ]
 }

@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-07T22:07:45.813Z",
+  "generated": "2025-11-08T22:06:51.401Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "spell",
-      "pronunciation": "/spɛl/",
+      "word": "morphology",
+      "pronunciation": "/mɔːrˈfɑːlədʒi/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "拼写",
-          "en": "To write or say the letters of a word in the correct order."
+          "pos": "n.",
+          "zh": "形态学",
+          "en": "The study of the structure and form of words in a language."
         },
         {
           "pos": "n.",
-          "zh": "拼写",
-          "en": "The way in which a word is written with letters."
+          "zh": "生物形态学",
+          "en": "The branch of biology that examines the form and structure of organisms."
         }
       ],
       "examples": [
         {
-          "en": "Can you spell your name for me, please?",
-          "zh": "请你为我拼写一下你的名字好吗？"
+          "en": "Morphology helps linguists understand word formation in different languages.",
+          "zh": "形态学帮助语言学家理解不同语言中的词汇形成。"
         },
         {
-          "en": "The correct spelling of the word is important in writing.",
-          "zh": "这个词的正确拼写在写作中很重要。"
+          "en": "In biology, morphology studies the physical characteristics of various species.",
+          "zh": "在生物学中，形态学研究不同物种的物理特征。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'spell' as casting a magical spell with letters to create words."
+        "etymology": "The word 'morphology' comes from the Greek 'morphē' meaning 'form' and 'logia' meaning 'study'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=spell&type=2",
-      "chapter": "核心词汇 科技发展 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=morphology&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "self-esteem",
-      "pronunciation": "/ˌsɛlf ɪˈstiːm/",
+      "word": "baboon",
+      "pronunciation": "/bəˈbuːn/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "自尊",
-          "en": "Self-esteem is how much you value and respect yourself."
+          "zh": "狒狒",
+          "en": "A large monkey with a long face and strong jaws, usually found in Africa."
         },
         {
           "pos": "n.",
-          "zh": "自信心",
-          "en": "It refers to your confidence in your own worth or abilities."
+          "zh": "粗鲁的人",
+          "en": "A rude or aggressive person, often used informally."
         }
       ],
       "examples": [
         {
-          "en": "High self-esteem can lead to better mental health and happiness.",
-          "zh": "高自尊可以带来更好的心理健康和幸福感。"
+          "en": "The baboon is known for its distinctive facial features and social behavior.",
+          "zh": "狒狒以其独特的面部特征和社交行为而闻名。"
         },
         {
-          "en": "Building self-esteem is important for personal growth and success.",
-          "zh": "建立自尊对个人成长和成功很重要。"
+          "en": "Some people describe rude individuals as behaving like a baboon.",
+          "zh": "有些人形容粗鲁的人像狒狒一样。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'self' as your own identity and 'esteem' as respect. Together, they form how you regard yourself."
+        "association": "Think of a baboon's loud noises and chaotic behavior, similar to a rude person's actions."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=self-esteem&type=2",
-      "chapter": "核心词汇 法制与犯罪 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=baboon&type=2",
+      "chapter": "认知词汇 动物分类 动物思维"
     }
   ]
 }

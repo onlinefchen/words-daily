@@ -1,70 +1,67 @@
 {
-  "generated": "2025-11-07T22:07:45.812Z",
+  "generated": "2025-11-08T22:06:51.400Z",
   "pair": 1,
   "count": 2,
   "words": [
     {
-      "word": "vineyard",
-      "pronunciation": "/ˈvɪn.jɑrd/",
+      "word": "job posting",
+      "pronunciation": "/dʒɑb ˈpoʊstɪŋ/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "葡萄园",
-          "en": "A vineyard is a place where grapevines are grown for making wine."
+          "zh": "职位发布",
+          "en": "A public announcement about a job opening."
         },
         {
           "pos": "n.",
-          "zh": "种植葡萄的地方",
-          "en": "It can also refer to any area where grapes are cultivated."
+          "zh": "招聘信息",
+          "en": "Information about a job that is available for applicants."
         }
       ],
       "examples": [
         {
-          "en": "The vineyard produces some of the finest wines in the region.",
-          "zh": "这个葡萄园出产该地区最优质的葡萄酒。"
+          "en": "The job posting was shared on several online platforms.",
+          "zh": "这个职位发布在多个在线平台上分享。"
         },
         {
-          "en": "We visited a beautiful vineyard during our trip to France.",
-          "zh": "我们在法国旅行时参观了一个美丽的葡萄园。"
+          "en": "She found the job posting in the local newspaper last week.",
+          "zh": "她上周在当地报纸上找到了这个招聘信息。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'vine' in 'vineyard' to remember it is related to grapes.",
-        "mnemonic": "Vine + yard = a yard full of vines (grapevines)."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vineyard&type=2",
-      "chapter": "认知词汇 自然分类 热带雨林"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=job%20posting&type=2",
+      "chapter": "认知词汇 社会与生活分类 工作与家庭冲突"
     },
     {
-      "word": "break down",
-      "pronunciation": "/breɪk daʊn/",
+      "word": "immature",
+      "pronunciation": "/ˌɪməˈtʃʊr/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "故障; 崩溃",
-          "en": "To stop functioning or to collapse."
+          "pos": "adj.",
+          "zh": "不成熟的",
+          "en": "Not fully developed; behaving like a child."
         },
         {
-          "pos": "v.",
-          "zh": "分解; 拆分",
-          "en": "To separate something into smaller parts for analysis."
+          "pos": "adj.",
+          "zh": "幼稚的",
+          "en": "Lacking in adult qualities or wisdom."
         }
       ],
       "examples": [
         {
-          "en": "My car broke down on the way to the meeting.",
-          "zh": "我的车在去会议的路上抛锚了。"
+          "en": "His immature behavior often annoys his friends.",
+          "zh": "他幼稚的行为常常让朋友感到烦恼。"
         },
         {
-          "en": "Let's break down the project into smaller tasks to make it easier.",
-          "zh": "让我们把项目分解成更小的任务，以便更容易完成。"
+          "en": "She made an immature decision that affected everyone.",
+          "zh": "她做出了一个影响所有人的幼稚决定。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a machine that breaks down when it gets too old or overused."
+        "association": "Think of 'immature' as 'not mature', like a fruit that isn't ripe."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=break%20down&type=2",
-      "chapter": "核心词汇 环境保护 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=immature&type=2",
+      "chapter": "核心词汇 法制与犯罪 Unit 2"
     }
   ]
 }

@@ -1,69 +1,70 @@
 {
-  "generated": "2025-11-07T22:07:45.813Z",
+  "generated": "2025-11-08T22:06:51.401Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "reliable",
-      "pronunciation": "/rɪˈlaɪəbl/",
+      "word": "gene",
+      "pronunciation": "/dʒiːn/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "可靠的",
-          "en": "Able to be trusted or depended on."
+          "pos": "n.",
+          "zh": "基因",
+          "en": "A unit of heredity that is passed from parents to offspring."
         },
         {
-          "pos": "adj.",
-          "zh": "可靠的",
-          "en": "Consistently good in quality or performance."
+          "pos": "n.",
+          "zh": "基因",
+          "en": "Part of DNA that determines specific traits in living organisms."
         }
       ],
       "examples": [
         {
-          "en": "I need a reliable source for my research project.",
-          "zh": "我需要一个可靠的来源来完成我的研究项目。"
+          "en": "Scientists are studying how genes affect human behavior.",
+          "zh": "科学家正在研究基因如何影响人类行为。"
         },
         {
-          "en": "She is known for her reliable work ethic and dedication.",
-          "zh": "她以可靠的工作道德和奉献精神而闻名。"
+          "en": "Gene therapy may offer new treatments for genetic disorders.",
+          "zh": "基因疗法可能为遗传疾病提供新的治疗方法。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'rely' in 'reliable' as you can 'rely' on someone or something."
+        "association": "Think of 'genes' as the 'blueprint' for physical traits, like eye color.",
+        "mnemonic": "Remember 'gene' by connecting it to 'scene'—both can define what you see."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=reliable&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 16"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=gene&type=2",
+      "chapter": "认知词汇 动物分类 动物行为"
     },
     {
-      "word": "conformity",
-      "pronunciation": "/kənˈfɔːrmɪti/",
+      "word": "illegal",
+      "pronunciation": "/ɪˈliːɡəl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "一致，遵从",
-          "en": "The act of following rules or standards."
+          "pos": "adj.",
+          "zh": "非法的",
+          "en": "Not allowed by the law."
         },
         {
-          "pos": "n.",
-          "zh": "适应，顺应",
-          "en": "Behavior that matches the expectations of a group."
+          "pos": "adj.",
+          "zh": "不合法的",
+          "en": "Doing something that is against the rules or regulations."
         }
       ],
       "examples": [
         {
-          "en": "Many students feel pressure to maintain conformity in their social groups.",
-          "zh": "许多学生感受到在社交群体中保持一致性的压力。"
+          "en": "The government is cracking down on illegal activities.",
+          "zh": "政府正在打击非法活动。"
         },
         {
-          "en": "Conformity can limit creativity and individual expression.",
-          "zh": "一致性可能会限制创造力和个人表达。"
+          "en": "He was arrested for driving an illegal vehicle.",
+          "zh": "他因驾驶非法车辆而被逮捕。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'conformity' as 'conforming' to norms, like wearing uniforms in schools."
+        "etymology": "The word 'illegal' comes from the Latin 'illegalis', where 'in-' means 'not' and 'legalis' means 'legal'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=conformity&type=2",
-      "chapter": "核心词汇 民主与权利 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=illegal&type=2",
+      "chapter": "核心词汇 民主与权利 Unit 2"
     }
   ]
 }

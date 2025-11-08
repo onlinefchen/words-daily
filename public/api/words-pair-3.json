@@ -1,69 +1,70 @@
 {
-  "generated": "2025-11-07T22:07:45.812Z",
+  "generated": "2025-11-08T22:06:51.400Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "compassion",
-      "pronunciation": "/kəmˈpæʃən/",
+      "word": "ovary",
+      "pronunciation": "/ˈoʊ.vər.i/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "同情，怜悯",
-          "en": "A feeling of deep sympathy for someone who is suffering."
+          "zh": "卵巢",
+          "en": "The organ in female animals that produces eggs."
         },
         {
           "pos": "n.",
-          "zh": "慈悲，善良",
-          "en": "The desire to help others and show kindness."
+          "zh": "卵巢的功能",
+          "en": "The part of the reproductive system that helps in reproduction."
         }
       ],
       "examples": [
         {
-          "en": "Her compassion for the homeless inspired many to help.",
-          "zh": "她对无家可归者的同情激励了许多人去帮助。"
+          "en": "The ovary is crucial for producing eggs in female mammals.",
+          "zh": "卵巢对雌性哺乳动物产生卵子至关重要。"
         },
         {
-          "en": "Compassion is essential for building a caring community.",
-          "zh": "同情心对于建立一个关怀的社区是必不可少的。"
+          "en": "Doctors often examine the ovary for any abnormalities.",
+          "zh": "医生通常会检查卵巢是否有任何异常。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'compassion' as 'companion' + 'passion', suggesting a passionate connection with others' feelings."
+        "association": "Think of 'ovary' as related to 'ovum' (egg), both are involved in reproduction."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compassion&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ovary&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "pessimistic",
-      "pronunciation": "/ˌpɛsɪˈmɪstɪk/",
+      "word": "content",
+      "pronunciation": "/ˈkɒn.tent/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "悲观的",
-          "en": "Having a negative outlook on life or expecting bad outcomes."
+          "zh": "满意的",
+          "en": "Feeling happy and satisfied with what you have."
         },
         {
-          "pos": "adj.",
-          "zh": "消极的",
-          "en": "Believing that the worst will happen or that things will not improve."
+          "pos": "n.",
+          "zh": "内容",
+          "en": "The information or material contained in something."
         }
       ],
       "examples": [
         {
-          "en": "Her pessimistic view made it hard to see any positive changes.",
-          "zh": "她悲观的观点使人难以看到任何积极的变化。"
+          "en": "She felt content after finishing her book.",
+          "zh": "她在完成书籍后感到满意。"
         },
         {
-          "en": "Despite the challenges, he tried not to be pessimistic about the future.",
-          "zh": "尽管面临挑战，他试图对未来保持乐观。"
+          "en": "The content of the video was both informative and entertaining.",
+          "zh": "视频的内容既有信息性又有娱乐性。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'pessimistic' as 'pess' (like 'press') which can make you feel heavy and down."
+        "association": "Think of 'content' as being 'contained' within yourself, feeling satisfied.",
+        "mnemonic": "Remember 'content' as 'con-tent' – when you are content, you feel 'tense-free' and relaxed."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pessimistic&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 14"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=content&type=2",
+      "chapter": "核心词汇 工作与生活 Unit 2"
     }
   ]
 }

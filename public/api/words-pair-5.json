@@ -1,70 +1,67 @@
 {
-  "generated": "2025-11-07T22:07:45.812Z",
+  "generated": "2025-11-08T22:06:51.400Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "sanitary",
-      "pronunciation": "/ˈsænɪˌtɛri/",
+      "word": "liberation",
+      "pronunciation": "/ˌlɪbəˈreɪʃən/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "卫生的",
-          "en": "Relating to health and cleanliness, preventing disease."
+          "pos": "n.",
+          "zh": "解放",
+          "en": "The act of setting someone free from restrictions."
         },
         {
-          "pos": "adj.",
-          "zh": "符合卫生标准的",
-          "en": "Suitable for maintaining good health, especially in food and living conditions."
+          "pos": "n.",
+          "zh": "自主",
+          "en": "The state of being free and independent."
         }
       ],
       "examples": [
         {
-          "en": "The restaurant passed the health inspection due to its sanitary conditions.",
-          "zh": "这家餐厅因其卫生条件通过了健康检查。"
+          "en": "The liberation of the country was celebrated with great joy.",
+          "zh": "国家的解放得到了热烈的庆祝。"
         },
         {
-          "en": "Keeping your home sanitary is essential for your family's well-being.",
-          "zh": "保持家庭卫生对家庭的健康至关重要。"
+          "en": "She felt a sense of liberation after leaving her job.",
+          "zh": "她在离开工作后感到一种解放感。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'sanitary' comes from the Latin 'sanitas', meaning health.",
-        "association": "Think of 'sanitary' as 'sanity' for your environment, promoting a healthy space."
+        "etymology": "The word 'liberation' comes from the Latin 'liberatio', which means 'to free'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sanitary&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 16"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=liberation&type=2",
+      "chapter": "核心词汇 民主与权利 Unit 3"
     },
     {
-      "word": "innocent",
-      "pronunciation": "/ˈɪnəsənt/",
+      "word": "detect",
+      "pronunciation": "/dɪˈtɛkt/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "无辜的",
-          "en": "Not guilty of a crime; free from wrongdoing."
+          "pos": "v.",
+          "zh": "发现，侦测",
+          "en": "To notice or discover something."
         },
         {
-          "pos": "adj.",
-          "zh": "天真的",
-          "en": "Lacking experience or sophistication; naive."
+          "pos": "v.",
+          "zh": "测出，探测",
+          "en": "To find out the presence of something, especially something hidden."
         }
       ],
       "examples": [
         {
-          "en": "The innocent child did not understand the situation.",
-          "zh": "那个无辜的孩子不理解这个情况。"
+          "en": "Scientists can detect changes in the climate very quickly.",
+          "zh": "科学家能够很快发现气候变化。"
         },
         {
-          "en": "She maintained her innocent demeanor throughout the trial.",
-          "zh": "在整个审判过程中，她保持了无辜的举止。"
+          "en": "The security system is designed to detect any unauthorized access.",
+          "zh": "安全系统旨在检测任何未经授权的访问。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'innocent' as 'in-no-sin', meaning someone who has not committed any sins or wrongdoings."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=innocent&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 6"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=detect&type=2",
+      "chapter": "认知词汇 动物分类 动物航行能力"
     }
   ]
 }

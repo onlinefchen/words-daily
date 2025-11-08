@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-07T22:07:45.813Z",
+  "generated": "2025-11-08T22:06:51.400Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "regular",
-      "pronunciation": "/ˈrɛɡjələr/",
+      "word": "untangle",
+      "pronunciation": "/ʌnˈtæŋɡl/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "定期的，规律的",
-          "en": "Happening at the same time or in a fixed pattern."
+          "pos": "v.",
+          "zh": "解开，理顺",
+          "en": "To separate things that are twisted together or caught in a knot."
+        },
+        {
+          "pos": "v.",
+          "zh": "理清，澄清",
+          "en": "To clarify or resolve complex issues or problems."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She took a few minutes to untangle the necklace from her hair.",
+          "zh": "她花了几分钟把项链从头发中解开。"
+        },
+        {
+          "en": "After hours of discussion, we finally managed to untangle the misunderstanding.",
+          "zh": "经过几个小时的讨论，我们终于理清了误解。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'untangle' as 'un' meaning 'not' and 'tangle' meaning 'to twist.' So, to untangle is to not be twisted."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=untangle&type=2",
+      "chapter": "认知词汇 动物分类 动物思维"
+    },
+    {
+      "word": "worker bee",
+      "pronunciation": "/ˈwɜrkər bi/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "工蜂",
+          "en": "A worker bee is a female bee that does not reproduce and performs tasks like gathering nectar and caring for the hive."
         },
         {
           "pos": "n.",
-          "zh": "常客，常规",
-          "en": "Someone or something that is familiar and often present."
+          "zh": "努力工作的人",
+          "en": "A worker bee can also refer to a person who works hard and performs necessary tasks in a group."
         }
       ],
       "examples": [
         {
-          "en": "She goes to the gym for regular exercise every week.",
-          "zh": "她每周去健身房进行规律的锻炼。"
+          "en": "The worker bee collects nectar to bring back to the hive.",
+          "zh": "工蜂采集花蜜带回蜂巢。"
         },
         {
-          "en": "He is a regular visitor at the local coffee shop.",
-          "zh": "他是当地咖啡店的常客。"
+          "en": "In the office, she is a real worker bee, always busy with projects.",
+          "zh": "在办公室里，她真的是个努力工作的人，总是忙于项目。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'regular' as 'regulating' your habits, like a routine."
+        "association": "Think of a busy bee constantly working in a garden, representing someone dedicated to their tasks."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=regular&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 16"
-    },
-    {
-      "word": "addicted",
-      "pronunciation": "/əˈdɪk.tɪd/",
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "上瘾的",
-          "en": "Being unable to stop doing something, usually harmful."
-        },
-        {
-          "pos": "adj.",
-          "zh": "沉迷的",
-          "en": "Having a strong desire for something, often to the detriment of other activities."
-        }
-      ],
-      "examples": [
-        {
-          "en": "He is addicted to playing video games every night.",
-          "zh": "他每晚都沉迷于玩电子游戏。"
-        },
-        {
-          "en": "Many teenagers are addicted to social media and cannot focus on studies.",
-          "zh": "许多青少年沉迷于社交媒体，无法专注于学习。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'addicted' as being 'added' to something you can't give up."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=addicted&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=worker%20bee&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

@@ -1,64 +1,64 @@
 {
-  "generated": "2025-11-07T22:07:45.812Z",
+  "generated": "2025-11-08T22:06:51.400Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "Fujiyama",
-      "pronunciation": "/fuːˈdʒiːˌɑːmə/",
+      "word": "market value",
+      "pronunciation": "/ˈmɑrkɪt ˈvælju/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "富士山",
-          "en": "A famous mountain in Japan, known for its tall, symmetrical cone shape."
+          "zh": "市场价值",
+          "en": "The amount of money something can be sold for in the market."
+        },
+        {
+          "pos": "n.",
+          "zh": "市场估值",
+          "en": "The estimated worth of a product or service based on current market conditions."
         }
       ],
       "examples": [
         {
-          "en": "Fujiyama is often depicted in Japanese art and culture.",
-          "zh": "富士山常常出现在日本的艺术和文化中。"
+          "en": "The market value of the house increased significantly last year.",
+          "zh": "去年这座房子的市场价值显著上升。"
         },
         {
-          "en": "Many tourists visit Fujiyama to enjoy its breathtaking views.",
-          "zh": "许多游客造访富士山以欣赏其令人叹为观止的景色。"
+          "en": "Investors often analyze market value before making decisions.",
+          "zh": "投资者通常在做决定前分析市场价值。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'Fujiyama' as 'Fuji' meaning 'rich' and 'yama' meaning 'mountain' in Japanese, linking the name to its grandeur."
+        "association": "Think of 'market' as where goods are traded and 'value' as what those goods are worth."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=Fujiyama&type=2",
-      "chapter": "认知词汇 自然分类 火山"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=market%20value&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "explore",
-      "pronunciation": "/ɪkˈsplɔːr/",
+      "word": "linguistic and numerical abilities",
+      "pronunciation": "/lɪŋˈɡwɪstɪk/ ənd /ˈnʊmərɪkəl/ əˈbɪlɪtiz/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "探索",
-          "en": "To travel around an area to learn about it."
-        },
-        {
-          "pos": "v.",
-          "zh": "研究",
-          "en": "To examine something in detail to understand it better."
+          "pos": "n.",
+          "zh": "语言和数字能力",
+          "en": "The skills related to language understanding and mathematics."
         }
       ],
       "examples": [
         {
-          "en": "Scientists explore the ocean to discover new species.",
-          "zh": "科学家探索海洋以发现新物种。"
+          "en": "Her linguistic and numerical abilities helped her excel in school.",
+          "zh": "她的语言和数字能力使她在学校表现出色。"
         },
         {
-          "en": "We will explore the city to find interesting places.",
-          "zh": "我们将探索这座城市以寻找有趣的地方。"
+          "en": "Many jobs require strong linguistic and numerical abilities for success.",
+          "zh": "许多工作需要强大的语言和数字能力才能成功。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'explore' as 'exploring new doors' to find new opportunities or knowledge."
+        "association": "Think of 'linguistic' as 'language' and 'numerical' as 'numbers', which together represent communication and calculation skills."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=explore&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=linguistic%20and%20numerical%20abilities&type=2",
+      "chapter": "认知词汇 动物分类 动物智力与语言习得"
     }
   ]
 }

@@ -1,69 +1,62 @@
 {
-  "generated": "2025-11-07T22:07:45.812Z",
+  "generated": "2025-11-08T22:06:51.400Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "preceding",
-      "pronunciation": "/prɪˈsiːdɪŋ/",
+      "word": "warm pool",
+      "pronunciation": "/wɔrm puːl/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "在前的",
-          "en": "Existing or happening before something else."
-        },
-        {
-          "pos": "adj.",
-          "zh": "优先的",
-          "en": "Coming before in time or order."
+          "pos": "n.",
+          "zh": "温暖的泳池",
+          "en": "A swimming pool that is heated or feels warm."
         }
       ],
       "examples": [
         {
-          "en": "The preceding chapter explains the main concepts clearly.",
-          "zh": "前一章清楚地解释了主要概念。"
+          "en": "The warm pool is perfect for relaxing after a long day.",
+          "zh": "温暖的泳池非常适合在漫长的一天后放松。"
         },
         {
-          "en": "He referred to the preceding events to support his argument.",
-          "zh": "他提到了之前的事件以支持他的论点。"
+          "en": "Many people enjoy swimming in the warm pool during winter.",
+          "zh": "许多人喜欢在冬天游泳于温暖的泳池。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'preceding' as 'proceeding before'. Both words share a similar structure and meaning."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=preceding&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 14"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=warm%20pool&type=2",
+      "chapter": "认知词汇 自然分类 \"厄尔尼诺\"现象"
     },
     {
-      "word": "belonging",
-      "pronunciation": "/bɪˈlɔːŋɪŋ/",
+      "word": "violate",
+      "pronunciation": "/ˈvaɪəˌleɪt/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "归属感",
-          "en": "A feeling of being a part of something."
+          "pos": "v.",
+          "zh": "违反",
+          "en": "To break or disregard a law, rule, or agreement."
         },
         {
-          "pos": "n.",
-          "zh": "属于的东西",
-          "en": "An item that is owned or associated with someone."
+          "pos": "v.",
+          "zh": "侵犯",
+          "en": "To treat someone or something in a way that is disrespectful or harmful."
         }
       ],
       "examples": [
         {
-          "en": "Finding a sense of belonging is important for mental health.",
-          "zh": "找到归属感对心理健康很重要。"
+          "en": "The company was fined for violating environmental regulations.",
+          "zh": "该公司因违反环保法规而被罚款。"
         },
         {
-          "en": "She wore a necklace that symbolized her belonging to the group.",
-          "zh": "她戴着一条象征她属于这个群体的项链。"
+          "en": "He felt that his privacy was violated by the media.",
+          "zh": "他觉得自己的隐私被媒体侵犯了。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'belonging' as being 'belonging to' a family or group, creating a warm feeling."
+        "association": "Think of 'violate' as 'violation' of rules, which can help you remember its meaning."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=belonging&type=2",
-      "chapter": "核心词汇 文化与传统 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=violate&type=2",
+      "chapter": "核心词汇 民主与权利 Unit 5"
     }
   ]
 }
