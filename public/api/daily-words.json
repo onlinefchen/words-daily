@@ -1,748 +1,755 @@
 {
-  "generated": "2025-11-08T22:06:51.399Z",
-  "date": "2025-11-08",
+  "generated": "2025-11-09T22:07:22.790Z",
+  "date": "2025-11-09",
   "totalWords": 20,
   "words": [
     {
-      "id": "w04414",
-      "word": "job posting",
-      "type": "phrase",
-      "chapterIndex": 27,
-      "globalIndex": 4414,
-      "chapter": "ch139",
-      "chapterName": "认知词汇 社会与生活分类 工作与家庭冲突",
+      "id": "w02736",
+      "word": "kauri",
+      "type": "single",
+      "chapterIndex": 28,
+      "globalIndex": 2736,
+      "chapter": "ch107",
+      "chapterName": "认知词汇 自然分类 热带雨林",
       "pronunciation": {
-        "us": "/dʒɑb ˈpoʊstɪŋ/"
+        "us": "/ˈkɔːri/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "职位发布",
-          "en": "A public announcement about a job opening."
+          "zh": "古树",
+          "en": "A large tree native to New Zealand, known for its durable wood."
         },
         {
           "pos": "n.",
-          "zh": "招聘信息",
-          "en": "Information about a job that is available for applicants."
+          "zh": "木材",
+          "en": "The wood derived from the kauri tree, valued for its quality."
         }
       ],
       "examples": [
         {
-          "en": "The job posting was shared on several online platforms.",
-          "zh": "这个职位发布在多个在线平台上分享。"
+          "en": "The kauri trees in New Zealand are among the largest in the world.",
+          "zh": "新西兰的古树是世界上最大的树木之一。"
         },
         {
-          "en": "She found the job posting in the local newspaper last week.",
-          "zh": "她上周在当地报纸上找到了这个招聘信息。"
+          "en": "Kauri wood is prized for its strength and beautiful appearance.",
+          "zh": "古树木因其强度和美丽的外观而受到珍视。"
         }
       ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=job%20posting&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=kauri&type=2"
     },
     {
-      "id": "w01735",
-      "word": "immature",
+      "id": "w00799",
+      "word": "worthy",
       "type": "single",
-      "chapterIndex": 15,
-      "globalIndex": 1735,
-      "chapter": "ch087",
-      "chapterName": "核心词汇 法制与犯罪 Unit 2",
+      "chapterIndex": 19,
+      "globalIndex": 799,
+      "chapter": "ch040",
+      "chapterName": "基本词汇 形容词和副词400 Unit 20",
       "pronunciation": {
-        "us": "/ˌɪməˈtʃʊr/"
+        "us": "/ˈwɜrði/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "不成熟的",
-          "en": "Not fully developed; behaving like a child."
+          "zh": "值得的",
+          "en": "Deserving respect, attention, or support."
         },
         {
           "pos": "adj.",
-          "zh": "幼稚的",
-          "en": "Lacking in adult qualities or wisdom."
+          "zh": "有价值的",
+          "en": "Having value or importance."
         }
       ],
       "examples": [
         {
-          "en": "His immature behavior often annoys his friends.",
-          "zh": "他幼稚的行为常常让朋友感到烦恼。"
+          "en": "Her efforts to help the community are truly worthy.",
+          "zh": "她为帮助社区所做的努力真的值得称赞。"
         },
         {
-          "en": "She made an immature decision that affected everyone.",
-          "zh": "她做出了一个影响所有人的幼稚决定。"
+          "en": "The book is worthy of being read by everyone.",
+          "zh": "这本书值得每个人去阅读。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'immature' as 'not mature', like a fruit that isn't ripe."
+        "association": "Think of 'worthy' as 'worth it', meaning something is valuable or important.",
+        "mnemonic": "Worthy sounds like 'wordy', which can remind you that something worthy has a lot to say."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=immature&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=worthy&type=2"
     },
     {
-      "id": "w02134",
-      "word": "market value",
-      "type": "phrase",
-      "chapterIndex": 234,
-      "globalIndex": 2134,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/ˈmɑrkɪt ˈvælju/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "市场价值",
-          "en": "The amount of money something can be sold for in the market."
-        },
-        {
-          "pos": "n.",
-          "zh": "市场估值",
-          "en": "The estimated worth of a product or service based on current market conditions."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The market value of the house increased significantly last year.",
-          "zh": "去年这座房子的市场价值显著上升。"
-        },
-        {
-          "en": "Investors often analyze market value before making decisions.",
-          "zh": "投资者通常在做决定前分析市场价值。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'market' as where goods are traded and 'value' as what those goods are worth."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=market%20value&type=2"
-    },
-    {
-      "id": "w02408",
-      "word": "linguistic and numerical abilities",
-      "type": "phrase",
-      "chapterIndex": 26,
-      "globalIndex": 2408,
-      "chapter": "ch100",
-      "chapterName": "认知词汇 动物分类 动物智力与语言习得",
-      "pronunciation": {
-        "us": "/lɪŋˈɡwɪstɪk/ ənd /ˈnʊmərɪkəl/ əˈbɪlɪtiz/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "语言和数字能力",
-          "en": "The skills related to language understanding and mathematics."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Her linguistic and numerical abilities helped her excel in school.",
-          "zh": "她的语言和数字能力使她在学校表现出色。"
-        },
-        {
-          "en": "Many jobs require strong linguistic and numerical abilities for success.",
-          "zh": "许多工作需要强大的语言和数字能力才能成功。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'linguistic' as 'language' and 'numerical' as 'numbers', which together represent communication and calculation skills."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=linguistic%20and%20numerical%20abilities&type=2"
-    },
-    {
-      "id": "w02233",
-      "word": "ovary",
+      "id": "w00279",
+      "word": "greed",
       "type": "single",
-      "chapterIndex": 333,
-      "globalIndex": 2233,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
+      "chapterIndex": 19,
+      "globalIndex": 279,
+      "chapter": "ch014",
+      "chapterName": "基本词汇 名词200 Unit 4",
       "pronunciation": {
-        "us": "/ˈoʊ.vər.i/"
+        "us": "/ɡriːd/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "卵巢",
-          "en": "The organ in female animals that produces eggs."
+          "zh": "贪婪",
+          "en": "A strong desire for more wealth or possessions than one needs."
         },
         {
           "pos": "n.",
-          "zh": "卵巢的功能",
-          "en": "The part of the reproductive system that helps in reproduction."
+          "zh": "欲望",
+          "en": "An excessive desire for something, often leading to negative consequences."
         }
       ],
       "examples": [
         {
-          "en": "The ovary is crucial for producing eggs in female mammals.",
-          "zh": "卵巢对雌性哺乳动物产生卵子至关重要。"
+          "en": "His greed for money caused him to lose his friends.",
+          "zh": "他对金钱的贪婪使他失去了朋友。"
         },
         {
-          "en": "Doctors often examine the ovary for any abnormalities.",
-          "zh": "医生通常会检查卵巢是否有任何异常。"
+          "en": "Greed can lead to unethical behavior and poor decisions.",
+          "zh": "贪婪可能导致不道德的行为和错误的决定。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'ovary' as related to 'ovum' (egg), both are involved in reproduction."
+        "association": "Think of 'greed' as needing more 'green' (money), which highlights the desire for wealth."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ovary&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=greed&type=2"
     },
     {
-      "id": "w01623",
-      "word": "content",
+      "id": "w01865",
+      "word": "meat",
       "type": "single",
-      "chapterIndex": 3,
-      "globalIndex": 1623,
-      "chapter": "ch082",
-      "chapterName": "核心词汇 工作与生活 Unit 2",
+      "chapterIndex": 5,
+      "globalIndex": 1865,
+      "chapter": "ch094",
+      "chapterName": "核心词汇 健康话题 Unit 4",
       "pronunciation": {
-        "us": "/ˈkɒn.tent/"
+        "us": "/miːt/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "肉类",
+          "en": "The flesh of animals used as food."
+        },
+        {
+          "pos": "v.",
+          "zh": "达到",
+          "en": "To reach or come to something, often a goal."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many people enjoy eating meat for its rich flavor.",
+          "zh": "许多人喜欢吃肉，因为它味道丰富。"
+        },
+        {
+          "en": "We all aim to meet our targets by the end of the year.",
+          "zh": "我们都希望在年底之前达到我们的目标。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'meat' comes from the Old English 'mete', meaning food.",
+        "association": "Think of 'meat' as a 'meet' for food lovers, gathering to enjoy delicious dishes."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=meat&type=2"
+    },
+    {
+      "id": "w00419",
+      "word": "adverse",
+      "type": "single",
+      "chapterIndex": 19,
+      "globalIndex": 419,
+      "chapter": "ch021",
+      "chapterName": "基本词汇 形容词和副词400 Unit 1",
+      "pronunciation": {
+        "us": "/ˈæd.vɜrs/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "满意的",
-          "en": "Feeling happy and satisfied with what you have."
+          "zh": "不利的，逆境的",
+          "en": "Having a negative or harmful effect."
         },
         {
-          "pos": "n.",
-          "zh": "内容",
-          "en": "The information or material contained in something."
+          "pos": "adj.",
+          "zh": "相反的",
+          "en": "Opposing or contrary in nature."
         }
       ],
       "examples": [
         {
-          "en": "She felt content after finishing her book.",
-          "zh": "她在完成书籍后感到满意。"
+          "en": "The adverse weather conditions caused significant travel delays.",
+          "zh": "不利的天气条件导致了重大旅行延误。"
         },
         {
-          "en": "The content of the video was both informative and entertaining.",
-          "zh": "视频的内容既有信息性又有娱乐性。"
+          "en": "He faced many adverse reactions to his controversial proposal.",
+          "zh": "他对其争议提案面临许多不利反应。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'content' as being 'contained' within yourself, feeling satisfied.",
-        "mnemonic": "Remember 'content' as 'con-tent' – when you are content, you feel 'tense-free' and relaxed."
+        "etymology": "The word 'adverse' comes from the Latin 'adversus', meaning 'turned against'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=content&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=adverse&type=2"
     },
     {
-      "id": "w02566",
-      "word": "warm pool",
-      "type": "phrase",
-      "chapterIndex": 38,
-      "globalIndex": 2566,
+      "id": "w01471",
+      "word": "lenient",
+      "type": "single",
+      "chapterIndex": 11,
+      "globalIndex": 1471,
+      "chapter": "ch074",
+      "chapterName": "核心词汇 动物权益与保护 Unit 4",
+      "pronunciation": {
+        "us": "/ˈliːniənt/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "宽容的",
+          "en": "Not strict; willing to be forgiving or tolerant."
+        },
+        {
+          "pos": "adj.",
+          "zh": "不严厉的",
+          "en": "Allowing more freedom; easygoing in rules or discipline."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The teacher was lenient with students who missed classes.",
+          "zh": "老师对缺课的学生很宽容。"
+        },
+        {
+          "en": "Judges are often lenient in sentencing first-time offenders.",
+          "zh": "法官在对初犯者的判刑时通常比较宽松。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'lean' as being relaxed, which connects to being lenient."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=lenient&type=2"
+    },
+    {
+      "id": "w00253",
+      "word": "discrimination",
+      "type": "single",
+      "chapterIndex": 13,
+      "globalIndex": 253,
+      "chapter": "ch013",
+      "chapterName": "基本词汇 名词200 Unit 3",
+      "pronunciation": {
+        "us": "/ˌdɪs.krɪ.mɪˈneɪ.ʃən/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "歧视",
+          "en": "The unfair treatment of a person or group based on characteristics like race or gender."
+        },
+        {
+          "pos": "n.",
+          "zh": "辨别",
+          "en": "The ability to recognize and understand differences between things."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many countries have laws against racial discrimination in the workplace.",
+          "zh": "许多国家在职场上有反对种族歧视的法律。"
+        },
+        {
+          "en": "Her strong discrimination between right and wrong is admirable.",
+          "zh": "她对是非的强烈辨别能力令人钦佩。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word comes from the Latin 'discriminare', meaning 'to distinguish'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=discrimination&type=2"
+    },
+    {
+      "id": "w00471",
+      "word": "cognitive",
+      "type": "single",
+      "chapterIndex": 11,
+      "globalIndex": 471,
+      "chapter": "ch024",
+      "chapterName": "基本词汇 形容词和副词400 Unit 4",
+      "pronunciation": {
+        "us": "/ˈkɑːɡnɪtɪv/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "认知的",
+          "en": "Related to the mental processes of understanding and thinking."
+        },
+        {
+          "pos": "adj.",
+          "zh": "认知能力的",
+          "en": "Describing how we perceive, learn, and remember information."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Cognitive development is crucial during the early years of life.",
+          "zh": "认知发展在生命的早期阶段是至关重要的。"
+        },
+        {
+          "en": "She studies cognitive psychology to understand human thought processes.",
+          "zh": "她研究认知心理学以理解人类的思维过程。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'cognitive' as 'cog' in a machine, where the 'cogs' represent how our mind processes information."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cognitive&type=2"
+    },
+    {
+      "id": "w00214",
+      "word": "atmosphere",
+      "type": "single",
+      "chapterIndex": 14,
+      "globalIndex": 214,
+      "chapter": "ch011",
+      "chapterName": "基本词汇 名词200 Unit 1",
+      "pronunciation": {
+        "us": "/ˈætməsˌfɪr/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "气氛",
+          "en": "The mood or feeling in a place."
+        },
+        {
+          "pos": "n.",
+          "zh": "大气层",
+          "en": "The layer of gases surrounding the Earth."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The atmosphere at the concert was electric and exciting.",
+          "zh": "音乐会的气氛令人振奋和激动。"
+        },
+        {
+          "en": "The Earth's atmosphere protects us from harmful solar radiation.",
+          "zh": "地球的大气层保护我们免受有害的太阳辐射。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'atmosphere' as the 'air' or 'mood' that surrounds you in different places."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=atmosphere&type=2"
+    },
+    {
+      "id": "w02562",
+      "word": "socioeconomic",
+      "type": "single",
+      "chapterIndex": 34,
+      "globalIndex": 2562,
       "chapter": "ch103",
       "chapterName": "认知词汇 自然分类 \"厄尔尼诺\"现象",
       "pronunciation": {
-        "us": "/wɔrm puːl/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "温暖的泳池",
-          "en": "A swimming pool that is heated or feels warm."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The warm pool is perfect for relaxing after a long day.",
-          "zh": "温暖的泳池非常适合在漫长的一天后放松。"
-        },
-        {
-          "en": "Many people enjoy swimming in the warm pool during winter.",
-          "zh": "许多人喜欢在冬天游泳于温暖的泳池。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=warm%20pool&type=2"
-    },
-    {
-      "id": "w01597",
-      "word": "violate",
-      "type": "single",
-      "chapterIndex": 17,
-      "globalIndex": 1597,
-      "chapter": "ch080",
-      "chapterName": "核心词汇 民主与权利 Unit 5",
-      "pronunciation": {
-        "us": "/ˈvaɪəˌleɪt/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "违反",
-          "en": "To break or disregard a law, rule, or agreement."
-        },
-        {
-          "pos": "v.",
-          "zh": "侵犯",
-          "en": "To treat someone or something in a way that is disrespectful or harmful."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The company was fined for violating environmental regulations.",
-          "zh": "该公司因违反环保法规而被罚款。"
-        },
-        {
-          "en": "He felt that his privacy was violated by the media.",
-          "zh": "他觉得自己的隐私被媒体侵犯了。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'violate' as 'violation' of rules, which can help you remember its meaning."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=violate&type=2"
-    },
-    {
-      "id": "w01558",
-      "word": "liberation",
-      "type": "single",
-      "chapterIndex": 18,
-      "globalIndex": 1558,
-      "chapter": "ch078",
-      "chapterName": "核心词汇 民主与权利 Unit 3",
-      "pronunciation": {
-        "us": "/ˌlɪbəˈreɪʃən/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "解放",
-          "en": "The act of setting someone free from restrictions."
-        },
-        {
-          "pos": "n.",
-          "zh": "自主",
-          "en": "The state of being free and independent."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The liberation of the country was celebrated with great joy.",
-          "zh": "国家的解放得到了热烈的庆祝。"
-        },
-        {
-          "en": "She felt a sense of liberation after leaving her job.",
-          "zh": "她在离开工作后感到一种解放感。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'liberation' comes from the Latin 'liberatio', which means 'to free'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=liberation&type=2"
-    },
-    {
-      "id": "w02306",
-      "word": "detect",
-      "type": "single",
-      "chapterIndex": 9,
-      "globalIndex": 2306,
-      "chapter": "ch097",
-      "chapterName": "认知词汇 动物分类 动物航行能力",
-      "pronunciation": {
-        "us": "/dɪˈtɛkt/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "发现，侦测",
-          "en": "To notice or discover something."
-        },
-        {
-          "pos": "v.",
-          "zh": "测出，探测",
-          "en": "To find out the presence of something, especially something hidden."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Scientists can detect changes in the climate very quickly.",
-          "zh": "科学家能够很快发现气候变化。"
-        },
-        {
-          "en": "The security system is designed to detect any unauthorized access.",
-          "zh": "安全系统旨在检测任何未经授权的访问。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=detect&type=2"
-    },
-    {
-      "id": "w02298",
-      "word": "aerodynamic construction",
-      "type": "phrase",
-      "chapterIndex": 1,
-      "globalIndex": 2298,
-      "chapter": "ch097",
-      "chapterName": "认知词汇 动物分类 动物航行能力",
-      "pronunciation": {
-        "us": "/ˌɛəroʊdaɪˈnæmɪk kənˈstrʌkʃən/"
+        "us": "/ˌsoʊ.si.oʊ.ˈi.kɒm.ɪk/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "空气动力学的",
-          "en": "Relating to the way air moves around things."
-        },
-        {
-          "pos": "n.",
-          "zh": "气动结构",
-          "en": "A design or shape that reduces air resistance."
+          "zh": "社会经济的",
+          "en": "Related to the interaction between social and economic factors."
         }
       ],
       "examples": [
         {
-          "en": "The car's aerodynamic construction helps it move faster on highways.",
-          "zh": "这辆车的空气动力学结构帮助它在高速公路上更快行驶。"
+          "en": "The socioeconomic status of families affects children's education quality.",
+          "zh": "家庭的社会经济地位影响孩子的教育质量。"
         },
         {
-          "en": "Engineers focus on aerodynamic construction to improve fuel efficiency.",
-          "zh": "工程师们专注于气动结构，以提高燃油效率。"
+          "en": "Urban areas often show diverse socioeconomic conditions among residents.",
+          "zh": "城市地区居民之间常常显示出多样的社会经济状况。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'aero' as related to air, and 'dynamic' as something that moves or changes. Together, they describe how shapes interact with air."
+        "association": "Think of 'socio' as society and 'economic' as money, linking them together."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aerodynamic%20construction&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=socioeconomic&type=2"
     },
     {
-      "id": "w02372",
-      "word": "internal hormonal and neural mechanism",
-      "type": "phrase",
+      "id": "w00211",
+      "word": "aid",
+      "type": "single",
+      "chapterIndex": 11,
+      "globalIndex": 211,
+      "chapter": "ch011",
+      "chapterName": "基本词汇 名词200 Unit 1",
+      "pronunciation": {
+        "us": "/eɪd/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "帮助",
+          "en": "To help someone or something."
+        },
+        {
+          "pos": "n.",
+          "zh": "援助",
+          "en": "The action of helping someone or something."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The charity aims to aid families in need of support.",
+          "zh": "这个慈善机构旨在帮助有需要的家庭。"
+        },
+        {
+          "en": "The government provided aid to the disaster-stricken areas.",
+          "zh": "政府向遭受灾难的地区提供了援助。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'aid' as a hand reaching out to help."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aid&type=2"
+    },
+    {
+      "id": "w00235",
+      "word": "contempt",
+      "type": "single",
+      "chapterIndex": 15,
+      "globalIndex": 235,
+      "chapter": "ch012",
+      "chapterName": "基本词汇 名词200 Unit 2",
+      "pronunciation": {
+        "us": "/kənˈtɛmpt/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "轻视",
+          "en": "A feeling that someone or something is not worthy of any respect."
+        },
+        {
+          "pos": "v.",
+          "zh": "蔑视",
+          "en": "To treat someone or something with disdain or lack of respect."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She looked at him with contempt after his rude remarks.",
+          "zh": "在他无礼的言论后，她以轻蔑的目光看着他。"
+        },
+        {
+          "en": "His contempt for the rules was clear when he broke them.",
+          "zh": "他违反规则时，显然对规则表示蔑视。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'con' as meaning against, and 'tempt' as something appealing; contempt is feeling against what is appealing."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=contempt&type=2"
+    },
+    {
+      "id": "w00017",
+      "word": "advocate",
+      "type": "single",
+      "chapterIndex": 17,
+      "globalIndex": 17,
+      "chapter": "ch001",
+      "chapterName": "基本词汇 动词200 Unit 1",
+      "pronunciation": {
+        "us": "/ˈæd.və.keɪt/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "倡导，支持",
+          "en": "To support or argue for a cause or policy."
+        },
+        {
+          "pos": "n.",
+          "zh": "倡导者，支持者",
+          "en": "A person who supports or recommends a particular cause."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many activists advocate for the rights of marginalized communities.",
+          "zh": "许多活动家倡导边缘化社区的权利。"
+        },
+        {
+          "en": "She is a strong advocate for environmental protection.",
+          "zh": "她是环境保护的坚定支持者。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of an 'advocate' as someone who 'adds voice' to a cause."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=advocate&type=2"
+    },
+    {
+      "id": "w00254",
+      "word": "disposal",
+      "type": "single",
       "chapterIndex": 14,
-      "globalIndex": 2372,
-      "chapter": "ch099",
-      "chapterName": "认知词汇 动物分类 动物行为",
+      "globalIndex": 254,
+      "chapter": "ch013",
+      "chapterName": "基本词汇 名词200 Unit 3",
       "pronunciation": {
-        "us": "/ɪnˈtɜrnəl ˈhɔr.mə.nəl ənd ˈnʊr.əl ˈmɛk.ə.nɪz.əm/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "内部的",
-          "en": "Related to processes inside the body."
-        },
-        {
-          "pos": "n.",
-          "zh": "机制",
-          "en": "A system or process that helps control functions."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The internal hormonal mechanism regulates our mood and emotions.",
-          "zh": "内部的激素机制调节我们的情绪和心情。"
-        },
-        {
-          "en": "Neural mechanisms play a crucial role in how we perceive pain.",
-          "zh": "神经机制在我们感知疼痛的方式中起着关键作用。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'internal' as 'inside' and 'mechanism' as a 'machine' that works within your body."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=internal%20hormonal%20and%20neural%20mechanism&type=2"
-    },
-    {
-      "id": "w02358",
-      "word": "untangle",
-      "type": "single",
-      "chapterIndex": 20,
-      "globalIndex": 2358,
-      "chapter": "ch098",
-      "chapterName": "认知词汇 动物分类 动物思维",
-      "pronunciation": {
-        "us": "/ʌnˈtæŋɡl/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "解开，理顺",
-          "en": "To separate things that are twisted together or caught in a knot."
-        },
-        {
-          "pos": "v.",
-          "zh": "理清，澄清",
-          "en": "To clarify or resolve complex issues or problems."
-        }
-      ],
-      "examples": [
-        {
-          "en": "She took a few minutes to untangle the necklace from her hair.",
-          "zh": "她花了几分钟把项链从头发中解开。"
-        },
-        {
-          "en": "After hours of discussion, we finally managed to untangle the misunderstanding.",
-          "zh": "经过几个小时的讨论，我们终于理清了误解。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'untangle' as 'un' meaning 'not' and 'tangle' meaning 'to twist.' So, to untangle is to not be twisted."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=untangle&type=2"
-    },
-    {
-      "id": "w02249",
-      "word": "worker bee",
-      "type": "phrase",
-      "chapterIndex": 349,
-      "globalIndex": 2249,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/ˈwɜrkər bi/"
+        "us": "/dɪsˈpoʊ.zəl/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "工蜂",
-          "en": "A worker bee is a female bee that does not reproduce and performs tasks like gathering nectar and caring for the hive."
+          "zh": "处理，处置",
+          "en": "The act of getting rid of something, usually waste."
         },
         {
           "pos": "n.",
-          "zh": "努力工作的人",
-          "en": "A worker bee can also refer to a person who works hard and performs necessary tasks in a group."
+          "zh": "支配，安排",
+          "en": "The power to make decisions about something."
         }
       ],
       "examples": [
         {
-          "en": "The worker bee collects nectar to bring back to the hive.",
-          "zh": "工蜂采集花蜜带回蜂巢。"
+          "en": "The city has strict rules for waste disposal to protect the environment.",
+          "zh": "这个城市对废物处理有严格的规定，以保护环境。"
         },
         {
-          "en": "In the office, she is a real worker bee, always busy with projects.",
-          "zh": "在办公室里，她真的是个努力工作的人，总是忙于项目。"
+          "en": "She had the disposal of the funds for the community project.",
+          "zh": "她负责管理社区项目的资金。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of a busy bee constantly working in a garden, representing someone dedicated to their tasks."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=worker%20bee&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disposal&type=2"
     },
     {
-      "id": "w02364",
-      "word": "gene",
-      "type": "single",
-      "chapterIndex": 6,
-      "globalIndex": 2364,
-      "chapter": "ch099",
-      "chapterName": "认知词汇 动物分类 动物行为",
-      "pronunciation": {
-        "us": "/dʒiːn/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "基因",
-          "en": "A unit of heredity that is passed from parents to offspring."
-        },
-        {
-          "pos": "n.",
-          "zh": "基因",
-          "en": "Part of DNA that determines specific traits in living organisms."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Scientists are studying how genes affect human behavior.",
-          "zh": "科学家正在研究基因如何影响人类行为。"
-        },
-        {
-          "en": "Gene therapy may offer new treatments for genetic disorders.",
-          "zh": "基因疗法可能为遗传疾病提供新的治疗方法。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'genes' as the 'blueprint' for physical traits, like eye color.",
-        "mnemonic": "Remember 'gene' by connecting it to 'scene'—both can define what you see."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=gene&type=2"
-    },
-    {
-      "id": "w01537",
-      "word": "illegal",
+      "id": "w01577",
+      "word": "racism",
       "type": "single",
       "chapterIndex": 17,
-      "globalIndex": 1537,
-      "chapter": "ch077",
-      "chapterName": "核心词汇 民主与权利 Unit 2",
+      "globalIndex": 1577,
+      "chapter": "ch079",
+      "chapterName": "核心词汇 民主与权利 Unit 4",
       "pronunciation": {
-        "us": "/ɪˈliːɡəl/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "非法的",
-          "en": "Not allowed by the law."
-        },
-        {
-          "pos": "adj.",
-          "zh": "不合法的",
-          "en": "Doing something that is against the rules or regulations."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The government is cracking down on illegal activities.",
-          "zh": "政府正在打击非法活动。"
-        },
-        {
-          "en": "He was arrested for driving an illegal vehicle.",
-          "zh": "他因驾驶非法车辆而被逮捕。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'illegal' comes from the Latin 'illegalis', where 'in-' means 'not' and 'legalis' means 'legal'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=illegal&type=2"
-    },
-    {
-      "id": "w02188",
-      "word": "morphology",
-      "type": "single",
-      "chapterIndex": 288,
-      "globalIndex": 2188,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/mɔːrˈfɑːlədʒi/"
+        "us": "/ˈreɪ.sɪ.zəm/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "形态学",
-          "en": "The study of the structure and form of words in a language."
+          "zh": "种族主义",
+          "en": "The belief that one race is superior to another."
         },
         {
           "pos": "n.",
-          "zh": "生物形态学",
-          "en": "The branch of biology that examines the form and structure of organisms."
+          "zh": "歧视",
+          "en": "Discrimination against people based on their race."
         }
       ],
       "examples": [
         {
-          "en": "Morphology helps linguists understand word formation in different languages.",
-          "zh": "形态学帮助语言学家理解不同语言中的词汇形成。"
+          "en": "Racism can lead to serious social problems in any community.",
+          "zh": "种族主义会导致任何社区出现严重的社会问题。"
         },
         {
-          "en": "In biology, morphology studies the physical characteristics of various species.",
-          "zh": "在生物学中，形态学研究不同物种的物理特征。"
+          "en": "Many organizations are working to combat racism in society today.",
+          "zh": "许多组织正在努力对抗当今社会中的种族主义。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'morphology' comes from the Greek 'morphē' meaning 'form' and 'logia' meaning 'study'."
+        "etymology": "The word 'racism' comes from 'race' and the suffix '-ism', indicating a belief or practice."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=morphology&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=racism&type=2"
     },
     {
-      "id": "w02341",
-      "word": "baboon",
+      "id": "w00403",
+      "word": "aboriginal",
       "type": "single",
       "chapterIndex": 3,
-      "globalIndex": 2341,
-      "chapter": "ch098",
-      "chapterName": "认知词汇 动物分类 动物思维",
+      "globalIndex": 403,
+      "chapter": "ch021",
+      "chapterName": "基本词汇 形容词和副词400 Unit 1",
       "pronunciation": {
-        "us": "/bəˈbuːn/"
+        "us": "/ˌæbəˈrɪdʒənl/"
       },
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "狒狒",
-          "en": "A large monkey with a long face and strong jaws, usually found in Africa."
+          "pos": "adj.",
+          "zh": "土著的",
+          "en": "Relating to the original inhabitants of a place."
         },
         {
           "pos": "n.",
-          "zh": "粗鲁的人",
-          "en": "A rude or aggressive person, often used informally."
+          "zh": "土著人",
+          "en": "A person, especially a member of a group, that has lived in a region for a long time."
         }
       ],
       "examples": [
         {
-          "en": "The baboon is known for its distinctive facial features and social behavior.",
-          "zh": "狒狒以其独特的面部特征和社交行为而闻名。"
+          "en": "The aboriginal culture is rich in history and traditions.",
+          "zh": "土著文化在历史和传统上非常丰富。"
         },
         {
-          "en": "Some people describe rude individuals as behaving like a baboon.",
-          "zh": "有些人形容粗鲁的人像狒狒一样。"
+          "en": "Many aboriginal communities are working to preserve their languages.",
+          "zh": "许多土著社区正在努力保护他们的语言。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a baboon's loud noises and chaotic behavior, similar to a rude person's actions."
+        "etymology": "The word 'aboriginal' comes from the Latin 'aborigines', meaning 'from the beginning'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=baboon&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aboriginal&type=2"
     },
     {
-      "id": "w01532",
-      "word": "exploit",
+      "id": "w02037",
+      "word": "alga",
       "type": "single",
-      "chapterIndex": 12,
-      "globalIndex": 1532,
-      "chapter": "ch077",
-      "chapterName": "核心词汇 民主与权利 Unit 2",
+      "chapterIndex": 137,
+      "globalIndex": 2037,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
       "pronunciation": {
-        "us": "/ɪkˈsplɔɪt/"
+        "us": "/ˈælɡə/"
       },
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "利用",
-          "en": "To make use of something for one's own benefit."
+          "pos": "n.",
+          "zh": "藻类",
+          "en": "A simple plant that grows in water."
         },
         {
           "pos": "n.",
-          "zh": "剥削",
-          "en": "An act of taking advantage of someone or something."
+          "zh": "海藻",
+          "en": "A type of seaweed that is often green or brown."
         }
       ],
       "examples": [
         {
-          "en": "The company aims to exploit new technology for better efficiency.",
-          "zh": "该公司旨在利用新技术提高效率。"
+          "en": "Alga can be found in both fresh and salt water environments.",
+          "zh": "藻类可以在淡水和盐水环境中找到。"
         },
         {
-          "en": "Many workers feel they are being exploited by their employers.",
-          "zh": "许多工人感到自己被雇主剥削。"
+          "en": "Researchers study alga for its potential health benefits.",
+          "zh": "研究人员研究藻类的潜在健康益处。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'exploit' comes from the Latin 'exploitatio', meaning 'to unfold' or 'to set forth'.",
-        "association": "Think of 'exploit' as 'using' an 'opportunity' to gain something valuable."
+        "association": "Think of 'alga' as a friend of water, always found swimming in it."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=exploit&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=alga&type=2"
     },
     {
-      "id": "w01545",
-      "word": "interfere",
-      "type": "single",
-      "chapterIndex": 5,
-      "globalIndex": 1545,
-      "chapter": "ch078",
-      "chapterName": "核心词汇 民主与权利 Unit 3",
+      "id": "w02035",
+      "word": "air sac",
+      "type": "phrase",
+      "chapterIndex": 135,
+      "globalIndex": 2035,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
       "pronunciation": {
-        "us": "/ˌɪn.təˈfɪr/"
+        "us": "/ˈɛr sæk/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "气囊",
+          "en": "A small, flexible structure in animals that holds air."
+        },
+        {
+          "pos": "n.",
+          "zh": "空气囊",
+          "en": "A part of a plant or animal that helps with breathing and gas exchange."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Birds have air sacs that help them breathe efficiently while flying.",
+          "zh": "鸟类有气囊，帮助它们在飞行时高效呼吸。"
+        },
+        {
+          "en": "The air sacs in fish allow them to control their buoyancy in water.",
+          "zh": "鱼类的空气囊使它们能够控制在水中的浮力。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=air%20sac&type=2"
+    },
+    {
+      "id": "w01366",
+      "word": "self",
+      "type": "single",
+      "chapterIndex": 6,
+      "globalIndex": 1366,
+      "chapter": "ch069",
+      "chapterName": "核心词汇 青少年教育 Unit 9",
+      "pronunciation": {
+        "us": "/sɛlf/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "自我",
+          "en": "A person's essential being that distinguishes them from others."
+        },
+        {
+          "pos": "pron.",
+          "zh": "自己",
+          "en": "Referring to oneself, used for emphasis or clarification."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She believes in being true to herself and her values.",
+          "zh": "她相信忠于自己和自己的价值观。"
+        },
+        {
+          "en": "He often talks about his self-improvement journey.",
+          "zh": "他经常谈论自我提升的旅程。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'self' as your personal brand or identity, which helps you remember it relates to who you are."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=self&type=2"
+    },
+    {
+      "id": "w00098",
+      "word": "disagree",
+      "type": "single",
+      "chapterIndex": 18,
+      "globalIndex": 98,
+      "chapter": "ch005",
+      "chapterName": "基本词汇 动词200 Unit 5",
+      "pronunciation": {
+        "us": "/ˌdɪs.əˈɡriː/"
       },
       "meanings": [
         {
           "pos": "v.",
-          "zh": "干预，插手",
-          "en": "To get involved in a situation where you are not wanted."
+          "zh": "不同意",
+          "en": "To have a different opinion or view from someone else."
         },
         {
           "pos": "v.",
-          "zh": "妨碍，影响",
-          "en": "To cause problems or make something harder."
+          "zh": "争论",
+          "en": "To argue or dispute about something."
         }
       ],
       "examples": [
         {
-          "en": "Please do not interfere with my personal decisions.",
-          "zh": "请不要干预我的个人决定。"
+          "en": "Many people disagree with the proposed changes to the law.",
+          "zh": "许多人不同意对法律的提议修改。"
         },
         {
-          "en": "His actions may interfere with the project’s progress.",
-          "zh": "他的行为可能会影响项目的进展。"
+          "en": "It's okay to disagree, but we should remain respectful.",
+          "zh": "不同意是可以的，但我们应该保持尊重。"
         }
       ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=interfere&type=2"
+      "memoryTips": {
+        "association": "Think of 'disagree' as 'not agreeing', which can be visualized as two people shaking their heads."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disagree&type=2"
     }
   ]
 }

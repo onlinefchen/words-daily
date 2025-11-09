@@ -1,69 +1,67 @@
 {
-  "generated": "2025-11-08T22:06:51.400Z",
+  "generated": "2025-11-09T22:07:22.791Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "untangle",
-      "pronunciation": "/ʌnˈtæŋɡl/",
+      "word": "advocate",
+      "pronunciation": "/ˈæd.və.keɪt/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "解开，理顺",
-          "en": "To separate things that are twisted together or caught in a knot."
+          "zh": "倡导，支持",
+          "en": "To support or argue for a cause or policy."
         },
         {
-          "pos": "v.",
-          "zh": "理清，澄清",
-          "en": "To clarify or resolve complex issues or problems."
+          "pos": "n.",
+          "zh": "倡导者，支持者",
+          "en": "A person who supports or recommends a particular cause."
         }
       ],
       "examples": [
         {
-          "en": "She took a few minutes to untangle the necklace from her hair.",
-          "zh": "她花了几分钟把项链从头发中解开。"
+          "en": "Many activists advocate for the rights of marginalized communities.",
+          "zh": "许多活动家倡导边缘化社区的权利。"
         },
         {
-          "en": "After hours of discussion, we finally managed to untangle the misunderstanding.",
-          "zh": "经过几个小时的讨论，我们终于理清了误解。"
+          "en": "She is a strong advocate for environmental protection.",
+          "zh": "她是环境保护的坚定支持者。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'untangle' as 'un' meaning 'not' and 'tangle' meaning 'to twist.' So, to untangle is to not be twisted."
+        "association": "Think of an 'advocate' as someone who 'adds voice' to a cause."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=untangle&type=2",
-      "chapter": "认知词汇 动物分类 动物思维"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=advocate&type=2",
+      "chapter": "基本词汇 动词200 Unit 1"
     },
     {
-      "word": "worker bee",
-      "pronunciation": "/ˈwɜrkər bi/",
+      "word": "disposal",
+      "pronunciation": "/dɪsˈpoʊ.zəl/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "工蜂",
-          "en": "A worker bee is a female bee that does not reproduce and performs tasks like gathering nectar and caring for the hive."
+          "zh": "处理，处置",
+          "en": "The act of getting rid of something, usually waste."
         },
         {
           "pos": "n.",
-          "zh": "努力工作的人",
-          "en": "A worker bee can also refer to a person who works hard and performs necessary tasks in a group."
+          "zh": "支配，安排",
+          "en": "The power to make decisions about something."
         }
       ],
       "examples": [
         {
-          "en": "The worker bee collects nectar to bring back to the hive.",
-          "zh": "工蜂采集花蜜带回蜂巢。"
+          "en": "The city has strict rules for waste disposal to protect the environment.",
+          "zh": "这个城市对废物处理有严格的规定，以保护环境。"
         },
         {
-          "en": "In the office, she is a real worker bee, always busy with projects.",
-          "zh": "在办公室里，她真的是个努力工作的人，总是忙于项目。"
+          "en": "She had the disposal of the funds for the community project.",
+          "zh": "她负责管理社区项目的资金。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of a busy bee constantly working in a garden, representing someone dedicated to their tasks."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=worker%20bee&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disposal&type=2",
+      "chapter": "基本词汇 名词200 Unit 3"
     }
   ]
 }

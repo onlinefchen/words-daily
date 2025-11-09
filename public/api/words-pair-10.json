@@ -1,68 +1,69 @@
 {
-  "generated": "2025-11-08T22:06:51.401Z",
+  "generated": "2025-11-09T22:07:22.792Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "exploit",
-      "pronunciation": "/ɪkˈsplɔɪt/",
+      "word": "self",
+      "pronunciation": "/sɛlf/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "利用",
-          "en": "To make use of something for one's own benefit."
+          "pos": "n.",
+          "zh": "自我",
+          "en": "A person's essential being that distinguishes them from others."
         },
         {
-          "pos": "n.",
-          "zh": "剥削",
-          "en": "An act of taking advantage of someone or something."
+          "pos": "pron.",
+          "zh": "自己",
+          "en": "Referring to oneself, used for emphasis or clarification."
         }
       ],
       "examples": [
         {
-          "en": "The company aims to exploit new technology for better efficiency.",
-          "zh": "该公司旨在利用新技术提高效率。"
+          "en": "She believes in being true to herself and her values.",
+          "zh": "她相信忠于自己和自己的价值观。"
         },
         {
-          "en": "Many workers feel they are being exploited by their employers.",
-          "zh": "许多工人感到自己被雇主剥削。"
+          "en": "He often talks about his self-improvement journey.",
+          "zh": "他经常谈论自我提升的旅程。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'exploit' comes from the Latin 'exploitatio', meaning 'to unfold' or 'to set forth'.",
-        "association": "Think of 'exploit' as 'using' an 'opportunity' to gain something valuable."
+        "association": "Think of 'self' as your personal brand or identity, which helps you remember it relates to who you are."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=exploit&type=2",
-      "chapter": "核心词汇 民主与权利 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=self&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 9"
     },
     {
-      "word": "interfere",
-      "pronunciation": "/ˌɪn.təˈfɪr/",
+      "word": "disagree",
+      "pronunciation": "/ˌdɪs.əˈɡriː/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "干预，插手",
-          "en": "To get involved in a situation where you are not wanted."
+          "zh": "不同意",
+          "en": "To have a different opinion or view from someone else."
         },
         {
           "pos": "v.",
-          "zh": "妨碍，影响",
-          "en": "To cause problems or make something harder."
+          "zh": "争论",
+          "en": "To argue or dispute about something."
         }
       ],
       "examples": [
         {
-          "en": "Please do not interfere with my personal decisions.",
-          "zh": "请不要干预我的个人决定。"
+          "en": "Many people disagree with the proposed changes to the law.",
+          "zh": "许多人不同意对法律的提议修改。"
         },
         {
-          "en": "His actions may interfere with the project’s progress.",
-          "zh": "他的行为可能会影响项目的进展。"
+          "en": "It's okay to disagree, but we should remain respectful.",
+          "zh": "不同意是可以的，但我们应该保持尊重。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=interfere&type=2",
-      "chapter": "核心词汇 民主与权利 Unit 3"
+      "memoryTips": {
+        "association": "Think of 'disagree' as 'not agreeing', which can be visualized as two people shaking their heads."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disagree&type=2",
+      "chapter": "基本词汇 动词200 Unit 5"
     }
   ]
 }

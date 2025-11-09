@@ -1,64 +1,70 @@
 {
-  "generated": "2025-11-08T22:06:51.400Z",
+  "generated": "2025-11-09T22:07:22.791Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "market value",
-      "pronunciation": "/ˈmɑrkɪt ˈvælju/",
+      "word": "greed",
+      "pronunciation": "/ɡriːd/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "市场价值",
-          "en": "The amount of money something can be sold for in the market."
+          "zh": "贪婪",
+          "en": "A strong desire for more wealth or possessions than one needs."
         },
         {
           "pos": "n.",
-          "zh": "市场估值",
-          "en": "The estimated worth of a product or service based on current market conditions."
+          "zh": "欲望",
+          "en": "An excessive desire for something, often leading to negative consequences."
         }
       ],
       "examples": [
         {
-          "en": "The market value of the house increased significantly last year.",
-          "zh": "去年这座房子的市场价值显著上升。"
+          "en": "His greed for money caused him to lose his friends.",
+          "zh": "他对金钱的贪婪使他失去了朋友。"
         },
         {
-          "en": "Investors often analyze market value before making decisions.",
-          "zh": "投资者通常在做决定前分析市场价值。"
+          "en": "Greed can lead to unethical behavior and poor decisions.",
+          "zh": "贪婪可能导致不道德的行为和错误的决定。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'market' as where goods are traded and 'value' as what those goods are worth."
+        "association": "Think of 'greed' as needing more 'green' (money), which highlights the desire for wealth."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=market%20value&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=greed&type=2",
+      "chapter": "基本词汇 名词200 Unit 4"
     },
     {
-      "word": "linguistic and numerical abilities",
-      "pronunciation": "/lɪŋˈɡwɪstɪk/ ənd /ˈnʊmərɪkəl/ əˈbɪlɪtiz/",
+      "word": "meat",
+      "pronunciation": "/miːt/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "语言和数字能力",
-          "en": "The skills related to language understanding and mathematics."
+          "zh": "肉类",
+          "en": "The flesh of animals used as food."
+        },
+        {
+          "pos": "v.",
+          "zh": "达到",
+          "en": "To reach or come to something, often a goal."
         }
       ],
       "examples": [
         {
-          "en": "Her linguistic and numerical abilities helped her excel in school.",
-          "zh": "她的语言和数字能力使她在学校表现出色。"
+          "en": "Many people enjoy eating meat for its rich flavor.",
+          "zh": "许多人喜欢吃肉，因为它味道丰富。"
         },
         {
-          "en": "Many jobs require strong linguistic and numerical abilities for success.",
-          "zh": "许多工作需要强大的语言和数字能力才能成功。"
+          "en": "We all aim to meet our targets by the end of the year.",
+          "zh": "我们都希望在年底之前达到我们的目标。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'linguistic' as 'language' and 'numerical' as 'numbers', which together represent communication and calculation skills."
+        "etymology": "The word 'meat' comes from the Old English 'mete', meaning food.",
+        "association": "Think of 'meat' as a 'meet' for food lovers, gathering to enjoy delicious dishes."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=linguistic%20and%20numerical%20abilities&type=2",
-      "chapter": "认知词汇 动物分类 动物智力与语言习得"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=meat&type=2",
+      "chapter": "核心词汇 健康话题 Unit 4"
     }
   ]
 }

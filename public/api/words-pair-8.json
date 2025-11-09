@@ -1,70 +1,69 @@
 {
-  "generated": "2025-11-08T22:06:51.401Z",
+  "generated": "2025-11-09T22:07:22.791Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "gene",
-      "pronunciation": "/dʒiːn/",
+      "word": "racism",
+      "pronunciation": "/ˈreɪ.sɪ.zəm/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "基因",
-          "en": "A unit of heredity that is passed from parents to offspring."
+          "zh": "种族主义",
+          "en": "The belief that one race is superior to another."
         },
         {
           "pos": "n.",
-          "zh": "基因",
-          "en": "Part of DNA that determines specific traits in living organisms."
+          "zh": "歧视",
+          "en": "Discrimination against people based on their race."
         }
       ],
       "examples": [
         {
-          "en": "Scientists are studying how genes affect human behavior.",
-          "zh": "科学家正在研究基因如何影响人类行为。"
+          "en": "Racism can lead to serious social problems in any community.",
+          "zh": "种族主义会导致任何社区出现严重的社会问题。"
         },
         {
-          "en": "Gene therapy may offer new treatments for genetic disorders.",
-          "zh": "基因疗法可能为遗传疾病提供新的治疗方法。"
+          "en": "Many organizations are working to combat racism in society today.",
+          "zh": "许多组织正在努力对抗当今社会中的种族主义。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'genes' as the 'blueprint' for physical traits, like eye color.",
-        "mnemonic": "Remember 'gene' by connecting it to 'scene'—both can define what you see."
+        "etymology": "The word 'racism' comes from 'race' and the suffix '-ism', indicating a belief or practice."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=gene&type=2",
-      "chapter": "认知词汇 动物分类 动物行为"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=racism&type=2",
+      "chapter": "核心词汇 民主与权利 Unit 4"
     },
     {
-      "word": "illegal",
-      "pronunciation": "/ɪˈliːɡəl/",
+      "word": "aboriginal",
+      "pronunciation": "/ˌæbəˈrɪdʒənl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "非法的",
-          "en": "Not allowed by the law."
+          "zh": "土著的",
+          "en": "Relating to the original inhabitants of a place."
         },
         {
-          "pos": "adj.",
-          "zh": "不合法的",
-          "en": "Doing something that is against the rules or regulations."
+          "pos": "n.",
+          "zh": "土著人",
+          "en": "A person, especially a member of a group, that has lived in a region for a long time."
         }
       ],
       "examples": [
         {
-          "en": "The government is cracking down on illegal activities.",
-          "zh": "政府正在打击非法活动。"
+          "en": "The aboriginal culture is rich in history and traditions.",
+          "zh": "土著文化在历史和传统上非常丰富。"
         },
         {
-          "en": "He was arrested for driving an illegal vehicle.",
-          "zh": "他因驾驶非法车辆而被逮捕。"
+          "en": "Many aboriginal communities are working to preserve their languages.",
+          "zh": "许多土著社区正在努力保护他们的语言。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'illegal' comes from the Latin 'illegalis', where 'in-' means 'not' and 'legalis' means 'legal'."
+        "etymology": "The word 'aboriginal' comes from the Latin 'aborigines', meaning 'from the beginning'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=illegal&type=2",
-      "chapter": "核心词汇 民主与权利 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aboriginal&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 1"
     }
   ]
 }

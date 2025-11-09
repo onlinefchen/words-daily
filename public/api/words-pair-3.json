@@ -1,70 +1,69 @@
 {
-  "generated": "2025-11-08T22:06:51.400Z",
+  "generated": "2025-11-09T22:07:22.791Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "ovary",
-      "pronunciation": "/ˈoʊ.vər.i/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "卵巢",
-          "en": "The organ in female animals that produces eggs."
-        },
-        {
-          "pos": "n.",
-          "zh": "卵巢的功能",
-          "en": "The part of the reproductive system that helps in reproduction."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The ovary is crucial for producing eggs in female mammals.",
-          "zh": "卵巢对雌性哺乳动物产生卵子至关重要。"
-        },
-        {
-          "en": "Doctors often examine the ovary for any abnormalities.",
-          "zh": "医生通常会检查卵巢是否有任何异常。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'ovary' as related to 'ovum' (egg), both are involved in reproduction."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ovary&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
-    },
-    {
-      "word": "content",
-      "pronunciation": "/ˈkɒn.tent/",
+      "word": "adverse",
+      "pronunciation": "/ˈæd.vɜrs/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "满意的",
-          "en": "Feeling happy and satisfied with what you have."
+          "zh": "不利的，逆境的",
+          "en": "Having a negative or harmful effect."
         },
         {
-          "pos": "n.",
-          "zh": "内容",
-          "en": "The information or material contained in something."
+          "pos": "adj.",
+          "zh": "相反的",
+          "en": "Opposing or contrary in nature."
         }
       ],
       "examples": [
         {
-          "en": "She felt content after finishing her book.",
-          "zh": "她在完成书籍后感到满意。"
+          "en": "The adverse weather conditions caused significant travel delays.",
+          "zh": "不利的天气条件导致了重大旅行延误。"
         },
         {
-          "en": "The content of the video was both informative and entertaining.",
-          "zh": "视频的内容既有信息性又有娱乐性。"
+          "en": "He faced many adverse reactions to his controversial proposal.",
+          "zh": "他对其争议提案面临许多不利反应。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'content' as being 'contained' within yourself, feeling satisfied.",
-        "mnemonic": "Remember 'content' as 'con-tent' – when you are content, you feel 'tense-free' and relaxed."
+        "etymology": "The word 'adverse' comes from the Latin 'adversus', meaning 'turned against'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=content&type=2",
-      "chapter": "核心词汇 工作与生活 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=adverse&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 1"
+    },
+    {
+      "word": "lenient",
+      "pronunciation": "/ˈliːniənt/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "宽容的",
+          "en": "Not strict; willing to be forgiving or tolerant."
+        },
+        {
+          "pos": "adj.",
+          "zh": "不严厉的",
+          "en": "Allowing more freedom; easygoing in rules or discipline."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The teacher was lenient with students who missed classes.",
+          "zh": "老师对缺课的学生很宽容。"
+        },
+        {
+          "en": "Judges are often lenient in sentencing first-time offenders.",
+          "zh": "法官在对初犯者的判刑时通常比较宽松。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'lean' as being relaxed, which connects to being lenient."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=lenient&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 4"
     }
   ]
 }

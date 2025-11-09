@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-08T22:06:51.400Z",
+  "generated": "2025-11-09T22:07:22.791Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "aerodynamic construction",
-      "pronunciation": "/ˌɛəroʊdaɪˈnæmɪk kənˈstrʌkʃən/",
+      "word": "aid",
+      "pronunciation": "/eɪd/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "空气动力学的",
-          "en": "Relating to the way air moves around things."
+          "pos": "v.",
+          "zh": "帮助",
+          "en": "To help someone or something."
         },
         {
           "pos": "n.",
-          "zh": "气动结构",
-          "en": "A design or shape that reduces air resistance."
+          "zh": "援助",
+          "en": "The action of helping someone or something."
         }
       ],
       "examples": [
         {
-          "en": "The car's aerodynamic construction helps it move faster on highways.",
-          "zh": "这辆车的空气动力学结构帮助它在高速公路上更快行驶。"
+          "en": "The charity aims to aid families in need of support.",
+          "zh": "这个慈善机构旨在帮助有需要的家庭。"
         },
         {
-          "en": "Engineers focus on aerodynamic construction to improve fuel efficiency.",
-          "zh": "工程师们专注于气动结构，以提高燃油效率。"
+          "en": "The government provided aid to the disaster-stricken areas.",
+          "zh": "政府向遭受灾难的地区提供了援助。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'aero' as related to air, and 'dynamic' as something that moves or changes. Together, they describe how shapes interact with air."
+        "association": "Think of 'aid' as a hand reaching out to help."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aerodynamic%20construction&type=2",
-      "chapter": "认知词汇 动物分类 动物航行能力"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aid&type=2",
+      "chapter": "基本词汇 名词200 Unit 1"
     },
     {
-      "word": "internal hormonal and neural mechanism",
-      "pronunciation": "/ɪnˈtɜrnəl ˈhɔr.mə.nəl ənd ˈnʊr.əl ˈmɛk.ə.nɪz.əm/",
+      "word": "contempt",
+      "pronunciation": "/kənˈtɛmpt/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "内部的",
-          "en": "Related to processes inside the body."
+          "pos": "n.",
+          "zh": "轻视",
+          "en": "A feeling that someone or something is not worthy of any respect."
         },
         {
-          "pos": "n.",
-          "zh": "机制",
-          "en": "A system or process that helps control functions."
+          "pos": "v.",
+          "zh": "蔑视",
+          "en": "To treat someone or something with disdain or lack of respect."
         }
       ],
       "examples": [
         {
-          "en": "The internal hormonal mechanism regulates our mood and emotions.",
-          "zh": "内部的激素机制调节我们的情绪和心情。"
+          "en": "She looked at him with contempt after his rude remarks.",
+          "zh": "在他无礼的言论后，她以轻蔑的目光看着他。"
         },
         {
-          "en": "Neural mechanisms play a crucial role in how we perceive pain.",
-          "zh": "神经机制在我们感知疼痛的方式中起着关键作用。"
+          "en": "His contempt for the rules was clear when he broke them.",
+          "zh": "他违反规则时，显然对规则表示蔑视。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'internal' as 'inside' and 'mechanism' as a 'machine' that works within your body."
+        "association": "Think of 'con' as meaning against, and 'tempt' as something appealing; contempt is feeling against what is appealing."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=internal%20hormonal%20and%20neural%20mechanism&type=2",
-      "chapter": "认知词汇 动物分类 动物行为"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=contempt&type=2",
+      "chapter": "基本词汇 名词200 Unit 2"
     }
   ]
 }
