@@ -1,755 +1,766 @@
 {
-  "generated": "2025-11-09T22:07:22.790Z",
-  "date": "2025-11-09",
+  "generated": "2025-11-10T22:08:33.224Z",
+  "date": "2025-11-10",
   "totalWords": 20,
   "words": [
     {
-      "id": "w02736",
-      "word": "kauri",
+      "id": "w01901",
+      "word": "abdomen",
       "type": "single",
-      "chapterIndex": 28,
-      "globalIndex": 2736,
-      "chapter": "ch107",
-      "chapterName": "认知词汇 自然分类 热带雨林",
+      "chapterIndex": 1,
+      "globalIndex": 1901,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
       "pronunciation": {
-        "us": "/ˈkɔːri/"
+        "us": "/æbˈdɛmən/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "古树",
-          "en": "A large tree native to New Zealand, known for its durable wood."
+          "zh": "腹部",
+          "en": "The part of the body between the chest and the hips, where the stomach is located."
         },
         {
           "pos": "n.",
-          "zh": "木材",
-          "en": "The wood derived from the kauri tree, valued for its quality."
+          "zh": "腹腔",
+          "en": "The cavity in the body that contains the digestive organs."
         }
       ],
       "examples": [
         {
-          "en": "The kauri trees in New Zealand are among the largest in the world.",
-          "zh": "新西兰的古树是世界上最大的树木之一。"
+          "en": "He felt a sharp pain in his abdomen after eating.",
+          "zh": "他吃完后感到腹部有剧烈的疼痛。"
         },
         {
-          "en": "Kauri wood is prized for its strength and beautiful appearance.",
-          "zh": "古树木因其强度和美丽的外观而受到珍视。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=kauri&type=2"
-    },
-    {
-      "id": "w00799",
-      "word": "worthy",
-      "type": "single",
-      "chapterIndex": 19,
-      "globalIndex": 799,
-      "chapter": "ch040",
-      "chapterName": "基本词汇 形容词和副词400 Unit 20",
-      "pronunciation": {
-        "us": "/ˈwɜrði/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "值得的",
-          "en": "Deserving respect, attention, or support."
-        },
-        {
-          "pos": "adj.",
-          "zh": "有价值的",
-          "en": "Having value or importance."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Her efforts to help the community are truly worthy.",
-          "zh": "她为帮助社区所做的努力真的值得称赞。"
-        },
-        {
-          "en": "The book is worthy of being read by everyone.",
-          "zh": "这本书值得每个人去阅读。"
+          "en": "Doctors often examine the abdomen for signs of illness.",
+          "zh": "医生通常会检查腹部以寻找疾病的迹象。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'worthy' as 'worth it', meaning something is valuable or important.",
-        "mnemonic": "Worthy sounds like 'wordy', which can remind you that something worthy has a lot to say."
+        "etymology": "The word 'abdomen' comes from the Latin 'abdomen', which means 'belly'.",
+        "association": "Think of 'abdominal muscles' or 'abs', which are a key part of fitness related to the abdomen."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=worthy&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=abdomen&type=2"
     },
     {
-      "id": "w00279",
-      "word": "greed",
+      "id": "w02492",
+      "word": "magma",
       "type": "single",
-      "chapterIndex": 19,
-      "globalIndex": 279,
-      "chapter": "ch014",
-      "chapterName": "基本词汇 名词200 Unit 4",
+      "chapterIndex": 45,
+      "globalIndex": 2492,
+      "chapter": "ch102",
+      "chapterName": "认知词汇 自然分类 地震",
       "pronunciation": {
-        "us": "/ɡriːd/"
+        "us": "/ˈmæɡ.mə/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "贪婪",
-          "en": "A strong desire for more wealth or possessions than one needs."
+          "zh": "岩浆",
+          "en": "Magma is hot, molten rock found beneath the Earth's surface."
         },
         {
           "pos": "n.",
-          "zh": "欲望",
-          "en": "An excessive desire for something, often leading to negative consequences."
+          "zh": "熔岩",
+          "en": "Magma is the source of lava when it erupts from a volcano."
         }
       ],
       "examples": [
         {
-          "en": "His greed for money caused him to lose his friends.",
-          "zh": "他对金钱的贪婪使他失去了朋友。"
+          "en": "Magma can rise to the surface and cause volcanic eruptions.",
+          "zh": "岩浆可以上升到地表并引发火山喷发。"
         },
         {
-          "en": "Greed can lead to unethical behavior and poor decisions.",
-          "zh": "贪婪可能导致不道德的行为和错误的决定。"
+          "en": "Scientists study magma to understand Earth's geological processes.",
+          "zh": "科学家研究岩浆以了解地球的地质过程。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'greed' as needing more 'green' (money), which highlights the desire for wealth."
+        "association": "Think of 'magma' as 'magic' rock that creates mountains and islands."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=greed&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=magma&type=2"
     },
     {
-      "id": "w01865",
-      "word": "meat",
+      "id": "w00043",
+      "word": "block",
       "type": "single",
-      "chapterIndex": 5,
-      "globalIndex": 1865,
+      "chapterIndex": 3,
+      "globalIndex": 43,
+      "chapter": "ch003",
+      "chapterName": "基本词汇 动词200 Unit 3",
+      "pronunciation": {
+        "us": "/blɑk/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "块；障碍",
+          "en": "A solid piece of material with flat surfaces."
+        },
+        {
+          "pos": "v.",
+          "zh": "阻止；封锁",
+          "en": "To prevent movement or progress."
+        }
+      ],
+      "examples": [
+        {
+          "en": "He used a block of wood to hold the door open.",
+          "zh": "他用一块木头把门撑开。"
+        },
+        {
+          "en": "They need to block the road for maintenance work.",
+          "zh": "他们需要封锁道路进行维修工作。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a 'block' as something that stops or holds back, like a block in a game."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=block&type=2"
+    },
+    {
+      "id": "w01875",
+      "word": "physician",
+      "type": "single",
+      "chapterIndex": 15,
+      "globalIndex": 1875,
       "chapter": "ch094",
       "chapterName": "核心词汇 健康话题 Unit 4",
       "pronunciation": {
-        "us": "/miːt/"
+        "us": "/fɪˈzɪʃ.ən/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "肉类",
-          "en": "The flesh of animals used as food."
+          "zh": "医生",
+          "en": "A physician is a medical doctor who treats patients."
         },
         {
-          "pos": "v.",
-          "zh": "达到",
-          "en": "To reach or come to something, often a goal."
+          "pos": "n.",
+          "zh": "医学专家",
+          "en": "A physician is someone who specializes in the practice of medicine."
         }
       ],
       "examples": [
         {
-          "en": "Many people enjoy eating meat for its rich flavor.",
-          "zh": "许多人喜欢吃肉，因为它味道丰富。"
+          "en": "The physician advised me to eat a balanced diet for better health.",
+          "zh": "医生建议我均衡饮食以保持健康。"
         },
         {
-          "en": "We all aim to meet our targets by the end of the year.",
-          "zh": "我们都希望在年底之前达到我们的目标。"
+          "en": "After the examination, the physician prescribed some medication.",
+          "zh": "检查后，医生开了一些药物。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'meat' comes from the Old English 'mete', meaning food.",
-        "association": "Think of 'meat' as a 'meet' for food lovers, gathering to enjoy delicious dishes."
+        "etymology": "The word 'physician' comes from the Latin 'physica', meaning 'natural science' or 'medicine'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=meat&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=physician&type=2"
     },
     {
-      "id": "w00419",
-      "word": "adverse",
-      "type": "single",
-      "chapterIndex": 19,
-      "globalIndex": 419,
-      "chapter": "ch021",
-      "chapterName": "基本词汇 形容词和副词400 Unit 1",
-      "pronunciation": {
-        "us": "/ˈæd.vɜrs/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "不利的，逆境的",
-          "en": "Having a negative or harmful effect."
-        },
-        {
-          "pos": "adj.",
-          "zh": "相反的",
-          "en": "Opposing or contrary in nature."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The adverse weather conditions caused significant travel delays.",
-          "zh": "不利的天气条件导致了重大旅行延误。"
-        },
-        {
-          "en": "He faced many adverse reactions to his controversial proposal.",
-          "zh": "他对其争议提案面临许多不利反应。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'adverse' comes from the Latin 'adversus', meaning 'turned against'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=adverse&type=2"
-    },
-    {
-      "id": "w01471",
-      "word": "lenient",
-      "type": "single",
-      "chapterIndex": 11,
-      "globalIndex": 1471,
-      "chapter": "ch074",
-      "chapterName": "核心词汇 动物权益与保护 Unit 4",
-      "pronunciation": {
-        "us": "/ˈliːniənt/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "宽容的",
-          "en": "Not strict; willing to be forgiving or tolerant."
-        },
-        {
-          "pos": "adj.",
-          "zh": "不严厉的",
-          "en": "Allowing more freedom; easygoing in rules or discipline."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The teacher was lenient with students who missed classes.",
-          "zh": "老师对缺课的学生很宽容。"
-        },
-        {
-          "en": "Judges are often lenient in sentencing first-time offenders.",
-          "zh": "法官在对初犯者的判刑时通常比较宽松。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'lean' as being relaxed, which connects to being lenient."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=lenient&type=2"
-    },
-    {
-      "id": "w00253",
-      "word": "discrimination",
-      "type": "single",
-      "chapterIndex": 13,
-      "globalIndex": 253,
-      "chapter": "ch013",
-      "chapterName": "基本词汇 名词200 Unit 3",
-      "pronunciation": {
-        "us": "/ˌdɪs.krɪ.mɪˈneɪ.ʃən/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "歧视",
-          "en": "The unfair treatment of a person or group based on characteristics like race or gender."
-        },
-        {
-          "pos": "n.",
-          "zh": "辨别",
-          "en": "The ability to recognize and understand differences between things."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Many countries have laws against racial discrimination in the workplace.",
-          "zh": "许多国家在职场上有反对种族歧视的法律。"
-        },
-        {
-          "en": "Her strong discrimination between right and wrong is admirable.",
-          "zh": "她对是非的强烈辨别能力令人钦佩。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word comes from the Latin 'discriminare', meaning 'to distinguish'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=discrimination&type=2"
-    },
-    {
-      "id": "w00471",
-      "word": "cognitive",
-      "type": "single",
-      "chapterIndex": 11,
-      "globalIndex": 471,
-      "chapter": "ch024",
-      "chapterName": "基本词汇 形容词和副词400 Unit 4",
-      "pronunciation": {
-        "us": "/ˈkɑːɡnɪtɪv/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "认知的",
-          "en": "Related to the mental processes of understanding and thinking."
-        },
-        {
-          "pos": "adj.",
-          "zh": "认知能力的",
-          "en": "Describing how we perceive, learn, and remember information."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Cognitive development is crucial during the early years of life.",
-          "zh": "认知发展在生命的早期阶段是至关重要的。"
-        },
-        {
-          "en": "She studies cognitive psychology to understand human thought processes.",
-          "zh": "她研究认知心理学以理解人类的思维过程。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'cognitive' as 'cog' in a machine, where the 'cogs' represent how our mind processes information."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cognitive&type=2"
-    },
-    {
-      "id": "w00214",
-      "word": "atmosphere",
-      "type": "single",
-      "chapterIndex": 14,
-      "globalIndex": 214,
-      "chapter": "ch011",
-      "chapterName": "基本词汇 名词200 Unit 1",
-      "pronunciation": {
-        "us": "/ˈætməsˌfɪr/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "气氛",
-          "en": "The mood or feeling in a place."
-        },
-        {
-          "pos": "n.",
-          "zh": "大气层",
-          "en": "The layer of gases surrounding the Earth."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The atmosphere at the concert was electric and exciting.",
-          "zh": "音乐会的气氛令人振奋和激动。"
-        },
-        {
-          "en": "The Earth's atmosphere protects us from harmful solar radiation.",
-          "zh": "地球的大气层保护我们免受有害的太阳辐射。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'atmosphere' as the 'air' or 'mood' that surrounds you in different places."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=atmosphere&type=2"
-    },
-    {
-      "id": "w02562",
-      "word": "socioeconomic",
-      "type": "single",
-      "chapterIndex": 34,
-      "globalIndex": 2562,
-      "chapter": "ch103",
-      "chapterName": "认知词汇 自然分类 \"厄尔尼诺\"现象",
-      "pronunciation": {
-        "us": "/ˌsoʊ.si.oʊ.ˈi.kɒm.ɪk/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "社会经济的",
-          "en": "Related to the interaction between social and economic factors."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The socioeconomic status of families affects children's education quality.",
-          "zh": "家庭的社会经济地位影响孩子的教育质量。"
-        },
-        {
-          "en": "Urban areas often show diverse socioeconomic conditions among residents.",
-          "zh": "城市地区居民之间常常显示出多样的社会经济状况。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'socio' as society and 'economic' as money, linking them together."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=socioeconomic&type=2"
-    },
-    {
-      "id": "w00211",
-      "word": "aid",
-      "type": "single",
-      "chapterIndex": 11,
-      "globalIndex": 211,
-      "chapter": "ch011",
-      "chapterName": "基本词汇 名词200 Unit 1",
-      "pronunciation": {
-        "us": "/eɪd/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "帮助",
-          "en": "To help someone or something."
-        },
-        {
-          "pos": "n.",
-          "zh": "援助",
-          "en": "The action of helping someone or something."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The charity aims to aid families in need of support.",
-          "zh": "这个慈善机构旨在帮助有需要的家庭。"
-        },
-        {
-          "en": "The government provided aid to the disaster-stricken areas.",
-          "zh": "政府向遭受灾难的地区提供了援助。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'aid' as a hand reaching out to help."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aid&type=2"
-    },
-    {
-      "id": "w00235",
-      "word": "contempt",
-      "type": "single",
-      "chapterIndex": 15,
-      "globalIndex": 235,
-      "chapter": "ch012",
-      "chapterName": "基本词汇 名词200 Unit 2",
-      "pronunciation": {
-        "us": "/kənˈtɛmpt/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "轻视",
-          "en": "A feeling that someone or something is not worthy of any respect."
-        },
-        {
-          "pos": "v.",
-          "zh": "蔑视",
-          "en": "To treat someone or something with disdain or lack of respect."
-        }
-      ],
-      "examples": [
-        {
-          "en": "She looked at him with contempt after his rude remarks.",
-          "zh": "在他无礼的言论后，她以轻蔑的目光看着他。"
-        },
-        {
-          "en": "His contempt for the rules was clear when he broke them.",
-          "zh": "他违反规则时，显然对规则表示蔑视。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'con' as meaning against, and 'tempt' as something appealing; contempt is feeling against what is appealing."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=contempt&type=2"
-    },
-    {
-      "id": "w00017",
-      "word": "advocate",
-      "type": "single",
-      "chapterIndex": 17,
-      "globalIndex": 17,
-      "chapter": "ch001",
-      "chapterName": "基本词汇 动词200 Unit 1",
-      "pronunciation": {
-        "us": "/ˈæd.və.keɪt/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "倡导，支持",
-          "en": "To support or argue for a cause or policy."
-        },
-        {
-          "pos": "n.",
-          "zh": "倡导者，支持者",
-          "en": "A person who supports or recommends a particular cause."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Many activists advocate for the rights of marginalized communities.",
-          "zh": "许多活动家倡导边缘化社区的权利。"
-        },
-        {
-          "en": "She is a strong advocate for environmental protection.",
-          "zh": "她是环境保护的坚定支持者。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of an 'advocate' as someone who 'adds voice' to a cause."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=advocate&type=2"
-    },
-    {
-      "id": "w00254",
-      "word": "disposal",
-      "type": "single",
-      "chapterIndex": 14,
-      "globalIndex": 254,
-      "chapter": "ch013",
-      "chapterName": "基本词汇 名词200 Unit 3",
-      "pronunciation": {
-        "us": "/dɪsˈpoʊ.zəl/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "处理，处置",
-          "en": "The act of getting rid of something, usually waste."
-        },
-        {
-          "pos": "n.",
-          "zh": "支配，安排",
-          "en": "The power to make decisions about something."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The city has strict rules for waste disposal to protect the environment.",
-          "zh": "这个城市对废物处理有严格的规定，以保护环境。"
-        },
-        {
-          "en": "She had the disposal of the funds for the community project.",
-          "zh": "她负责管理社区项目的资金。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disposal&type=2"
-    },
-    {
-      "id": "w01577",
-      "word": "racism",
-      "type": "single",
-      "chapterIndex": 17,
-      "globalIndex": 1577,
-      "chapter": "ch079",
-      "chapterName": "核心词汇 民主与权利 Unit 4",
-      "pronunciation": {
-        "us": "/ˈreɪ.sɪ.zəm/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "种族主义",
-          "en": "The belief that one race is superior to another."
-        },
-        {
-          "pos": "n.",
-          "zh": "歧视",
-          "en": "Discrimination against people based on their race."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Racism can lead to serious social problems in any community.",
-          "zh": "种族主义会导致任何社区出现严重的社会问题。"
-        },
-        {
-          "en": "Many organizations are working to combat racism in society today.",
-          "zh": "许多组织正在努力对抗当今社会中的种族主义。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'racism' comes from 'race' and the suffix '-ism', indicating a belief or practice."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=racism&type=2"
-    },
-    {
-      "id": "w00403",
-      "word": "aboriginal",
+      "id": "w01883",
+      "word": "respiratory",
       "type": "single",
       "chapterIndex": 3,
-      "globalIndex": 403,
-      "chapter": "ch021",
-      "chapterName": "基本词汇 形容词和副词400 Unit 1",
+      "globalIndex": 1883,
+      "chapter": "ch095",
+      "chapterName": "核心词汇 健康话题 Unit 5",
       "pronunciation": {
-        "us": "/ˌæbəˈrɪdʒənl/"
+        "us": "/rɪˈspɪrəˌtɔri/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "土著的",
-          "en": "Relating to the original inhabitants of a place."
+          "zh": "呼吸的",
+          "en": "Related to the process of breathing."
         },
         {
-          "pos": "n.",
-          "zh": "土著人",
-          "en": "A person, especially a member of a group, that has lived in a region for a long time."
+          "pos": "adj.",
+          "zh": "呼吸系统的",
+          "en": "Pertaining to the organs involved in breathing."
         }
       ],
       "examples": [
         {
-          "en": "The aboriginal culture is rich in history and traditions.",
-          "zh": "土著文化在历史和传统上非常丰富。"
+          "en": "The respiratory system is essential for human survival.",
+          "zh": "呼吸系统对人类生存至关重要。"
         },
         {
-          "en": "Many aboriginal communities are working to preserve their languages.",
-          "zh": "许多土著社区正在努力保护他们的语言。"
+          "en": "Pollution can severely affect respiratory health.",
+          "zh": "污染会严重影响呼吸健康。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'aboriginal' comes from the Latin 'aborigines', meaning 'from the beginning'."
+        "association": "Think of 'respiratory' as related to 'respire,' which means to breathe."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aboriginal&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=respiratory&type=2"
     },
     {
-      "id": "w02037",
-      "word": "alga",
-      "type": "single",
-      "chapterIndex": 137,
-      "globalIndex": 2037,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/ˈælɡə/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "藻类",
-          "en": "A simple plant that grows in water."
-        },
-        {
-          "pos": "n.",
-          "zh": "海藻",
-          "en": "A type of seaweed that is often green or brown."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Alga can be found in both fresh and salt water environments.",
-          "zh": "藻类可以在淡水和盐水环境中找到。"
-        },
-        {
-          "en": "Researchers study alga for its potential health benefits.",
-          "zh": "研究人员研究藻类的潜在健康益处。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'alga' as a friend of water, always found swimming in it."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=alga&type=2"
-    },
-    {
-      "id": "w02035",
-      "word": "air sac",
-      "type": "phrase",
-      "chapterIndex": 135,
-      "globalIndex": 2035,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/ˈɛr sæk/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "气囊",
-          "en": "A small, flexible structure in animals that holds air."
-        },
-        {
-          "pos": "n.",
-          "zh": "空气囊",
-          "en": "A part of a plant or animal that helps with breathing and gas exchange."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Birds have air sacs that help them breathe efficiently while flying.",
-          "zh": "鸟类有气囊，帮助它们在飞行时高效呼吸。"
-        },
-        {
-          "en": "The air sacs in fish allow them to control their buoyancy in water.",
-          "zh": "鱼类的空气囊使它们能够控制在水中的浮力。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=air%20sac&type=2"
-    },
-    {
-      "id": "w01366",
-      "word": "self",
+      "id": "w00566",
+      "word": "feasible",
       "type": "single",
       "chapterIndex": 6,
-      "globalIndex": 1366,
-      "chapter": "ch069",
-      "chapterName": "核心词汇 青少年教育 Unit 9",
+      "globalIndex": 566,
+      "chapter": "ch029",
+      "chapterName": "基本词汇 形容词和副词400 Unit 9",
       "pronunciation": {
-        "us": "/sɛlf/"
+        "us": "/ˈfiː.zə.bəl/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "可行的",
+          "en": "Possible to do easily or conveniently."
+        },
+        {
+          "pos": "adj.",
+          "zh": "适合的",
+          "en": "Practical and likely to succeed."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The plan is feasible and can be completed within a year.",
+          "zh": "这个计划是可行的，可以在一年内完成。"
+        },
+        {
+          "en": "Finding a solution that is feasible for everyone is challenging.",
+          "zh": "找到一个对每个人都可行的解决方案是具有挑战性的。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'feasible' as 'feast-able' – a plan that can be enjoyed like a feast."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=feasible&type=2"
+    },
+    {
+      "id": "w01338",
+      "word": "obsession",
+      "type": "single",
+      "chapterIndex": 18,
+      "globalIndex": 1338,
+      "chapter": "ch067",
+      "chapterName": "核心词汇 青少年教育 Unit 7",
+      "pronunciation": {
+        "us": "/əbˈsɛʃən/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "自我",
-          "en": "A person's essential being that distinguishes them from others."
+          "zh": "迷恋，痴迷",
+          "en": "A strong and unhealthy interest in something."
         },
         {
-          "pos": "pron.",
-          "zh": "自己",
-          "en": "Referring to oneself, used for emphasis or clarification."
+          "pos": "n.",
+          "zh": "执念",
+          "en": "An idea or thought that continually preoccupies or intrudes on a person's mind."
         }
       ],
       "examples": [
         {
-          "en": "She believes in being true to herself and her values.",
-          "zh": "她相信忠于自己和自己的价值观。"
+          "en": "His obsession with success often causes him to neglect his health.",
+          "zh": "他对成功的痴迷常常导致他忽视健康。"
         },
         {
-          "en": "He often talks about his self-improvement journey.",
-          "zh": "他经常谈论自我提升的旅程。"
+          "en": "She has an obsession with collecting rare books from the 19th century.",
+          "zh": "她对收集19世纪的稀有书籍有着一种执念。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=obsession&type=2"
+    },
+    {
+      "id": "w03870",
+      "word": "escapement",
+      "type": "single",
+      "chapterIndex": 26,
+      "globalIndex": 3870,
+      "chapter": "ch127",
+      "chapterName": "认知词汇 历史分类 记时器发展史",
+      "pronunciation": {
+        "us": "/ɪˈskæp.mənt/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "逃避",
+          "en": "A mechanism that allows a gear to move forward while preventing it from moving backward."
+        },
+        {
+          "pos": "n.",
+          "zh": "逃脱手段",
+          "en": "A way or method of escaping from a situation."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The escapement in the clock regulates its movement and keeps accurate time.",
+          "zh": "钟表中的逃逸机构调节其运动并保持准确的时间。"
+        },
+        {
+          "en": "He found an escapement from reality through his art and creative writing.",
+          "zh": "他通过艺术和创作写作找到了逃脱现实的方法。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'self' as your personal brand or identity, which helps you remember it relates to who you are."
+        "etymology": "The word 'escapement' derives from the verb 'escape', which relates to the idea of getting away or avoiding."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=self&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=escapement&type=2"
     },
     {
-      "id": "w00098",
-      "word": "disagree",
+      "id": "w01866",
+      "word": "medical",
       "type": "single",
-      "chapterIndex": 18,
-      "globalIndex": 98,
-      "chapter": "ch005",
-      "chapterName": "基本词汇 动词200 Unit 5",
+      "chapterIndex": 6,
+      "globalIndex": 1866,
+      "chapter": "ch094",
+      "chapterName": "核心词汇 健康话题 Unit 4",
       "pronunciation": {
-        "us": "/ˌdɪs.əˈɡriː/"
+        "us": "/ˈmɛdɪkəl/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "医学的",
+          "en": "Related to the science of medicine and health."
+        },
+        {
+          "pos": "n.",
+          "zh": "医疗人员",
+          "en": "A person who practices medicine, such as a doctor."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The medical team worked tirelessly to save the patient’s life.",
+          "zh": "医疗团队不懈努力拯救患者的生命。"
+        },
+        {
+          "en": "She studied medical science to become a doctor.",
+          "zh": "她学习医学科学以成为一名医生。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'medical' as relating to 'medic' or 'medicine', which both involve health."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=medical&type=2"
+    },
+    {
+      "id": "w01849",
+      "word": "heredity",
+      "type": "single",
+      "chapterIndex": 9,
+      "globalIndex": 1849,
+      "chapter": "ch093",
+      "chapterName": "核心词汇 健康话题 Unit 3",
+      "pronunciation": {
+        "us": "/həˈrɛdəti/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "遗传",
+          "en": "The passing of traits from parents to their children."
+        },
+        {
+          "pos": "n.",
+          "zh": "遗传特征",
+          "en": "The characteristics that are inherited from one's ancestors."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Heredity plays a significant role in determining physical traits.",
+          "zh": "遗传在决定身体特征中起着重要作用。"
+        },
+        {
+          "en": "Many diseases can be linked to heredity and genetic factors.",
+          "zh": "许多疾病可以与遗传和遗传因素相关联。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'heredity' comes from the Latin 'hereditas', meaning 'inheritance'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=heredity&type=2"
+    },
+    {
+      "id": "w00414",
+      "word": "adolescent",
+      "type": "single",
+      "chapterIndex": 14,
+      "globalIndex": 414,
+      "chapter": "ch021",
+      "chapterName": "基本词汇 形容词和副词400 Unit 1",
+      "pronunciation": {
+        "us": "/ˌæd.əˈles.ənt/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "青少年的",
+          "en": "Relating to a young person who is developing from a child into an adult."
+        },
+        {
+          "pos": "n.",
+          "zh": "青少年",
+          "en": "A young person between the ages of 13 and 19."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many adolescents struggle with their identity during teenage years.",
+          "zh": "许多青少年在青少年时期努力寻找自我认同。"
+        },
+        {
+          "en": "Adolescents often face pressure from peers and society.",
+          "zh": "青少年常常面临来自同龄人和社会的压力。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'adolescent' comes from the Latin 'adolescere', meaning 'to grow up'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=adolescent&type=2"
+    },
+    {
+      "id": "w02353",
+      "word": "primate",
+      "type": "single",
+      "chapterIndex": 15,
+      "globalIndex": 2353,
+      "chapter": "ch098",
+      "chapterName": "认知词汇 动物分类 动物思维",
+      "pronunciation": {
+        "us": "/ˈpraɪˌmeɪt/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "灵长类动物",
+          "en": "A group of mammals that includes humans, monkeys, and apes."
+        },
+        {
+          "pos": "n.",
+          "zh": "首要人物",
+          "en": "A person who holds a leading or important position."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Monkeys are fascinating primates that exhibit complex social behaviors.",
+          "zh": "猴子是迷人的灵长类动物，表现出复杂的社会行为。"
+        },
+        {
+          "en": "In many cultures, the primate symbolizes intelligence and adaptability.",
+          "zh": "在许多文化中，灵长类动物象征着智慧和适应能力。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'primate' comes from the Latin 'primat-', meaning 'first' or 'chief'.",
+        "association": "Think of 'prime' in 'primate' to remember it includes leading animals like monkeys and apes."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=primate&type=2"
+    },
+    {
+      "id": "w00422",
+      "word": "affluent",
+      "type": "single",
+      "chapterIndex": 2,
+      "globalIndex": 422,
+      "chapter": "ch022",
+      "chapterName": "基本词汇 形容词和副词400 Unit 2",
+      "pronunciation": {
+        "us": "/ˈæfluənt/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "富裕的",
+          "en": "Having a lot of money or wealth."
+        },
+        {
+          "pos": "n.",
+          "zh": "富人",
+          "en": "A person who is wealthy."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many affluent families can afford luxury vacations every year.",
+          "zh": "许多富裕家庭每年都能负担得起奢华的假期。"
+        },
+        {
+          "en": "The affluent neighborhood is known for its expensive houses.",
+          "zh": "这个富裕的社区以其昂贵的房屋而闻名。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'affluent' comes from the Latin 'affluens', meaning 'flowing in'. This relates to wealth flowing into a person or community."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=affluent&type=2"
+    },
+    {
+      "id": "w01902",
+      "word": "aborigine",
+      "type": "single",
+      "chapterIndex": 2,
+      "globalIndex": 1902,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/ˌæbəˈrɪdʒiː/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "土著居民",
+          "en": "A member of the original people living in a place, especially Australia."
+        },
+        {
+          "pos": "n.",
+          "zh": "原住民",
+          "en": "The earliest known inhabitants of a region."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The aborigines have a rich cultural heritage that is still celebrated today.",
+          "zh": "土著居民拥有丰富的文化遗产，至今仍在庆祝。"
+        },
+        {
+          "en": "Many aborigine tribes maintain their traditional lifestyles despite modern influences.",
+          "zh": "许多土著部落尽管受到现代影响，仍保持传统生活方式。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'aborigine' comes from Latin 'aborigines', meaning 'original inhabitants'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aborigine&type=2"
+    },
+    {
+      "id": "w01894",
+      "word": "suffering",
+      "type": "single",
+      "chapterIndex": 14,
+      "globalIndex": 1894,
+      "chapter": "ch095",
+      "chapterName": "核心词汇 健康话题 Unit 5",
+      "pronunciation": {
+        "us": "/ˈsʌfərɪŋ/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "痛苦; 苦难",
+          "en": "The state of experiencing pain or distress."
+        },
+        {
+          "pos": "v.",
+          "zh": "遭受; 经历",
+          "en": "To experience something unpleasant."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many people are suffering from mental health issues today.",
+          "zh": "今天，许多人都在遭受心理健康问题。"
+        },
+        {
+          "en": "She dedicated her life to helping those who are suffering.",
+          "zh": "她把一生奉献给帮助那些受苦的人。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'suffering' as 'suffocating' from pain, connecting the two concepts."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=suffering&type=2"
+    },
+    {
+      "id": "w00856",
+      "word": "mission",
+      "type": "single",
+      "chapterIndex": 16,
+      "globalIndex": 856,
+      "chapter": "ch043",
+      "chapterName": "核心词汇 科技发展 Unit 3",
+      "pronunciation": {
+        "us": "/ˈmɪʃən/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "使命",
+          "en": "A special task or purpose that someone is assigned to complete."
+        },
+        {
+          "pos": "v.",
+          "zh": "派遣",
+          "en": "To send someone to do a specific task or job."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The team's mission is to improve the local environment.",
+          "zh": "团队的使命是改善当地环境。"
+        },
+        {
+          "en": "They were sent on a mission to deliver important documents.",
+          "zh": "他们被派遣去送重要文件。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'mission' comes from the Latin 'missio', meaning 'to send'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=mission&type=2"
+    },
+    {
+      "id": "w00493",
+      "word": "deliberate",
+      "type": "single",
+      "chapterIndex": 13,
+      "globalIndex": 493,
+      "chapter": "ch025",
+      "chapterName": "基本词汇 形容词和副词400 Unit 5",
+      "pronunciation": {
+        "us": "/dɪˈlɪbərɪt/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "故意的，深思熟虑的",
+          "en": "Done on purpose or after careful thought."
+        },
+        {
+          "pos": "v.",
+          "zh": "仔细考虑，深思熟虑",
+          "en": "To think about something carefully before making a decision."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The committee made a deliberate choice to improve the project.",
+          "zh": "委员会做出了改善项目的深思熟虑的选择。"
+        },
+        {
+          "en": "She spoke in a deliberate manner to ensure clarity.",
+          "zh": "她以深思熟虑的方式说话，以确保清晰。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'deliberate' as 'deliberately thinking', emphasizing careful consideration."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=deliberate&type=2"
+    },
+    {
+      "id": "w00185",
+      "word": "relieve",
+      "type": "single",
+      "chapterIndex": 5,
+      "globalIndex": 185,
+      "chapter": "ch010",
+      "chapterName": "基本词汇 动词200 Unit 10",
+      "pronunciation": {
+        "us": "/rɪˈliːv/"
       },
       "meanings": [
         {
           "pos": "v.",
-          "zh": "不同意",
-          "en": "To have a different opinion or view from someone else."
+          "zh": "缓解",
+          "en": "To make something less severe or serious."
         },
         {
           "pos": "v.",
-          "zh": "争论",
-          "en": "To argue or dispute about something."
+          "zh": "解除",
+          "en": "To free someone from a burden or difficulty."
         }
       ],
       "examples": [
         {
-          "en": "Many people disagree with the proposed changes to the law.",
-          "zh": "许多人不同意对法律的提议修改。"
+          "en": "The medicine helped to relieve her headache quickly.",
+          "zh": "这药很快缓解了她的头痛。"
         },
         {
-          "en": "It's okay to disagree, but we should remain respectful.",
-          "zh": "不同意是可以的，但我们应该保持尊重。"
+          "en": "Volunteers worked to relieve the suffering of the victims.",
+          "zh": "志愿者们努力减轻受害者的痛苦。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'disagree' as 'not agreeing', which can be visualized as two people shaking their heads."
+        "association": "Think of 'relieve' as 're-leave', meaning to leave behind a burden."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disagree&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=relieve&type=2"
+    },
+    {
+      "id": "w00427",
+      "word": "all-round",
+      "type": "single",
+      "chapterIndex": 7,
+      "globalIndex": 427,
+      "chapter": "ch022",
+      "chapterName": "基本词汇 形容词和副词400 Unit 2",
+      "pronunciation": {
+        "us": "/ɔːlˈraʊnd/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "全面的",
+          "en": "Having many skills or abilities in different areas."
+        },
+        {
+          "pos": "n.",
+          "zh": "全能者",
+          "en": "A person who is good at many different things."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She is an all-round athlete, excelling in various sports.",
+          "zh": "她是一名全面的运动员，在多种运动中表现出色。"
+        },
+        {
+          "en": "His all-round skills make him a valuable team member.",
+          "zh": "他全面的技能使他成为一个有价值的团队成员。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of an 'all-round' ball that can roll in any direction, symbolizing versatility."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=all-round&type=2"
+    },
+    {
+      "id": "w00326",
+      "word": "priority",
+      "type": "single",
+      "chapterIndex": 6,
+      "globalIndex": 326,
+      "chapter": "ch017",
+      "chapterName": "基本词汇 名词200 Unit 7",
+      "pronunciation": {
+        "us": "/praɪˈɔr.ɪ.ti/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "优先事项",
+          "en": "Something that is considered more important than other things."
+        },
+        {
+          "pos": "n.",
+          "zh": "优先权",
+          "en": "The state of being more important or urgent than others."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Education should be a top priority for every government.",
+          "zh": "教育应该是每个政府的首要任务。"
+        },
+        {
+          "en": "Finding a job is my main priority after graduation.",
+          "zh": "毕业后找工作是我的首要任务。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'priority' as 'prior' in time, meaning it comes first."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=priority&type=2"
     }
   ]
 }

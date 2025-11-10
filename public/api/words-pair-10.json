@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-09T22:07:22.792Z",
+  "generated": "2025-11-10T22:08:33.226Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "self",
-      "pronunciation": "/sɛlf/",
+      "word": "all-round",
+      "pronunciation": "/ɔːlˈraʊnd/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "全面的",
+          "en": "Having many skills or abilities in different areas."
+        },
+        {
+          "pos": "n.",
+          "zh": "全能者",
+          "en": "A person who is good at many different things."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She is an all-round athlete, excelling in various sports.",
+          "zh": "她是一名全面的运动员，在多种运动中表现出色。"
+        },
+        {
+          "en": "His all-round skills make him a valuable team member.",
+          "zh": "他全面的技能使他成为一个有价值的团队成员。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of an 'all-round' ball that can roll in any direction, symbolizing versatility."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=all-round&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 2"
+    },
+    {
+      "word": "priority",
+      "pronunciation": "/praɪˈɔr.ɪ.ti/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "自我",
-          "en": "A person's essential being that distinguishes them from others."
+          "zh": "优先事项",
+          "en": "Something that is considered more important than other things."
         },
         {
-          "pos": "pron.",
-          "zh": "自己",
-          "en": "Referring to oneself, used for emphasis or clarification."
+          "pos": "n.",
+          "zh": "优先权",
+          "en": "The state of being more important or urgent than others."
         }
       ],
       "examples": [
         {
-          "en": "She believes in being true to herself and her values.",
-          "zh": "她相信忠于自己和自己的价值观。"
+          "en": "Education should be a top priority for every government.",
+          "zh": "教育应该是每个政府的首要任务。"
         },
         {
-          "en": "He often talks about his self-improvement journey.",
-          "zh": "他经常谈论自我提升的旅程。"
+          "en": "Finding a job is my main priority after graduation.",
+          "zh": "毕业后找工作是我的首要任务。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'self' as your personal brand or identity, which helps you remember it relates to who you are."
+        "association": "Think of 'priority' as 'prior' in time, meaning it comes first."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=self&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 9"
-    },
-    {
-      "word": "disagree",
-      "pronunciation": "/ˌdɪs.əˈɡriː/",
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "不同意",
-          "en": "To have a different opinion or view from someone else."
-        },
-        {
-          "pos": "v.",
-          "zh": "争论",
-          "en": "To argue or dispute about something."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Many people disagree with the proposed changes to the law.",
-          "zh": "许多人不同意对法律的提议修改。"
-        },
-        {
-          "en": "It's okay to disagree, but we should remain respectful.",
-          "zh": "不同意是可以的，但我们应该保持尊重。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'disagree' as 'not agreeing', which can be visualized as two people shaking their heads."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disagree&type=2",
-      "chapter": "基本词汇 动词200 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=priority&type=2",
+      "chapter": "基本词汇 名词200 Unit 7"
     }
   ]
 }

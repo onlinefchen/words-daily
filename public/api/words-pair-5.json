@@ -1,64 +1,69 @@
 {
-  "generated": "2025-11-09T22:07:22.791Z",
+  "generated": "2025-11-10T22:08:33.226Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "atmosphere",
-      "pronunciation": "/ˈætməsˌfɪr/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "气氛",
-          "en": "The mood or feeling in a place."
-        },
-        {
-          "pos": "n.",
-          "zh": "大气层",
-          "en": "The layer of gases surrounding the Earth."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The atmosphere at the concert was electric and exciting.",
-          "zh": "音乐会的气氛令人振奋和激动。"
-        },
-        {
-          "en": "The Earth's atmosphere protects us from harmful solar radiation.",
-          "zh": "地球的大气层保护我们免受有害的太阳辐射。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'atmosphere' as the 'air' or 'mood' that surrounds you in different places."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=atmosphere&type=2",
-      "chapter": "基本词汇 名词200 Unit 1"
-    },
-    {
-      "word": "socioeconomic",
-      "pronunciation": "/ˌsoʊ.si.oʊ.ˈi.kɒm.ɪk/",
+      "word": "medical",
+      "pronunciation": "/ˈmɛdɪkəl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "社会经济的",
-          "en": "Related to the interaction between social and economic factors."
+          "zh": "医学的",
+          "en": "Related to the science of medicine and health."
+        },
+        {
+          "pos": "n.",
+          "zh": "医疗人员",
+          "en": "A person who practices medicine, such as a doctor."
         }
       ],
       "examples": [
         {
-          "en": "The socioeconomic status of families affects children's education quality.",
-          "zh": "家庭的社会经济地位影响孩子的教育质量。"
+          "en": "The medical team worked tirelessly to save the patient’s life.",
+          "zh": "医疗团队不懈努力拯救患者的生命。"
         },
         {
-          "en": "Urban areas often show diverse socioeconomic conditions among residents.",
-          "zh": "城市地区居民之间常常显示出多样的社会经济状况。"
+          "en": "She studied medical science to become a doctor.",
+          "zh": "她学习医学科学以成为一名医生。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'socio' as society and 'economic' as money, linking them together."
+        "association": "Think of 'medical' as relating to 'medic' or 'medicine', which both involve health."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=socioeconomic&type=2",
-      "chapter": "认知词汇 自然分类 \"厄尔尼诺\"现象"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=medical&type=2",
+      "chapter": "核心词汇 健康话题 Unit 4"
+    },
+    {
+      "word": "heredity",
+      "pronunciation": "/həˈrɛdəti/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "遗传",
+          "en": "The passing of traits from parents to their children."
+        },
+        {
+          "pos": "n.",
+          "zh": "遗传特征",
+          "en": "The characteristics that are inherited from one's ancestors."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Heredity plays a significant role in determining physical traits.",
+          "zh": "遗传在决定身体特征中起着重要作用。"
+        },
+        {
+          "en": "Many diseases can be linked to heredity and genetic factors.",
+          "zh": "许多疾病可以与遗传和遗传因素相关联。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'heredity' comes from the Latin 'hereditas', meaning 'inheritance'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=heredity&type=2",
+      "chapter": "核心词汇 健康话题 Unit 3"
     }
   ]
 }

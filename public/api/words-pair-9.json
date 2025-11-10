@@ -1,67 +1,69 @@
 {
-  "generated": "2025-11-09T22:07:22.792Z",
+  "generated": "2025-11-10T22:08:33.226Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "alga",
-      "pronunciation": "/ˈælɡə/",
+      "word": "deliberate",
+      "pronunciation": "/dɪˈlɪbərɪt/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "藻类",
-          "en": "A simple plant that grows in water."
+          "pos": "adj.",
+          "zh": "故意的，深思熟虑的",
+          "en": "Done on purpose or after careful thought."
         },
         {
-          "pos": "n.",
-          "zh": "海藻",
-          "en": "A type of seaweed that is often green or brown."
+          "pos": "v.",
+          "zh": "仔细考虑，深思熟虑",
+          "en": "To think about something carefully before making a decision."
         }
       ],
       "examples": [
         {
-          "en": "Alga can be found in both fresh and salt water environments.",
-          "zh": "藻类可以在淡水和盐水环境中找到。"
+          "en": "The committee made a deliberate choice to improve the project.",
+          "zh": "委员会做出了改善项目的深思熟虑的选择。"
         },
         {
-          "en": "Researchers study alga for its potential health benefits.",
-          "zh": "研究人员研究藻类的潜在健康益处。"
+          "en": "She spoke in a deliberate manner to ensure clarity.",
+          "zh": "她以深思熟虑的方式说话，以确保清晰。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'alga' as a friend of water, always found swimming in it."
+        "association": "Think of 'deliberate' as 'deliberately thinking', emphasizing careful consideration."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=alga&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=deliberate&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 5"
     },
     {
-      "word": "air sac",
-      "pronunciation": "/ˈɛr sæk/",
+      "word": "relieve",
+      "pronunciation": "/rɪˈliːv/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "气囊",
-          "en": "A small, flexible structure in animals that holds air."
+          "pos": "v.",
+          "zh": "缓解",
+          "en": "To make something less severe or serious."
         },
         {
-          "pos": "n.",
-          "zh": "空气囊",
-          "en": "A part of a plant or animal that helps with breathing and gas exchange."
+          "pos": "v.",
+          "zh": "解除",
+          "en": "To free someone from a burden or difficulty."
         }
       ],
       "examples": [
         {
-          "en": "Birds have air sacs that help them breathe efficiently while flying.",
-          "zh": "鸟类有气囊，帮助它们在飞行时高效呼吸。"
+          "en": "The medicine helped to relieve her headache quickly.",
+          "zh": "这药很快缓解了她的头痛。"
         },
         {
-          "en": "The air sacs in fish allow them to control their buoyancy in water.",
-          "zh": "鱼类的空气囊使它们能够控制在水中的浮力。"
+          "en": "Volunteers worked to relieve the suffering of the victims.",
+          "zh": "志愿者们努力减轻受害者的痛苦。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=air%20sac&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "memoryTips": {
+        "association": "Think of 'relieve' as 're-leave', meaning to leave behind a burden."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=relieve&type=2",
+      "chapter": "基本词汇 动词200 Unit 10"
     }
   ]
 }

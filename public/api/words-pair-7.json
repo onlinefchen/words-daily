@@ -1,67 +1,69 @@
 {
-  "generated": "2025-11-09T22:07:22.791Z",
+  "generated": "2025-11-10T22:08:33.226Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "advocate",
-      "pronunciation": "/ˈæd.və.keɪt/",
+      "word": "affluent",
+      "pronunciation": "/ˈæfluənt/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "倡导，支持",
-          "en": "To support or argue for a cause or policy."
+          "pos": "adj.",
+          "zh": "富裕的",
+          "en": "Having a lot of money or wealth."
         },
         {
           "pos": "n.",
-          "zh": "倡导者，支持者",
-          "en": "A person who supports or recommends a particular cause."
+          "zh": "富人",
+          "en": "A person who is wealthy."
         }
       ],
       "examples": [
         {
-          "en": "Many activists advocate for the rights of marginalized communities.",
-          "zh": "许多活动家倡导边缘化社区的权利。"
+          "en": "Many affluent families can afford luxury vacations every year.",
+          "zh": "许多富裕家庭每年都能负担得起奢华的假期。"
         },
         {
-          "en": "She is a strong advocate for environmental protection.",
-          "zh": "她是环境保护的坚定支持者。"
+          "en": "The affluent neighborhood is known for its expensive houses.",
+          "zh": "这个富裕的社区以其昂贵的房屋而闻名。"
         }
       ],
       "memoryTips": {
-        "association": "Think of an 'advocate' as someone who 'adds voice' to a cause."
+        "etymology": "The word 'affluent' comes from the Latin 'affluens', meaning 'flowing in'. This relates to wealth flowing into a person or community."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=advocate&type=2",
-      "chapter": "基本词汇 动词200 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=affluent&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 2"
     },
     {
-      "word": "disposal",
-      "pronunciation": "/dɪsˈpoʊ.zəl/",
+      "word": "aborigine",
+      "pronunciation": "/ˌæbəˈrɪdʒiː/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "处理，处置",
-          "en": "The act of getting rid of something, usually waste."
+          "zh": "土著居民",
+          "en": "A member of the original people living in a place, especially Australia."
         },
         {
           "pos": "n.",
-          "zh": "支配，安排",
-          "en": "The power to make decisions about something."
+          "zh": "原住民",
+          "en": "The earliest known inhabitants of a region."
         }
       ],
       "examples": [
         {
-          "en": "The city has strict rules for waste disposal to protect the environment.",
-          "zh": "这个城市对废物处理有严格的规定，以保护环境。"
+          "en": "The aborigines have a rich cultural heritage that is still celebrated today.",
+          "zh": "土著居民拥有丰富的文化遗产，至今仍在庆祝。"
         },
         {
-          "en": "She had the disposal of the funds for the community project.",
-          "zh": "她负责管理社区项目的资金。"
+          "en": "Many aborigine tribes maintain their traditional lifestyles despite modern influences.",
+          "zh": "许多土著部落尽管受到现代影响，仍保持传统生活方式。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disposal&type=2",
-      "chapter": "基本词汇 名词200 Unit 3"
+      "memoryTips": {
+        "etymology": "The word 'aborigine' comes from Latin 'aborigines', meaning 'original inhabitants'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aborigine&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

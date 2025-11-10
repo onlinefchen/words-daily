@@ -1,67 +1,69 @@
 {
-  "generated": "2025-11-09T22:07:22.791Z",
+  "generated": "2025-11-10T22:08:33.225Z",
   "count": 2,
   "words": [
     {
-      "word": "kauri",
-      "pronunciation": "/ˈkɔːri/",
+      "word": "abdomen",
+      "pronunciation": "/æbˈdɛmən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "古树",
-          "en": "A large tree native to New Zealand, known for its durable wood."
+          "zh": "腹部",
+          "en": "The part of the body between the chest and the hips, where the stomach is located."
         },
         {
           "pos": "n.",
-          "zh": "木材",
-          "en": "The wood derived from the kauri tree, valued for its quality."
+          "zh": "腹腔",
+          "en": "The cavity in the body that contains the digestive organs."
         }
       ],
       "examples": [
         {
-          "en": "The kauri trees in New Zealand are among the largest in the world.",
-          "zh": "新西兰的古树是世界上最大的树木之一。"
+          "en": "He felt a sharp pain in his abdomen after eating.",
+          "zh": "他吃完后感到腹部有剧烈的疼痛。"
         },
         {
-          "en": "Kauri wood is prized for its strength and beautiful appearance.",
-          "zh": "古树木因其强度和美丽的外观而受到珍视。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=kauri&type=2",
-      "chapter": "认知词汇 自然分类 热带雨林"
-    },
-    {
-      "word": "worthy",
-      "pronunciation": "/ˈwɜrði/",
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "值得的",
-          "en": "Deserving respect, attention, or support."
-        },
-        {
-          "pos": "adj.",
-          "zh": "有价值的",
-          "en": "Having value or importance."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Her efforts to help the community are truly worthy.",
-          "zh": "她为帮助社区所做的努力真的值得称赞。"
-        },
-        {
-          "en": "The book is worthy of being read by everyone.",
-          "zh": "这本书值得每个人去阅读。"
+          "en": "Doctors often examine the abdomen for signs of illness.",
+          "zh": "医生通常会检查腹部以寻找疾病的迹象。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'worthy' as 'worth it', meaning something is valuable or important.",
-        "mnemonic": "Worthy sounds like 'wordy', which can remind you that something worthy has a lot to say."
+        "etymology": "The word 'abdomen' comes from the Latin 'abdomen', which means 'belly'.",
+        "association": "Think of 'abdominal muscles' or 'abs', which are a key part of fitness related to the abdomen."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=worthy&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 20"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=abdomen&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
+    },
+    {
+      "word": "magma",
+      "pronunciation": "/ˈmæɡ.mə/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "岩浆",
+          "en": "Magma is hot, molten rock found beneath the Earth's surface."
+        },
+        {
+          "pos": "n.",
+          "zh": "熔岩",
+          "en": "Magma is the source of lava when it erupts from a volcano."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Magma can rise to the surface and cause volcanic eruptions.",
+          "zh": "岩浆可以上升到地表并引发火山喷发。"
+        },
+        {
+          "en": "Scientists study magma to understand Earth's geological processes.",
+          "zh": "科学家研究岩浆以了解地球的地质过程。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'magma' as 'magic' rock that creates mountains and islands."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=magma&type=2",
+      "chapter": "认知词汇 自然分类 地震"
     }
   ]
 }

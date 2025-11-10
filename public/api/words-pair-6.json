@@ -1,69 +1,70 @@
 {
-  "generated": "2025-11-09T22:07:22.791Z",
+  "generated": "2025-11-10T22:08:33.226Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "aid",
-      "pronunciation": "/eɪd/",
+      "word": "adolescent",
+      "pronunciation": "/ˌæd.əˈles.ənt/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "帮助",
-          "en": "To help someone or something."
+          "pos": "adj.",
+          "zh": "青少年的",
+          "en": "Relating to a young person who is developing from a child into an adult."
         },
         {
           "pos": "n.",
-          "zh": "援助",
-          "en": "The action of helping someone or something."
+          "zh": "青少年",
+          "en": "A young person between the ages of 13 and 19."
         }
       ],
       "examples": [
         {
-          "en": "The charity aims to aid families in need of support.",
-          "zh": "这个慈善机构旨在帮助有需要的家庭。"
+          "en": "Many adolescents struggle with their identity during teenage years.",
+          "zh": "许多青少年在青少年时期努力寻找自我认同。"
         },
         {
-          "en": "The government provided aid to the disaster-stricken areas.",
-          "zh": "政府向遭受灾难的地区提供了援助。"
+          "en": "Adolescents often face pressure from peers and society.",
+          "zh": "青少年常常面临来自同龄人和社会的压力。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'aid' as a hand reaching out to help."
+        "etymology": "The word 'adolescent' comes from the Latin 'adolescere', meaning 'to grow up'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aid&type=2",
-      "chapter": "基本词汇 名词200 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=adolescent&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 1"
     },
     {
-      "word": "contempt",
-      "pronunciation": "/kənˈtɛmpt/",
+      "word": "primate",
+      "pronunciation": "/ˈpraɪˌmeɪt/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "轻视",
-          "en": "A feeling that someone or something is not worthy of any respect."
+          "zh": "灵长类动物",
+          "en": "A group of mammals that includes humans, monkeys, and apes."
         },
         {
-          "pos": "v.",
-          "zh": "蔑视",
-          "en": "To treat someone or something with disdain or lack of respect."
+          "pos": "n.",
+          "zh": "首要人物",
+          "en": "A person who holds a leading or important position."
         }
       ],
       "examples": [
         {
-          "en": "She looked at him with contempt after his rude remarks.",
-          "zh": "在他无礼的言论后，她以轻蔑的目光看着他。"
+          "en": "Monkeys are fascinating primates that exhibit complex social behaviors.",
+          "zh": "猴子是迷人的灵长类动物，表现出复杂的社会行为。"
         },
         {
-          "en": "His contempt for the rules was clear when he broke them.",
-          "zh": "他违反规则时，显然对规则表示蔑视。"
+          "en": "In many cultures, the primate symbolizes intelligence and adaptability.",
+          "zh": "在许多文化中，灵长类动物象征着智慧和适应能力。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'con' as meaning against, and 'tempt' as something appealing; contempt is feeling against what is appealing."
+        "etymology": "The word 'primate' comes from the Latin 'primat-', meaning 'first' or 'chief'.",
+        "association": "Think of 'prime' in 'primate' to remember it includes leading animals like monkeys and apes."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=contempt&type=2",
-      "chapter": "基本词汇 名词200 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=primate&type=2",
+      "chapter": "认知词汇 动物分类 动物思维"
     }
   ]
 }

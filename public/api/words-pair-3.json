@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-09T22:07:22.791Z",
+  "generated": "2025-11-10T22:08:33.226Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "adverse",
-      "pronunciation": "/ˈæd.vɜrs/",
+      "word": "respiratory",
+      "pronunciation": "/rɪˈspɪrəˌtɔri/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "不利的，逆境的",
-          "en": "Having a negative or harmful effect."
+          "zh": "呼吸的",
+          "en": "Related to the process of breathing."
         },
         {
           "pos": "adj.",
-          "zh": "相反的",
-          "en": "Opposing or contrary in nature."
+          "zh": "呼吸系统的",
+          "en": "Pertaining to the organs involved in breathing."
         }
       ],
       "examples": [
         {
-          "en": "The adverse weather conditions caused significant travel delays.",
-          "zh": "不利的天气条件导致了重大旅行延误。"
+          "en": "The respiratory system is essential for human survival.",
+          "zh": "呼吸系统对人类生存至关重要。"
         },
         {
-          "en": "He faced many adverse reactions to his controversial proposal.",
-          "zh": "他对其争议提案面临许多不利反应。"
+          "en": "Pollution can severely affect respiratory health.",
+          "zh": "污染会严重影响呼吸健康。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'adverse' comes from the Latin 'adversus', meaning 'turned against'."
+        "association": "Think of 'respiratory' as related to 'respire,' which means to breathe."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=adverse&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=respiratory&type=2",
+      "chapter": "核心词汇 健康话题 Unit 5"
     },
     {
-      "word": "lenient",
-      "pronunciation": "/ˈliːniənt/",
+      "word": "feasible",
+      "pronunciation": "/ˈfiː.zə.bəl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "宽容的",
-          "en": "Not strict; willing to be forgiving or tolerant."
+          "zh": "可行的",
+          "en": "Possible to do easily or conveniently."
         },
         {
           "pos": "adj.",
-          "zh": "不严厉的",
-          "en": "Allowing more freedom; easygoing in rules or discipline."
+          "zh": "适合的",
+          "en": "Practical and likely to succeed."
         }
       ],
       "examples": [
         {
-          "en": "The teacher was lenient with students who missed classes.",
-          "zh": "老师对缺课的学生很宽容。"
+          "en": "The plan is feasible and can be completed within a year.",
+          "zh": "这个计划是可行的，可以在一年内完成。"
         },
         {
-          "en": "Judges are often lenient in sentencing first-time offenders.",
-          "zh": "法官在对初犯者的判刑时通常比较宽松。"
+          "en": "Finding a solution that is feasible for everyone is challenging.",
+          "zh": "找到一个对每个人都可行的解决方案是具有挑战性的。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'lean' as being relaxed, which connects to being lenient."
+        "association": "Think of 'feasible' as 'feast-able' – a plan that can be enjoyed like a feast."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=lenient&type=2",
-      "chapter": "核心词汇 动物权益与保护 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=feasible&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 9"
     }
   ]
 }

@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-09T22:07:22.791Z",
+  "generated": "2025-11-10T22:08:33.226Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "racism",
-      "pronunciation": "/ˈreɪ.sɪ.zəm/",
+      "word": "suffering",
+      "pronunciation": "/ˈsʌfərɪŋ/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "种族主义",
-          "en": "The belief that one race is superior to another."
+          "zh": "痛苦; 苦难",
+          "en": "The state of experiencing pain or distress."
         },
         {
-          "pos": "n.",
-          "zh": "歧视",
-          "en": "Discrimination against people based on their race."
+          "pos": "v.",
+          "zh": "遭受; 经历",
+          "en": "To experience something unpleasant."
         }
       ],
       "examples": [
         {
-          "en": "Racism can lead to serious social problems in any community.",
-          "zh": "种族主义会导致任何社区出现严重的社会问题。"
+          "en": "Many people are suffering from mental health issues today.",
+          "zh": "今天，许多人都在遭受心理健康问题。"
         },
         {
-          "en": "Many organizations are working to combat racism in society today.",
-          "zh": "许多组织正在努力对抗当今社会中的种族主义。"
+          "en": "She dedicated her life to helping those who are suffering.",
+          "zh": "她把一生奉献给帮助那些受苦的人。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'racism' comes from 'race' and the suffix '-ism', indicating a belief or practice."
+        "association": "Think of 'suffering' as 'suffocating' from pain, connecting the two concepts."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=racism&type=2",
-      "chapter": "核心词汇 民主与权利 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=suffering&type=2",
+      "chapter": "核心词汇 健康话题 Unit 5"
     },
     {
-      "word": "aboriginal",
-      "pronunciation": "/ˌæbəˈrɪdʒənl/",
+      "word": "mission",
+      "pronunciation": "/ˈmɪʃən/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "土著的",
-          "en": "Relating to the original inhabitants of a place."
+          "pos": "n.",
+          "zh": "使命",
+          "en": "A special task or purpose that someone is assigned to complete."
         },
         {
-          "pos": "n.",
-          "zh": "土著人",
-          "en": "A person, especially a member of a group, that has lived in a region for a long time."
+          "pos": "v.",
+          "zh": "派遣",
+          "en": "To send someone to do a specific task or job."
         }
       ],
       "examples": [
         {
-          "en": "The aboriginal culture is rich in history and traditions.",
-          "zh": "土著文化在历史和传统上非常丰富。"
+          "en": "The team's mission is to improve the local environment.",
+          "zh": "团队的使命是改善当地环境。"
         },
         {
-          "en": "Many aboriginal communities are working to preserve their languages.",
-          "zh": "许多土著社区正在努力保护他们的语言。"
+          "en": "They were sent on a mission to deliver important documents.",
+          "zh": "他们被派遣去送重要文件。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'aboriginal' comes from the Latin 'aborigines', meaning 'from the beginning'."
+        "etymology": "The word 'mission' comes from the Latin 'missio', meaning 'to send'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aboriginal&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=mission&type=2",
+      "chapter": "核心词汇 科技发展 Unit 3"
     }
   ]
 }

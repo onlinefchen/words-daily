@@ -1,69 +1,67 @@
 {
-  "generated": "2025-11-09T22:07:22.791Z",
+  "generated": "2025-11-10T22:08:33.226Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "discrimination",
-      "pronunciation": "/ˌdɪs.krɪ.mɪˈneɪ.ʃən/",
+      "word": "obsession",
+      "pronunciation": "/əbˈsɛʃən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "歧视",
-          "en": "The unfair treatment of a person or group based on characteristics like race or gender."
+          "zh": "迷恋，痴迷",
+          "en": "A strong and unhealthy interest in something."
         },
         {
           "pos": "n.",
-          "zh": "辨别",
-          "en": "The ability to recognize and understand differences between things."
+          "zh": "执念",
+          "en": "An idea or thought that continually preoccupies or intrudes on a person's mind."
         }
       ],
       "examples": [
         {
-          "en": "Many countries have laws against racial discrimination in the workplace.",
-          "zh": "许多国家在职场上有反对种族歧视的法律。"
+          "en": "His obsession with success often causes him to neglect his health.",
+          "zh": "他对成功的痴迷常常导致他忽视健康。"
         },
         {
-          "en": "Her strong discrimination between right and wrong is admirable.",
-          "zh": "她对是非的强烈辨别能力令人钦佩。"
+          "en": "She has an obsession with collecting rare books from the 19th century.",
+          "zh": "她对收集19世纪的稀有书籍有着一种执念。"
         }
       ],
-      "memoryTips": {
-        "etymology": "The word comes from the Latin 'discriminare', meaning 'to distinguish'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=discrimination&type=2",
-      "chapter": "基本词汇 名词200 Unit 3"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=obsession&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 7"
     },
     {
-      "word": "cognitive",
-      "pronunciation": "/ˈkɑːɡnɪtɪv/",
+      "word": "escapement",
+      "pronunciation": "/ɪˈskæp.mənt/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "认知的",
-          "en": "Related to the mental processes of understanding and thinking."
+          "pos": "n.",
+          "zh": "逃避",
+          "en": "A mechanism that allows a gear to move forward while preventing it from moving backward."
         },
         {
-          "pos": "adj.",
-          "zh": "认知能力的",
-          "en": "Describing how we perceive, learn, and remember information."
+          "pos": "n.",
+          "zh": "逃脱手段",
+          "en": "A way or method of escaping from a situation."
         }
       ],
       "examples": [
         {
-          "en": "Cognitive development is crucial during the early years of life.",
-          "zh": "认知发展在生命的早期阶段是至关重要的。"
+          "en": "The escapement in the clock regulates its movement and keeps accurate time.",
+          "zh": "钟表中的逃逸机构调节其运动并保持准确的时间。"
         },
         {
-          "en": "She studies cognitive psychology to understand human thought processes.",
-          "zh": "她研究认知心理学以理解人类的思维过程。"
+          "en": "He found an escapement from reality through his art and creative writing.",
+          "zh": "他通过艺术和创作写作找到了逃脱现实的方法。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'cognitive' as 'cog' in a machine, where the 'cogs' represent how our mind processes information."
+        "etymology": "The word 'escapement' derives from the verb 'escape', which relates to the idea of getting away or avoiding."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cognitive&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=escapement&type=2",
+      "chapter": "认知词汇 历史分类 记时器发展史"
     }
   ]
 }
