@@ -1,69 +1,64 @@
 {
-  "generated": "2025-11-10T22:08:33.226Z",
+  "generated": "2025-11-11T22:08:22.986Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "deliberate",
-      "pronunciation": "/dɪˈlɪbərɪt/",
+      "word": "fierce",
+      "pronunciation": "/fɪrs/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "故意的，深思熟虑的",
-          "en": "Done on purpose or after careful thought."
+          "zh": "激烈的；猛烈的",
+          "en": "Very strong or violent; showing a lot of energy or intensity."
         },
         {
-          "pos": "v.",
-          "zh": "仔细考虑，深思熟虑",
-          "en": "To think about something carefully before making a decision."
+          "pos": "adj.",
+          "zh": "凶猛的；凶狠的",
+          "en": "Aggressive or ferocious; ready to attack or fight."
         }
       ],
       "examples": [
         {
-          "en": "The committee made a deliberate choice to improve the project.",
-          "zh": "委员会做出了改善项目的深思熟虑的选择。"
+          "en": "The fierce competition among companies drives innovation.",
+          "zh": "公司之间激烈的竞争推动了创新。"
         },
         {
-          "en": "She spoke in a deliberate manner to ensure clarity.",
-          "zh": "她以深思熟虑的方式说话，以确保清晰。"
+          "en": "A fierce storm caused widespread damage to the city.",
+          "zh": "一场猛烈的风暴对城市造成了广泛的损害。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'deliberate' as 'deliberately thinking', emphasizing careful consideration."
+        "association": "Think of a 'fierce' lion roaring loudly, representing strength and intensity."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=deliberate&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=fierce&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 9"
     },
     {
-      "word": "relieve",
-      "pronunciation": "/rɪˈliːv/",
+      "word": "terrestrial mammal",
+      "pronunciation": "/təˈrɛstriəl ˈmæməl/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "缓解",
-          "en": "To make something less severe or serious."
-        },
-        {
-          "pos": "v.",
-          "zh": "解除",
-          "en": "To free someone from a burden or difficulty."
+          "pos": "n.",
+          "zh": "陆生哺乳动物",
+          "en": "A mammal that lives primarily on land."
         }
       ],
       "examples": [
         {
-          "en": "The medicine helped to relieve her headache quickly.",
-          "zh": "这药很快缓解了她的头痛。"
+          "en": "Lions are well-known terrestrial mammals that live in savannas.",
+          "zh": "狮子是生活在草原上的著名陆生哺乳动物。"
         },
         {
-          "en": "Volunteers worked to relieve the suffering of the victims.",
-          "zh": "志愿者们努力减轻受害者的痛苦。"
+          "en": "Many terrestrial mammals have adapted to various habitats around the world.",
+          "zh": "许多陆生哺乳动物已适应世界各地的不同栖息地。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'relieve' as 're-leave', meaning to leave behind a burden."
+        "association": "Think of 'terra' as in 'terrain' which relates to land, connecting it to land-dwelling mammals."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=relieve&type=2",
-      "chapter": "基本词汇 动词200 Unit 10"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=terrestrial%20mammal&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

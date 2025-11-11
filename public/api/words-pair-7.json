@@ -1,69 +1,67 @@
 {
-  "generated": "2025-11-10T22:08:33.226Z",
+  "generated": "2025-11-11T22:08:22.986Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "affluent",
-      "pronunciation": "/ˈæfluənt/",
+      "word": "dietary",
+      "pronunciation": "/ˈdaɪəˌtɛri/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "富裕的",
-          "en": "Having a lot of money or wealth."
+          "zh": "饮食的",
+          "en": "Related to the kinds of food that a person eats."
         },
         {
           "pos": "n.",
-          "zh": "富人",
-          "en": "A person who is wealthy."
+          "zh": "饮食",
+          "en": "The kinds of food a person regularly eats."
         }
       ],
       "examples": [
         {
-          "en": "Many affluent families can afford luxury vacations every year.",
-          "zh": "许多富裕家庭每年都能负担得起奢华的假期。"
+          "en": "Maintaining a balanced dietary is essential for good health.",
+          "zh": "保持均衡的饮食对健康至关重要。"
         },
         {
-          "en": "The affluent neighborhood is known for its expensive houses.",
-          "zh": "这个富裕的社区以其昂贵的房屋而闻名。"
+          "en": "Many people follow a specific dietary to manage their weight.",
+          "zh": "许多人遵循特定的饮食来控制体重。"
         }
       ],
-      "memoryTips": {
-        "etymology": "The word 'affluent' comes from the Latin 'affluens', meaning 'flowing in'. This relates to wealth flowing into a person or community."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=affluent&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 2"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dietary&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 6"
     },
     {
-      "word": "aborigine",
-      "pronunciation": "/ˌæbəˈrɪdʒiː/",
+      "word": "peril",
+      "pronunciation": "/ˈpɛr.əl/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "土著居民",
-          "en": "A member of the original people living in a place, especially Australia."
+          "zh": "危险",
+          "en": "Serious and immediate danger."
         },
         {
-          "pos": "n.",
-          "zh": "原住民",
-          "en": "The earliest known inhabitants of a region."
+          "pos": "v.",
+          "zh": "使处于危险中",
+          "en": "To expose to danger."
         }
       ],
       "examples": [
         {
-          "en": "The aborigines have a rich cultural heritage that is still celebrated today.",
-          "zh": "土著居民拥有丰富的文化遗产，至今仍在庆祝。"
+          "en": "The hikers were in peril as the storm approached rapidly.",
+          "zh": "当暴风雨迅速逼近时，徒步旅行者处于危险之中。"
         },
         {
-          "en": "Many aborigine tribes maintain their traditional lifestyles despite modern influences.",
-          "zh": "许多土著部落尽管受到现代影响，仍保持传统生活方式。"
+          "en": "He did not want to peril his career by making risky decisions.",
+          "zh": "他不想通过冒险决策来危及自己的职业生涯。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'aborigine' comes from Latin 'aborigines', meaning 'original inhabitants'."
+        "association": "Think of 'peril' as 'perilous', which means full of danger."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aborigine&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=peril&type=2",
+      "chapter": "基本词汇 名词200 Unit 6"
     }
   ]
 }

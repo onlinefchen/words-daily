@@ -1,766 +1,748 @@
 {
-  "generated": "2025-11-10T22:08:33.224Z",
-  "date": "2025-11-10",
+  "generated": "2025-11-11T22:08:22.984Z",
+  "date": "2025-11-11",
   "totalWords": 20,
   "words": [
     {
-      "id": "w01901",
-      "word": "abdomen",
+      "id": "w02449",
+      "word": "casualties",
       "type": "single",
-      "chapterIndex": 1,
-      "globalIndex": 1901,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/æbˈdɛmən/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "腹部",
-          "en": "The part of the body between the chest and the hips, where the stomach is located."
-        },
-        {
-          "pos": "n.",
-          "zh": "腹腔",
-          "en": "The cavity in the body that contains the digestive organs."
-        }
-      ],
-      "examples": [
-        {
-          "en": "He felt a sharp pain in his abdomen after eating.",
-          "zh": "他吃完后感到腹部有剧烈的疼痛。"
-        },
-        {
-          "en": "Doctors often examine the abdomen for signs of illness.",
-          "zh": "医生通常会检查腹部以寻找疾病的迹象。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'abdomen' comes from the Latin 'abdomen', which means 'belly'.",
-        "association": "Think of 'abdominal muscles' or 'abs', which are a key part of fitness related to the abdomen."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=abdomen&type=2"
-    },
-    {
-      "id": "w02492",
-      "word": "magma",
-      "type": "single",
-      "chapterIndex": 45,
-      "globalIndex": 2492,
+      "chapterIndex": 2,
+      "globalIndex": 2449,
       "chapter": "ch102",
       "chapterName": "认知词汇 自然分类 地震",
       "pronunciation": {
-        "us": "/ˈmæɡ.mə/"
+        "us": "/ˈkæʒ.u.əl.tiz/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "岩浆",
-          "en": "Magma is hot, molten rock found beneath the Earth's surface."
+          "zh": "伤亡人员",
+          "en": "People who are killed or injured in a war or accident."
         },
         {
           "pos": "n.",
-          "zh": "熔岩",
-          "en": "Magma is the source of lava when it erupts from a volcano."
+          "zh": "损失",
+          "en": "The total number of people affected by an event, particularly in terms of injuries or deaths."
         }
       ],
       "examples": [
         {
-          "en": "Magma can rise to the surface and cause volcanic eruptions.",
-          "zh": "岩浆可以上升到地表并引发火山喷发。"
+          "en": "The earthquake caused many casualties and widespread destruction.",
+          "zh": "这场地震造成了许多伤亡和广泛的破坏。"
         },
         {
-          "en": "Scientists study magma to understand Earth's geological processes.",
-          "zh": "科学家研究岩浆以了解地球的地质过程。"
+          "en": "The report highlighted the casualties from the recent conflict.",
+          "zh": "报告强调了最近冲突中的伤亡情况。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=casualties&type=2"
+    },
+    {
+      "id": "w00519",
+      "word": "distasteful",
+      "type": "single",
+      "chapterIndex": 19,
+      "globalIndex": 519,
+      "chapter": "ch026",
+      "chapterName": "基本词汇 形容词和副词400 Unit 6",
+      "pronunciation": {
+        "us": "/dɪsˈteɪstfəl/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "令人反感的",
+          "en": "Something that is unpleasant or offensive."
+        },
+        {
+          "pos": "adj.",
+          "zh": "不合口味的",
+          "en": "Referring to something that is not to one's liking."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many found the movie's graphic scenes to be quite distasteful.",
+          "zh": "许多人觉得电影的血腥场景非常令人反感。"
+        },
+        {
+          "en": "The distasteful remarks during the meeting upset everyone present.",
+          "zh": "会议中的不当言论让在场的每个人都感到不快。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'magma' as 'magic' rock that creates mountains and islands."
+        "association": "Think of 'distasteful' as 'distant taste'; something far from your taste or preference."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=magma&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=distasteful&type=2"
     },
     {
-      "id": "w00043",
-      "word": "block",
-      "type": "single",
-      "chapterIndex": 3,
-      "globalIndex": 43,
-      "chapter": "ch003",
-      "chapterName": "基本词汇 动词200 Unit 3",
+      "id": "w04371",
+      "word": "increased workload",
+      "type": "phrase",
+      "chapterIndex": 24,
+      "globalIndex": 4371,
+      "chapter": "ch138",
+      "chapterName": "认知词汇 教育分类 远程教育",
       "pronunciation": {
-        "us": "/blɑk/"
+        "us": "/ɪnˈkrist ˈwɜrkloʊd/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "块；障碍",
-          "en": "A solid piece of material with flat surfaces."
+          "zh": "增加的工作量",
+          "en": "A larger amount of work that needs to be done."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The increased workload has stressed many employees this quarter.",
+          "zh": "本季度增加的工作量使许多员工感到压力。"
         },
+        {
+          "en": "She struggled to manage her increased workload after the promotion.",
+          "zh": "晋升后，她努力管理增加的工作量。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'workload' as a 'load' of 'work' that increases."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=increased%20workload&type=2"
+    },
+    {
+      "id": "w00167",
+      "word": "pose",
+      "type": "single",
+      "chapterIndex": 7,
+      "globalIndex": 167,
+      "chapter": "ch009",
+      "chapterName": "基本词汇 动词200 Unit 9",
+      "pronunciation": {
+        "us": "/poʊz/"
+      },
+      "meanings": [
         {
           "pos": "v.",
-          "zh": "阻止；封锁",
-          "en": "To prevent movement or progress."
-        }
-      ],
-      "examples": [
-        {
-          "en": "He used a block of wood to hold the door open.",
-          "zh": "他用一块木头把门撑开。"
-        },
-        {
-          "en": "They need to block the road for maintenance work.",
-          "zh": "他们需要封锁道路进行维修工作。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of a 'block' as something that stops or holds back, like a block in a game."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=block&type=2"
-    },
-    {
-      "id": "w01875",
-      "word": "physician",
-      "type": "single",
-      "chapterIndex": 15,
-      "globalIndex": 1875,
-      "chapter": "ch094",
-      "chapterName": "核心词汇 健康话题 Unit 4",
-      "pronunciation": {
-        "us": "/fɪˈzɪʃ.ən/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "医生",
-          "en": "A physician is a medical doctor who treats patients."
+          "zh": "摆姿势",
+          "en": "To hold a particular position or attitude, often for a photograph."
         },
         {
           "pos": "n.",
-          "zh": "医学专家",
-          "en": "A physician is someone who specializes in the practice of medicine."
+          "zh": "姿势",
+          "en": "A particular way of standing or sitting, often for effect."
         }
       ],
       "examples": [
         {
-          "en": "The physician advised me to eat a balanced diet for better health.",
-          "zh": "医生建议我均衡饮食以保持健康。"
+          "en": "She decided to pose for the photographer with a bright smile.",
+          "zh": "她决定对着摄影师微笑摆姿势。"
         },
         {
-          "en": "After the examination, the physician prescribed some medication.",
-          "zh": "检查后，医生开了一些药物。"
+          "en": "The statue was created in a pose that suggests movement and grace.",
+          "zh": "这座雕像的姿势暗示着运动和优雅。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'physician' comes from the Latin 'physica', meaning 'natural science' or 'medicine'."
+        "association": "Think of 'pose' as 'pose for a picture', which helps remember its meaning related to positioning."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=physician&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pose&type=2"
     },
     {
-      "id": "w01883",
-      "word": "respiratory",
+      "id": "w00569",
+      "word": "fictitious",
       "type": "single",
-      "chapterIndex": 3,
-      "globalIndex": 1883,
-      "chapter": "ch095",
-      "chapterName": "核心词汇 健康话题 Unit 5",
-      "pronunciation": {
-        "us": "/rɪˈspɪrəˌtɔri/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "呼吸的",
-          "en": "Related to the process of breathing."
-        },
-        {
-          "pos": "adj.",
-          "zh": "呼吸系统的",
-          "en": "Pertaining to the organs involved in breathing."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The respiratory system is essential for human survival.",
-          "zh": "呼吸系统对人类生存至关重要。"
-        },
-        {
-          "en": "Pollution can severely affect respiratory health.",
-          "zh": "污染会严重影响呼吸健康。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'respiratory' as related to 'respire,' which means to breathe."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=respiratory&type=2"
-    },
-    {
-      "id": "w00566",
-      "word": "feasible",
-      "type": "single",
-      "chapterIndex": 6,
-      "globalIndex": 566,
+      "chapterIndex": 9,
+      "globalIndex": 569,
       "chapter": "ch029",
       "chapterName": "基本词汇 形容词和副词400 Unit 9",
       "pronunciation": {
-        "us": "/ˈfiː.zə.bəl/"
+        "us": "/fɪkˈtɪʃəs/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "可行的",
-          "en": "Possible to do easily or conveniently."
+          "zh": "虚构的",
+          "en": "Not real; made up or invented."
         },
         {
           "pos": "adj.",
-          "zh": "适合的",
-          "en": "Practical and likely to succeed."
+          "zh": "假装的",
+          "en": "Describing something that is not true or genuine."
         }
       ],
       "examples": [
         {
-          "en": "The plan is feasible and can be completed within a year.",
-          "zh": "这个计划是可行的，可以在一年内完成。"
+          "en": "The story features fictitious characters and events to entertain readers.",
+          "zh": "这个故事以虚构的人物和事件来娱乐读者。"
         },
         {
-          "en": "Finding a solution that is feasible for everyone is challenging.",
-          "zh": "找到一个对每个人都可行的解决方案是具有挑战性的。"
+          "en": "Many fictitious accounts can confuse people about real history.",
+          "zh": "许多虚构的叙述可能会让人对真实历史产生困惑。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'feasible' as 'feast-able' – a plan that can be enjoyed like a feast."
+        "etymology": "The word 'fictitious' comes from the Latin 'fictitius,' meaning 'feigned or invented.'"
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=feasible&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=fictitious&type=2"
     },
     {
-      "id": "w01338",
-      "word": "obsession",
+      "id": "w01137",
+      "word": "extravagant",
       "type": "single",
-      "chapterIndex": 18,
-      "globalIndex": 1338,
-      "chapter": "ch067",
-      "chapterName": "核心词汇 青少年教育 Unit 7",
+      "chapterIndex": 17,
+      "globalIndex": 1137,
+      "chapter": "ch057",
+      "chapterName": "核心词汇 伦理与道德 Unit 2",
       "pronunciation": {
-        "us": "/əbˈsɛʃən/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "迷恋，痴迷",
-          "en": "A strong and unhealthy interest in something."
-        },
-        {
-          "pos": "n.",
-          "zh": "执念",
-          "en": "An idea or thought that continually preoccupies or intrudes on a person's mind."
-        }
-      ],
-      "examples": [
-        {
-          "en": "His obsession with success often causes him to neglect his health.",
-          "zh": "他对成功的痴迷常常导致他忽视健康。"
-        },
-        {
-          "en": "She has an obsession with collecting rare books from the 19th century.",
-          "zh": "她对收集19世纪的稀有书籍有着一种执念。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=obsession&type=2"
-    },
-    {
-      "id": "w03870",
-      "word": "escapement",
-      "type": "single",
-      "chapterIndex": 26,
-      "globalIndex": 3870,
-      "chapter": "ch127",
-      "chapterName": "认知词汇 历史分类 记时器发展史",
-      "pronunciation": {
-        "us": "/ɪˈskæp.mənt/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "逃避",
-          "en": "A mechanism that allows a gear to move forward while preventing it from moving backward."
-        },
-        {
-          "pos": "n.",
-          "zh": "逃脱手段",
-          "en": "A way or method of escaping from a situation."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The escapement in the clock regulates its movement and keeps accurate time.",
-          "zh": "钟表中的逃逸机构调节其运动并保持准确的时间。"
-        },
-        {
-          "en": "He found an escapement from reality through his art and creative writing.",
-          "zh": "他通过艺术和创作写作找到了逃脱现实的方法。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'escapement' derives from the verb 'escape', which relates to the idea of getting away or avoiding."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=escapement&type=2"
-    },
-    {
-      "id": "w01866",
-      "word": "medical",
-      "type": "single",
-      "chapterIndex": 6,
-      "globalIndex": 1866,
-      "chapter": "ch094",
-      "chapterName": "核心词汇 健康话题 Unit 4",
-      "pronunciation": {
-        "us": "/ˈmɛdɪkəl/"
+        "us": "/ɪkˈstrævəɡənt/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "医学的",
-          "en": "Related to the science of medicine and health."
+          "zh": "奢侈的",
+          "en": "Spending too much money or using too many resources."
         },
-        {
-          "pos": "n.",
-          "zh": "医疗人员",
-          "en": "A person who practices medicine, such as a doctor."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The medical team worked tirelessly to save the patient’s life.",
-          "zh": "医疗团队不懈努力拯救患者的生命。"
-        },
-        {
-          "en": "She studied medical science to become a doctor.",
-          "zh": "她学习医学科学以成为一名医生。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'medical' as relating to 'medic' or 'medicine', which both involve health."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=medical&type=2"
-    },
-    {
-      "id": "w01849",
-      "word": "heredity",
-      "type": "single",
-      "chapterIndex": 9,
-      "globalIndex": 1849,
-      "chapter": "ch093",
-      "chapterName": "核心词汇 健康话题 Unit 3",
-      "pronunciation": {
-        "us": "/həˈrɛdəti/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "遗传",
-          "en": "The passing of traits from parents to their children."
-        },
-        {
-          "pos": "n.",
-          "zh": "遗传特征",
-          "en": "The characteristics that are inherited from one's ancestors."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Heredity plays a significant role in determining physical traits.",
-          "zh": "遗传在决定身体特征中起着重要作用。"
-        },
-        {
-          "en": "Many diseases can be linked to heredity and genetic factors.",
-          "zh": "许多疾病可以与遗传和遗传因素相关联。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'heredity' comes from the Latin 'hereditas', meaning 'inheritance'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=heredity&type=2"
-    },
-    {
-      "id": "w00414",
-      "word": "adolescent",
-      "type": "single",
-      "chapterIndex": 14,
-      "globalIndex": 414,
-      "chapter": "ch021",
-      "chapterName": "基本词汇 形容词和副词400 Unit 1",
-      "pronunciation": {
-        "us": "/ˌæd.əˈles.ənt/"
-      },
-      "meanings": [
         {
           "pos": "adj.",
-          "zh": "青少年的",
-          "en": "Relating to a young person who is developing from a child into an adult."
-        },
-        {
-          "pos": "n.",
-          "zh": "青少年",
-          "en": "A young person between the ages of 13 and 19."
+          "zh": "极其的，过分的",
+          "en": "Exceeding the limits of what is reasonable or appropriate."
         }
       ],
       "examples": [
         {
-          "en": "Many adolescents struggle with their identity during teenage years.",
-          "zh": "许多青少年在青少年时期努力寻找自我认同。"
+          "en": "The extravagant wedding cost more than a million dollars.",
+          "zh": "这场奢侈的婚礼花费超过一百万美元。"
         },
         {
-          "en": "Adolescents often face pressure from peers and society.",
-          "zh": "青少年常常面临来自同龄人和社会的压力。"
+          "en": "His extravagant lifestyle often drew criticism from others.",
+          "zh": "他奢华的生活方式常常受到他人的批评。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'adolescent' comes from the Latin 'adolescere', meaning 'to grow up'."
+        "association": "Think of 'extravagant' as 'extra-vagant', where 'extra' indicates more than usual."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=adolescent&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=extravagant&type=2"
     },
     {
-      "id": "w02353",
-      "word": "primate",
+      "id": "w00315",
+      "word": "penalty",
       "type": "single",
       "chapterIndex": 15,
-      "globalIndex": 2353,
-      "chapter": "ch098",
-      "chapterName": "认知词汇 动物分类 动物思维",
+      "globalIndex": 315,
+      "chapter": "ch016",
+      "chapterName": "基本词汇 名词200 Unit 6",
       "pronunciation": {
-        "us": "/ˈpraɪˌmeɪt/"
+        "us": "/ˈpɛnəlti/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "灵长类动物",
-          "en": "A group of mammals that includes humans, monkeys, and apes."
+          "zh": "罚款",
+          "en": "A punishment or consequence for breaking a rule or law."
         },
         {
           "pos": "n.",
-          "zh": "首要人物",
-          "en": "A person who holds a leading or important position."
+          "zh": "惩罚",
+          "en": "A disadvantage imposed on someone for failing to do something."
         }
       ],
       "examples": [
         {
-          "en": "Monkeys are fascinating primates that exhibit complex social behaviors.",
-          "zh": "猴子是迷人的灵长类动物，表现出复杂的社会行为。"
+          "en": "The penalty for speeding can include fines or points on your license.",
+          "zh": "超速的罚款可能包括罚金或驾照扣分。"
         },
         {
-          "en": "In many cultures, the primate symbolizes intelligence and adaptability.",
-          "zh": "在许多文化中，灵长类动物象征着智慧和适应能力。"
+          "en": "Players face a penalty if they break the rules during the game.",
+          "zh": "如果球员在比赛中违反规则，他们将面临惩罚。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'primate' comes from the Latin 'primat-', meaning 'first' or 'chief'.",
-        "association": "Think of 'prime' in 'primate' to remember it includes leading animals like monkeys and apes."
+        "association": "Think of 'penalty' as a 'pen' that writes down your mistakes leading to punishment."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=primate&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=penalty&type=2"
     },
     {
-      "id": "w00422",
-      "word": "affluent",
+      "id": "w00505",
+      "word": "devoid",
       "type": "single",
-      "chapterIndex": 2,
-      "globalIndex": 422,
-      "chapter": "ch022",
-      "chapterName": "基本词汇 形容词和副词400 Unit 2",
+      "chapterIndex": 5,
+      "globalIndex": 505,
+      "chapter": "ch026",
+      "chapterName": "基本词汇 形容词和副词400 Unit 6",
       "pronunciation": {
-        "us": "/ˈæfluənt/"
+        "us": "/dɪˈvɔɪd/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "富裕的",
-          "en": "Having a lot of money or wealth."
+          "zh": "缺乏的",
+          "en": "Completely lacking something."
         },
         {
-          "pos": "n.",
-          "zh": "富人",
-          "en": "A person who is wealthy."
+          "pos": "v.",
+          "zh": "使缺乏",
+          "en": "To remove or take away something."
         }
       ],
       "examples": [
         {
-          "en": "Many affluent families can afford luxury vacations every year.",
-          "zh": "许多富裕家庭每年都能负担得起奢华的假期。"
+          "en": "The room was devoid of any furniture or decoration.",
+          "zh": "这个房间缺乏任何家具或装饰。"
         },
         {
-          "en": "The affluent neighborhood is known for its expensive houses.",
-          "zh": "这个富裕的社区以其昂贵的房屋而闻名。"
+          "en": "She felt devoid of energy after the long meeting.",
+          "zh": "长时间的会议后，她感到精力匮乏。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'affluent' comes from the Latin 'affluens', meaning 'flowing in'. This relates to wealth flowing into a person or community."
+        "association": "Think of 'devoid' as 'de void' meaning 'empty space'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=affluent&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=devoid&type=2"
     },
     {
-      "id": "w01902",
-      "word": "aborigine",
+      "id": "w00172",
+      "word": "promote",
       "type": "single",
-      "chapterIndex": 2,
-      "globalIndex": 1902,
+      "chapterIndex": 12,
+      "globalIndex": 172,
+      "chapter": "ch009",
+      "chapterName": "基本词汇 动词200 Unit 9",
+      "pronunciation": {
+        "us": "/prəˈmoʊt/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "促进，推动",
+          "en": "To help something to develop or increase."
+        },
+        {
+          "pos": "v.",
+          "zh": "晋升，提升",
+          "en": "To raise someone to a higher rank or position."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The company aims to promote its new product next month.",
+          "zh": "公司计划下个月推广新产品。"
+        },
+        {
+          "en": "She was promoted to manager due to her hard work.",
+          "zh": "由于她的努力工作，她被提升为经理。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'promote' as 'pro' (for) + 'mote' (motion), meaning to move something forward."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=promote&type=2"
+    },
+    {
+      "id": "w00232",
+      "word": "computer",
+      "type": "single",
+      "chapterIndex": 12,
+      "globalIndex": 232,
+      "chapter": "ch012",
+      "chapterName": "基本词汇 名词200 Unit 2",
+      "pronunciation": {
+        "us": "/kəmˈpjuːtər/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "计算机",
+          "en": "A computer is an electronic device that processes data."
+        },
+        {
+          "pos": "v.",
+          "zh": "计算",
+          "en": "To compute means to calculate or determine a result using a computer."
+        }
+      ],
+      "examples": [
+        {
+          "en": "I use my computer daily for studying and research.",
+          "zh": "我每天使用计算机进行学习和研究。"
+        },
+        {
+          "en": "Computers have greatly improved how we communicate and work.",
+          "zh": "计算机极大地改善了我们的交流和工作方式。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a 'computer' as a 'companion' for your tasks, helping you solve problems."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=computer&type=2"
+    },
+    {
+      "id": "w00226",
+      "word": "challenge",
+      "type": "single",
+      "chapterIndex": 6,
+      "globalIndex": 226,
+      "chapter": "ch012",
+      "chapterName": "基本词汇 名词200 Unit 2",
+      "pronunciation": {
+        "us": "/ˈtʃæl.ɪndʒ/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "挑战",
+          "en": "A difficult task or situation that requires effort to overcome."
+        },
+        {
+          "pos": "v.",
+          "zh": "挑战",
+          "en": "To invite someone to engage in a contest or dispute."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Completing a marathon is a significant challenge for many people.",
+          "zh": "完成马拉松对许多人来说是一个重大挑战。"
+        },
+        {
+          "en": "She decided to challenge herself by learning a new language.",
+          "zh": "她决定通过学习一门新语言来挑战自己。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a 'challenge' as a 'call to change'—it prompts us to grow."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=challenge&type=2"
+    },
+    {
+      "id": "w00517",
+      "word": "disorderly",
+      "type": "single",
+      "chapterIndex": 17,
+      "globalIndex": 517,
+      "chapter": "ch026",
+      "chapterName": "基本词汇 形容词和副词400 Unit 6",
+      "pronunciation": {
+        "us": "/dɪsˈɔrdərli/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "无序的，混乱的",
+          "en": "Not organized or arranged in a neat way."
+        },
+        {
+          "pos": "adj.",
+          "zh": "骚乱的，扰乱的",
+          "en": "Characterized by a lack of order or control."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The classroom was disorderly after the students finished their projects.",
+          "zh": "在学生们完成项目后，教室变得混乱不堪。"
+        },
+        {
+          "en": "The disorderly crowd made it difficult for the police to manage the situation.",
+          "zh": "混乱的人群使警方难以控制局势。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disorderly&type=2"
+    },
+    {
+      "id": "w00506",
+      "word": "dietary",
+      "type": "single",
+      "chapterIndex": 6,
+      "globalIndex": 506,
+      "chapter": "ch026",
+      "chapterName": "基本词汇 形容词和副词400 Unit 6",
+      "pronunciation": {
+        "us": "/ˈdaɪəˌtɛri/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "饮食的",
+          "en": "Related to the kinds of food that a person eats."
+        },
+        {
+          "pos": "n.",
+          "zh": "饮食",
+          "en": "The kinds of food a person regularly eats."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Maintaining a balanced dietary is essential for good health.",
+          "zh": "保持均衡的饮食对健康至关重要。"
+        },
+        {
+          "en": "Many people follow a specific dietary to manage their weight.",
+          "zh": "许多人遵循特定的饮食来控制体重。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dietary&type=2"
+    },
+    {
+      "id": "w00316",
+      "word": "peril",
+      "type": "single",
+      "chapterIndex": 16,
+      "globalIndex": 316,
+      "chapter": "ch016",
+      "chapterName": "基本词汇 名词200 Unit 6",
+      "pronunciation": {
+        "us": "/ˈpɛr.əl/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "危险",
+          "en": "Serious and immediate danger."
+        },
+        {
+          "pos": "v.",
+          "zh": "使处于危险中",
+          "en": "To expose to danger."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The hikers were in peril as the storm approached rapidly.",
+          "zh": "当暴风雨迅速逼近时，徒步旅行者处于危险之中。"
+        },
+        {
+          "en": "He did not want to peril his career by making risky decisions.",
+          "zh": "他不想通过冒险决策来危及自己的职业生涯。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'peril' as 'perilous', which means full of danger."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=peril&type=2"
+    },
+    {
+      "id": "w00175",
+      "word": "punish",
+      "type": "single",
+      "chapterIndex": 15,
+      "globalIndex": 175,
+      "chapter": "ch009",
+      "chapterName": "基本词汇 动词200 Unit 9",
+      "pronunciation": {
+        "us": "/ˈpʌnɪʃ/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "惩罚",
+          "en": "To make someone suffer for their wrong actions."
+        },
+        {
+          "pos": "v.",
+          "zh": "制裁",
+          "en": "To impose a penalty on someone for a specific behavior."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The teacher decided to punish the student for cheating on the test.",
+          "zh": "老师决定惩罚作弊的学生。"
+        },
+        {
+          "en": "Parents often punish their children to teach them right from wrong.",
+          "zh": "父母常常惩罚孩子以教导他们分辨是非。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'punish' comes from the Latin 'punire', meaning to inflict a penalty."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=punish&type=2"
+    },
+    {
+      "id": "w00284",
+      "word": "household",
+      "type": "single",
+      "chapterIndex": 4,
+      "globalIndex": 284,
+      "chapter": "ch015",
+      "chapterName": "基本词汇 名词200 Unit 5",
+      "pronunciation": {
+        "us": "/ˈhaʊsˌhoʊld/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "家庭",
+          "en": "A household is a group of people living together in a single home."
+        },
+        {
+          "pos": "adj.",
+          "zh": "家庭的",
+          "en": "Household refers to things related to or associated with a home."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many households have adopted eco-friendly practices to save energy.",
+          "zh": "许多家庭已经采取环保措施来节约能源。"
+        },
+        {
+          "en": "The household chores were divided among all family members.",
+          "zh": "家务活在所有家庭成员之间分配。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'household' comes from the Old English 'hus' meaning house and 'hold' meaning to keep or hold. Together, they signify a group that keeps a house."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=household&type=2"
+    },
+    {
+      "id": "w00570",
+      "word": "fierce",
+      "type": "single",
+      "chapterIndex": 10,
+      "globalIndex": 570,
+      "chapter": "ch029",
+      "chapterName": "基本词汇 形容词和副词400 Unit 9",
+      "pronunciation": {
+        "us": "/fɪrs/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "激烈的；猛烈的",
+          "en": "Very strong or violent; showing a lot of energy or intensity."
+        },
+        {
+          "pos": "adj.",
+          "zh": "凶猛的；凶狠的",
+          "en": "Aggressive or ferocious; ready to attack or fight."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The fierce competition among companies drives innovation.",
+          "zh": "公司之间激烈的竞争推动了创新。"
+        },
+        {
+          "en": "A fierce storm caused widespread damage to the city.",
+          "zh": "一场猛烈的风暴对城市造成了广泛的损害。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a 'fierce' lion roaring loudly, representing strength and intensity."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=fierce&type=2"
+    },
+    {
+      "id": "w02107",
+      "word": "terrestrial mammal",
+      "type": "phrase",
+      "chapterIndex": 207,
+      "globalIndex": 2107,
       "chapter": "ch096",
       "chapterName": "认知词汇 动物分类 常考生物",
       "pronunciation": {
-        "us": "/ˌæbəˈrɪdʒiː/"
+        "us": "/təˈrɛstriəl ˈmæməl/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "土著居民",
-          "en": "A member of the original people living in a place, especially Australia."
-        },
-        {
-          "pos": "n.",
-          "zh": "原住民",
-          "en": "The earliest known inhabitants of a region."
+          "zh": "陆生哺乳动物",
+          "en": "A mammal that lives primarily on land."
         }
       ],
       "examples": [
         {
-          "en": "The aborigines have a rich cultural heritage that is still celebrated today.",
-          "zh": "土著居民拥有丰富的文化遗产，至今仍在庆祝。"
+          "en": "Lions are well-known terrestrial mammals that live in savannas.",
+          "zh": "狮子是生活在草原上的著名陆生哺乳动物。"
         },
         {
-          "en": "Many aborigine tribes maintain their traditional lifestyles despite modern influences.",
-          "zh": "许多土著部落尽管受到现代影响，仍保持传统生活方式。"
+          "en": "Many terrestrial mammals have adapted to various habitats around the world.",
+          "zh": "许多陆生哺乳动物已适应世界各地的不同栖息地。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'aborigine' comes from Latin 'aborigines', meaning 'original inhabitants'."
+        "association": "Think of 'terra' as in 'terrain' which relates to land, connecting it to land-dwelling mammals."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aborigine&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=terrestrial%20mammal&type=2"
     },
     {
-      "id": "w01894",
-      "word": "suffering",
-      "type": "single",
-      "chapterIndex": 14,
-      "globalIndex": 1894,
-      "chapter": "ch095",
-      "chapterName": "核心词汇 健康话题 Unit 5",
-      "pronunciation": {
-        "us": "/ˈsʌfərɪŋ/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "痛苦; 苦难",
-          "en": "The state of experiencing pain or distress."
-        },
-        {
-          "pos": "v.",
-          "zh": "遭受; 经历",
-          "en": "To experience something unpleasant."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Many people are suffering from mental health issues today.",
-          "zh": "今天，许多人都在遭受心理健康问题。"
-        },
-        {
-          "en": "She dedicated her life to helping those who are suffering.",
-          "zh": "她把一生奉献给帮助那些受苦的人。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'suffering' as 'suffocating' from pain, connecting the two concepts."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=suffering&type=2"
-    },
-    {
-      "id": "w00856",
-      "word": "mission",
-      "type": "single",
-      "chapterIndex": 16,
-      "globalIndex": 856,
-      "chapter": "ch043",
-      "chapterName": "核心词汇 科技发展 Unit 3",
-      "pronunciation": {
-        "us": "/ˈmɪʃən/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "使命",
-          "en": "A special task or purpose that someone is assigned to complete."
-        },
-        {
-          "pos": "v.",
-          "zh": "派遣",
-          "en": "To send someone to do a specific task or job."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The team's mission is to improve the local environment.",
-          "zh": "团队的使命是改善当地环境。"
-        },
-        {
-          "en": "They were sent on a mission to deliver important documents.",
-          "zh": "他们被派遣去送重要文件。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'mission' comes from the Latin 'missio', meaning 'to send'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=mission&type=2"
-    },
-    {
-      "id": "w00493",
-      "word": "deliberate",
-      "type": "single",
-      "chapterIndex": 13,
-      "globalIndex": 493,
-      "chapter": "ch025",
-      "chapterName": "基本词汇 形容词和副词400 Unit 5",
-      "pronunciation": {
-        "us": "/dɪˈlɪbərɪt/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "故意的，深思熟虑的",
-          "en": "Done on purpose or after careful thought."
-        },
-        {
-          "pos": "v.",
-          "zh": "仔细考虑，深思熟虑",
-          "en": "To think about something carefully before making a decision."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The committee made a deliberate choice to improve the project.",
-          "zh": "委员会做出了改善项目的深思熟虑的选择。"
-        },
-        {
-          "en": "She spoke in a deliberate manner to ensure clarity.",
-          "zh": "她以深思熟虑的方式说话，以确保清晰。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'deliberate' as 'deliberately thinking', emphasizing careful consideration."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=deliberate&type=2"
-    },
-    {
-      "id": "w00185",
-      "word": "relieve",
+      "id": "w01665",
+      "word": "mobility",
       "type": "single",
       "chapterIndex": 5,
-      "globalIndex": 185,
-      "chapter": "ch010",
-      "chapterName": "基本词汇 动词200 Unit 10",
+      "globalIndex": 1665,
+      "chapter": "ch084",
+      "chapterName": "核心词汇 工作与生活 Unit 4",
       "pronunciation": {
-        "us": "/rɪˈliːv/"
+        "us": "/moʊˈbɪl.ɪ.ti/"
       },
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "缓解",
-          "en": "To make something less severe or serious."
+          "pos": "n.",
+          "zh": "流动性",
+          "en": "The ability to move freely and easily."
         },
         {
-          "pos": "v.",
-          "zh": "解除",
-          "en": "To free someone from a burden or difficulty."
+          "pos": "n.",
+          "zh": "机动性",
+          "en": "The capacity to change or adapt quickly."
         }
       ],
       "examples": [
         {
-          "en": "The medicine helped to relieve her headache quickly.",
-          "zh": "这药很快缓解了她的头痛。"
+          "en": "Urban mobility is crucial for reducing traffic congestion in cities.",
+          "zh": "城市流动性对减少城市交通拥堵至关重要。"
         },
         {
-          "en": "Volunteers worked to relieve the suffering of the victims.",
-          "zh": "志愿者们努力减轻受害者的痛苦。"
+          "en": "Many people value mobility for better job opportunities and lifestyles.",
+          "zh": "许多人重视流动性，以获得更好的工作机会和生活方式。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'relieve' as 're-leave', meaning to leave behind a burden."
+        "association": "Think of 'mobile' in mobility, which relates to movement and flexibility."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=relieve&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=mobility&type=2"
     },
     {
-      "id": "w00427",
-      "word": "all-round",
+      "id": "w02288",
+      "word": "rodent",
       "type": "single",
-      "chapterIndex": 7,
-      "globalIndex": 427,
-      "chapter": "ch022",
-      "chapterName": "基本词汇 形容词和副词400 Unit 2",
+      "chapterIndex": 388,
+      "globalIndex": 2288,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
       "pronunciation": {
-        "us": "/ɔːlˈraʊnd/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "全面的",
-          "en": "Having many skills or abilities in different areas."
-        },
-        {
-          "pos": "n.",
-          "zh": "全能者",
-          "en": "A person who is good at many different things."
-        }
-      ],
-      "examples": [
-        {
-          "en": "She is an all-round athlete, excelling in various sports.",
-          "zh": "她是一名全面的运动员，在多种运动中表现出色。"
-        },
-        {
-          "en": "His all-round skills make him a valuable team member.",
-          "zh": "他全面的技能使他成为一个有价值的团队成员。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of an 'all-round' ball that can roll in any direction, symbolizing versatility."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=all-round&type=2"
-    },
-    {
-      "id": "w00326",
-      "word": "priority",
-      "type": "single",
-      "chapterIndex": 6,
-      "globalIndex": 326,
-      "chapter": "ch017",
-      "chapterName": "基本词汇 名词200 Unit 7",
-      "pronunciation": {
-        "us": "/praɪˈɔr.ɪ.ti/"
+        "us": "/ˈroʊ.dənt/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "优先事项",
-          "en": "Something that is considered more important than other things."
+          "zh": "啮齿动物",
+          "en": "A rodent is a small animal with sharp front teeth, like a mouse or rat."
         },
         {
           "pos": "n.",
-          "zh": "优先权",
-          "en": "The state of being more important or urgent than others."
+          "zh": "啮齿动物的种类",
+          "en": "Rodents are a group of mammals that includes mice, rats, and squirrels."
         }
       ],
       "examples": [
         {
-          "en": "Education should be a top priority for every government.",
-          "zh": "教育应该是每个政府的首要任务。"
+          "en": "Many people keep rodents as pets, such as hamsters and guinea pigs.",
+          "zh": "许多人把啮齿动物作为宠物，如仓鼠和豚鼠。"
         },
         {
-          "en": "Finding a job is my main priority after graduation.",
-          "zh": "毕业后找工作是我的首要任务。"
+          "en": "Rodents can often be found in both urban and rural environments.",
+          "zh": "啮齿动物通常可以在城市和乡村环境中发现。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'priority' as 'prior' in time, meaning it comes first."
+        "association": "Think of a 'rod' (stick) and how rodents gnaw on things, similar to how a rod can be used to hold or support."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=priority&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=rodent&type=2"
     }
   ]
 }

@@ -1,69 +1,66 @@
 {
-  "generated": "2025-11-10T22:08:33.225Z",
+  "generated": "2025-11-11T22:08:22.985Z",
   "count": 2,
   "words": [
     {
-      "word": "abdomen",
-      "pronunciation": "/æbˈdɛmən/",
+      "word": "casualties",
+      "pronunciation": "/ˈkæʒ.u.əl.tiz/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "腹部",
-          "en": "The part of the body between the chest and the hips, where the stomach is located."
+          "zh": "伤亡人员",
+          "en": "People who are killed or injured in a war or accident."
         },
         {
           "pos": "n.",
-          "zh": "腹腔",
-          "en": "The cavity in the body that contains the digestive organs."
+          "zh": "损失",
+          "en": "The total number of people affected by an event, particularly in terms of injuries or deaths."
         }
       ],
       "examples": [
         {
-          "en": "He felt a sharp pain in his abdomen after eating.",
-          "zh": "他吃完后感到腹部有剧烈的疼痛。"
+          "en": "The earthquake caused many casualties and widespread destruction.",
+          "zh": "这场地震造成了许多伤亡和广泛的破坏。"
         },
         {
-          "en": "Doctors often examine the abdomen for signs of illness.",
-          "zh": "医生通常会检查腹部以寻找疾病的迹象。"
+          "en": "The report highlighted the casualties from the recent conflict.",
+          "zh": "报告强调了最近冲突中的伤亡情况。"
         }
       ],
-      "memoryTips": {
-        "etymology": "The word 'abdomen' comes from the Latin 'abdomen', which means 'belly'.",
-        "association": "Think of 'abdominal muscles' or 'abs', which are a key part of fitness related to the abdomen."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=abdomen&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=casualties&type=2",
+      "chapter": "认知词汇 自然分类 地震"
     },
     {
-      "word": "magma",
-      "pronunciation": "/ˈmæɡ.mə/",
+      "word": "distasteful",
+      "pronunciation": "/dɪsˈteɪstfəl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "岩浆",
-          "en": "Magma is hot, molten rock found beneath the Earth's surface."
+          "pos": "adj.",
+          "zh": "令人反感的",
+          "en": "Something that is unpleasant or offensive."
         },
         {
-          "pos": "n.",
-          "zh": "熔岩",
-          "en": "Magma is the source of lava when it erupts from a volcano."
+          "pos": "adj.",
+          "zh": "不合口味的",
+          "en": "Referring to something that is not to one's liking."
         }
       ],
       "examples": [
         {
-          "en": "Magma can rise to the surface and cause volcanic eruptions.",
-          "zh": "岩浆可以上升到地表并引发火山喷发。"
+          "en": "Many found the movie's graphic scenes to be quite distasteful.",
+          "zh": "许多人觉得电影的血腥场景非常令人反感。"
         },
         {
-          "en": "Scientists study magma to understand Earth's geological processes.",
-          "zh": "科学家研究岩浆以了解地球的地质过程。"
+          "en": "The distasteful remarks during the meeting upset everyone present.",
+          "zh": "会议中的不当言论让在场的每个人都感到不快。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'magma' as 'magic' rock that creates mountains and islands."
+        "association": "Think of 'distasteful' as 'distant taste'; something far from your taste or preference."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=magma&type=2",
-      "chapter": "认知词汇 自然分类 地震"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=distasteful&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 6"
     }
   ]
 }

@@ -1,67 +1,69 @@
 {
-  "generated": "2025-11-10T22:08:33.226Z",
+  "generated": "2025-11-11T22:08:22.986Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "obsession",
-      "pronunciation": "/əbˈsɛʃən/",
+      "word": "penalty",
+      "pronunciation": "/ˈpɛnəlti/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "迷恋，痴迷",
-          "en": "A strong and unhealthy interest in something."
+          "zh": "罚款",
+          "en": "A punishment or consequence for breaking a rule or law."
         },
         {
           "pos": "n.",
-          "zh": "执念",
-          "en": "An idea or thought that continually preoccupies or intrudes on a person's mind."
+          "zh": "惩罚",
+          "en": "A disadvantage imposed on someone for failing to do something."
         }
       ],
       "examples": [
         {
-          "en": "His obsession with success often causes him to neglect his health.",
-          "zh": "他对成功的痴迷常常导致他忽视健康。"
+          "en": "The penalty for speeding can include fines or points on your license.",
+          "zh": "超速的罚款可能包括罚金或驾照扣分。"
         },
         {
-          "en": "She has an obsession with collecting rare books from the 19th century.",
-          "zh": "她对收集19世纪的稀有书籍有着一种执念。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=obsession&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 7"
-    },
-    {
-      "word": "escapement",
-      "pronunciation": "/ɪˈskæp.mənt/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "逃避",
-          "en": "A mechanism that allows a gear to move forward while preventing it from moving backward."
-        },
-        {
-          "pos": "n.",
-          "zh": "逃脱手段",
-          "en": "A way or method of escaping from a situation."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The escapement in the clock regulates its movement and keeps accurate time.",
-          "zh": "钟表中的逃逸机构调节其运动并保持准确的时间。"
-        },
-        {
-          "en": "He found an escapement from reality through his art and creative writing.",
-          "zh": "他通过艺术和创作写作找到了逃脱现实的方法。"
+          "en": "Players face a penalty if they break the rules during the game.",
+          "zh": "如果球员在比赛中违反规则，他们将面临惩罚。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'escapement' derives from the verb 'escape', which relates to the idea of getting away or avoiding."
+        "association": "Think of 'penalty' as a 'pen' that writes down your mistakes leading to punishment."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=escapement&type=2",
-      "chapter": "认知词汇 历史分类 记时器发展史"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=penalty&type=2",
+      "chapter": "基本词汇 名词200 Unit 6"
+    },
+    {
+      "word": "devoid",
+      "pronunciation": "/dɪˈvɔɪd/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "缺乏的",
+          "en": "Completely lacking something."
+        },
+        {
+          "pos": "v.",
+          "zh": "使缺乏",
+          "en": "To remove or take away something."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The room was devoid of any furniture or decoration.",
+          "zh": "这个房间缺乏任何家具或装饰。"
+        },
+        {
+          "en": "She felt devoid of energy after the long meeting.",
+          "zh": "长时间的会议后，她感到精力匮乏。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'devoid' as 'de void' meaning 'empty space'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=devoid&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 6"
     }
   ]
 }

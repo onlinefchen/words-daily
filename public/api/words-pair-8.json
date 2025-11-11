@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-10T22:08:33.226Z",
+  "generated": "2025-11-11T22:08:22.986Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "suffering",
-      "pronunciation": "/ˈsʌfərɪŋ/",
+      "word": "punish",
+      "pronunciation": "/ˈpʌnɪʃ/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "痛苦; 苦难",
-          "en": "The state of experiencing pain or distress."
+          "pos": "v.",
+          "zh": "惩罚",
+          "en": "To make someone suffer for their wrong actions."
         },
         {
           "pos": "v.",
-          "zh": "遭受; 经历",
-          "en": "To experience something unpleasant."
+          "zh": "制裁",
+          "en": "To impose a penalty on someone for a specific behavior."
         }
       ],
       "examples": [
         {
-          "en": "Many people are suffering from mental health issues today.",
-          "zh": "今天，许多人都在遭受心理健康问题。"
+          "en": "The teacher decided to punish the student for cheating on the test.",
+          "zh": "老师决定惩罚作弊的学生。"
         },
         {
-          "en": "She dedicated her life to helping those who are suffering.",
-          "zh": "她把一生奉献给帮助那些受苦的人。"
+          "en": "Parents often punish their children to teach them right from wrong.",
+          "zh": "父母常常惩罚孩子以教导他们分辨是非。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'suffering' as 'suffocating' from pain, connecting the two concepts."
+        "etymology": "The word 'punish' comes from the Latin 'punire', meaning to inflict a penalty."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=suffering&type=2",
-      "chapter": "核心词汇 健康话题 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=punish&type=2",
+      "chapter": "基本词汇 动词200 Unit 9"
     },
     {
-      "word": "mission",
-      "pronunciation": "/ˈmɪʃən/",
+      "word": "household",
+      "pronunciation": "/ˈhaʊsˌhoʊld/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "使命",
-          "en": "A special task or purpose that someone is assigned to complete."
+          "zh": "家庭",
+          "en": "A household is a group of people living together in a single home."
         },
         {
-          "pos": "v.",
-          "zh": "派遣",
-          "en": "To send someone to do a specific task or job."
+          "pos": "adj.",
+          "zh": "家庭的",
+          "en": "Household refers to things related to or associated with a home."
         }
       ],
       "examples": [
         {
-          "en": "The team's mission is to improve the local environment.",
-          "zh": "团队的使命是改善当地环境。"
+          "en": "Many households have adopted eco-friendly practices to save energy.",
+          "zh": "许多家庭已经采取环保措施来节约能源。"
         },
         {
-          "en": "They were sent on a mission to deliver important documents.",
-          "zh": "他们被派遣去送重要文件。"
+          "en": "The household chores were divided among all family members.",
+          "zh": "家务活在所有家庭成员之间分配。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'mission' comes from the Latin 'missio', meaning 'to send'."
+        "etymology": "The word 'household' comes from the Old English 'hus' meaning house and 'hold' meaning to keep or hold. Together, they signify a group that keeps a house."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=mission&type=2",
-      "chapter": "核心词汇 科技发展 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=household&type=2",
+      "chapter": "基本词汇 名词200 Unit 5"
     }
   ]
 }

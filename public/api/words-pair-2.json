@@ -1,69 +1,64 @@
 {
-  "generated": "2025-11-10T22:08:33.225Z",
+  "generated": "2025-11-11T22:08:22.986Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "block",
-      "pronunciation": "/blɑk/",
+      "word": "increased workload",
+      "pronunciation": "/ɪnˈkrist ˈwɜrkloʊd/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "块；障碍",
-          "en": "A solid piece of material with flat surfaces."
-        },
-        {
-          "pos": "v.",
-          "zh": "阻止；封锁",
-          "en": "To prevent movement or progress."
+          "zh": "增加的工作量",
+          "en": "A larger amount of work that needs to be done."
         }
       ],
       "examples": [
         {
-          "en": "He used a block of wood to hold the door open.",
-          "zh": "他用一块木头把门撑开。"
+          "en": "The increased workload has stressed many employees this quarter.",
+          "zh": "本季度增加的工作量使许多员工感到压力。"
         },
         {
-          "en": "They need to block the road for maintenance work.",
-          "zh": "他们需要封锁道路进行维修工作。"
+          "en": "She struggled to manage her increased workload after the promotion.",
+          "zh": "晋升后，她努力管理增加的工作量。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'block' as something that stops or holds back, like a block in a game."
+        "association": "Think of 'workload' as a 'load' of 'work' that increases."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=block&type=2",
-      "chapter": "基本词汇 动词200 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=increased%20workload&type=2",
+      "chapter": "认知词汇 教育分类 远程教育"
     },
     {
-      "word": "physician",
-      "pronunciation": "/fɪˈzɪʃ.ən/",
+      "word": "pose",
+      "pronunciation": "/poʊz/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "医生",
-          "en": "A physician is a medical doctor who treats patients."
+          "pos": "v.",
+          "zh": "摆姿势",
+          "en": "To hold a particular position or attitude, often for a photograph."
         },
         {
           "pos": "n.",
-          "zh": "医学专家",
-          "en": "A physician is someone who specializes in the practice of medicine."
+          "zh": "姿势",
+          "en": "A particular way of standing or sitting, often for effect."
         }
       ],
       "examples": [
         {
-          "en": "The physician advised me to eat a balanced diet for better health.",
-          "zh": "医生建议我均衡饮食以保持健康。"
+          "en": "She decided to pose for the photographer with a bright smile.",
+          "zh": "她决定对着摄影师微笑摆姿势。"
         },
         {
-          "en": "After the examination, the physician prescribed some medication.",
-          "zh": "检查后，医生开了一些药物。"
+          "en": "The statue was created in a pose that suggests movement and grace.",
+          "zh": "这座雕像的姿势暗示着运动和优雅。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'physician' comes from the Latin 'physica', meaning 'natural science' or 'medicine'."
+        "association": "Think of 'pose' as 'pose for a picture', which helps remember its meaning related to positioning."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=physician&type=2",
-      "chapter": "核心词汇 健康话题 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pose&type=2",
+      "chapter": "基本词汇 动词200 Unit 9"
     }
   ]
 }

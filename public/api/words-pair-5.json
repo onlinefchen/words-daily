@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-10T22:08:33.226Z",
+  "generated": "2025-11-11T22:08:22.986Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "medical",
-      "pronunciation": "/ˈmɛdɪkəl/",
+      "word": "promote",
+      "pronunciation": "/prəˈmoʊt/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "医学的",
-          "en": "Related to the science of medicine and health."
+          "pos": "v.",
+          "zh": "促进，推动",
+          "en": "To help something to develop or increase."
         },
         {
-          "pos": "n.",
-          "zh": "医疗人员",
-          "en": "A person who practices medicine, such as a doctor."
+          "pos": "v.",
+          "zh": "晋升，提升",
+          "en": "To raise someone to a higher rank or position."
         }
       ],
       "examples": [
         {
-          "en": "The medical team worked tirelessly to save the patient’s life.",
-          "zh": "医疗团队不懈努力拯救患者的生命。"
+          "en": "The company aims to promote its new product next month.",
+          "zh": "公司计划下个月推广新产品。"
         },
         {
-          "en": "She studied medical science to become a doctor.",
-          "zh": "她学习医学科学以成为一名医生。"
+          "en": "She was promoted to manager due to her hard work.",
+          "zh": "由于她的努力工作，她被提升为经理。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'medical' as relating to 'medic' or 'medicine', which both involve health."
+        "association": "Think of 'promote' as 'pro' (for) + 'mote' (motion), meaning to move something forward."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=medical&type=2",
-      "chapter": "核心词汇 健康话题 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=promote&type=2",
+      "chapter": "基本词汇 动词200 Unit 9"
     },
     {
-      "word": "heredity",
-      "pronunciation": "/həˈrɛdəti/",
+      "word": "computer",
+      "pronunciation": "/kəmˈpjuːtər/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "遗传",
-          "en": "The passing of traits from parents to their children."
+          "zh": "计算机",
+          "en": "A computer is an electronic device that processes data."
         },
         {
-          "pos": "n.",
-          "zh": "遗传特征",
-          "en": "The characteristics that are inherited from one's ancestors."
+          "pos": "v.",
+          "zh": "计算",
+          "en": "To compute means to calculate or determine a result using a computer."
         }
       ],
       "examples": [
         {
-          "en": "Heredity plays a significant role in determining physical traits.",
-          "zh": "遗传在决定身体特征中起着重要作用。"
+          "en": "I use my computer daily for studying and research.",
+          "zh": "我每天使用计算机进行学习和研究。"
         },
         {
-          "en": "Many diseases can be linked to heredity and genetic factors.",
-          "zh": "许多疾病可以与遗传和遗传因素相关联。"
+          "en": "Computers have greatly improved how we communicate and work.",
+          "zh": "计算机极大地改善了我们的交流和工作方式。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'heredity' comes from the Latin 'hereditas', meaning 'inheritance'."
+        "association": "Think of a 'computer' as a 'companion' for your tasks, helping you solve problems."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=heredity&type=2",
-      "chapter": "核心词汇 健康话题 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=computer&type=2",
+      "chapter": "基本词汇 名词200 Unit 2"
     }
   ]
 }

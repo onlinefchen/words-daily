@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-10T22:08:33.226Z",
+  "generated": "2025-11-11T22:08:22.986Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "respiratory",
-      "pronunciation": "/rɪˈspɪrəˌtɔri/",
+      "word": "fictitious",
+      "pronunciation": "/fɪkˈtɪʃəs/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "呼吸的",
-          "en": "Related to the process of breathing."
+          "zh": "虚构的",
+          "en": "Not real; made up or invented."
         },
         {
           "pos": "adj.",
-          "zh": "呼吸系统的",
-          "en": "Pertaining to the organs involved in breathing."
+          "zh": "假装的",
+          "en": "Describing something that is not true or genuine."
         }
       ],
       "examples": [
         {
-          "en": "The respiratory system is essential for human survival.",
-          "zh": "呼吸系统对人类生存至关重要。"
+          "en": "The story features fictitious characters and events to entertain readers.",
+          "zh": "这个故事以虚构的人物和事件来娱乐读者。"
         },
         {
-          "en": "Pollution can severely affect respiratory health.",
-          "zh": "污染会严重影响呼吸健康。"
+          "en": "Many fictitious accounts can confuse people about real history.",
+          "zh": "许多虚构的叙述可能会让人对真实历史产生困惑。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'respiratory' as related to 'respire,' which means to breathe."
+        "etymology": "The word 'fictitious' comes from the Latin 'fictitius,' meaning 'feigned or invented.'"
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=respiratory&type=2",
-      "chapter": "核心词汇 健康话题 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=fictitious&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 9"
     },
     {
-      "word": "feasible",
-      "pronunciation": "/ˈfiː.zə.bəl/",
+      "word": "extravagant",
+      "pronunciation": "/ɪkˈstrævəɡənt/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "可行的",
-          "en": "Possible to do easily or conveniently."
+          "zh": "奢侈的",
+          "en": "Spending too much money or using too many resources."
         },
         {
           "pos": "adj.",
-          "zh": "适合的",
-          "en": "Practical and likely to succeed."
+          "zh": "极其的，过分的",
+          "en": "Exceeding the limits of what is reasonable or appropriate."
         }
       ],
       "examples": [
         {
-          "en": "The plan is feasible and can be completed within a year.",
-          "zh": "这个计划是可行的，可以在一年内完成。"
+          "en": "The extravagant wedding cost more than a million dollars.",
+          "zh": "这场奢侈的婚礼花费超过一百万美元。"
         },
         {
-          "en": "Finding a solution that is feasible for everyone is challenging.",
-          "zh": "找到一个对每个人都可行的解决方案是具有挑战性的。"
+          "en": "His extravagant lifestyle often drew criticism from others.",
+          "zh": "他奢华的生活方式常常受到他人的批评。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'feasible' as 'feast-able' – a plan that can be enjoyed like a feast."
+        "association": "Think of 'extravagant' as 'extra-vagant', where 'extra' indicates more than usual."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=feasible&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 9"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=extravagant&type=2",
+      "chapter": "核心词汇 伦理与道德 Unit 2"
     }
   ]
 }
