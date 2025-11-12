@@ -1,67 +1,65 @@
 {
-  "generated": "2025-11-11T22:08:22.986Z",
+  "generated": "2025-11-12T22:08:12.361Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "challenge",
-      "pronunciation": "/ˈtʃæl.ɪndʒ/",
+      "word": "innovation",
+      "pronunciation": "/ˌɪnəˈveɪʃən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "挑战",
-          "en": "A difficult task or situation that requires effort to overcome."
+          "zh": "创新",
+          "en": "A new idea or method that improves something."
         },
         {
-          "pos": "v.",
-          "zh": "挑战",
-          "en": "To invite someone to engage in a contest or dispute."
+          "pos": "n.",
+          "zh": "革新",
+          "en": "The process of creating new products or services."
         }
       ],
       "examples": [
         {
-          "en": "Completing a marathon is a significant challenge for many people.",
-          "zh": "完成马拉松对许多人来说是一个重大挑战。"
+          "en": "Innovation is key to the growth of any successful business.",
+          "zh": "创新是任何成功企业发展的关键。"
         },
         {
-          "en": "She decided to challenge herself by learning a new language.",
-          "zh": "她决定通过学习一门新语言来挑战自己。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of a 'challenge' as a 'call to change'—it prompts us to grow."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=challenge&type=2",
-      "chapter": "基本词汇 名词200 Unit 2"
-    },
-    {
-      "word": "disorderly",
-      "pronunciation": "/dɪsˈɔrdərli/",
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "无序的，混乱的",
-          "en": "Not organized or arranged in a neat way."
-        },
-        {
-          "pos": "adj.",
-          "zh": "骚乱的，扰乱的",
-          "en": "Characterized by a lack of order or control."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The classroom was disorderly after the students finished their projects.",
-          "zh": "在学生们完成项目后，教室变得混乱不堪。"
-        },
-        {
-          "en": "The disorderly crowd made it difficult for the police to manage the situation.",
-          "zh": "混乱的人群使警方难以控制局势。"
+          "en": "Many countries invest heavily in technology innovation to stay competitive.",
+          "zh": "许多国家在技术创新上投入巨资以保持竞争力。"
         }
       ],
       "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disorderly&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 6"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=innovation&type=2",
+      "chapter": "核心词汇 科技发展 Unit 3"
+    },
+    {
+      "word": "ease",
+      "pronunciation": "/iːz/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "减轻",
+          "en": "To make something less serious or difficult."
+        },
+        {
+          "pos": "n.",
+          "zh": "容易",
+          "en": "The state of being comfortable or free from worry."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She took a deep breath to ease her nervousness before the exam.",
+          "zh": "她深吸一口气，以减轻考试前的紧张感。"
+        },
+        {
+          "en": "The new software will ease the process of managing our tasks.",
+          "zh": "新软件将简化我们的任务管理过程。"
+        }
+      ],
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ease&type=2",
+      "chapter": "基本词汇 动词200 Unit 6"
     }
   ]
 }

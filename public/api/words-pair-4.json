@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-11T22:08:22.986Z",
+  "generated": "2025-11-12T22:08:12.361Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "penalty",
-      "pronunciation": "/ˈpɛnəlti/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "罚款",
-          "en": "A punishment or consequence for breaking a rule or law."
-        },
-        {
-          "pos": "n.",
-          "zh": "惩罚",
-          "en": "A disadvantage imposed on someone for failing to do something."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The penalty for speeding can include fines or points on your license.",
-          "zh": "超速的罚款可能包括罚金或驾照扣分。"
-        },
-        {
-          "en": "Players face a penalty if they break the rules during the game.",
-          "zh": "如果球员在比赛中违反规则，他们将面临惩罚。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'penalty' as a 'pen' that writes down your mistakes leading to punishment."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=penalty&type=2",
-      "chapter": "基本词汇 名词200 Unit 6"
-    },
-    {
-      "word": "devoid",
-      "pronunciation": "/dɪˈvɔɪd/",
+      "word": "absorbing",
+      "pronunciation": "/əbˈzɔːrbɪŋ/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "缺乏的",
-          "en": "Completely lacking something."
+          "zh": "引人入胜的",
+          "en": "Something that is very interesting and holds your attention."
         },
         {
           "pos": "v.",
-          "zh": "使缺乏",
-          "en": "To remove or take away something."
+          "zh": "吸收",
+          "en": "To take in or soak up a substance or information."
         }
       ],
       "examples": [
         {
-          "en": "The room was devoid of any furniture or decoration.",
-          "zh": "这个房间缺乏任何家具或装饰。"
+          "en": "The novel was so absorbing that I finished it in one day.",
+          "zh": "这本小说引人入胜，我一天就读完了。"
         },
         {
-          "en": "She felt devoid of energy after the long meeting.",
-          "zh": "长时间的会议后，她感到精力匮乏。"
+          "en": "Children are absorbing knowledge at a fast pace in school.",
+          "zh": "孩子们在学校快速吸收知识。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'devoid' as 'de void' meaning 'empty space'."
+        "association": "Think of 'absorbing' as 'absorbing a story' like a sponge absorbs water."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=devoid&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 6"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=absorbing&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 1"
+    },
+    {
+      "word": "psychological",
+      "pronunciation": "/ˌsaɪ.kəˈlɑː.dʒɪ.kəl/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "心理的",
+          "en": "Related to the mind or mental processes."
+        },
+        {
+          "pos": "adj.",
+          "zh": "心理健康的",
+          "en": "Concerning emotional or mental well-being."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The psychological effects of stress can be very harmful.",
+          "zh": "压力的心理影响可能非常有害。"
+        },
+        {
+          "en": "She studied psychological theories to understand human behavior.",
+          "zh": "她研究了心理学理论以理解人类行为。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'psychological' comes from the Greek 'psyche' meaning 'soul' or 'mind' and 'logos' meaning 'study'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=psychological&type=2",
+      "chapter": "核心词汇 科技发展 Unit 4"
     }
   ]
 }

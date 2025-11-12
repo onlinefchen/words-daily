@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-11T22:08:22.986Z",
+  "generated": "2025-11-12T22:08:12.361Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "mobility",
-      "pronunciation": "/moʊˈbɪl.ɪ.ti/",
+      "word": "advent",
+      "pronunciation": "/ˈæd.vɛnt/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "流动性",
-          "en": "The ability to move freely and easily."
+          "zh": "到来，出现",
+          "en": "The arrival of a notable person, thing, or event."
         },
         {
           "pos": "n.",
-          "zh": "机动性",
-          "en": "The capacity to change or adapt quickly."
+          "zh": "基督降临期",
+          "en": "The period leading up to Christmas, observed by many Christians."
         }
       ],
       "examples": [
         {
-          "en": "Urban mobility is crucial for reducing traffic congestion in cities.",
-          "zh": "城市流动性对减少城市交通拥堵至关重要。"
+          "en": "The advent of technology has changed how we communicate.",
+          "zh": "科技的到来改变了我们的沟通方式。"
         },
         {
-          "en": "Many people value mobility for better job opportunities and lifestyles.",
-          "zh": "许多人重视流动性，以获得更好的工作机会和生活方式。"
+          "en": "Many people celebrate the advent of the holiday season with joy.",
+          "zh": "许多人欢庆节日季节的到来。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'mobile' in mobility, which relates to movement and flexibility."
+        "etymology": "The word 'advent' comes from the Latin 'adventus', meaning 'arrival'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=mobility&type=2",
-      "chapter": "核心词汇 工作与生活 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=advent&type=2",
+      "chapter": "基本词汇 名词200 Unit 1"
     },
     {
-      "word": "rodent",
-      "pronunciation": "/ˈroʊ.dənt/",
+      "word": "retain",
+      "pronunciation": "/rɪˈteɪn/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "啮齿动物",
-          "en": "A rodent is a small animal with sharp front teeth, like a mouse or rat."
+          "pos": "v.",
+          "zh": "保留",
+          "en": "To keep something in your possession or memory."
         },
         {
-          "pos": "n.",
-          "zh": "啮齿动物的种类",
-          "en": "Rodents are a group of mammals that includes mice, rats, and squirrels."
+          "pos": "v.",
+          "zh": "继续拥有",
+          "en": "To continue to have or hold something."
         }
       ],
       "examples": [
         {
-          "en": "Many people keep rodents as pets, such as hamsters and guinea pigs.",
-          "zh": "许多人把啮齿动物作为宠物，如仓鼠和豚鼠。"
+          "en": "She was able to retain all the information from the lecture.",
+          "zh": "她能够保留讲座中的所有信息。"
         },
         {
-          "en": "Rodents can often be found in both urban and rural environments.",
-          "zh": "啮齿动物通常可以在城市和乡村环境中发现。"
+          "en": "It is important to retain your original ideas while writing.",
+          "zh": "在写作时保留你的原始想法是很重要的。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'rod' (stick) and how rodents gnaw on things, similar to how a rod can be used to hold or support."
+        "association": "Think of 'retain' as 're-tain' where 'tain' sounds like 'tain' in 'contain', suggesting holding or keeping something inside."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=rodent&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=retain&type=2",
+      "chapter": "核心词汇 文化与传统 Unit 4"
     }
   ]
 }

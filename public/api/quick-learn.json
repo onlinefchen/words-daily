@@ -1,66 +1,68 @@
 {
-  "generated": "2025-11-11T22:08:22.985Z",
+  "generated": "2025-11-12T22:08:12.360Z",
   "count": 2,
   "words": [
     {
-      "word": "casualties",
-      "pronunciation": "/ˈkæʒ.u.əl.tiz/",
+      "word": "bond",
+      "pronunciation": "/bɑnd/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "伤亡人员",
-          "en": "People who are killed or injured in a war or accident."
+          "zh": "纽带",
+          "en": "A bond is a strong connection between people or things."
         },
         {
-          "pos": "n.",
-          "zh": "损失",
-          "en": "The total number of people affected by an event, particularly in terms of injuries or deaths."
+          "pos": "v.",
+          "zh": "建立关系",
+          "en": "To bond means to form a close relationship with someone."
         }
       ],
       "examples": [
         {
-          "en": "The earthquake caused many casualties and widespread destruction.",
-          "zh": "这场地震造成了许多伤亡和广泛的破坏。"
+          "en": "The bond between mother and child is very strong.",
+          "zh": "母亲与孩子之间的纽带非常牢固。"
         },
         {
-          "en": "The report highlighted the casualties from the recent conflict.",
-          "zh": "报告强调了最近冲突中的伤亡情况。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=casualties&type=2",
-      "chapter": "认知词汇 自然分类 地震"
-    },
-    {
-      "word": "distasteful",
-      "pronunciation": "/dɪsˈteɪstfəl/",
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "令人反感的",
-          "en": "Something that is unpleasant or offensive."
-        },
-        {
-          "pos": "adj.",
-          "zh": "不合口味的",
-          "en": "Referring to something that is not to one's liking."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Many found the movie's graphic scenes to be quite distasteful.",
-          "zh": "许多人觉得电影的血腥场景非常令人反感。"
-        },
-        {
-          "en": "The distasteful remarks during the meeting upset everyone present.",
-          "zh": "会议中的不当言论让在场的每个人都感到不快。"
+          "en": "They bond over their shared love of music and art.",
+          "zh": "他们因共同热爱音乐和艺术而建立了关系。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'distasteful' as 'distant taste'; something far from your taste or preference."
+        "association": "Think of 'bond' as a 'band' that ties things together."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=distasteful&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 6"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=bond&type=2",
+      "chapter": "认知词汇 历史分类 钱币发展史"
+    },
+    {
+      "word": "deserve",
+      "pronunciation": "/dɪˈzɜrv/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "应得",
+          "en": "to have earned something because of your actions or qualities."
+        },
+        {
+          "pos": "v.",
+          "zh": "值得",
+          "en": "to be worthy of something, such as praise or reward."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She deserves recognition for her hard work and dedication.",
+          "zh": "她因辛勤工作和奉献精神而值得被认可。"
+        },
+        {
+          "en": "After all his efforts, he truly deserves a break.",
+          "zh": "经过他所有的努力，他确实值得休息一下。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'deserve' as 'de-serve', meaning you have served well enough to earn something."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=deserve&type=2",
+      "chapter": "基本词汇 动词200 Unit 5"
     }
   ]
 }

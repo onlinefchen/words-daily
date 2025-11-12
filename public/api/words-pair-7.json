@@ -1,67 +1,67 @@
 {
-  "generated": "2025-11-11T22:08:22.986Z",
+  "generated": "2025-11-12T22:08:12.361Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "dietary",
-      "pronunciation": "/ˈdaɪəˌtɛri/",
+      "word": "monotonous",
+      "pronunciation": "/məˈnɒtənəs/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "饮食的",
-          "en": "Related to the kinds of food that a person eats."
+          "zh": "单调的",
+          "en": "Something that is very dull and lacks variety."
         },
         {
-          "pos": "n.",
-          "zh": "饮食",
-          "en": "The kinds of food a person regularly eats."
+          "pos": "adj.",
+          "zh": "无聊的",
+          "en": "A situation or activity that is boring because it is always the same."
         }
       ],
       "examples": [
         {
-          "en": "Maintaining a balanced dietary is essential for good health.",
-          "zh": "保持均衡的饮食对健康至关重要。"
+          "en": "The lecture was so monotonous that many students fell asleep.",
+          "zh": "这场讲座如此单调，以至于许多学生都睡着了。"
         },
         {
-          "en": "Many people follow a specific dietary to manage their weight.",
-          "zh": "许多人遵循特定的饮食来控制体重。"
+          "en": "He found his job monotonous, doing the same tasks every day.",
+          "zh": "他觉得自己的工作很单调，每天做相同的任务。"
         }
       ],
       "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dietary&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 6"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=monotonous&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 12"
     },
     {
-      "word": "peril",
-      "pronunciation": "/ˈpɛr.əl/",
+      "word": "nurture",
+      "pronunciation": "/ˈnɜːr.tʃər/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "危险",
-          "en": "Serious and immediate danger."
+          "pos": "v.",
+          "zh": "培养",
+          "en": "To care for and encourage the growth or development of someone or something."
         },
         {
-          "pos": "v.",
-          "zh": "使处于危险中",
-          "en": "To expose to danger."
+          "pos": "n.",
+          "zh": "养育",
+          "en": "The process of caring for and educating someone, especially a child."
         }
       ],
       "examples": [
         {
-          "en": "The hikers were in peril as the storm approached rapidly.",
-          "zh": "当暴风雨迅速逼近时，徒步旅行者处于危险之中。"
+          "en": "Parents play a crucial role in nurturing their children's talents.",
+          "zh": "父母在培养孩子的才能方面起着至关重要的作用。"
         },
         {
-          "en": "He did not want to peril his career by making risky decisions.",
-          "zh": "他不想通过冒险决策来危及自己的职业生涯。"
+          "en": "The nurture of young plants requires attention and patience.",
+          "zh": "年轻植物的养育需要关注和耐心。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'peril' as 'perilous', which means full of danger."
+        "etymology": "The word 'nurture' comes from the Latin 'nutrire', meaning 'to feed' or 'to nourish'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=peril&type=2",
-      "chapter": "基本词汇 名词200 Unit 6"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=nurture&type=2",
+      "chapter": "基本词汇 动词200 Unit 8"
     }
   ]
 }

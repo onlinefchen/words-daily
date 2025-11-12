@@ -1,63 +1,68 @@
 {
-  "generated": "2025-11-11T22:08:22.986Z",
+  "generated": "2025-11-12T22:08:12.361Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "increased workload",
-      "pronunciation": "/ɪnˈkrist ˈwɜrkloʊd/",
+      "word": "hornet",
+      "pronunciation": "/ˈhɔrnɪt/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "增加的工作量",
-          "en": "A larger amount of work that needs to be done."
+          "zh": "黄蜂",
+          "en": "A large, aggressive wasp known for its painful sting."
+        },
+        {
+          "pos": "n.",
+          "zh": "激烈的竞争者",
+          "en": "A person or thing that is aggressive and challenging."
         }
       ],
       "examples": [
         {
-          "en": "The increased workload has stressed many employees this quarter.",
-          "zh": "本季度增加的工作量使许多员工感到压力。"
+          "en": "A hornet can deliver a very painful sting if provoked.",
+          "zh": "如果受到挑衅，黄蜂可以造成非常痛苦的蜇伤。"
         },
         {
-          "en": "She struggled to manage her increased workload after the promotion.",
-          "zh": "晋升后，她努力管理增加的工作量。"
+          "en": "The athlete was a hornet on the field, fiercely competing with others.",
+          "zh": "这位运动员在场上如同黄蜂一样，激烈地与他人竞争。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'workload' as a 'load' of 'work' that increases."
+        "association": "Think of a hornet as a 'horned' creature that stings, making it memorable due to its aggressive nature."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=increased%20workload&type=2",
-      "chapter": "认知词汇 教育分类 远程教育"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=hornet&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "pose",
-      "pronunciation": "/poʊz/",
+      "word": "punish",
+      "pronunciation": "/ˈpʌnɪʃ/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "摆姿势",
-          "en": "To hold a particular position or attitude, often for a photograph."
+          "zh": "惩罚",
+          "en": "To make someone suffer for their wrong actions."
         },
         {
-          "pos": "n.",
-          "zh": "姿势",
-          "en": "A particular way of standing or sitting, often for effect."
+          "pos": "v.",
+          "zh": "制裁",
+          "en": "To impose a penalty on someone for a specific behavior."
         }
       ],
       "examples": [
         {
-          "en": "She decided to pose for the photographer with a bright smile.",
-          "zh": "她决定对着摄影师微笑摆姿势。"
+          "en": "The teacher decided to punish the student for cheating on the test.",
+          "zh": "老师决定惩罚作弊的学生。"
         },
         {
-          "en": "The statue was created in a pose that suggests movement and grace.",
-          "zh": "这座雕像的姿势暗示着运动和优雅。"
+          "en": "Parents often punish their children to teach them right from wrong.",
+          "zh": "父母常常惩罚孩子以教导他们分辨是非。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'pose' as 'pose for a picture', which helps remember its meaning related to positioning."
+        "etymology": "The word 'punish' comes from the Latin 'punire', meaning to inflict a penalty."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pose&type=2",
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=punish&type=2",
       "chapter": "基本词汇 动词200 Unit 9"
     }
   ]

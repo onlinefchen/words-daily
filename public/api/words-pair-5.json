@@ -1,69 +1,70 @@
 {
-  "generated": "2025-11-11T22:08:22.986Z",
+  "generated": "2025-11-12T22:08:12.361Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "promote",
-      "pronunciation": "/prəˈmoʊt/",
+      "word": "seemingly",
+      "pronunciation": "/ˈsiːmɪŋli/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "促进，推动",
-          "en": "To help something to develop or increase."
+          "pos": "adv.",
+          "zh": "似乎",
+          "en": "In a way that appears to be true but may not be."
         },
         {
-          "pos": "v.",
-          "zh": "晋升，提升",
-          "en": "To raise someone to a higher rank or position."
+          "pos": "adv.",
+          "zh": "表面上",
+          "en": "According to how something looks or seems."
         }
       ],
       "examples": [
         {
-          "en": "The company aims to promote its new product next month.",
-          "zh": "公司计划下个月推广新产品。"
+          "en": "She seemingly passed the exam without studying much at all.",
+          "zh": "她似乎在几乎没有学习的情况下通过了考试。"
         },
         {
-          "en": "She was promoted to manager due to her hard work.",
-          "zh": "由于她的努力工作，她被提升为经理。"
+          "en": "The project was seemingly successful, but it had hidden problems.",
+          "zh": "这个项目表面上是成功的，但它有隐藏的问题。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'promote' as 'pro' (for) + 'mote' (motion), meaning to move something forward."
+        "association": "Think of 'seem' as how things appear; 'ingly' suggests a manner, so 'seemingly' is how things appear to be."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=promote&type=2",
-      "chapter": "基本词汇 动词200 Unit 9"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=seemingly&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 16"
     },
     {
-      "word": "computer",
-      "pronunciation": "/kəmˈpjuːtər/",
+      "word": "imperil",
+      "pronunciation": "/ɪmˈpɛrɪl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "计算机",
-          "en": "A computer is an electronic device that processes data."
+          "pos": "v.",
+          "zh": "危害",
+          "en": "To put something or someone in danger."
         },
         {
           "pos": "v.",
-          "zh": "计算",
-          "en": "To compute means to calculate or determine a result using a computer."
+          "zh": "使处于风险",
+          "en": "To expose to a risk of harm or loss."
         }
       ],
       "examples": [
         {
-          "en": "I use my computer daily for studying and research.",
-          "zh": "我每天使用计算机进行学习和研究。"
+          "en": "The pollution in the river can imperil local wildlife and fish.",
+          "zh": "河流中的污染可能危害当地的野生动物和鱼类。"
         },
         {
-          "en": "Computers have greatly improved how we communicate and work.",
-          "zh": "计算机极大地改善了我们的交流和工作方式。"
+          "en": "Ignoring safety regulations can imperil the workers on the site.",
+          "zh": "忽视安全规定可能会危及工地上的工人。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'computer' as a 'companion' for your tasks, helping you solve problems."
+        "association": "Think of 'imperil' as 'imperial risk', where something grand is at risk.",
+        "mnemonic": "You can remember 'imperil' by thinking of 'imperil' as 'imperative to avoid danger'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=computer&type=2",
-      "chapter": "基本词汇 名词200 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=imperil&type=2",
+      "chapter": "核心词汇 科技发展 Unit 3"
     }
   ]
 }

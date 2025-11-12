@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-11T22:08:22.986Z",
+  "generated": "2025-11-12T22:08:12.361Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "punish",
-      "pronunciation": "/ˈpʌnɪʃ/",
+      "word": "enjoy",
+      "pronunciation": "/ɪnˈdʒɔɪ/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "惩罚",
-          "en": "To make someone suffer for their wrong actions."
+          "zh": "享受",
+          "en": "To take pleasure in something or find it enjoyable."
         },
         {
           "pos": "v.",
-          "zh": "制裁",
-          "en": "To impose a penalty on someone for a specific behavior."
+          "zh": "喜欢",
+          "en": "To like or appreciate something."
         }
       ],
       "examples": [
         {
-          "en": "The teacher decided to punish the student for cheating on the test.",
-          "zh": "老师决定惩罚作弊的学生。"
+          "en": "I enjoy reading books in my free time every day.",
+          "zh": "我每天都喜欢在空闲时间阅读书籍。"
         },
         {
-          "en": "Parents often punish their children to teach them right from wrong.",
-          "zh": "父母常常惩罚孩子以教导他们分辨是非。"
+          "en": "They enjoy playing soccer at the park on weekends.",
+          "zh": "他们喜欢在周末在公园踢足球。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'punish' comes from the Latin 'punire', meaning to inflict a penalty."
+        "association": "Think of 'enjoy' as being 'in joy' when doing something you love."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=punish&type=2",
-      "chapter": "基本词汇 动词200 Unit 9"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=enjoy&type=2",
+      "chapter": "基本词汇 动词200 Unit 6"
     },
     {
-      "word": "household",
-      "pronunciation": "/ˈhaʊsˌhoʊld/",
+      "word": "disrespect",
+      "pronunciation": "/ˌdɪs.rɪˈspɛkt/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "家庭",
-          "en": "A household is a group of people living together in a single home."
+          "pos": "v.",
+          "zh": "不尊重",
+          "en": "To show a lack of respect for someone or something."
         },
         {
-          "pos": "adj.",
-          "zh": "家庭的",
-          "en": "Household refers to things related to or associated with a home."
+          "pos": "n.",
+          "zh": "不尊重",
+          "en": "A lack of respect for someone or something."
         }
       ],
       "examples": [
         {
-          "en": "Many households have adopted eco-friendly practices to save energy.",
-          "zh": "许多家庭已经采取环保措施来节约能源。"
+          "en": "Disrespecting teachers can lead to serious consequences in school.",
+          "zh": "不尊重老师可能会在学校导致严重后果。"
         },
         {
-          "en": "The household chores were divided among all family members.",
-          "zh": "家务活在所有家庭成员之间分配。"
+          "en": "His disrespect for the rules frustrated everyone in the class.",
+          "zh": "他对规则的不尊重让班里的每个人都感到沮丧。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'household' comes from the Old English 'hus' meaning house and 'hold' meaning to keep or hold. Together, they signify a group that keeps a house."
+        "association": "Think of 'dis' as a prefix that negates respect, like 'disagree' means not agreeing."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=household&type=2",
-      "chapter": "基本词汇 名词200 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disrespect&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 3"
     }
   ]
 }
