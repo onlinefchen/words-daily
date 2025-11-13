@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-12T22:08:12.361Z",
+  "generated": "2025-11-13T22:08:31.778Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "hornet",
-      "pronunciation": "/ˈhɔrnɪt/",
+      "word": "defy",
+      "pronunciation": "/dɪˈfaɪ/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "黄蜂",
-          "en": "A large, aggressive wasp known for its painful sting."
+          "pos": "v.",
+          "zh": "反抗，违抗",
+          "en": "To refuse to obey someone or something."
         },
         {
-          "pos": "n.",
-          "zh": "激烈的竞争者",
-          "en": "A person or thing that is aggressive and challenging."
+          "pos": "v.",
+          "zh": "挑战",
+          "en": "To challenge someone to do something; to confront."
         }
       ],
       "examples": [
         {
-          "en": "A hornet can deliver a very painful sting if provoked.",
-          "zh": "如果受到挑衅，黄蜂可以造成非常痛苦的蜇伤。"
+          "en": "She decided to defy the rules and speak her mind.",
+          "zh": "她决定违抗规则，直言不讳。"
         },
         {
-          "en": "The athlete was a hornet on the field, fiercely competing with others.",
-          "zh": "这位运动员在场上如同黄蜂一样，激烈地与他人竞争。"
+          "en": "The athlete chose to defy expectations and win the race.",
+          "zh": "这位运动员选择挑战预期并赢得了比赛。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a hornet as a 'horned' creature that stings, making it memorable due to its aggressive nature."
+        "association": "Think of 'defy' as 'defending your right' to do something against opposition."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=hornet&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=defy&type=2",
+      "chapter": "基本词汇 动词200 Unit 5"
     },
     {
-      "word": "punish",
-      "pronunciation": "/ˈpʌnɪʃ/",
+      "word": "Geophysical Observatory",
+      "pronunciation": "/ˌdʒiːəˈfɪzɪkəl əbˈzɜːrvətɔːri/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "惩罚",
-          "en": "To make someone suffer for their wrong actions."
+          "pos": "n.",
+          "zh": "地球物理观测站",
+          "en": "A place where scientists study and monitor Earth's physical properties."
         },
         {
-          "pos": "v.",
-          "zh": "制裁",
-          "en": "To impose a penalty on someone for a specific behavior."
+          "pos": "n.",
+          "zh": "地球物理观测",
+          "en": "The act of observing and measuring physical aspects of the Earth."
         }
       ],
       "examples": [
         {
-          "en": "The teacher decided to punish the student for cheating on the test.",
-          "zh": "老师决定惩罚作弊的学生。"
+          "en": "The geophysical observatory collects data on seismic activity.",
+          "zh": "地球物理观测站收集关于地震活动的数据。"
         },
         {
-          "en": "Parents often punish their children to teach them right from wrong.",
-          "zh": "父母常常惩罚孩子以教导他们分辨是非。"
+          "en": "Researchers at the geophysical observatory analyze climate change effects.",
+          "zh": "地球物理观测站的研究人员分析气候变化的影响。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'punish' comes from the Latin 'punire', meaning to inflict a penalty."
+        "association": "Think of a 'geophysical observatory' as a 'watchtower' for Earth, observing its physical signs."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=punish&type=2",
-      "chapter": "基本词汇 动词200 Unit 9"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=Geophysical%20Observatory&type=2",
+      "chapter": "认知词汇 自然分类 地震"
     }
   ]
 }

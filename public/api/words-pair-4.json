@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-12T22:08:12.361Z",
+  "generated": "2025-11-13T22:08:31.778Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "absorbing",
-      "pronunciation": "/əbˈzɔːrbɪŋ/",
+      "word": "offensive",
+      "pronunciation": "/əˈfɛn.sɪv/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "引人入胜的",
-          "en": "Something that is very interesting and holds your attention."
+          "zh": "冒犯的",
+          "en": "Causing hurt feelings or displeasure."
         },
         {
-          "pos": "v.",
-          "zh": "吸收",
-          "en": "To take in or soak up a substance or information."
+          "pos": "n.",
+          "zh": "进攻",
+          "en": "A military action intended to take the offensive position."
         }
       ],
       "examples": [
         {
-          "en": "The novel was so absorbing that I finished it in one day.",
-          "zh": "这本小说引人入胜，我一天就读完了。"
+          "en": "His offensive comments made many people feel uncomfortable.",
+          "zh": "他冒犯的评论让许多人感到不舒服。"
         },
         {
-          "en": "Children are absorbing knowledge at a fast pace in school.",
-          "zh": "孩子们在学校快速吸收知识。"
+          "en": "The team launched an offensive to capture the enemy territory.",
+          "zh": "该队发起进攻以占领敌方领土。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'absorbing' as 'absorbing a story' like a sponge absorbs water."
+        "association": "Think of 'offensive' as 'offend' + 'sive', which can help you remember its meaning related to causing offense."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=absorbing&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=offensive&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 13"
     },
     {
-      "word": "psychological",
-      "pronunciation": "/ˌsaɪ.kəˈlɑː.dʒɪ.kəl/",
+      "word": "invisible",
+      "pronunciation": "/ɪnˈvɪz.ə.bəl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "心理的",
-          "en": "Related to the mind or mental processes."
+          "zh": "看不见的",
+          "en": "Not able to be seen; not visible."
         },
         {
           "pos": "adj.",
-          "zh": "心理健康的",
-          "en": "Concerning emotional or mental well-being."
+          "zh": "无形的",
+          "en": "Existing but not apparent; hidden from view."
         }
       ],
       "examples": [
         {
-          "en": "The psychological effects of stress can be very harmful.",
-          "zh": "压力的心理影响可能非常有害。"
+          "en": "The stars are invisible during the day due to sunlight.",
+          "zh": "白天由于阳光，星星是看不见的。"
         },
         {
-          "en": "She studied psychological theories to understand human behavior.",
-          "zh": "她研究了心理学理论以理解人类行为。"
+          "en": "Many emotions are invisible but can be deeply felt.",
+          "zh": "许多情感是无形的，但能被深刻感受到。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'psychological' comes from the Greek 'psyche' meaning 'soul' or 'mind' and 'logos' meaning 'study'."
+        "association": "Think of 'in' as 'not' and 'visible' as 'able to be seen', so invisible means not able to be seen."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=psychological&type=2",
-      "chapter": "核心词汇 科技发展 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=invisible&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 11"
     }
   ]
 }

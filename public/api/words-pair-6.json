@@ -1,65 +1,69 @@
 {
-  "generated": "2025-11-12T22:08:12.361Z",
+  "generated": "2025-11-13T22:08:31.778Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "innovation",
-      "pronunciation": "/ˌɪnəˈveɪʃən/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "创新",
-          "en": "A new idea or method that improves something."
-        },
-        {
-          "pos": "n.",
-          "zh": "革新",
-          "en": "The process of creating new products or services."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Innovation is key to the growth of any successful business.",
-          "zh": "创新是任何成功企业发展的关键。"
-        },
-        {
-          "en": "Many countries invest heavily in technology innovation to stay competitive.",
-          "zh": "许多国家在技术创新上投入巨资以保持竞争力。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=innovation&type=2",
-      "chapter": "核心词汇 科技发展 Unit 3"
-    },
-    {
-      "word": "ease",
-      "pronunciation": "/iːz/",
+      "word": "deliver",
+      "pronunciation": "/dɪˈlɪvər/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "减轻",
-          "en": "To make something less serious or difficult."
+          "zh": "交付，递送",
+          "en": "To bring something to a person or place."
         },
         {
-          "pos": "n.",
-          "zh": "容易",
-          "en": "The state of being comfortable or free from worry."
+          "pos": "v.",
+          "zh": "履行，完成",
+          "en": "To fulfill a task or promise."
         }
       ],
       "examples": [
         {
-          "en": "She took a deep breath to ease her nervousness before the exam.",
-          "zh": "她深吸一口气，以减轻考试前的紧张感。"
+          "en": "The company will deliver the package by tomorrow afternoon.",
+          "zh": "公司将在明天下午之前递送包裹。"
         },
         {
-          "en": "The new software will ease the process of managing our tasks.",
-          "zh": "新软件将简化我们的任务管理过程。"
+          "en": "He promised to deliver a speech at the conference next week.",
+          "zh": "他承诺将在下周的会议上发表演讲。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ease&type=2",
-      "chapter": "基本词汇 动词200 Unit 6"
+      "memoryTips": {
+        "association": "Think of a delivery man bringing your favorite food; they 'deliver' joy and satisfaction."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=deliver&type=2",
+      "chapter": "基本词汇 动词200 Unit 5"
+    },
+    {
+      "word": "passionate",
+      "pronunciation": "/ˈpæʃənət/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "热情的",
+          "en": "Having strong feelings or emotions about something."
+        },
+        {
+          "pos": "adj.",
+          "zh": "狂热的",
+          "en": "Showing a lot of enthusiasm or excitement."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She is passionate about environmental protection and renewable energy.",
+          "zh": "她对环境保护和可再生能源充满热情。"
+        },
+        {
+          "en": "His passionate speech inspired many people to take action.",
+          "zh": "他热情的演讲激励了许多人采取行动。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'passion' as the root of 'passionate' to remember the strong feelings involved."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=passionate&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 14"
     }
   ]
 }

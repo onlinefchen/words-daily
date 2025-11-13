@@ -1,69 +1,70 @@
 {
-  "generated": "2025-11-12T22:08:12.361Z",
+  "generated": "2025-11-13T22:08:31.779Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "advent",
-      "pronunciation": "/ˈæd.vɛnt/",
+      "word": "amputation",
+      "pronunciation": "/æmˈpjuːteɪʃən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "到来，出现",
-          "en": "The arrival of a notable person, thing, or event."
+          "zh": "截肢",
+          "en": "The act of removing a limb or part of the body."
         },
         {
           "pos": "n.",
-          "zh": "基督降临期",
-          "en": "The period leading up to Christmas, observed by many Christians."
+          "zh": "切除",
+          "en": "The surgical removal of a body part due to injury or disease."
         }
       ],
       "examples": [
         {
-          "en": "The advent of technology has changed how we communicate.",
-          "zh": "科技的到来改变了我们的沟通方式。"
+          "en": "The patient faced amputation after the severe accident.",
+          "zh": "在严重事故后，患者面临截肢。"
         },
         {
-          "en": "Many people celebrate the advent of the holiday season with joy.",
-          "zh": "许多人欢庆节日季节的到来。"
+          "en": "Amputation may be necessary to save the person's life.",
+          "zh": "截肢可能是拯救这个人生命的必要措施。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'advent' comes from the Latin 'adventus', meaning 'arrival'."
+        "etymology": "The word 'amputation' comes from the Latin 'amputare', meaning 'to cut off'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=advent&type=2",
-      "chapter": "基本词汇 名词200 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=amputation&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "retain",
-      "pronunciation": "/rɪˈteɪn/",
+      "word": "oceanographic",
+      "pronunciation": "/ˌoʊʃəˈnɒɡrəfɪk/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "保留",
-          "en": "To keep something in your possession or memory."
+          "pos": "adj.",
+          "zh": "海洋学的",
+          "en": "Related to the study of the ocean and its features."
         },
         {
-          "pos": "v.",
-          "zh": "继续拥有",
-          "en": "To continue to have or hold something."
+          "pos": "adj.",
+          "zh": "海洋测量的",
+          "en": "Concerning the measurement and analysis of ocean properties."
         }
       ],
       "examples": [
         {
-          "en": "She was able to retain all the information from the lecture.",
-          "zh": "她能够保留讲座中的所有信息。"
+          "en": "Oceanographic research helps us understand climate change impacts.",
+          "zh": "海洋学研究帮助我们理解气候变化的影响。"
         },
         {
-          "en": "It is important to retain your original ideas while writing.",
-          "zh": "在写作时保留你的原始想法是很重要的。"
+          "en": "The oceanographic survey revealed new species in deep waters.",
+          "zh": "海洋调查揭示了深水区的新物种。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'retain' as 're-tain' where 'tain' sounds like 'tain' in 'contain', suggesting holding or keeping something inside."
+        "etymology": "The word comes from 'ocean' and 'graphic', meaning writing or describing the ocean.",
+        "association": "Think of 'ocean' and 'graphic' as mapping or describing the ocean's features."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=retain&type=2",
-      "chapter": "核心词汇 文化与传统 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=oceanographic&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

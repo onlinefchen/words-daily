@@ -1,67 +1,70 @@
 {
-  "generated": "2025-11-12T22:08:12.361Z",
+  "generated": "2025-11-13T22:08:31.778Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "monotonous",
-      "pronunciation": "/məˈnɒtənəs/",
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "单调的",
-          "en": "Something that is very dull and lacks variety."
-        },
-        {
-          "pos": "adj.",
-          "zh": "无聊的",
-          "en": "A situation or activity that is boring because it is always the same."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The lecture was so monotonous that many students fell asleep.",
-          "zh": "这场讲座如此单调，以至于许多学生都睡着了。"
-        },
-        {
-          "en": "He found his job monotonous, doing the same tasks every day.",
-          "zh": "他觉得自己的工作很单调，每天做相同的任务。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=monotonous&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 12"
-    },
-    {
-      "word": "nurture",
-      "pronunciation": "/ˈnɜːr.tʃər/",
+      "word": "expand",
+      "pronunciation": "/ɪkˈspænd/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "培养",
-          "en": "To care for and encourage the growth or development of someone or something."
+          "zh": "扩展，增加",
+          "en": "To make something larger or more extensive."
         },
         {
-          "pos": "n.",
-          "zh": "养育",
-          "en": "The process of caring for and educating someone, especially a child."
+          "pos": "v.",
+          "zh": "详细阐述",
+          "en": "To explain or discuss something in more detail."
         }
       ],
       "examples": [
         {
-          "en": "Parents play a crucial role in nurturing their children's talents.",
-          "zh": "父母在培养孩子的才能方面起着至关重要的作用。"
+          "en": "The company plans to expand its operations into new markets.",
+          "zh": "公司计划将业务扩展到新市场。"
         },
         {
-          "en": "The nurture of young plants requires attention and patience.",
-          "zh": "年轻植物的养育需要关注和耐心。"
+          "en": "He decided to expand on his ideas during the presentation.",
+          "zh": "他决定在演示中详细阐述他的想法。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'nurture' comes from the Latin 'nutrire', meaning 'to feed' or 'to nourish'."
+        "etymology": "Originates from the Latin word 'expandere', meaning 'to spread out'.",
+        "association": "Think of 'expand' as 'ex' (out) + 'pand' (to spread), like a balloon inflating."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=nurture&type=2",
-      "chapter": "基本词汇 动词200 Unit 8"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=expand&type=2",
+      "chapter": "基本词汇 动词200 Unit 7"
+    },
+    {
+      "word": "nimble",
+      "pronunciation": "/ˈnɪm.bəl/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "灵活的",
+          "en": "Able to move quickly and easily."
+        },
+        {
+          "pos": "adj.",
+          "zh": "敏捷的",
+          "en": "Quick in understanding or learning."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The dancer was nimble, performing complex moves with ease.",
+          "zh": "舞者灵活自如，轻松完成复杂的动作。"
+        },
+        {
+          "en": "Her nimble mind allowed her to solve problems quickly.",
+          "zh": "她敏捷的思维使她能够迅速解决问题。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a nimble cat that can jump and move quickly."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=nimble&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 13"
     }
   ]
 }

@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-12T22:08:12.360Z",
+  "generated": "2025-11-13T22:08:31.777Z",
   "pair": 1,
   "count": 2,
   "words": [
     {
-      "word": "bond",
-      "pronunciation": "/bɑnd/",
+      "word": "condensation",
+      "pronunciation": "/ˌkɒn.dənˈseɪ.ʃən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "纽带",
-          "en": "A bond is a strong connection between people or things."
+          "zh": "凝结",
+          "en": "The process of water vapor turning into liquid."
         },
         {
-          "pos": "v.",
-          "zh": "建立关系",
-          "en": "To bond means to form a close relationship with someone."
+          "pos": "n.",
+          "zh": "浓缩",
+          "en": "The act of making something shorter or more concentrated."
         }
       ],
       "examples": [
         {
-          "en": "The bond between mother and child is very strong.",
-          "zh": "母亲与孩子之间的纽带非常牢固。"
+          "en": "Condensation forms on the outside of a cold glass of water.",
+          "zh": "冷水杯外侧会形成凝结水珠。"
         },
         {
-          "en": "They bond over their shared love of music and art.",
-          "zh": "他们因共同热爱音乐和艺术而建立了关系。"
+          "en": "The condensation of the report helped to highlight key points.",
+          "zh": "报告的浓缩有助于突出关键要点。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'bond' as a 'band' that ties things together."
+        "association": "Think of 'condensation' as 'con-dense', meaning to make something denser or more concentrated."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=bond&type=2",
-      "chapter": "认知词汇 历史分类 钱币发展史"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=condensation&type=2",
+      "chapter": "认知词汇 科技分类 染料与颜料"
     },
     {
-      "word": "deserve",
-      "pronunciation": "/dɪˈzɜrv/",
+      "word": "edify",
+      "pronunciation": "/ˈɛdɪfaɪ/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "应得",
-          "en": "to have earned something because of your actions or qualities."
+          "zh": "启发，教诲",
+          "en": "To instruct or improve someone morally or intellectually."
         },
         {
           "pos": "v.",
-          "zh": "值得",
-          "en": "to be worthy of something, such as praise or reward."
+          "zh": "使懂得",
+          "en": "To educate or enlighten a person."
         }
       ],
       "examples": [
         {
-          "en": "She deserves recognition for her hard work and dedication.",
-          "zh": "她因辛勤工作和奉献精神而值得被认可。"
+          "en": "Reading classic literature can edify young minds and broaden their perspectives.",
+          "zh": "阅读经典文学可以启发年轻人的思维，拓宽他们的视野。"
         },
         {
-          "en": "After all his efforts, he truly deserves a break.",
-          "zh": "经过他所有的努力，他确实值得休息一下。"
+          "en": "The documentary aimed to edify viewers about the importance of environmental conservation.",
+          "zh": "这部纪录片旨在使观众了解环境保护的重要性。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'deserve' as 'de-serve', meaning you have served well enough to earn something."
+        "etymology": "The word 'edify' comes from the Latin 'aedificare,' which means 'to build.' This reflects the idea of building knowledge or character."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=deserve&type=2",
-      "chapter": "基本词汇 动词200 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=edify&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 4"
     }
   ]
 }

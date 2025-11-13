@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-12T22:08:12.361Z",
+  "generated": "2025-11-13T22:08:31.778Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "enjoy",
-      "pronunciation": "/ɪnˈdʒɔɪ/",
+      "word": "intolerable",
+      "pronunciation": "/ɪnˈtɒlərəbl/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "享受",
-          "en": "To take pleasure in something or find it enjoyable."
+          "pos": "adj.",
+          "zh": "不可忍受的",
+          "en": "Something that is very difficult to accept or endure."
         },
         {
-          "pos": "v.",
-          "zh": "喜欢",
-          "en": "To like or appreciate something."
+          "pos": "adj.",
+          "zh": "无法容忍的",
+          "en": "A situation that causes great discomfort or annoyance."
         }
       ],
       "examples": [
         {
-          "en": "I enjoy reading books in my free time every day.",
-          "zh": "我每天都喜欢在空闲时间阅读书籍。"
+          "en": "The heat during summer can sometimes be intolerable for many people.",
+          "zh": "夏天的热量对很多人来说有时是无法忍受的。"
         },
         {
-          "en": "They enjoy playing soccer at the park on weekends.",
-          "zh": "他们喜欢在周末在公园踢足球。"
+          "en": "Living in an intolerable environment affects mental health significantly.",
+          "zh": "生活在一个不可忍受的环境中会严重影响心理健康。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'enjoy' as being 'in joy' when doing something you love."
+        "association": "Think of 'tolerate' as being able to accept something. The prefix 'in-' means not, so 'intolerable' is something you cannot tolerate."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=enjoy&type=2",
-      "chapter": "基本词汇 动词200 Unit 6"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=intolerable&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 11"
     },
     {
-      "word": "disrespect",
-      "pronunciation": "/ˌdɪs.rɪˈspɛkt/",
+      "word": "encounter",
+      "pronunciation": "/ɪnˈkaʊntər/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "不尊重",
-          "en": "To show a lack of respect for someone or something."
+          "zh": "遇到",
+          "en": "To meet or come across someone or something unexpectedly."
         },
         {
           "pos": "n.",
-          "zh": "不尊重",
-          "en": "A lack of respect for someone or something."
+          "zh": "遭遇",
+          "en": "An unexpected meeting or experience."
         }
       ],
       "examples": [
         {
-          "en": "Disrespecting teachers can lead to serious consequences in school.",
-          "zh": "不尊重老师可能会在学校导致严重后果。"
+          "en": "I had a surprising encounter with an old friend at the market.",
+          "zh": "我在市场上意外遇到了一个老朋友。"
         },
         {
-          "en": "His disrespect for the rules frustrated everyone in the class.",
-          "zh": "他对规则的不尊重让班里的每个人都感到沮丧。"
+          "en": "The hikers encountered a bear while climbing the mountain.",
+          "zh": "登山者在爬山时遇到了一只熊。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'dis' as a prefix that negates respect, like 'disagree' means not agreeing."
+        "association": "Think of 'encounter' as 'in' (inside) + 'counter' (a table or surface), where you meet someone unexpectedly."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disrespect&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=encounter&type=2",
+      "chapter": "基本词汇 动词200 Unit 6"
     }
   ]
 }

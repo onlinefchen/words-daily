@@ -1,67 +1,69 @@
 {
-  "generated": "2025-11-12T22:08:12.361Z",
+  "generated": "2025-11-13T22:08:31.778Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "cyberspace",
-      "pronunciation": "/ˈsaɪ.bɚ.speɪs/",
+      "word": "arrange",
+      "pronunciation": "/əˈreɪndʒ/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "网络空间",
-          "en": "A virtual environment where online activities and interactions occur."
+          "pos": "v.",
+          "zh": "安排，整理",
+          "en": "To put things in a specific order or to organize them."
         },
         {
-          "pos": "n.",
-          "zh": "互联网",
-          "en": "The global network of connected computers and information."
+          "pos": "v.",
+          "zh": "准备，促成",
+          "en": "To make plans for something to happen."
         }
       ],
       "examples": [
         {
-          "en": "Many people spend hours exploring different parts of cyberspace.",
-          "zh": "许多人花几个小时探索网络空间的不同部分。"
+          "en": "I will arrange the meeting for next Tuesday at 10 AM.",
+          "zh": "我会安排下周二上午10点的会议。"
         },
         {
-          "en": "Cyberspace offers endless opportunities for learning and connection.",
-          "zh": "网络空间提供了无尽的学习和联系机会。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cyberspace&type=2",
-      "chapter": "核心词汇 科技发展 Unit 1"
-    },
-    {
-      "word": "absorb",
-      "pronunciation": "/əbˈzɔrb/",
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "吸收",
-          "en": "To take in or soak up a liquid or substance."
-        },
-        {
-          "pos": "v.",
-          "zh": "理解",
-          "en": "To fully understand information or ideas."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Plants absorb water through their roots to survive.",
-          "zh": "植物通过根部吸收水分以生存。"
-        },
-        {
-          "en": "She was able to absorb the complex ideas quickly.",
-          "zh": "她能够快速理解复杂的思想。"
+          "en": "She arranged the flowers beautifully for the wedding.",
+          "zh": "她为婚礼精美地整理了花朵。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a sponge absorbing water to remember the meaning of 'absorb'."
+        "association": "Think of 'arrange' as 'a range of options' you organize."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=absorb&type=2",
-      "chapter": "基本词汇 动词200 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=arrange&type=2",
+      "chapter": "基本词汇 动词200 Unit 2"
+    },
+    {
+      "word": "confront",
+      "pronunciation": "/kənˈfrʌnt/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "面对",
+          "en": "To face someone or something in a challenging way."
+        },
+        {
+          "pos": "v.",
+          "zh": "对抗",
+          "en": "To deal with a difficult situation or person."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She decided to confront her fears during the presentation.",
+          "zh": "她决定在演讲中面对自己的恐惧。"
+        },
+        {
+          "en": "The teacher confronted the student about his missing assignments.",
+          "zh": "老师就学生缺交作业的事与他对峙。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'confront' as 'con-front,' where you are facing someone directly."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=confront&type=2",
+      "chapter": "基本词汇 动词200 Unit 4"
     }
   ]
 }

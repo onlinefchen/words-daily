@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-12T22:08:12.361Z",
+  "generated": "2025-11-13T22:08:31.778Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "abuse",
-      "pronunciation": "/əˈbjuz/",
+      "word": "absorb",
+      "pronunciation": "/əbˈzɔrb/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "滥用；虐待",
-          "en": "To use something in a harmful or wrong way."
+          "zh": "吸收",
+          "en": "To take in or soak up a liquid or substance."
         },
         {
-          "pos": "n.",
-          "zh": "虐待；滥用",
-          "en": "The act of treating someone or something badly."
+          "pos": "v.",
+          "zh": "理解",
+          "en": "To fully understand information or ideas."
         }
       ],
       "examples": [
         {
-          "en": "The organization works to prevent child abuse in our community.",
-          "zh": "该组织致力于防止我们社区的儿童虐待。"
+          "en": "Plants absorb water through their roots to survive.",
+          "zh": "植物通过根部吸收水分以生存。"
         },
         {
-          "en": "Many people suffer from substance abuse due to addiction.",
-          "zh": "许多人因成瘾而遭受药物滥用。"
+          "en": "She was able to absorb the complex ideas quickly.",
+          "zh": "她能够快速理解复杂的思想。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'abuse' comes from the Latin 'abusus', meaning 'to use wrongly'."
+        "association": "Think of a sponge absorbing water to remember the meaning of 'absorb'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=abuse&type=2",
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=absorb&type=2",
       "chapter": "基本词汇 动词200 Unit 1"
     },
     {
-      "word": "guarantee",
-      "pronunciation": "/ˌɡærənˈti/",
+      "word": "demand",
+      "pronunciation": "/dɪˈmænd/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "保证",
-          "en": "To promise that something will happen or be done."
+          "zh": "要求",
+          "en": "To ask for something very strongly."
         },
         {
           "pos": "n.",
-          "zh": "保证",
-          "en": "A formal assurance that certain conditions will be fulfilled."
+          "zh": "需求",
+          "en": "The need or desire for something."
         }
       ],
       "examples": [
         {
-          "en": "The company guarantees that the product will last for five years.",
-          "zh": "公司保证该产品将使用五年。"
+          "en": "The teacher will demand better performance from her students.",
+          "zh": "老师会要求她的学生表现得更好。"
         },
         {
-          "en": "She received a guarantee for her new car's warranty.",
-          "zh": "她收到了新车质保的保证。"
+          "en": "There is a high demand for skilled workers in this industry.",
+          "zh": "这个行业对技术工人的需求很高。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'guarantee' as a 'guard' that ensures something will happen."
+        "association": "Think of 'demand' as 'demanding' something, which requires strong insistence."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=guarantee&type=2",
-      "chapter": "基本词汇 动词200 Unit 7"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=demand&type=2",
+      "chapter": "基本词汇 动词200 Unit 5"
     }
   ]
 }
