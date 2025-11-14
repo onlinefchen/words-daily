@@ -1,70 +1,64 @@
 {
-  "generated": "2025-11-13T22:08:31.779Z",
+  "generated": "2025-11-14T22:07:51.080Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "amputation",
-      "pronunciation": "/æmˈpjuːteɪʃən/",
+      "word": "restriction",
+      "pronunciation": "/rɪˈstrɪkʃən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "截肢",
-          "en": "The act of removing a limb or part of the body."
+          "zh": "限制",
+          "en": "A rule or condition that limits what can be done."
         },
         {
           "pos": "n.",
-          "zh": "切除",
-          "en": "The surgical removal of a body part due to injury or disease."
+          "zh": "约束",
+          "en": "The act of limiting or controlling something."
         }
       ],
       "examples": [
         {
-          "en": "The patient faced amputation after the severe accident.",
-          "zh": "在严重事故后，患者面临截肢。"
+          "en": "The government has put a restriction on air pollution levels.",
+          "zh": "政府对空气污染水平施加了限制。"
         },
         {
-          "en": "Amputation may be necessary to save the person's life.",
-          "zh": "截肢可能是拯救这个人生命的必要措施。"
+          "en": "There are restrictions on how much money you can withdraw.",
+          "zh": "关于你可以提取的金额有一些限制。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'amputation' comes from the Latin 'amputare', meaning 'to cut off'."
+        "etymology": "The word 'restriction' comes from the Latin 'restrictio', meaning 'a drawing back'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=amputation&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=restriction&type=2",
+      "chapter": "基本词汇 名词200 Unit 7"
     },
     {
-      "word": "oceanographic",
-      "pronunciation": "/ˌoʊʃəˈnɒɡrəfɪk/",
+      "word": "gaseous pollutant",
+      "pronunciation": "/ˈɡæs.i.əs pəˈluː.tənt/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "海洋学的",
-          "en": "Related to the study of the ocean and its features."
-        },
-        {
-          "pos": "adj.",
-          "zh": "海洋测量的",
-          "en": "Concerning the measurement and analysis of ocean properties."
+          "pos": "n.",
+          "zh": "气体污染物",
+          "en": "A substance in the air that can harm health or the environment."
         }
       ],
       "examples": [
         {
-          "en": "Oceanographic research helps us understand climate change impacts.",
-          "zh": "海洋学研究帮助我们理解气候变化的影响。"
+          "en": "Factories often release gaseous pollutants into the atmosphere.",
+          "zh": "工厂经常向大气释放气体污染物。"
         },
         {
-          "en": "The oceanographic survey revealed new species in deep waters.",
-          "zh": "海洋调查揭示了深水区的新物种。"
+          "en": "Gaseous pollutants can cause severe respiratory issues for humans.",
+          "zh": "气体污染物可能对人类造成严重的呼吸问题。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word comes from 'ocean' and 'graphic', meaning writing or describing the ocean.",
-        "association": "Think of 'ocean' and 'graphic' as mapping or describing the ocean's features."
+        "association": "Think of 'gaseous' as something floating in the air, like a gas balloon, which helps remember that it is air pollution."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=oceanographic&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=gaseous%20pollutant&type=2",
+      "chapter": "认知词汇 健康分类 室内空气综合征"
     }
   ]
 }

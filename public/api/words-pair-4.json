@@ -1,69 +1,64 @@
 {
-  "generated": "2025-11-13T22:08:31.778Z",
+  "generated": "2025-11-14T22:07:51.080Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "offensive",
-      "pronunciation": "/əˈfɛn.sɪv/",
+      "word": "microbiological contaminant",
+      "pronunciation": "/ˌmaɪkroʊbaɪˈɑːlədʒɪkəl ˌkənˈtæmɪnənt/",
       "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "冒犯的",
-          "en": "Causing hurt feelings or displeasure."
-        },
         {
           "pos": "n.",
-          "zh": "进攻",
-          "en": "A military action intended to take the offensive position."
+          "zh": "微生物污染物",
+          "en": "A substance that can cause contamination by microorganisms."
         }
       ],
       "examples": [
         {
-          "en": "His offensive comments made many people feel uncomfortable.",
-          "zh": "他冒犯的评论让许多人感到不舒服。"
+          "en": "Microbiological contaminants can harm food safety and human health.",
+          "zh": "微生物污染物可能危害食品安全和人类健康。"
         },
         {
-          "en": "The team launched an offensive to capture the enemy territory.",
-          "zh": "该队发起进攻以占领敌方领土。"
+          "en": "Testing for microbiological contaminants is essential in water quality assessment.",
+          "zh": "检测水质中的微生物污染物在水质评估中至关重要。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'offensive' as 'offend' + 'sive', which can help you remember its meaning related to causing offense."
+        "association": "Think of 'micro' as small and 'biological' as related to life, linking the idea of tiny living organisms causing contamination."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=offensive&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 13"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=microbiological%20contaminant&type=2",
+      "chapter": "认知词汇 健康分类 室内空气综合征"
     },
     {
-      "word": "invisible",
-      "pronunciation": "/ɪnˈvɪz.ə.bəl/",
+      "word": "reimburse",
+      "pronunciation": "/riːɪmˈbɜːrs/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "看不见的",
-          "en": "Not able to be seen; not visible."
+          "pos": "v.",
+          "zh": "偿还",
+          "en": "To pay back money that someone has spent."
         },
         {
-          "pos": "adj.",
-          "zh": "无形的",
-          "en": "Existing but not apparent; hidden from view."
+          "pos": "v.",
+          "zh": "报销",
+          "en": "To refund expenses that someone has incurred."
         }
       ],
       "examples": [
         {
-          "en": "The stars are invisible during the day due to sunlight.",
-          "zh": "白天由于阳光，星星是看不见的。"
+          "en": "The company will reimburse you for your travel expenses.",
+          "zh": "公司将报销你的差旅费用。"
         },
         {
-          "en": "Many emotions are invisible but can be deeply felt.",
-          "zh": "许多情感是无形的，但能被深刻感受到。"
+          "en": "Please keep your receipts to receive reimbursement later.",
+          "zh": "请保留你的收据以便日后报销。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'in' as 'not' and 'visible' as 'able to be seen', so invisible means not able to be seen."
+        "association": "Think of 'reimburse' as 're' (again) + 'imburse' (to put money into your purse)."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=invisible&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 11"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=reimburse&type=2",
+      "chapter": "认知词汇 历史分类 钱币发展史"
     }
   ]
 }

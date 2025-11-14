@@ -1,69 +1,70 @@
 {
-  "generated": "2025-11-13T22:08:31.778Z",
+  "generated": "2025-11-14T22:07:51.080Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "intolerable",
-      "pronunciation": "/ɪnˈtɒlərəbl/",
+      "word": "shrewd",
+      "pronunciation": "/ʃruːd/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "不可忍受的",
-          "en": "Something that is very difficult to accept or endure."
+          "zh": "精明的",
+          "en": "Having the ability to make good judgments and decisions."
         },
         {
           "pos": "adj.",
-          "zh": "无法容忍的",
-          "en": "A situation that causes great discomfort or annoyance."
+          "zh": "狡猾的",
+          "en": "Showing cleverness in a way that is often deceitful."
         }
       ],
       "examples": [
         {
-          "en": "The heat during summer can sometimes be intolerable for many people.",
-          "zh": "夏天的热量对很多人来说有时是无法忍受的。"
+          "en": "She made a shrewd investment that doubled her money in a year.",
+          "zh": "她做了一个精明的投资，资金在一年内翻了一番。"
         },
         {
-          "en": "Living in an intolerable environment affects mental health significantly.",
-          "zh": "生活在一个不可忍受的环境中会严重影响心理健康。"
+          "en": "His shrewd comments always reveal his deep understanding of people.",
+          "zh": "他精明的评论总能显示他对人性的深刻理解。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'tolerate' as being able to accept something. The prefix 'in-' means not, so 'intolerable' is something you cannot tolerate."
+        "association": "Think of 'shrew' as a small, clever animal. A shrewd person is similarly clever."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=intolerable&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 11"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=shrewd&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 17"
     },
     {
-      "word": "encounter",
-      "pronunciation": "/ɪnˈkaʊntər/",
+      "word": "stump",
+      "pronunciation": "/stʌmp/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "遇到",
-          "en": "To meet or come across someone or something unexpectedly."
+          "pos": "n.",
+          "zh": "树桩",
+          "en": "The base of a tree left after it has been cut down."
         },
         {
-          "pos": "n.",
-          "zh": "遭遇",
-          "en": "An unexpected meeting or experience."
+          "pos": "v.",
+          "zh": "阻碍，困扰",
+          "en": "To confuse or perplex someone, making them unable to act."
         }
       ],
       "examples": [
         {
-          "en": "I had a surprising encounter with an old friend at the market.",
-          "zh": "我在市场上意外遇到了一个老朋友。"
+          "en": "The children played around the old tree stump in the park.",
+          "zh": "孩子们在公园的老树桩旁玩耍。"
         },
         {
-          "en": "The hikers encountered a bear while climbing the mountain.",
-          "zh": "登山者在爬山时遇到了一只熊。"
+          "en": "The tricky question stumped all the students during the exam.",
+          "zh": "这个棘手的问题让所有学生在考试中感到困惑。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'encounter' as 'in' (inside) + 'counter' (a table or surface), where you meet someone unexpectedly."
+        "association": "Think of a 'stump' as a 'stop' for trees, where they can no longer grow.",
+        "mnemonic": "Stump sounds like 'thump'—imagine a tree thumping down to create a stump."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=encounter&type=2",
-      "chapter": "基本词汇 动词200 Unit 6"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=stump&type=2",
+      "chapter": "认知词汇 环境分类 欧洲森林保护"
     }
   ]
 }

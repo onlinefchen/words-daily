@@ -1,69 +1,64 @@
 {
-  "generated": "2025-11-13T22:08:31.778Z",
+  "generated": "2025-11-14T22:07:51.080Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "absorb",
-      "pronunciation": "/əbˈzɔrb/",
+      "word": "population",
+      "pronunciation": "/ˌpɒp.jʊˈleɪ.ʃən/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "吸收",
-          "en": "To take in or soak up a liquid or substance."
-        },
-        {
-          "pos": "v.",
-          "zh": "理解",
-          "en": "To fully understand information or ideas."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Plants absorb water through their roots to survive.",
-          "zh": "植物通过根部吸收水分以生存。"
-        },
-        {
-          "en": "She was able to absorb the complex ideas quickly.",
-          "zh": "她能够快速理解复杂的思想。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of a sponge absorbing water to remember the meaning of 'absorb'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=absorb&type=2",
-      "chapter": "基本词汇 动词200 Unit 1"
-    },
-    {
-      "word": "demand",
-      "pronunciation": "/dɪˈmænd/",
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "要求",
-          "en": "To ask for something very strongly."
+          "pos": "n.",
+          "zh": "人口",
+          "en": "The total number of people living in a specific area."
         },
         {
           "pos": "n.",
-          "zh": "需求",
-          "en": "The need or desire for something."
+          "zh": "群体",
+          "en": "A group of individuals sharing common characteristics."
         }
       ],
       "examples": [
         {
-          "en": "The teacher will demand better performance from her students.",
-          "zh": "老师会要求她的学生表现得更好。"
+          "en": "The population of the city has increased significantly over the years.",
+          "zh": "这个城市的人口在这些年里显著增加。"
         },
         {
-          "en": "There is a high demand for skilled workers in this industry.",
-          "zh": "这个行业对技术工人的需求很高。"
+          "en": "The research focuses on the population's health and well-being.",
+          "zh": "这项研究集中于人群的健康和幸福。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'demand' as 'demanding' something, which requires strong insistence."
+        "etymology": "The word 'population' comes from the Latin 'populatio', meaning 'a people' or 'a crowd'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=demand&type=2",
-      "chapter": "基本词汇 动词200 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=population&type=2",
+      "chapter": "基本词汇 名词200 Unit 6"
+    },
+    {
+      "word": "sedentary lifestyle",
+      "pronunciation": "/ˈsɛd.ən.tər.i laɪfˌstaɪl/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "久坐的生活方式",
+          "en": "A way of living that involves little physical activity."
+        }
+      ],
+      "examples": [
+        {
+          "en": "A sedentary lifestyle can lead to various health issues.",
+          "zh": "久坐的生活方式可能导致各种健康问题。"
+        },
+        {
+          "en": "Many people have adopted a sedentary lifestyle due to remote work.",
+          "zh": "由于远程工作，许多人已采取了久坐的生活方式。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'sedentary' as 'sitting down' related to 'sentary', which sounds like 'sit'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sedentary%20lifestyle&type=2",
+      "chapter": "认知词汇 健康分类 运动与青少年健康"
     }
   ]
 }

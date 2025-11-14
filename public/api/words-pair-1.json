@@ -1,69 +1,67 @@
 {
-  "generated": "2025-11-13T22:08:31.777Z",
+  "generated": "2025-11-14T22:07:51.079Z",
   "pair": 1,
   "count": 2,
   "words": [
     {
-      "word": "condensation",
-      "pronunciation": "/ˌkɒn.dənˈseɪ.ʃən/",
+      "word": "self-conscious",
+      "pronunciation": "/ˌsɛlfˈkɒnʃəs/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "凝结",
-          "en": "The process of water vapor turning into liquid."
+          "pos": "adj.",
+          "zh": "自觉的，害羞的",
+          "en": "Feeling awkward or embarrassed about oneself."
         },
         {
-          "pos": "n.",
-          "zh": "浓缩",
-          "en": "The act of making something shorter or more concentrated."
+          "pos": "adj.",
+          "zh": "自我意识强的",
+          "en": "Being very aware of how others see you."
         }
       ],
       "examples": [
         {
-          "en": "Condensation forms on the outside of a cold glass of water.",
-          "zh": "冷水杯外侧会形成凝结水珠。"
+          "en": "She felt self-conscious wearing a new dress at the party.",
+          "zh": "她在派对上穿新裙子时感到很自觉。"
         },
         {
-          "en": "The condensation of the report helped to highlight key points.",
-          "zh": "报告的浓缩有助于突出关键要点。"
+          "en": "Many teenagers are often self-conscious about their appearance.",
+          "zh": "许多青少年常常对自己的外貌感到自觉。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'condensation' as 'con-dense', meaning to make something denser or more concentrated."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=condensation&type=2",
-      "chapter": "认知词汇 科技分类 染料与颜料"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=self-conscious&type=2",
+      "chapter": "阅读真题认知词汇 男女共校"
     },
     {
-      "word": "edify",
-      "pronunciation": "/ˈɛdɪfaɪ/",
+      "word": "pest harm",
+      "pronunciation": "/pɛst hɑrm/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "启发，教诲",
-          "en": "To instruct or improve someone morally or intellectually."
+          "pos": "n.",
+          "zh": "害虫",
+          "en": "A pest is an insect or animal that harms crops, plants, or animals."
         },
         {
           "pos": "v.",
-          "zh": "使懂得",
-          "en": "To educate or enlighten a person."
+          "zh": "伤害",
+          "en": "To harm means to cause damage or injury to someone or something."
         }
       ],
       "examples": [
         {
-          "en": "Reading classic literature can edify young minds and broaden their perspectives.",
-          "zh": "阅读经典文学可以启发年轻人的思维，拓宽他们的视野。"
+          "en": "Farmers often struggle to control pests that damage their crops.",
+          "zh": "农民常常难以控制伤害他们作物的害虫。"
         },
         {
-          "en": "The documentary aimed to edify viewers about the importance of environmental conservation.",
-          "zh": "这部纪录片旨在使观众了解环境保护的重要性。"
+          "en": "Pollution can harm wildlife and disrupt the ecosystem.",
+          "zh": "污染可以伤害野生动物并扰乱生态系统。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'edify' comes from the Latin 'aedificare,' which means 'to build.' This reflects the idea of building knowledge or character."
+        "association": "Think of 'pest' as a 'pestering' insect that bothers plants."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=edify&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pest%20harm&type=2",
+      "chapter": "认知词汇 环境分类 病虫害防治"
     }
   ]
 }

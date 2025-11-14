@@ -1,69 +1,62 @@
 {
-  "generated": "2025-11-13T22:08:31.778Z",
+  "generated": "2025-11-14T22:07:51.080Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "arrange",
-      "pronunciation": "/əˈreɪndʒ/",
+      "word": "indoor air pollutant",
+      "pronunciation": "/ˈɪn.dɔːr eər pəˈluː.tənt/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "安排，整理",
-          "en": "To put things in a specific order or to organize them."
-        },
-        {
-          "pos": "v.",
-          "zh": "准备，促成",
-          "en": "To make plans for something to happen."
+          "pos": "n.",
+          "zh": "室内空气污染物",
+          "en": "Substances in the air inside buildings that can harm health."
         }
       ],
       "examples": [
         {
-          "en": "I will arrange the meeting for next Tuesday at 10 AM.",
-          "zh": "我会安排下周二上午10点的会议。"
+          "en": "Indoor air pollutants can cause serious health issues over time.",
+          "zh": "室内空气污染物长期可能导致严重的健康问题。"
         },
         {
-          "en": "She arranged the flowers beautifully for the wedding.",
-          "zh": "她为婚礼精美地整理了花朵。"
+          "en": "Proper ventilation reduces indoor air pollutants significantly.",
+          "zh": "良好的通风显著减少室内空气污染物。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'arrange' as 'a range of options' you organize."
+        "association": "Think of 'indoor' as inside a house where air pollutants can gather."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=arrange&type=2",
-      "chapter": "基本词汇 动词200 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=indoor%20air%20pollutant&type=2",
+      "chapter": "认知词汇 健康分类 室内空气综合征"
     },
     {
-      "word": "confront",
-      "pronunciation": "/kənˈfrʌnt/",
+      "word": "microbiological life",
+      "pronunciation": "/ˌmaɪkroʊbaɪˈɑːlədʒɪkəl laɪf/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "面对",
-          "en": "To face someone or something in a challenging way."
+          "pos": "n.",
+          "zh": "微生物生命",
+          "en": "The existence and activities of microscopic organisms."
         },
         {
-          "pos": "v.",
-          "zh": "对抗",
-          "en": "To deal with a difficult situation or person."
+          "pos": "n.",
+          "zh": "微生物生态",
+          "en": "The study of living microorganisms and their environments."
         }
       ],
       "examples": [
         {
-          "en": "She decided to confront her fears during the presentation.",
-          "zh": "她决定在演讲中面对自己的恐惧。"
+          "en": "Microbiological life plays a crucial role in soil health.",
+          "zh": "微生物生命在土壤健康中扮演着重要角色。"
         },
         {
-          "en": "The teacher confronted the student about his missing assignments.",
-          "zh": "老师就学生缺交作业的事与他对峙。"
+          "en": "Understanding microbiological life can improve agricultural practices.",
+          "zh": "了解微生物生命可以改善农业实践。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'confront' as 'con-front,' where you are facing someone directly."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=confront&type=2",
-      "chapter": "基本词汇 动词200 Unit 4"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=microbiological%20life&type=2",
+      "chapter": "认知词汇 科技分类 探索太空生物"
     }
   ]
 }

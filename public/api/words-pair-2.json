@@ -1,69 +1,67 @@
 {
-  "generated": "2025-11-13T22:08:31.778Z",
+  "generated": "2025-11-14T22:07:51.080Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "defy",
-      "pronunciation": "/dɪˈfaɪ/",
+      "word": "yin yang principle",
+      "pronunciation": "/jɪn jæŋ/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "反抗，违抗",
-          "en": "To refuse to obey someone or something."
+          "pos": "n.",
+          "zh": "阴阳原则",
+          "en": "A principle in Chinese philosophy that describes how opposite forces are interconnected."
         },
         {
-          "pos": "v.",
-          "zh": "挑战",
-          "en": "To challenge someone to do something; to confront."
+          "pos": "n.",
+          "zh": "平衡的概念",
+          "en": "The idea that balance is achieved through the interaction of opposites."
         }
       ],
       "examples": [
         {
-          "en": "She decided to defy the rules and speak her mind.",
-          "zh": "她决定违抗规则，直言不讳。"
+          "en": "The yin yang principle teaches us to find balance in our lives.",
+          "zh": "阴阳原则教我们在生活中寻找平衡。"
         },
         {
-          "en": "The athlete chose to defy expectations and win the race.",
-          "zh": "这位运动员选择挑战预期并赢得了比赛。"
+          "en": "In nature, the yin yang principle shows how opposites coexist harmoniously.",
+          "zh": "在自然界中，阴阳原则展示了对立面如何和谐共存。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'defy' as 'defending your right' to do something against opposition."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=defy&type=2",
-      "chapter": "基本词汇 动词200 Unit 5"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=yin%20yang%20principle&type=2",
+      "chapter": "认知词汇 健康分类 澳大利亚医疗研究"
     },
     {
-      "word": "Geophysical Observatory",
-      "pronunciation": "/ˌdʒiːəˈfɪzɪkəl əbˈzɜːrvətɔːri/",
+      "word": "granary",
+      "pronunciation": "/ˈɡræn.ər.i/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "地球物理观测站",
-          "en": "A place where scientists study and monitor Earth's physical properties."
+          "zh": "粮仓",
+          "en": "A building where grain is stored."
         },
         {
           "pos": "n.",
-          "zh": "地球物理观测",
-          "en": "The act of observing and measuring physical aspects of the Earth."
+          "zh": "谷仓",
+          "en": "A place used for storing harvested crops."
         }
       ],
       "examples": [
         {
-          "en": "The geophysical observatory collects data on seismic activity.",
-          "zh": "地球物理观测站收集关于地震活动的数据。"
+          "en": "Farmers often store their harvest in a granary for future use.",
+          "zh": "农民们通常将他们的收成存放在粮仓中以备将来使用。"
         },
         {
-          "en": "Researchers at the geophysical observatory analyze climate change effects.",
-          "zh": "地球物理观测站的研究人员分析气候变化的影响。"
+          "en": "The old granary is now a museum dedicated to agricultural history.",
+          "zh": "这座古老的粮仓现在是一个致力于农业历史的博物馆。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'geophysical observatory' as a 'watchtower' for Earth, observing its physical signs."
+        "association": "Think of 'granary' as a 'grain' storage place, where grains are kept safe."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=Geophysical%20Observatory&type=2",
-      "chapter": "认知词汇 自然分类 地震"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=granary&type=2",
+      "chapter": "认知词汇 历史分类 钱币发展史"
     }
   ]
 }
