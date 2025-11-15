@@ -1,64 +1,69 @@
 {
-  "generated": "2025-11-14T22:07:51.080Z",
+  "generated": "2025-11-15T22:06:24.744Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "population",
-      "pronunciation": "/ˌpɒp.jʊˈleɪ.ʃən/",
+      "word": "aquatic environment",
+      "pronunciation": "/əˈkwætɪk ɪnˈvaɪrənmənt/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "人口",
-          "en": "The total number of people living in a specific area."
+          "zh": "水生环境",
+          "en": "A natural setting where water is the main element."
         },
         {
           "pos": "n.",
-          "zh": "群体",
-          "en": "A group of individuals sharing common characteristics."
+          "zh": "水域",
+          "en": "Any area that is covered by water, including oceans, rivers, and lakes."
         }
       ],
       "examples": [
         {
-          "en": "The population of the city has increased significantly over the years.",
-          "zh": "这个城市的人口在这些年里显著增加。"
+          "en": "The aquatic environment is home to many unique species of fish.",
+          "zh": "水生环境是许多独特鱼类的栖息地。"
         },
         {
-          "en": "The research focuses on the population's health and well-being.",
-          "zh": "这项研究集中于人群的健康和幸福。"
+          "en": "Pollution can seriously harm the aquatic environment and its inhabitants.",
+          "zh": "污染会严重危害水生环境及其生物。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'population' comes from the Latin 'populatio', meaning 'a people' or 'a crowd'."
+        "association": "Think of 'aqua,' which relates to water, combined with 'environment' to remember it's a water-based ecosystem."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=population&type=2",
-      "chapter": "基本词汇 名词200 Unit 6"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aquatic%20environment&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "sedentary lifestyle",
-      "pronunciation": "/ˈsɛd.ən.tər.i laɪfˌstaɪl/",
+      "word": "inviolable",
+      "pronunciation": "/ɪnˈvaɪ.lə.bəl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "久坐的生活方式",
-          "en": "A way of living that involves little physical activity."
+          "pos": "adj.",
+          "zh": "不可侵犯的",
+          "en": "Something that cannot be violated or harmed."
+        },
+        {
+          "pos": "adj.",
+          "zh": "神圣的",
+          "en": "Something that is sacred and must be respected."
         }
       ],
       "examples": [
         {
-          "en": "A sedentary lifestyle can lead to various health issues.",
-          "zh": "久坐的生活方式可能导致各种健康问题。"
+          "en": "The constitution guarantees certain inviolable rights for all citizens.",
+          "zh": "宪法保障所有公民享有某些不可侵犯的权利。"
         },
         {
-          "en": "Many people have adopted a sedentary lifestyle due to remote work.",
-          "zh": "由于远程工作，许多人已采取了久坐的生活方式。"
+          "en": "Freedom of speech is considered an inviolable principle in democratic societies.",
+          "zh": "言论自由被视为民主社会中的一个不可侵犯的原则。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'sedentary' as 'sitting down' related to 'sentary', which sounds like 'sit'."
+        "etymology": "The word 'inviolable' comes from Latin 'inviolabilis', meaning 'not to be violated'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sedentary%20lifestyle&type=2",
-      "chapter": "认知词汇 健康分类 运动与青少年健康"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=inviolable&type=2",
+      "chapter": "核心词汇 民主与权利 Unit 3"
     }
   ]
 }

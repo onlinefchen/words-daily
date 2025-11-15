@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-14T22:07:51.080Z",
+  "generated": "2025-11-15T22:06:24.744Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "inequality",
-      "pronunciation": "/ˌɪn.ɪˈkwɑː.lɪ.ti/",
+      "word": "overcome",
+      "pronunciation": "/ˌoʊ.vərˈkʌm/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "不平等",
-          "en": "The state of not being equal, especially in status, rights, or opportunities."
+          "pos": "v.",
+          "zh": "克服",
+          "en": "To succeed in dealing with a problem or difficulty."
         },
         {
-          "pos": "n.",
-          "zh": "差距",
-          "en": "A difference in size, degree, or circumstances, often leading to unfair situations."
+          "pos": "v.",
+          "zh": "超越",
+          "en": "To gain control over something or someone."
         }
       ],
       "examples": [
         {
-          "en": "Economic inequality can lead to social unrest and conflict.",
-          "zh": "经济不平等可能导致社会动荡和冲突。"
+          "en": "She managed to overcome her fear of public speaking.",
+          "zh": "她成功克服了对公众演讲的恐惧。"
         },
         {
-          "en": "Many activists are fighting against gender inequality in the workplace.",
-          "zh": "许多活动家在为工作场所的性别不平等而斗争。"
+          "en": "He worked hard to overcome the challenges in his life.",
+          "zh": "他努力克服生活中的挑战。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'inequality' comes from the prefix 'in-' meaning 'not' and 'equality' which means 'the state of being equal.'"
+        "association": "Think of 'over' as going beyond and 'come' as arriving. You go beyond difficulties to arrive at success."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=inequality&type=2",
-      "chapter": "核心词汇 民主与权利 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=overcome&type=2",
+      "chapter": "核心词汇 民主与权利 Unit 4"
     },
     {
-      "word": "available",
-      "pronunciation": "/əˈveɪləbl/",
+      "word": "mutual",
+      "pronunciation": "/ˈmjuːtʃuəl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "可用的",
-          "en": "Something that can be used or accessed."
+          "zh": "相互的",
+          "en": "Shared by two or more parties, often referring to feelings or actions."
         },
         {
           "pos": "adj.",
-          "zh": "可得到的",
-          "en": "Something that is free to be taken or is not busy."
+          "zh": "共同的",
+          "en": "Relating to something that is common between two or more people."
         }
       ],
       "examples": [
         {
-          "en": "The resources are available for all students wishing to learn.",
-          "zh": "这些资源对所有希望学习的学生都是可用的。"
+          "en": "They have a mutual respect for each other's opinions and ideas.",
+          "zh": "他们对彼此的观点和想法有相互尊重。"
         },
         {
-          "en": "She is available to discuss the project anytime this week.",
-          "zh": "她本周任何时候都可以讨论这个项目。"
+          "en": "The two countries established mutual agreements to enhance trade.",
+          "zh": "这两个国家建立了共同协议以促进贸易。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'available' as 'a table' where something can be placed or accessed."
+        "association": "Think of 'mutual' as 'mutually shared', like two friends sharing a secret."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=available&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=mutual&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 12"
     }
   ]
 }

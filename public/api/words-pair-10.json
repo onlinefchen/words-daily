@@ -1,64 +1,69 @@
 {
-  "generated": "2025-11-14T22:07:51.080Z",
+  "generated": "2025-11-15T22:06:24.744Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "restriction",
-      "pronunciation": "/rɪˈstrɪkʃən/",
+      "word": "compatible",
+      "pronunciation": "/kəmˈpætɪbəl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "限制",
-          "en": "A rule or condition that limits what can be done."
+          "pos": "adj.",
+          "zh": "兼容的",
+          "en": "Able to exist or work together without conflict."
         },
         {
-          "pos": "n.",
-          "zh": "约束",
-          "en": "The act of limiting or controlling something."
+          "pos": "adj.",
+          "zh": "一致的",
+          "en": "Suitable or appropriate for a particular purpose or situation."
         }
       ],
       "examples": [
         {
-          "en": "The government has put a restriction on air pollution levels.",
-          "zh": "政府对空气污染水平施加了限制。"
+          "en": "The new software is compatible with older versions of the program.",
+          "zh": "新软件与旧版本的程序兼容。"
         },
         {
-          "en": "There are restrictions on how much money you can withdraw.",
-          "zh": "关于你可以提取的金额有一些限制。"
+          "en": "They found a compatible partner for their project.",
+          "zh": "他们为他们的项目找到了一个合适的合作伙伴。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'restriction' comes from the Latin 'restrictio', meaning 'a drawing back'."
+        "association": "Think of 'compatible' as 'com-patible', like two items that can 'pat' each other gently without hurting."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=restriction&type=2",
-      "chapter": "基本词汇 名词200 Unit 7"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compatible&type=2",
+      "chapter": "核心词汇 文化与传统 Unit 2"
     },
     {
-      "word": "gaseous pollutant",
-      "pronunciation": "/ˈɡæs.i.əs pəˈluː.tənt/",
+      "word": "illiteracy",
+      "pronunciation": "/ɪˈlɪtəruˌsi/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "气体污染物",
-          "en": "A substance in the air that can harm health or the environment."
+          "zh": "文盲",
+          "en": "The inability to read and write."
+        },
+        {
+          "pos": "n.",
+          "zh": "缺乏某种知识或技能",
+          "en": "A lack of knowledge in a specific area."
         }
       ],
       "examples": [
         {
-          "en": "Factories often release gaseous pollutants into the atmosphere.",
-          "zh": "工厂经常向大气释放气体污染物。"
+          "en": "Illiteracy remains a major challenge in many developing countries.",
+          "zh": "文盲仍然是许多发展中国家的主要挑战。"
         },
         {
-          "en": "Gaseous pollutants can cause severe respiratory issues for humans.",
-          "zh": "气体污染物可能对人类造成严重的呼吸问题。"
+          "en": "Efforts to reduce illiteracy are essential for societal progress.",
+          "zh": "减少文盲的努力对社会进步至关重要。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'gaseous' as something floating in the air, like a gas balloon, which helps remember that it is air pollution."
+        "association": "Think of 'illiteracy' as 'ill' (sick) at 'literacy' (reading skills), meaning a lack of reading ability."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=gaseous%20pollutant&type=2",
-      "chapter": "认知词汇 健康分类 室内空气综合征"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=illiteracy&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 5"
     }
   ]
 }

@@ -1,70 +1,69 @@
 {
-  "generated": "2025-11-14T22:07:51.080Z",
+  "generated": "2025-11-15T22:06:24.744Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "shrewd",
-      "pronunciation": "/ʃruːd/",
+      "word": "moral",
+      "pronunciation": "/ˈmɔːrəl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "精明的",
-          "en": "Having the ability to make good judgments and decisions."
+          "zh": "道德的",
+          "en": "Related to principles of right and wrong behavior."
         },
         {
-          "pos": "adj.",
-          "zh": "狡猾的",
-          "en": "Showing cleverness in a way that is often deceitful."
+          "pos": "n.",
+          "zh": "道德",
+          "en": "A lesson about what is right or wrong."
         }
       ],
       "examples": [
         {
-          "en": "She made a shrewd investment that doubled her money in a year.",
-          "zh": "她做了一个精明的投资，资金在一年内翻了一番。"
+          "en": "He struggled with the moral implications of his decision.",
+          "zh": "他为自己决定的道德影响而苦恼。"
         },
         {
-          "en": "His shrewd comments always reveal his deep understanding of people.",
-          "zh": "他精明的评论总能显示他对人性的深刻理解。"
+          "en": "The story has a strong moral that teaches us kindness.",
+          "zh": "这个故事有一个强烈的道德，教会我们善良。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'shrew' as a small, clever animal. A shrewd person is similarly clever."
+        "association": "Think of 'moral' as related to 'morality', which involves how we judge right and wrong."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=shrewd&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 17"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=moral&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 12"
     },
     {
-      "word": "stump",
-      "pronunciation": "/stʌmp/",
+      "word": "withdraw",
+      "pronunciation": "/wɪðˈdrɔ/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "树桩",
-          "en": "The base of a tree left after it has been cut down."
+          "pos": "v.",
+          "zh": "撤回，取回",
+          "en": "To take back or remove something that was given or said."
         },
         {
           "pos": "v.",
-          "zh": "阻碍，困扰",
-          "en": "To confuse or perplex someone, making them unable to act."
+          "zh": "撤退，退出",
+          "en": "To leave a place or situation, often for safety or strategy."
         }
       ],
       "examples": [
         {
-          "en": "The children played around the old tree stump in the park.",
-          "zh": "孩子们在公园的老树桩旁玩耍。"
+          "en": "She decided to withdraw her application after the interview.",
+          "zh": "面试后，她决定撤回她的申请。"
         },
         {
-          "en": "The tricky question stumped all the students during the exam.",
-          "zh": "这个棘手的问题让所有学生在考试中感到困惑。"
+          "en": "The army had to withdraw from the battlefield to regroup.",
+          "zh": "军队不得不从战场撤退以重新集结。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'stump' as a 'stop' for trees, where they can no longer grow.",
-        "mnemonic": "Stump sounds like 'thump'—imagine a tree thumping down to create a stump."
+        "association": "Think of 'withdraw' as 'with-draw', like drawing back from something."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=stump&type=2",
-      "chapter": "认知词汇 环境分类 欧洲森林保护"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=withdraw&type=2",
+      "chapter": "基本词汇 动词200 Unit 10"
     }
   ]
 }

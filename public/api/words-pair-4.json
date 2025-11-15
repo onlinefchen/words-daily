@@ -1,64 +1,69 @@
 {
-  "generated": "2025-11-14T22:07:51.080Z",
+  "generated": "2025-11-15T22:06:24.744Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "microbiological contaminant",
-      "pronunciation": "/ˌmaɪkroʊbaɪˈɑːlədʒɪkəl ˌkənˈtæmɪnənt/",
+      "word": "otter",
+      "pronunciation": "/ˈɑːtər/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "微生物污染物",
-          "en": "A substance that can cause contamination by microorganisms."
+          "zh": "水獺",
+          "en": "A playful aquatic mammal with a long body and webbed feet."
+        },
+        {
+          "pos": "n.",
+          "zh": "海獺",
+          "en": "A marine animal known for its intelligence and use of tools."
         }
       ],
       "examples": [
         {
-          "en": "Microbiological contaminants can harm food safety and human health.",
-          "zh": "微生物污染物可能危害食品安全和人类健康。"
+          "en": "The otter swam gracefully through the clear water of the river.",
+          "zh": "水獺在清澈的河水中優雅地游泳。"
         },
         {
-          "en": "Testing for microbiological contaminants is essential in water quality assessment.",
-          "zh": "检测水质中的微生物污染物在水质评估中至关重要。"
+          "en": "Many people enjoy watching otters play at the zoo.",
+          "zh": "許多人喜歡在動物園裡觀賞水獺玩耍。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'micro' as small and 'biological' as related to life, linking the idea of tiny living organisms causing contamination."
+        "association": "Think of 'otter' as 'water' because otters are always found in water."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=microbiological%20contaminant&type=2",
-      "chapter": "认知词汇 健康分类 室内空气综合征"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=otter&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "reimburse",
-      "pronunciation": "/riːɪmˈbɜːrs/",
+      "word": "blue whale",
+      "pronunciation": "/bluː weɪl/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "偿还",
-          "en": "To pay back money that someone has spent."
+          "pos": "n.",
+          "zh": "蓝鲸",
+          "en": "The blue whale is the largest animal on Earth, known for its immense size."
         },
         {
-          "pos": "v.",
-          "zh": "报销",
-          "en": "To refund expenses that someone has incurred."
+          "pos": "n.",
+          "zh": "蓝鲸",
+          "en": "Blue whales are marine mammals that live in oceans and feed on small shrimp-like animals called krill."
         }
       ],
       "examples": [
         {
-          "en": "The company will reimburse you for your travel expenses.",
-          "zh": "公司将报销你的差旅费用。"
+          "en": "The blue whale can grow up to 100 feet long and weigh over 200 tons.",
+          "zh": "蓝鲸可以长到100英尺，体重超过200吨。"
         },
         {
-          "en": "Please keep your receipts to receive reimbursement later.",
-          "zh": "请保留你的收据以便日后报销。"
+          "en": "Scientists study blue whales to understand their migration patterns and feeding habits.",
+          "zh": "科学家研究蓝鲸以了解它们的迁徙模式和觅食习惯。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'reimburse' as 're' (again) + 'imburse' (to put money into your purse)."
+        "association": "Think of the color blue representing the ocean, where blue whales live, and their large size as a symbol of strength and majesty."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=reimburse&type=2",
-      "chapter": "认知词汇 历史分类 钱币发展史"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=blue%20whale&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

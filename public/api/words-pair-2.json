@@ -1,67 +1,67 @@
 {
-  "generated": "2025-11-14T22:07:51.080Z",
+  "generated": "2025-11-15T22:06:24.743Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "yin yang principle",
-      "pronunciation": "/jɪn jæŋ/",
+      "word": "marine",
+      "pronunciation": "/məˈrin/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "阴阳原则",
-          "en": "A principle in Chinese philosophy that describes how opposite forces are interconnected."
+          "pos": "adj.",
+          "zh": "海洋的",
+          "en": "Related to the sea or ocean."
         },
         {
           "pos": "n.",
-          "zh": "平衡的概念",
-          "en": "The idea that balance is achieved through the interaction of opposites."
+          "zh": "海洋生物",
+          "en": "A term for animals and plants that live in the ocean."
         }
       ],
       "examples": [
         {
-          "en": "The yin yang principle teaches us to find balance in our lives.",
-          "zh": "阴阳原则教我们在生活中寻找平衡。"
+          "en": "The marine ecosystem is vital for the planet's health.",
+          "zh": "海洋生态系统对地球的健康至关重要。"
         },
         {
-          "en": "In nature, the yin yang principle shows how opposites coexist harmoniously.",
-          "zh": "在自然界中，阴阳原则展示了对立面如何和谐共存。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=yin%20yang%20principle&type=2",
-      "chapter": "认知词汇 健康分类 澳大利亚医疗研究"
-    },
-    {
-      "word": "granary",
-      "pronunciation": "/ˈɡræn.ər.i/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "粮仓",
-          "en": "A building where grain is stored."
-        },
-        {
-          "pos": "n.",
-          "zh": "谷仓",
-          "en": "A place used for storing harvested crops."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Farmers often store their harvest in a granary for future use.",
-          "zh": "农民们通常将他们的收成存放在粮仓中以备将来使用。"
-        },
-        {
-          "en": "The old granary is now a museum dedicated to agricultural history.",
-          "zh": "这座古老的粮仓现在是一个致力于农业历史的博物馆。"
+          "en": "Marine animals like dolphins are highly intelligent creatures.",
+          "zh": "像海豚这样的海洋动物是高度聪明的生物。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'granary' as a 'grain' storage place, where grains are kept safe."
+        "association": "Think of 'marine' as related to 'marine life' or 'marine transport' to connect it with the sea."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=granary&type=2",
-      "chapter": "认知词汇 历史分类 钱币发展史"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=marine&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
+    },
+    {
+      "word": "squid",
+      "pronunciation": "/skwɪd/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "鱿鱼",
+          "en": "A type of sea creature with a long body and tentacles."
+        },
+        {
+          "pos": "v.",
+          "zh": "快速移动",
+          "en": "To move quickly, especially in a sudden way."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The chef prepared a delicious dish with fresh squid.",
+          "zh": "厨师用新鲜的鱿鱼做了一道美味的菜。"
+        },
+        {
+          "en": "The children squidded away when they saw the wave approaching.",
+          "zh": "孩子们看到海浪逼近时迅速逃跑。"
+        }
+      ],
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=squid&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

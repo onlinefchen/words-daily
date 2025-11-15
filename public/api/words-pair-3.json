@@ -1,62 +1,69 @@
 {
-  "generated": "2025-11-14T22:07:51.080Z",
+  "generated": "2025-11-15T22:06:24.744Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "indoor air pollutant",
-      "pronunciation": "/ˈɪn.dɔːr eər pəˈluː.tənt/",
+      "word": "conquer",
+      "pronunciation": "/ˈkɒŋ.kər/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "室内空气污染物",
-          "en": "Substances in the air inside buildings that can harm health."
+          "pos": "v.",
+          "zh": "征服",
+          "en": "To gain control of a place or people by force."
+        },
+        {
+          "pos": "v.",
+          "zh": "克服",
+          "en": "To overcome a problem or difficulty."
         }
       ],
       "examples": [
         {
-          "en": "Indoor air pollutants can cause serious health issues over time.",
-          "zh": "室内空气污染物长期可能导致严重的健康问题。"
+          "en": "He managed to conquer his fear of public speaking.",
+          "zh": "他成功克服了对公众演讲的恐惧。"
         },
         {
-          "en": "Proper ventilation reduces indoor air pollutants significantly.",
-          "zh": "良好的通风显著减少室内空气污染物。"
+          "en": "The army aimed to conquer the enemy territory quickly.",
+          "zh": "军队的目标是迅速征服敌方领土。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'indoor' as inside a house where air pollutants can gather."
+        "association": "Think of 'conquer' as 'con' (with) + 'quer' (to seek), meaning to seek to gain control."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=indoor%20air%20pollutant&type=2",
-      "chapter": "认知词汇 健康分类 室内空气综合征"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=conquer&type=2",
+      "chapter": "基本词汇 动词200 Unit 4"
     },
     {
-      "word": "microbiological life",
-      "pronunciation": "/ˌmaɪkroʊbaɪˈɑːlədʒɪkəl laɪf/",
+      "word": "lavish",
+      "pronunciation": "/ˈlævɪʃ/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "微生物生命",
-          "en": "The existence and activities of microscopic organisms."
+          "pos": "adj.",
+          "zh": "奢华的",
+          "en": "Very rich and luxurious; extravagant."
         },
         {
-          "pos": "n.",
-          "zh": "微生物生态",
-          "en": "The study of living microorganisms and their environments."
+          "pos": "v.",
+          "zh": "大方地给予",
+          "en": "To give something generously or in large amounts."
         }
       ],
       "examples": [
         {
-          "en": "Microbiological life plays a crucial role in soil health.",
-          "zh": "微生物生命在土壤健康中扮演着重要角色。"
+          "en": "The hotel offered lavish rooms with beautiful views of the ocean.",
+          "zh": "这家酒店提供奢华的房间，可以欣赏到美丽的海景。"
         },
         {
-          "en": "Understanding microbiological life can improve agricultural practices.",
-          "zh": "了解微生物生命可以改善农业实践。"
+          "en": "She lavished her friends with gifts during the holidays.",
+          "zh": "假期期间，她对朋友们慷慨赠送礼物。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=microbiological%20life&type=2",
-      "chapter": "认知词汇 科技分类 探索太空生物"
+      "memoryTips": {
+        "association": "Think of 'lavish' like a 'lavish party' where everything is extravagant and abundant."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=lavish&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 11"
     }
   ]
 }

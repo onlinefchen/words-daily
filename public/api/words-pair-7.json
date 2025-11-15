@@ -1,69 +1,64 @@
 {
-  "generated": "2025-11-14T22:07:51.080Z",
+  "generated": "2025-11-15T22:06:24.744Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "nurture",
-      "pronunciation": "/ˈnɜːr.tʃər/",
+      "word": "compulsory",
+      "pronunciation": "/kəmˈpʌlsəri/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "培养",
-          "en": "To care for and encourage the growth or development of someone or something."
+          "pos": "adj.",
+          "zh": "强制的，必修的",
+          "en": "Required by law or a rule; necessary to do."
         },
         {
-          "pos": "n.",
-          "zh": "养育",
-          "en": "The process of caring for and educating someone, especially a child."
+          "pos": "adj.",
+          "zh": "义务的",
+          "en": "Something that you must do because it is essential."
         }
       ],
       "examples": [
         {
-          "en": "Parents play a crucial role in nurturing their children's talents.",
-          "zh": "父母在培养孩子的才能方面起着至关重要的作用。"
+          "en": "In many countries, education is compulsory for children.",
+          "zh": "在许多国家，教育是孩子们的义务。"
         },
         {
-          "en": "The nurture of young plants requires attention and patience.",
-          "zh": "年轻植物的养育需要关注和耐心。"
+          "en": "Wearing seat belts is compulsory in most vehicles.",
+          "zh": "在大多数车辆中，系安全带是强制性的。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'nurture' comes from the Latin 'nutrire', meaning 'to feed' or 'to nourish'."
+        "association": "Think of 'compulsory' as 'compulsory courses' in school that you cannot avoid."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=nurture&type=2",
-      "chapter": "基本词汇 动词200 Unit 8"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compulsory&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 2"
     },
     {
-      "word": "Old World",
-      "pronunciation": "/oʊld wɜrld/",
+      "word": "cardiovascular",
+      "pronunciation": "/ˌkɑːrdiəˈvæskjələr/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "旧世界",
-          "en": "The term refers to Europe, Asia, and Africa, especially in contrast to the Americas."
-        },
-        {
-          "pos": "n.",
-          "zh": "古老的世界",
-          "en": "It signifies the ancient civilizations and their cultures before the discovery of the Americas."
+          "pos": "adj.",
+          "zh": "心血管的",
+          "en": "Related to the heart and blood vessels."
         }
       ],
       "examples": [
         {
-          "en": "In history class, we learned about the Old World and its ancient cultures.",
-          "zh": "在历史课上，我们学习了旧世界及其古老文化。"
+          "en": "Regular exercise is important for maintaining cardiovascular health.",
+          "zh": "定期锻炼对维持心血管健康很重要。"
         },
         {
-          "en": "The spices from the Old World were highly valued in trade.",
-          "zh": "来自旧世界的香料在贸易中备受重视。"
+          "en": "A balanced diet can improve your cardiovascular system.",
+          "zh": "均衡饮食可以改善你的心血管系统。"
         }
       ],
       "memoryTips": {
-        "association": "Think of the Old World as the 'original' world, where many historical events began."
+        "etymology": "The word 'cardiovascular' comes from 'cardio-', meaning heart, and 'vascular', meaning related to blood vessels."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=Old%20World&type=2",
-      "chapter": "认知词汇 历史分类 地图发展史"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cardiovascular&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 4"
     }
   ]
 }

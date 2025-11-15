@@ -1,739 +1,751 @@
 {
-  "generated": "2025-11-14T22:07:51.079Z",
-  "date": "2025-11-14",
+  "generated": "2025-11-15T22:06:24.742Z",
+  "date": "2025-11-15",
   "totalWords": 20,
   "words": [
     {
-      "id": "w05055",
-      "word": "self-conscious",
+      "id": "w04591",
+      "word": "prescribe",
+      "type": "single",
+      "chapterIndex": 49,
+      "globalIndex": 4591,
+      "chapter": "ch143",
+      "chapterName": "认知词汇 社会与生活分类 医生与药品推销",
+      "pronunciation": {
+        "us": "/prɪˈskraɪb/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "开处方",
+          "en": "To officially recommend a treatment or medicine for someone."
+        },
+        {
+          "pos": "v.",
+          "zh": "规定",
+          "en": "To set a rule or instruction for how something should be done."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The doctor will prescribe medication for your condition.",
+          "zh": "医生会为你的病情开药方。"
+        },
+        {
+          "en": "The school prescribes a strict dress code for students.",
+          "zh": "学校规定学生必须遵守严格的着装规范。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'prescribe' as 'pre-scribing' a solution before the problem worsens."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=prescribe&type=2"
+    },
+    {
+      "id": "w02379",
+      "word": "predator",
+      "type": "single",
+      "chapterIndex": 21,
+      "globalIndex": 2379,
+      "chapter": "ch099",
+      "chapterName": "认知词汇 动物分类 动物行为",
+      "pronunciation": {
+        "us": "/ˈprɛdətər/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "捕食者",
+          "en": "An animal that hunts and eats other animals."
+        },
+        {
+          "pos": "n.",
+          "zh": "剥削者",
+          "en": "A person or group that exploits others for their own gain."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The lion is a well-known predator in the African savanna.",
+          "zh": "狮子是非洲草原上著名的捕食者。"
+        },
+        {
+          "en": "Some companies act as predators, taking advantage of weaker competitors.",
+          "zh": "一些公司作为剥削者，利用较弱的竞争对手。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'predator' as someone who 'preys' on others, linking both words."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=predator&type=2"
+    },
+    {
+      "id": "w01999",
+      "word": "marine",
+      "type": "single",
+      "chapterIndex": 99,
+      "globalIndex": 1999,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/məˈrin/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "海洋的",
+          "en": "Related to the sea or ocean."
+        },
+        {
+          "pos": "n.",
+          "zh": "海洋生物",
+          "en": "A term for animals and plants that live in the ocean."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The marine ecosystem is vital for the planet's health.",
+          "zh": "海洋生态系统对地球的健康至关重要。"
+        },
+        {
+          "en": "Marine animals like dolphins are highly intelligent creatures.",
+          "zh": "像海豚这样的海洋动物是高度聪明的生物。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'marine' as related to 'marine life' or 'marine transport' to connect it with the sea."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=marine&type=2"
+    },
+    {
+      "id": "w02101",
+      "word": "squid",
+      "type": "single",
+      "chapterIndex": 201,
+      "globalIndex": 2101,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/skwɪd/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "鱿鱼",
+          "en": "A type of sea creature with a long body and tentacles."
+        },
+        {
+          "pos": "v.",
+          "zh": "快速移动",
+          "en": "To move quickly, especially in a sudden way."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The chef prepared a delicious dish with fresh squid.",
+          "zh": "厨师用新鲜的鱿鱼做了一道美味的菜。"
+        },
+        {
+          "en": "The children squidded away when they saw the wave approaching.",
+          "zh": "孩子们看到海浪逼近时迅速逃跑。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=squid&type=2"
+    },
+    {
+      "id": "w00066",
+      "word": "conquer",
+      "type": "single",
+      "chapterIndex": 6,
+      "globalIndex": 66,
+      "chapter": "ch004",
+      "chapterName": "基本词汇 动词200 Unit 4",
+      "pronunciation": {
+        "us": "/ˈkɒŋ.kər/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "征服",
+          "en": "To gain control of a place or people by force."
+        },
+        {
+          "pos": "v.",
+          "zh": "克服",
+          "en": "To overcome a problem or difficulty."
+        }
+      ],
+      "examples": [
+        {
+          "en": "He managed to conquer his fear of public speaking.",
+          "zh": "他成功克服了对公众演讲的恐惧。"
+        },
+        {
+          "en": "The army aimed to conquer the enemy territory quickly.",
+          "zh": "军队的目标是迅速征服敌方领土。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'conquer' as 'con' (with) + 'quer' (to seek), meaning to seek to gain control."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=conquer&type=2"
+    },
+    {
+      "id": "w00619",
+      "word": "lavish",
       "type": "single",
       "chapterIndex": 19,
-      "globalIndex": 5055,
-      "chapter": "ch157",
-      "chapterName": "阅读真题认知词汇 男女共校",
+      "globalIndex": 619,
+      "chapter": "ch031",
+      "chapterName": "基本词汇 形容词和副词400 Unit 11",
       "pronunciation": {
-        "us": "/ˌsɛlfˈkɒnʃəs/"
+        "us": "/ˈlævɪʃ/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "自觉的，害羞的",
-          "en": "Feeling awkward or embarrassed about oneself."
+          "zh": "奢华的",
+          "en": "Very rich and luxurious; extravagant."
+        },
+        {
+          "pos": "v.",
+          "zh": "大方地给予",
+          "en": "To give something generously or in large amounts."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The hotel offered lavish rooms with beautiful views of the ocean.",
+          "zh": "这家酒店提供奢华的房间，可以欣赏到美丽的海景。"
+        },
+        {
+          "en": "She lavished her friends with gifts during the holidays.",
+          "zh": "假期期间，她对朋友们慷慨赠送礼物。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'lavish' like a 'lavish party' where everything is extravagant and abundant."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=lavish&type=2"
+    },
+    {
+      "id": "w02087",
+      "word": "otter",
+      "type": "single",
+      "chapterIndex": 187,
+      "globalIndex": 2087,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/ˈɑːtər/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "水獺",
+          "en": "A playful aquatic mammal with a long body and webbed feet."
+        },
+        {
+          "pos": "n.",
+          "zh": "海獺",
+          "en": "A marine animal known for its intelligence and use of tools."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The otter swam gracefully through the clear water of the river.",
+          "zh": "水獺在清澈的河水中優雅地游泳。"
+        },
+        {
+          "en": "Many people enjoy watching otters play at the zoo.",
+          "zh": "許多人喜歡在動物園裡觀賞水獺玩耍。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'otter' as 'water' because otters are always found in water."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=otter&type=2"
+    },
+    {
+      "id": "w02047",
+      "word": "blue whale",
+      "type": "phrase",
+      "chapterIndex": 147,
+      "globalIndex": 2047,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/bluː weɪl/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "蓝鲸",
+          "en": "The blue whale is the largest animal on Earth, known for its immense size."
+        },
+        {
+          "pos": "n.",
+          "zh": "蓝鲸",
+          "en": "Blue whales are marine mammals that live in oceans and feed on small shrimp-like animals called krill."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The blue whale can grow up to 100 feet long and weigh over 200 tons.",
+          "zh": "蓝鲸可以长到100英尺，体重超过200吨。"
+        },
+        {
+          "en": "Scientists study blue whales to understand their migration patterns and feeding habits.",
+          "zh": "科学家研究蓝鲸以了解它们的迁徙模式和觅食习惯。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of the color blue representing the ocean, where blue whales live, and their large size as a symbol of strength and majesty."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=blue%20whale&type=2"
+    },
+    {
+      "id": "w01569",
+      "word": "overcome",
+      "type": "single",
+      "chapterIndex": 9,
+      "globalIndex": 1569,
+      "chapter": "ch079",
+      "chapterName": "核心词汇 民主与权利 Unit 4",
+      "pronunciation": {
+        "us": "/ˌoʊ.vərˈkʌm/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "克服",
+          "en": "To succeed in dealing with a problem or difficulty."
+        },
+        {
+          "pos": "v.",
+          "zh": "超越",
+          "en": "To gain control over something or someone."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She managed to overcome her fear of public speaking.",
+          "zh": "她成功克服了对公众演讲的恐惧。"
+        },
+        {
+          "en": "He worked hard to overcome the challenges in his life.",
+          "zh": "他努力克服生活中的挑战。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'over' as going beyond and 'come' as arriving. You go beyond difficulties to arrive at success."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=overcome&type=2"
+    },
+    {
+      "id": "w00636",
+      "word": "mutual",
+      "type": "single",
+      "chapterIndex": 16,
+      "globalIndex": 636,
+      "chapter": "ch032",
+      "chapterName": "基本词汇 形容词和副词400 Unit 12",
+      "pronunciation": {
+        "us": "/ˈmjuːtʃuəl/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "相互的",
+          "en": "Shared by two or more parties, often referring to feelings or actions."
         },
         {
           "pos": "adj.",
-          "zh": "自我意识强的",
-          "en": "Being very aware of how others see you."
+          "zh": "共同的",
+          "en": "Relating to something that is common between two or more people."
         }
       ],
       "examples": [
         {
-          "en": "She felt self-conscious wearing a new dress at the party.",
-          "zh": "她在派对上穿新裙子时感到很自觉。"
+          "en": "They have a mutual respect for each other's opinions and ideas.",
+          "zh": "他们对彼此的观点和想法有相互尊重。"
         },
         {
-          "en": "Many teenagers are often self-conscious about their appearance.",
-          "zh": "许多青少年常常对自己的外貌感到自觉。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=self-conscious&type=2"
-    },
-    {
-      "id": "w03062",
-      "word": "pest harm",
-      "type": "phrase",
-      "chapterIndex": 14,
-      "globalIndex": 3062,
-      "chapter": "ch114",
-      "chapterName": "认知词汇 环境分类 病虫害防治",
-      "pronunciation": {
-        "us": "/pɛst hɑrm/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "害虫",
-          "en": "A pest is an insect or animal that harms crops, plants, or animals."
-        },
-        {
-          "pos": "v.",
-          "zh": "伤害",
-          "en": "To harm means to cause damage or injury to someone or something."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Farmers often struggle to control pests that damage their crops.",
-          "zh": "农民常常难以控制伤害他们作物的害虫。"
-        },
-        {
-          "en": "Pollution can harm wildlife and disrupt the ecosystem.",
-          "zh": "污染可以伤害野生动物并扰乱生态系统。"
+          "en": "The two countries established mutual agreements to enhance trade.",
+          "zh": "这两个国家建立了共同协议以促进贸易。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'pest' as a 'pestering' insect that bothers plants."
+        "association": "Think of 'mutual' as 'mutually shared', like two friends sharing a secret."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pest%20harm&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=mutual&type=2"
     },
     {
-      "id": "w03278",
-      "word": "yin yang principle",
+      "id": "w02043",
+      "word": "baleen whale",
       "type": "phrase",
-      "chapterIndex": 55,
-      "globalIndex": 3278,
-      "chapter": "ch117",
-      "chapterName": "认知词汇 健康分类 澳大利亚医疗研究",
+      "chapterIndex": 143,
+      "globalIndex": 2043,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
       "pronunciation": {
-        "us": "/jɪn jæŋ/"
+        "us": "/bəˈliːn weɪl/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "阴阳原则",
-          "en": "A principle in Chinese philosophy that describes how opposite forces are interconnected."
-        },
-        {
-          "pos": "n.",
-          "zh": "平衡的概念",
-          "en": "The idea that balance is achieved through the interaction of opposites."
+          "zh": "须鲸",
+          "en": "A type of whale that filters food from water using baleen plates."
         }
       ],
       "examples": [
         {
-          "en": "The yin yang principle teaches us to find balance in our lives.",
-          "zh": "阴阳原则教我们在生活中寻找平衡。"
+          "en": "Baleen whales are known for their massive size and unique feeding methods.",
+          "zh": "须鲸以其巨大的体型和独特的捕食方式而闻名。"
         },
         {
-          "en": "In nature, the yin yang principle shows how opposites coexist harmoniously.",
-          "zh": "在自然界中，阴阳原则展示了对立面如何和谐共存。"
+          "en": "Many baleen whales migrate long distances to find food and mate.",
+          "zh": "许多须鲸迁徙很远以寻找食物和交配。"
         }
       ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=yin%20yang%20principle&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=baleen%20whale&type=2"
     },
     {
-      "id": "w03975",
-      "word": "granary",
+      "id": "w01558",
+      "word": "liberation",
       "type": "single",
-      "chapterIndex": 46,
-      "globalIndex": 3975,
-      "chapter": "ch128",
-      "chapterName": "认知词汇 历史分类 钱币发展史",
-      "pronunciation": {
-        "us": "/ˈɡræn.ər.i/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "粮仓",
-          "en": "A building where grain is stored."
-        },
-        {
-          "pos": "n.",
-          "zh": "谷仓",
-          "en": "A place used for storing harvested crops."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Farmers often store their harvest in a granary for future use.",
-          "zh": "农民们通常将他们的收成存放在粮仓中以备将来使用。"
-        },
-        {
-          "en": "The old granary is now a museum dedicated to agricultural history.",
-          "zh": "这座古老的粮仓现在是一个致力于农业历史的博物馆。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'granary' as a 'grain' storage place, where grains are kept safe."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=granary&type=2"
-    },
-    {
-      "id": "w03119",
-      "word": "indoor air pollutant",
-      "type": "phrase",
-      "chapterIndex": 38,
-      "globalIndex": 3119,
-      "chapter": "ch115",
-      "chapterName": "认知词汇 健康分类 室内空气综合征",
-      "pronunciation": {
-        "us": "/ˈɪn.dɔːr eər pəˈluː.tənt/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "室内空气污染物",
-          "en": "Substances in the air inside buildings that can harm health."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Indoor air pollutants can cause serious health issues over time.",
-          "zh": "室内空气污染物长期可能导致严重的健康问题。"
-        },
-        {
-          "en": "Proper ventilation reduces indoor air pollutants significantly.",
-          "zh": "良好的通风显著减少室内空气污染物。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'indoor' as inside a house where air pollutants can gather."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=indoor%20air%20pollutant&type=2"
-    },
-    {
-      "id": "w03614",
-      "word": "microbiological life",
-      "type": "phrase",
-      "chapterIndex": 47,
-      "globalIndex": 3614,
-      "chapter": "ch123",
-      "chapterName": "认知词汇 科技分类 探索太空生物",
-      "pronunciation": {
-        "us": "/ˌmaɪkroʊbaɪˈɑːlədʒɪkəl laɪf/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "微生物生命",
-          "en": "The existence and activities of microscopic organisms."
-        },
-        {
-          "pos": "n.",
-          "zh": "微生物生态",
-          "en": "The study of living microorganisms and their environments."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Microbiological life plays a crucial role in soil health.",
-          "zh": "微生物生命在土壤健康中扮演着重要角色。"
-        },
-        {
-          "en": "Understanding microbiological life can improve agricultural practices.",
-          "zh": "了解微生物生命可以改善农业实践。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=microbiological%20life&type=2"
-    },
-    {
-      "id": "w03127",
-      "word": "microbiological contaminant",
-      "type": "phrase",
-      "chapterIndex": 46,
-      "globalIndex": 3127,
-      "chapter": "ch115",
-      "chapterName": "认知词汇 健康分类 室内空气综合征",
-      "pronunciation": {
-        "us": "/ˌmaɪkroʊbaɪˈɑːlədʒɪkəl ˌkənˈtæmɪnənt/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "微生物污染物",
-          "en": "A substance that can cause contamination by microorganisms."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Microbiological contaminants can harm food safety and human health.",
-          "zh": "微生物污染物可能危害食品安全和人类健康。"
-        },
-        {
-          "en": "Testing for microbiological contaminants is essential in water quality assessment.",
-          "zh": "检测水质中的微生物污染物在水质评估中至关重要。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'micro' as small and 'biological' as related to life, linking the idea of tiny living organisms causing contamination."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=microbiological%20contaminant&type=2"
-    },
-    {
-      "id": "w04020",
-      "word": "reimburse",
-      "type": "single",
-      "chapterIndex": 91,
-      "globalIndex": 4020,
-      "chapter": "ch128",
-      "chapterName": "认知词汇 历史分类 钱币发展史",
-      "pronunciation": {
-        "us": "/riːɪmˈbɜːrs/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "偿还",
-          "en": "To pay back money that someone has spent."
-        },
-        {
-          "pos": "v.",
-          "zh": "报销",
-          "en": "To refund expenses that someone has incurred."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The company will reimburse you for your travel expenses.",
-          "zh": "公司将报销你的差旅费用。"
-        },
-        {
-          "en": "Please keep your receipts to receive reimbursement later.",
-          "zh": "请保留你的收据以便日后报销。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'reimburse' as 're' (again) + 'imburse' (to put money into your purse)."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=reimburse&type=2"
-    },
-    {
-      "id": "w01542",
-      "word": "inequality",
-      "type": "single",
-      "chapterIndex": 2,
-      "globalIndex": 1542,
+      "chapterIndex": 18,
+      "globalIndex": 1558,
       "chapter": "ch078",
       "chapterName": "核心词汇 民主与权利 Unit 3",
       "pronunciation": {
-        "us": "/ˌɪn.ɪˈkwɑː.lɪ.ti/"
+        "us": "/ˌlɪbəˈreɪʃən/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "不平等",
-          "en": "The state of not being equal, especially in status, rights, or opportunities."
+          "zh": "解放",
+          "en": "The act of setting someone free from restrictions."
         },
         {
           "pos": "n.",
-          "zh": "差距",
-          "en": "A difference in size, degree, or circumstances, often leading to unfair situations."
+          "zh": "自主",
+          "en": "The state of being free and independent."
         }
       ],
       "examples": [
         {
-          "en": "Economic inequality can lead to social unrest and conflict.",
-          "zh": "经济不平等可能导致社会动荡和冲突。"
+          "en": "The liberation of the country was celebrated with great joy.",
+          "zh": "国家的解放得到了热烈的庆祝。"
         },
         {
-          "en": "Many activists are fighting against gender inequality in the workplace.",
-          "zh": "许多活动家在为工作场所的性别不平等而斗争。"
+          "en": "She felt a sense of liberation after leaving her job.",
+          "zh": "她在离开工作后感到一种解放感。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'inequality' comes from the prefix 'in-' meaning 'not' and 'equality' which means 'the state of being equal.'"
+        "etymology": "The word 'liberation' comes from the Latin 'liberatio', which means 'to free'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=inequality&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=liberation&type=2"
     },
     {
-      "id": "w00444",
-      "word": "available",
+      "id": "w01232",
+      "word": "compulsory",
       "type": "single",
-      "chapterIndex": 4,
-      "globalIndex": 444,
-      "chapter": "ch023",
-      "chapterName": "基本词汇 形容词和副词400 Unit 3",
+      "chapterIndex": 12,
+      "globalIndex": 1232,
+      "chapter": "ch062",
+      "chapterName": "核心词汇 青少年教育 Unit 2",
       "pronunciation": {
-        "us": "/əˈveɪləbl/"
+        "us": "/kəmˈpʌlsəri/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "可用的",
-          "en": "Something that can be used or accessed."
+          "zh": "强制的，必修的",
+          "en": "Required by law or a rule; necessary to do."
         },
         {
           "pos": "adj.",
-          "zh": "可得到的",
-          "en": "Something that is free to be taken or is not busy."
+          "zh": "义务的",
+          "en": "Something that you must do because it is essential."
         }
       ],
       "examples": [
         {
-          "en": "The resources are available for all students wishing to learn.",
-          "zh": "这些资源对所有希望学习的学生都是可用的。"
+          "en": "In many countries, education is compulsory for children.",
+          "zh": "在许多国家，教育是孩子们的义务。"
         },
         {
-          "en": "She is available to discuss the project anytime this week.",
-          "zh": "她本周任何时候都可以讨论这个项目。"
+          "en": "Wearing seat belts is compulsory in most vehicles.",
+          "zh": "在大多数车辆中，系安全带是强制性的。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'available' as 'a table' where something can be placed or accessed."
+        "association": "Think of 'compulsory' as 'compulsory courses' in school that you cannot avoid."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=available&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compulsory&type=2"
     },
     {
-      "id": "w00760",
-      "word": "timid",
+      "id": "w00461",
+      "word": "cardiovascular",
+      "type": "single",
+      "chapterIndex": 1,
+      "globalIndex": 461,
+      "chapter": "ch024",
+      "chapterName": "基本词汇 形容词和副词400 Unit 4",
+      "pronunciation": {
+        "us": "/ˌkɑːrdiəˈvæskjələr/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "心血管的",
+          "en": "Related to the heart and blood vessels."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Regular exercise is important for maintaining cardiovascular health.",
+          "zh": "定期锻炼对维持心血管健康很重要。"
+        },
+        {
+          "en": "A balanced diet can improve your cardiovascular system.",
+          "zh": "均衡饮食可以改善你的心血管系统。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'cardiovascular' comes from 'cardio-', meaning heart, and 'vascular', meaning related to blood vessels."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cardiovascular&type=2"
+    },
+    {
+      "id": "w00633",
+      "word": "moral",
+      "type": "single",
+      "chapterIndex": 13,
+      "globalIndex": 633,
+      "chapter": "ch032",
+      "chapterName": "基本词汇 形容词和副词400 Unit 12",
+      "pronunciation": {
+        "us": "/ˈmɔːrəl/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "道德的",
+          "en": "Related to principles of right and wrong behavior."
+        },
+        {
+          "pos": "n.",
+          "zh": "道德",
+          "en": "A lesson about what is right or wrong."
+        }
+      ],
+      "examples": [
+        {
+          "en": "He struggled with the moral implications of his decision.",
+          "zh": "他为自己决定的道德影响而苦恼。"
+        },
+        {
+          "en": "The story has a strong moral that teaches us kindness.",
+          "zh": "这个故事有一个强烈的道德，教会我们善良。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'moral' as related to 'morality', which involves how we judge right and wrong."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=moral&type=2"
+    },
+    {
+      "id": "w00200",
+      "word": "withdraw",
       "type": "single",
       "chapterIndex": 20,
-      "globalIndex": 760,
-      "chapter": "ch038",
-      "chapterName": "基本词汇 形容词和副词400 Unit 18",
+      "globalIndex": 200,
+      "chapter": "ch010",
+      "chapterName": "基本词汇 动词200 Unit 10",
       "pronunciation": {
-        "us": "/ˈtɪmɪd/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "胆怯的",
-          "en": "Feeling shy or lacking confidence."
-        },
-        {
-          "pos": "adj.",
-          "zh": "胆小的",
-          "en": "Easily frightened or not brave."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The timid child hesitated to speak in front of the class.",
-          "zh": "那个胆怯的孩子在班上犹豫着不敢发言。"
-        },
-        {
-          "en": "She gave a timid smile when she met new people.",
-          "zh": "她见到新朋友时露出了一个胆怯的微笑。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of a timid mouse hiding away, too scared to come out."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=timid&type=2"
-    },
-    {
-      "id": "w01171",
-      "word": "promiscuity",
-      "type": "single",
-      "chapterIndex": 11,
-      "globalIndex": 1171,
-      "chapter": "ch059",
-      "chapterName": "核心词汇 伦理与道德 Unit 4",
-      "pronunciation": {
-        "us": "/prəˌmɪs.kjuˈɪ.ti/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "滥交",
-          "en": "The practice of having many sexual partners without commitment."
-        },
-        {
-          "pos": "n.",
-          "zh": "混乱",
-          "en": "A lack of order or distinction in relationships."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Promiscuity can lead to serious health risks and emotional distress.",
-          "zh": "滥交可能导致严重的健康风险和情感困扰。"
-        },
-        {
-          "en": "Many cultures view promiscuity as socially unacceptable behavior.",
-          "zh": "许多文化将滥交视为社会不可接受的行为。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'promiscuity' comes from the Latin 'promiscuus', meaning 'mixed' or 'indiscriminate'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=promiscuity&type=2"
-    },
-    {
-      "id": "w00158",
-      "word": "nurture",
-      "type": "single",
-      "chapterIndex": 18,
-      "globalIndex": 158,
-      "chapter": "ch008",
-      "chapterName": "基本词汇 动词200 Unit 8",
-      "pronunciation": {
-        "us": "/ˈnɜːr.tʃər/"
+        "us": "/wɪðˈdrɔ/"
       },
       "meanings": [
         {
           "pos": "v.",
-          "zh": "培养",
-          "en": "To care for and encourage the growth or development of someone or something."
-        },
-        {
-          "pos": "n.",
-          "zh": "养育",
-          "en": "The process of caring for and educating someone, especially a child."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Parents play a crucial role in nurturing their children's talents.",
-          "zh": "父母在培养孩子的才能方面起着至关重要的作用。"
-        },
-        {
-          "en": "The nurture of young plants requires attention and patience.",
-          "zh": "年轻植物的养育需要关注和耐心。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'nurture' comes from the Latin 'nutrire', meaning 'to feed' or 'to nourish'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=nurture&type=2"
-    },
-    {
-      "id": "w03707",
-      "word": "Old World",
-      "type": "phrase",
-      "chapterIndex": 63,
-      "globalIndex": 3707,
-      "chapter": "ch124",
-      "chapterName": "认知词汇 历史分类 地图发展史",
-      "pronunciation": {
-        "us": "/oʊld wɜrld/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "旧世界",
-          "en": "The term refers to Europe, Asia, and Africa, especially in contrast to the Americas."
-        },
-        {
-          "pos": "n.",
-          "zh": "古老的世界",
-          "en": "It signifies the ancient civilizations and their cultures before the discovery of the Americas."
-        }
-      ],
-      "examples": [
-        {
-          "en": "In history class, we learned about the Old World and its ancient cultures.",
-          "zh": "在历史课上，我们学习了旧世界及其古老文化。"
-        },
-        {
-          "en": "The spices from the Old World were highly valued in trade.",
-          "zh": "来自旧世界的香料在贸易中备受重视。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of the Old World as the 'original' world, where many historical events began."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=Old%20World&type=2"
-    },
-    {
-      "id": "w00725",
-      "word": "shrewd",
-      "type": "single",
-      "chapterIndex": 5,
-      "globalIndex": 725,
-      "chapter": "ch037",
-      "chapterName": "基本词汇 形容词和副词400 Unit 17",
-      "pronunciation": {
-        "us": "/ʃruːd/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "精明的",
-          "en": "Having the ability to make good judgments and decisions."
-        },
-        {
-          "pos": "adj.",
-          "zh": "狡猾的",
-          "en": "Showing cleverness in a way that is often deceitful."
-        }
-      ],
-      "examples": [
-        {
-          "en": "She made a shrewd investment that doubled her money in a year.",
-          "zh": "她做了一个精明的投资，资金在一年内翻了一番。"
-        },
-        {
-          "en": "His shrewd comments always reveal his deep understanding of people.",
-          "zh": "他精明的评论总能显示他对人性的深刻理解。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'shrew' as a small, clever animal. A shrewd person is similarly clever."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=shrewd&type=2"
-    },
-    {
-      "id": "w03036",
-      "word": "stump",
-      "type": "single",
-      "chapterIndex": 64,
-      "globalIndex": 3036,
-      "chapter": "ch113",
-      "chapterName": "认知词汇 环境分类 欧洲森林保护",
-      "pronunciation": {
-        "us": "/stʌmp/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "树桩",
-          "en": "The base of a tree left after it has been cut down."
+          "zh": "撤回，取回",
+          "en": "To take back or remove something that was given or said."
         },
         {
           "pos": "v.",
-          "zh": "阻碍，困扰",
-          "en": "To confuse or perplex someone, making them unable to act."
+          "zh": "撤退，退出",
+          "en": "To leave a place or situation, often for safety or strategy."
         }
       ],
       "examples": [
         {
-          "en": "The children played around the old tree stump in the park.",
-          "zh": "孩子们在公园的老树桩旁玩耍。"
+          "en": "She decided to withdraw her application after the interview.",
+          "zh": "面试后，她决定撤回她的申请。"
         },
         {
-          "en": "The tricky question stumped all the students during the exam.",
-          "zh": "这个棘手的问题让所有学生在考试中感到困惑。"
+          "en": "The army had to withdraw from the battlefield to regroup.",
+          "zh": "军队不得不从战场撤退以重新集结。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'stump' as a 'stop' for trees, where they can no longer grow.",
-        "mnemonic": "Stump sounds like 'thump'—imagine a tree thumping down to create a stump."
+        "association": "Think of 'withdraw' as 'with-draw', like drawing back from something."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=stump&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=withdraw&type=2"
     },
     {
-      "id": "w00320",
-      "word": "population",
-      "type": "single",
-      "chapterIndex": 20,
-      "globalIndex": 320,
-      "chapter": "ch016",
-      "chapterName": "基本词汇 名词200 Unit 6",
-      "pronunciation": {
-        "us": "/ˌpɒp.jʊˈleɪ.ʃən/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "人口",
-          "en": "The total number of people living in a specific area."
-        },
-        {
-          "pos": "n.",
-          "zh": "群体",
-          "en": "A group of individuals sharing common characteristics."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The population of the city has increased significantly over the years.",
-          "zh": "这个城市的人口在这些年里显著增加。"
-        },
-        {
-          "en": "The research focuses on the population's health and well-being.",
-          "zh": "这项研究集中于人群的健康和幸福。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'population' comes from the Latin 'populatio', meaning 'a people' or 'a crowd'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=population&type=2"
-    },
-    {
-      "id": "w03319",
-      "word": "sedentary lifestyle",
+      "id": "w02161",
+      "word": "aquatic environment",
       "type": "phrase",
-      "chapterIndex": 21,
-      "globalIndex": 3319,
-      "chapter": "ch119",
-      "chapterName": "认知词汇 健康分类 运动与青少年健康",
+      "chapterIndex": 261,
+      "globalIndex": 2161,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
       "pronunciation": {
-        "us": "/ˈsɛd.ən.tər.i laɪfˌstaɪl/"
+        "us": "/əˈkwætɪk ɪnˈvaɪrənmənt/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "久坐的生活方式",
-          "en": "A way of living that involves little physical activity."
+          "zh": "水生环境",
+          "en": "A natural setting where water is the main element."
+        },
+        {
+          "pos": "n.",
+          "zh": "水域",
+          "en": "Any area that is covered by water, including oceans, rivers, and lakes."
         }
       ],
       "examples": [
         {
-          "en": "A sedentary lifestyle can lead to various health issues.",
-          "zh": "久坐的生活方式可能导致各种健康问题。"
+          "en": "The aquatic environment is home to many unique species of fish.",
+          "zh": "水生环境是许多独特鱼类的栖息地。"
         },
         {
-          "en": "Many people have adopted a sedentary lifestyle due to remote work.",
-          "zh": "由于远程工作，许多人已采取了久坐的生活方式。"
+          "en": "Pollution can seriously harm the aquatic environment and its inhabitants.",
+          "zh": "污染会严重危害水生环境及其生物。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'sedentary' as 'sitting down' related to 'sentary', which sounds like 'sit'."
+        "association": "Think of 'aqua,' which relates to water, combined with 'environment' to remember it's a water-based ecosystem."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sedentary%20lifestyle&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aquatic%20environment&type=2"
     },
     {
-      "id": "w00338",
-      "word": "restriction",
+      "id": "w01547",
+      "word": "inviolable",
       "type": "single",
-      "chapterIndex": 18,
-      "globalIndex": 338,
-      "chapter": "ch017",
-      "chapterName": "基本词汇 名词200 Unit 7",
+      "chapterIndex": 7,
+      "globalIndex": 1547,
+      "chapter": "ch078",
+      "chapterName": "核心词汇 民主与权利 Unit 3",
       "pronunciation": {
-        "us": "/rɪˈstrɪkʃən/"
+        "us": "/ɪnˈvaɪ.lə.bəl/"
       },
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "限制",
-          "en": "A rule or condition that limits what can be done."
+          "pos": "adj.",
+          "zh": "不可侵犯的",
+          "en": "Something that cannot be violated or harmed."
         },
         {
-          "pos": "n.",
-          "zh": "约束",
-          "en": "The act of limiting or controlling something."
+          "pos": "adj.",
+          "zh": "神圣的",
+          "en": "Something that is sacred and must be respected."
         }
       ],
       "examples": [
         {
-          "en": "The government has put a restriction on air pollution levels.",
-          "zh": "政府对空气污染水平施加了限制。"
+          "en": "The constitution guarantees certain inviolable rights for all citizens.",
+          "zh": "宪法保障所有公民享有某些不可侵犯的权利。"
         },
         {
-          "en": "There are restrictions on how much money you can withdraw.",
-          "zh": "关于你可以提取的金额有一些限制。"
+          "en": "Freedom of speech is considered an inviolable principle in democratic societies.",
+          "zh": "言论自由被视为民主社会中的一个不可侵犯的原则。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'restriction' comes from the Latin 'restrictio', meaning 'a drawing back'."
+        "etymology": "The word 'inviolable' comes from Latin 'inviolabilis', meaning 'not to be violated'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=restriction&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=inviolable&type=2"
     },
     {
-      "id": "w03111",
-      "word": "gaseous pollutant",
-      "type": "phrase",
-      "chapterIndex": 30,
-      "globalIndex": 3111,
-      "chapter": "ch115",
-      "chapterName": "认知词汇 健康分类 室内空气综合征",
+      "id": "w01021",
+      "word": "compatible",
+      "type": "single",
+      "chapterIndex": 1,
+      "globalIndex": 1021,
+      "chapter": "ch052",
+      "chapterName": "核心词汇 文化与传统 Unit 2",
       "pronunciation": {
-        "us": "/ˈɡæs.i.əs pəˈluː.tənt/"
+        "us": "/kəmˈpætɪbəl/"
       },
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "气体污染物",
-          "en": "A substance in the air that can harm health or the environment."
+          "pos": "adj.",
+          "zh": "兼容的",
+          "en": "Able to exist or work together without conflict."
+        },
+        {
+          "pos": "adj.",
+          "zh": "一致的",
+          "en": "Suitable or appropriate for a particular purpose or situation."
         }
       ],
       "examples": [
         {
-          "en": "Factories often release gaseous pollutants into the atmosphere.",
-          "zh": "工厂经常向大气释放气体污染物。"
+          "en": "The new software is compatible with older versions of the program.",
+          "zh": "新软件与旧版本的程序兼容。"
         },
         {
-          "en": "Gaseous pollutants can cause severe respiratory issues for humans.",
-          "zh": "气体污染物可能对人类造成严重的呼吸问题。"
+          "en": "They found a compatible partner for their project.",
+          "zh": "他们为他们的项目找到了一个合适的合作伙伴。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'gaseous' as something floating in the air, like a gas balloon, which helps remember that it is air pollution."
+        "association": "Think of 'compatible' as 'com-patible', like two items that can 'pat' each other gently without hurting."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=gaseous%20pollutant&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compatible&type=2"
+    },
+    {
+      "id": "w01292",
+      "word": "illiteracy",
+      "type": "single",
+      "chapterIndex": 12,
+      "globalIndex": 1292,
+      "chapter": "ch065",
+      "chapterName": "核心词汇 青少年教育 Unit 5",
+      "pronunciation": {
+        "us": "/ɪˈlɪtəruˌsi/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "文盲",
+          "en": "The inability to read and write."
+        },
+        {
+          "pos": "n.",
+          "zh": "缺乏某种知识或技能",
+          "en": "A lack of knowledge in a specific area."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Illiteracy remains a major challenge in many developing countries.",
+          "zh": "文盲仍然是许多发展中国家的主要挑战。"
+        },
+        {
+          "en": "Efforts to reduce illiteracy are essential for societal progress.",
+          "zh": "减少文盲的努力对社会进步至关重要。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'illiteracy' as 'ill' (sick) at 'literacy' (reading skills), meaning a lack of reading ability."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=illiteracy&type=2"
     }
   ]
 }

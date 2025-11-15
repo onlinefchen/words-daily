@@ -1,69 +1,62 @@
 {
-  "generated": "2025-11-14T22:07:51.080Z",
+  "generated": "2025-11-15T22:06:24.744Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "timid",
-      "pronunciation": "/ˈtɪmɪd/",
+      "word": "baleen whale",
+      "pronunciation": "/bəˈliːn weɪl/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "胆怯的",
-          "en": "Feeling shy or lacking confidence."
-        },
-        {
-          "pos": "adj.",
-          "zh": "胆小的",
-          "en": "Easily frightened or not brave."
+          "pos": "n.",
+          "zh": "须鲸",
+          "en": "A type of whale that filters food from water using baleen plates."
         }
       ],
       "examples": [
         {
-          "en": "The timid child hesitated to speak in front of the class.",
-          "zh": "那个胆怯的孩子在班上犹豫着不敢发言。"
+          "en": "Baleen whales are known for their massive size and unique feeding methods.",
+          "zh": "须鲸以其巨大的体型和独特的捕食方式而闻名。"
         },
         {
-          "en": "She gave a timid smile when she met new people.",
-          "zh": "她见到新朋友时露出了一个胆怯的微笑。"
+          "en": "Many baleen whales migrate long distances to find food and mate.",
+          "zh": "许多须鲸迁徙很远以寻找食物和交配。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of a timid mouse hiding away, too scared to come out."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=timid&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 18"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=baleen%20whale&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "promiscuity",
-      "pronunciation": "/prəˌmɪs.kjuˈɪ.ti/",
+      "word": "liberation",
+      "pronunciation": "/ˌlɪbəˈreɪʃən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "滥交",
-          "en": "The practice of having many sexual partners without commitment."
+          "zh": "解放",
+          "en": "The act of setting someone free from restrictions."
         },
         {
           "pos": "n.",
-          "zh": "混乱",
-          "en": "A lack of order or distinction in relationships."
+          "zh": "自主",
+          "en": "The state of being free and independent."
         }
       ],
       "examples": [
         {
-          "en": "Promiscuity can lead to serious health risks and emotional distress.",
-          "zh": "滥交可能导致严重的健康风险和情感困扰。"
+          "en": "The liberation of the country was celebrated with great joy.",
+          "zh": "国家的解放得到了热烈的庆祝。"
         },
         {
-          "en": "Many cultures view promiscuity as socially unacceptable behavior.",
-          "zh": "许多文化将滥交视为社会不可接受的行为。"
+          "en": "She felt a sense of liberation after leaving her job.",
+          "zh": "她在离开工作后感到一种解放感。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'promiscuity' comes from the Latin 'promiscuus', meaning 'mixed' or 'indiscriminate'."
+        "etymology": "The word 'liberation' comes from the Latin 'liberatio', which means 'to free'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=promiscuity&type=2",
-      "chapter": "核心词汇 伦理与道德 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=liberation&type=2",
+      "chapter": "核心词汇 民主与权利 Unit 3"
     }
   ]
 }

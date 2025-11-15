@@ -1,66 +1,68 @@
 {
-  "generated": "2025-11-14T22:07:51.079Z",
+  "generated": "2025-11-15T22:06:24.743Z",
   "count": 2,
   "words": [
     {
-      "word": "self-conscious",
-      "pronunciation": "/ˌsɛlfˈkɒnʃəs/",
+      "word": "prescribe",
+      "pronunciation": "/prɪˈskraɪb/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "自觉的，害羞的",
-          "en": "Feeling awkward or embarrassed about oneself."
-        },
-        {
-          "pos": "adj.",
-          "zh": "自我意识强的",
-          "en": "Being very aware of how others see you."
-        }
-      ],
-      "examples": [
-        {
-          "en": "She felt self-conscious wearing a new dress at the party.",
-          "zh": "她在派对上穿新裙子时感到很自觉。"
-        },
-        {
-          "en": "Many teenagers are often self-conscious about their appearance.",
-          "zh": "许多青少年常常对自己的外貌感到自觉。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=self-conscious&type=2",
-      "chapter": "阅读真题认知词汇 男女共校"
-    },
-    {
-      "word": "pest harm",
-      "pronunciation": "/pɛst hɑrm/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "害虫",
-          "en": "A pest is an insect or animal that harms crops, plants, or animals."
+          "pos": "v.",
+          "zh": "开处方",
+          "en": "To officially recommend a treatment or medicine for someone."
         },
         {
           "pos": "v.",
-          "zh": "伤害",
-          "en": "To harm means to cause damage or injury to someone or something."
+          "zh": "规定",
+          "en": "To set a rule or instruction for how something should be done."
         }
       ],
       "examples": [
         {
-          "en": "Farmers often struggle to control pests that damage their crops.",
-          "zh": "农民常常难以控制伤害他们作物的害虫。"
+          "en": "The doctor will prescribe medication for your condition.",
+          "zh": "医生会为你的病情开药方。"
         },
         {
-          "en": "Pollution can harm wildlife and disrupt the ecosystem.",
-          "zh": "污染可以伤害野生动物并扰乱生态系统。"
+          "en": "The school prescribes a strict dress code for students.",
+          "zh": "学校规定学生必须遵守严格的着装规范。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'pest' as a 'pestering' insect that bothers plants."
+        "association": "Think of 'prescribe' as 'pre-scribing' a solution before the problem worsens."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pest%20harm&type=2",
-      "chapter": "认知词汇 环境分类 病虫害防治"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=prescribe&type=2",
+      "chapter": "认知词汇 社会与生活分类 医生与药品推销"
+    },
+    {
+      "word": "predator",
+      "pronunciation": "/ˈprɛdətər/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "捕食者",
+          "en": "An animal that hunts and eats other animals."
+        },
+        {
+          "pos": "n.",
+          "zh": "剥削者",
+          "en": "A person or group that exploits others for their own gain."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The lion is a well-known predator in the African savanna.",
+          "zh": "狮子是非洲草原上著名的捕食者。"
+        },
+        {
+          "en": "Some companies act as predators, taking advantage of weaker competitors.",
+          "zh": "一些公司作为剥削者，利用较弱的竞争对手。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'predator' as someone who 'preys' on others, linking both words."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=predator&type=2",
+      "chapter": "认知词汇 动物分类 动物行为"
     }
   ]
 }
