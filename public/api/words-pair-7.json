@@ -1,64 +1,69 @@
 {
-  "generated": "2025-11-15T22:06:24.744Z",
+  "generated": "2025-11-16T22:07:29.259Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "compulsory",
-      "pronunciation": "/kəmˈpʌlsəri/",
+      "word": "disparity",
+      "pronunciation": "/dɪsˈpær.ɪ.ti/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "强制的，必修的",
-          "en": "Required by law or a rule; necessary to do."
+          "pos": "n.",
+          "zh": "差异",
+          "en": "A significant difference between two or more things."
         },
         {
-          "pos": "adj.",
-          "zh": "义务的",
-          "en": "Something that you must do because it is essential."
+          "pos": "n.",
+          "zh": "不平等",
+          "en": "The condition of being unequal or different in some way."
         }
       ],
       "examples": [
         {
-          "en": "In many countries, education is compulsory for children.",
-          "zh": "在许多国家，教育是孩子们的义务。"
+          "en": "There is a noticeable disparity in income levels across the country.",
+          "zh": "全国各地的收入水平存在明显差异。"
         },
         {
-          "en": "Wearing seat belts is compulsory in most vehicles.",
-          "zh": "在大多数车辆中，系安全带是强制性的。"
+          "en": "The disparity between rich and poor continues to grow each year.",
+          "zh": "富人和穷人之间的差距每年都在扩大。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'compulsory' as 'compulsory courses' in school that you cannot avoid."
+        "association": "Think of 'disparity' as 'dis' (not) + 'parity' (equality), meaning not equal."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compulsory&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disparity&type=2",
+      "chapter": "核心词汇 民主与权利 Unit 2"
     },
     {
-      "word": "cardiovascular",
-      "pronunciation": "/ˌkɑːrdiəˈvæskjələr/",
+      "word": "concentrate",
+      "pronunciation": "/ˈkɒn.sən.treɪt/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "心血管的",
-          "en": "Related to the heart and blood vessels."
+          "pos": "v.",
+          "zh": "集中注意力",
+          "en": "To focus all your attention on something."
+        },
+        {
+          "pos": "n.",
+          "zh": "浓缩物",
+          "en": "A substance that has been made denser or stronger."
         }
       ],
       "examples": [
         {
-          "en": "Regular exercise is important for maintaining cardiovascular health.",
-          "zh": "定期锻炼对维持心血管健康很重要。"
+          "en": "It is important to concentrate when studying for exams.",
+          "zh": "考试复习时集中注意力是很重要的。"
         },
         {
-          "en": "A balanced diet can improve your cardiovascular system.",
-          "zh": "均衡饮食可以改善你的心血管系统。"
+          "en": "The concentrate used in this juice is made from fresh fruits.",
+          "zh": "这种果汁使用的浓缩液是由新鲜水果制成的。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'cardiovascular' comes from 'cardio-', meaning heart, and 'vascular', meaning related to blood vessels."
+        "association": "Think of 'concentrate' as 'concentration' on a task or study."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cardiovascular&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=concentrate&type=2",
+      "chapter": "基本词汇 动词200 Unit 3"
     }
   ]
 }

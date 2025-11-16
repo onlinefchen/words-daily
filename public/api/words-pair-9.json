@@ -1,69 +1,62 @@
 {
-  "generated": "2025-11-15T22:06:24.744Z",
+  "generated": "2025-11-16T22:07:29.259Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "aquatic environment",
-      "pronunciation": "/əˈkwætɪk ɪnˈvaɪrənmənt/",
+      "word": "intestinal blockage",
+      "pronunciation": "/ɪnˈtɛstɪnəl ˈblɒkɪdʒ/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "水生环境",
-          "en": "A natural setting where water is the main element."
-        },
-        {
-          "pos": "n.",
-          "zh": "水域",
-          "en": "Any area that is covered by water, including oceans, rivers, and lakes."
+          "zh": "肠道阻塞",
+          "en": "A condition where the intestines are blocked, preventing normal digestion."
         }
       ],
       "examples": [
         {
-          "en": "The aquatic environment is home to many unique species of fish.",
-          "zh": "水生环境是许多独特鱼类的栖息地。"
+          "en": "An intestinal blockage can cause severe abdominal pain and discomfort.",
+          "zh": "肠道阻塞会导致严重的腹痛和不适。"
         },
         {
-          "en": "Pollution can seriously harm the aquatic environment and its inhabitants.",
-          "zh": "污染会严重危害水生环境及其生物。"
+          "en": "Doctors often perform surgery to relieve an intestinal blockage.",
+          "zh": "医生通常会进行手术来缓解肠道阻塞。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'aqua,' which relates to water, combined with 'environment' to remember it's a water-based ecosystem."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aquatic%20environment&type=2",
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=intestinal%20blockage&type=2",
       "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "inviolable",
-      "pronunciation": "/ɪnˈvaɪ.lə.bəl/",
+      "word": "condemn",
+      "pronunciation": "/kənˈdɛm/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "不可侵犯的",
-          "en": "Something that cannot be violated or harmed."
+          "pos": "v.",
+          "zh": "谴责",
+          "en": "To express strong disapproval of something."
         },
         {
-          "pos": "adj.",
-          "zh": "神圣的",
-          "en": "Something that is sacred and must be respected."
+          "pos": "v.",
+          "zh": "判刑",
+          "en": "To declare someone guilty and assign a punishment."
         }
       ],
       "examples": [
         {
-          "en": "The constitution guarantees certain inviolable rights for all citizens.",
-          "zh": "宪法保障所有公民享有某些不可侵犯的权利。"
+          "en": "Many leaders condemned the violent actions of the protesters.",
+          "zh": "许多领导人谴责了抗议者的暴力行为。"
         },
         {
-          "en": "Freedom of speech is considered an inviolable principle in democratic societies.",
-          "zh": "言论自由被视为民主社会中的一个不可侵犯的原则。"
+          "en": "The judge decided to condemn the criminal to ten years in prison.",
+          "zh": "法官决定判处罪犯十年监禁。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'inviolable' comes from Latin 'inviolabilis', meaning 'not to be violated'."
+        "etymology": "The word 'condemn' comes from the Latin 'condemnare', meaning 'to declare guilty'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=inviolable&type=2",
-      "chapter": "核心词汇 民主与权利 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=condemn&type=2",
+      "chapter": "基本词汇 动词200 Unit 4"
     }
   ]
 }

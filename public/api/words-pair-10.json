@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-15T22:06:24.744Z",
+  "generated": "2025-11-16T22:07:29.259Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "compatible",
-      "pronunciation": "/kəmˈpætɪbəl/",
+      "word": "base",
+      "pronunciation": "/beɪs/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "兼容的",
-          "en": "Able to exist or work together without conflict."
+          "pos": "n.",
+          "zh": "基础",
+          "en": "The bottom part of something, which supports it."
         },
         {
-          "pos": "adj.",
-          "zh": "一致的",
-          "en": "Suitable or appropriate for a particular purpose or situation."
+          "pos": "v.",
+          "zh": "基于",
+          "en": "To use something as a foundation for something else."
         }
       ],
       "examples": [
         {
-          "en": "The new software is compatible with older versions of the program.",
-          "zh": "新软件与旧版本的程序兼容。"
+          "en": "The base of the statue is made of solid marble.",
+          "zh": "雕像的基础是由坚固的大理石制成的。"
         },
         {
-          "en": "They found a compatible partner for their project.",
-          "zh": "他们为他们的项目找到了一个合适的合作伙伴。"
+          "en": "They decided to base their decision on recent research findings.",
+          "zh": "他们决定根据最新的研究结果来做出决定。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'compatible' as 'com-patible', like two items that can 'pat' each other gently without hurting."
+        "etymology": "The word 'base' comes from the Latin word 'basis', meaning 'foundation'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compatible&type=2",
-      "chapter": "核心词汇 文化与传统 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=base&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 1"
     },
     {
-      "word": "illiteracy",
-      "pronunciation": "/ɪˈlɪtəruˌsi/",
+      "word": "force",
+      "pronunciation": "/fɔrs/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "文盲",
-          "en": "The inability to read and write."
+          "pos": "v.",
+          "zh": "强迫",
+          "en": "To make someone do something they do not want to do."
         },
         {
           "pos": "n.",
-          "zh": "缺乏某种知识或技能",
-          "en": "A lack of knowledge in a specific area."
+          "zh": "力量",
+          "en": "Strength or energy as an attribute of physical action or movement."
         }
       ],
       "examples": [
         {
-          "en": "Illiteracy remains a major challenge in many developing countries.",
-          "zh": "文盲仍然是许多发展中国家的主要挑战。"
+          "en": "The teacher had to force the students to complete their homework.",
+          "zh": "老师不得不强迫学生完成作业。"
         },
         {
-          "en": "Efforts to reduce illiteracy are essential for societal progress.",
-          "zh": "减少文盲的努力对社会进步至关重要。"
+          "en": "The force of the wind knocked down several trees in the storm.",
+          "zh": "风的力量在风暴中吹倒了几棵树。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'illiteracy' as 'ill' (sick) at 'literacy' (reading skills), meaning a lack of reading ability."
+        "etymology": "The word 'force' comes from the Latin 'fortis', meaning strong or powerful."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=illiteracy&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=force&type=2",
+      "chapter": "基本词汇 动词200 Unit 7"
     }
   ]
 }

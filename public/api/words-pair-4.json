@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-15T22:06:24.744Z",
+  "generated": "2025-11-16T22:07:29.258Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "otter",
-      "pronunciation": "/ˈɑːtər/",
+      "word": "orientation mechanism",
+      "pronunciation": "/ˌɔːrɪɛnˈteɪʃən ˈmɛkənɪzəm/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "水獺",
-          "en": "A playful aquatic mammal with a long body and webbed feet."
+          "zh": "方向机制",
+          "en": "A system or method used to determine direction or position."
         },
         {
           "pos": "n.",
-          "zh": "海獺",
-          "en": "A marine animal known for its intelligence and use of tools."
+          "zh": "适应机制",
+          "en": "A process that helps someone adjust to a new environment or situation."
         }
       ],
       "examples": [
         {
-          "en": "The otter swam gracefully through the clear water of the river.",
-          "zh": "水獺在清澈的河水中優雅地游泳。"
+          "en": "The orientation mechanism helps users navigate the new software easily.",
+          "zh": "方向机制帮助用户轻松导航新软件。"
         },
         {
-          "en": "Many people enjoy watching otters play at the zoo.",
-          "zh": "許多人喜歡在動物園裡觀賞水獺玩耍。"
+          "en": "An effective orientation mechanism is essential for new employees.",
+          "zh": "有效的适应机制对新员工至关重要。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'otter' as 'water' because otters are always found in water."
+        "association": "Think of ‘orientation’ as finding your way, and ‘mechanism’ as a tool. Together, they help you find direction."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=otter&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=orientation%20mechanism&type=2",
+      "chapter": "认知词汇 动物分类 动物航行能力"
     },
     {
-      "word": "blue whale",
-      "pronunciation": "/bluː weɪl/",
+      "word": "dignity",
+      "pronunciation": "/ˈdɪɡnəti/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "蓝鲸",
-          "en": "The blue whale is the largest animal on Earth, known for its immense size."
+          "zh": "尊严",
+          "en": "The state of being worthy of respect and honor."
         },
         {
           "pos": "n.",
-          "zh": "蓝鲸",
-          "en": "Blue whales are marine mammals that live in oceans and feed on small shrimp-like animals called krill."
+          "zh": "高贵",
+          "en": "A sense of pride in oneself; self-respect."
         }
       ],
       "examples": [
         {
-          "en": "The blue whale can grow up to 100 feet long and weigh over 200 tons.",
-          "zh": "蓝鲸可以长到100英尺，体重超过200吨。"
+          "en": "Everyone deserves to be treated with dignity and respect.",
+          "zh": "每个人都应该受到尊严和尊重的对待。"
         },
         {
-          "en": "Scientists study blue whales to understand their migration patterns and feeding habits.",
-          "zh": "科学家研究蓝鲸以了解它们的迁徙模式和觅食习惯。"
+          "en": "He handled the situation with great dignity and composure.",
+          "zh": "他以极大的尊严和沉着处理了这个情况。"
         }
       ],
       "memoryTips": {
-        "association": "Think of the color blue representing the ocean, where blue whales live, and their large size as a symbol of strength and majesty."
+        "etymology": "The word 'dignity' comes from the Latin 'dignitas', meaning 'worthiness'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=blue%20whale&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dignity&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 2"
     }
   ]
 }

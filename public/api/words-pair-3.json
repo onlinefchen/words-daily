@@ -1,69 +1,64 @@
 {
-  "generated": "2025-11-15T22:06:24.744Z",
+  "generated": "2025-11-16T22:07:29.258Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "conquer",
-      "pronunciation": "/ˈkɒŋ.kər/",
+      "word": "greenhouse effect",
+      "pronunciation": "/ˈɡriːnhaʊs ɪˈfɛkt/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "征服",
-          "en": "To gain control of a place or people by force."
-        },
-        {
-          "pos": "v.",
-          "zh": "克服",
-          "en": "To overcome a problem or difficulty."
+          "pos": "n.",
+          "zh": "温室效应",
+          "en": "The warming of the Earth's surface due to trapped gases."
         }
       ],
       "examples": [
         {
-          "en": "He managed to conquer his fear of public speaking.",
-          "zh": "他成功克服了对公众演讲的恐惧。"
+          "en": "The greenhouse effect is a major cause of climate change.",
+          "zh": "温室效应是气候变化的主要原因。"
         },
         {
-          "en": "The army aimed to conquer the enemy territory quickly.",
-          "zh": "军队的目标是迅速征服敌方领土。"
+          "en": "Reducing emissions can help mitigate the greenhouse effect.",
+          "zh": "减少排放可以帮助减缓温室效应。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'conquer' as 'con' (with) + 'quer' (to seek), meaning to seek to gain control."
+        "association": "Think of a greenhouse, where plants grow better due to trapped heat and light."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=conquer&type=2",
-      "chapter": "基本词汇 动词200 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=greenhouse%20effect&type=2",
+      "chapter": "核心词汇 环境保护 Unit 3"
     },
     {
-      "word": "lavish",
-      "pronunciation": "/ˈlævɪʃ/",
+      "word": "abortion",
+      "pronunciation": "/əˈbɔːrʃən/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "奢华的",
-          "en": "Very rich and luxurious; extravagant."
+          "pos": "n.",
+          "zh": "堕胎",
+          "en": "The medical procedure to end a pregnancy."
         },
         {
           "pos": "v.",
-          "zh": "大方地给予",
-          "en": "To give something generously or in large amounts."
+          "zh": "中止",
+          "en": "To terminate or cancel something before completion."
         }
       ],
       "examples": [
         {
-          "en": "The hotel offered lavish rooms with beautiful views of the ocean.",
-          "zh": "这家酒店提供奢华的房间，可以欣赏到美丽的海景。"
+          "en": "Many women face difficult choices regarding abortion laws.",
+          "zh": "许多女性在堕胎法律面前面临艰难的选择。"
         },
         {
-          "en": "She lavished her friends with gifts during the holidays.",
-          "zh": "假期期间，她对朋友们慷慨赠送礼物。"
+          "en": "The government is debating new regulations on abortion procedures.",
+          "zh": "政府正在讨论关于堕胎程序的新法规。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'lavish' like a 'lavish party' where everything is extravagant and abundant."
+        "association": "Think of 'abort' as stopping a process, like in a computer. Abortion stops a pregnancy."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=lavish&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 11"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=abortion&type=2",
+      "chapter": "核心词汇 民主与权利 Unit 1"
     }
   ]
 }

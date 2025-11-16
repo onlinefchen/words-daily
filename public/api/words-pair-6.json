@@ -1,62 +1,69 @@
 {
-  "generated": "2025-11-15T22:06:24.744Z",
+  "generated": "2025-11-16T22:07:29.258Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "baleen whale",
-      "pronunciation": "/bəˈliːn weɪl/",
+      "word": "conserve",
+      "pronunciation": "/kənˈsɜrv/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "须鲸",
-          "en": "A type of whale that filters food from water using baleen plates."
+          "pos": "v.",
+          "zh": "保护，保存",
+          "en": "To keep something safe and prevent it from being damaged or wasted."
+        },
+        {
+          "pos": "v.",
+          "zh": "节省，节约",
+          "en": "To use something carefully so that it lasts longer or is not wasted."
         }
       ],
       "examples": [
         {
-          "en": "Baleen whales are known for their massive size and unique feeding methods.",
-          "zh": "须鲸以其巨大的体型和独特的捕食方式而闻名。"
+          "en": "We need to conserve water during the summer months.",
+          "zh": "在夏季，我们需要节约用水。"
         },
         {
-          "en": "Many baleen whales migrate long distances to find food and mate.",
-          "zh": "许多须鲸迁徙很远以寻找食物和交配。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=baleen%20whale&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
-    },
-    {
-      "word": "liberation",
-      "pronunciation": "/ˌlɪbəˈreɪʃən/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "解放",
-          "en": "The act of setting someone free from restrictions."
-        },
-        {
-          "pos": "n.",
-          "zh": "自主",
-          "en": "The state of being free and independent."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The liberation of the country was celebrated with great joy.",
-          "zh": "国家的解放得到了热烈的庆祝。"
-        },
-        {
-          "en": "She felt a sense of liberation after leaving her job.",
-          "zh": "她在离开工作后感到一种解放感。"
+          "en": "Conserving energy can help reduce your electricity bill.",
+          "zh": "节约能源可以帮助降低你的电费。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'liberation' comes from the Latin 'liberatio', which means 'to free'."
+        "association": "Think of 'conserve' as 'conserve energy' or 'conserve resources' to remember its meaning related to preservation."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=liberation&type=2",
-      "chapter": "核心词汇 民主与权利 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=conserve&type=2",
+      "chapter": "基本词汇 动词200 Unit 4"
+    },
+    {
+      "word": "complement",
+      "pronunciation": "/ˈkɒmplɪˌmɛnt/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "补充",
+          "en": "To complete or enhance something by adding to it."
+        },
+        {
+          "pos": "n.",
+          "zh": "补充物",
+          "en": "Something that completes or goes well with something else."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Her skills in design complement his abilities in engineering.",
+          "zh": "她的设计技能补充了他的工程能力。"
+        },
+        {
+          "en": "A good sauce can be the perfect complement to a dish.",
+          "zh": "好的酱汁可以成为菜肴的完美补充。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'complement' comes from the Latin 'complementum', meaning 'that which fills up'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=complement&type=2",
+      "chapter": "基本词汇 动词200 Unit 3"
     }
   ]
 }

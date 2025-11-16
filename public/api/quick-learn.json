@@ -1,68 +1,69 @@
 {
-  "generated": "2025-11-15T22:06:24.743Z",
+  "generated": "2025-11-16T22:07:29.258Z",
   "count": 2,
   "words": [
     {
-      "word": "prescribe",
-      "pronunciation": "/prɪˈskraɪb/",
+      "word": "congestion",
+      "pronunciation": "/kənˈdʒɛs.tʃən/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "开处方",
-          "en": "To officially recommend a treatment or medicine for someone."
+          "pos": "n.",
+          "zh": "拥堵， congestion",
+          "en": "A situation where there is too much traffic or people in a place."
         },
         {
-          "pos": "v.",
-          "zh": "规定",
-          "en": "To set a rule or instruction for how something should be done."
+          "pos": "n.",
+          "zh": "充血， congestion",
+          "en": "A medical condition where blood or fluid builds up in a part of the body."
         }
       ],
       "examples": [
         {
-          "en": "The doctor will prescribe medication for your condition.",
-          "zh": "医生会为你的病情开药方。"
+          "en": "Traffic congestion in the city can lead to long delays.",
+          "zh": "城市中的交通拥堵可能会导致长时间的延误。"
         },
         {
-          "en": "The school prescribes a strict dress code for students.",
-          "zh": "学校规定学生必须遵守严格的着装规范。"
+          "en": "He suffered from nasal congestion during the cold winter months.",
+          "zh": "在寒冷的冬季，他遭受了鼻塞。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'prescribe' as 'pre-scribing' a solution before the problem worsens."
+        "association": "Think of 'congestion' as a 'congested' road where too many cars are packed together."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=prescribe&type=2",
-      "chapter": "认知词汇 社会与生活分类 医生与药品推销"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=congestion&type=2",
+      "chapter": "认知词汇 历史分类 交通工具发展史"
     },
     {
-      "word": "predator",
-      "pronunciation": "/ˈprɛdətər/",
+      "word": "sensitivity",
+      "pronunciation": "/ˌsɛn.sɪˈtɪv.ɪ.ti/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "捕食者",
-          "en": "An animal that hunts and eats other animals."
+          "zh": "敏感性",
+          "en": "The quality of being sensitive to emotional or physical feelings."
         },
         {
           "pos": "n.",
-          "zh": "剥削者",
-          "en": "A person or group that exploits others for their own gain."
+          "zh": "灵敏度",
+          "en": "The ability to detect or respond to slight changes."
         }
       ],
       "examples": [
         {
-          "en": "The lion is a well-known predator in the African savanna.",
-          "zh": "狮子是非洲草原上著名的捕食者。"
+          "en": "Her sensitivity to others' feelings makes her a great friend.",
+          "zh": "她对他人感受的敏感性使她成为一个好朋友。"
         },
         {
-          "en": "Some companies act as predators, taking advantage of weaker competitors.",
-          "zh": "一些公司作为剥削者，利用较弱的竞争对手。"
+          "en": "The sensitivity of the equipment is crucial for accurate measurements.",
+          "zh": "设备的灵敏度对于准确的测量至关重要。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'predator' as someone who 'preys' on others, linking both words."
+        "etymology": "The word 'sensitivity' comes from the Latin 'sensus', meaning 'feeling'.",
+        "association": "Think of 'sensitivity' as being 'sensitive', like a touchy subject that requires care."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=predator&type=2",
-      "chapter": "认知词汇 动物分类 动物行为"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sensitivity&type=2",
+      "chapter": "核心词汇 健康话题 Unit 5"
     }
   ]
 }

@@ -1,67 +1,69 @@
 {
-  "generated": "2025-11-15T22:06:24.743Z",
+  "generated": "2025-11-16T22:07:29.258Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "marine",
-      "pronunciation": "/məˈrin/",
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "海洋的",
-          "en": "Related to the sea or ocean."
-        },
-        {
-          "pos": "n.",
-          "zh": "海洋生物",
-          "en": "A term for animals and plants that live in the ocean."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The marine ecosystem is vital for the planet's health.",
-          "zh": "海洋生态系统对地球的健康至关重要。"
-        },
-        {
-          "en": "Marine animals like dolphins are highly intelligent creatures.",
-          "zh": "像海豚这样的海洋动物是高度聪明的生物。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'marine' as related to 'marine life' or 'marine transport' to connect it with the sea."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=marine&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
-    },
-    {
-      "word": "squid",
-      "pronunciation": "/skwɪd/",
+      "word": "shoulder",
+      "pronunciation": "/ˈʃoʊldər/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "鱿鱼",
-          "en": "A type of sea creature with a long body and tentacles."
+          "zh": "肩膀",
+          "en": "The part of the body where the arm connects to the torso."
         },
         {
           "pos": "v.",
-          "zh": "快速移动",
-          "en": "To move quickly, especially in a sudden way."
+          "zh": "承担",
+          "en": "To carry or support a weight or responsibility."
         }
       ],
       "examples": [
         {
-          "en": "The chef prepared a delicious dish with fresh squid.",
-          "zh": "厨师用新鲜的鱿鱼做了一道美味的菜。"
+          "en": "He carried the heavy box on his shoulder with ease.",
+          "zh": "他轻松地把重箱子扛在肩膀上。"
         },
         {
-          "en": "The children squidded away when they saw the wave approaching.",
-          "zh": "孩子们看到海浪逼近时迅速逃跑。"
+          "en": "She shouldered the responsibility for the project’s success.",
+          "zh": "她承担了项目成功的责任。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=squid&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "memoryTips": {
+        "association": "Think of 'shoulder' as a place where you 'should' take on a 'burden'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=shoulder&type=2",
+      "chapter": "基本词汇 动词200 Unit 10"
+    },
+    {
+      "word": "upwelling",
+      "pronunciation": "/ˈʌpˌwɛlɪŋ/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "上涌",
+          "en": "The movement of water from the deep sea to the surface."
+        },
+        {
+          "pos": "v.",
+          "zh": "上涌",
+          "en": "To cause water from the deep sea to rise to the surface."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Upwelling brings nutrients to the surface, supporting marine life.",
+          "zh": "上涌将营养物质带到水面，支持海洋生物。"
+        },
+        {
+          "en": "The upwelling phenomenon is vital for fishing industries around the world.",
+          "zh": "上涌现象对世界各地的渔业至关重要。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'up' as going up and 'welling' like a well of water coming to the surface."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=upwelling&type=2",
+      "chapter": "认知词汇 自然分类 \"厄尔尼诺\"现象"
     }
   ]
 }

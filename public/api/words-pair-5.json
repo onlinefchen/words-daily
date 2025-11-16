@@ -1,69 +1,67 @@
 {
-  "generated": "2025-11-15T22:06:24.744Z",
+  "generated": "2025-11-16T22:07:29.258Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "overcome",
-      "pronunciation": "/ˌoʊ.vərˈkʌm/",
+      "word": "stream channel",
+      "pronunciation": "/striːm ˈtʃænəl/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "克服",
-          "en": "To succeed in dealing with a problem or difficulty."
+          "pos": "n.",
+          "zh": "溪流通道",
+          "en": "A stream channel is the path where water flows in a stream."
         },
         {
-          "pos": "v.",
-          "zh": "超越",
-          "en": "To gain control over something or someone."
+          "pos": "n.",
+          "zh": "水道",
+          "en": "It refers to the natural or artificial channel that guides water."
         }
       ],
       "examples": [
         {
-          "en": "She managed to overcome her fear of public speaking.",
-          "zh": "她成功克服了对公众演讲的恐惧。"
+          "en": "The stream channel was carefully monitored for pollution levels.",
+          "zh": "溪流通道被仔细监测以检测污染水平。"
         },
         {
-          "en": "He worked hard to overcome the challenges in his life.",
-          "zh": "他努力克服生活中的挑战。"
+          "en": "Fish often use the stream channel for migration during the season.",
+          "zh": "鱼类通常在季节迁徙时使用溪流通道。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'over' as going beyond and 'come' as arriving. You go beyond difficulties to arrive at success."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=overcome&type=2",
-      "chapter": "核心词汇 民主与权利 Unit 4"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=stream%20channel&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "mutual",
-      "pronunciation": "/ˈmjuːtʃuəl/",
+      "word": "defy",
+      "pronunciation": "/dɪˈfaɪ/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "相互的",
-          "en": "Shared by two or more parties, often referring to feelings or actions."
+          "pos": "v.",
+          "zh": "反抗，违抗",
+          "en": "To refuse to obey someone or something."
         },
         {
-          "pos": "adj.",
-          "zh": "共同的",
-          "en": "Relating to something that is common between two or more people."
+          "pos": "v.",
+          "zh": "挑战",
+          "en": "To challenge someone to do something; to confront."
         }
       ],
       "examples": [
         {
-          "en": "They have a mutual respect for each other's opinions and ideas.",
-          "zh": "他们对彼此的观点和想法有相互尊重。"
+          "en": "She decided to defy the rules and speak her mind.",
+          "zh": "她决定违抗规则，直言不讳。"
         },
         {
-          "en": "The two countries established mutual agreements to enhance trade.",
-          "zh": "这两个国家建立了共同协议以促进贸易。"
+          "en": "The athlete chose to defy expectations and win the race.",
+          "zh": "这位运动员选择挑战预期并赢得了比赛。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'mutual' as 'mutually shared', like two friends sharing a secret."
+        "association": "Think of 'defy' as 'defending your right' to do something against opposition."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=mutual&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 12"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=defy&type=2",
+      "chapter": "基本词汇 动词200 Unit 5"
     }
   ]
 }
