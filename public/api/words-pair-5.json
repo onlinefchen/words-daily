@@ -1,67 +1,69 @@
 {
-  "generated": "2025-11-16T22:07:29.258Z",
+  "generated": "2025-11-17T22:08:02.052Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "stream channel",
-      "pronunciation": "/striːm ˈtʃænəl/",
+      "word": "profound",
+      "pronunciation": "/prəˈfaʊnd/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "溪流通道",
-          "en": "A stream channel is the path where water flows in a stream."
+          "pos": "adj.",
+          "zh": "深刻的",
+          "en": "Having a strong impact or showing deep understanding."
         },
         {
-          "pos": "n.",
-          "zh": "水道",
-          "en": "It refers to the natural or artificial channel that guides water."
+          "pos": "adj.",
+          "zh": "深邃的",
+          "en": "Very intense or extreme in effect or quality."
         }
       ],
       "examples": [
         {
-          "en": "The stream channel was carefully monitored for pollution levels.",
-          "zh": "溪流通道被仔细监测以检测污染水平。"
+          "en": "The professor gave a profound lecture about the nature of consciousness.",
+          "zh": "教授进行了关于意识本质的深刻讲座。"
         },
         {
-          "en": "Fish often use the stream channel for migration during the season.",
-          "zh": "鱼类通常在季节迁徙时使用溪流通道。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=stream%20channel&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
-    },
-    {
-      "word": "defy",
-      "pronunciation": "/dɪˈfaɪ/",
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "反抗，违抗",
-          "en": "To refuse to obey someone or something."
-        },
-        {
-          "pos": "v.",
-          "zh": "挑战",
-          "en": "To challenge someone to do something; to confront."
-        }
-      ],
-      "examples": [
-        {
-          "en": "She decided to defy the rules and speak her mind.",
-          "zh": "她决定违抗规则，直言不讳。"
-        },
-        {
-          "en": "The athlete chose to defy expectations and win the race.",
-          "zh": "这位运动员选择挑战预期并赢得了比赛。"
+          "en": "Her profound insights changed the way we think about the issue.",
+          "zh": "她深刻的见解改变了我们对这个问题的看法。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'defy' as 'defending your right' to do something against opposition."
+        "association": "Think of 'profound' as 'pro-found'—something that is deeply founded or deeply rooted in knowledge."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=defy&type=2",
-      "chapter": "基本词汇 动词200 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=profound&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 15"
+    },
+    {
+      "word": "seduce",
+      "pronunciation": "/sɪˈdjus/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "诱惑",
+          "en": "To attract someone to do something, often in a romantic or tempting way."
+        },
+        {
+          "pos": "n.",
+          "zh": "诱惑",
+          "en": "The act of attracting someone, often in a way that is hard to resist."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She tried to seduce him with her charm and beauty.",
+          "zh": "她试图用她的魅力和美貌来诱惑他。"
+        },
+        {
+          "en": "The advertisements aim to seduce consumers into buying more products.",
+          "zh": "这些广告旨在诱惑消费者购买更多产品。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'seduce' as 'setting a mood' that draws someone in, like candlelight and music."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=seduce&type=2",
+      "chapter": "核心词汇 伦理与道德 Unit 4"
     }
   ]
 }

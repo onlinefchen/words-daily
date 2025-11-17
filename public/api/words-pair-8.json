@@ -1,60 +1,69 @@
 {
-  "generated": "2025-11-16T22:07:29.259Z",
+  "generated": "2025-11-17T22:08:02.052Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "entomologist",
-      "pronunciation": "/ˌɛn.təˈmɑː.lə.dʒɪst/",
+      "word": "larva",
+      "pronunciation": "/ˈlɑːrvə/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "昆虫学家",
-          "en": "A scientist who studies insects."
+          "zh": "幼虫",
+          "en": "A young form of an insect that has not yet developed into an adult."
+        },
+        {
+          "pos": "n.",
+          "zh": "虫态",
+          "en": "The early stage in the life cycle of certain animals, before they change into their adult form."
         }
       ],
       "examples": [
         {
-          "en": "The entomologist discovered a new species of butterfly in the rainforest.",
-          "zh": "这位昆虫学家在雨林中发现了一种新的蝴蝶物种。"
+          "en": "The larva of the butterfly is often found in the garden.",
+          "zh": "蝴蝶的幼虫常常在花园里被发现。"
         },
         {
-          "en": "Entomologists play a vital role in understanding ecosystems and biodiversity.",
-          "zh": "昆虫学家在理解生态系统和生物多样性方面发挥着至关重要的作用。"
+          "en": "After several weeks, the larva transforms into a pupa.",
+          "zh": "几周后，幼虫会变成蛹。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=entomologist&type=2",
+      "memoryTips": {
+        "association": "Think of 'larva' as 'larvae' (plural) which sounds like 'lava,' representing something that transforms, like lava turning into rock."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=larva&type=2",
       "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "declare",
-      "pronunciation": "/dɪˈklɛr/",
+      "word": "aquatic environment",
+      "pronunciation": "/əˈkwætɪk ɪnˈvaɪrənmənt/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "声明",
-          "en": "To state something officially or publicly."
+          "pos": "n.",
+          "zh": "水生环境",
+          "en": "A natural setting where water is the main element."
         },
         {
-          "pos": "v.",
-          "zh": "宣布",
-          "en": "To announce or make known something important."
+          "pos": "n.",
+          "zh": "水域",
+          "en": "Any area that is covered by water, including oceans, rivers, and lakes."
         }
       ],
       "examples": [
         {
-          "en": "The government will declare a state of emergency tomorrow.",
-          "zh": "政府明天将宣布紧急状态。"
+          "en": "The aquatic environment is home to many unique species of fish.",
+          "zh": "水生环境是许多独特鱼类的栖息地。"
         },
         {
-          "en": "She decided to declare her candidacy for the election.",
-          "zh": "她决定宣布自己参加选举。"
+          "en": "Pollution can seriously harm the aquatic environment and its inhabitants.",
+          "zh": "污染会严重危害水生环境及其生物。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=declare&type=2",
-      "chapter": "基本词汇 动词200 Unit 4"
+      "memoryTips": {
+        "association": "Think of 'aqua,' which relates to water, combined with 'environment' to remember it's a water-based ecosystem."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aquatic%20environment&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

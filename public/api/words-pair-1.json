@@ -1,70 +1,69 @@
 {
-  "generated": "2025-11-16T22:07:29.258Z",
+  "generated": "2025-11-17T22:08:02.051Z",
   "pair": 1,
   "count": 2,
   "words": [
     {
-      "word": "congestion",
-      "pronunciation": "/kənˈdʒɛs.tʃən/",
+      "word": "rainforest",
+      "pronunciation": "/ˈreɪnˌfɔrɪst/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "拥堵， congestion",
-          "en": "A situation where there is too much traffic or people in a place."
+          "zh": "雨林",
+          "en": "A rainforest is a dense forest found in tropical areas with heavy rainfall."
         },
         {
           "pos": "n.",
-          "zh": "充血， congestion",
-          "en": "A medical condition where blood or fluid builds up in a part of the body."
+          "zh": "热带雨林",
+          "en": "Rainforests are important ecosystems that host a wide variety of plants and animals."
         }
       ],
       "examples": [
         {
-          "en": "Traffic congestion in the city can lead to long delays.",
-          "zh": "城市中的交通拥堵可能会导致长时间的延误。"
+          "en": "The Amazon rainforest is home to countless species of wildlife.",
+          "zh": "亚马逊雨林是无数野生动物的家园。"
         },
         {
-          "en": "He suffered from nasal congestion during the cold winter months.",
-          "zh": "在寒冷的冬季，他遭受了鼻塞。"
+          "en": "Conserving rainforests is essential for global biodiversity.",
+          "zh": "保护雨林对于全球生物多样性至关重要。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'congestion' as a 'congested' road where too many cars are packed together."
+        "association": "Think of 'rain' for the heavy rainfall and 'forest' for the trees and plants."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=congestion&type=2",
-      "chapter": "认知词汇 历史分类 交通工具发展史"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=rainforest&type=2",
+      "chapter": "认知词汇 自然分类 热带雨林"
     },
     {
-      "word": "sensitivity",
-      "pronunciation": "/ˌsɛn.sɪˈtɪv.ɪ.ti/",
+      "word": "hypocrisy",
+      "pronunciation": "/hɪˈpɒkrəsi/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "敏感性",
-          "en": "The quality of being sensitive to emotional or physical feelings."
+          "zh": "虚伪",
+          "en": "The act of pretending to have beliefs or values that one does not truly hold."
         },
         {
           "pos": "n.",
-          "zh": "灵敏度",
-          "en": "The ability to detect or respond to slight changes."
+          "zh": "伪善",
+          "en": "A condition where someone criticizes others for behaviors they themselves engage in."
         }
       ],
       "examples": [
         {
-          "en": "Her sensitivity to others' feelings makes her a great friend.",
-          "zh": "她对他人感受的敏感性使她成为一个好朋友。"
+          "en": "His hypocrisy was evident when he condemned others for lying.",
+          "zh": "当他谴责他人撒谎时，他的虚伪显而易见。"
         },
         {
-          "en": "The sensitivity of the equipment is crucial for accurate measurements.",
-          "zh": "设备的灵敏度对于准确的测量至关重要。"
+          "en": "Many politicians are often accused of hypocrisy in their promises.",
+          "zh": "许多政治家常常因他们的承诺而被指责为虚伪。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'sensitivity' comes from the Latin 'sensus', meaning 'feeling'.",
-        "association": "Think of 'sensitivity' as being 'sensitive', like a touchy subject that requires care."
+        "etymology": "The word 'hypocrisy' comes from the Greek 'hypokrisis', meaning 'acting' or 'playing a part'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sensitivity&type=2",
-      "chapter": "核心词汇 健康话题 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=hypocrisy&type=2",
+      "chapter": "核心词汇 伦理与道德 Unit 3"
     }
   ]
 }

@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-16T22:07:29.259Z",
+  "generated": "2025-11-17T22:08:02.052Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "base",
-      "pronunciation": "/beɪs/",
+      "word": "safety",
+      "pronunciation": "/ˈseɪfti/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "基础",
-          "en": "The bottom part of something, which supports it."
+          "zh": "安全",
+          "en": "The condition of being protected from harm or danger."
         },
         {
-          "pos": "v.",
-          "zh": "基于",
-          "en": "To use something as a foundation for something else."
+          "pos": "n.",
+          "zh": "安全措施",
+          "en": "Actions or protocols taken to ensure protection and prevent accidents."
         }
       ],
       "examples": [
         {
-          "en": "The base of the statue is made of solid marble.",
-          "zh": "雕像的基础是由坚固的大理石制成的。"
+          "en": "The safety of our children is our top priority at school.",
+          "zh": "我们学校孩子们的安全是我们的首要任务。"
         },
         {
-          "en": "They decided to base their decision on recent research findings.",
-          "zh": "他们决定根据最新的研究结果来做出决定。"
+          "en": "Always wear a helmet for your safety while riding a bike.",
+          "zh": "骑自行车时一定要戴头盔以确保安全。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'base' comes from the Latin word 'basis', meaning 'foundation'."
+        "association": "Think of 'safe' when you hear 'safety', as it directly relates to being safe."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=base&type=2",
-      "chapter": "核心词汇 动物权益与保护 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=safety&type=2",
+      "chapter": "基本词汇 名词200 Unit 7"
     },
     {
-      "word": "force",
-      "pronunciation": "/fɔrs/",
+      "word": "coverage",
+      "pronunciation": "/ˈkʌv.ər.ɪdʒ/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "强迫",
-          "en": "To make someone do something they do not want to do."
+          "pos": "n.",
+          "zh": "覆盖范围",
+          "en": "The range or extent of something, like news or insurance."
         },
         {
           "pos": "n.",
-          "zh": "力量",
-          "en": "Strength or energy as an attribute of physical action or movement."
+          "zh": "报道",
+          "en": "The reporting of news or information about an event."
         }
       ],
       "examples": [
         {
-          "en": "The teacher had to force the students to complete their homework.",
-          "zh": "老师不得不强迫学生完成作业。"
+          "en": "The coverage of the event was extensive and reached many viewers.",
+          "zh": "该事件的报道非常广泛，覆盖了许多观众。"
         },
         {
-          "en": "The force of the wind knocked down several trees in the storm.",
-          "zh": "风的力量在风暴中吹倒了几棵树。"
+          "en": "Insurance coverage is essential for protecting your health and finances.",
+          "zh": "保险覆盖对于保护你的健康和财务至关重要。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'force' comes from the Latin 'fortis', meaning strong or powerful."
+        "association": "Think of 'cover' as putting something over or around, like a blanket covering a bed."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=force&type=2",
-      "chapter": "基本词汇 动词200 Unit 7"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=coverage&type=2",
+      "chapter": "核心词汇 民主与权利 Unit 1"
     }
   ]
 }

@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-16T22:07:29.258Z",
+  "generated": "2025-11-17T22:08:02.051Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "orientation mechanism",
-      "pronunciation": "/ˌɔːrɪɛnˈteɪʃən ˈmɛkənɪzəm/",
+      "word": "accessible",
+      "pronunciation": "/əkˈsɛsəbl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "方向机制",
-          "en": "A system or method used to determine direction or position."
+          "pos": "adj.",
+          "zh": "可接近的",
+          "en": "Easy to reach or enter."
         },
         {
-          "pos": "n.",
-          "zh": "适应机制",
-          "en": "A process that helps someone adjust to a new environment or situation."
+          "pos": "adj.",
+          "zh": "可获得的",
+          "en": "Available for use or easy to obtain."
         }
       ],
       "examples": [
         {
-          "en": "The orientation mechanism helps users navigate the new software easily.",
-          "zh": "方向机制帮助用户轻松导航新软件。"
+          "en": "The library is accessible to everyone in the community.",
+          "zh": "图书馆对社区的每个人都是可接近的。"
         },
         {
-          "en": "An effective orientation mechanism is essential for new employees.",
-          "zh": "有效的适应机制对新员工至关重要。"
+          "en": "The website is designed to be accessible for all users.",
+          "zh": "该网站设计得对所有用户都可获得。"
         }
       ],
       "memoryTips": {
-        "association": "Think of ‘orientation’ as finding your way, and ‘mechanism’ as a tool. Together, they help you find direction."
+        "association": "Think of 'access' as entering a place; if something is accessible, you can enter easily."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=orientation%20mechanism&type=2",
-      "chapter": "认知词汇 动物分类 动物航行能力"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=accessible&type=2",
+      "chapter": "核心词汇 科技发展 Unit 1"
     },
     {
-      "word": "dignity",
-      "pronunciation": "/ˈdɪɡnəti/",
+      "word": "savage",
+      "pronunciation": "/ˈsævɪdʒ/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "尊严",
-          "en": "The state of being worthy of respect and honor."
+          "pos": "adj.",
+          "zh": "野蛮的",
+          "en": "Extremely cruel or violent."
         },
         {
           "pos": "n.",
-          "zh": "高贵",
-          "en": "A sense of pride in oneself; self-respect."
+          "zh": "野蛮人",
+          "en": "A fierce or brutal person."
         }
       ],
       "examples": [
         {
-          "en": "Everyone deserves to be treated with dignity and respect.",
-          "zh": "每个人都应该受到尊严和尊重的对待。"
+          "en": "The savage attack left the villagers in a state of shock.",
+          "zh": "这次野蛮的袭击让村民们感到震惊。"
         },
         {
-          "en": "He handled the situation with great dignity and composure.",
-          "zh": "他以极大的尊严和沉着处理了这个情况。"
+          "en": "He was known as a savage warrior in ancient times.",
+          "zh": "在古代，他被称为野蛮的战士。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'dignity' comes from the Latin 'dignitas', meaning 'worthiness'."
+        "etymology": "The word 'savage' comes from the Latin 'silvaticus', meaning 'of the woods', which relates to wildness."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dignity&type=2",
-      "chapter": "核心词汇 动物权益与保护 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=savage&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 16"
     }
   ]
 }

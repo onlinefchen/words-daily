@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-16T22:07:29.259Z",
+  "generated": "2025-11-17T22:08:02.052Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "disparity",
-      "pronunciation": "/dɪsˈpær.ɪ.ti/",
+      "word": "preferable",
+      "pronunciation": "/ˈprɛfərəbəl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "差异",
-          "en": "A significant difference between two or more things."
+          "pos": "adj.",
+          "zh": "更可取的",
+          "en": "More desirable or suitable than something else."
         },
         {
-          "pos": "n.",
-          "zh": "不平等",
-          "en": "The condition of being unequal or different in some way."
+          "pos": "adj.",
+          "zh": "优先选择的",
+          "en": "Preferred over other options or choices."
         }
       ],
       "examples": [
         {
-          "en": "There is a noticeable disparity in income levels across the country.",
-          "zh": "全国各地的收入水平存在明显差异。"
+          "en": "It is preferable to study in a quiet environment for better concentration.",
+          "zh": "在安静的环境中学习更可取，以提高专注力。"
         },
         {
-          "en": "The disparity between rich and poor continues to grow each year.",
-          "zh": "富人和穷人之间的差距每年都在扩大。"
+          "en": "Many people find it preferable to work from home rather than commuting.",
+          "zh": "许多人发现居家工作比通勤更优先选择。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'disparity' as 'dis' (not) + 'parity' (equality), meaning not equal."
+        "association": "Think of 'prefer' in 'preferable' to recall that it means to choose something over another."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disparity&type=2",
-      "chapter": "核心词汇 民主与权利 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=preferable&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 15"
     },
     {
-      "word": "concentrate",
-      "pronunciation": "/ˈkɒn.sən.treɪt/",
+      "word": "rebel",
+      "pronunciation": "/ˈrɛbəl/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "集中注意力",
-          "en": "To focus all your attention on something."
+          "zh": "反抗",
+          "en": "To resist authority or control; to fight against rules."
         },
         {
           "pos": "n.",
-          "zh": "浓缩物",
-          "en": "A substance that has been made denser or stronger."
+          "zh": "叛逆者",
+          "en": "A person who opposes or fights against authority."
         }
       ],
       "examples": [
         {
-          "en": "It is important to concentrate when studying for exams.",
-          "zh": "考试复习时集中注意力是很重要的。"
+          "en": "Many young people choose to rebel against strict rules at home.",
+          "zh": "许多年轻人选择反抗家庭中的严格规则。"
         },
         {
-          "en": "The concentrate used in this juice is made from fresh fruits.",
-          "zh": "这种果汁使用的浓缩液是由新鲜水果制成的。"
+          "en": "The rebel group fought for independence from the government.",
+          "zh": "该叛乱团体为脱离政府而斗争。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'concentrate' as 'concentration' on a task or study."
+        "association": "Think of a 'rebel' as someone who 'rebels' against the norm or expected behavior."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=concentrate&type=2",
-      "chapter": "基本词汇 动词200 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=rebel&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 8"
     }
   ]
 }

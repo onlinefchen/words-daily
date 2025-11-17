@@ -1,62 +1,69 @@
 {
-  "generated": "2025-11-16T22:07:29.259Z",
+  "generated": "2025-11-17T22:08:02.052Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "intestinal blockage",
-      "pronunciation": "/ɪnˈtɛstɪnəl ˈblɒkɪdʒ/",
+      "word": "ego",
+      "pronunciation": "/ˈiːɡoʊ/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "肠道阻塞",
-          "en": "A condition where the intestines are blocked, preventing normal digestion."
+          "zh": "自我",
+          "en": "A person's sense of self-importance or self-esteem."
+        },
+        {
+          "pos": "n.",
+          "zh": "自我意识",
+          "en": "The part of the mind that mediates between the conscious and the unconscious."
         }
       ],
       "examples": [
         {
-          "en": "An intestinal blockage can cause severe abdominal pain and discomfort.",
-          "zh": "肠道阻塞会导致严重的腹痛和不适。"
+          "en": "Her ego was bruised after the criticism from her peers.",
+          "zh": "在同龄人的批评后，她的自我意识受到了伤害。"
         },
         {
-          "en": "Doctors often perform surgery to relieve an intestinal blockage.",
-          "zh": "医生通常会进行手术来缓解肠道阻塞。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=intestinal%20blockage&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
-    },
-    {
-      "word": "condemn",
-      "pronunciation": "/kənˈdɛm/",
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "谴责",
-          "en": "To express strong disapproval of something."
-        },
-        {
-          "pos": "v.",
-          "zh": "判刑",
-          "en": "To declare someone guilty and assign a punishment."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Many leaders condemned the violent actions of the protesters.",
-          "zh": "许多领导人谴责了抗议者的暴力行为。"
-        },
-        {
-          "en": "The judge decided to condemn the criminal to ten years in prison.",
-          "zh": "法官决定判处罪犯十年监禁。"
+          "en": "He has a big ego, often making everything about himself.",
+          "zh": "他自我意识强烈，常常让一切事物都围绕自己。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'condemn' comes from the Latin 'condemnare', meaning 'to declare guilty'."
+        "association": "Think of 'ego' as 'I go', representing self-focus and personal identity."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=condemn&type=2",
-      "chapter": "基本词汇 动词200 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ego&type=2",
+      "chapter": "核心词汇 伦理与道德 Unit 2"
+    },
+    {
+      "word": "animal behaviour",
+      "pronunciation": "/ˈænɪməl bɪˈheɪvjər/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "动物行为",
+          "en": "The way animals act or respond to their environment."
+        },
+        {
+          "pos": "n.",
+          "zh": "动物行为学",
+          "en": "The scientific study of how animals behave."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Understanding animal behaviour can help us protect endangered species.",
+          "zh": "理解动物行为可以帮助我们保护濒危物种。"
+        },
+        {
+          "en": "Researchers observe animal behaviour to learn about their social interactions.",
+          "zh": "研究人员观察动物行为以了解它们的社会互动。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of how animals behave in the wild, which helps link the word to its meaning."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=animal%20behaviour&type=2",
+      "chapter": "认知词汇 动物分类 动物行为"
     }
   ]
 }

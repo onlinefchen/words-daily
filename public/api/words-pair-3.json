@@ -1,64 +1,67 @@
 {
-  "generated": "2025-11-16T22:07:29.258Z",
+  "generated": "2025-11-17T22:08:02.051Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "greenhouse effect",
-      "pronunciation": "/ˈɡriːnhaʊs ɪˈfɛkt/",
+      "word": "domestic",
+      "pronunciation": "/dəˈmɛstɪk/",
       "meanings": [
         {
+          "pos": "adj.",
+          "zh": "国内的，家庭的",
+          "en": "Relating to the home or family; not foreign."
+        },
+        {
           "pos": "n.",
-          "zh": "温室效应",
-          "en": "The warming of the Earth's surface due to trapped gases."
+          "zh": "国内事务，家务",
+          "en": "A term referring to activities or issues within a country."
         }
       ],
       "examples": [
         {
-          "en": "The greenhouse effect is a major cause of climate change.",
-          "zh": "温室效应是气候变化的主要原因。"
+          "en": "The domestic market has shown significant growth this year.",
+          "zh": "国内市场今年表现出显著增长。"
         },
         {
-          "en": "Reducing emissions can help mitigate the greenhouse effect.",
-          "zh": "减少排放可以帮助减缓温室效应。"
+          "en": "They adopted a domestic cat from the local animal shelter.",
+          "zh": "他们从当地动物收容所领养了一只家猫。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a greenhouse, where plants grow better due to trapped heat and light."
+        "association": "Think of 'domestic' as related to 'domicile', which means home."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=greenhouse%20effect&type=2",
-      "chapter": "核心词汇 环境保护 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=domestic&type=2",
+      "chapter": "核心词汇 环境保护 Unit 2"
     },
     {
-      "word": "abortion",
-      "pronunciation": "/əˈbɔːrʃən/",
+      "word": "detect",
+      "pronunciation": "/dɪˈtɛkt/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "堕胎",
-          "en": "The medical procedure to end a pregnancy."
+          "pos": "v.",
+          "zh": "发现，侦测",
+          "en": "To notice or discover something."
         },
         {
           "pos": "v.",
-          "zh": "中止",
-          "en": "To terminate or cancel something before completion."
+          "zh": "测出，探测",
+          "en": "To find out the presence of something, especially something hidden."
         }
       ],
       "examples": [
         {
-          "en": "Many women face difficult choices regarding abortion laws.",
-          "zh": "许多女性在堕胎法律面前面临艰难的选择。"
+          "en": "Scientists can detect changes in the climate very quickly.",
+          "zh": "科学家能够很快发现气候变化。"
         },
         {
-          "en": "The government is debating new regulations on abortion procedures.",
-          "zh": "政府正在讨论关于堕胎程序的新法规。"
+          "en": "The security system is designed to detect any unauthorized access.",
+          "zh": "安全系统旨在检测任何未经授权的访问。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'abort' as stopping a process, like in a computer. Abortion stops a pregnancy."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=abortion&type=2",
-      "chapter": "核心词汇 民主与权利 Unit 1"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=detect&type=2",
+      "chapter": "认知词汇 动物分类 动物航行能力"
     }
   ]
 }

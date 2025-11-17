@@ -1,69 +1,70 @@
 {
-  "generated": "2025-11-16T22:07:29.258Z",
+  "generated": "2025-11-17T22:08:02.052Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "conserve",
-      "pronunciation": "/kənˈsɜrv/",
+      "word": "depravation",
+      "pronunciation": "/dɪˈpræv.ə.ʃən/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "保护，保存",
-          "en": "To keep something safe and prevent it from being damaged or wasted."
-        },
-        {
-          "pos": "v.",
-          "zh": "节省，节约",
-          "en": "To use something carefully so that it lasts longer or is not wasted."
-        }
-      ],
-      "examples": [
-        {
-          "en": "We need to conserve water during the summer months.",
-          "zh": "在夏季，我们需要节约用水。"
-        },
-        {
-          "en": "Conserving energy can help reduce your electricity bill.",
-          "zh": "节约能源可以帮助降低你的电费。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'conserve' as 'conserve energy' or 'conserve resources' to remember its meaning related to preservation."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=conserve&type=2",
-      "chapter": "基本词汇 动词200 Unit 4"
-    },
-    {
-      "word": "complement",
-      "pronunciation": "/ˈkɒmplɪˌmɛnt/",
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "补充",
-          "en": "To complete or enhance something by adding to it."
+          "pos": "n.",
+          "zh": "剥夺; 缺乏",
+          "en": "The state of lacking basic necessities or comforts."
         },
         {
           "pos": "n.",
-          "zh": "补充物",
-          "en": "Something that completes or goes well with something else."
+          "zh": "道德败坏",
+          "en": "A state of moral corruption or degradation."
         }
       ],
       "examples": [
         {
-          "en": "Her skills in design complement his abilities in engineering.",
-          "zh": "她的设计技能补充了他的工程能力。"
+          "en": "The depravation of food can lead to serious health issues.",
+          "zh": "食物的剥夺可能导致严重的健康问题。"
         },
         {
-          "en": "A good sauce can be the perfect complement to a dish.",
-          "zh": "好的酱汁可以成为菜肴的完美补充。"
+          "en": "His actions showed a clear sign of moral depravation.",
+          "zh": "他的行为明显显示出道德败坏的迹象。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'complement' comes from the Latin 'complementum', meaning 'that which fills up'."
+        "etymology": "The word 'depravation' comes from the Latin 'depravare', meaning 'to make worse' or 'to corrupt'.",
+        "association": "Think of 'deprive' (to take away) and relate it to 'depravation' as a state of having something taken away."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=complement&type=2",
-      "chapter": "基本词汇 动词200 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=depravation&type=2",
+      "chapter": "核心词汇 伦理与道德 Unit 2"
+    },
+    {
+      "word": "hawksbill",
+      "pronunciation": "/ˈhɔksbɪl/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "玳瑁",
+          "en": "A type of sea turtle known for its beautiful shell."
+        },
+        {
+          "pos": "n.",
+          "zh": "玳瑁的壳",
+          "en": "The shell of the hawksbill turtle, often used for decorative items."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The hawksbill turtle is critically endangered due to habitat loss.",
+          "zh": "玳瑁因栖息地丧失而濒临灭绝。"
+        },
+        {
+          "en": "Many countries have laws to protect hawksbill turtles from poaching.",
+          "zh": "许多国家有法律保护玳瑁免受偷猎。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'hawks' as the bird of prey and 'bill' as its beak, associating it with the turtle's pointed head."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=hawksbill&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

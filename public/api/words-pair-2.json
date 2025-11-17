@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-16T22:07:29.258Z",
+  "generated": "2025-11-17T22:08:02.051Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "shoulder",
-      "pronunciation": "/ˈʃoʊldər/",
+      "word": "aggressive",
+      "pronunciation": "/əˈɡrɛsɪv/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "肩膀",
-          "en": "The part of the body where the arm connects to the torso."
+          "pos": "adj.",
+          "zh": "好斗的，侵略性的",
+          "en": "Ready to attack or confront; very forceful."
         },
         {
-          "pos": "v.",
-          "zh": "承担",
-          "en": "To carry or support a weight or responsibility."
+          "pos": "adj.",
+          "zh": "积极的，主动的",
+          "en": "Showing a strong desire to succeed or make progress."
         }
       ],
       "examples": [
         {
-          "en": "He carried the heavy box on his shoulder with ease.",
-          "zh": "他轻松地把重箱子扛在肩膀上。"
+          "en": "His aggressive behavior in the debate surprised everyone.",
+          "zh": "他在辩论中好斗的行为让所有人感到惊讶。"
         },
         {
-          "en": "She shouldered the responsibility for the project’s success.",
-          "zh": "她承担了项目成功的责任。"
+          "en": "The company took aggressive steps to increase its market share.",
+          "zh": "该公司采取了积极的措施来扩大其市场份额。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'shoulder' as a place where you 'should' take on a 'burden'."
+        "association": "Think of 'aggressive' as someone who is always ready to 'grab' opportunities."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=shoulder&type=2",
-      "chapter": "基本词汇 动词200 Unit 10"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aggressive&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "upwelling",
-      "pronunciation": "/ˈʌpˌwɛlɪŋ/",
+      "word": "trustful",
+      "pronunciation": "/ˈtrʌstfəl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "上涌",
-          "en": "The movement of water from the deep sea to the surface."
+          "pos": "adj.",
+          "zh": "可信任的",
+          "en": "Someone who is willing to believe in others and their honesty."
         },
         {
-          "pos": "v.",
-          "zh": "上涌",
-          "en": "To cause water from the deep sea to rise to the surface."
+          "pos": "adj.",
+          "zh": "容易信任的",
+          "en": "A person who readily places confidence in others."
         }
       ],
       "examples": [
         {
-          "en": "Upwelling brings nutrients to the surface, supporting marine life.",
-          "zh": "上涌将营养物质带到水面，支持海洋生物。"
+          "en": "She is very trustful, always believing in the good of people.",
+          "zh": "她非常可信，总是相信人们的善良。"
         },
         {
-          "en": "The upwelling phenomenon is vital for fishing industries around the world.",
-          "zh": "上涌现象对世界各地的渔业至关重要。"
+          "en": "His trustful nature made it easy for others to manipulate him.",
+          "zh": "他容易信任的性格让别人很容易操控他。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'up' as going up and 'welling' like a well of water coming to the surface."
+        "association": "Think of 'trust' as a foundation of the word, indicating a person who is open to trusting others."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=upwelling&type=2",
-      "chapter": "认知词汇 自然分类 \"厄尔尼诺\"现象"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=trustful&type=2",
+      "chapter": "核心词汇 法制与犯罪 Unit 5"
     }
   ]
 }
