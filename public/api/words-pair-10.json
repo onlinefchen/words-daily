@@ -1,69 +1,62 @@
 {
-  "generated": "2025-11-17T22:08:02.052Z",
+  "generated": "2025-11-18T22:08:06.330Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "safety",
-      "pronunciation": "/ˈseɪfti/",
+      "word": "magnetic sense",
+      "pronunciation": "/mæɡˈnɛtɪk sɛns/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "安全",
-          "en": "The condition of being protected from harm or danger."
-        },
-        {
-          "pos": "n.",
-          "zh": "安全措施",
-          "en": "Actions or protocols taken to ensure protection and prevent accidents."
+          "zh": "磁性感知",
+          "en": "The ability of some animals to detect Earth's magnetic field for navigation."
         }
       ],
       "examples": [
         {
-          "en": "The safety of our children is our top priority at school.",
-          "zh": "我们学校孩子们的安全是我们的首要任务。"
+          "en": "Many birds use their magnetic sense to find their way during migration.",
+          "zh": "许多鸟类利用它们的磁性感知在迁徙时找到方向。"
         },
         {
-          "en": "Always wear a helmet for your safety while riding a bike.",
-          "zh": "骑自行车时一定要戴头盔以确保安全。"
+          "en": "Researchers study the magnetic sense of sea turtles to understand their navigation.",
+          "zh": "研究人员研究海龟的磁性感知以了解它们的导航方式。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'safe' when you hear 'safety', as it directly relates to being safe."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=safety&type=2",
-      "chapter": "基本词汇 名词200 Unit 7"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=magnetic%20sense&type=2",
+      "chapter": "认知词汇 动物分类 动物航行能力"
     },
     {
-      "word": "coverage",
-      "pronunciation": "/ˈkʌv.ər.ɪdʒ/",
+      "word": "aggressive",
+      "pronunciation": "/əˈɡrɛsɪv/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "覆盖范围",
-          "en": "The range or extent of something, like news or insurance."
+          "pos": "adj.",
+          "zh": "好斗的，侵略性的",
+          "en": "Ready to attack or confront; very forceful."
         },
         {
-          "pos": "n.",
-          "zh": "报道",
-          "en": "The reporting of news or information about an event."
+          "pos": "adj.",
+          "zh": "积极的，主动的",
+          "en": "Showing a strong desire to succeed or make progress."
         }
       ],
       "examples": [
         {
-          "en": "The coverage of the event was extensive and reached many viewers.",
-          "zh": "该事件的报道非常广泛，覆盖了许多观众。"
+          "en": "His aggressive behavior in the debate surprised everyone.",
+          "zh": "他在辩论中好斗的行为让所有人感到惊讶。"
         },
         {
-          "en": "Insurance coverage is essential for protecting your health and finances.",
-          "zh": "保险覆盖对于保护你的健康和财务至关重要。"
+          "en": "The company took aggressive steps to increase its market share.",
+          "zh": "该公司采取了积极的措施来扩大其市场份额。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'cover' as putting something over or around, like a blanket covering a bed."
+        "association": "Think of 'aggressive' as someone who is always ready to 'grab' opportunities."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=coverage&type=2",
-      "chapter": "核心词汇 民主与权利 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aggressive&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

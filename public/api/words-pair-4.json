@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-17T22:08:02.051Z",
+  "generated": "2025-11-18T22:08:06.329Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "accessible",
-      "pronunciation": "/əkˈsɛsəbl/",
+      "word": "tolerant",
+      "pronunciation": "/ˈtɑːlərənt/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "可接近的",
-          "en": "Easy to reach or enter."
+          "zh": "宽容的",
+          "en": "Able to accept different views or behaviors without getting upset."
         },
         {
           "pos": "adj.",
-          "zh": "可获得的",
-          "en": "Available for use or easy to obtain."
+          "zh": "耐受的",
+          "en": "Able to endure difficult conditions or situations."
         }
       ],
       "examples": [
         {
-          "en": "The library is accessible to everyone in the community.",
-          "zh": "图书馆对社区的每个人都是可接近的。"
+          "en": "She is very tolerant of different cultures and traditions.",
+          "zh": "她对不同的文化和传统非常宽容。"
         },
         {
-          "en": "The website is designed to be accessible for all users.",
-          "zh": "该网站设计得对所有用户都可获得。"
+          "en": "Being tolerant helps create a peaceful and harmonious society.",
+          "zh": "宽容有助于创造一个和平和谐的社会。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'access' as entering a place; if something is accessible, you can enter easily."
+        "association": "Think of 'tolerate' which means to endure; both words share a similar meaning."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=accessible&type=2",
-      "chapter": "核心词汇 科技发展 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=tolerant&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 19"
     },
     {
-      "word": "savage",
-      "pronunciation": "/ˈsævɪdʒ/",
+      "word": "athletic",
+      "pronunciation": "/æθˈlɛtɪk/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "野蛮的",
-          "en": "Extremely cruel or violent."
+          "zh": "运动的",
+          "en": "Relating to sports or physical exercise."
         },
         {
-          "pos": "n.",
-          "zh": "野蛮人",
-          "en": "A fierce or brutal person."
+          "pos": "adj.",
+          "zh": "身体强壮的",
+          "en": "Having a strong and fit body, suitable for sports."
         }
       ],
       "examples": [
         {
-          "en": "The savage attack left the villagers in a state of shock.",
-          "zh": "这次野蛮的袭击让村民们感到震惊。"
+          "en": "The athletic competition attracted many talented young athletes.",
+          "zh": "这场体育比赛吸引了许多有才华的年轻运动员。"
         },
         {
-          "en": "He was known as a savage warrior in ancient times.",
-          "zh": "在古代，他被称为野蛮的战士。"
+          "en": "She has an athletic build, perfect for running and jumping.",
+          "zh": "她的体格健壮，非常适合跑步和跳跃。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'savage' comes from the Latin 'silvaticus', meaning 'of the woods', which relates to wildness."
+        "association": "Think of 'athletic' as related to 'athlete', someone who is fit and participates in sports."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=savage&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 16"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=athletic&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 3"
     }
   ]
 }

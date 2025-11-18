@@ -1,69 +1,65 @@
 {
-  "generated": "2025-11-17T22:08:02.052Z",
+  "generated": "2025-11-18T22:08:06.329Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "ego",
-      "pronunciation": "/ˈiːɡoʊ/",
+      "word": "sockeye",
+      "pronunciation": "/ˈsɑːkaɪ/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "自我",
-          "en": "A person's sense of self-importance or self-esteem."
+          "zh": "红鲑",
+          "en": "A type of salmon known for its bright red flesh."
         },
         {
           "pos": "n.",
-          "zh": "自我意识",
-          "en": "The part of the mind that mediates between the conscious and the unconscious."
+          "zh": "西雅图的红鲑",
+          "en": "A specific species of Pacific salmon found in North America."
         }
       ],
       "examples": [
         {
-          "en": "Her ego was bruised after the criticism from her peers.",
-          "zh": "在同龄人的批评后，她的自我意识受到了伤害。"
+          "en": "The sockeye salmon is famous for its rich flavor and bright color.",
+          "zh": "红鲑以其浓郁的味道和鲜艳的颜色而闻名。"
         },
         {
-          "en": "He has a big ego, often making everything about himself.",
-          "zh": "他自我意识强烈，常常让一切事物都围绕自己。"
+          "en": "Many people travel to Alaska to see the sockeye salmon run each summer.",
+          "zh": "许多人夏天去阿拉斯加观看红鲑的洄游。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'ego' as 'I go', representing self-focus and personal identity."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ego&type=2",
-      "chapter": "核心词汇 伦理与道德 Unit 2"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sockeye&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "animal behaviour",
-      "pronunciation": "/ˈænɪməl bɪˈheɪvjər/",
+      "word": "social animal",
+      "pronunciation": "/ˈsoʊ.ʃəl ˈæn.ɪ.məl/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "动物行为",
-          "en": "The way animals act or respond to their environment."
+          "zh": "社交动物",
+          "en": "A creature that enjoys interacting with others and thrives in groups."
         },
         {
           "pos": "n.",
-          "zh": "动物行为学",
-          "en": "The scientific study of how animals behave."
+          "zh": "社会性动物",
+          "en": "An animal that forms social bonds and lives in communities."
         }
       ],
       "examples": [
         {
-          "en": "Understanding animal behaviour can help us protect endangered species.",
-          "zh": "理解动物行为可以帮助我们保护濒危物种。"
+          "en": "Humans are often described as social animals due to their need for connection.",
+          "zh": "人类常被描述为社交动物，因为他们需要联系。"
         },
         {
-          "en": "Researchers observe animal behaviour to learn about their social interactions.",
-          "zh": "研究人员观察动物行为以了解它们的社会互动。"
+          "en": "Many social animals, like wolves, work together to hunt and protect their group.",
+          "zh": "许多社交动物，如狼，合作狩猎和保护他们的群体。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of how animals behave in the wild, which helps link the word to its meaning."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=animal%20behaviour&type=2",
-      "chapter": "认知词汇 动物分类 动物行为"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=social%20animal&type=2",
+      "chapter": "认知词汇 动物分类 动物智力与语言习得"
     }
   ]
 }

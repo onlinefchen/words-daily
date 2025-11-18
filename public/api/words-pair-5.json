@@ -1,69 +1,70 @@
 {
-  "generated": "2025-11-17T22:08:02.052Z",
+  "generated": "2025-11-18T22:08:06.329Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "profound",
-      "pronunciation": "/prəˈfaʊnd/",
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "深刻的",
-          "en": "Having a strong impact or showing deep understanding."
-        },
-        {
-          "pos": "adj.",
-          "zh": "深邃的",
-          "en": "Very intense or extreme in effect or quality."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The professor gave a profound lecture about the nature of consciousness.",
-          "zh": "教授进行了关于意识本质的深刻讲座。"
-        },
-        {
-          "en": "Her profound insights changed the way we think about the issue.",
-          "zh": "她深刻的见解改变了我们对这个问题的看法。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'profound' as 'pro-found'—something that is deeply founded or deeply rooted in knowledge."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=profound&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 15"
-    },
-    {
-      "word": "seduce",
-      "pronunciation": "/sɪˈdjus/",
+      "word": "deserve",
+      "pronunciation": "/dɪˈzɜrv/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "诱惑",
-          "en": "To attract someone to do something, often in a romantic or tempting way."
+          "zh": "应得",
+          "en": "to have earned something because of your actions or qualities."
         },
         {
-          "pos": "n.",
-          "zh": "诱惑",
-          "en": "The act of attracting someone, often in a way that is hard to resist."
+          "pos": "v.",
+          "zh": "值得",
+          "en": "to be worthy of something, such as praise or reward."
         }
       ],
       "examples": [
         {
-          "en": "She tried to seduce him with her charm and beauty.",
-          "zh": "她试图用她的魅力和美貌来诱惑他。"
+          "en": "She deserves recognition for her hard work and dedication.",
+          "zh": "她因辛勤工作和奉献精神而值得被认可。"
         },
         {
-          "en": "The advertisements aim to seduce consumers into buying more products.",
-          "zh": "这些广告旨在诱惑消费者购买更多产品。"
+          "en": "After all his efforts, he truly deserves a break.",
+          "zh": "经过他所有的努力，他确实值得休息一下。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'seduce' as 'setting a mood' that draws someone in, like candlelight and music."
+        "association": "Think of 'deserve' as 'de-serve', meaning you have served well enough to earn something."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=seduce&type=2",
-      "chapter": "核心词汇 伦理与道德 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=deserve&type=2",
+      "chapter": "基本词汇 动词200 Unit 5"
+    },
+    {
+      "word": "language acquisition",
+      "pronunciation": "/ˈlæŋɡwɪdʒ əˈkwɪzɪʃən/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "语言习得",
+          "en": "The process of learning a language."
+        },
+        {
+          "pos": "n.",
+          "zh": "语言获得",
+          "en": "The ability to understand and use a language."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Language acquisition can be improved through consistent practice and exposure.",
+          "zh": "语言习得可以通过持续的练习和接触来提高。"
+        },
+        {
+          "en": "Children often achieve language acquisition faster than adults do.",
+          "zh": "儿童通常比成年人更快地实现语言习得。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The term combines 'language' from Latin 'lingua', meaning tongue, and 'acquisition' from Latin 'acquisitio', meaning obtaining.",
+        "association": "Think of 'acquisition' as 'acquiring' a new skill, similar to how you acquire a new tool."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=language%20acquisition&type=2",
+      "chapter": "认知词汇 动物分类 动物智力与语言习得"
     }
   ]
 }

@@ -1,70 +1,70 @@
 {
-  "generated": "2025-11-17T22:08:02.052Z",
+  "generated": "2025-11-18T22:08:06.329Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "depravation",
-      "pronunciation": "/dɪˈpræv.ə.ʃən/",
+      "word": "agile",
+      "pronunciation": "/ˈædʒaɪl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "剥夺; 缺乏",
-          "en": "The state of lacking basic necessities or comforts."
+          "pos": "adj.",
+          "zh": "灵活的",
+          "en": "Able to move quickly and easily."
         },
         {
-          "pos": "n.",
-          "zh": "道德败坏",
-          "en": "A state of moral corruption or degradation."
+          "pos": "adj.",
+          "zh": "机敏的",
+          "en": "Able to think and understand quickly."
         }
       ],
       "examples": [
         {
-          "en": "The depravation of food can lead to serious health issues.",
-          "zh": "食物的剥夺可能导致严重的健康问题。"
+          "en": "The agile dancer moved gracefully across the stage.",
+          "zh": "灵活的舞者优雅地在舞台上移动。"
         },
         {
-          "en": "His actions showed a clear sign of moral depravation.",
-          "zh": "他的行为明显显示出道德败坏的迹象。"
+          "en": "Start-ups need an agile approach to adapt to market changes.",
+          "zh": "初创公司需要灵活的方法来适应市场变化。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'depravation' comes from the Latin 'depravare', meaning 'to make worse' or 'to corrupt'.",
-        "association": "Think of 'deprive' (to take away) and relate it to 'depravation' as a state of having something taken away."
+        "association": "Think of an agile athlete who can quickly change direction."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=depravation&type=2",
-      "chapter": "核心词汇 伦理与道德 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=agile&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 2"
     },
     {
-      "word": "hawksbill",
-      "pronunciation": "/ˈhɔksbɪl/",
+      "word": "integrity",
+      "pronunciation": "/ɪnˈtɛɡrɪti/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "玳瑁",
-          "en": "A type of sea turtle known for its beautiful shell."
+          "zh": "正直，诚实",
+          "en": "The quality of being honest and having strong moral principles."
         },
         {
           "pos": "n.",
-          "zh": "玳瑁的壳",
-          "en": "The shell of the hawksbill turtle, often used for decorative items."
+          "zh": "完整性，统一性",
+          "en": "The state of being whole and undivided."
         }
       ],
       "examples": [
         {
-          "en": "The hawksbill turtle is critically endangered due to habitat loss.",
-          "zh": "玳瑁因栖息地丧失而濒临灭绝。"
+          "en": "Her integrity earned her the respect of her colleagues.",
+          "zh": "她的正直使她赢得了同事的尊重。"
         },
         {
-          "en": "Many countries have laws to protect hawksbill turtles from poaching.",
-          "zh": "许多国家有法律保护玳瑁免受偷猎。"
+          "en": "Maintaining the integrity of data is crucial in research.",
+          "zh": "保持数据的完整性在研究中至关重要。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'hawks' as the bird of prey and 'bill' as its beak, associating it with the turtle's pointed head."
+        "etymology": "The word 'integrity' comes from the Latin 'integritas', meaning 'wholeness' or 'completeness'.",
+        "association": "Think of 'integrity' as being 'in-tact' or 'intact', meaning nothing is missing."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=hawksbill&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=integrity&type=2",
+      "chapter": "基本词汇 名词200 Unit 5"
     }
   ]
 }

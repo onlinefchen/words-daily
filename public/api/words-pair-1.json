@@ -1,69 +1,60 @@
 {
-  "generated": "2025-11-17T22:08:02.051Z",
+  "generated": "2025-11-18T22:08:06.329Z",
   "pair": 1,
   "count": 2,
   "words": [
     {
-      "word": "rainforest",
-      "pronunciation": "/ˈreɪnˌfɔrɪst/",
+      "word": "sending device",
+      "pronunciation": "/ˈsɛndɪŋ dɪˌvaɪs/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "雨林",
-          "en": "A rainforest is a dense forest found in tropical areas with heavy rainfall."
+          "zh": "发送设备",
+          "en": "A device used to transmit signals or information."
         },
         {
           "pos": "n.",
-          "zh": "热带雨林",
-          "en": "Rainforests are important ecosystems that host a wide variety of plants and animals."
+          "zh": "发送器",
+          "en": "An instrument that sends data to another location."
         }
       ],
       "examples": [
         {
-          "en": "The Amazon rainforest is home to countless species of wildlife.",
-          "zh": "亚马逊雨林是无数野生动物的家园。"
+          "en": "The sending device allows us to communicate over long distances.",
+          "zh": "发送设备使我们能够进行远距离通信。"
         },
         {
-          "en": "Conserving rainforests is essential for global biodiversity.",
-          "zh": "保护雨林对于全球生物多样性至关重要。"
+          "en": "She used a sending device to share her presentation with the team.",
+          "zh": "她使用发送设备与团队分享她的演示文稿。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'rain' for the heavy rainfall and 'forest' for the trees and plants."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=rainforest&type=2",
-      "chapter": "认知词汇 自然分类 热带雨林"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sending%20device&type=2",
+      "chapter": "认知词汇 科技分类 莫尔斯电码"
     },
     {
-      "word": "hypocrisy",
-      "pronunciation": "/hɪˈpɒkrəsi/",
+      "word": "crab fishery",
+      "pronunciation": "/kræb ˈfɪʃəri/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "虚伪",
-          "en": "The act of pretending to have beliefs or values that one does not truly hold."
-        },
-        {
-          "pos": "n.",
-          "zh": "伪善",
-          "en": "A condition where someone criticizes others for behaviors they themselves engage in."
+          "zh": "蟹类渔业",
+          "en": "A fishery that specializes in catching crabs."
         }
       ],
       "examples": [
         {
-          "en": "His hypocrisy was evident when he condemned others for lying.",
-          "zh": "当他谴责他人撒谎时，他的虚伪显而易见。"
+          "en": "The crab fishery has seen a rise in demand this season.",
+          "zh": "这个蟹类渔业在这个季节的需求上升了。"
         },
         {
-          "en": "Many politicians are often accused of hypocrisy in their promises.",
-          "zh": "许多政治家常常因他们的承诺而被指责为虚伪。"
+          "en": "Many coastal communities depend on the crab fishery for their livelihood.",
+          "zh": "许多沿海社区依靠蟹类渔业维生。"
         }
       ],
-      "memoryTips": {
-        "etymology": "The word 'hypocrisy' comes from the Greek 'hypokrisis', meaning 'acting' or 'playing a part'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=hypocrisy&type=2",
-      "chapter": "核心词汇 伦理与道德 Unit 3"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=crab%20fishery&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

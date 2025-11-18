@@ -1,69 +1,68 @@
 {
-  "generated": "2025-11-17T22:08:02.051Z",
+  "generated": "2025-11-18T22:08:06.329Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "aggressive",
-      "pronunciation": "/əˈɡrɛsɪv/",
+      "word": "geometric configuration",
+      "pronunciation": "/dʒiˈɑː.mə.trɪk ˌkən.fɪˈɡjʊr.ə.ʃən/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "好斗的，侵略性的",
-          "en": "Ready to attack or confront; very forceful."
+          "pos": "n.",
+          "zh": "几何配置",
+          "en": "A specific arrangement or layout of geometric shapes."
         },
         {
-          "pos": "adj.",
-          "zh": "积极的，主动的",
-          "en": "Showing a strong desire to succeed or make progress."
+          "pos": "n.",
+          "zh": "几何构形",
+          "en": "The structure formed by combining different geometric elements."
         }
       ],
       "examples": [
         {
-          "en": "His aggressive behavior in the debate surprised everyone.",
-          "zh": "他在辩论中好斗的行为让所有人感到惊讶。"
+          "en": "The geometric configuration of the park includes various shapes and pathways.",
+          "zh": "公园的几何配置包括各种形状和小路。"
         },
         {
-          "en": "The company took aggressive steps to increase its market share.",
-          "zh": "该公司采取了积极的措施来扩大其市场份额。"
+          "en": "Scientists studied the geometric configuration of atoms in the molecule.",
+          "zh": "科学家研究了分子中原子的几何配置。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'aggressive' as someone who is always ready to 'grab' opportunities."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aggressive&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=geometric%20configuration&type=2",
+      "chapter": "认知词汇 动物分类 动物智力与语言习得"
     },
     {
-      "word": "trustful",
-      "pronunciation": "/ˈtrʌstfəl/",
+      "word": "skeleton",
+      "pronunciation": "/ˈskɛl.ɪ.tən/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "可信任的",
-          "en": "Someone who is willing to believe in others and their honesty."
+          "pos": "n.",
+          "zh": "骨架，骨骼",
+          "en": "The structure of bones in a body."
         },
         {
-          "pos": "adj.",
-          "zh": "容易信任的",
-          "en": "A person who readily places confidence in others."
+          "pos": "n.",
+          "zh": "框架，骨架结构",
+          "en": "A basic structure that supports something."
         }
       ],
       "examples": [
         {
-          "en": "She is very trustful, always believing in the good of people.",
-          "zh": "她非常可信，总是相信人们的善良。"
+          "en": "The scientist studied the skeleton of the ancient dinosaur.",
+          "zh": "科学家研究了古代恐龙的骨骼。"
         },
         {
-          "en": "His trustful nature made it easy for others to manipulate him.",
-          "zh": "他容易信任的性格让别人很容易操控他。"
+          "en": "The architect created a skeleton for the new building.",
+          "zh": "建筑师为新建筑设计了框架。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'trust' as a foundation of the word, indicating a person who is open to trusting others."
+        "association": "Think of a skeleton as the 'framework' of a body, supporting everything else.",
+        "mnemonic": "Skeleton sounds like 'skeleton key', which opens all doors; similarly, it holds everything together."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=trustful&type=2",
-      "chapter": "核心词汇 法制与犯罪 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=skeleton&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

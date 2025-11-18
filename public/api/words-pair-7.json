@@ -1,69 +1,70 @@
 {
-  "generated": "2025-11-17T22:08:02.052Z",
+  "generated": "2025-11-18T22:08:06.329Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "preferable",
-      "pronunciation": "/ˈprɛfərəbəl/",
+      "word": "salmon habitat",
+      "pronunciation": "/ˈsælmən ˈhæbɪtæt/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "更可取的",
-          "en": "More desirable or suitable than something else."
-        },
-        {
-          "pos": "adj.",
-          "zh": "优先选择的",
-          "en": "Preferred over other options or choices."
-        }
-      ],
-      "examples": [
-        {
-          "en": "It is preferable to study in a quiet environment for better concentration.",
-          "zh": "在安静的环境中学习更可取，以提高专注力。"
-        },
-        {
-          "en": "Many people find it preferable to work from home rather than commuting.",
-          "zh": "许多人发现居家工作比通勤更优先选择。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'prefer' in 'preferable' to recall that it means to choose something over another."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=preferable&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 15"
-    },
-    {
-      "word": "rebel",
-      "pronunciation": "/ˈrɛbəl/",
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "反抗",
-          "en": "To resist authority or control; to fight against rules."
+          "pos": "n.",
+          "zh": "鲑鱼栖息地",
+          "en": "The natural environment where salmon live and grow."
         },
         {
           "pos": "n.",
-          "zh": "叛逆者",
-          "en": "A person who opposes or fights against authority."
+          "zh": "鱼类栖息地",
+          "en": "A specific area in water that provides food and safety for salmon."
         }
       ],
       "examples": [
         {
-          "en": "Many young people choose to rebel against strict rules at home.",
-          "zh": "许多年轻人选择反抗家庭中的严格规则。"
+          "en": "The salmon habitat is crucial for the fish's survival and reproduction.",
+          "zh": "鲑鱼栖息地对鱼的生存和繁殖至关重要。"
         },
         {
-          "en": "The rebel group fought for independence from the government.",
-          "zh": "该叛乱团体为脱离政府而斗争。"
+          "en": "Conservation efforts are needed to protect the salmon habitat from pollution.",
+          "zh": "保护鲑鱼栖息地免受污染的努力是必要的。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'rebel' as someone who 'rebels' against the norm or expected behavior."
+        "association": "Imagine a serene river where salmon swim, representing their habitat."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=rebel&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 8"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=salmon%20habitat&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
+    },
+    {
+      "word": "bewildering",
+      "pronunciation": "/bɪˈwɪldərɪŋ/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "令人困惑的",
+          "en": "Causing confusion or puzzlement."
+        },
+        {
+          "pos": "adj.",
+          "zh": "令人惊讶的",
+          "en": "Extremely surprising or difficult to understand."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The instructions were so bewildering that I gave up trying to understand.",
+          "zh": "这些指示令人困惑，我放弃了尝试理解。"
+        },
+        {
+          "en": "Her sudden change of plans was bewildering for everyone involved.",
+          "zh": "她计划的突然变化让所有人都感到困惑。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'bewildering' comes from 'bewilder', which means to confuse or befuddle someone.",
+        "association": "Think of 'wild' as in untamed; something wild can be confusing or bewildering."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=bewildering&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 3"
     }
   ]
 }

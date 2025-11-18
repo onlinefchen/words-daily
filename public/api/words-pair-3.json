@@ -1,67 +1,69 @@
 {
-  "generated": "2025-11-17T22:08:02.051Z",
+  "generated": "2025-11-18T22:08:06.329Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "domestic",
-      "pronunciation": "/dəˈmɛstɪk/",
+      "word": "naive",
+      "pronunciation": "/naɪˈiːv/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "国内的，家庭的",
-          "en": "Relating to the home or family; not foreign."
+          "zh": "天真的",
+          "en": "Showing a lack of experience or understanding; innocent."
         },
         {
-          "pos": "n.",
-          "zh": "国内事务，家务",
-          "en": "A term referring to activities or issues within a country."
+          "pos": "adj.",
+          "zh": "简单的",
+          "en": "Too simple or trusting, often because of a lack of knowledge."
         }
       ],
       "examples": [
         {
-          "en": "The domestic market has shown significant growth this year.",
-          "zh": "国内市场今年表现出显著增长。"
+          "en": "Her naive belief in people often led her to disappointment.",
+          "zh": "她对人们天真的信任常常使她感到失望。"
         },
         {
-          "en": "They adopted a domestic cat from the local animal shelter.",
-          "zh": "他们从当地动物收容所领养了一只家猫。"
+          "en": "The naive questions from children can sometimes be very insightful.",
+          "zh": "孩子们天真的问题有时会非常有洞察力。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'domestic' as related to 'domicile', which means home."
+        "association": "Think of 'naive' as someone who is 'knee-deep' in innocence, lacking awareness."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=domestic&type=2",
-      "chapter": "核心词汇 环境保护 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=naive&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 12"
     },
     {
-      "word": "detect",
-      "pronunciation": "/dɪˈtɛkt/",
+      "word": "frequency",
+      "pronunciation": "/ˈfriː.kwən.si/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "发现，侦测",
-          "en": "To notice or discover something."
+          "pos": "n.",
+          "zh": "频率",
+          "en": "The number of times something happens in a specific period."
         },
         {
-          "pos": "v.",
-          "zh": "测出，探测",
-          "en": "To find out the presence of something, especially something hidden."
+          "pos": "n.",
+          "zh": "频率",
+          "en": "The rate at which a repeating event occurs."
         }
       ],
       "examples": [
         {
-          "en": "Scientists can detect changes in the climate very quickly.",
-          "zh": "科学家能够很快发现气候变化。"
+          "en": "The frequency of earthquakes in that region is quite high.",
+          "zh": "该地区地震的频率相当高。"
         },
         {
-          "en": "The security system is designed to detect any unauthorized access.",
-          "zh": "安全系统旨在检测任何未经授权的访问。"
+          "en": "We need to measure the frequency of our meetings to improve productivity.",
+          "zh": "我们需要测量会议的频率，以提高生产力。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=detect&type=2",
-      "chapter": "认知词汇 动物分类 动物航行能力"
+      "memoryTips": {
+        "etymology": "The word 'frequency' comes from the Latin 'frequentia', meaning 'a crowd' or 'repeated'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=frequency&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

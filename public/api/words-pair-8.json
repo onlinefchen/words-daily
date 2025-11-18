@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-17T22:08:02.052Z",
+  "generated": "2025-11-18T22:08:06.329Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "larva",
-      "pronunciation": "/ˈlɑːrvə/",
+      "word": "shrub",
+      "pronunciation": "/ʃrʌb/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "幼虫",
-          "en": "A young form of an insect that has not yet developed into an adult."
+          "zh": "灌木",
+          "en": "A shrub is a small to medium-sized plant with woody stems."
         },
         {
           "pos": "n.",
-          "zh": "虫态",
-          "en": "The early stage in the life cycle of certain animals, before they change into their adult form."
+          "zh": "灌木丛",
+          "en": "A shrub can also refer to a group of these plants growing together."
         }
       ],
       "examples": [
         {
-          "en": "The larva of the butterfly is often found in the garden.",
-          "zh": "蝴蝶的幼虫常常在花园里被发现。"
+          "en": "The garden was filled with colorful shrubs and flowers.",
+          "zh": "花园里满是五彩缤纷的灌木和花朵。"
         },
         {
-          "en": "After several weeks, the larva transforms into a pupa.",
-          "zh": "几周后，幼虫会变成蛹。"
+          "en": "He trimmed the shrubs to keep them looking neat and tidy.",
+          "zh": "他修剪了灌木，使它们看起来整洁有序。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'larva' as 'larvae' (plural) which sounds like 'lava,' representing something that transforms, like lava turning into rock."
+        "association": "Think of 'shrub' as 'shrubbery', which refers to a collection of shrubs."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=larva&type=2",
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=shrub&type=2",
       "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "aquatic environment",
-      "pronunciation": "/əˈkwætɪk ɪnˈvaɪrənmənt/",
+      "word": "antisocial",
+      "pronunciation": "/ˌæn.tiˈsoʊ.ʃəl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "水生环境",
-          "en": "A natural setting where water is the main element."
+          "pos": "adj.",
+          "zh": "反社会的",
+          "en": "Not wanting to be around people or social interactions."
         },
         {
-          "pos": "n.",
-          "zh": "水域",
-          "en": "Any area that is covered by water, including oceans, rivers, and lakes."
+          "pos": "adj.",
+          "zh": "拒绝社交的",
+          "en": "Behaving in a way that is harmful to society or others."
         }
       ],
       "examples": [
         {
-          "en": "The aquatic environment is home to many unique species of fish.",
-          "zh": "水生环境是许多独特鱼类的栖息地。"
+          "en": "He often displays antisocial behavior by avoiding social events.",
+          "zh": "他经常通过避免社交活动表现出反社会行为。"
         },
         {
-          "en": "Pollution can seriously harm the aquatic environment and its inhabitants.",
-          "zh": "污染会严重危害水生环境及其生物。"
+          "en": "Antisocial tendencies can lead to loneliness and isolation.",
+          "zh": "反社会倾向可能导致孤独和隔离。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'aqua,' which relates to water, combined with 'environment' to remember it's a water-based ecosystem."
+        "etymology": "The prefix 'anti-' means against, and 'social' relates to society, thus 'antisocial' means against social interaction."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aquatic%20environment&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=antisocial&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 2"
     }
   ]
 }
