@@ -1,70 +1,62 @@
 {
-  "generated": "2025-11-18T22:08:06.329Z",
+  "generated": "2025-11-19T22:07:58.772Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "agile",
-      "pronunciation": "/ˈædʒaɪl/",
+      "word": "melanoma",
+      "pronunciation": "/ˌmɛl.əˈnoʊ.mə/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "灵活的",
-          "en": "Able to move quickly and easily."
-        },
-        {
-          "pos": "adj.",
-          "zh": "机敏的",
-          "en": "Able to think and understand quickly."
+          "pos": "n.",
+          "zh": "黑色素瘤",
+          "en": "A type of skin cancer that develops from melanocytes."
         }
       ],
       "examples": [
         {
-          "en": "The agile dancer moved gracefully across the stage.",
-          "zh": "灵活的舞者优雅地在舞台上移动。"
+          "en": "Melanoma can spread quickly if not treated early.",
+          "zh": "如果不及早治疗，黑色素瘤可能会迅速扩散。"
         },
         {
-          "en": "Start-ups need an agile approach to adapt to market changes.",
-          "zh": "初创公司需要灵活的方法来适应市场变化。"
+          "en": "Regular skin checks can help detect melanoma early.",
+          "zh": "定期检查皮肤有助于及早发现黑色素瘤。"
         }
       ],
       "memoryTips": {
-        "association": "Think of an agile athlete who can quickly change direction."
+        "association": "Think of 'melanoma' as 'melanin' (the pigment in skin) + 'oma' (a suffix used in medical terms for tumors)."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=agile&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=melanoma&type=2",
+      "chapter": "认知词汇 健康分类 澳大利亚皮肤癌研究"
     },
     {
-      "word": "integrity",
-      "pronunciation": "/ɪnˈtɛɡrɪti/",
+      "word": "specific integrated circuit",
+      "pronunciation": "/spɪˈsɪfɪk ˈɪntɪɡreɪtɪd ˈsɜrˌkɪt/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "正直，诚实",
-          "en": "The quality of being honest and having strong moral principles."
+          "zh": "特定集成电路",
+          "en": "A type of integrated circuit designed for a specific function."
         },
         {
           "pos": "n.",
-          "zh": "完整性，统一性",
-          "en": "The state of being whole and undivided."
+          "zh": "专用集成电路",
+          "en": "An integrated circuit optimized for particular applications."
         }
       ],
       "examples": [
         {
-          "en": "Her integrity earned her the respect of her colleagues.",
-          "zh": "她的正直使她赢得了同事的尊重。"
+          "en": "The specific integrated circuit improved the device's performance significantly.",
+          "zh": "特定集成电路显著提高了设备的性能。"
         },
         {
-          "en": "Maintaining the integrity of data is crucial in research.",
-          "zh": "保持数据的完整性在研究中至关重要。"
+          "en": "Engineers designed a specific integrated circuit for better energy efficiency.",
+          "zh": "工程师设计了一种特定集成电路以提高能效。"
         }
       ],
-      "memoryTips": {
-        "etymology": "The word 'integrity' comes from the Latin 'integritas', meaning 'wholeness' or 'completeness'.",
-        "association": "Think of 'integrity' as being 'in-tact' or 'intact', meaning nothing is missing."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=integrity&type=2",
-      "chapter": "基本词汇 名词200 Unit 5"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=specific%20integrated%20circuit&type=2",
+      "chapter": "认知词汇 科技分类 桥梁检测"
     }
   ]
 }

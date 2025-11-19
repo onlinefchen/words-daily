@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-18T22:08:06.329Z",
+  "generated": "2025-11-19T22:07:58.772Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "naive",
-      "pronunciation": "/naɪˈiːv/",
+      "word": "radioactive carbon",
+      "pronunciation": "/ˌreɪdioʊˈæktɪv ˈkɑːrbən/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "天真的",
-          "en": "Showing a lack of experience or understanding; innocent."
+          "zh": "放射性的碳",
+          "en": "A type of carbon that emits radiation, often used in scientific dating."
         },
         {
-          "pos": "adj.",
-          "zh": "简单的",
-          "en": "Too simple or trusting, often because of a lack of knowledge."
+          "pos": "n.",
+          "zh": "放射性碳",
+          "en": "Carbon-14, an isotope of carbon used to determine the age of ancient objects."
         }
       ],
       "examples": [
         {
-          "en": "Her naive belief in people often led her to disappointment.",
-          "zh": "她对人们天真的信任常常使她感到失望。"
+          "en": "Scientists use radioactive carbon to date ancient artifacts accurately.",
+          "zh": "科学家使用放射性碳准确地给古代文物定年。"
         },
         {
-          "en": "The naive questions from children can sometimes be very insightful.",
-          "zh": "孩子们天真的问题有时会非常有洞察力。"
+          "en": "The study of radioactive carbon is essential in archaeology and geology.",
+          "zh": "放射性碳的研究在考古学和地质学中至关重要。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'naive' as someone who is 'knee-deep' in innocence, lacking awareness."
+        "association": "Think of 'radioactive' as 'radio' waves that can be dangerous, and 'carbon' as the basic building block of life. Together, they help us understand the past."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=naive&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 12"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=radioactive%20carbon&type=2",
+      "chapter": "认知词汇 科技分类 探索太空生物"
     },
     {
-      "word": "frequency",
-      "pronunciation": "/ˈfriː.kwən.si/",
+      "word": "pest interception",
+      "pronunciation": "/pɛst ˌɪn.təˈsɛp.ʃən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "频率",
-          "en": "The number of times something happens in a specific period."
+          "zh": "害虫拦截",
+          "en": "The act of stopping or catching pests before they enter a specific area."
         },
         {
           "pos": "n.",
-          "zh": "频率",
-          "en": "The rate at which a repeating event occurs."
+          "zh": "害虫监测",
+          "en": "The process of detecting pests to prevent their spread."
         }
       ],
       "examples": [
         {
-          "en": "The frequency of earthquakes in that region is quite high.",
-          "zh": "该地区地震的频率相当高。"
+          "en": "Pest interception is crucial for protecting agricultural crops.",
+          "zh": "害虫拦截对保护农业作物至关重要。"
         },
         {
-          "en": "We need to measure the frequency of our meetings to improve productivity.",
-          "zh": "我们需要测量会议的频率，以提高生产力。"
+          "en": "Effective pest interception can reduce the need for pesticides.",
+          "zh": "有效的害虫拦截可以减少对农药的需求。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'frequency' comes from the Latin 'frequentia', meaning 'a crowd' or 'repeated'."
+        "association": "Think of 'interception' as catching a ball; you're catching pests before they can harm crops."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=frequency&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pest%20interception&type=2",
+      "chapter": "认知词汇 环境分类 病虫害防治"
     }
   ]
 }

@@ -1,743 +1,730 @@
 {
-  "generated": "2025-11-18T22:08:06.328Z",
-  "date": "2025-11-18",
+  "generated": "2025-11-19T22:07:58.770Z",
+  "date": "2025-11-19",
   "totalWords": 20,
   "words": [
     {
-      "id": "w03362",
-      "word": "sending device",
+      "id": "w04621",
+      "word": "reptile",
+      "type": "single",
+      "chapterIndex": 22,
+      "globalIndex": 4621,
+      "chapter": "ch144",
+      "chapterName": "阅读真题认知词汇 恐龙的灭绝",
+      "pronunciation": {
+        "us": "/ˈrɛp.taɪl/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "爬行动物",
+          "en": "A cold-blooded animal with scales, such as a snake or lizard."
+        },
+        {
+          "pos": "n.",
+          "zh": "阴险的人",
+          "en": "A person who is deceitful or untrustworthy."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The snake is a fascinating reptile found in many habitats.",
+          "zh": "蛇是一种在许多栖息地中发现的迷人爬行动物。"
+        },
+        {
+          "en": "He was considered a reptile because of his dishonest behavior.",
+          "zh": "由于他的不诚实行为，他被认为是一个阴险的人。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'reptile' comes from the Latin 'reptilis', meaning 'to crawl'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=reptile&type=2"
+    },
+    {
+      "id": "w03707",
+      "word": "Old World",
       "type": "phrase",
-      "chapterIndex": 41,
-      "globalIndex": 3362,
+      "chapterIndex": 63,
+      "globalIndex": 3707,
+      "chapter": "ch124",
+      "chapterName": "认知词汇 历史分类 地图发展史",
+      "pronunciation": {
+        "us": "/oʊld wɜrld/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "旧世界",
+          "en": "The term refers to Europe, Asia, and Africa, especially in contrast to the Americas."
+        },
+        {
+          "pos": "n.",
+          "zh": "古老的世界",
+          "en": "It signifies the ancient civilizations and their cultures before the discovery of the Americas."
+        }
+      ],
+      "examples": [
+        {
+          "en": "In history class, we learned about the Old World and its ancient cultures.",
+          "zh": "在历史课上，我们学习了旧世界及其古老文化。"
+        },
+        {
+          "en": "The spices from the Old World were highly valued in trade.",
+          "zh": "来自旧世界的香料在贸易中备受重视。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of the Old World as the 'original' world, where many historical events began."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=Old%20World&type=2"
+    },
+    {
+      "id": "w02941",
+      "word": "forest ecosystem",
+      "type": "phrase",
+      "chapterIndex": 26,
+      "globalIndex": 2941,
+      "chapter": "ch112",
+      "chapterName": "认知词汇 环境分类 人类与动物灭绝",
+      "pronunciation": {
+        "us": "/ˈfɔrɪst ˌiːkəˈsɪstəm/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "森林生态系统",
+          "en": "A community of living organisms and their environment in a forest."
+        },
+        {
+          "pos": "n.",
+          "zh": "生态系统的组成部分",
+          "en": "The system formed by interactions among plants, animals, and microorganisms in a forest."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The forest ecosystem supports diverse species of plants and animals.",
+          "zh": "森林生态系统支持多样的植物和动物种类。"
+        },
+        {
+          "en": "Conserving the forest ecosystem is essential for environmental balance.",
+          "zh": "保护森林生态系统对环境平衡至关重要。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a 'forest' as a 'for rest' area where many organisms coexist peacefully."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=forest%20ecosystem&type=2"
+    },
+    {
+      "id": "w03406",
+      "word": "corrosion activity",
+      "type": "phrase",
+      "chapterIndex": 22,
+      "globalIndex": 3406,
+      "chapter": "ch121",
+      "chapterName": "认知词汇 科技分类 桥梁检测",
+      "pronunciation": {
+        "us": "/kəˈroʊʒən əkˈtɪvɪti/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "腐蚀活动",
+          "en": "The process where materials, especially metals, are gradually destroyed by chemical reactions."
+        },
+        {
+          "pos": "n.",
+          "zh": "腐蚀活性",
+          "en": "The level or rate at which corrosion occurs in a material."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Corrosion activity can significantly weaken metal structures over time.",
+          "zh": "腐蚀活动会在一段时间内显著削弱金属结构。"
+        },
+        {
+          "en": "Engine parts are often tested for corrosion activity to ensure durability.",
+          "zh": "发动机部件通常会测试腐蚀活性以确保耐用性。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'corrosion' as 'corroding' or 'eating away' at materials, and 'activity' as the 'action' of this process."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=corrosion%20activity&type=2"
+    },
+    {
+      "id": "w03626",
+      "word": "radioactive carbon",
+      "type": "phrase",
+      "chapterIndex": 59,
+      "globalIndex": 3626,
+      "chapter": "ch123",
+      "chapterName": "认知词汇 科技分类 探索太空生物",
+      "pronunciation": {
+        "us": "/ˌreɪdioʊˈæktɪv ˈkɑːrbən/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "放射性的碳",
+          "en": "A type of carbon that emits radiation, often used in scientific dating."
+        },
+        {
+          "pos": "n.",
+          "zh": "放射性碳",
+          "en": "Carbon-14, an isotope of carbon used to determine the age of ancient objects."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Scientists use radioactive carbon to date ancient artifacts accurately.",
+          "zh": "科学家使用放射性碳准确地给古代文物定年。"
+        },
+        {
+          "en": "The study of radioactive carbon is essential in archaeology and geology.",
+          "zh": "放射性碳的研究在考古学和地质学中至关重要。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'radioactive' as 'radio' waves that can be dangerous, and 'carbon' as the basic building block of life. Together, they help us understand the past."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=radioactive%20carbon&type=2"
+    },
+    {
+      "id": "w03064",
+      "word": "pest interception",
+      "type": "phrase",
+      "chapterIndex": 16,
+      "globalIndex": 3064,
+      "chapter": "ch114",
+      "chapterName": "认知词汇 环境分类 病虫害防治",
+      "pronunciation": {
+        "us": "/pɛst ˌɪn.təˈsɛp.ʃən/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "害虫拦截",
+          "en": "The act of stopping or catching pests before they enter a specific area."
+        },
+        {
+          "pos": "n.",
+          "zh": "害虫监测",
+          "en": "The process of detecting pests to prevent their spread."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Pest interception is crucial for protecting agricultural crops.",
+          "zh": "害虫拦截对保护农业作物至关重要。"
+        },
+        {
+          "en": "Effective pest interception can reduce the need for pesticides.",
+          "zh": "有效的害虫拦截可以减少对农药的需求。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'interception' as catching a ball; you're catching pests before they can harm crops."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pest%20interception&type=2"
+    },
+    {
+      "id": "w03199",
+      "word": "involuntary smoking",
+      "type": "phrase",
+      "chapterIndex": 40,
+      "globalIndex": 3199,
+      "chapter": "ch116",
+      "chapterName": "认知词汇 健康分类 吸烟与被动吸烟",
+      "pronunciation": {
+        "us": "/ɪnˈvɑːlənˌtɛri ˈsmoʊkɪŋ/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "被动吸烟",
+          "en": "The act of breathing in smoke from someone else's cigarette or tobacco."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Involuntary smoking can harm non-smokers' health significantly.",
+          "zh": "被动吸烟会严重危害非吸烟者的健康。"
+        },
+        {
+          "en": "Many children suffer from involuntary smoking in public areas.",
+          "zh": "许多儿童在公共场所遭受被动吸烟的影响。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'involuntary' as something you cannot control, like being near a smoker."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=involuntary%20smoking&type=2"
+    },
+    {
+      "id": "w03487",
+      "word": "radio telemetry",
+      "type": "phrase",
+      "chapterIndex": 103,
+      "globalIndex": 3487,
+      "chapter": "ch121",
+      "chapterName": "认知词汇 科技分类 桥梁检测",
+      "pronunciation": {
+        "us": "/ˈreɪ.di.oʊ tɛl.əˌmɛ.tri/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "无线电遥测",
+          "en": "The process of measuring data from a distance using radio signals."
+        },
+        {
+          "pos": "n.",
+          "zh": "无线电数据传输",
+          "en": "The technology used to send and receive data through radio waves."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Scientists use radio telemetry to track animal movements in the wild.",
+          "zh": "科学家使用无线电遥测跟踪野生动物的移动。"
+        },
+        {
+          "en": "Radio telemetry helps researchers gather important data from remote locations.",
+          "zh": "无线电遥测帮助研究人员从偏远地区收集重要数据。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'radio' as sending signals, and 'telemetry' as measuring data, combining them to track things from afar."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=radio%20telemetry&type=2"
+    },
+    {
+      "id": "w03361",
+      "word": "repertoire",
+      "type": "single",
+      "chapterIndex": 40,
+      "globalIndex": 3361,
       "chapter": "ch120",
       "chapterName": "认知词汇 科技分类 莫尔斯电码",
       "pronunciation": {
-        "us": "/ˈsɛndɪŋ dɪˌvaɪs/"
+        "us": "/ˈrɛpərtwɑːr/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "发送设备",
-          "en": "A device used to transmit signals or information."
+          "zh": "全套节目",
+          "en": "A collection of skills or works that a person can perform."
         },
         {
           "pos": "n.",
-          "zh": "发送器",
-          "en": "An instrument that sends data to another location."
+          "zh": "可演出的曲目",
+          "en": "The range of plays, dances, or pieces that a company or performer can present."
         }
       ],
       "examples": [
         {
-          "en": "The sending device allows us to communicate over long distances.",
-          "zh": "发送设备使我们能够进行远距离通信。"
+          "en": "The musician has a diverse repertoire of classical and modern pieces.",
+          "zh": "这位音乐家有多样的古典和现代曲目的全套节目。"
         },
         {
-          "en": "She used a sending device to share her presentation with the team.",
-          "zh": "她使用发送设备与团队分享她的演示文稿。"
+          "en": "Actors often expand their repertoire by taking on different roles.",
+          "zh": "演员们经常通过扮演不同的角色来扩展他们的全套节目。"
         }
       ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sending%20device&type=2"
+      "memoryTips": {
+        "association": "Think of 'repertoire' as 'repeat' (re) and 'theater' (pertoire) to remember it relates to performances."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=repertoire&type=2"
     },
     {
-      "id": "w02056",
-      "word": "crab fishery",
+      "id": "w03363",
+      "word": "signalling code",
       "type": "phrase",
-      "chapterIndex": 156,
-      "globalIndex": 2056,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
+      "chapterIndex": 42,
+      "globalIndex": 3363,
+      "chapter": "ch120",
+      "chapterName": "认知词汇 科技分类 莫尔斯电码",
       "pronunciation": {
-        "us": "/kræb ˈfɪʃəri/"
+        "us": "/ˈsɪɡnəlɪŋ koʊd/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "蟹类渔业",
-          "en": "A fishery that specializes in catching crabs."
+          "zh": "信号编码",
+          "en": "A system of signs or signals used to convey information."
+        },
+        {
+          "pos": "n.",
+          "zh": "暗语",
+          "en": "A specific code used to communicate in a secret or restricted way."
         }
       ],
       "examples": [
         {
-          "en": "The crab fishery has seen a rise in demand this season.",
-          "zh": "这个蟹类渔业在这个季节的需求上升了。"
+          "en": "The signalling code allowed the team to communicate secretly.",
+          "zh": "这个信号编码让团队能够秘密交流。"
         },
         {
-          "en": "Many coastal communities depend on the crab fishery for their livelihood.",
-          "zh": "许多沿海社区依靠蟹类渔业维生。"
+          "en": "They developed a new signalling code to improve security.",
+          "zh": "他们开发了一种新的信号编码以提高安全性。"
         }
       ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=crab%20fishery&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=signalling%20code&type=2"
     },
     {
-      "id": "w02401",
-      "word": "geometric configuration",
+      "id": "w03282",
+      "word": "melanoma",
+      "type": "single",
+      "chapterIndex": 4,
+      "globalIndex": 3282,
+      "chapter": "ch118",
+      "chapterName": "认知词汇 健康分类 澳大利亚皮肤癌研究",
+      "pronunciation": {
+        "us": "/ˌmɛl.əˈnoʊ.mə/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "黑色素瘤",
+          "en": "A type of skin cancer that develops from melanocytes."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Melanoma can spread quickly if not treated early.",
+          "zh": "如果不及早治疗，黑色素瘤可能会迅速扩散。"
+        },
+        {
+          "en": "Regular skin checks can help detect melanoma early.",
+          "zh": "定期检查皮肤有助于及早发现黑色素瘤。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'melanoma' as 'melanin' (the pigment in skin) + 'oma' (a suffix used in medical terms for tumors)."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=melanoma&type=2"
+    },
+    {
+      "id": "w03495",
+      "word": "specific integrated circuit",
       "type": "phrase",
-      "chapterIndex": 19,
-      "globalIndex": 2401,
-      "chapter": "ch100",
-      "chapterName": "认知词汇 动物分类 动物智力与语言习得",
+      "chapterIndex": 111,
+      "globalIndex": 3495,
+      "chapter": "ch121",
+      "chapterName": "认知词汇 科技分类 桥梁检测",
       "pronunciation": {
-        "us": "/dʒiˈɑː.mə.trɪk ˌkən.fɪˈɡjʊr.ə.ʃən/"
+        "us": "/spɪˈsɪfɪk ˈɪntɪɡreɪtɪd ˈsɜrˌkɪt/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "几何配置",
-          "en": "A specific arrangement or layout of geometric shapes."
+          "zh": "特定集成电路",
+          "en": "A type of integrated circuit designed for a specific function."
         },
         {
           "pos": "n.",
-          "zh": "几何构形",
-          "en": "The structure formed by combining different geometric elements."
+          "zh": "专用集成电路",
+          "en": "An integrated circuit optimized for particular applications."
         }
       ],
       "examples": [
         {
-          "en": "The geometric configuration of the park includes various shapes and pathways.",
-          "zh": "公园的几何配置包括各种形状和小路。"
+          "en": "The specific integrated circuit improved the device's performance significantly.",
+          "zh": "特定集成电路显著提高了设备的性能。"
         },
         {
-          "en": "Scientists studied the geometric configuration of atoms in the molecule.",
-          "zh": "科学家研究了分子中原子的几何配置。"
+          "en": "Engineers designed a specific integrated circuit for better energy efficiency.",
+          "zh": "工程师设计了一种特定集成电路以提高能效。"
         }
       ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=geometric%20configuration&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=specific%20integrated%20circuit&type=2"
     },
     {
-      "id": "w02195",
-      "word": "skeleton",
-      "type": "single",
-      "chapterIndex": 295,
-      "globalIndex": 2195,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
+      "id": "w03488",
+      "word": "radio transponder module",
+      "type": "phrase",
+      "chapterIndex": 104,
+      "globalIndex": 3488,
+      "chapter": "ch121",
+      "chapterName": "认知词汇 科技分类 桥梁检测",
       "pronunciation": {
-        "us": "/ˈskɛl.ɪ.tən/"
+        "us": "/ˈreɪ.di.oʊ trænsˈpɒn.dər ˈmɒd.juːl/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "骨架，骨骼",
-          "en": "The structure of bones in a body."
+          "zh": "无线电应答器模块",
+          "en": "A device that receives and transmits radio signals."
         },
         {
           "pos": "n.",
-          "zh": "框架，骨架结构",
-          "en": "A basic structure that supports something."
+          "zh": "在航空或航天中使用的通信装置",
+          "en": "A communication tool used in aviation or space technology."
         }
       ],
       "examples": [
         {
-          "en": "The scientist studied the skeleton of the ancient dinosaur.",
-          "zh": "科学家研究了古代恐龙的骨骼。"
+          "en": "The radio transponder module is essential for aircraft communication.",
+          "zh": "无线电应答器模块对飞机通信至关重要。"
         },
         {
-          "en": "The architect created a skeleton for the new building.",
-          "zh": "建筑师为新建筑设计了框架。"
+          "en": "Engineers tested the new radio transponder module for accuracy.",
+          "zh": "工程师测试了新的无线电应答器模块以确保准确性。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a skeleton as the 'framework' of a body, supporting everything else.",
-        "mnemonic": "Skeleton sounds like 'skeleton key', which opens all doors; similarly, it holds everything together."
+        "association": "Think of 'transponder' as a 'translator' for radio signals, helping them communicate."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=skeleton&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=radio%20transponder%20module&type=2"
     },
     {
-      "id": "w00637",
-      "word": "naive",
-      "type": "single",
-      "chapterIndex": 17,
-      "globalIndex": 637,
-      "chapter": "ch032",
-      "chapterName": "基本词汇 形容词和副词400 Unit 12",
+      "id": "w03503",
+      "word": "structural integrity",
+      "type": "phrase",
+      "chapterIndex": 119,
+      "globalIndex": 3503,
+      "chapter": "ch121",
+      "chapterName": "认知词汇 科技分类 桥梁检测",
       "pronunciation": {
-        "us": "/naɪˈiːv/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "天真的",
-          "en": "Showing a lack of experience or understanding; innocent."
-        },
-        {
-          "pos": "adj.",
-          "zh": "简单的",
-          "en": "Too simple or trusting, often because of a lack of knowledge."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Her naive belief in people often led her to disappointment.",
-          "zh": "她对人们天真的信任常常使她感到失望。"
-        },
-        {
-          "en": "The naive questions from children can sometimes be very insightful.",
-          "zh": "孩子们天真的问题有时会非常有洞察力。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'naive' as someone who is 'knee-deep' in innocence, lacking awareness."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=naive&type=2"
-    },
-    {
-      "id": "w02065",
-      "word": "frequency",
-      "type": "single",
-      "chapterIndex": 165,
-      "globalIndex": 2065,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/ˈfriː.kwən.si/"
+        "us": "/ˈstrʌk.tʃər.əl ɪnˈtɛɡ.rɪ.ti/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "频率",
-          "en": "The number of times something happens in a specific period."
+          "zh": "结构完整性",
+          "en": "The ability of a structure to remain strong and stable."
         },
         {
           "pos": "n.",
-          "zh": "频率",
-          "en": "The rate at which a repeating event occurs."
+          "zh": "结构的稳定性",
+          "en": "The measure of how well a structure can support loads without failing."
         }
       ],
       "examples": [
         {
-          "en": "The frequency of earthquakes in that region is quite high.",
-          "zh": "该地区地震的频率相当高。"
+          "en": "Engineers must check the structural integrity of buildings before construction.",
+          "zh": "工程师在施工前必须检查建筑的结构完整性。"
         },
         {
-          "en": "We need to measure the frequency of our meetings to improve productivity.",
-          "zh": "我们需要测量会议的频率，以提高生产力。"
+          "en": "Maintaining the structural integrity of bridges is essential for safety.",
+          "zh": "保持桥梁的结构完整性对安全至关重要。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'frequency' comes from the Latin 'frequentia', meaning 'a crowd' or 'repeated'."
+        "association": "Think of 'structure' as the foundation and 'integrity' as the strength that holds it together."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=frequency&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=structural%20integrity&type=2"
     },
     {
-      "id": "w00762",
-      "word": "tolerant",
-      "type": "single",
-      "chapterIndex": 2,
-      "globalIndex": 762,
-      "chapter": "ch039",
-      "chapterName": "基本词汇 形容词和副词400 Unit 19",
+      "id": "w03160",
+      "word": "acidic juices from the stomach",
+      "type": "phrase",
+      "chapterIndex": 1,
+      "globalIndex": 3160,
+      "chapter": "ch116",
+      "chapterName": "认知词汇 健康分类 吸烟与被动吸烟",
       "pronunciation": {
-        "us": "/ˈtɑːlərənt/"
+        "us": "/əˈsɪd.ɪk ˈdʒuː.sɪz frəm ðə ˈstʌmək/"
       },
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "宽容的",
-          "en": "Able to accept different views or behaviors without getting upset."
+          "pos": "n.",
+          "zh": "胃酸",
+          "en": "The sour liquid produced by the stomach to help digest food."
         },
         {
-          "pos": "adj.",
-          "zh": "耐受的",
-          "en": "Able to endure difficult conditions or situations."
+          "pos": "n.",
+          "zh": "胃液",
+          "en": "The mixture of acids and enzymes in the stomach for breaking down food."
         }
       ],
       "examples": [
         {
-          "en": "She is very tolerant of different cultures and traditions.",
-          "zh": "她对不同的文化和传统非常宽容。"
+          "en": "Acidic juices from the stomach can cause heartburn after eating.",
+          "zh": "进食后，胃中的酸性液体可能导致胃灼热。"
         },
         {
-          "en": "Being tolerant helps create a peaceful and harmonious society.",
-          "zh": "宽容有助于创造一个和平和谐的社会。"
+          "en": "The acidic juices help in the digestion of proteins in food.",
+          "zh": "酸性液体有助于食物中蛋白质的消化。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'tolerate' which means to endure; both words share a similar meaning."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=tolerant&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=acidic%20juices%20from%20the%20stomach&type=2"
     },
     {
-      "id": "w00442",
-      "word": "athletic",
-      "type": "single",
-      "chapterIndex": 2,
-      "globalIndex": 442,
-      "chapter": "ch023",
-      "chapterName": "基本词汇 形容词和副词400 Unit 3",
+      "id": "w03286",
+      "word": "ozone layer",
+      "type": "phrase",
+      "chapterIndex": 8,
+      "globalIndex": 3286,
+      "chapter": "ch118",
+      "chapterName": "认知词汇 健康分类 澳大利亚皮肤癌研究",
       "pronunciation": {
-        "us": "/æθˈlɛtɪk/"
+        "us": "/ˈoʊzoʊn ˈleɪər/"
       },
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "运动的",
-          "en": "Relating to sports or physical exercise."
-        },
-        {
-          "pos": "adj.",
-          "zh": "身体强壮的",
-          "en": "Having a strong and fit body, suitable for sports."
+          "pos": "n.",
+          "zh": "臭氧层",
+          "en": "A layer of ozone gas in the Earth's atmosphere that protects us from harmful UV rays."
         }
       ],
       "examples": [
         {
-          "en": "The athletic competition attracted many talented young athletes.",
-          "zh": "这场体育比赛吸引了许多有才华的年轻运动员。"
+          "en": "The ozone layer is essential for protecting life on Earth.",
+          "zh": "臭氧层对保护地球上的生命至关重要。"
         },
         {
-          "en": "She has an athletic build, perfect for running and jumping.",
-          "zh": "她的体格健壮，非常适合跑步和跳跃。"
+          "en": "Damage to the ozone layer can lead to increased skin cancer rates.",
+          "zh": "臭氧层的损坏可能导致皮肤癌发病率增加。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'athletic' as related to 'athlete', someone who is fit and participates in sports."
+        "association": "Think of the ozone layer as a 'shield' that guards us from the sun's harmful rays."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=athletic&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ozone%20layer&type=2"
     },
     {
-      "id": "w00092",
-      "word": "deserve",
-      "type": "single",
-      "chapterIndex": 12,
-      "globalIndex": 92,
-      "chapter": "ch005",
-      "chapterName": "基本词汇 动词200 Unit 5",
+      "id": "w03500",
+      "word": "steel girder bridge",
+      "type": "phrase",
+      "chapterIndex": 116,
+      "globalIndex": 3500,
+      "chapter": "ch121",
+      "chapterName": "认知词汇 科技分类 桥梁检测",
       "pronunciation": {
-        "us": "/dɪˈzɜrv/"
+        "us": "/stiːl ˈɡɜrdər brɪdʒ/"
       },
       "meanings": [
+        {
+          "pos": "n.",
+          "zh": "钢梁桥",
+          "en": "A type of bridge that uses steel girders for support."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The steel girder bridge can withstand heavy loads and strong winds.",
+          "zh": "钢梁桥可以承受重载和强风。"
+        },
+        {
+          "en": "Many cities are improving their infrastructure with steel girder bridges.",
+          "zh": "许多城市正在用钢梁桥改善基础设施。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a strong steel frame that holds up a bridge, much like steel girders hold up the structure."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=steel%20girder%20bridge&type=2"
+    },
+    {
+      "id": "w03513",
+      "word": "visual inspection",
+      "type": "phrase",
+      "chapterIndex": 129,
+      "globalIndex": 3513,
+      "chapter": "ch121",
+      "chapterName": "认知词汇 科技分类 桥梁检测",
+      "pronunciation": {
+        "us": "/ˈvɪʒ.u.əl ɪnˈspɛk.ʃən/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "视觉检查",
+          "en": "The act of looking at something closely to check for problems."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The technician conducted a visual inspection of the machinery.",
+          "zh": "技术人员对机器进行了视觉检查。"
+        },
+        {
+          "en": "A visual inspection revealed several issues with the building's structure.",
+          "zh": "视觉检查发现建筑结构存在几个问题。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=visual%20inspection&type=2"
+    },
+    {
+      "id": "w03390",
+      "word": "amplitude",
+      "type": "single",
+      "chapterIndex": 6,
+      "globalIndex": 3390,
+      "chapter": "ch121",
+      "chapterName": "认知词汇 科技分类 桥梁检测",
+      "pronunciation": {
+        "us": "/ˈæmplɪtjuːd/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "幅度",
+          "en": "The size or strength of a wave or signal."
+        },
+        {
+          "pos": "n.",
+          "zh": "广度",
+          "en": "The range or extent of something."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The amplitude of the sound wave determines its loudness.",
+          "zh": "声波的幅度决定了它的响度。"
+        },
+        {
+          "en": "He measured the amplitude of the radio signal during the experiment.",
+          "zh": "他在实验中测量了无线电信号的幅度。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'amplitude' comes from the Latin 'amplitudo', meaning 'fullness' or 'breadth'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=amplitude&type=2"
+    },
+    {
+      "id": "w02820",
+      "word": "vapour",
+      "type": "single",
+      "chapterIndex": 18,
+      "globalIndex": 2820,
+      "chapter": "ch109",
+      "chapterName": "认知词汇 自然分类 海底热资源",
+      "pronunciation": {
+        "us": "/ˈveɪpər/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "蒸汽；气体",
+          "en": "A gas that is formed when a liquid evaporates."
+        },
         {
           "pos": "v.",
-          "zh": "应得",
-          "en": "to have earned something because of your actions or qualities."
-        },
-        {
-          "pos": "v.",
-          "zh": "值得",
-          "en": "to be worthy of something, such as praise or reward."
+          "zh": "蒸发；发出蒸汽",
+          "en": "To convert a liquid into vapor."
         }
       ],
       "examples": [
         {
-          "en": "She deserves recognition for her hard work and dedication.",
-          "zh": "她因辛勤工作和奉献精神而值得被认可。"
+          "en": "The vapour rose from the hot soup on the table.",
+          "zh": "热汤上的蒸汽升起。"
         },
         {
-          "en": "After all his efforts, he truly deserves a break.",
-          "zh": "经过他所有的努力，他确实值得休息一下。"
+          "en": "Water will vapour when it reaches a boiling point.",
+          "zh": "水在达到沸点时会蒸发。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'deserve' as 'de-serve', meaning you have served well enough to earn something."
+        "etymology": "The word 'vapour' comes from the Latin 'vapor', meaning 'mist' or 'steam'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=deserve&type=2"
-    },
-    {
-      "id": "w02405",
-      "word": "language acquisition",
-      "type": "phrase",
-      "chapterIndex": 23,
-      "globalIndex": 2405,
-      "chapter": "ch100",
-      "chapterName": "认知词汇 动物分类 动物智力与语言习得",
-      "pronunciation": {
-        "us": "/ˈlæŋɡwɪdʒ əˈkwɪzɪʃən/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "语言习得",
-          "en": "The process of learning a language."
-        },
-        {
-          "pos": "n.",
-          "zh": "语言获得",
-          "en": "The ability to understand and use a language."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Language acquisition can be improved through consistent practice and exposure.",
-          "zh": "语言习得可以通过持续的练习和接触来提高。"
-        },
-        {
-          "en": "Children often achieve language acquisition faster than adults do.",
-          "zh": "儿童通常比成年人更快地实现语言习得。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The term combines 'language' from Latin 'lingua', meaning tongue, and 'acquisition' from Latin 'acquisitio', meaning obtaining.",
-        "association": "Think of 'acquisition' as 'acquiring' a new skill, similar to how you acquire a new tool."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=language%20acquisition&type=2"
-    },
-    {
-      "id": "w00425",
-      "word": "agile",
-      "type": "single",
-      "chapterIndex": 5,
-      "globalIndex": 425,
-      "chapter": "ch022",
-      "chapterName": "基本词汇 形容词和副词400 Unit 2",
-      "pronunciation": {
-        "us": "/ˈædʒaɪl/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "灵活的",
-          "en": "Able to move quickly and easily."
-        },
-        {
-          "pos": "adj.",
-          "zh": "机敏的",
-          "en": "Able to think and understand quickly."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The agile dancer moved gracefully across the stage.",
-          "zh": "灵活的舞者优雅地在舞台上移动。"
-        },
-        {
-          "en": "Start-ups need an agile approach to adapt to market changes.",
-          "zh": "初创公司需要灵活的方法来适应市场变化。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of an agile athlete who can quickly change direction."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=agile&type=2"
-    },
-    {
-      "id": "w00297",
-      "word": "integrity",
-      "type": "single",
-      "chapterIndex": 17,
-      "globalIndex": 297,
-      "chapter": "ch015",
-      "chapterName": "基本词汇 名词200 Unit 5",
-      "pronunciation": {
-        "us": "/ɪnˈtɛɡrɪti/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "正直，诚实",
-          "en": "The quality of being honest and having strong moral principles."
-        },
-        {
-          "pos": "n.",
-          "zh": "完整性，统一性",
-          "en": "The state of being whole and undivided."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Her integrity earned her the respect of her colleagues.",
-          "zh": "她的正直使她赢得了同事的尊重。"
-        },
-        {
-          "en": "Maintaining the integrity of data is crucial in research.",
-          "zh": "保持数据的完整性在研究中至关重要。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'integrity' comes from the Latin 'integritas', meaning 'wholeness' or 'completeness'.",
-        "association": "Think of 'integrity' as being 'in-tact' or 'intact', meaning nothing is missing."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=integrity&type=2"
-    },
-    {
-      "id": "w02017",
-      "word": "salmon habitat",
-      "type": "phrase",
-      "chapterIndex": 117,
-      "globalIndex": 2017,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/ˈsælmən ˈhæbɪtæt/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "鲑鱼栖息地",
-          "en": "The natural environment where salmon live and grow."
-        },
-        {
-          "pos": "n.",
-          "zh": "鱼类栖息地",
-          "en": "A specific area in water that provides food and safety for salmon."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The salmon habitat is crucial for the fish's survival and reproduction.",
-          "zh": "鲑鱼栖息地对鱼的生存和繁殖至关重要。"
-        },
-        {
-          "en": "Conservation efforts are needed to protect the salmon habitat from pollution.",
-          "zh": "保护鲑鱼栖息地免受污染的努力是必要的。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Imagine a serene river where salmon swim, representing their habitat."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=salmon%20habitat&type=2"
-    },
-    {
-      "id": "w00454",
-      "word": "bewildering",
-      "type": "single",
-      "chapterIndex": 14,
-      "globalIndex": 454,
-      "chapter": "ch023",
-      "chapterName": "基本词汇 形容词和副词400 Unit 3",
-      "pronunciation": {
-        "us": "/bɪˈwɪldərɪŋ/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "令人困惑的",
-          "en": "Causing confusion or puzzlement."
-        },
-        {
-          "pos": "adj.",
-          "zh": "令人惊讶的",
-          "en": "Extremely surprising or difficult to understand."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The instructions were so bewildering that I gave up trying to understand.",
-          "zh": "这些指示令人困惑，我放弃了尝试理解。"
-        },
-        {
-          "en": "Her sudden change of plans was bewildering for everyone involved.",
-          "zh": "她计划的突然变化让所有人都感到困惑。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'bewildering' comes from 'bewilder', which means to confuse or befuddle someone.",
-        "association": "Think of 'wild' as in untamed; something wild can be confusing or bewildering."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=bewildering&type=2"
-    },
-    {
-      "id": "w02149",
-      "word": "shrub",
-      "type": "single",
-      "chapterIndex": 249,
-      "globalIndex": 2149,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/ʃrʌb/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "灌木",
-          "en": "A shrub is a small to medium-sized plant with woody stems."
-        },
-        {
-          "pos": "n.",
-          "zh": "灌木丛",
-          "en": "A shrub can also refer to a group of these plants growing together."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The garden was filled with colorful shrubs and flowers.",
-          "zh": "花园里满是五彩缤纷的灌木和花朵。"
-        },
-        {
-          "en": "He trimmed the shrubs to keep them looking neat and tidy.",
-          "zh": "他修剪了灌木，使它们看起来整洁有序。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'shrub' as 'shrubbery', which refers to a collection of shrubs."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=shrub&type=2"
-    },
-    {
-      "id": "w00431",
-      "word": "antisocial",
-      "type": "single",
-      "chapterIndex": 11,
-      "globalIndex": 431,
-      "chapter": "ch022",
-      "chapterName": "基本词汇 形容词和副词400 Unit 2",
-      "pronunciation": {
-        "us": "/ˌæn.tiˈsoʊ.ʃəl/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "反社会的",
-          "en": "Not wanting to be around people or social interactions."
-        },
-        {
-          "pos": "adj.",
-          "zh": "拒绝社交的",
-          "en": "Behaving in a way that is harmful to society or others."
-        }
-      ],
-      "examples": [
-        {
-          "en": "He often displays antisocial behavior by avoiding social events.",
-          "zh": "他经常通过避免社交活动表现出反社会行为。"
-        },
-        {
-          "en": "Antisocial tendencies can lead to loneliness and isolation.",
-          "zh": "反社会倾向可能导致孤独和隔离。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The prefix 'anti-' means against, and 'social' relates to society, thus 'antisocial' means against social interaction."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=antisocial&type=2"
-    },
-    {
-      "id": "w02025",
-      "word": "sockeye",
-      "type": "single",
-      "chapterIndex": 125,
-      "globalIndex": 2025,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/ˈsɑːkaɪ/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "红鲑",
-          "en": "A type of salmon known for its bright red flesh."
-        },
-        {
-          "pos": "n.",
-          "zh": "西雅图的红鲑",
-          "en": "A specific species of Pacific salmon found in North America."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The sockeye salmon is famous for its rich flavor and bright color.",
-          "zh": "红鲑以其浓郁的味道和鲜艳的颜色而闻名。"
-        },
-        {
-          "en": "Many people travel to Alaska to see the sockeye salmon run each summer.",
-          "zh": "许多人夏天去阿拉斯加观看红鲑的洄游。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sockeye&type=2"
-    },
-    {
-      "id": "w02426",
-      "word": "social animal",
-      "type": "phrase",
-      "chapterIndex": 44,
-      "globalIndex": 2426,
-      "chapter": "ch100",
-      "chapterName": "认知词汇 动物分类 动物智力与语言习得",
-      "pronunciation": {
-        "us": "/ˈsoʊ.ʃəl ˈæn.ɪ.məl/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "社交动物",
-          "en": "A creature that enjoys interacting with others and thrives in groups."
-        },
-        {
-          "pos": "n.",
-          "zh": "社会性动物",
-          "en": "An animal that forms social bonds and lives in communities."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Humans are often described as social animals due to their need for connection.",
-          "zh": "人类常被描述为社交动物，因为他们需要联系。"
-        },
-        {
-          "en": "Many social animals, like wolves, work together to hunt and protect their group.",
-          "zh": "许多社交动物，如狼，合作狩猎和保护他们的群体。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=social%20animal&type=2"
-    },
-    {
-      "id": "w02320",
-      "word": "magnetic sense",
-      "type": "phrase",
-      "chapterIndex": 23,
-      "globalIndex": 2320,
-      "chapter": "ch097",
-      "chapterName": "认知词汇 动物分类 动物航行能力",
-      "pronunciation": {
-        "us": "/mæɡˈnɛtɪk sɛns/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "磁性感知",
-          "en": "The ability of some animals to detect Earth's magnetic field for navigation."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Many birds use their magnetic sense to find their way during migration.",
-          "zh": "许多鸟类利用它们的磁性感知在迁徙时找到方向。"
-        },
-        {
-          "en": "Researchers study the magnetic sense of sea turtles to understand their navigation.",
-          "zh": "研究人员研究海龟的磁性感知以了解它们的导航方式。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=magnetic%20sense&type=2"
-    },
-    {
-      "id": "w02250",
-      "word": "aggressive",
-      "type": "single",
-      "chapterIndex": 350,
-      "globalIndex": 2250,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/əˈɡrɛsɪv/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "好斗的，侵略性的",
-          "en": "Ready to attack or confront; very forceful."
-        },
-        {
-          "pos": "adj.",
-          "zh": "积极的，主动的",
-          "en": "Showing a strong desire to succeed or make progress."
-        }
-      ],
-      "examples": [
-        {
-          "en": "His aggressive behavior in the debate surprised everyone.",
-          "zh": "他在辩论中好斗的行为让所有人感到惊讶。"
-        },
-        {
-          "en": "The company took aggressive steps to increase its market share.",
-          "zh": "该公司采取了积极的措施来扩大其市场份额。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'aggressive' as someone who is always ready to 'grab' opportunities."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aggressive&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vapour&type=2"
     }
   ]
 }

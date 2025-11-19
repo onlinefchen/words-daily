@@ -1,70 +1,67 @@
 {
-  "generated": "2025-11-18T22:08:06.329Z",
+  "generated": "2025-11-19T22:07:58.772Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "deserve",
-      "pronunciation": "/dɪˈzɜrv/",
+      "word": "repertoire",
+      "pronunciation": "/ˈrɛpərtwɑːr/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "应得",
-          "en": "to have earned something because of your actions or qualities."
+          "pos": "n.",
+          "zh": "全套节目",
+          "en": "A collection of skills or works that a person can perform."
         },
         {
-          "pos": "v.",
-          "zh": "值得",
-          "en": "to be worthy of something, such as praise or reward."
+          "pos": "n.",
+          "zh": "可演出的曲目",
+          "en": "The range of plays, dances, or pieces that a company or performer can present."
         }
       ],
       "examples": [
         {
-          "en": "She deserves recognition for her hard work and dedication.",
-          "zh": "她因辛勤工作和奉献精神而值得被认可。"
+          "en": "The musician has a diverse repertoire of classical and modern pieces.",
+          "zh": "这位音乐家有多样的古典和现代曲目的全套节目。"
         },
         {
-          "en": "After all his efforts, he truly deserves a break.",
-          "zh": "经过他所有的努力，他确实值得休息一下。"
+          "en": "Actors often expand their repertoire by taking on different roles.",
+          "zh": "演员们经常通过扮演不同的角色来扩展他们的全套节目。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'deserve' as 'de-serve', meaning you have served well enough to earn something."
+        "association": "Think of 'repertoire' as 'repeat' (re) and 'theater' (pertoire) to remember it relates to performances."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=deserve&type=2",
-      "chapter": "基本词汇 动词200 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=repertoire&type=2",
+      "chapter": "认知词汇 科技分类 莫尔斯电码"
     },
     {
-      "word": "language acquisition",
-      "pronunciation": "/ˈlæŋɡwɪdʒ əˈkwɪzɪʃən/",
+      "word": "signalling code",
+      "pronunciation": "/ˈsɪɡnəlɪŋ koʊd/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "语言习得",
-          "en": "The process of learning a language."
+          "zh": "信号编码",
+          "en": "A system of signs or signals used to convey information."
         },
         {
           "pos": "n.",
-          "zh": "语言获得",
-          "en": "The ability to understand and use a language."
+          "zh": "暗语",
+          "en": "A specific code used to communicate in a secret or restricted way."
         }
       ],
       "examples": [
         {
-          "en": "Language acquisition can be improved through consistent practice and exposure.",
-          "zh": "语言习得可以通过持续的练习和接触来提高。"
+          "en": "The signalling code allowed the team to communicate secretly.",
+          "zh": "这个信号编码让团队能够秘密交流。"
         },
         {
-          "en": "Children often achieve language acquisition faster than adults do.",
-          "zh": "儿童通常比成年人更快地实现语言习得。"
+          "en": "They developed a new signalling code to improve security.",
+          "zh": "他们开发了一种新的信号编码以提高安全性。"
         }
       ],
-      "memoryTips": {
-        "etymology": "The term combines 'language' from Latin 'lingua', meaning tongue, and 'acquisition' from Latin 'acquisitio', meaning obtaining.",
-        "association": "Think of 'acquisition' as 'acquiring' a new skill, similar to how you acquire a new tool."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=language%20acquisition&type=2",
-      "chapter": "认知词汇 动物分类 动物智力与语言习得"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=signalling%20code&type=2",
+      "chapter": "认知词汇 科技分类 莫尔斯电码"
     }
   ]
 }

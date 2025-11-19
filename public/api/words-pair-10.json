@@ -1,62 +1,69 @@
 {
-  "generated": "2025-11-18T22:08:06.330Z",
+  "generated": "2025-11-19T22:07:58.772Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "magnetic sense",
-      "pronunciation": "/mæɡˈnɛtɪk sɛns/",
+      "word": "amplitude",
+      "pronunciation": "/ˈæmplɪtjuːd/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "磁性感知",
-          "en": "The ability of some animals to detect Earth's magnetic field for navigation."
+          "zh": "幅度",
+          "en": "The size or strength of a wave or signal."
+        },
+        {
+          "pos": "n.",
+          "zh": "广度",
+          "en": "The range or extent of something."
         }
       ],
       "examples": [
         {
-          "en": "Many birds use their magnetic sense to find their way during migration.",
-          "zh": "许多鸟类利用它们的磁性感知在迁徙时找到方向。"
+          "en": "The amplitude of the sound wave determines its loudness.",
+          "zh": "声波的幅度决定了它的响度。"
         },
         {
-          "en": "Researchers study the magnetic sense of sea turtles to understand their navigation.",
-          "zh": "研究人员研究海龟的磁性感知以了解它们的导航方式。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=magnetic%20sense&type=2",
-      "chapter": "认知词汇 动物分类 动物航行能力"
-    },
-    {
-      "word": "aggressive",
-      "pronunciation": "/əˈɡrɛsɪv/",
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "好斗的，侵略性的",
-          "en": "Ready to attack or confront; very forceful."
-        },
-        {
-          "pos": "adj.",
-          "zh": "积极的，主动的",
-          "en": "Showing a strong desire to succeed or make progress."
-        }
-      ],
-      "examples": [
-        {
-          "en": "His aggressive behavior in the debate surprised everyone.",
-          "zh": "他在辩论中好斗的行为让所有人感到惊讶。"
-        },
-        {
-          "en": "The company took aggressive steps to increase its market share.",
-          "zh": "该公司采取了积极的措施来扩大其市场份额。"
+          "en": "He measured the amplitude of the radio signal during the experiment.",
+          "zh": "他在实验中测量了无线电信号的幅度。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'aggressive' as someone who is always ready to 'grab' opportunities."
+        "etymology": "The word 'amplitude' comes from the Latin 'amplitudo', meaning 'fullness' or 'breadth'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aggressive&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=amplitude&type=2",
+      "chapter": "认知词汇 科技分类 桥梁检测"
+    },
+    {
+      "word": "vapour",
+      "pronunciation": "/ˈveɪpər/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "蒸汽；气体",
+          "en": "A gas that is formed when a liquid evaporates."
+        },
+        {
+          "pos": "v.",
+          "zh": "蒸发；发出蒸汽",
+          "en": "To convert a liquid into vapor."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The vapour rose from the hot soup on the table.",
+          "zh": "热汤上的蒸汽升起。"
+        },
+        {
+          "en": "Water will vapour when it reaches a boiling point.",
+          "zh": "水在达到沸点时会蒸发。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'vapour' comes from the Latin 'vapor', meaning 'mist' or 'steam'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vapour&type=2",
+      "chapter": "认知词汇 自然分类 海底热资源"
     }
   ]
 }

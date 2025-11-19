@@ -1,69 +1,64 @@
 {
-  "generated": "2025-11-18T22:08:06.329Z",
+  "generated": "2025-11-19T22:07:58.772Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "tolerant",
-      "pronunciation": "/ˈtɑːlərənt/",
+      "word": "involuntary smoking",
+      "pronunciation": "/ɪnˈvɑːlənˌtɛri ˈsmoʊkɪŋ/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "宽容的",
-          "en": "Able to accept different views or behaviors without getting upset."
-        },
-        {
-          "pos": "adj.",
-          "zh": "耐受的",
-          "en": "Able to endure difficult conditions or situations."
+          "pos": "n.",
+          "zh": "被动吸烟",
+          "en": "The act of breathing in smoke from someone else's cigarette or tobacco."
         }
       ],
       "examples": [
         {
-          "en": "She is very tolerant of different cultures and traditions.",
-          "zh": "她对不同的文化和传统非常宽容。"
+          "en": "Involuntary smoking can harm non-smokers' health significantly.",
+          "zh": "被动吸烟会严重危害非吸烟者的健康。"
         },
         {
-          "en": "Being tolerant helps create a peaceful and harmonious society.",
-          "zh": "宽容有助于创造一个和平和谐的社会。"
+          "en": "Many children suffer from involuntary smoking in public areas.",
+          "zh": "许多儿童在公共场所遭受被动吸烟的影响。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'tolerate' which means to endure; both words share a similar meaning."
+        "association": "Think of 'involuntary' as something you cannot control, like being near a smoker."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=tolerant&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 19"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=involuntary%20smoking&type=2",
+      "chapter": "认知词汇 健康分类 吸烟与被动吸烟"
     },
     {
-      "word": "athletic",
-      "pronunciation": "/æθˈlɛtɪk/",
+      "word": "radio telemetry",
+      "pronunciation": "/ˈreɪ.di.oʊ tɛl.əˌmɛ.tri/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "运动的",
-          "en": "Relating to sports or physical exercise."
+          "pos": "n.",
+          "zh": "无线电遥测",
+          "en": "The process of measuring data from a distance using radio signals."
         },
         {
-          "pos": "adj.",
-          "zh": "身体强壮的",
-          "en": "Having a strong and fit body, suitable for sports."
+          "pos": "n.",
+          "zh": "无线电数据传输",
+          "en": "The technology used to send and receive data through radio waves."
         }
       ],
       "examples": [
         {
-          "en": "The athletic competition attracted many talented young athletes.",
-          "zh": "这场体育比赛吸引了许多有才华的年轻运动员。"
+          "en": "Scientists use radio telemetry to track animal movements in the wild.",
+          "zh": "科学家使用无线电遥测跟踪野生动物的移动。"
         },
         {
-          "en": "She has an athletic build, perfect for running and jumping.",
-          "zh": "她的体格健壮，非常适合跑步和跳跃。"
+          "en": "Radio telemetry helps researchers gather important data from remote locations.",
+          "zh": "无线电遥测帮助研究人员从偏远地区收集重要数据。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'athletic' as related to 'athlete', someone who is fit and participates in sports."
+        "association": "Think of 'radio' as sending signals, and 'telemetry' as measuring data, combining them to track things from afar."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=athletic&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=radio%20telemetry&type=2",
+      "chapter": "认知词汇 科技分类 桥梁检测"
     }
   ]
 }

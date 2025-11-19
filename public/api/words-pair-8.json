@@ -1,69 +1,62 @@
 {
-  "generated": "2025-11-18T22:08:06.329Z",
+  "generated": "2025-11-19T22:07:58.772Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "shrub",
-      "pronunciation": "/ʃrʌb/",
+      "word": "acidic juices from the stomach",
+      "pronunciation": "/əˈsɪd.ɪk ˈdʒuː.sɪz frəm ðə ˈstʌmək/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "灌木",
-          "en": "A shrub is a small to medium-sized plant with woody stems."
+          "zh": "胃酸",
+          "en": "The sour liquid produced by the stomach to help digest food."
         },
         {
           "pos": "n.",
-          "zh": "灌木丛",
-          "en": "A shrub can also refer to a group of these plants growing together."
+          "zh": "胃液",
+          "en": "The mixture of acids and enzymes in the stomach for breaking down food."
         }
       ],
       "examples": [
         {
-          "en": "The garden was filled with colorful shrubs and flowers.",
-          "zh": "花园里满是五彩缤纷的灌木和花朵。"
+          "en": "Acidic juices from the stomach can cause heartburn after eating.",
+          "zh": "进食后，胃中的酸性液体可能导致胃灼热。"
         },
         {
-          "en": "He trimmed the shrubs to keep them looking neat and tidy.",
-          "zh": "他修剪了灌木，使它们看起来整洁有序。"
+          "en": "The acidic juices help in the digestion of proteins in food.",
+          "zh": "酸性液体有助于食物中蛋白质的消化。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'shrub' as 'shrubbery', which refers to a collection of shrubs."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=shrub&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=acidic%20juices%20from%20the%20stomach&type=2",
+      "chapter": "认知词汇 健康分类 吸烟与被动吸烟"
     },
     {
-      "word": "antisocial",
-      "pronunciation": "/ˌæn.tiˈsoʊ.ʃəl/",
+      "word": "ozone layer",
+      "pronunciation": "/ˈoʊzoʊn ˈleɪər/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "反社会的",
-          "en": "Not wanting to be around people or social interactions."
-        },
-        {
-          "pos": "adj.",
-          "zh": "拒绝社交的",
-          "en": "Behaving in a way that is harmful to society or others."
+          "pos": "n.",
+          "zh": "臭氧层",
+          "en": "A layer of ozone gas in the Earth's atmosphere that protects us from harmful UV rays."
         }
       ],
       "examples": [
         {
-          "en": "He often displays antisocial behavior by avoiding social events.",
-          "zh": "他经常通过避免社交活动表现出反社会行为。"
+          "en": "The ozone layer is essential for protecting life on Earth.",
+          "zh": "臭氧层对保护地球上的生命至关重要。"
         },
         {
-          "en": "Antisocial tendencies can lead to loneliness and isolation.",
-          "zh": "反社会倾向可能导致孤独和隔离。"
+          "en": "Damage to the ozone layer can lead to increased skin cancer rates.",
+          "zh": "臭氧层的损坏可能导致皮肤癌发病率增加。"
         }
       ],
       "memoryTips": {
-        "etymology": "The prefix 'anti-' means against, and 'social' relates to society, thus 'antisocial' means against social interaction."
+        "association": "Think of the ozone layer as a 'shield' that guards us from the sun's harmful rays."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=antisocial&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ozone%20layer&type=2",
+      "chapter": "认知词汇 健康分类 澳大利亚皮肤癌研究"
     }
   ]
 }

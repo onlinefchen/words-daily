@@ -1,59 +1,68 @@
 {
-  "generated": "2025-11-18T22:08:06.328Z",
+  "generated": "2025-11-19T22:07:58.771Z",
   "count": 2,
   "words": [
     {
-      "word": "sending device",
-      "pronunciation": "/ˈsɛndɪŋ dɪˌvaɪs/",
+      "word": "reptile",
+      "pronunciation": "/ˈrɛp.taɪl/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "发送设备",
-          "en": "A device used to transmit signals or information."
+          "zh": "爬行动物",
+          "en": "A cold-blooded animal with scales, such as a snake or lizard."
         },
         {
           "pos": "n.",
-          "zh": "发送器",
-          "en": "An instrument that sends data to another location."
+          "zh": "阴险的人",
+          "en": "A person who is deceitful or untrustworthy."
         }
       ],
       "examples": [
         {
-          "en": "The sending device allows us to communicate over long distances.",
-          "zh": "发送设备使我们能够进行远距离通信。"
+          "en": "The snake is a fascinating reptile found in many habitats.",
+          "zh": "蛇是一种在许多栖息地中发现的迷人爬行动物。"
         },
         {
-          "en": "She used a sending device to share her presentation with the team.",
-          "zh": "她使用发送设备与团队分享她的演示文稿。"
+          "en": "He was considered a reptile because of his dishonest behavior.",
+          "zh": "由于他的不诚实行为，他被认为是一个阴险的人。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sending%20device&type=2",
-      "chapter": "认知词汇 科技分类 莫尔斯电码"
+      "memoryTips": {
+        "etymology": "The word 'reptile' comes from the Latin 'reptilis', meaning 'to crawl'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=reptile&type=2",
+      "chapter": "阅读真题认知词汇 恐龙的灭绝"
     },
     {
-      "word": "crab fishery",
-      "pronunciation": "/kræb ˈfɪʃəri/",
+      "word": "Old World",
+      "pronunciation": "/oʊld wɜrld/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "蟹类渔业",
-          "en": "A fishery that specializes in catching crabs."
+          "zh": "旧世界",
+          "en": "The term refers to Europe, Asia, and Africa, especially in contrast to the Americas."
+        },
+        {
+          "pos": "n.",
+          "zh": "古老的世界",
+          "en": "It signifies the ancient civilizations and their cultures before the discovery of the Americas."
         }
       ],
       "examples": [
         {
-          "en": "The crab fishery has seen a rise in demand this season.",
-          "zh": "这个蟹类渔业在这个季节的需求上升了。"
+          "en": "In history class, we learned about the Old World and its ancient cultures.",
+          "zh": "在历史课上，我们学习了旧世界及其古老文化。"
         },
         {
-          "en": "Many coastal communities depend on the crab fishery for their livelihood.",
-          "zh": "许多沿海社区依靠蟹类渔业维生。"
+          "en": "The spices from the Old World were highly valued in trade.",
+          "zh": "来自旧世界的香料在贸易中备受重视。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=crab%20fishery&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "memoryTips": {
+        "association": "Think of the Old World as the 'original' world, where many historical events began."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=Old%20World&type=2",
+      "chapter": "认知词汇 历史分类 地图发展史"
     }
   ]
 }

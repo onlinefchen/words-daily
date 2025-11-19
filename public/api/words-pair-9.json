@@ -1,65 +1,57 @@
 {
-  "generated": "2025-11-18T22:08:06.329Z",
+  "generated": "2025-11-19T22:07:58.772Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "sockeye",
-      "pronunciation": "/ˈsɑːkaɪ/",
+      "word": "steel girder bridge",
+      "pronunciation": "/stiːl ˈɡɜrdər brɪdʒ/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "红鲑",
-          "en": "A type of salmon known for its bright red flesh."
-        },
-        {
-          "pos": "n.",
-          "zh": "西雅图的红鲑",
-          "en": "A specific species of Pacific salmon found in North America."
+          "zh": "钢梁桥",
+          "en": "A type of bridge that uses steel girders for support."
         }
       ],
       "examples": [
         {
-          "en": "The sockeye salmon is famous for its rich flavor and bright color.",
-          "zh": "红鲑以其浓郁的味道和鲜艳的颜色而闻名。"
+          "en": "The steel girder bridge can withstand heavy loads and strong winds.",
+          "zh": "钢梁桥可以承受重载和强风。"
         },
         {
-          "en": "Many people travel to Alaska to see the sockeye salmon run each summer.",
-          "zh": "许多人夏天去阿拉斯加观看红鲑的洄游。"
+          "en": "Many cities are improving their infrastructure with steel girder bridges.",
+          "zh": "许多城市正在用钢梁桥改善基础设施。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sockeye&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "memoryTips": {
+        "association": "Think of a strong steel frame that holds up a bridge, much like steel girders hold up the structure."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=steel%20girder%20bridge&type=2",
+      "chapter": "认知词汇 科技分类 桥梁检测"
     },
     {
-      "word": "social animal",
-      "pronunciation": "/ˈsoʊ.ʃəl ˈæn.ɪ.məl/",
+      "word": "visual inspection",
+      "pronunciation": "/ˈvɪʒ.u.əl ɪnˈspɛk.ʃən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "社交动物",
-          "en": "A creature that enjoys interacting with others and thrives in groups."
-        },
-        {
-          "pos": "n.",
-          "zh": "社会性动物",
-          "en": "An animal that forms social bonds and lives in communities."
+          "zh": "视觉检查",
+          "en": "The act of looking at something closely to check for problems."
         }
       ],
       "examples": [
         {
-          "en": "Humans are often described as social animals due to their need for connection.",
-          "zh": "人类常被描述为社交动物，因为他们需要联系。"
+          "en": "The technician conducted a visual inspection of the machinery.",
+          "zh": "技术人员对机器进行了视觉检查。"
         },
         {
-          "en": "Many social animals, like wolves, work together to hunt and protect their group.",
-          "zh": "许多社交动物，如狼，合作狩猎和保护他们的群体。"
+          "en": "A visual inspection revealed several issues with the building's structure.",
+          "zh": "视觉检查发现建筑结构存在几个问题。"
         }
       ],
       "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=social%20animal&type=2",
-      "chapter": "认知词汇 动物分类 动物智力与语言习得"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=visual%20inspection&type=2",
+      "chapter": "认知词汇 科技分类 桥梁检测"
     }
   ]
 }

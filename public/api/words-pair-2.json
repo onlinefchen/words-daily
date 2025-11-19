@@ -1,68 +1,69 @@
 {
-  "generated": "2025-11-18T22:08:06.329Z",
+  "generated": "2025-11-19T22:07:58.771Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "geometric configuration",
-      "pronunciation": "/dʒiˈɑː.mə.trɪk ˌkən.fɪˈɡjʊr.ə.ʃən/",
+      "word": "forest ecosystem",
+      "pronunciation": "/ˈfɔrɪst ˌiːkəˈsɪstəm/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "几何配置",
-          "en": "A specific arrangement or layout of geometric shapes."
+          "zh": "森林生态系统",
+          "en": "A community of living organisms and their environment in a forest."
         },
         {
           "pos": "n.",
-          "zh": "几何构形",
-          "en": "The structure formed by combining different geometric elements."
+          "zh": "生态系统的组成部分",
+          "en": "The system formed by interactions among plants, animals, and microorganisms in a forest."
         }
       ],
       "examples": [
         {
-          "en": "The geometric configuration of the park includes various shapes and pathways.",
-          "zh": "公园的几何配置包括各种形状和小路。"
+          "en": "The forest ecosystem supports diverse species of plants and animals.",
+          "zh": "森林生态系统支持多样的植物和动物种类。"
         },
         {
-          "en": "Scientists studied the geometric configuration of atoms in the molecule.",
-          "zh": "科学家研究了分子中原子的几何配置。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=geometric%20configuration&type=2",
-      "chapter": "认知词汇 动物分类 动物智力与语言习得"
-    },
-    {
-      "word": "skeleton",
-      "pronunciation": "/ˈskɛl.ɪ.tən/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "骨架，骨骼",
-          "en": "The structure of bones in a body."
-        },
-        {
-          "pos": "n.",
-          "zh": "框架，骨架结构",
-          "en": "A basic structure that supports something."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The scientist studied the skeleton of the ancient dinosaur.",
-          "zh": "科学家研究了古代恐龙的骨骼。"
-        },
-        {
-          "en": "The architect created a skeleton for the new building.",
-          "zh": "建筑师为新建筑设计了框架。"
+          "en": "Conserving the forest ecosystem is essential for environmental balance.",
+          "zh": "保护森林生态系统对环境平衡至关重要。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a skeleton as the 'framework' of a body, supporting everything else.",
-        "mnemonic": "Skeleton sounds like 'skeleton key', which opens all doors; similarly, it holds everything together."
+        "association": "Think of a 'forest' as a 'for rest' area where many organisms coexist peacefully."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=skeleton&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=forest%20ecosystem&type=2",
+      "chapter": "认知词汇 环境分类 人类与动物灭绝"
+    },
+    {
+      "word": "corrosion activity",
+      "pronunciation": "/kəˈroʊʒən əkˈtɪvɪti/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "腐蚀活动",
+          "en": "The process where materials, especially metals, are gradually destroyed by chemical reactions."
+        },
+        {
+          "pos": "n.",
+          "zh": "腐蚀活性",
+          "en": "The level or rate at which corrosion occurs in a material."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Corrosion activity can significantly weaken metal structures over time.",
+          "zh": "腐蚀活动会在一段时间内显著削弱金属结构。"
+        },
+        {
+          "en": "Engine parts are often tested for corrosion activity to ensure durability.",
+          "zh": "发动机部件通常会测试腐蚀活性以确保耐用性。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'corrosion' as 'corroding' or 'eating away' at materials, and 'activity' as the 'action' of this process."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=corrosion%20activity&type=2",
+      "chapter": "认知词汇 科技分类 桥梁检测"
     }
   ]
 }
