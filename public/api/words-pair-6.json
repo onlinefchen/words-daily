@@ -1,62 +1,69 @@
 {
-  "generated": "2025-11-19T22:07:58.772Z",
+  "generated": "2025-11-20T22:08:09.119Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "melanoma",
-      "pronunciation": "/ˌmɛl.əˈnoʊ.mə/",
+      "word": "doomed",
+      "pronunciation": "/duːmd/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "黑色素瘤",
-          "en": "A type of skin cancer that develops from melanocytes."
+          "pos": "adj.",
+          "zh": "注定失败的",
+          "en": "Certain to fail or be destroyed."
+        },
+        {
+          "pos": "v.",
+          "zh": "注定",
+          "en": "To decide the fate of something in a negative way."
         }
       ],
       "examples": [
         {
-          "en": "Melanoma can spread quickly if not treated early.",
-          "zh": "如果不及早治疗，黑色素瘤可能会迅速扩散。"
+          "en": "The project was doomed from the start due to poor planning.",
+          "zh": "这个项目从一开始就注定失败，因为规划不善。"
         },
         {
-          "en": "Regular skin checks can help detect melanoma early.",
-          "zh": "定期检查皮肤有助于及早发现黑色素瘤。"
+          "en": "He felt doomed when he received the bad news.",
+          "zh": "当他收到坏消息时，他感到自己注定要失败。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'melanoma' as 'melanin' (the pigment in skin) + 'oma' (a suffix used in medical terms for tumors)."
+        "association": "Think of 'doomed' as 'doomed to fail', linking it to failure."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=melanoma&type=2",
-      "chapter": "认知词汇 健康分类 澳大利亚皮肤癌研究"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=doomed&type=2",
+      "chapter": "核心词汇 文化与传统 Unit 2"
     },
     {
-      "word": "specific integrated circuit",
-      "pronunciation": "/spɪˈsɪfɪk ˈɪntɪɡreɪtɪd ˈsɜrˌkɪt/",
+      "word": "circuit",
+      "pronunciation": "/ˈsɜr.kɪt/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "特定集成电路",
-          "en": "A type of integrated circuit designed for a specific function."
+          "zh": "电路",
+          "en": "A circuit is a path for electricity to flow through."
         },
         {
           "pos": "n.",
-          "zh": "专用集成电路",
-          "en": "An integrated circuit optimized for particular applications."
+          "zh": "圈",
+          "en": "A circuit can also mean a circular route or area."
         }
       ],
       "examples": [
         {
-          "en": "The specific integrated circuit improved the device's performance significantly.",
-          "zh": "特定集成电路显著提高了设备的性能。"
+          "en": "The electrician repaired the faulty circuit in the house.",
+          "zh": "电工修理了房子里故障的电路。"
         },
         {
-          "en": "Engineers designed a specific integrated circuit for better energy efficiency.",
-          "zh": "工程师设计了一种特定集成电路以提高能效。"
+          "en": "The marathon runners completed a circuit around the city park.",
+          "zh": "马拉松跑者绕着城市公园完成了一圈。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=specific%20integrated%20circuit&type=2",
-      "chapter": "认知词汇 科技分类 桥梁检测"
+      "memoryTips": {
+        "association": "Think of a circuit as a 'circle' of electricity, connecting everything in a loop."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=circuit&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

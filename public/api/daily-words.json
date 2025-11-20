@@ -1,730 +1,760 @@
 {
-  "generated": "2025-11-19T22:07:58.770Z",
-  "date": "2025-11-19",
+  "generated": "2025-11-20T22:08:09.117Z",
+  "date": "2025-11-20",
   "totalWords": 20,
   "words": [
     {
-      "id": "w04621",
-      "word": "reptile",
+      "id": "w01310",
+      "word": "instill",
       "type": "single",
-      "chapterIndex": 22,
-      "globalIndex": 4621,
-      "chapter": "ch144",
-      "chapterName": "阅读真题认知词汇 恐龙的灭绝",
+      "chapterIndex": 10,
+      "globalIndex": 1310,
+      "chapter": "ch066",
+      "chapterName": "核心词汇 青少年教育 Unit 6",
       "pronunciation": {
-        "us": "/ˈrɛp.taɪl/"
+        "us": "/ɪnˈstɪl/"
       },
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "爬行动物",
-          "en": "A cold-blooded animal with scales, such as a snake or lizard."
+          "pos": "v.",
+          "zh": "逐渐灌输",
+          "en": "To gradually teach someone an idea or attitude."
         },
         {
-          "pos": "n.",
-          "zh": "阴险的人",
-          "en": "A person who is deceitful or untrustworthy."
+          "pos": "v.",
+          "zh": "注入",
+          "en": "To put a quality or feeling into someone."
         }
       ],
       "examples": [
         {
-          "en": "The snake is a fascinating reptile found in many habitats.",
-          "zh": "蛇是一种在许多栖息地中发现的迷人爬行动物。"
+          "en": "Teachers aim to instill a love of learning in their students.",
+          "zh": "教师的目标是培养学生对学习的热爱。"
         },
         {
-          "en": "He was considered a reptile because of his dishonest behavior.",
-          "zh": "由于他的不诚实行为，他被认为是一个阴险的人。"
+          "en": "Parents should instill good values in their children from a young age.",
+          "zh": "父母应从小在孩子身上灌输良好的价值观。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'reptile' comes from the Latin 'reptilis', meaning 'to crawl'."
+        "association": "Think of 'instill' as 'in still', meaning to put something in quietly over time."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=reptile&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=instill&type=2"
     },
     {
-      "id": "w03707",
-      "word": "Old World",
-      "type": "phrase",
-      "chapterIndex": 63,
-      "globalIndex": 3707,
-      "chapter": "ch124",
-      "chapterName": "认知词汇 历史分类 地图发展史",
+      "id": "w03823",
+      "word": "playwright",
+      "type": "single",
+      "chapterIndex": 44,
+      "globalIndex": 3823,
+      "chapter": "ch126",
+      "chapterName": "认知词汇 历史分类 电影发展史",
       "pronunciation": {
-        "us": "/oʊld wɜrld/"
+        "us": "/ˈpleɪr.waɪt/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "旧世界",
-          "en": "The term refers to Europe, Asia, and Africa, especially in contrast to the Americas."
+          "zh": "剧作家",
+          "en": "A playwright is a person who writes plays for theater."
         },
         {
           "pos": "n.",
-          "zh": "古老的世界",
-          "en": "It signifies the ancient civilizations and their cultures before the discovery of the Americas."
+          "zh": "剧本作家",
+          "en": "A playwright creates stories that are performed by actors."
         }
       ],
       "examples": [
         {
-          "en": "In history class, we learned about the Old World and its ancient cultures.",
-          "zh": "在历史课上，我们学习了旧世界及其古老文化。"
+          "en": "The famous playwright wrote a new play that premiered last week.",
+          "zh": "这位著名的剧作家上周首演了一部新剧。"
         },
         {
-          "en": "The spices from the Old World were highly valued in trade.",
-          "zh": "来自旧世界的香料在贸易中备受重视。"
+          "en": "Many playwrights find inspiration in everyday life and personal experiences.",
+          "zh": "许多剧作家从日常生活和个人经历中寻找灵感。"
         }
       ],
       "memoryTips": {
-        "association": "Think of the Old World as the 'original' world, where many historical events began."
+        "etymology": "The word 'playwright' comes from 'play', meaning a theatrical work, and 'wright', an old term for someone who makes or constructs something."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=Old%20World&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=playwright&type=2"
     },
     {
-      "id": "w02941",
-      "word": "forest ecosystem",
-      "type": "phrase",
-      "chapterIndex": 26,
-      "globalIndex": 2941,
-      "chapter": "ch112",
-      "chapterName": "认知词汇 环境分类 人类与动物灭绝",
+      "id": "w01319",
+      "word": "law-abiding",
+      "type": "single",
+      "chapterIndex": 19,
+      "globalIndex": 1319,
+      "chapter": "ch066",
+      "chapterName": "核心词汇 青少年教育 Unit 6",
       "pronunciation": {
-        "us": "/ˈfɔrɪst ˌiːkəˈsɪstəm/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "森林生态系统",
-          "en": "A community of living organisms and their environment in a forest."
-        },
-        {
-          "pos": "n.",
-          "zh": "生态系统的组成部分",
-          "en": "The system formed by interactions among plants, animals, and microorganisms in a forest."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The forest ecosystem supports diverse species of plants and animals.",
-          "zh": "森林生态系统支持多样的植物和动物种类。"
-        },
-        {
-          "en": "Conserving the forest ecosystem is essential for environmental balance.",
-          "zh": "保护森林生态系统对环境平衡至关重要。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of a 'forest' as a 'for rest' area where many organisms coexist peacefully."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=forest%20ecosystem&type=2"
-    },
-    {
-      "id": "w03406",
-      "word": "corrosion activity",
-      "type": "phrase",
-      "chapterIndex": 22,
-      "globalIndex": 3406,
-      "chapter": "ch121",
-      "chapterName": "认知词汇 科技分类 桥梁检测",
-      "pronunciation": {
-        "us": "/kəˈroʊʒən əkˈtɪvɪti/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "腐蚀活动",
-          "en": "The process where materials, especially metals, are gradually destroyed by chemical reactions."
-        },
-        {
-          "pos": "n.",
-          "zh": "腐蚀活性",
-          "en": "The level or rate at which corrosion occurs in a material."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Corrosion activity can significantly weaken metal structures over time.",
-          "zh": "腐蚀活动会在一段时间内显著削弱金属结构。"
-        },
-        {
-          "en": "Engine parts are often tested for corrosion activity to ensure durability.",
-          "zh": "发动机部件通常会测试腐蚀活性以确保耐用性。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'corrosion' as 'corroding' or 'eating away' at materials, and 'activity' as the 'action' of this process."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=corrosion%20activity&type=2"
-    },
-    {
-      "id": "w03626",
-      "word": "radioactive carbon",
-      "type": "phrase",
-      "chapterIndex": 59,
-      "globalIndex": 3626,
-      "chapter": "ch123",
-      "chapterName": "认知词汇 科技分类 探索太空生物",
-      "pronunciation": {
-        "us": "/ˌreɪdioʊˈæktɪv ˈkɑːrbən/"
+        "us": "/lɔː əˈbaɪ.dɪŋ/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "放射性的碳",
-          "en": "A type of carbon that emits radiation, often used in scientific dating."
-        },
-        {
-          "pos": "n.",
-          "zh": "放射性碳",
-          "en": "Carbon-14, an isotope of carbon used to determine the age of ancient objects."
+          "zh": "守法的",
+          "en": "Following the laws and rules of society."
         }
       ],
       "examples": [
         {
-          "en": "Scientists use radioactive carbon to date ancient artifacts accurately.",
-          "zh": "科学家使用放射性碳准确地给古代文物定年。"
+          "en": "Most citizens are law-abiding and respect the legal system.",
+          "zh": "大多数公民是守法的，尊重法律体系。"
         },
         {
-          "en": "The study of radioactive carbon is essential in archaeology and geology.",
-          "zh": "放射性碳的研究在考古学和地质学中至关重要。"
+          "en": "Law-abiding individuals contribute to a peaceful community.",
+          "zh": "守法的个人为和谐社区做出贡献。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'radioactive' as 'radio' waves that can be dangerous, and 'carbon' as the basic building block of life. Together, they help us understand the past."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=radioactive%20carbon&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=law-abiding&type=2"
     },
     {
-      "id": "w03064",
-      "word": "pest interception",
-      "type": "phrase",
-      "chapterIndex": 16,
-      "globalIndex": 3064,
-      "chapter": "ch114",
-      "chapterName": "认知词汇 环境分类 病虫害防治",
-      "pronunciation": {
-        "us": "/pɛst ˌɪn.təˈsɛp.ʃən/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "害虫拦截",
-          "en": "The act of stopping or catching pests before they enter a specific area."
-        },
-        {
-          "pos": "n.",
-          "zh": "害虫监测",
-          "en": "The process of detecting pests to prevent their spread."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Pest interception is crucial for protecting agricultural crops.",
-          "zh": "害虫拦截对保护农业作物至关重要。"
-        },
-        {
-          "en": "Effective pest interception can reduce the need for pesticides.",
-          "zh": "有效的害虫拦截可以减少对农药的需求。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'interception' as catching a ball; you're catching pests before they can harm crops."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pest%20interception&type=2"
-    },
-    {
-      "id": "w03199",
-      "word": "involuntary smoking",
-      "type": "phrase",
-      "chapterIndex": 40,
-      "globalIndex": 3199,
-      "chapter": "ch116",
-      "chapterName": "认知词汇 健康分类 吸烟与被动吸烟",
-      "pronunciation": {
-        "us": "/ɪnˈvɑːlənˌtɛri ˈsmoʊkɪŋ/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "被动吸烟",
-          "en": "The act of breathing in smoke from someone else's cigarette or tobacco."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Involuntary smoking can harm non-smokers' health significantly.",
-          "zh": "被动吸烟会严重危害非吸烟者的健康。"
-        },
-        {
-          "en": "Many children suffer from involuntary smoking in public areas.",
-          "zh": "许多儿童在公共场所遭受被动吸烟的影响。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'involuntary' as something you cannot control, like being near a smoker."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=involuntary%20smoking&type=2"
-    },
-    {
-      "id": "w03487",
-      "word": "radio telemetry",
-      "type": "phrase",
-      "chapterIndex": 103,
-      "globalIndex": 3487,
-      "chapter": "ch121",
-      "chapterName": "认知词汇 科技分类 桥梁检测",
-      "pronunciation": {
-        "us": "/ˈreɪ.di.oʊ tɛl.əˌmɛ.tri/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "无线电遥测",
-          "en": "The process of measuring data from a distance using radio signals."
-        },
-        {
-          "pos": "n.",
-          "zh": "无线电数据传输",
-          "en": "The technology used to send and receive data through radio waves."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Scientists use radio telemetry to track animal movements in the wild.",
-          "zh": "科学家使用无线电遥测跟踪野生动物的移动。"
-        },
-        {
-          "en": "Radio telemetry helps researchers gather important data from remote locations.",
-          "zh": "无线电遥测帮助研究人员从偏远地区收集重要数据。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'radio' as sending signals, and 'telemetry' as measuring data, combining them to track things from afar."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=radio%20telemetry&type=2"
-    },
-    {
-      "id": "w03361",
-      "word": "repertoire",
+      "id": "w01261",
+      "word": "edify",
       "type": "single",
-      "chapterIndex": 40,
-      "globalIndex": 3361,
-      "chapter": "ch120",
-      "chapterName": "认知词汇 科技分类 莫尔斯电码",
-      "pronunciation": {
-        "us": "/ˈrɛpərtwɑːr/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "全套节目",
-          "en": "A collection of skills or works that a person can perform."
-        },
-        {
-          "pos": "n.",
-          "zh": "可演出的曲目",
-          "en": "The range of plays, dances, or pieces that a company or performer can present."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The musician has a diverse repertoire of classical and modern pieces.",
-          "zh": "这位音乐家有多样的古典和现代曲目的全套节目。"
-        },
-        {
-          "en": "Actors often expand their repertoire by taking on different roles.",
-          "zh": "演员们经常通过扮演不同的角色来扩展他们的全套节目。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'repertoire' as 'repeat' (re) and 'theater' (pertoire) to remember it relates to performances."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=repertoire&type=2"
-    },
-    {
-      "id": "w03363",
-      "word": "signalling code",
-      "type": "phrase",
-      "chapterIndex": 42,
-      "globalIndex": 3363,
-      "chapter": "ch120",
-      "chapterName": "认知词汇 科技分类 莫尔斯电码",
-      "pronunciation": {
-        "us": "/ˈsɪɡnəlɪŋ koʊd/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "信号编码",
-          "en": "A system of signs or signals used to convey information."
-        },
-        {
-          "pos": "n.",
-          "zh": "暗语",
-          "en": "A specific code used to communicate in a secret or restricted way."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The signalling code allowed the team to communicate secretly.",
-          "zh": "这个信号编码让团队能够秘密交流。"
-        },
-        {
-          "en": "They developed a new signalling code to improve security.",
-          "zh": "他们开发了一种新的信号编码以提高安全性。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=signalling%20code&type=2"
-    },
-    {
-      "id": "w03282",
-      "word": "melanoma",
-      "type": "single",
-      "chapterIndex": 4,
-      "globalIndex": 3282,
-      "chapter": "ch118",
-      "chapterName": "认知词汇 健康分类 澳大利亚皮肤癌研究",
-      "pronunciation": {
-        "us": "/ˌmɛl.əˈnoʊ.mə/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "黑色素瘤",
-          "en": "A type of skin cancer that develops from melanocytes."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Melanoma can spread quickly if not treated early.",
-          "zh": "如果不及早治疗，黑色素瘤可能会迅速扩散。"
-        },
-        {
-          "en": "Regular skin checks can help detect melanoma early.",
-          "zh": "定期检查皮肤有助于及早发现黑色素瘤。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'melanoma' as 'melanin' (the pigment in skin) + 'oma' (a suffix used in medical terms for tumors)."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=melanoma&type=2"
-    },
-    {
-      "id": "w03495",
-      "word": "specific integrated circuit",
-      "type": "phrase",
-      "chapterIndex": 111,
-      "globalIndex": 3495,
-      "chapter": "ch121",
-      "chapterName": "认知词汇 科技分类 桥梁检测",
-      "pronunciation": {
-        "us": "/spɪˈsɪfɪk ˈɪntɪɡreɪtɪd ˈsɜrˌkɪt/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "特定集成电路",
-          "en": "A type of integrated circuit designed for a specific function."
-        },
-        {
-          "pos": "n.",
-          "zh": "专用集成电路",
-          "en": "An integrated circuit optimized for particular applications."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The specific integrated circuit improved the device's performance significantly.",
-          "zh": "特定集成电路显著提高了设备的性能。"
-        },
-        {
-          "en": "Engineers designed a specific integrated circuit for better energy efficiency.",
-          "zh": "工程师设计了一种特定集成电路以提高能效。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=specific%20integrated%20circuit&type=2"
-    },
-    {
-      "id": "w03488",
-      "word": "radio transponder module",
-      "type": "phrase",
-      "chapterIndex": 104,
-      "globalIndex": 3488,
-      "chapter": "ch121",
-      "chapterName": "认知词汇 科技分类 桥梁检测",
-      "pronunciation": {
-        "us": "/ˈreɪ.di.oʊ trænsˈpɒn.dər ˈmɒd.juːl/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "无线电应答器模块",
-          "en": "A device that receives and transmits radio signals."
-        },
-        {
-          "pos": "n.",
-          "zh": "在航空或航天中使用的通信装置",
-          "en": "A communication tool used in aviation or space technology."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The radio transponder module is essential for aircraft communication.",
-          "zh": "无线电应答器模块对飞机通信至关重要。"
-        },
-        {
-          "en": "Engineers tested the new radio transponder module for accuracy.",
-          "zh": "工程师测试了新的无线电应答器模块以确保准确性。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'transponder' as a 'translator' for radio signals, helping them communicate."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=radio%20transponder%20module&type=2"
-    },
-    {
-      "id": "w03503",
-      "word": "structural integrity",
-      "type": "phrase",
-      "chapterIndex": 119,
-      "globalIndex": 3503,
-      "chapter": "ch121",
-      "chapterName": "认知词汇 科技分类 桥梁检测",
-      "pronunciation": {
-        "us": "/ˈstrʌk.tʃər.əl ɪnˈtɛɡ.rɪ.ti/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "结构完整性",
-          "en": "The ability of a structure to remain strong and stable."
-        },
-        {
-          "pos": "n.",
-          "zh": "结构的稳定性",
-          "en": "The measure of how well a structure can support loads without failing."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Engineers must check the structural integrity of buildings before construction.",
-          "zh": "工程师在施工前必须检查建筑的结构完整性。"
-        },
-        {
-          "en": "Maintaining the structural integrity of bridges is essential for safety.",
-          "zh": "保持桥梁的结构完整性对安全至关重要。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'structure' as the foundation and 'integrity' as the strength that holds it together."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=structural%20integrity&type=2"
-    },
-    {
-      "id": "w03160",
-      "word": "acidic juices from the stomach",
-      "type": "phrase",
       "chapterIndex": 1,
-      "globalIndex": 3160,
-      "chapter": "ch116",
-      "chapterName": "认知词汇 健康分类 吸烟与被动吸烟",
+      "globalIndex": 1261,
+      "chapter": "ch064",
+      "chapterName": "核心词汇 青少年教育 Unit 4",
       "pronunciation": {
-        "us": "/əˈsɪd.ɪk ˈdʒuː.sɪz frəm ðə ˈstʌmək/"
+        "us": "/ˈɛdɪfaɪ/"
       },
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "胃酸",
-          "en": "The sour liquid produced by the stomach to help digest food."
-        },
-        {
-          "pos": "n.",
-          "zh": "胃液",
-          "en": "The mixture of acids and enzymes in the stomach for breaking down food."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Acidic juices from the stomach can cause heartburn after eating.",
-          "zh": "进食后，胃中的酸性液体可能导致胃灼热。"
-        },
-        {
-          "en": "The acidic juices help in the digestion of proteins in food.",
-          "zh": "酸性液体有助于食物中蛋白质的消化。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=acidic%20juices%20from%20the%20stomach&type=2"
-    },
-    {
-      "id": "w03286",
-      "word": "ozone layer",
-      "type": "phrase",
-      "chapterIndex": 8,
-      "globalIndex": 3286,
-      "chapter": "ch118",
-      "chapterName": "认知词汇 健康分类 澳大利亚皮肤癌研究",
-      "pronunciation": {
-        "us": "/ˈoʊzoʊn ˈleɪər/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "臭氧层",
-          "en": "A layer of ozone gas in the Earth's atmosphere that protects us from harmful UV rays."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The ozone layer is essential for protecting life on Earth.",
-          "zh": "臭氧层对保护地球上的生命至关重要。"
-        },
-        {
-          "en": "Damage to the ozone layer can lead to increased skin cancer rates.",
-          "zh": "臭氧层的损坏可能导致皮肤癌发病率增加。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of the ozone layer as a 'shield' that guards us from the sun's harmful rays."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ozone%20layer&type=2"
-    },
-    {
-      "id": "w03500",
-      "word": "steel girder bridge",
-      "type": "phrase",
-      "chapterIndex": 116,
-      "globalIndex": 3500,
-      "chapter": "ch121",
-      "chapterName": "认知词汇 科技分类 桥梁检测",
-      "pronunciation": {
-        "us": "/stiːl ˈɡɜrdər brɪdʒ/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "钢梁桥",
-          "en": "A type of bridge that uses steel girders for support."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The steel girder bridge can withstand heavy loads and strong winds.",
-          "zh": "钢梁桥可以承受重载和强风。"
-        },
-        {
-          "en": "Many cities are improving their infrastructure with steel girder bridges.",
-          "zh": "许多城市正在用钢梁桥改善基础设施。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of a strong steel frame that holds up a bridge, much like steel girders hold up the structure."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=steel%20girder%20bridge&type=2"
-    },
-    {
-      "id": "w03513",
-      "word": "visual inspection",
-      "type": "phrase",
-      "chapterIndex": 129,
-      "globalIndex": 3513,
-      "chapter": "ch121",
-      "chapterName": "认知词汇 科技分类 桥梁检测",
-      "pronunciation": {
-        "us": "/ˈvɪʒ.u.əl ɪnˈspɛk.ʃən/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "视觉检查",
-          "en": "The act of looking at something closely to check for problems."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The technician conducted a visual inspection of the machinery.",
-          "zh": "技术人员对机器进行了视觉检查。"
-        },
-        {
-          "en": "A visual inspection revealed several issues with the building's structure.",
-          "zh": "视觉检查发现建筑结构存在几个问题。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=visual%20inspection&type=2"
-    },
-    {
-      "id": "w03390",
-      "word": "amplitude",
-      "type": "single",
-      "chapterIndex": 6,
-      "globalIndex": 3390,
-      "chapter": "ch121",
-      "chapterName": "认知词汇 科技分类 桥梁检测",
-      "pronunciation": {
-        "us": "/ˈæmplɪtjuːd/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "幅度",
-          "en": "The size or strength of a wave or signal."
-        },
-        {
-          "pos": "n.",
-          "zh": "广度",
-          "en": "The range or extent of something."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The amplitude of the sound wave determines its loudness.",
-          "zh": "声波的幅度决定了它的响度。"
-        },
-        {
-          "en": "He measured the amplitude of the radio signal during the experiment.",
-          "zh": "他在实验中测量了无线电信号的幅度。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'amplitude' comes from the Latin 'amplitudo', meaning 'fullness' or 'breadth'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=amplitude&type=2"
-    },
-    {
-      "id": "w02820",
-      "word": "vapour",
-      "type": "single",
-      "chapterIndex": 18,
-      "globalIndex": 2820,
-      "chapter": "ch109",
-      "chapterName": "认知词汇 自然分类 海底热资源",
-      "pronunciation": {
-        "us": "/ˈveɪpər/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "蒸汽；气体",
-          "en": "A gas that is formed when a liquid evaporates."
+          "pos": "v.",
+          "zh": "启发，教诲",
+          "en": "To instruct or improve someone morally or intellectually."
         },
         {
           "pos": "v.",
-          "zh": "蒸发；发出蒸汽",
-          "en": "To convert a liquid into vapor."
+          "zh": "使懂得",
+          "en": "To educate or enlighten a person."
         }
       ],
       "examples": [
         {
-          "en": "The vapour rose from the hot soup on the table.",
-          "zh": "热汤上的蒸汽升起。"
+          "en": "Reading classic literature can edify young minds and broaden their perspectives.",
+          "zh": "阅读经典文学可以启发年轻人的思维，拓宽他们的视野。"
         },
         {
-          "en": "Water will vapour when it reaches a boiling point.",
-          "zh": "水在达到沸点时会蒸发。"
+          "en": "The documentary aimed to edify viewers about the importance of environmental conservation.",
+          "zh": "这部纪录片旨在使观众了解环境保护的重要性。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'vapour' comes from the Latin 'vapor', meaning 'mist' or 'steam'."
+        "etymology": "The word 'edify' comes from the Latin 'aedificare,' which means 'to build.' This reflects the idea of building knowledge or character."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vapour&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=edify&type=2"
+    },
+    {
+      "id": "w01337",
+      "word": "obscene",
+      "type": "single",
+      "chapterIndex": 17,
+      "globalIndex": 1337,
+      "chapter": "ch067",
+      "chapterName": "核心词汇 青少年教育 Unit 7",
+      "pronunciation": {
+        "us": "/əbˈsiːn/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "猥亵的",
+          "en": "Offensive or disgusting to accepted standards of morality."
+        },
+        {
+          "pos": "adj.",
+          "zh": "不堪入目的",
+          "en": "Highly inappropriate or indecent, especially in a sexual way."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The movie was criticized for its obscene content and language.",
+          "zh": "这部电影因其猥亵的内容和语言而受到批评。"
+        },
+        {
+          "en": "Many people find obscene jokes to be highly offensive.",
+          "zh": "许多人认为猥亵的笑话非常令人反感。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of the word 'scene' in 'obscene' as a negative or inappropriate scene in a movie."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=obscene&type=2"
+    },
+    {
+      "id": "w01292",
+      "word": "illiteracy",
+      "type": "single",
+      "chapterIndex": 12,
+      "globalIndex": 1292,
+      "chapter": "ch065",
+      "chapterName": "核心词汇 青少年教育 Unit 5",
+      "pronunciation": {
+        "us": "/ɪˈlɪtəruˌsi/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "文盲",
+          "en": "The inability to read and write."
+        },
+        {
+          "pos": "n.",
+          "zh": "缺乏某种知识或技能",
+          "en": "A lack of knowledge in a specific area."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Illiteracy remains a major challenge in many developing countries.",
+          "zh": "文盲仍然是许多发展中国家的主要挑战。"
+        },
+        {
+          "en": "Efforts to reduce illiteracy are essential for societal progress.",
+          "zh": "减少文盲的努力对社会进步至关重要。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'illiteracy' as 'ill' (sick) at 'literacy' (reading skills), meaning a lack of reading ability."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=illiteracy&type=2"
+    },
+    {
+      "id": "w01263",
+      "word": "emotion",
+      "type": "single",
+      "chapterIndex": 3,
+      "globalIndex": 1263,
+      "chapter": "ch064",
+      "chapterName": "核心词汇 青少年教育 Unit 4",
+      "pronunciation": {
+        "us": "/ɪˈmoʊʃən/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "情感",
+          "en": "A strong feeling such as happiness, sadness, or anger."
+        },
+        {
+          "pos": "n.",
+          "zh": "情绪",
+          "en": "A state of feeling that can influence behavior."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She expressed her emotions through art and music.",
+          "zh": "她通过艺术和音乐表达自己的情感。"
+        },
+        {
+          "en": "Understanding your emotions can improve your mental health.",
+          "zh": "理解你的情绪可以改善心理健康。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'emotion' as a 'motion' in your feelings, showing how they move you."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=emotion&type=2"
+    },
+    {
+      "id": "w02583",
+      "word": "seashore",
+      "type": "single",
+      "chapterIndex": 16,
+      "globalIndex": 2583,
+      "chapter": "ch104",
+      "chapterName": "认知词汇 自然分类 海沙流失",
+      "pronunciation": {
+        "us": "/ˈsiːʃɔːr/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "海岸；海边",
+          "en": "The land along the edge of the sea."
+        },
+        {
+          "pos": "n.",
+          "zh": "海滩",
+          "en": "A sandy or pebbly area by the sea."
+        }
+      ],
+      "examples": [
+        {
+          "en": "We enjoyed a lovely picnic on the seashore near our hotel.",
+          "zh": "我们在酒店附近的海岸享受了一次愉快的野餐。"
+        },
+        {
+          "en": "Children were playing happily along the seashore on a sunny day.",
+          "zh": "阳光明媚的一天，孩子们在海岸边快乐地玩耍。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'sea' and 'shore' together as where the ocean meets the land."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=seashore&type=2"
+    },
+    {
+      "id": "w01728",
+      "word": "egoist",
+      "type": "single",
+      "chapterIndex": 8,
+      "globalIndex": 1728,
+      "chapter": "ch087",
+      "chapterName": "核心词汇 法制与犯罪 Unit 2",
+      "pronunciation": {
+        "us": "/ˈiːɡoʊɪst/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "自私自利的人",
+          "en": "A person who is primarily concerned with their own interests."
+        },
+        {
+          "pos": "n.",
+          "zh": "自我中心的人",
+          "en": "Someone who believes that their own needs are the most important."
+        }
+      ],
+      "examples": [
+        {
+          "en": "An egoist often puts their needs above everyone else's.",
+          "zh": "一个自私自利的人常常把自己的需求放在其他人之上。"
+        },
+        {
+          "en": "In a team, an egoist can disrupt cooperation and harmony.",
+          "zh": "在一个团队中，自私自利的人会破坏合作与和谐。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'ego' as the focus on oneself, which connects to 'egoist'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=egoist&type=2"
+    },
+    {
+      "id": "w00281",
+      "word": "harmony",
+      "type": "single",
+      "chapterIndex": 1,
+      "globalIndex": 281,
+      "chapter": "ch015",
+      "chapterName": "基本词汇 名词200 Unit 5",
+      "pronunciation": {
+        "us": "/ˈhɑːr.mə.ni/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "和谐",
+          "en": "A state of being in agreement or concord."
+        },
+        {
+          "pos": "n.",
+          "zh": "协调",
+          "en": "The combination of different elements that work well together."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The music created a sense of harmony among the audience.",
+          "zh": "这音乐在观众中创造了一种和谐感。"
+        },
+        {
+          "en": "Living in harmony with nature is essential for our survival.",
+          "zh": "与自然和谐共处对我们的生存至关重要。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of harmony as a musical chord where different notes create a beautiful sound together."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=harmony&type=2"
+    },
+    {
+      "id": "w01037",
+      "word": "doomed",
+      "type": "single",
+      "chapterIndex": 17,
+      "globalIndex": 1037,
+      "chapter": "ch052",
+      "chapterName": "核心词汇 文化与传统 Unit 2",
+      "pronunciation": {
+        "us": "/duːmd/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "注定失败的",
+          "en": "Certain to fail or be destroyed."
+        },
+        {
+          "pos": "v.",
+          "zh": "注定",
+          "en": "To decide the fate of something in a negative way."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The project was doomed from the start due to poor planning.",
+          "zh": "这个项目从一开始就注定失败，因为规划不善。"
+        },
+        {
+          "en": "He felt doomed when he received the bad news.",
+          "zh": "当他收到坏消息时，他感到自己注定要失败。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'doomed' as 'doomed to fail', linking it to failure."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=doomed&type=2"
+    },
+    {
+      "id": "w01971",
+      "word": "circuit",
+      "type": "single",
+      "chapterIndex": 71,
+      "globalIndex": 1971,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/ˈsɜr.kɪt/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "电路",
+          "en": "A circuit is a path for electricity to flow through."
+        },
+        {
+          "pos": "n.",
+          "zh": "圈",
+          "en": "A circuit can also mean a circular route or area."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The electrician repaired the faulty circuit in the house.",
+          "zh": "电工修理了房子里故障的电路。"
+        },
+        {
+          "en": "The marathon runners completed a circuit around the city park.",
+          "zh": "马拉松跑者绕着城市公园完成了一圈。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a circuit as a 'circle' of electricity, connecting everything in a loop."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=circuit&type=2"
+    },
+    {
+      "id": "w01640",
+      "word": "estrange",
+      "type": "single",
+      "chapterIndex": 20,
+      "globalIndex": 1640,
+      "chapter": "ch082",
+      "chapterName": "核心词汇 工作与生活 Unit 2",
+      "pronunciation": {
+        "us": "/ɪˈstreɪndʒ/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "疏远",
+          "en": "To cause someone to stop being friendly or close."
+        },
+        {
+          "pos": "v.",
+          "zh": "使隔离",
+          "en": "To make someone feel isolated or alienated."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The constant arguments began to estrange them from each other.",
+          "zh": "不断的争吵开始让他们彼此疏远。"
+        },
+        {
+          "en": "Years of neglect can estrange family members over time.",
+          "zh": "多年的忽视可能会使家庭成员逐渐疏远。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'strange' as something unfamiliar, which can relate to feeling estranged from someone."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=estrange&type=2"
+    },
+    {
+      "id": "w01753",
+      "word": "offender",
+      "type": "single",
+      "chapterIndex": 13,
+      "globalIndex": 1753,
+      "chapter": "ch088",
+      "chapterName": "核心词汇 法制与犯罪 Unit 3",
+      "pronunciation": {
+        "us": "/əˈfɛndər/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "犯罪者",
+          "en": "A person who commits a crime or breaks a law."
+        },
+        {
+          "pos": "n.",
+          "zh": "冒犯者",
+          "en": "Someone who causes harm or offense to others."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The judge sentenced the offender to five years in prison.",
+          "zh": "法官判处罪犯五年监禁。"
+        },
+        {
+          "en": "Offenders should be rehabilitated rather than just punished.",
+          "zh": "罪犯应该得到康复，而不仅仅是惩罚。"
+        }
+      ],
+      "memoryTips": {
+        "association": "You can think of 'offender' as someone who 'offends' the law or social norms."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=offender&type=2"
+    },
+    {
+      "id": "w00253",
+      "word": "discrimination",
+      "type": "single",
+      "chapterIndex": 13,
+      "globalIndex": 253,
+      "chapter": "ch013",
+      "chapterName": "基本词汇 名词200 Unit 3",
+      "pronunciation": {
+        "us": "/ˌdɪs.krɪ.mɪˈneɪ.ʃən/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "歧视",
+          "en": "The unfair treatment of a person or group based on characteristics like race or gender."
+        },
+        {
+          "pos": "n.",
+          "zh": "辨别",
+          "en": "The ability to recognize and understand differences between things."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many countries have laws against racial discrimination in the workplace.",
+          "zh": "许多国家在职场上有反对种族歧视的法律。"
+        },
+        {
+          "en": "Her strong discrimination between right and wrong is admirable.",
+          "zh": "她对是非的强烈辨别能力令人钦佩。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word comes from the Latin 'discriminare', meaning 'to distinguish'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=discrimination&type=2"
+    },
+    {
+      "id": "w01558",
+      "word": "liberation",
+      "type": "single",
+      "chapterIndex": 18,
+      "globalIndex": 1558,
+      "chapter": "ch078",
+      "chapterName": "核心词汇 民主与权利 Unit 3",
+      "pronunciation": {
+        "us": "/ˌlɪbəˈreɪʃən/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "解放",
+          "en": "The act of setting someone free from restrictions."
+        },
+        {
+          "pos": "n.",
+          "zh": "自主",
+          "en": "The state of being free and independent."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The liberation of the country was celebrated with great joy.",
+          "zh": "国家的解放得到了热烈的庆祝。"
+        },
+        {
+          "en": "She felt a sense of liberation after leaving her job.",
+          "zh": "她在离开工作后感到一种解放感。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'liberation' comes from the Latin 'liberatio', which means 'to free'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=liberation&type=2"
+    },
+    {
+      "id": "w01093",
+      "word": "transform",
+      "type": "single",
+      "chapterIndex": 13,
+      "globalIndex": 1093,
+      "chapter": "ch055",
+      "chapterName": "核心词汇 文化与传统 Unit 5",
+      "pronunciation": {
+        "us": "/trænsˈfɔrm/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "改变，转变",
+          "en": "To change something completely, often in a positive way."
+        },
+        {
+          "pos": "n.",
+          "zh": "转变，变革",
+          "en": "A significant change that improves something."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The new technology can transform the way we communicate.",
+          "zh": "新技术可以改变我们交流的方式。"
+        },
+        {
+          "en": "They aim to transform the old building into a modern library.",
+          "zh": "他们的目标是将这座老建筑改造成现代图书馆。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'transform' comes from the Latin 'transformare', which means 'to change in shape'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=transform&type=2"
+    },
+    {
+      "id": "w01348",
+      "word": "physiological",
+      "type": "single",
+      "chapterIndex": 8,
+      "globalIndex": 1348,
+      "chapter": "ch068",
+      "chapterName": "核心词汇 青少年教育 Unit 8",
+      "pronunciation": {
+        "us": "/ˌfɪz.iˈɑː.lə.dʒɪ.kəl/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "生理的",
+          "en": "Relating to the normal functions of living things."
+        },
+        {
+          "pos": "adj.",
+          "zh": "生理学的",
+          "en": "Connected to the study of how living organisms function."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The physiological effects of exercise are well documented in science.",
+          "zh": "运动的生理效果在科学中有充分的记录。"
+        },
+        {
+          "en": "Understanding physiological processes helps improve health and wellness.",
+          "zh": "理解生理过程有助于改善健康和福祉。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'physiological' comes from the Greek word 'physis' meaning nature, and 'logos' meaning study.",
+        "association": "Think of 'physiological' as related to 'physical' functions and processes, like how your body works."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=physiological&type=2"
+    },
+    {
+      "id": "w00283",
+      "word": "horizon",
+      "type": "single",
+      "chapterIndex": 3,
+      "globalIndex": 283,
+      "chapter": "ch015",
+      "chapterName": "基本词汇 名词200 Unit 5",
+      "pronunciation": {
+        "us": "/həˈraɪ.zən/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "地平线",
+          "en": "The line where the earth and sky appear to meet."
+        },
+        {
+          "pos": "n.",
+          "zh": "视野",
+          "en": "The range of one's knowledge, experience, or outlook."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The sunset painted the horizon with beautiful colors.",
+          "zh": "日落时，地平线被美丽的颜色渲染。"
+        },
+        {
+          "en": "She hopes to expand her horizons through travel and education.",
+          "zh": "她希望通过旅行和教育拓宽自己的视野。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'horizon' as where the sun rises and sets, creating a boundary between earth and sky."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=horizon&type=2"
+    },
+    {
+      "id": "w01074",
+      "word": "promote",
+      "type": "single",
+      "chapterIndex": 14,
+      "globalIndex": 1074,
+      "chapter": "ch054",
+      "chapterName": "核心词汇 文化与传统 Unit 4",
+      "pronunciation": {
+        "us": "/prəˈmoʊt/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "促进，提升",
+          "en": "To help something grow or develop."
+        },
+        {
+          "pos": "v.",
+          "zh": "推销，宣传",
+          "en": "To advertise or publicize something to increase its visibility."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The campaign aims to promote healthy eating among children.",
+          "zh": "该活动旨在促进儿童健康饮食。"
+        },
+        {
+          "en": "The company wants to promote its new product through social media.",
+          "zh": "该公司希望通过社交媒体宣传其新产品。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'promote' as 'pro' (for) + 'mote' (motion) - to move something forward."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=promote&type=2"
     }
   ]
 }

@@ -1,69 +1,62 @@
 {
-  "generated": "2025-11-19T22:07:58.771Z",
+  "generated": "2025-11-20T22:08:09.118Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "forest ecosystem",
-      "pronunciation": "/ˈfɔrɪst ˌiːkəˈsɪstəm/",
+      "word": "law-abiding",
+      "pronunciation": "/lɔː əˈbaɪ.dɪŋ/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "森林生态系统",
-          "en": "A community of living organisms and their environment in a forest."
-        },
-        {
-          "pos": "n.",
-          "zh": "生态系统的组成部分",
-          "en": "The system formed by interactions among plants, animals, and microorganisms in a forest."
+          "pos": "adj.",
+          "zh": "守法的",
+          "en": "Following the laws and rules of society."
         }
       ],
       "examples": [
         {
-          "en": "The forest ecosystem supports diverse species of plants and animals.",
-          "zh": "森林生态系统支持多样的植物和动物种类。"
+          "en": "Most citizens are law-abiding and respect the legal system.",
+          "zh": "大多数公民是守法的，尊重法律体系。"
         },
         {
-          "en": "Conserving the forest ecosystem is essential for environmental balance.",
-          "zh": "保护森林生态系统对环境平衡至关重要。"
+          "en": "Law-abiding individuals contribute to a peaceful community.",
+          "zh": "守法的个人为和谐社区做出贡献。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of a 'forest' as a 'for rest' area where many organisms coexist peacefully."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=forest%20ecosystem&type=2",
-      "chapter": "认知词汇 环境分类 人类与动物灭绝"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=law-abiding&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 6"
     },
     {
-      "word": "corrosion activity",
-      "pronunciation": "/kəˈroʊʒən əkˈtɪvɪti/",
+      "word": "edify",
+      "pronunciation": "/ˈɛdɪfaɪ/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "腐蚀活动",
-          "en": "The process where materials, especially metals, are gradually destroyed by chemical reactions."
+          "pos": "v.",
+          "zh": "启发，教诲",
+          "en": "To instruct or improve someone morally or intellectually."
         },
         {
-          "pos": "n.",
-          "zh": "腐蚀活性",
-          "en": "The level or rate at which corrosion occurs in a material."
+          "pos": "v.",
+          "zh": "使懂得",
+          "en": "To educate or enlighten a person."
         }
       ],
       "examples": [
         {
-          "en": "Corrosion activity can significantly weaken metal structures over time.",
-          "zh": "腐蚀活动会在一段时间内显著削弱金属结构。"
+          "en": "Reading classic literature can edify young minds and broaden their perspectives.",
+          "zh": "阅读经典文学可以启发年轻人的思维，拓宽他们的视野。"
         },
         {
-          "en": "Engine parts are often tested for corrosion activity to ensure durability.",
-          "zh": "发动机部件通常会测试腐蚀活性以确保耐用性。"
+          "en": "The documentary aimed to edify viewers about the importance of environmental conservation.",
+          "zh": "这部纪录片旨在使观众了解环境保护的重要性。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'corrosion' as 'corroding' or 'eating away' at materials, and 'activity' as the 'action' of this process."
+        "etymology": "The word 'edify' comes from the Latin 'aedificare,' which means 'to build.' This reflects the idea of building knowledge or character."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=corrosion%20activity&type=2",
-      "chapter": "认知词汇 科技分类 桥梁检测"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=edify&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 4"
     }
   ]
 }

@@ -1,67 +1,69 @@
 {
-  "generated": "2025-11-19T22:07:58.772Z",
+  "generated": "2025-11-20T22:08:09.119Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "repertoire",
-      "pronunciation": "/ˈrɛpərtwɑːr/",
+      "word": "egoist",
+      "pronunciation": "/ˈiːɡoʊɪst/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "全套节目",
-          "en": "A collection of skills or works that a person can perform."
+          "zh": "自私自利的人",
+          "en": "A person who is primarily concerned with their own interests."
         },
         {
           "pos": "n.",
-          "zh": "可演出的曲目",
-          "en": "The range of plays, dances, or pieces that a company or performer can present."
+          "zh": "自我中心的人",
+          "en": "Someone who believes that their own needs are the most important."
         }
       ],
       "examples": [
         {
-          "en": "The musician has a diverse repertoire of classical and modern pieces.",
-          "zh": "这位音乐家有多样的古典和现代曲目的全套节目。"
+          "en": "An egoist often puts their needs above everyone else's.",
+          "zh": "一个自私自利的人常常把自己的需求放在其他人之上。"
         },
         {
-          "en": "Actors often expand their repertoire by taking on different roles.",
-          "zh": "演员们经常通过扮演不同的角色来扩展他们的全套节目。"
+          "en": "In a team, an egoist can disrupt cooperation and harmony.",
+          "zh": "在一个团队中，自私自利的人会破坏合作与和谐。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'repertoire' as 'repeat' (re) and 'theater' (pertoire) to remember it relates to performances."
+        "association": "Think of 'ego' as the focus on oneself, which connects to 'egoist'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=repertoire&type=2",
-      "chapter": "认知词汇 科技分类 莫尔斯电码"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=egoist&type=2",
+      "chapter": "核心词汇 法制与犯罪 Unit 2"
     },
     {
-      "word": "signalling code",
-      "pronunciation": "/ˈsɪɡnəlɪŋ koʊd/",
+      "word": "harmony",
+      "pronunciation": "/ˈhɑːr.mə.ni/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "信号编码",
-          "en": "A system of signs or signals used to convey information."
+          "zh": "和谐",
+          "en": "A state of being in agreement or concord."
         },
         {
           "pos": "n.",
-          "zh": "暗语",
-          "en": "A specific code used to communicate in a secret or restricted way."
+          "zh": "协调",
+          "en": "The combination of different elements that work well together."
         }
       ],
       "examples": [
         {
-          "en": "The signalling code allowed the team to communicate secretly.",
-          "zh": "这个信号编码让团队能够秘密交流。"
+          "en": "The music created a sense of harmony among the audience.",
+          "zh": "这音乐在观众中创造了一种和谐感。"
         },
         {
-          "en": "They developed a new signalling code to improve security.",
-          "zh": "他们开发了一种新的信号编码以提高安全性。"
+          "en": "Living in harmony with nature is essential for our survival.",
+          "zh": "与自然和谐共处对我们的生存至关重要。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=signalling%20code&type=2",
-      "chapter": "认知词汇 科技分类 莫尔斯电码"
+      "memoryTips": {
+        "association": "Think of harmony as a musical chord where different notes create a beautiful sound together."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=harmony&type=2",
+      "chapter": "基本词汇 名词200 Unit 5"
     }
   ]
 }

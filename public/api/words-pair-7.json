@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-19T22:07:58.772Z",
+  "generated": "2025-11-20T22:08:09.119Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "radio transponder module",
-      "pronunciation": "/ˈreɪ.di.oʊ trænsˈpɒn.dər ˈmɒd.juːl/",
+      "word": "estrange",
+      "pronunciation": "/ɪˈstreɪndʒ/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "无线电应答器模块",
-          "en": "A device that receives and transmits radio signals."
+          "pos": "v.",
+          "zh": "疏远",
+          "en": "To cause someone to stop being friendly or close."
         },
         {
-          "pos": "n.",
-          "zh": "在航空或航天中使用的通信装置",
-          "en": "A communication tool used in aviation or space technology."
+          "pos": "v.",
+          "zh": "使隔离",
+          "en": "To make someone feel isolated or alienated."
         }
       ],
       "examples": [
         {
-          "en": "The radio transponder module is essential for aircraft communication.",
-          "zh": "无线电应答器模块对飞机通信至关重要。"
+          "en": "The constant arguments began to estrange them from each other.",
+          "zh": "不断的争吵开始让他们彼此疏远。"
         },
         {
-          "en": "Engineers tested the new radio transponder module for accuracy.",
-          "zh": "工程师测试了新的无线电应答器模块以确保准确性。"
+          "en": "Years of neglect can estrange family members over time.",
+          "zh": "多年的忽视可能会使家庭成员逐渐疏远。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'transponder' as a 'translator' for radio signals, helping them communicate."
+        "association": "Think of 'strange' as something unfamiliar, which can relate to feeling estranged from someone."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=radio%20transponder%20module&type=2",
-      "chapter": "认知词汇 科技分类 桥梁检测"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=estrange&type=2",
+      "chapter": "核心词汇 工作与生活 Unit 2"
     },
     {
-      "word": "structural integrity",
-      "pronunciation": "/ˈstrʌk.tʃər.əl ɪnˈtɛɡ.rɪ.ti/",
+      "word": "offender",
+      "pronunciation": "/əˈfɛndər/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "结构完整性",
-          "en": "The ability of a structure to remain strong and stable."
+          "zh": "犯罪者",
+          "en": "A person who commits a crime or breaks a law."
         },
         {
           "pos": "n.",
-          "zh": "结构的稳定性",
-          "en": "The measure of how well a structure can support loads without failing."
+          "zh": "冒犯者",
+          "en": "Someone who causes harm or offense to others."
         }
       ],
       "examples": [
         {
-          "en": "Engineers must check the structural integrity of buildings before construction.",
-          "zh": "工程师在施工前必须检查建筑的结构完整性。"
+          "en": "The judge sentenced the offender to five years in prison.",
+          "zh": "法官判处罪犯五年监禁。"
         },
         {
-          "en": "Maintaining the structural integrity of bridges is essential for safety.",
-          "zh": "保持桥梁的结构完整性对安全至关重要。"
+          "en": "Offenders should be rehabilitated rather than just punished.",
+          "zh": "罪犯应该得到康复，而不仅仅是惩罚。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'structure' as the foundation and 'integrity' as the strength that holds it together."
+        "association": "You can think of 'offender' as someone who 'offends' the law or social norms."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=structural%20integrity&type=2",
-      "chapter": "认知词汇 科技分类 桥梁检测"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=offender&type=2",
+      "chapter": "核心词汇 法制与犯罪 Unit 3"
     }
   ]
 }

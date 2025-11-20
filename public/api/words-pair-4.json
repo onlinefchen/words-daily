@@ -1,64 +1,69 @@
 {
-  "generated": "2025-11-19T22:07:58.772Z",
+  "generated": "2025-11-20T22:08:09.118Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "involuntary smoking",
-      "pronunciation": "/ɪnˈvɑːlənˌtɛri ˈsmoʊkɪŋ/",
+      "word": "emotion",
+      "pronunciation": "/ɪˈmoʊʃən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "被动吸烟",
-          "en": "The act of breathing in smoke from someone else's cigarette or tobacco."
+          "zh": "情感",
+          "en": "A strong feeling such as happiness, sadness, or anger."
+        },
+        {
+          "pos": "n.",
+          "zh": "情绪",
+          "en": "A state of feeling that can influence behavior."
         }
       ],
       "examples": [
         {
-          "en": "Involuntary smoking can harm non-smokers' health significantly.",
-          "zh": "被动吸烟会严重危害非吸烟者的健康。"
+          "en": "She expressed her emotions through art and music.",
+          "zh": "她通过艺术和音乐表达自己的情感。"
         },
         {
-          "en": "Many children suffer from involuntary smoking in public areas.",
-          "zh": "许多儿童在公共场所遭受被动吸烟的影响。"
+          "en": "Understanding your emotions can improve your mental health.",
+          "zh": "理解你的情绪可以改善心理健康。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'involuntary' as something you cannot control, like being near a smoker."
+        "association": "Think of 'emotion' as a 'motion' in your feelings, showing how they move you."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=involuntary%20smoking&type=2",
-      "chapter": "认知词汇 健康分类 吸烟与被动吸烟"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=emotion&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 4"
     },
     {
-      "word": "radio telemetry",
-      "pronunciation": "/ˈreɪ.di.oʊ tɛl.əˌmɛ.tri/",
+      "word": "seashore",
+      "pronunciation": "/ˈsiːʃɔːr/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "无线电遥测",
-          "en": "The process of measuring data from a distance using radio signals."
+          "zh": "海岸；海边",
+          "en": "The land along the edge of the sea."
         },
         {
           "pos": "n.",
-          "zh": "无线电数据传输",
-          "en": "The technology used to send and receive data through radio waves."
+          "zh": "海滩",
+          "en": "A sandy or pebbly area by the sea."
         }
       ],
       "examples": [
         {
-          "en": "Scientists use radio telemetry to track animal movements in the wild.",
-          "zh": "科学家使用无线电遥测跟踪野生动物的移动。"
+          "en": "We enjoyed a lovely picnic on the seashore near our hotel.",
+          "zh": "我们在酒店附近的海岸享受了一次愉快的野餐。"
         },
         {
-          "en": "Radio telemetry helps researchers gather important data from remote locations.",
-          "zh": "无线电遥测帮助研究人员从偏远地区收集重要数据。"
+          "en": "Children were playing happily along the seashore on a sunny day.",
+          "zh": "阳光明媚的一天，孩子们在海岸边快乐地玩耍。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'radio' as sending signals, and 'telemetry' as measuring data, combining them to track things from afar."
+        "association": "Think of 'sea' and 'shore' together as where the ocean meets the land."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=radio%20telemetry&type=2",
-      "chapter": "认知词汇 科技分类 桥梁检测"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=seashore&type=2",
+      "chapter": "认知词汇 自然分类 海沙流失"
     }
   ]
 }

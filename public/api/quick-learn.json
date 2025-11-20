@@ -1,68 +1,68 @@
 {
-  "generated": "2025-11-19T22:07:58.771Z",
+  "generated": "2025-11-20T22:08:09.118Z",
   "count": 2,
   "words": [
     {
-      "word": "reptile",
-      "pronunciation": "/ˈrɛp.taɪl/",
+      "word": "instill",
+      "pronunciation": "/ɪnˈstɪl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "爬行动物",
-          "en": "A cold-blooded animal with scales, such as a snake or lizard."
+          "pos": "v.",
+          "zh": "逐渐灌输",
+          "en": "To gradually teach someone an idea or attitude."
         },
         {
-          "pos": "n.",
-          "zh": "阴险的人",
-          "en": "A person who is deceitful or untrustworthy."
+          "pos": "v.",
+          "zh": "注入",
+          "en": "To put a quality or feeling into someone."
         }
       ],
       "examples": [
         {
-          "en": "The snake is a fascinating reptile found in many habitats.",
-          "zh": "蛇是一种在许多栖息地中发现的迷人爬行动物。"
+          "en": "Teachers aim to instill a love of learning in their students.",
+          "zh": "教师的目标是培养学生对学习的热爱。"
         },
         {
-          "en": "He was considered a reptile because of his dishonest behavior.",
-          "zh": "由于他的不诚实行为，他被认为是一个阴险的人。"
+          "en": "Parents should instill good values in their children from a young age.",
+          "zh": "父母应从小在孩子身上灌输良好的价值观。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'reptile' comes from the Latin 'reptilis', meaning 'to crawl'."
+        "association": "Think of 'instill' as 'in still', meaning to put something in quietly over time."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=reptile&type=2",
-      "chapter": "阅读真题认知词汇 恐龙的灭绝"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=instill&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 6"
     },
     {
-      "word": "Old World",
-      "pronunciation": "/oʊld wɜrld/",
+      "word": "playwright",
+      "pronunciation": "/ˈpleɪr.waɪt/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "旧世界",
-          "en": "The term refers to Europe, Asia, and Africa, especially in contrast to the Americas."
+          "zh": "剧作家",
+          "en": "A playwright is a person who writes plays for theater."
         },
         {
           "pos": "n.",
-          "zh": "古老的世界",
-          "en": "It signifies the ancient civilizations and their cultures before the discovery of the Americas."
+          "zh": "剧本作家",
+          "en": "A playwright creates stories that are performed by actors."
         }
       ],
       "examples": [
         {
-          "en": "In history class, we learned about the Old World and its ancient cultures.",
-          "zh": "在历史课上，我们学习了旧世界及其古老文化。"
+          "en": "The famous playwright wrote a new play that premiered last week.",
+          "zh": "这位著名的剧作家上周首演了一部新剧。"
         },
         {
-          "en": "The spices from the Old World were highly valued in trade.",
-          "zh": "来自旧世界的香料在贸易中备受重视。"
+          "en": "Many playwrights find inspiration in everyday life and personal experiences.",
+          "zh": "许多剧作家从日常生活和个人经历中寻找灵感。"
         }
       ],
       "memoryTips": {
-        "association": "Think of the Old World as the 'original' world, where many historical events began."
+        "etymology": "The word 'playwright' comes from 'play', meaning a theatrical work, and 'wright', an old term for someone who makes or constructs something."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=Old%20World&type=2",
-      "chapter": "认知词汇 历史分类 地图发展史"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=playwright&type=2",
+      "chapter": "认知词汇 历史分类 电影发展史"
     }
   ]
 }
