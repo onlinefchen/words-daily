@@ -1,69 +1,70 @@
 {
-  "generated": "2025-11-20T22:08:09.118Z",
+  "generated": "2025-11-21T22:07:55.540Z",
   "pair": 1,
   "count": 2,
   "words": [
     {
-      "word": "instill",
-      "pronunciation": "/ɪnˈstɪl/",
+      "word": "injure",
+      "pronunciation": "/ˈɪn.dʒər/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "逐渐灌输",
-          "en": "To gradually teach someone an idea or attitude."
+          "zh": "伤害",
+          "en": "To cause physical harm or damage to someone or something."
         },
         {
           "pos": "v.",
-          "zh": "注入",
-          "en": "To put a quality or feeling into someone."
+          "zh": "使受损",
+          "en": "To hurt someone's feelings or cause them emotional pain."
         }
       ],
       "examples": [
         {
-          "en": "Teachers aim to instill a love of learning in their students.",
-          "zh": "教师的目标是培养学生对学习的热爱。"
+          "en": "He injured his knee while playing football last weekend.",
+          "zh": "他上个周末踢足球时伤到了膝盖。"
         },
         {
-          "en": "Parents should instill good values in their children from a young age.",
-          "zh": "父母应从小在孩子身上灌输良好的价值观。"
+          "en": "The news of her failure injured her pride significantly.",
+          "zh": "她失败的消息严重伤害了她的自尊。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'instill' as 'in still', meaning to put something in quietly over time."
+        "association": "Think of 'injure' like 'in' + 'jure' (sounds like 'sure'), as in 'not sure if I can play without getting hurt'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=instill&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 6"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=injure&type=2",
+      "chapter": "基本词汇 动词200 Unit 8"
     },
     {
-      "word": "playwright",
-      "pronunciation": "/ˈpleɪr.waɪt/",
+      "word": "deforestation",
+      "pronunciation": "/ˌdiːfɔːrɪˈsteɪʃən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "剧作家",
-          "en": "A playwright is a person who writes plays for theater."
+          "zh": "森林砍伐",
+          "en": "The act of cutting down trees in a forest."
         },
         {
           "pos": "n.",
-          "zh": "剧本作家",
-          "en": "A playwright creates stories that are performed by actors."
+          "zh": "森林消失",
+          "en": "The process of losing forested areas due to human activity."
         }
       ],
       "examples": [
         {
-          "en": "The famous playwright wrote a new play that premiered last week.",
-          "zh": "这位著名的剧作家上周首演了一部新剧。"
+          "en": "Deforestation is a major cause of climate change worldwide.",
+          "zh": "森林砍伐是全球气候变化的主要原因。"
         },
         {
-          "en": "Many playwrights find inspiration in everyday life and personal experiences.",
-          "zh": "许多剧作家从日常生活和个人经历中寻找灵感。"
+          "en": "Many animals lose their habitat due to deforestation in tropical regions.",
+          "zh": "由于热带地区的森林砍伐，许多动物失去了栖息地。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'playwright' comes from 'play', meaning a theatrical work, and 'wright', an old term for someone who makes or constructs something."
+        "association": "Think of 'deforestation' as 'deforesting' an area, removing the forest.",
+        "mnemonic": "Deforestation sounds like 'deforest' + 'nation', suggesting a nation losing its forests."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=playwright&type=2",
-      "chapter": "认知词汇 历史分类 电影发展史"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=deforestation&type=2",
+      "chapter": "认知词汇 自然分类 热带雨林"
     }
   ]
 }

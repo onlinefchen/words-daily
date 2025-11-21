@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-20T22:08:09.119Z",
+  "generated": "2025-11-21T22:07:55.541Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "egoist",
-      "pronunciation": "/ˈiːɡoʊɪst/",
+      "word": "aesthetic",
+      "pronunciation": "/ɛsˈθɛtɪk/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "自私自利的人",
-          "en": "A person who is primarily concerned with their own interests."
+          "pos": "adj.",
+          "zh": "美学的；审美的",
+          "en": "Related to beauty or the appreciation of beauty."
         },
         {
           "pos": "n.",
-          "zh": "自我中心的人",
-          "en": "Someone who believes that their own needs are the most important."
+          "zh": "美学；审美观",
+          "en": "A set of principles concerned with the nature and appreciation of beauty."
         }
       ],
       "examples": [
         {
-          "en": "An egoist often puts their needs above everyone else's.",
-          "zh": "一个自私自利的人常常把自己的需求放在其他人之上。"
+          "en": "The aesthetic design of the building attracts many visitors.",
+          "zh": "这座建筑美学设计吸引了许多游客。"
         },
         {
-          "en": "In a team, an egoist can disrupt cooperation and harmony.",
-          "zh": "在一个团队中，自私自利的人会破坏合作与和谐。"
+          "en": "Her artwork reflects a unique aesthetic vision and style.",
+          "zh": "她的艺术作品反映出独特的美学视野和风格。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'ego' as the focus on oneself, which connects to 'egoist'."
+        "association": "Think of 'aesthetic' as 'a scene that is aesthetically pleasing', like a beautiful painting or a scenic view."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=egoist&type=2",
-      "chapter": "核心词汇 法制与犯罪 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aesthetic&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 2"
     },
     {
-      "word": "harmony",
-      "pronunciation": "/ˈhɑːr.mə.ni/",
+      "word": "eliminate",
+      "pronunciation": "/ɪˈlɪməˌneɪt/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "和谐",
-          "en": "A state of being in agreement or concord."
+          "pos": "v.",
+          "zh": "消除",
+          "en": "To remove or get rid of something completely."
         },
         {
-          "pos": "n.",
-          "zh": "协调",
-          "en": "The combination of different elements that work well together."
+          "pos": "v.",
+          "zh": "排除",
+          "en": "To eliminate something means to exclude it from consideration."
         }
       ],
       "examples": [
         {
-          "en": "The music created a sense of harmony among the audience.",
-          "zh": "这音乐在观众中创造了一种和谐感。"
+          "en": "The new policy aims to eliminate waste in the production process.",
+          "zh": "新政策旨在消除生产过程中的浪费。"
         },
         {
-          "en": "Living in harmony with nature is essential for our survival.",
-          "zh": "与自然和谐共处对我们的生存至关重要。"
+          "en": "They worked hard to eliminate any doubts about their project.",
+          "zh": "他们努力消除对项目的任何怀疑。"
         }
       ],
       "memoryTips": {
-        "association": "Think of harmony as a musical chord where different notes create a beautiful sound together."
+        "association": "Think of 'eliminate' as 'leaving something out' or 'cutting it out' like a bad habit."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=harmony&type=2",
-      "chapter": "基本词汇 名词200 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=eliminate&type=2",
+      "chapter": "基本词汇 动词200 Unit 6"
     }
   ]
 }

@@ -1,69 +1,70 @@
 {
-  "generated": "2025-11-20T22:08:09.119Z",
+  "generated": "2025-11-21T22:07:55.541Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "discrimination",
-      "pronunciation": "/ˌdɪs.krɪ.mɪˈneɪ.ʃən/",
+      "word": "illiteracy",
+      "pronunciation": "/ɪˈlɪtəresi/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "歧视",
-          "en": "The unfair treatment of a person or group based on characteristics like race or gender."
+          "zh": "文盲",
+          "en": "The inability to read and write."
         },
         {
           "pos": "n.",
-          "zh": "辨别",
-          "en": "The ability to recognize and understand differences between things."
+          "zh": "缺乏知识",
+          "en": "A lack of knowledge in a particular area."
         }
       ],
       "examples": [
         {
-          "en": "Many countries have laws against racial discrimination in the workplace.",
-          "zh": "许多国家在职场上有反对种族歧视的法律。"
+          "en": "Illiteracy remains a significant problem in many developing countries.",
+          "zh": "文盲在许多发展中国家仍然是一个重大问题。"
         },
         {
-          "en": "Her strong discrimination between right and wrong is admirable.",
-          "zh": "她对是非的强烈辨别能力令人钦佩。"
+          "en": "Efforts to reduce illiteracy are crucial for economic growth.",
+          "zh": "减少文盲的努力对经济增长至关重要。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word comes from the Latin 'discriminare', meaning 'to distinguish'."
+        "etymology": "The word 'illiteracy' comes from the prefix 'il-' meaning 'not' and 'literacy', which relates to letters or reading.",
+        "association": "Think of 'illiteracy' as 'ill' (not healthy) for one's education or knowledge."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=discrimination&type=2",
-      "chapter": "基本词汇 名词200 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=illiteracy&type=2",
+      "chapter": "核心词汇 法制与犯罪 Unit 2"
     },
     {
-      "word": "liberation",
-      "pronunciation": "/ˌlɪbəˈreɪʃən/",
+      "word": "resource",
+      "pronunciation": "/ˈriːsɔːrs/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "解放",
-          "en": "The act of setting someone free from restrictions."
+          "zh": "资源",
+          "en": "A resource is something that can be used to help achieve goals or support needs."
         },
         {
-          "pos": "n.",
-          "zh": "自主",
-          "en": "The state of being free and independent."
+          "pos": "v.",
+          "zh": "提供资源",
+          "en": "To resource means to supply or provide necessary items or support for a project."
         }
       ],
       "examples": [
         {
-          "en": "The liberation of the country was celebrated with great joy.",
-          "zh": "国家的解放得到了热烈的庆祝。"
+          "en": "The library is an important resource for students and researchers.",
+          "zh": "图书馆对学生和研究人员来说是一个重要的资源。"
         },
         {
-          "en": "She felt a sense of liberation after leaving her job.",
-          "zh": "她在离开工作后感到一种解放感。"
+          "en": "Companies need to resource their teams effectively for success.",
+          "zh": "公司需要有效地为他们的团队提供资源以获得成功。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'liberation' comes from the Latin 'liberatio', which means 'to free'."
+        "association": "Think of 'resource' as a 'source' of help or materials."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=liberation&type=2",
-      "chapter": "核心词汇 民主与权利 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=resource&type=2",
+      "chapter": "基本词汇 名词200 Unit 7"
     }
   ]
 }

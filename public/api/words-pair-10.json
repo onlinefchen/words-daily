@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-20T22:08:09.119Z",
+  "generated": "2025-11-21T22:07:55.541Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "horizon",
-      "pronunciation": "/həˈraɪ.zən/",
+      "word": "alga",
+      "pronunciation": "/ˈælɡə/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "地平线",
-          "en": "The line where the earth and sky appear to meet."
+          "zh": "藻类",
+          "en": "A simple plant that grows in water."
         },
         {
           "pos": "n.",
-          "zh": "视野",
-          "en": "The range of one's knowledge, experience, or outlook."
+          "zh": "海藻",
+          "en": "A type of seaweed that is often green or brown."
         }
       ],
       "examples": [
         {
-          "en": "The sunset painted the horizon with beautiful colors.",
-          "zh": "日落时，地平线被美丽的颜色渲染。"
+          "en": "Alga can be found in both fresh and salt water environments.",
+          "zh": "藻类可以在淡水和盐水环境中找到。"
         },
         {
-          "en": "She hopes to expand her horizons through travel and education.",
-          "zh": "她希望通过旅行和教育拓宽自己的视野。"
+          "en": "Researchers study alga for its potential health benefits.",
+          "zh": "研究人员研究藻类的潜在健康益处。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'horizon' as where the sun rises and sets, creating a boundary between earth and sky."
+        "association": "Think of 'alga' as a friend of water, always found swimming in it."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=horizon&type=2",
-      "chapter": "基本词汇 名词200 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=alga&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "promote",
-      "pronunciation": "/prəˈmoʊt/",
+      "word": "contemptible",
+      "pronunciation": "/kənˈtɛmptəbl/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "促进，提升",
-          "en": "To help something grow or develop."
+          "pos": "adj.",
+          "zh": "可鄙的，卑劣的",
+          "en": "Deserving of scorn; not worthy of respect."
         },
         {
-          "pos": "v.",
-          "zh": "推销，宣传",
-          "en": "To advertise or publicize something to increase its visibility."
+          "pos": "adj.",
+          "zh": "令人厌恶的",
+          "en": "Causing feelings of disgust or disapproval."
         }
       ],
       "examples": [
         {
-          "en": "The campaign aims to promote healthy eating among children.",
-          "zh": "该活动旨在促进儿童健康饮食。"
+          "en": "His contemptible behavior shocked everyone at the meeting.",
+          "zh": "他可鄙的行为让会议上的每个人都感到震惊。"
         },
         {
-          "en": "The company wants to promote its new product through social media.",
-          "zh": "该公司希望通过社交媒体宣传其新产品。"
+          "en": "She found his contemptible remarks completely unacceptable.",
+          "zh": "她觉得他那些可鄙的言论完全不可接受。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'promote' as 'pro' (for) + 'mote' (motion) - to move something forward."
+        "association": "Think of 'contempt' as feeling strong dislike, and 'ible' as capable of being that way."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=promote&type=2",
-      "chapter": "核心词汇 文化与传统 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=contemptible&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 5"
     }
   ]
 }

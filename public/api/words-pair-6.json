@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-20T22:08:09.119Z",
+  "generated": "2025-11-21T22:07:55.541Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "doomed",
-      "pronunciation": "/duːmd/",
+      "word": "beforehand",
+      "pronunciation": "/bɪˈfɔːrhænd/",
       "meanings": [
         {
+          "pos": "adv.",
+          "zh": "事先",
+          "en": "Before something happens; in advance."
+        },
+        {
           "pos": "adj.",
-          "zh": "注定失败的",
-          "en": "Certain to fail or be destroyed."
+          "zh": "预先的",
+          "en": "Related to something that is done or known earlier."
+        }
+      ],
+      "examples": [
+        {
+          "en": "I prepared my presentation beforehand to ensure everything was ready.",
+          "zh": "我提前准备了我的演讲，以确保一切就绪。"
+        },
+        {
+          "en": "It is important to book tickets beforehand during the holiday season.",
+          "zh": "在假期期间，提前订票是很重要的。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'before' and 'hand'; you plan with your hands before an event."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=beforehand&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 3"
+    },
+    {
+      "word": "lose",
+      "pronunciation": "/luːz/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "失去",
+          "en": "To no longer have something because it has been taken away or is gone."
         },
         {
           "pos": "v.",
-          "zh": "注定",
-          "en": "To decide the fate of something in a negative way."
+          "zh": "失败",
+          "en": "To fail to win or achieve something."
         }
       ],
       "examples": [
         {
-          "en": "The project was doomed from the start due to poor planning.",
-          "zh": "这个项目从一开始就注定失败，因为规划不善。"
+          "en": "If you lose your keys, you might be late for work.",
+          "zh": "如果你丢了钥匙，可能会迟到上班。"
         },
         {
-          "en": "He felt doomed when he received the bad news.",
-          "zh": "当他收到坏消息时，他感到自己注定要失败。"
+          "en": "The team will lose if they do not improve their performance.",
+          "zh": "如果球队不提高表现，他们会输。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'doomed' as 'doomed to fail', linking it to failure."
+        "association": "Think of 'lose' as letting something slip away, like water through your fingers."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=doomed&type=2",
-      "chapter": "核心词汇 文化与传统 Unit 2"
-    },
-    {
-      "word": "circuit",
-      "pronunciation": "/ˈsɜr.kɪt/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "电路",
-          "en": "A circuit is a path for electricity to flow through."
-        },
-        {
-          "pos": "n.",
-          "zh": "圈",
-          "en": "A circuit can also mean a circular route or area."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The electrician repaired the faulty circuit in the house.",
-          "zh": "电工修理了房子里故障的电路。"
-        },
-        {
-          "en": "The marathon runners completed a circuit around the city park.",
-          "zh": "马拉松跑者绕着城市公园完成了一圈。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of a circuit as a 'circle' of electricity, connecting everything in a loop."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=circuit&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=lose&type=2",
+      "chapter": "基本词汇 动词200 Unit 8"
     }
   ]
 }

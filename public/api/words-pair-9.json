@@ -1,70 +1,69 @@
 {
-  "generated": "2025-11-20T22:08:09.119Z",
+  "generated": "2025-11-21T22:07:55.541Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "transform",
-      "pronunciation": "/trænsˈfɔrm/",
+      "word": "compulsory",
+      "pronunciation": "/kəmˈpʌlsəri/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "改变，转变",
-          "en": "To change something completely, often in a positive way."
+          "pos": "adj.",
+          "zh": "强制的",
+          "en": "Required by law or rules; not optional."
         },
         {
-          "pos": "n.",
-          "zh": "转变，变革",
-          "en": "A significant change that improves something."
+          "pos": "adj.",
+          "zh": "必需的",
+          "en": "Necessary for someone to do; cannot be avoided."
         }
       ],
       "examples": [
         {
-          "en": "The new technology can transform the way we communicate.",
-          "zh": "新技术可以改变我们交流的方式。"
+          "en": "In many countries, education is compulsory for children.",
+          "zh": "在许多国家，儿童接受教育是强制性的。"
         },
         {
-          "en": "They aim to transform the old building into a modern library.",
-          "zh": "他们的目标是将这座老建筑改造成现代图书馆。"
+          "en": "Wearing a seatbelt is compulsory when driving a car.",
+          "zh": "开车时系安全带是强制性的。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'transform' comes from the Latin 'transformare', which means 'to change in shape'."
+        "association": "Think of 'compulsory' as something that compels you to act; you must do it."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=transform&type=2",
-      "chapter": "核心词汇 文化与传统 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compulsory&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 4"
     },
     {
-      "word": "physiological",
-      "pronunciation": "/ˌfɪz.iˈɑː.lə.dʒɪ.kəl/",
+      "word": "arboreal",
+      "pronunciation": "/ɑːrˈbɔːr.i.əl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "生理的",
-          "en": "Relating to the normal functions of living things."
+          "zh": "树栖的",
+          "en": "Relating to trees; living in trees."
         },
         {
           "pos": "adj.",
-          "zh": "生理学的",
-          "en": "Connected to the study of how living organisms function."
+          "zh": "树木生长的",
+          "en": "Describing animals that primarily inhabit or move through trees."
         }
       ],
       "examples": [
         {
-          "en": "The physiological effects of exercise are well documented in science.",
-          "zh": "运动的生理效果在科学中有充分的记录。"
+          "en": "Monkeys are often classified as arboreal animals due to their tree-dwelling habits.",
+          "zh": "猴子通常被归类为树栖动物，因为它们的栖息习惯在树上。"
         },
         {
-          "en": "Understanding physiological processes helps improve health and wellness.",
-          "zh": "理解生理过程有助于改善健康和福祉。"
+          "en": "The arboreal lifestyle of sloths makes them unique among mammals.",
+          "zh": "树栖生活方式使树懒在哺乳动物中独树一帜。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'physiological' comes from the Greek word 'physis' meaning nature, and 'logos' meaning study.",
-        "association": "Think of 'physiological' as related to 'physical' functions and processes, like how your body works."
+        "association": "Think of 'arbor', which means tree, to remember 'arboreal' relates to trees."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=physiological&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 8"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=arboreal&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

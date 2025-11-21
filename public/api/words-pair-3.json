@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-20T22:08:09.118Z",
+  "generated": "2025-11-21T22:07:55.540Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "obscene",
-      "pronunciation": "/əbˈsiːn/",
+      "word": "superiority",
+      "pronunciation": "/suːˈpɪr.i.ɔːr.ɪ.ti/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "猥亵的",
-          "en": "Offensive or disgusting to accepted standards of morality."
+          "pos": "n.",
+          "zh": "优越性",
+          "en": "The state of being better or greater than others."
         },
         {
-          "pos": "adj.",
-          "zh": "不堪入目的",
-          "en": "Highly inappropriate or indecent, especially in a sexual way."
+          "pos": "n.",
+          "zh": "优越感",
+          "en": "A feeling of being superior or more important than others."
         }
       ],
       "examples": [
         {
-          "en": "The movie was criticized for its obscene content and language.",
-          "zh": "这部电影因其猥亵的内容和语言而受到批评。"
+          "en": "His superiority complex made it hard for him to make friends.",
+          "zh": "他的优越感使他很难交朋友。"
         },
         {
-          "en": "Many people find obscene jokes to be highly offensive.",
-          "zh": "许多人认为猥亵的笑话非常令人反感。"
+          "en": "Many cultures believe in their own superiority over others.",
+          "zh": "许多文化相信自己优于其他文化。"
         }
       ],
       "memoryTips": {
-        "association": "Think of the word 'scene' in 'obscene' as a negative or inappropriate scene in a movie."
+        "association": "Think of 'super' as in 'superhero', who is often seen as superior to others."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=obscene&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 7"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=superiority&type=2",
+      "chapter": "基本词汇 名词200 Unit 8"
     },
     {
-      "word": "illiteracy",
-      "pronunciation": "/ɪˈlɪtəruˌsi/",
+      "word": "explore",
+      "pronunciation": "/ɪkˈsplɔːr/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "文盲",
-          "en": "The inability to read and write."
+          "pos": "v.",
+          "zh": "探索",
+          "en": "To travel through a place to learn more about it."
         },
         {
-          "pos": "n.",
-          "zh": "缺乏某种知识或技能",
-          "en": "A lack of knowledge in a specific area."
+          "pos": "v.",
+          "zh": "研究",
+          "en": "To examine something in detail to understand it better."
         }
       ],
       "examples": [
         {
-          "en": "Illiteracy remains a major challenge in many developing countries.",
-          "zh": "文盲仍然是许多发展中国家的主要挑战。"
+          "en": "Scientists explore the ocean to find new species.",
+          "zh": "科学家探索海洋以发现新物种。"
         },
         {
-          "en": "Efforts to reduce illiteracy are essential for societal progress.",
-          "zh": "减少文盲的努力对社会进步至关重要。"
+          "en": "We decided to explore the ancient ruins during our trip.",
+          "zh": "我们决定在旅行中探索古老的遗址。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'illiteracy' as 'ill' (sick) at 'literacy' (reading skills), meaning a lack of reading ability."
+        "association": "Think of 'exploring' as 'ex-ploring' where you 'explore' different 'ploring' areas."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=illiteracy&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=explore&type=2",
+      "chapter": "基本词汇 动词200 Unit 7"
     }
   ]
 }

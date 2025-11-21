@@ -1,62 +1,69 @@
 {
-  "generated": "2025-11-20T22:08:09.118Z",
+  "generated": "2025-11-21T22:07:55.540Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "law-abiding",
-      "pronunciation": "/lɔː əˈbaɪ.dɪŋ/",
+      "word": "multilateral",
+      "pronunciation": "/ˌmʌl.tɪˈlæt.ər.əl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "守法的",
-          "en": "Following the laws and rules of society."
+          "zh": "多边的",
+          "en": "Involving multiple countries or groups working together."
+        },
+        {
+          "pos": "adj.",
+          "zh": "多方面的",
+          "en": "Relating to more than two sides or parties."
         }
       ],
       "examples": [
         {
-          "en": "Most citizens are law-abiding and respect the legal system.",
-          "zh": "大多数公民是守法的，尊重法律体系。"
+          "en": "The conference aimed to establish multilateral agreements on climate change.",
+          "zh": "此次会议旨在建立关于气候变化的多边协议。"
         },
         {
-          "en": "Law-abiding individuals contribute to a peaceful community.",
-          "zh": "守法的个人为和谐社区做出贡献。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=law-abiding&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 6"
-    },
-    {
-      "word": "edify",
-      "pronunciation": "/ˈɛdɪfaɪ/",
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "启发，教诲",
-          "en": "To instruct or improve someone morally or intellectually."
-        },
-        {
-          "pos": "v.",
-          "zh": "使懂得",
-          "en": "To educate or enlighten a person."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Reading classic literature can edify young minds and broaden their perspectives.",
-          "zh": "阅读经典文学可以启发年轻人的思维，拓宽他们的视野。"
-        },
-        {
-          "en": "The documentary aimed to edify viewers about the importance of environmental conservation.",
-          "zh": "这部纪录片旨在使观众了解环境保护的重要性。"
+          "en": "Multilateral trade can benefit all participating nations equally.",
+          "zh": "多边贸易可以使所有参与国家受益均等。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'edify' comes from the Latin 'aedificare,' which means 'to build.' This reflects the idea of building knowledge or character."
+        "association": "Think of 'multi' meaning many, and 'lateral' relating to sides, so it’s about many sides coming together."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=edify&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=multilateral&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 12"
+    },
+    {
+      "word": "polar bear",
+      "pronunciation": "/ˈpoʊlər bɛr/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "北极熊",
+          "en": "A large white bear that lives in the Arctic."
+        },
+        {
+          "pos": "n.",
+          "zh": "极地环境中的动物",
+          "en": "An animal found in cold, icy regions, especially in the North."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Polar bears are excellent swimmers, often traveling long distances.",
+          "zh": "北极熊是优秀的游泳者，通常能游很远的距离。"
+        },
+        {
+          "en": "Due to climate change, polar bears are losing their natural habitat.",
+          "zh": "由于气候变化，北极熊正在失去它们的自然栖息地。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of the word 'polar' as related to the poles (North and South) and 'bear' as the animal. Imagine the polar bear living at the North Pole."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=polar%20bear&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }
