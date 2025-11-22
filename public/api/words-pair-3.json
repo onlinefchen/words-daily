@@ -1,69 +1,70 @@
 {
-  "generated": "2025-11-21T22:07:55.540Z",
+  "generated": "2025-11-22T22:07:27.748Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "superiority",
-      "pronunciation": "/suːˈpɪr.i.ɔːr.ɪ.ti/",
+      "word": "hostility",
+      "pronunciation": "/hɑːsˈtɪl.ɪ.ti/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "优越性",
-          "en": "The state of being better or greater than others."
+          "zh": "敌意",
+          "en": "An unfriendly or angry attitude towards someone."
         },
         {
           "pos": "n.",
-          "zh": "优越感",
-          "en": "A feeling of being superior or more important than others."
+          "zh": "敌对行为",
+          "en": "Actions that show opposition or aggression."
         }
       ],
       "examples": [
         {
-          "en": "His superiority complex made it hard for him to make friends.",
-          "zh": "他的优越感使他很难交朋友。"
+          "en": "The hostility between the two rival teams was evident during the match.",
+          "zh": "两支竞争对手球队之间的敌意在比赛中显而易见。"
         },
         {
-          "en": "Many cultures believe in their own superiority over others.",
-          "zh": "许多文化相信自己优于其他文化。"
+          "en": "Her hostility towards the new policy surprised everyone in the meeting.",
+          "zh": "她对新政策的敌意让会议上的每个人都感到惊讶。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'super' as in 'superhero', who is often seen as superior to others."
+        "association": "Think of 'hostility' as 'hostile' actions, similar to how a hostile environment feels uncomfortable."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=superiority&type=2",
-      "chapter": "基本词汇 名词200 Unit 8"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=hostility&type=2",
+      "chapter": "核心词汇 文化与传统 Unit 3"
     },
     {
-      "word": "explore",
-      "pronunciation": "/ɪkˈsplɔːr/",
+      "word": "barbaric",
+      "pronunciation": "/bɑːrˈbærɪk/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "探索",
-          "en": "To travel through a place to learn more about it."
+          "pos": "adj.",
+          "zh": "野蛮的",
+          "en": "Relating to a cruel or brutal way of life."
         },
         {
-          "pos": "v.",
-          "zh": "研究",
-          "en": "To examine something in detail to understand it better."
+          "pos": "adj.",
+          "zh": "粗糙的",
+          "en": "Lacking refinement or culture; primitive."
         }
       ],
       "examples": [
         {
-          "en": "Scientists explore the ocean to find new species.",
-          "zh": "科学家探索海洋以发现新物种。"
+          "en": "The barbaric practices of ancient tribes were often shocking to outsiders.",
+          "zh": "古代部落的野蛮习俗常常让外来者感到震惊。"
         },
         {
-          "en": "We decided to explore the ancient ruins during our trip.",
-          "zh": "我们决定在旅行中探索古老的遗址。"
+          "en": "Many considered the war tactics used by the enemy to be barbaric and unacceptable.",
+          "zh": "许多人认为敌方使用的战争战术是野蛮和不可接受的。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'exploring' as 'ex-ploring' where you 'explore' different 'ploring' areas."
+        "etymology": "The word 'barbaric' comes from the Latin 'barbaricus', which means 'foreign' or 'strange', originally used to describe people who spoke unintelligibly.",
+        "association": "Think of 'barbaric' as relating to the word 'barbarian', which evokes images of fierce, uncivilized warriors."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=explore&type=2",
-      "chapter": "基本词汇 动词200 Unit 7"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=barbaric&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 3"
     }
   ]
 }

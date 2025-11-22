@@ -1,70 +1,64 @@
 {
-  "generated": "2025-11-21T22:07:55.541Z",
+  "generated": "2025-11-22T22:07:27.748Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "illiteracy",
-      "pronunciation": "/ɪˈlɪtəresi/",
+      "word": "flexible",
+      "pronunciation": "/ˈflɛksəbl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "文盲",
-          "en": "The inability to read and write."
+          "pos": "adj.",
+          "zh": "灵活的",
+          "en": "Able to change or adapt easily."
         },
         {
-          "pos": "n.",
-          "zh": "缺乏知识",
-          "en": "A lack of knowledge in a particular area."
+          "pos": "adj.",
+          "zh": "可变的",
+          "en": "Capable of bending or being bent without breaking."
         }
       ],
       "examples": [
         {
-          "en": "Illiteracy remains a significant problem in many developing countries.",
-          "zh": "文盲在许多发展中国家仍然是一个重大问题。"
+          "en": "She has a flexible schedule that allows her to travel often.",
+          "zh": "她的日程安排灵活，允许她经常旅行。"
         },
         {
-          "en": "Efforts to reduce illiteracy are crucial for economic growth.",
-          "zh": "减少文盲的努力对经济增长至关重要。"
+          "en": "The yoga class is suitable for people of flexible abilities.",
+          "zh": "这个瑜伽课程适合各种灵活性水平的人。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'illiteracy' comes from the prefix 'il-' meaning 'not' and 'literacy', which relates to letters or reading.",
-        "association": "Think of 'illiteracy' as 'ill' (not healthy) for one's education or knowledge."
+        "association": "Think of a flexible person bending in different directions, easily adapting to situations."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=illiteracy&type=2",
-      "chapter": "核心词汇 法制与犯罪 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=flexible&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 4"
     },
     {
-      "word": "resource",
-      "pronunciation": "/ˈriːsɔːrs/",
+      "word": "earthquake prediction",
+      "pronunciation": "/ˈɜrθkweɪk prɪˈdɪkʃən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "资源",
-          "en": "A resource is something that can be used to help achieve goals or support needs."
-        },
-        {
-          "pos": "v.",
-          "zh": "提供资源",
-          "en": "To resource means to supply or provide necessary items or support for a project."
+          "zh": "地震预测",
+          "en": "The process of forecasting when and where an earthquake will occur."
         }
       ],
       "examples": [
         {
-          "en": "The library is an important resource for students and researchers.",
-          "zh": "图书馆对学生和研究人员来说是一个重要的资源。"
+          "en": "Scientists are working on improving earthquake prediction methods.",
+          "zh": "科学家们正在努力改善地震预测方法。"
         },
         {
-          "en": "Companies need to resource their teams effectively for success.",
-          "zh": "公司需要有效地为他们的团队提供资源以获得成功。"
+          "en": "Accurate earthquake prediction could save many lives and reduce damage.",
+          "zh": "准确的地震预测可以拯救许多生命并减少损失。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'resource' as a 'source' of help or materials."
+        "association": "Think of 'earthquake' as the shaking of the earth and 'prediction' as guessing what will happen, linking the two concepts."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=resource&type=2",
-      "chapter": "基本词汇 名词200 Unit 7"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=earthquake%20prediction&type=2",
+      "chapter": "认知词汇 自然分类 地震"
     }
   ]
 }

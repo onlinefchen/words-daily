@@ -1,68 +1,69 @@
 {
-  "generated": "2025-11-21T22:07:55.541Z",
+  "generated": "2025-11-22T22:07:27.748Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "compulsory",
-      "pronunciation": "/kəmˈpʌlsəri/",
+      "word": "social",
+      "pronunciation": "/ˈsoʊ.ʃəl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "强制的",
-          "en": "Required by law or rules; not optional."
+          "zh": "社会的",
+          "en": "Relating to society or the way people live together."
         },
         {
-          "pos": "adj.",
-          "zh": "必需的",
-          "en": "Necessary for someone to do; cannot be avoided."
+          "pos": "n.",
+          "zh": "社交活动",
+          "en": "Activities that involve interacting with other people."
         }
       ],
       "examples": [
         {
-          "en": "In many countries, education is compulsory for children.",
-          "zh": "在许多国家，儿童接受教育是强制性的。"
+          "en": "Social events help people connect and build friendships.",
+          "zh": "社交活动帮助人们建立联系和友谊。"
         },
         {
-          "en": "Wearing a seatbelt is compulsory when driving a car.",
-          "zh": "开车时系安全带是强制性的。"
+          "en": "She enjoys socializing with her friends on weekends.",
+          "zh": "她喜欢在周末与朋友们社交。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'compulsory' as something that compels you to act; you must do it."
+        "association": "Think of 'social' as related to 'society', which involves people interacting with each other."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compulsory&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=social&type=2",
+      "chapter": "核心词汇 伦理与道德 Unit 5"
     },
     {
-      "word": "arboreal",
-      "pronunciation": "/ɑːrˈbɔːr.i.əl/",
+      "word": "arthropod",
+      "pronunciation": "/ˈɑrθrəˌpɒd/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "树栖的",
-          "en": "Relating to trees; living in trees."
+          "pos": "n.",
+          "zh": "节肢动物",
+          "en": "A type of animal with jointed legs and a hard outer shell."
         },
         {
-          "pos": "adj.",
-          "zh": "树木生长的",
-          "en": "Describing animals that primarily inhabit or move through trees."
+          "pos": "n.",
+          "zh": "昆虫等的总称",
+          "en": "The general term for animals like insects, spiders, and crustaceans."
         }
       ],
       "examples": [
         {
-          "en": "Monkeys are often classified as arboreal animals due to their tree-dwelling habits.",
-          "zh": "猴子通常被归类为树栖动物，因为它们的栖息习惯在树上。"
+          "en": "Many arthropods, such as crabs and spiders, live in various habitats.",
+          "zh": "许多节肢动物，如螃蟹和蜘蛛，生活在不同的栖息地。"
         },
         {
-          "en": "The arboreal lifestyle of sloths makes them unique among mammals.",
-          "zh": "树栖生活方式使树懒在哺乳动物中独树一帜。"
+          "en": "Entomologists study the behavior of different arthropods regularly.",
+          "zh": "昆虫学家定期研究不同节肢动物的行为。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'arbor', which means tree, to remember 'arboreal' relates to trees."
+        "etymology": "The word 'arthropod' comes from the Greek words 'arthron' meaning joint and 'pous' meaning foot.",
+        "association": "Think of 'arthro-' as relating to joints and 'pod' as feet; arthropods have jointed legs."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=arboreal&type=2",
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=arthropod&type=2",
       "chapter": "认知词汇 动物分类 常考生物"
     }
   ]

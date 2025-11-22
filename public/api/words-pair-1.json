@@ -1,70 +1,69 @@
 {
-  "generated": "2025-11-21T22:07:55.540Z",
+  "generated": "2025-11-22T22:07:27.748Z",
   "pair": 1,
   "count": 2,
   "words": [
     {
-      "word": "injure",
-      "pronunciation": "/ˈɪn.dʒər/",
+      "word": "navigational accomplishment",
+      "pronunciation": "/ˌnævɪˈɡeɪʃənl əˈkəmplɪʃmənt/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "伤害",
-          "en": "To cause physical harm or damage to someone or something."
+          "pos": "n.",
+          "zh": "导航成就",
+          "en": "An achievement related to guiding or directing a journey."
         },
         {
-          "pos": "v.",
-          "zh": "使受损",
-          "en": "To hurt someone's feelings or cause them emotional pain."
+          "pos": "n.",
+          "zh": "航行成功",
+          "en": "A successful outcome in navigating a path or course."
         }
       ],
       "examples": [
         {
-          "en": "He injured his knee while playing football last weekend.",
-          "zh": "他上个周末踢足球时伤到了膝盖。"
+          "en": "The team's navigational accomplishment helped them reach the summit.",
+          "zh": "团队的导航成就帮助他们到达了峰顶。"
         },
         {
-          "en": "The news of her failure injured her pride significantly.",
-          "zh": "她失败的消息严重伤害了她的自尊。"
+          "en": "Her navigational accomplishment in sailing was truly impressive.",
+          "zh": "她在航海方面的导航成就令人印象深刻。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'injure' like 'in' + 'jure' (sounds like 'sure'), as in 'not sure if I can play without getting hurt'."
+        "association": "Think of 'navigation' as steering a ship, and 'accomplishment' as reaching your destination."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=injure&type=2",
-      "chapter": "基本词汇 动词200 Unit 8"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=navigational%20accomplishment&type=2",
+      "chapter": "认知词汇 动物分类 动物航行能力"
     },
     {
-      "word": "deforestation",
-      "pronunciation": "/ˌdiːfɔːrɪˈsteɪʃən/",
+      "word": "curriculum",
+      "pronunciation": "/kəˈrɪk.jə.ləm/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "森林砍伐",
-          "en": "The act of cutting down trees in a forest."
+          "zh": "课程",
+          "en": "A set of courses or lessons in a school or program."
         },
         {
           "pos": "n.",
-          "zh": "森林消失",
-          "en": "The process of losing forested areas due to human activity."
+          "zh": "教学大纲",
+          "en": "The subjects and topics that are taught in a particular educational program."
         }
       ],
       "examples": [
         {
-          "en": "Deforestation is a major cause of climate change worldwide.",
-          "zh": "森林砍伐是全球气候变化的主要原因。"
+          "en": "The school updated its curriculum to include more technology courses.",
+          "zh": "学校更新了课程，以增加更多的技术课程。"
         },
         {
-          "en": "Many animals lose their habitat due to deforestation in tropical regions.",
-          "zh": "由于热带地区的森林砍伐，许多动物失去了栖息地。"
+          "en": "A well-rounded curriculum helps students develop various skills.",
+          "zh": "全面的课程有助于学生发展多种技能。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'deforestation' as 'deforesting' an area, removing the forest.",
-        "mnemonic": "Deforestation sounds like 'deforest' + 'nation', suggesting a nation losing its forests."
+        "association": "Think of 'curriculum' as a 'currant' (a small fruit) that grows in a 'garden' of knowledge, representing the growth in learning."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=deforestation&type=2",
-      "chapter": "认知词汇 自然分类 热带雨林"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=curriculum&type=2",
+      "chapter": "认知词汇 教育分类 双语教育"
     }
   ]
 }

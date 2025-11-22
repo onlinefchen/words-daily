@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-21T22:07:55.541Z",
+  "generated": "2025-11-22T22:07:27.748Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "alga",
-      "pronunciation": "/ˈælɡə/",
+      "word": "robot",
+      "pronunciation": "/ˈroʊ.bɒt/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "藻类",
-          "en": "A simple plant that grows in water."
+          "zh": "机器人",
+          "en": "A machine that can perform tasks automatically."
         },
         {
-          "pos": "n.",
-          "zh": "海藻",
-          "en": "A type of seaweed that is often green or brown."
+          "pos": "v.",
+          "zh": "自动化",
+          "en": "To automate a process using machines."
         }
       ],
       "examples": [
         {
-          "en": "Alga can be found in both fresh and salt water environments.",
-          "zh": "藻类可以在淡水和盐水环境中找到。"
+          "en": "Many factories use robots to assemble products more efficiently.",
+          "zh": "许多工厂使用机器人更有效地组装产品。"
         },
         {
-          "en": "Researchers study alga for its potential health benefits.",
-          "zh": "研究人员研究藻类的潜在健康益处。"
+          "en": "Some people worry that robots could take away jobs from humans.",
+          "zh": "一些人担心机器人可能会夺走人类的工作。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'alga' as a friend of water, always found swimming in it."
+        "association": "Think of 'robot' as a 'worker' that never tires, performing tasks for humans."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=alga&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=robot&type=2",
+      "chapter": "核心词汇 科技发展 Unit 4"
     },
     {
-      "word": "contemptible",
-      "pronunciation": "/kənˈtɛmptəbl/",
+      "word": "attend",
+      "pronunciation": "/əˈtɛnd/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "可鄙的，卑劣的",
-          "en": "Deserving of scorn; not worthy of respect."
+          "pos": "v.",
+          "zh": "参加",
+          "en": "To go to or be present at an event or place."
         },
         {
-          "pos": "adj.",
-          "zh": "令人厌恶的",
-          "en": "Causing feelings of disgust or disapproval."
+          "pos": "v.",
+          "zh": "注意",
+          "en": "To pay attention to something or someone."
         }
       ],
       "examples": [
         {
-          "en": "His contemptible behavior shocked everyone at the meeting.",
-          "zh": "他可鄙的行为让会议上的每个人都感到震惊。"
+          "en": "I will attend the conference next week to learn new things.",
+          "zh": "我下周会参加会议以学习新知识。"
         },
         {
-          "en": "She found his contemptible remarks completely unacceptable.",
-          "zh": "她觉得他那些可鄙的言论完全不可接受。"
+          "en": "It is important to attend to your health and well-being.",
+          "zh": "关注你的健康和福祉是很重要的。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'contempt' as feeling strong dislike, and 'ible' as capable of being that way."
+        "association": "Think of 'attend' as 'to tend to' a place or event, like tending a garden."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=contemptible&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=attend&type=2",
+      "chapter": "基本词汇 动词200 Unit 2"
     }
   ]
 }

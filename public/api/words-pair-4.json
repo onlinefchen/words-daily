@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-21T22:07:55.540Z",
+  "generated": "2025-11-22T22:07:27.748Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "content",
-      "pronunciation": "/ˈkɒn.tɛnt/",
+      "word": "prohibition",
+      "pronunciation": "/ˌproʊhɪˈbɪʃən/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "满足的",
-          "en": "Feeling satisfied or happy with what you have."
+          "pos": "n.",
+          "zh": "禁止",
+          "en": "The act of forbidding something by law or authority."
         },
         {
           "pos": "n.",
-          "zh": "内容",
-          "en": "The material or information contained in something."
+          "zh": "禁令",
+          "en": "A rule or law that stops people from doing something."
         }
       ],
       "examples": [
         {
-          "en": "She felt content after finishing her project successfully.",
-          "zh": "她在成功完成项目后感到满足。"
+          "en": "The prohibition of smoking in public places is now enforced.",
+          "zh": "公共场所禁止吸烟的规定现在得到了执行。"
         },
         {
-          "en": "The book's content was engaging and well-written.",
-          "zh": "这本书的内容引人入胜且写得很好。"
+          "en": "Many countries have a prohibition on drinking alcohol under a certain age.",
+          "zh": "许多国家对未满特定年龄的人饮酒实施禁令。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'content' as being 'happy with the content of your life'."
+        "etymology": "The word 'prohibition' comes from the Latin 'prohibitio', meaning 'to forbid'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=content&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=prohibition&type=2",
+      "chapter": "基本词汇 名词200 Unit 7"
     },
     {
-      "word": "pursue",
-      "pronunciation": "/pərˈsuː/",
+      "word": "control",
+      "pronunciation": "/kənˈtroʊl/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "追求",
-          "en": "To try to achieve or obtain something."
+          "zh": "控制，支配",
+          "en": "To have power over something or someone; to direct or manage."
         },
         {
-          "pos": "v.",
-          "zh": "追赶",
-          "en": "To follow someone or something in order to catch them."
+          "pos": "n.",
+          "zh": "控制，管理",
+          "en": "The power to influence or direct people's behavior or the course of events."
         }
       ],
       "examples": [
         {
-          "en": "She decided to pursue her dream of becoming a doctor.",
-          "zh": "她决定追求成为医生的梦想。"
+          "en": "She struggled to control her emotions during the meeting.",
+          "zh": "她在会议期间努力控制自己的情绪。"
         },
         {
-          "en": "The police are pursuing the suspect through the streets.",
-          "zh": "警方正在街道上追赶嫌疑犯。"
+          "en": "The government aims to maintain control over the economy.",
+          "zh": "政府旨在保持对经济的控制。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'pursuit' which is related to 'pursue' and means the act of chasing or seeking something."
+        "association": "Think of 'control' as having a remote control, guiding and directing what happens."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pursue&type=2",
-      "chapter": "基本词汇 动词200 Unit 9"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=control&type=2",
+      "chapter": "基本词汇 动词200 Unit 4"
     }
   ]
 }

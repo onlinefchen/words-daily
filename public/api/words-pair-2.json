@@ -1,69 +1,64 @@
 {
-  "generated": "2025-11-21T22:07:55.540Z",
+  "generated": "2025-11-22T22:07:27.748Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "multilateral",
-      "pronunciation": "/ˌmʌl.tɪˈlæt.ər.əl/",
+      "word": "ubiquitous",
+      "pronunciation": "/juːˈbɪkwɪtəs/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "多边的",
-          "en": "Involving multiple countries or groups working together."
-        },
-        {
-          "pos": "adj.",
-          "zh": "多方面的",
-          "en": "Relating to more than two sides or parties."
+          "zh": "无处不在的",
+          "en": "Present everywhere; very common."
         }
       ],
       "examples": [
         {
-          "en": "The conference aimed to establish multilateral agreements on climate change.",
-          "zh": "此次会议旨在建立关于气候变化的多边协议。"
+          "en": "Smartphones have become ubiquitous in modern society.",
+          "zh": "智能手机在现代社会中无处不在。"
         },
         {
-          "en": "Multilateral trade can benefit all participating nations equally.",
-          "zh": "多边贸易可以使所有参与国家受益均等。"
+          "en": "The internet is a ubiquitous part of daily life for many people.",
+          "zh": "互联网是许多人日常生活中无处不在的一部分。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'multi' meaning many, and 'lateral' relating to sides, so it’s about many sides coming together."
+        "association": "Think of 'ubiquitous' as 'you be quick to notice it everywhere'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=multilateral&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 12"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ubiquitous&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 19"
     },
     {
-      "word": "polar bear",
-      "pronunciation": "/ˈpoʊlər bɛr/",
+      "word": "virtue",
+      "pronunciation": "/ˈvɜr.tʃu/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "北极熊",
-          "en": "A large white bear that lives in the Arctic."
+          "zh": "美德",
+          "en": "A good quality or trait that is considered morally good."
         },
         {
           "pos": "n.",
-          "zh": "极地环境中的动物",
-          "en": "An animal found in cold, icy regions, especially in the North."
+          "zh": "优点",
+          "en": "An advantage or benefit that something has."
         }
       ],
       "examples": [
         {
-          "en": "Polar bears are excellent swimmers, often traveling long distances.",
-          "zh": "北极熊是优秀的游泳者，通常能游很远的距离。"
+          "en": "Honesty is a virtue that many people value highly.",
+          "zh": "诚实是一种许多人高度重视的美德。"
         },
         {
-          "en": "Due to climate change, polar bears are losing their natural habitat.",
-          "zh": "由于气候变化，北极熊正在失去它们的自然栖息地。"
+          "en": "Patience is a virtue that can lead to better outcomes.",
+          "zh": "耐心是一种可以带来更好结果的美德。"
         }
       ],
       "memoryTips": {
-        "association": "Think of the word 'polar' as related to the poles (North and South) and 'bear' as the animal. Imagine the polar bear living at the North Pole."
+        "association": "Think of 'virtue' as 'very true,' linking it to moral truth."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=polar%20bear&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=virtue&type=2",
+      "chapter": "核心词汇 伦理与道德 Unit 5"
     }
   ]
 }

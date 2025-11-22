@@ -1,69 +1,70 @@
 {
-  "generated": "2025-11-21T22:07:55.541Z",
+  "generated": "2025-11-22T22:07:27.748Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "aesthetic",
-      "pronunciation": "/ɛsˈθɛtɪk/",
+      "word": "expand",
+      "pronunciation": "/ɪkˈspænd/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "美学的；审美的",
-          "en": "Related to beauty or the appreciation of beauty."
+          "pos": "v.",
+          "zh": "扩展，增加",
+          "en": "To make something larger or more extensive."
+        },
+        {
+          "pos": "v.",
+          "zh": "详细阐述",
+          "en": "To explain or discuss something in more detail."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The company plans to expand its operations into new markets.",
+          "zh": "公司计划将业务扩展到新市场。"
+        },
+        {
+          "en": "He decided to expand on his ideas during the presentation.",
+          "zh": "他决定在演示中详细阐述他的想法。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "Originates from the Latin word 'expandere', meaning 'to spread out'.",
+        "association": "Think of 'expand' as 'ex' (out) + 'pand' (to spread), like a balloon inflating."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=expand&type=2",
+      "chapter": "基本词汇 动词200 Unit 7"
+    },
+    {
+      "word": "ban",
+      "pronunciation": "/bæn/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "禁止",
+          "en": "To officially say that something is not allowed."
         },
         {
           "pos": "n.",
-          "zh": "美学；审美观",
-          "en": "A set of principles concerned with the nature and appreciation of beauty."
+          "zh": "禁令",
+          "en": "An official order that prevents something from being done."
         }
       ],
       "examples": [
         {
-          "en": "The aesthetic design of the building attracts many visitors.",
-          "zh": "这座建筑美学设计吸引了许多游客。"
+          "en": "The government decided to ban smoking in public places.",
+          "zh": "政府决定禁止在公共场所吸烟。"
         },
         {
-          "en": "Her artwork reflects a unique aesthetic vision and style.",
-          "zh": "她的艺术作品反映出独特的美学视野和风格。"
+          "en": "There is a ban on plastic bags in this city.",
+          "zh": "这个城市对塑料袋实施了禁令。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'aesthetic' as 'a scene that is aesthetically pleasing', like a beautiful painting or a scenic view."
+        "association": "Think of a 'ban' as a barrier that blocks something from happening."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aesthetic&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 2"
-    },
-    {
-      "word": "eliminate",
-      "pronunciation": "/ɪˈlɪməˌneɪt/",
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "消除",
-          "en": "To remove or get rid of something completely."
-        },
-        {
-          "pos": "v.",
-          "zh": "排除",
-          "en": "To eliminate something means to exclude it from consideration."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The new policy aims to eliminate waste in the production process.",
-          "zh": "新政策旨在消除生产过程中的浪费。"
-        },
-        {
-          "en": "They worked hard to eliminate any doubts about their project.",
-          "zh": "他们努力消除对项目的任何怀疑。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'eliminate' as 'leaving something out' or 'cutting it out' like a bad habit."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=eliminate&type=2",
-      "chapter": "基本词汇 动词200 Unit 6"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ban&type=2",
+      "chapter": "基本词汇 动词200 Unit 2"
     }
   ]
 }
