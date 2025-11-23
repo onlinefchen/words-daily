@@ -1,69 +1,70 @@
 {
-  "generated": "2025-11-22T22:07:27.748Z",
+  "generated": "2025-11-23T22:07:41.824Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "prohibition",
-      "pronunciation": "/ˌproʊhɪˈbɪʃən/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "禁止",
-          "en": "The act of forbidding something by law or authority."
-        },
-        {
-          "pos": "n.",
-          "zh": "禁令",
-          "en": "A rule or law that stops people from doing something."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The prohibition of smoking in public places is now enforced.",
-          "zh": "公共场所禁止吸烟的规定现在得到了执行。"
-        },
-        {
-          "en": "Many countries have a prohibition on drinking alcohol under a certain age.",
-          "zh": "许多国家对未满特定年龄的人饮酒实施禁令。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'prohibition' comes from the Latin 'prohibitio', meaning 'to forbid'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=prohibition&type=2",
-      "chapter": "基本词汇 名词200 Unit 7"
-    },
-    {
-      "word": "control",
-      "pronunciation": "/kənˈtroʊl/",
+      "word": "exploit",
+      "pronunciation": "/ɪkˈsplɔɪt/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "控制，支配",
-          "en": "To have power over something or someone; to direct or manage."
+          "zh": "利用",
+          "en": "To make use of something for one's own benefit."
         },
         {
           "pos": "n.",
-          "zh": "控制，管理",
-          "en": "The power to influence or direct people's behavior or the course of events."
+          "zh": "剥削",
+          "en": "An act of taking advantage of someone or something."
         }
       ],
       "examples": [
         {
-          "en": "She struggled to control her emotions during the meeting.",
-          "zh": "她在会议期间努力控制自己的情绪。"
+          "en": "The company aims to exploit new technology for better efficiency.",
+          "zh": "该公司旨在利用新技术提高效率。"
         },
         {
-          "en": "The government aims to maintain control over the economy.",
-          "zh": "政府旨在保持对经济的控制。"
+          "en": "Many workers feel they are being exploited by their employers.",
+          "zh": "许多工人感到自己被雇主剥削。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'control' as having a remote control, guiding and directing what happens."
+        "etymology": "The word 'exploit' comes from the Latin 'exploitatio', meaning 'to unfold' or 'to set forth'.",
+        "association": "Think of 'exploit' as 'using' an 'opportunity' to gain something valuable."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=control&type=2",
-      "chapter": "基本词汇 动词200 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=exploit&type=2",
+      "chapter": "核心词汇 民主与权利 Unit 2"
+    },
+    {
+      "word": "intolerable",
+      "pronunciation": "/ɪnˈtɒlərəbl/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "不可忍受的",
+          "en": "Something that is very difficult to accept or endure."
+        },
+        {
+          "pos": "adj.",
+          "zh": "无法容忍的",
+          "en": "A situation that causes great discomfort or annoyance."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The heat during summer can sometimes be intolerable for many people.",
+          "zh": "夏天的热量对很多人来说有时是无法忍受的。"
+        },
+        {
+          "en": "Living in an intolerable environment affects mental health significantly.",
+          "zh": "生活在一个不可忍受的环境中会严重影响心理健康。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'tolerate' as being able to accept something. The prefix 'in-' means not, so 'intolerable' is something you cannot tolerate."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=intolerable&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 11"
     }
   ]
 }

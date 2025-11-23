@@ -1,70 +1,69 @@
 {
-  "generated": "2025-11-22T22:07:27.748Z",
+  "generated": "2025-11-23T22:07:41.824Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "hostility",
-      "pronunciation": "/hɑːsˈtɪl.ɪ.ti/",
+      "word": "loggerhead turtle",
+      "pronunciation": "/ˈlɔɡərˌhɛd ˈtɜːrtl/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "敌意",
-          "en": "An unfriendly or angry attitude towards someone."
+          "zh": "抹香海龟",
+          "en": "A large sea turtle known for its big head and strong jaws."
         },
         {
           "pos": "n.",
-          "zh": "敌对行为",
-          "en": "Actions that show opposition or aggression."
+          "zh": "一种海洋生物",
+          "en": "A type of marine animal that lives in oceans and feeds mainly on jellyfish."
         }
       ],
       "examples": [
         {
-          "en": "The hostility between the two rival teams was evident during the match.",
-          "zh": "两支竞争对手球队之间的敌意在比赛中显而易见。"
+          "en": "Loggerhead turtles are often seen nesting on sandy beaches.",
+          "zh": "抹香海龟常常在沙滩上筑巢。"
         },
         {
-          "en": "Her hostility towards the new policy surprised everyone in the meeting.",
-          "zh": "她对新政策的敌意让会议上的每个人都感到惊讶。"
+          "en": "Conservation efforts are crucial for protecting loggerhead turtle populations.",
+          "zh": "保护抹香海龟种群的努力至关重要。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'hostility' as 'hostile' actions, similar to how a hostile environment feels uncomfortable."
+        "association": "Think of a 'loggerhead' as someone who argues a lot, like a turtle that stands its ground."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=hostility&type=2",
-      "chapter": "核心词汇 文化与传统 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=loggerhead%20turtle&type=2",
+      "chapter": "认知词汇 动物分类 动物航行能力"
     },
     {
-      "word": "barbaric",
-      "pronunciation": "/bɑːrˈbærɪk/",
+      "word": "overexploitation",
+      "pronunciation": "/ˌoʊvərɪkˈsplɔɪteɪʃən/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "野蛮的",
-          "en": "Relating to a cruel or brutal way of life."
+          "pos": "n.",
+          "zh": "过度开发",
+          "en": "The excessive use of resources that can lead to their depletion."
         },
         {
-          "pos": "adj.",
-          "zh": "粗糙的",
-          "en": "Lacking refinement or culture; primitive."
+          "pos": "n.",
+          "zh": "过度利用",
+          "en": "The unsustainable exploitation of natural resources."
         }
       ],
       "examples": [
         {
-          "en": "The barbaric practices of ancient tribes were often shocking to outsiders.",
-          "zh": "古代部落的野蛮习俗常常让外来者感到震惊。"
+          "en": "Overexploitation of fish stocks can lead to a severe ecological imbalance.",
+          "zh": "鱼类过度开发可能导致严重的生态失衡。"
         },
         {
-          "en": "Many considered the war tactics used by the enemy to be barbaric and unacceptable.",
-          "zh": "许多人认为敌方使用的战争战术是野蛮和不可接受的。"
+          "en": "The forest suffered from overexploitation, resulting in habitat loss for many species.",
+          "zh": "森林因过度开发而遭受破坏，导致许多物种失去栖息地。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'barbaric' comes from the Latin 'barbaricus', which means 'foreign' or 'strange', originally used to describe people who spoke unintelligibly.",
-        "association": "Think of 'barbaric' as relating to the word 'barbarian', which evokes images of fierce, uncivilized warriors."
+        "association": "Think of 'over' as 'too much' and 'exploitation' as 'using something up'. Together, it means using too much of something."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=barbaric&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=overexploitation&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

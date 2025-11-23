@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-22T22:07:27.748Z",
+  "generated": "2025-11-23T22:07:41.824Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "force",
-      "pronunciation": "/fɔrs/",
+      "word": "shearwater",
+      "pronunciation": "/ˈʃɪrˌwɔːtər/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "强迫",
-          "en": "To make someone do something they do not want to do."
+          "pos": "n.",
+          "zh": "海燕",
+          "en": "A type of seabird known for its long wings and ability to glide over the ocean."
         },
         {
           "pos": "n.",
-          "zh": "力量",
-          "en": "Strength or energy as an attribute of physical action or movement."
+          "zh": "一种海鸟",
+          "en": "A bird that often lives near the sea and is known for its swift flying."
         }
       ],
       "examples": [
         {
-          "en": "The teacher had to force the students to complete their homework.",
-          "zh": "老师不得不强迫学生完成作业。"
+          "en": "The shearwater can travel thousands of miles in search of food.",
+          "zh": "海燕可以为了寻找食物而飞行数千英里。"
         },
         {
-          "en": "The force of the wind knocked down several trees in the storm.",
-          "zh": "风的力量在风暴中吹倒了几棵树。"
+          "en": "Shearwaters are often seen gliding gracefully over the waves.",
+          "zh": "海燕常常优雅地在海浪上滑行。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'force' comes from the Latin 'fortis', meaning strong or powerful."
+        "association": "Think of 'shear' as cutting through the air with their wings, and 'water' as they glide over the ocean."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=force&type=2",
-      "chapter": "基本词汇 动词200 Unit 7"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=shearwater&type=2",
+      "chapter": "认知词汇 动物分类 动物航行能力"
     },
     {
-      "word": "demand",
-      "pronunciation": "/dɪˈmænd/",
+      "word": "navigational skill",
+      "pronunciation": "/ˌnævɪˈɡeɪʃənl skɪl/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "要求",
-          "en": "To ask for something very strongly."
+          "pos": "n.",
+          "zh": "导航技能",
+          "en": "The ability to find your way or guide others in a space."
         },
         {
           "pos": "n.",
-          "zh": "需求",
-          "en": "The need or desire for something."
+          "zh": "航行技能",
+          "en": "Skills used to navigate, especially in unfamiliar areas."
         }
       ],
       "examples": [
         {
-          "en": "The teacher will demand better performance from her students.",
-          "zh": "老师会要求她的学生表现得更好。"
+          "en": "Her navigational skills helped us find the remote campsite.",
+          "zh": "她的导航技能帮助我们找到了偏远的营地。"
         },
         {
-          "en": "There is a high demand for skilled workers in this industry.",
-          "zh": "这个行业对技术工人的需求很高。"
+          "en": "He improved his navigational skills by practicing with a map.",
+          "zh": "他通过使用地图练习提高了自己的导航技能。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'demand' as 'demanding' something, which requires strong insistence."
+        "association": "Think of 'navigate' as a ship sailing smoothly, guiding you through unknown waters."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=demand&type=2",
-      "chapter": "基本词汇 动词200 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=navigational%20skill&type=2",
+      "chapter": "认知词汇 动物分类 动物航行能力"
     }
   ]
 }

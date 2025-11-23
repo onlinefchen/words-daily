@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-22T22:07:27.748Z",
+  "generated": "2025-11-23T22:07:41.825Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "robot",
-      "pronunciation": "/ˈroʊ.bɒt/",
+      "word": "toxin",
+      "pronunciation": "/ˈtɒksɪn/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "机器人",
-          "en": "A machine that can perform tasks automatically."
+          "zh": "毒素",
+          "en": "A substance that can cause harm or illness to living organisms."
         },
         {
-          "pos": "v.",
-          "zh": "自动化",
-          "en": "To automate a process using machines."
+          "pos": "n.",
+          "zh": "毒物",
+          "en": "A harmful chemical produced by a plant or animal."
         }
       ],
       "examples": [
         {
-          "en": "Many factories use robots to assemble products more efficiently.",
-          "zh": "许多工厂使用机器人更有效地组装产品。"
+          "en": "Certain plants produce toxins that can be very dangerous to humans.",
+          "zh": "某些植物产生的毒素对人类非常危险。"
         },
         {
-          "en": "Some people worry that robots could take away jobs from humans.",
-          "zh": "一些人担心机器人可能会夺走人类的工作。"
+          "en": "The scientist studied the effects of toxins on marine life.",
+          "zh": "科学家研究了毒素对海洋生物的影响。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'robot' as a 'worker' that never tires, performing tasks for humans."
+        "association": "Think of 'toxin' as 'toxic' plus 'in', indicating something harmful inside."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=robot&type=2",
-      "chapter": "核心词汇 科技发展 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=toxin&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "attend",
-      "pronunciation": "/əˈtɛnd/",
+      "word": "sustainable",
+      "pronunciation": "/səˈsteɪ.nə.bəl/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "参加",
-          "en": "To go to or be present at an event or place."
+          "pos": "adj.",
+          "zh": "可持续的",
+          "en": "Able to be maintained or continued over the long term."
         },
         {
-          "pos": "v.",
-          "zh": "注意",
-          "en": "To pay attention to something or someone."
+          "pos": "adj.",
+          "zh": "环保的",
+          "en": "Not harmful to the environment and able to support ecological balance."
         }
       ],
       "examples": [
         {
-          "en": "I will attend the conference next week to learn new things.",
-          "zh": "我下周会参加会议以学习新知识。"
+          "en": "The city is investing in sustainable energy sources like solar power.",
+          "zh": "这座城市正在投资可持续的能源来源，如太阳能。"
         },
         {
-          "en": "It is important to attend to your health and well-being.",
-          "zh": "关注你的健康和福祉是很重要的。"
+          "en": "Sustainable farming practices help protect our natural resources.",
+          "zh": "可持续的农业实践有助于保护我们的自然资源。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'attend' as 'to tend to' a place or event, like tending a garden."
+        "association": "Think of 'sustain' as keeping something going, like a plant that needs care to thrive."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=attend&type=2",
-      "chapter": "基本词汇 动词200 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sustainable&type=2",
+      "chapter": "核心词汇 文化与传统 Unit 5"
     }
   ]
 }

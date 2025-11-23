@@ -1,70 +1,70 @@
 {
-  "generated": "2025-11-22T22:07:27.748Z",
+  "generated": "2025-11-23T22:07:41.824Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "social",
-      "pronunciation": "/ˈsoʊ.ʃəl/",
+      "word": "literacy",
+      "pronunciation": "/ˈlɪt.ər.ə.si/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "识字能力",
+          "en": "The ability to read and write."
+        },
+        {
+          "pos": "n.",
+          "zh": "文化素养",
+          "en": "Knowledge or competence in a specific area, such as digital literacy."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Improving literacy rates is essential for national development.",
+          "zh": "提高识字率对国家发展至关重要。"
+        },
+        {
+          "en": "Digital literacy is important in our technology-driven world.",
+          "zh": "在我们以技术为驱动的世界中，数字素养很重要。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'literacy' comes from the Latin 'litera', meaning letter or alphabet.",
+        "association": "Think of 'literacy' as 'letter-city', where everyone can read and write."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=literacy&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 6"
+    },
+    {
+      "word": "hostile",
+      "pronunciation": "/ˈhɑːs.taɪl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "社会的",
-          "en": "Relating to society or the way people live together."
+          "zh": "敌对的",
+          "en": "Unfriendly or aggressive towards someone or something."
         },
         {
           "pos": "n.",
-          "zh": "社交活动",
-          "en": "Activities that involve interacting with other people."
+          "zh": "敌对者",
+          "en": "A person or group that opposes or is unfriendly."
         }
       ],
       "examples": [
         {
-          "en": "Social events help people connect and build friendships.",
-          "zh": "社交活动帮助人们建立联系和友谊。"
+          "en": "The hostile crowd shouted loudly against the new policy.",
+          "zh": "敌对的人群大声反对这项新政策。"
         },
         {
-          "en": "She enjoys socializing with her friends on weekends.",
-          "zh": "她喜欢在周末与朋友们社交。"
+          "en": "They faced hostile reactions from the community after the decision.",
+          "zh": "他们在做出决定后遭遇了社区的敌对反应。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'social' as related to 'society', which involves people interacting with each other."
+        "association": "Think of 'hostile' as 'host' + 'ile', where a 'host' can sometimes be unfriendly."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=social&type=2",
-      "chapter": "核心词汇 伦理与道德 Unit 5"
-    },
-    {
-      "word": "arthropod",
-      "pronunciation": "/ˈɑrθrəˌpɒd/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "节肢动物",
-          "en": "A type of animal with jointed legs and a hard outer shell."
-        },
-        {
-          "pos": "n.",
-          "zh": "昆虫等的总称",
-          "en": "The general term for animals like insects, spiders, and crustaceans."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Many arthropods, such as crabs and spiders, live in various habitats.",
-          "zh": "许多节肢动物，如螃蟹和蜘蛛，生活在不同的栖息地。"
-        },
-        {
-          "en": "Entomologists study the behavior of different arthropods regularly.",
-          "zh": "昆虫学家定期研究不同节肢动物的行为。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'arthropod' comes from the Greek words 'arthron' meaning joint and 'pous' meaning foot.",
-        "association": "Think of 'arthro-' as relating to joints and 'pod' as feet; arthropods have jointed legs."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=arthropod&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=hostile&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 9"
     }
   ]
 }

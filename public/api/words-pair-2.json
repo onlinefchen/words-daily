@@ -1,64 +1,69 @@
 {
-  "generated": "2025-11-22T22:07:27.748Z",
+  "generated": "2025-11-23T22:07:41.824Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "ubiquitous",
-      "pronunciation": "/juːˈbɪkwɪtəs/",
+      "word": "authentic",
+      "pronunciation": "/ɔːˈθentɪk/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "无处不在的",
-          "en": "Present everywhere; very common."
+          "zh": "真实的",
+          "en": "Real and genuine, not fake or copied."
+        },
+        {
+          "pos": "adj.",
+          "zh": "可信的",
+          "en": "Reliable and trustworthy, often used to describe sources or information."
         }
       ],
       "examples": [
         {
-          "en": "Smartphones have become ubiquitous in modern society.",
-          "zh": "智能手机在现代社会中无处不在。"
+          "en": "The museum displayed an authentic ancient artifact from Egypt.",
+          "zh": "博物馆展出了一个来自埃及的真实古代文物。"
         },
         {
-          "en": "The internet is a ubiquitous part of daily life for many people.",
-          "zh": "互联网是许多人日常生活中无处不在的一部分。"
+          "en": "She provided authentic evidence to support her claims in court.",
+          "zh": "她提供了真实的证据来支持她在法庭上的主张。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'ubiquitous' as 'you be quick to notice it everywhere'."
+        "etymology": "The word 'authentic' comes from the Greek 'authentikos', meaning 'original' or 'genuine'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ubiquitous&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 19"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=authentic&type=2",
+      "chapter": "核心词汇 文化与传统 Unit 1"
     },
     {
-      "word": "virtue",
-      "pronunciation": "/ˈvɜr.tʃu/",
+      "word": "harm",
+      "pronunciation": "/hɑrm/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "美德",
-          "en": "A good quality or trait that is considered morally good."
+          "pos": "v.",
+          "zh": "伤害",
+          "en": "To cause damage or injury to someone or something."
         },
         {
           "pos": "n.",
-          "zh": "优点",
-          "en": "An advantage or benefit that something has."
+          "zh": "伤害",
+          "en": "Physical or emotional damage that affects well-being."
         }
       ],
       "examples": [
         {
-          "en": "Honesty is a virtue that many people value highly.",
-          "zh": "诚实是一种许多人高度重视的美德。"
+          "en": "Smoking can harm your health in many serious ways.",
+          "zh": "吸烟可能会以多种严重方式伤害你的健康。"
         },
         {
-          "en": "Patience is a virtue that can lead to better outcomes.",
-          "zh": "耐心是一种可以带来更好结果的美德。"
+          "en": "The storm caused great harm to the coastal community.",
+          "zh": "风暴对沿海社区造成了巨大的伤害。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'virtue' as 'very true,' linking it to moral truth."
+        "association": "Think of 'harm' as 'arm' being hurt; both involve injury."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=virtue&type=2",
-      "chapter": "核心词汇 伦理与道德 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=harm&type=2",
+      "chapter": "基本词汇 动词200 Unit 7"
     }
   ]
 }

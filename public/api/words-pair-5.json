@@ -1,70 +1,67 @@
 {
-  "generated": "2025-11-22T22:07:27.748Z",
+  "generated": "2025-11-23T22:07:41.824Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "expand",
-      "pronunciation": "/ɪkˈspænd/",
+      "word": "homesick",
+      "pronunciation": "/ˈhoʊmˌsɪk/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "扩展，增加",
-          "en": "To make something larger or more extensive."
-        },
-        {
-          "pos": "v.",
-          "zh": "详细阐述",
-          "en": "To explain or discuss something in more detail."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The company plans to expand its operations into new markets.",
-          "zh": "公司计划将业务扩展到新市场。"
-        },
-        {
-          "en": "He decided to expand on his ideas during the presentation.",
-          "zh": "他决定在演示中详细阐述他的想法。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "Originates from the Latin word 'expandere', meaning 'to spread out'.",
-        "association": "Think of 'expand' as 'ex' (out) + 'pand' (to spread), like a balloon inflating."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=expand&type=2",
-      "chapter": "基本词汇 动词200 Unit 7"
-    },
-    {
-      "word": "ban",
-      "pronunciation": "/bæn/",
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "禁止",
-          "en": "To officially say that something is not allowed."
+          "pos": "adj.",
+          "zh": "思乡的",
+          "en": "Feeling sad because you are away from home."
         },
         {
           "pos": "n.",
-          "zh": "禁令",
-          "en": "An official order that prevents something from being done."
+          "zh": "思乡之情",
+          "en": "A feeling of sadness because you miss your home."
         }
       ],
       "examples": [
         {
-          "en": "The government decided to ban smoking in public places.",
-          "zh": "政府决定禁止在公共场所吸烟。"
+          "en": "After moving to a new city, I often feel homesick and lonely.",
+          "zh": "搬到新城市后，我常常感到思乡和孤独。"
         },
         {
-          "en": "There is a ban on plastic bags in this city.",
-          "zh": "这个城市对塑料袋实施了禁令。"
+          "en": "She wrote a letter home because she was feeling homesick.",
+          "zh": "她写了一封信回家，因为她感到思乡。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'ban' as a barrier that blocks something from happening."
+        "association": "Think of 'home' and 'sick' together; when you're far from home, you feel sick with longing."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ban&type=2",
-      "chapter": "基本词汇 动词200 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=homesick&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 5"
+    },
+    {
+      "word": "disciplinary",
+      "pronunciation": "/ˈdɪsəplɪˌnɛri/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "纪律的",
+          "en": "Related to the enforcement of rules and maintaining order."
+        },
+        {
+          "pos": "n.",
+          "zh": "纪律",
+          "en": "A system of rules that regulates behavior or activity."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The school has strict disciplinary measures for students who misbehave.",
+          "zh": "学校对不守规矩的学生有严格的纪律措施。"
+        },
+        {
+          "en": "Disciplinary action is necessary to ensure everyone follows the rules.",
+          "zh": "采取纪律行动是确保每个人遵守规则的必要措施。"
+        }
+      ],
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disciplinary&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 6"
     }
   ]
 }

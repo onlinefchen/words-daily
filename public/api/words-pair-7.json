@@ -1,70 +1,62 @@
 {
-  "generated": "2025-11-22T22:07:27.748Z",
+  "generated": "2025-11-23T22:07:41.824Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "undermine",
-      "pronunciation": "/ˌʌn.dɪˈmaɪn/",
+      "word": "indulge",
+      "pronunciation": "/ɪnˈdʌldʒ/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "削弱",
-          "en": "To weaken or damage something gradually."
+          "zh": "沉迷于，放纵",
+          "en": "To allow oneself to enjoy something, often excessively."
         },
         {
           "pos": "v.",
-          "zh": "破坏",
-          "en": "To sabotage or harm someone's efforts or position."
+          "zh": "满足，迎合",
+          "en": "To give in to someone's wishes, desires, or needs."
         }
       ],
       "examples": [
         {
-          "en": "The constant criticism will undermine her confidence over time.",
-          "zh": "持续的批评会逐渐削弱她的自信。"
+          "en": "She decided to indulge in a delicious dessert after dinner.",
+          "zh": "她决定在晚餐后享用一份美味的甜点。"
         },
         {
-          "en": "Corruption can undermine the integrity of a political system.",
-          "zh": "腐败可能会破坏政治体系的完整性。"
+          "en": "Many people indulge their children with gifts and treats.",
+          "zh": "许多人用礼物和款待来满足他们的孩子。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'undermine' comes from the Old English 'under' meaning 'below' and 'minan' meaning 'to mine or dig.' It suggests digging beneath something to weaken it."
+        "association": "Think of 'indulge' as 'in-dulge', where 'dulge' sounds like 'deluge', meaning to flood with enjoyment."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=undermine&type=2",
-      "chapter": "核心词汇 科技发展 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=indulge&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 6"
     },
     {
-      "word": "relic",
-      "pronunciation": "/ˈrɛlɪk/",
+      "word": "touch sensor",
+      "pronunciation": "/tʌtʃ ˈsɛnsər/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "遗物",
-          "en": "An object or item that has historical or cultural significance."
-        },
-        {
-          "pos": "n.",
-          "zh": "遗迹",
-          "en": "Something that remains from the past and is often of interest."
+          "zh": "触摸传感器",
+          "en": "A device that detects touch or pressure."
         }
       ],
       "examples": [
         {
-          "en": "The museum displayed a relic from an ancient civilization.",
-          "zh": "博物馆展出了一个古代文明的遗物。"
+          "en": "The touch sensor on my phone makes it easy to unlock.",
+          "zh": "我手机上的触摸传感器使解锁变得简单。"
         },
         {
-          "en": "Archaeologists uncovered a relic buried deep in the ground.",
-          "zh": "考古学家在地下深处发现了一个遗迹。"
+          "en": "Many modern appliances use touch sensors for user control.",
+          "zh": "许多现代设备使用触摸传感器来进行用户控制。"
         }
       ],
-      "memoryTips": {
-        "etymology": "The word 'relic' comes from the Latin 'reliquiae', meaning 'remains' or 'things left behind'.",
-        "association": "Think of 'relic' as something that 'relies' on the past for its significance."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=relic&type=2",
-      "chapter": "核心词汇 文化与传统 Unit 4"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=touch%20sensor&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

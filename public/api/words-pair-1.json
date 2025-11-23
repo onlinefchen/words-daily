@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-22T22:07:27.748Z",
+  "generated": "2025-11-23T22:07:41.824Z",
   "pair": 1,
   "count": 2,
   "words": [
     {
-      "word": "navigational accomplishment",
-      "pronunciation": "/ˌnævɪˈɡeɪʃənl əˈkəmplɪʃmənt/",
+      "word": "prone",
+      "pronunciation": "/proʊn/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "导航成就",
-          "en": "An achievement related to guiding or directing a journey."
+          "pos": "adj.",
+          "zh": "倾向于",
+          "en": "Having a tendency to do something."
         },
         {
-          "pos": "n.",
-          "zh": "航行成功",
-          "en": "A successful outcome in navigating a path or course."
+          "pos": "adj.",
+          "zh": "易受影响的",
+          "en": "Susceptible to something undesirable."
         }
       ],
       "examples": [
         {
-          "en": "The team's navigational accomplishment helped them reach the summit.",
-          "zh": "团队的导航成就帮助他们到达了峰顶。"
+          "en": "He is prone to making mistakes when he is tired.",
+          "zh": "他在疲倦时容易犯错误。"
         },
         {
-          "en": "Her navigational accomplishment in sailing was truly impressive.",
-          "zh": "她在航海方面的导航成就令人印象深刻。"
+          "en": "Children are often prone to infections during winter.",
+          "zh": "孩子们在冬季常常容易感染。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'navigation' as steering a ship, and 'accomplishment' as reaching your destination."
+        "association": "Think of 'prone' as being 'on the ground' or 'lying down', which can suggest vulnerability or tendency."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=navigational%20accomplishment&type=2",
-      "chapter": "认知词汇 动物分类 动物航行能力"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=prone&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 15"
     },
     {
-      "word": "curriculum",
-      "pronunciation": "/kəˈrɪk.jə.ləm/",
+      "word": "English as a second language",
+      "pronunciation": "/ˈɪŋɡlɪʃ æz ə ˈsɛkənd ˈlæŋɡwɪdʒ/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "课程",
-          "en": "A set of courses or lessons in a school or program."
+          "zh": "英语作为第二语言",
+          "en": "The use of English by people whose first language is not English."
         },
         {
-          "pos": "n.",
-          "zh": "教学大纲",
-          "en": "The subjects and topics that are taught in a particular educational program."
+          "pos": "phr.",
+          "zh": "英语作为第二语言的学习",
+          "en": "The process of learning English when it is not the native language."
         }
       ],
       "examples": [
         {
-          "en": "The school updated its curriculum to include more technology courses.",
-          "zh": "学校更新了课程，以增加更多的技术课程。"
+          "en": "Many students choose English as a second language to improve their job prospects.",
+          "zh": "许多学生选择英语作为第二语言以提高他们的就业前景。"
         },
         {
-          "en": "A well-rounded curriculum helps students develop various skills.",
-          "zh": "全面的课程有助于学生发展多种技能。"
+          "en": "Learning English as a second language can be challenging but rewarding.",
+          "zh": "学习英语作为第二语言可能具有挑战性，但也是有回报的。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'curriculum' as a 'currant' (a small fruit) that grows in a 'garden' of knowledge, representing the growth in learning."
+        "association": "Think of 'English' as a bridge connecting people from different languages."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=curriculum&type=2",
-      "chapter": "认知词汇 教育分类 双语教育"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=English%20as%20a%20second%20language&type=2",
+      "chapter": "阅读真题认知词汇 语言教学方法研究"
     }
   ]
 }

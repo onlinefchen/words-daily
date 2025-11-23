@@ -1,64 +1,67 @@
 {
-  "generated": "2025-11-22T22:07:27.748Z",
+  "generated": "2025-11-23T22:07:41.824Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "flexible",
-      "pronunciation": "/ˈflɛksəbl/",
+      "word": "naughty",
+      "pronunciation": "/ˈnɔːti/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "灵活的",
-          "en": "Able to change or adapt easily."
+          "zh": "调皮的",
+          "en": "Behaving badly or not following rules."
         },
         {
           "pos": "adj.",
-          "zh": "可变的",
-          "en": "Capable of bending or being bent without breaking."
+          "zh": "顽皮的",
+          "en": "A playful or mischievous way that can be amusing."
         }
       ],
       "examples": [
         {
-          "en": "She has a flexible schedule that allows her to travel often.",
-          "zh": "她的日程安排灵活，允许她经常旅行。"
+          "en": "The naughty child hid behind the sofa during the game.",
+          "zh": "那个调皮的孩子在游戏中躲在沙发后面。"
         },
         {
-          "en": "The yoga class is suitable for people of flexible abilities.",
-          "zh": "这个瑜伽课程适合各种灵活性水平的人。"
+          "en": "She gave him a naughty smile after telling a joke.",
+          "zh": "讲完笑话后，她给了他一个顽皮的微笑。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a flexible person bending in different directions, easily adapting to situations."
+        "association": "Think of 'naughty' as someone who is always trying to escape rules, like a cat who knocks things off a table."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=flexible&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=naughty&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 7"
     },
     {
-      "word": "earthquake prediction",
-      "pronunciation": "/ˈɜrθkweɪk prɪˈdɪkʃən/",
+      "word": "everlasting",
+      "pronunciation": "/ˈɛvərˌlæs.tɪŋ/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "地震预测",
-          "en": "The process of forecasting when and where an earthquake will occur."
+          "pos": "adj.",
+          "zh": "永恒的",
+          "en": "Lasting forever; continuing without end."
+        },
+        {
+          "pos": "adj.",
+          "zh": "持久的",
+          "en": "Enduring; not easily forgotten or diminished."
         }
       ],
       "examples": [
         {
-          "en": "Scientists are working on improving earthquake prediction methods.",
-          "zh": "科学家们正在努力改善地震预测方法。"
+          "en": "Her love for him was everlasting and unwavering through the years.",
+          "zh": "她对他的爱是永恒的，岁月中从未动摇。"
         },
         {
-          "en": "Accurate earthquake prediction could save many lives and reduce damage.",
-          "zh": "准确的地震预测可以拯救许多生命并减少损失。"
+          "en": "The artist created an everlasting masterpiece that inspired generations.",
+          "zh": "这位艺术家创作了一部永恒的杰作，激励了几代人。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'earthquake' as the shaking of the earth and 'prediction' as guessing what will happen, linking the two concepts."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=earthquake%20prediction&type=2",
-      "chapter": "认知词汇 自然分类 地震"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=everlasting&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 8"
     }
   ]
 }
