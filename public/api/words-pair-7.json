@@ -1,62 +1,70 @@
 {
-  "generated": "2025-11-23T22:07:41.824Z",
+  "generated": "2025-11-24T22:07:02.755Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "indulge",
-      "pronunciation": "/ɪnˈdʌldʒ/",
+      "word": "dispose",
+      "pronunciation": "/dɪˈspoʊz/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "沉迷于，放纵",
-          "en": "To allow oneself to enjoy something, often excessively."
+          "zh": "处理",
+          "en": "To arrange or deal with something in a particular way."
         },
         {
           "pos": "v.",
-          "zh": "满足，迎合",
-          "en": "To give in to someone's wishes, desires, or needs."
+          "zh": "处置",
+          "en": "To get rid of something or someone, especially in a decisive way."
         }
       ],
       "examples": [
         {
-          "en": "She decided to indulge in a delicious dessert after dinner.",
-          "zh": "她决定在晚餐后享用一份美味的甜点。"
+          "en": "It is important to dispose of waste properly to protect the environment.",
+          "zh": "正确处理垃圾对保护环境很重要。"
         },
         {
-          "en": "Many people indulge their children with gifts and treats.",
-          "zh": "许多人用礼物和款待来满足他们的孩子。"
+          "en": "She decided to dispose of the old furniture before moving.",
+          "zh": "她决定在搬家之前处理掉旧家具。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'indulge' as 'in-dulge', where 'dulge' sounds like 'deluge', meaning to flood with enjoyment."
+        "association": "Think of 'dispose' as 'dispose of' something you no longer need, like decluttering your space."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=indulge&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 6"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dispose&type=2",
+      "chapter": "基本词汇 动词200 Unit 6"
     },
     {
-      "word": "touch sensor",
-      "pronunciation": "/tʌtʃ ˈsɛnsər/",
+      "word": "poisonous",
+      "pronunciation": "/ˈpoʊ.zən.əs/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "触摸传感器",
-          "en": "A device that detects touch or pressure."
+          "pos": "adj.",
+          "zh": "有毒的",
+          "en": "Able to cause harm or death if ingested or touched."
+        },
+        {
+          "pos": "adj.",
+          "zh": "对人或环境有害的",
+          "en": "Harmful or destructive to living things or nature."
         }
       ],
       "examples": [
         {
-          "en": "The touch sensor on my phone makes it easy to unlock.",
-          "zh": "我手机上的触摸传感器使解锁变得简单。"
+          "en": "Some plants are beautiful but can be highly poisonous.",
+          "zh": "有些植物很美，但可能非常有毒。"
         },
         {
-          "en": "Many modern appliances use touch sensors for user control.",
-          "zh": "许多现代设备使用触摸传感器来进行用户控制。"
+          "en": "The snake is known for its poisonous bite, which can be deadly.",
+          "zh": "这种蛇以其有毒的咬伤而闻名，可能致命。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=touch%20sensor&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "memoryTips": {
+        "association": "Think of 'poison' in 'poisonous', as both relate to harmful substances.",
+        "mnemonic": "Poison + ous = poisonous; remember that 'ous' means full of."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=poisonous&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 14"
     }
   ]
 }

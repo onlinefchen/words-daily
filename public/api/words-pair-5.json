@@ -1,67 +1,69 @@
 {
-  "generated": "2025-11-23T22:07:41.824Z",
+  "generated": "2025-11-24T22:07:02.754Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "homesick",
-      "pronunciation": "/ˈhoʊmˌsɪk/",
+      "word": "realise",
+      "pronunciation": "/ˈriːəˌlaɪz/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "思乡的",
-          "en": "Feeling sad because you are away from home."
+          "pos": "v.",
+          "zh": "意识到",
+          "en": "To become aware of something or understand it clearly."
         },
         {
-          "pos": "n.",
-          "zh": "思乡之情",
-          "en": "A feeling of sadness because you miss your home."
+          "pos": "v.",
+          "zh": "实现",
+          "en": "To make something happen or to bring it into existence."
         }
       ],
       "examples": [
         {
-          "en": "After moving to a new city, I often feel homesick and lonely.",
-          "zh": "搬到新城市后，我常常感到思乡和孤独。"
+          "en": "I didn’t realize how important this decision was for my future.",
+          "zh": "我没有意识到这个决定对我的未来有多重要。"
         },
         {
-          "en": "She wrote a letter home because she was feeling homesick.",
-          "zh": "她写了一封信回家，因为她感到思乡。"
+          "en": "She hopes to realize her dream of becoming a doctor one day.",
+          "zh": "她希望有一天能实现她成为医生的梦想。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'home' and 'sick' together; when you're far from home, you feel sick with longing."
+        "association": "Think of 'real' in 'realize' as making something real or true."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=homesick&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=realise&type=2",
+      "chapter": "基本词汇 动词200 Unit 9"
     },
     {
-      "word": "disciplinary",
-      "pronunciation": "/ˈdɪsəplɪˌnɛri/",
+      "word": "deserve",
+      "pronunciation": "/dɪˈzɜrv/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "纪律的",
-          "en": "Related to the enforcement of rules and maintaining order."
+          "pos": "v.",
+          "zh": "应得",
+          "en": "to have earned something because of your actions or qualities."
         },
         {
-          "pos": "n.",
-          "zh": "纪律",
-          "en": "A system of rules that regulates behavior or activity."
+          "pos": "v.",
+          "zh": "值得",
+          "en": "to be worthy of something, such as praise or reward."
         }
       ],
       "examples": [
         {
-          "en": "The school has strict disciplinary measures for students who misbehave.",
-          "zh": "学校对不守规矩的学生有严格的纪律措施。"
+          "en": "She deserves recognition for her hard work and dedication.",
+          "zh": "她因辛勤工作和奉献精神而值得被认可。"
         },
         {
-          "en": "Disciplinary action is necessary to ensure everyone follows the rules.",
-          "zh": "采取纪律行动是确保每个人遵守规则的必要措施。"
+          "en": "After all his efforts, he truly deserves a break.",
+          "zh": "经过他所有的努力，他确实值得休息一下。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disciplinary&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 6"
+      "memoryTips": {
+        "association": "Think of 'deserve' as 'de-serve', meaning you have served well enough to earn something."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=deserve&type=2",
+      "chapter": "基本词汇 动词200 Unit 5"
     }
   ]
 }

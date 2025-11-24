@@ -1,70 +1,67 @@
 {
-  "generated": "2025-11-23T22:07:41.824Z",
+  "generated": "2025-11-24T22:07:02.755Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "literacy",
-      "pronunciation": "/ˈlɪt.ər.ə.si/",
+      "word": "gain",
+      "pronunciation": "/ɡeɪn/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "识字能力",
-          "en": "The ability to read and write."
+          "pos": "v.",
+          "zh": "获得",
+          "en": "To obtain or receive something."
         },
         {
           "pos": "n.",
-          "zh": "文化素养",
-          "en": "Knowledge or competence in a specific area, such as digital literacy."
+          "zh": "收益",
+          "en": "An increase or advantage gained from something."
         }
       ],
       "examples": [
         {
-          "en": "Improving literacy rates is essential for national development.",
-          "zh": "提高识字率对国家发展至关重要。"
+          "en": "She hopes to gain valuable experience from this internship.",
+          "zh": "她希望通过这次实习获得宝贵的经验。"
         },
         {
-          "en": "Digital literacy is important in our technology-driven world.",
-          "zh": "在我们以技术为驱动的世界中，数字素养很重要。"
+          "en": "The company reported a significant gain in profits this quarter.",
+          "zh": "该公司报告称本季度利润显著增加。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'literacy' comes from the Latin 'litera', meaning letter or alphabet.",
-        "association": "Think of 'literacy' as 'letter-city', where everyone can read and write."
+        "association": "Think of 'gain' as 'getting a gain,' like lifting weights to gain strength."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=literacy&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 6"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=gain&type=2",
+      "chapter": "基本词汇 动词200 Unit 7"
     },
     {
-      "word": "hostile",
-      "pronunciation": "/ˈhɑːs.taɪl/",
+      "word": "ridiculous",
+      "pronunciation": "/rɪˈdɪkjʊləs/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "敌对的",
-          "en": "Unfriendly or aggressive towards someone or something."
+          "zh": "荒谬的",
+          "en": "Something that is very silly or unreasonable."
         },
         {
-          "pos": "n.",
-          "zh": "敌对者",
-          "en": "A person or group that opposes or is unfriendly."
+          "pos": "adj.",
+          "zh": "可笑的",
+          "en": "Something that causes laughter because it is absurd or foolish."
         }
       ],
       "examples": [
         {
-          "en": "The hostile crowd shouted loudly against the new policy.",
-          "zh": "敌对的人群大声反对这项新政策。"
+          "en": "It is ridiculous to think that he can finish the project alone.",
+          "zh": "认为他可以独自完成这个项目是荒谬的。"
         },
         {
-          "en": "They faced hostile reactions from the community after the decision.",
-          "zh": "他们在做出决定后遭遇了社区的敌对反应。"
+          "en": "Her excuse for being late was so ridiculous that everyone laughed.",
+          "zh": "她迟到的借口太可笑了，大家都笑了。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'hostile' as 'host' + 'ile', where a 'host' can sometimes be unfriendly."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=hostile&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 9"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ridiculous&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 16"
     }
   ]
 }

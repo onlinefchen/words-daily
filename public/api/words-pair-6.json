@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-23T22:07:41.824Z",
+  "generated": "2025-11-24T22:07:02.755Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "shearwater",
-      "pronunciation": "/ˈʃɪrˌwɔːtər/",
+      "word": "infringement",
+      "pronunciation": "/ɪnˈfrɪndʒmənt/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "海燕",
-          "en": "A type of seabird known for its long wings and ability to glide over the ocean."
+          "zh": "侵犯，违背",
+          "en": "A violation of a law or a right."
         },
         {
           "pos": "n.",
-          "zh": "一种海鸟",
-          "en": "A bird that often lives near the sea and is known for its swift flying."
+          "zh": "干扰",
+          "en": "An act that interferes with something."
         }
       ],
       "examples": [
         {
-          "en": "The shearwater can travel thousands of miles in search of food.",
-          "zh": "海燕可以为了寻找食物而飞行数千英里。"
+          "en": "The new law aims to prevent copyright infringement.",
+          "zh": "新法律旨在防止版权侵犯。"
         },
         {
-          "en": "Shearwaters are often seen gliding gracefully over the waves.",
-          "zh": "海燕常常优雅地在海浪上滑行。"
+          "en": "His actions were viewed as an infringement of privacy rights.",
+          "zh": "他的行为被视为对隐私权的侵犯。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'shear' as cutting through the air with their wings, and 'water' as they glide over the ocean."
+        "etymology": "The word 'infringement' comes from the Latin 'infringere', meaning 'to break' or 'to violate'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=shearwater&type=2",
-      "chapter": "认知词汇 动物分类 动物航行能力"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=infringement&type=2",
+      "chapter": "基本词汇 名词200 Unit 5"
     },
     {
-      "word": "navigational skill",
-      "pronunciation": "/ˌnævɪˈɡeɪʃənl skɪl/",
+      "word": "undesirable",
+      "pronunciation": "/ˌʌn.dɪˈzaɪə.bəl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "导航技能",
-          "en": "The ability to find your way or guide others in a space."
+          "pos": "adj.",
+          "zh": "不受欢迎的",
+          "en": "Not wanted or liked; not desirable."
         },
         {
-          "pos": "n.",
-          "zh": "航行技能",
-          "en": "Skills used to navigate, especially in unfamiliar areas."
+          "pos": "adj.",
+          "zh": "不利的",
+          "en": "Causing a disadvantage or harm."
         }
       ],
       "examples": [
         {
-          "en": "Her navigational skills helped us find the remote campsite.",
-          "zh": "她的导航技能帮助我们找到了偏远的营地。"
+          "en": "Living in a noisy area can be quite undesirable for many people.",
+          "zh": "住在一个嘈杂的地区对许多人来说是相当不受欢迎的。"
         },
         {
-          "en": "He improved his navigational skills by practicing with a map.",
-          "zh": "他通过使用地图练习提高了自己的导航技能。"
+          "en": "The undesirable effects of pollution are evident in our environment.",
+          "zh": "污染的负面影响在我们的环境中显而易见。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'navigate' as a ship sailing smoothly, guiding you through unknown waters."
+        "association": "Think of 'undesirable' as 'not desirable', which can help you remember its meaning."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=navigational%20skill&type=2",
-      "chapter": "认知词汇 动物分类 动物航行能力"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=undesirable&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 19"
     }
   ]
 }

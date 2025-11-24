@@ -1,67 +1,67 @@
 {
-  "generated": "2025-11-23T22:07:41.824Z",
+  "generated": "2025-11-24T22:07:02.755Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "naughty",
-      "pronunciation": "/ˈnɔːti/",
+      "word": "undermine",
+      "pronunciation": "/ˌʌn.dɪˈmaɪn/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "调皮的",
-          "en": "Behaving badly or not following rules."
+          "pos": "v.",
+          "zh": "削弱；损害",
+          "en": "To weaken or damage something, especially gradually."
         },
         {
-          "pos": "adj.",
-          "zh": "顽皮的",
-          "en": "A playful or mischievous way that can be amusing."
+          "pos": "v.",
+          "zh": "破坏",
+          "en": "To make something less effective or successful."
         }
       ],
       "examples": [
         {
-          "en": "The naughty child hid behind the sofa during the game.",
-          "zh": "那个调皮的孩子在游戏中躲在沙发后面。"
+          "en": "The constant criticism may undermine her confidence in the project.",
+          "zh": "持续的批评可能会削弱她对项目的信心。"
         },
         {
-          "en": "She gave him a naughty smile after telling a joke.",
-          "zh": "讲完笑话后，她给了他一个顽皮的微笑。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'naughty' as someone who is always trying to escape rules, like a cat who knocks things off a table."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=naughty&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 7"
-    },
-    {
-      "word": "everlasting",
-      "pronunciation": "/ˈɛvərˌlæs.tɪŋ/",
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "永恒的",
-          "en": "Lasting forever; continuing without end."
-        },
-        {
-          "pos": "adj.",
-          "zh": "持久的",
-          "en": "Enduring; not easily forgotten or diminished."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Her love for him was everlasting and unwavering through the years.",
-          "zh": "她对他的爱是永恒的，岁月中从未动摇。"
-        },
-        {
-          "en": "The artist created an everlasting masterpiece that inspired generations.",
-          "zh": "这位艺术家创作了一部永恒的杰作，激励了几代人。"
+          "en": "Poor planning can undermine the success of any event.",
+          "zh": "糟糕的规划会破坏任何活动的成功。"
         }
       ],
       "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=everlasting&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 8"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=undermine&type=2",
+      "chapter": "基本词汇 动词200 Unit 10"
+    },
+    {
+      "word": "precious",
+      "pronunciation": "/ˈprɛʃəs/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "珍贵的",
+          "en": "Something that is valuable and important."
+        },
+        {
+          "pos": "adj.",
+          "zh": "可爱的",
+          "en": "Something that is dear or beloved."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Her engagement ring is a precious family heirloom.",
+          "zh": "她的订婚戒指是一件珍贵的家族传家宝。"
+        },
+        {
+          "en": "Time spent with family is the most precious gift.",
+          "zh": "与家人共度的时光是最珍贵的礼物。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'precious' as something you 'treasure' or 'cherish' in life."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=precious&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 15"
     }
   ]
 }

@@ -1,70 +1,67 @@
 {
-  "generated": "2025-11-23T22:07:41.824Z",
+  "generated": "2025-11-24T22:07:02.754Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "exploit",
-      "pronunciation": "/ɪkˈsplɔɪt/",
+      "word": "cherish",
+      "pronunciation": "/ˈtʃɛrɪʃ/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "利用",
-          "en": "To make use of something for one's own benefit."
+          "zh": "珍惜",
+          "en": "To hold something dear and value it greatly."
         },
         {
-          "pos": "n.",
-          "zh": "剥削",
-          "en": "An act of taking advantage of someone or something."
+          "pos": "v.",
+          "zh": "爱护",
+          "en": "To care for someone or something with affection."
         }
       ],
       "examples": [
         {
-          "en": "The company aims to exploit new technology for better efficiency.",
-          "zh": "该公司旨在利用新技术提高效率。"
+          "en": "I cherish the memories of my childhood spent with my family.",
+          "zh": "我珍惜与家人共度的童年回忆。"
         },
         {
-          "en": "Many workers feel they are being exploited by their employers.",
-          "zh": "许多工人感到自己被雇主剥削。"
+          "en": "She cherishes her friend's support during tough times.",
+          "zh": "她珍惜朋友在艰难时期的支持。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'exploit' comes from the Latin 'exploitatio', meaning 'to unfold' or 'to set forth'.",
-        "association": "Think of 'exploit' as 'using' an 'opportunity' to gain something valuable."
+        "association": "Think of 'cherish' as 'cheerish', like cheering for something or someone you love."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=exploit&type=2",
-      "chapter": "核心词汇 民主与权利 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cherish&type=2",
+      "chapter": "基本词汇 动词200 Unit 3"
     },
     {
-      "word": "intolerable",
-      "pronunciation": "/ɪnˈtɒlərəbl/",
+      "word": "contaminate",
+      "pronunciation": "/kənˈtæmɪneɪt/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "不可忍受的",
-          "en": "Something that is very difficult to accept or endure."
+          "pos": "v.",
+          "zh": "污染",
+          "en": "To make something dirty or unsafe by adding harmful substances."
         },
         {
-          "pos": "adj.",
-          "zh": "无法容忍的",
-          "en": "A situation that causes great discomfort or annoyance."
+          "pos": "v.",
+          "zh": "感染",
+          "en": "To introduce harmful bacteria or viruses into something."
         }
       ],
       "examples": [
         {
-          "en": "The heat during summer can sometimes be intolerable for many people.",
-          "zh": "夏天的热量对很多人来说有时是无法忍受的。"
+          "en": "Pollution can contaminate the water supply in many cities.",
+          "zh": "污染会污染许多城市的水源。"
         },
         {
-          "en": "Living in an intolerable environment affects mental health significantly.",
-          "zh": "生活在一个不可忍受的环境中会严重影响心理健康。"
+          "en": "Improper disposal of chemicals can contaminate the soil.",
+          "zh": "不当处理化学品会污染土壤。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'tolerate' as being able to accept something. The prefix 'in-' means not, so 'intolerable' is something you cannot tolerate."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=intolerable&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 11"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=contaminate&type=2",
+      "chapter": "核心词汇 科技发展 Unit 1"
     }
   ]
 }

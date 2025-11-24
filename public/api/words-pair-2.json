@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-23T22:07:41.824Z",
+  "generated": "2025-11-24T22:07:02.754Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "authentic",
-      "pronunciation": "/ɔːˈθentɪk/",
+      "word": "disposable",
+      "pronunciation": "/dɪˈspoʊ.zə.bəl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "真实的",
-          "en": "Real and genuine, not fake or copied."
+          "zh": "一次性的",
+          "en": "Designed to be used once and then thrown away."
         },
         {
           "pos": "adj.",
-          "zh": "可信的",
-          "en": "Reliable and trustworthy, often used to describe sources or information."
+          "zh": "可处理的",
+          "en": "Able to be disposed of without concern."
         }
       ],
       "examples": [
         {
-          "en": "The museum displayed an authentic ancient artifact from Egypt.",
-          "zh": "博物馆展出了一个来自埃及的真实古代文物。"
+          "en": "Many restaurants use disposable utensils to reduce cleaning time.",
+          "zh": "许多餐馆使用一次性餐具来减少清洗时间。"
         },
         {
-          "en": "She provided authentic evidence to support her claims in court.",
-          "zh": "她提供了真实的证据来支持她在法庭上的主张。"
+          "en": "The company promotes the use of disposable products for convenience.",
+          "zh": "该公司提倡使用一次性产品以方便。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'authentic' comes from the Greek 'authentikos', meaning 'original' or 'genuine'."
+        "association": "Think of 'disposable' as 'dispose of' – something you can throw away after use."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=authentic&type=2",
-      "chapter": "核心词汇 文化与传统 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disposable&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 6"
     },
     {
-      "word": "harm",
-      "pronunciation": "/hɑrm/",
+      "word": "stubborn",
+      "pronunciation": "/ˈstʌb.ərn/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "伤害",
-          "en": "To cause damage or injury to someone or something."
+          "pos": "adj.",
+          "zh": "固执的",
+          "en": "Having a strong will and not willing to change."
         },
         {
-          "pos": "n.",
-          "zh": "伤害",
-          "en": "Physical or emotional damage that affects well-being."
+          "pos": "adj.",
+          "zh": "难以处理的",
+          "en": "Difficult to persuade or change one's mind."
         }
       ],
       "examples": [
         {
-          "en": "Smoking can harm your health in many serious ways.",
-          "zh": "吸烟可能会以多种严重方式伤害你的健康。"
+          "en": "She was too stubborn to admit she was wrong.",
+          "zh": "她太固执了，无法承认自己错了。"
         },
         {
-          "en": "The storm caused great harm to the coastal community.",
-          "zh": "风暴对沿海社区造成了巨大的伤害。"
+          "en": "His stubborn attitude often leads to arguments with others.",
+          "zh": "他固执的态度常常导致与他人的争吵。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'harm' as 'arm' being hurt; both involve injury."
+        "association": "Think of a 'stubborn mule' that refuses to move, symbolizing stubbornness."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=harm&type=2",
-      "chapter": "基本词汇 动词200 Unit 7"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=stubborn&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 17"
     }
   ]
 }

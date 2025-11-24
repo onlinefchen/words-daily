@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-23T22:07:41.824Z",
+  "generated": "2025-11-24T22:07:02.754Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "loggerhead turtle",
-      "pronunciation": "/ˈlɔɡərˌhɛd ˈtɜːrtl/",
+      "word": "smelly",
+      "pronunciation": "/ˈsmɛli/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "抹香海龟",
-          "en": "A large sea turtle known for its big head and strong jaws."
+          "pos": "adj.",
+          "zh": "有气味的",
+          "en": "Having a strong or unpleasant smell."
         },
         {
-          "pos": "n.",
-          "zh": "一种海洋生物",
-          "en": "A type of marine animal that lives in oceans and feeds mainly on jellyfish."
+          "pos": "adj.",
+          "zh": "发臭的",
+          "en": "Releasing a bad odor that is easily detected."
         }
       ],
       "examples": [
         {
-          "en": "Loggerhead turtles are often seen nesting on sandy beaches.",
-          "zh": "抹香海龟常常在沙滩上筑巢。"
+          "en": "The smelly garbage attracted many flies around the bin.",
+          "zh": "臭垃圾吸引了很多苍蝇飞到垃圾桶周围。"
         },
         {
-          "en": "Conservation efforts are crucial for protecting loggerhead turtle populations.",
-          "zh": "保护抹香海龟种群的努力至关重要。"
+          "en": "After the rain, the wet dog had a smelly odor that filled the room.",
+          "zh": "下雨后，湿狗散发出一种臭味，充满了房间。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'loggerhead' as someone who argues a lot, like a turtle that stands its ground."
+        "association": "Think of 'smelly' as similar to 'smell' with an extra 'y' for 'yuck'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=loggerhead%20turtle&type=2",
-      "chapter": "认知词汇 动物分类 动物航行能力"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=smelly&type=2",
+      "chapter": "核心词汇 环境保护 Unit 5"
     },
     {
-      "word": "overexploitation",
-      "pronunciation": "/ˌoʊvərɪkˈsplɔɪteɪʃən/",
+      "word": "atmosphere",
+      "pronunciation": "/ˈætməsˌfɪr/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "过度开发",
-          "en": "The excessive use of resources that can lead to their depletion."
+          "zh": "气氛",
+          "en": "The mood or feeling in a place."
         },
         {
           "pos": "n.",
-          "zh": "过度利用",
-          "en": "The unsustainable exploitation of natural resources."
+          "zh": "大气层",
+          "en": "The layer of gases surrounding the Earth."
         }
       ],
       "examples": [
         {
-          "en": "Overexploitation of fish stocks can lead to a severe ecological imbalance.",
-          "zh": "鱼类过度开发可能导致严重的生态失衡。"
+          "en": "The atmosphere at the concert was electric and exciting.",
+          "zh": "音乐会的气氛令人振奋和激动。"
         },
         {
-          "en": "The forest suffered from overexploitation, resulting in habitat loss for many species.",
-          "zh": "森林因过度开发而遭受破坏，导致许多物种失去栖息地。"
+          "en": "The Earth's atmosphere protects us from harmful solar radiation.",
+          "zh": "地球的大气层保护我们免受有害的太阳辐射。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'over' as 'too much' and 'exploitation' as 'using something up'. Together, it means using too much of something."
+        "association": "Think of 'atmosphere' as the 'air' or 'mood' that surrounds you in different places."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=overexploitation&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=atmosphere&type=2",
+      "chapter": "基本词汇 名词200 Unit 1"
     }
   ]
 }

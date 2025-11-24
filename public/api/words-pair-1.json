@@ -1,69 +1,64 @@
 {
-  "generated": "2025-11-23T22:07:41.824Z",
+  "generated": "2025-11-24T22:07:02.754Z",
   "pair": 1,
   "count": 2,
   "words": [
     {
-      "word": "prone",
-      "pronunciation": "/proʊn/",
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "倾向于",
-          "en": "Having a tendency to do something."
-        },
-        {
-          "pos": "adj.",
-          "zh": "易受影响的",
-          "en": "Susceptible to something undesirable."
-        }
-      ],
-      "examples": [
-        {
-          "en": "He is prone to making mistakes when he is tired.",
-          "zh": "他在疲倦时容易犯错误。"
-        },
-        {
-          "en": "Children are often prone to infections during winter.",
-          "zh": "孩子们在冬季常常容易感染。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'prone' as being 'on the ground' or 'lying down', which can suggest vulnerability or tendency."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=prone&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 15"
-    },
-    {
-      "word": "English as a second language",
-      "pronunciation": "/ˈɪŋɡlɪʃ æz ə ˈsɛkənd ˈlæŋɡwɪdʒ/",
+      "word": "alphabetic character",
+      "pronunciation": "/ˌælfəˈbɛtɪk ˈkærɪktər/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "英语作为第二语言",
-          "en": "The use of English by people whose first language is not English."
+          "zh": "字母字符",
+          "en": "A symbol representing a letter in an alphabet."
         },
         {
-          "pos": "phr.",
-          "zh": "英语作为第二语言的学习",
-          "en": "The process of learning English when it is not the native language."
+          "pos": "n.",
+          "zh": "字母",
+          "en": "One of the letters used in writing languages."
         }
       ],
       "examples": [
         {
-          "en": "Many students choose English as a second language to improve their job prospects.",
-          "zh": "许多学生选择英语作为第二语言以提高他们的就业前景。"
+          "en": "Each alphabetic character has a unique sound in the language.",
+          "zh": "每个字母字符在语言中都有独特的发音。"
         },
         {
-          "en": "Learning English as a second language can be challenging but rewarding.",
-          "zh": "学习英语作为第二语言可能具有挑战性，但也是有回报的。"
+          "en": "Please write your name using alphabetic characters only.",
+          "zh": "请仅使用字母字符书写您的名字。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'English' as a bridge connecting people from different languages."
+        "association": "Think of 'alphabetic' as related to the 'alphabet', which consists of characters."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=English%20as%20a%20second%20language&type=2",
-      "chapter": "阅读真题认知词汇 语言教学方法研究"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=alphabetic%20character&type=2",
+      "chapter": "认知词汇 科技分类 莫尔斯电码"
+    },
+    {
+      "word": "dieter",
+      "pronunciation": "/ˈdaɪtər/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "节食者",
+          "en": "A person who is trying to lose weight by eating less food."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many dieters find it challenging to resist sugary snacks.",
+          "zh": "许多节食者发现抵挡甜食很有挑战性。"
+        },
+        {
+          "en": "As a dieter, she carefully tracks her daily calorie intake.",
+          "zh": "作为一个节食者，她仔细记录每日的卡路里摄入。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'diet' in 'dieter' as someone who is on a 'diet' to control their eating."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dieter&type=2",
+      "chapter": "核心词汇 健康话题 Unit 2"
     }
   ]
 }
