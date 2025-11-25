@@ -1,69 +1,70 @@
 {
-  "generated": "2025-11-24T22:07:02.754Z",
+  "generated": "2025-11-25T22:08:06.461Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "realise",
-      "pronunciation": "/ˈriːəˌlaɪz/",
+      "word": "breakdown",
+      "pronunciation": "/ˈbreɪkˌdaʊn/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "意识到",
-          "en": "To become aware of something or understand it clearly."
+          "pos": "n.",
+          "zh": "故障",
+          "en": "A failure in a system or process that stops it from working."
         },
         {
           "pos": "v.",
-          "zh": "实现",
-          "en": "To make something happen or to bring it into existence."
+          "zh": "崩溃",
+          "en": "To stop functioning or to collapse emotionally."
         }
       ],
       "examples": [
         {
-          "en": "I didn’t realize how important this decision was for my future.",
-          "zh": "我没有意识到这个决定对我的未来有多重要。"
+          "en": "The car had a breakdown on the highway during our trip.",
+          "zh": "在我们的旅行中，汽车在高速公路上发生了故障。"
         },
         {
-          "en": "She hopes to realize her dream of becoming a doctor one day.",
-          "zh": "她希望有一天能实现她成为医生的梦想。"
+          "en": "She experienced a breakdown after the stressful week at work.",
+          "zh": "在工作压力很大的那一周后，她经历了一次崩溃。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'real' in 'realize' as making something real or true."
+        "association": "Think of a 'breakdown' as a 'break' in a 'down' system.",
+        "mnemonic": "Break + Down = Breakdown; imagine something breaking and going down."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=realise&type=2",
-      "chapter": "基本词汇 动词200 Unit 9"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=breakdown&type=2",
+      "chapter": "基本词汇 名词200 Unit 1"
     },
     {
-      "word": "deserve",
-      "pronunciation": "/dɪˈzɜrv/",
+      "word": "worthy",
+      "pronunciation": "/ˈwɜrði/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "应得",
-          "en": "to have earned something because of your actions or qualities."
+          "pos": "adj.",
+          "zh": "值得的",
+          "en": "Deserving respect, attention, or value."
         },
         {
-          "pos": "v.",
-          "zh": "值得",
-          "en": "to be worthy of something, such as praise or reward."
+          "pos": "adj.",
+          "zh": "有价值的",
+          "en": "Having worth or value; significant in some way."
         }
       ],
       "examples": [
         {
-          "en": "She deserves recognition for her hard work and dedication.",
-          "zh": "她因辛勤工作和奉献精神而值得被认可。"
+          "en": "Her dedication to helping others makes her truly worthy of admiration.",
+          "zh": "她对帮助他人的奉献精神使她值得钦佩。"
         },
         {
-          "en": "After all his efforts, he truly deserves a break.",
-          "zh": "经过他所有的努力，他确实值得休息一下。"
+          "en": "The charity event was worthy of everyone's support and participation.",
+          "zh": "这场慈善活动值得每个人的支持和参与。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'deserve' as 'de-serve', meaning you have served well enough to earn something."
+        "association": "Think of 'worthy' as someone who is worthy of a reward or praise, reinforcing its meaning."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=deserve&type=2",
-      "chapter": "基本词汇 动词200 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=worthy&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 10"
     }
   ]
 }

@@ -1,69 +1,67 @@
 {
-  "generated": "2025-11-24T22:07:02.755Z",
+  "generated": "2025-11-25T22:08:06.461Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "intake",
-      "pronunciation": "/ˈɪnˌteɪk/",
+      "word": "schooling",
+      "pronunciation": "/ˈskuːlɪŋ/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "摄入量",
-          "en": "The amount of something that is taken in, such as food or information."
+          "zh": "教育，学校教育",
+          "en": "The process of being educated, usually in a school."
         },
         {
-          "pos": "v.",
-          "zh": "摄取",
-          "en": "To take in or absorb something, like nutrients or data."
+          "pos": "n.",
+          "zh": "学业，学术",
+          "en": "The learning and training that occurs in a school environment."
         }
       ],
       "examples": [
         {
-          "en": "The daily intake of vitamins is essential for good health.",
-          "zh": "每天摄入维生素对健康至关重要。"
+          "en": "Many children benefit greatly from quality schooling in their early years.",
+          "zh": "许多孩子在早期接受优质教育会受益匪浅。"
         },
         {
-          "en": "She decided to increase her water intake during the summer.",
-          "zh": "她决定在夏天增加水的摄入量。"
+          "en": "Access to good schooling is essential for a successful future.",
+          "zh": "获得良好的教育对成功的未来至关重要。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'intake' as 'in-take', like taking something in."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=intake&type=2",
-      "chapter": "基本词汇 名词200 Unit 5"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=schooling&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 9"
     },
     {
-      "word": "savage",
-      "pronunciation": "/ˈsævɪdʒ/",
+      "word": "potential",
+      "pronunciation": "/pəˈtɛnʃəl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "野蛮的",
-          "en": "Extremely cruel or violent."
+          "zh": "潜在的",
+          "en": "Having the ability to develop into something in the future."
         },
         {
           "pos": "n.",
-          "zh": "野蛮人",
-          "en": "A fierce or brutal person."
+          "zh": "潜力",
+          "en": "The possibility of something happening or someone achieving something."
         }
       ],
       "examples": [
         {
-          "en": "The savage attack left the villagers in a state of shock.",
-          "zh": "这次野蛮的袭击让村民们感到震惊。"
+          "en": "The student has great potential to excel in mathematics.",
+          "zh": "这位学生在数学方面有很大的潜力。"
         },
         {
-          "en": "He was known as a savage warrior in ancient times.",
-          "zh": "在古代，他被称为野蛮的战士。"
+          "en": "Many cities have the potential to become major tourist destinations.",
+          "zh": "许多城市有潜力成为主要的旅游目的地。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'savage' comes from the Latin 'silvaticus', meaning 'of the woods', which relates to wildness."
+        "association": "Think of 'potential' as 'power in waiting'—something that can grow stronger."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=savage&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 16"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=potential&type=2",
+      "chapter": "基本词汇 名词200 Unit 7"
     }
   ]
 }

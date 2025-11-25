@@ -1,69 +1,67 @@
 {
-  "generated": "2025-11-24T22:07:02.754Z",
+  "generated": "2025-11-25T22:08:06.460Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "disposable",
-      "pronunciation": "/dɪˈspoʊ.zə.bəl/",
+      "word": "macaque",
+      "pronunciation": "/məˈkɑːk/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "一次性的",
-          "en": "Designed to be used once and then thrown away."
+          "pos": "n.",
+          "zh": "猕猴",
+          "en": "A type of monkey found in Asia and North Africa."
         },
         {
-          "pos": "adj.",
-          "zh": "可处理的",
-          "en": "Able to be disposed of without concern."
+          "pos": "n.",
+          "zh": "猕猴的种类",
+          "en": "Any of several species of long-tailed monkeys."
         }
       ],
       "examples": [
         {
-          "en": "Many restaurants use disposable utensils to reduce cleaning time.",
-          "zh": "许多餐馆使用一次性餐具来减少清洗时间。"
+          "en": "The macaque is known for its intelligence and social behavior.",
+          "zh": "猕猴因其智力和社交行为而闻名。"
         },
         {
-          "en": "The company promotes the use of disposable products for convenience.",
-          "zh": "该公司提倡使用一次性产品以方便。"
+          "en": "In some cultures, macaques are considered sacred animals.",
+          "zh": "在一些文化中，猕猴被视为神圣动物。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'disposable' as 'dispose of' – something you can throw away after use."
+        "association": "Think of 'macaque' as 'ma' (like mother) and 'cack' (like a laughing sound), imagining a mother monkey making a funny noise."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disposable&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 6"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=macaque&type=2",
+      "chapter": "认知词汇 动物分类 动物智力与语言习得"
     },
     {
-      "word": "stubborn",
-      "pronunciation": "/ˈstʌb.ərn/",
+      "word": "value",
+      "pronunciation": "/ˈvæljuː/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "固执的",
-          "en": "Having a strong will and not willing to change."
+          "pos": "n.",
+          "zh": "价值",
+          "en": "The importance or worth of something."
         },
         {
-          "pos": "adj.",
-          "zh": "难以处理的",
-          "en": "Difficult to persuade or change one's mind."
+          "pos": "v.",
+          "zh": "重视",
+          "en": "To consider something to be important or beneficial."
         }
       ],
       "examples": [
         {
-          "en": "She was too stubborn to admit she was wrong.",
-          "zh": "她太固执了，无法承认自己错了。"
+          "en": "People often value honesty more than anything else.",
+          "zh": "人们常常把诚实看得比其他任何东西都重要。"
         },
         {
-          "en": "His stubborn attitude often leads to arguments with others.",
-          "zh": "他固执的态度常常导致与他人的争吵。"
+          "en": "The company values its employees and their contributions.",
+          "zh": "这家公司重视员工及其贡献。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of a 'stubborn mule' that refuses to move, symbolizing stubbornness."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=stubborn&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 17"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=value&type=2",
+      "chapter": "基本词汇 名词200 Unit 10"
     }
   ]
 }

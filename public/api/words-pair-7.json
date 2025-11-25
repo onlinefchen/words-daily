@@ -1,70 +1,69 @@
 {
-  "generated": "2025-11-24T22:07:02.755Z",
+  "generated": "2025-11-25T22:08:06.461Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "dispose",
-      "pronunciation": "/dɪˈspoʊz/",
+      "word": "dorado",
+      "pronunciation": "/dəˈrɑː.doʊ/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "处理",
-          "en": "To arrange or deal with something in a particular way."
+          "pos": "n.",
+          "zh": "一种金色的鱼",
+          "en": "A type of golden fish found in warm waters."
         },
         {
-          "pos": "v.",
-          "zh": "处置",
-          "en": "To get rid of something or someone, especially in a decisive way."
+          "pos": "adj.",
+          "zh": "金色的，闪闪发光的",
+          "en": "Describing something that is golden or shiny."
         }
       ],
       "examples": [
         {
-          "en": "It is important to dispose of waste properly to protect the environment.",
-          "zh": "正确处理垃圾对保护环境很重要。"
+          "en": "The dorado fish is known for its beautiful golden color.",
+          "zh": "多拉多鱼以其美丽的金色而闻名。"
         },
         {
-          "en": "She decided to dispose of the old furniture before moving.",
-          "zh": "她决定在搬家之前处理掉旧家具。"
+          "en": "Many fishermen dream of catching a dorado in the open sea.",
+          "zh": "许多渔民梦想在公海捕捉一条多拉多。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'dispose' as 'dispose of' something you no longer need, like decluttering your space."
+        "association": "Think of 'dorado' as 'golden' in Spanish, which can help you remember its meaning."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dispose&type=2",
-      "chapter": "基本词汇 动词200 Unit 6"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dorado&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "poisonous",
-      "pronunciation": "/ˈpoʊ.zən.əs/",
+      "word": "diversity",
+      "pronunciation": "/daɪˈvɜːrsɪti/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "有毒的",
-          "en": "Able to cause harm or death if ingested or touched."
+          "pos": "n.",
+          "zh": "多样性",
+          "en": "The quality of having many different types of things or people."
         },
         {
-          "pos": "adj.",
-          "zh": "对人或环境有害的",
-          "en": "Harmful or destructive to living things or nature."
+          "pos": "n.",
+          "zh": "差异",
+          "en": "The state of being different or varied."
         }
       ],
       "examples": [
         {
-          "en": "Some plants are beautiful but can be highly poisonous.",
-          "zh": "有些植物很美，但可能非常有毒。"
+          "en": "Cultural diversity enriches our community and promotes understanding.",
+          "zh": "文化多样性丰富了我们的社区，促进了理解。"
         },
         {
-          "en": "The snake is known for its poisonous bite, which can be deadly.",
-          "zh": "这种蛇以其有毒的咬伤而闻名，可能致命。"
+          "en": "The diversity of wildlife in this region is astonishing and must be protected.",
+          "zh": "这个地区的野生动物多样性令人惊讶，必须保护。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'poison' in 'poisonous', as both relate to harmful substances.",
-        "mnemonic": "Poison + ous = poisonous; remember that 'ous' means full of."
+        "association": "Think of 'diverse' as a garden with flowers of many colors, representing different types."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=poisonous&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 14"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=diversity&type=2",
+      "chapter": "基本词汇 名词200 Unit 3"
     }
   ]
 }

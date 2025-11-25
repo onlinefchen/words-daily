@@ -1,67 +1,69 @@
 {
-  "generated": "2025-11-24T22:07:02.755Z",
+  "generated": "2025-11-25T22:08:06.461Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "undermine",
-      "pronunciation": "/ˌʌn.dɪˈmaɪn/",
+      "word": "priority",
+      "pronunciation": "/praɪˈɔr.ɪ.ti/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "削弱；损害",
-          "en": "To weaken or damage something, especially gradually."
+          "pos": "n.",
+          "zh": "优先事项",
+          "en": "Something that is considered more important than other things."
         },
         {
-          "pos": "v.",
-          "zh": "破坏",
-          "en": "To make something less effective or successful."
+          "pos": "n.",
+          "zh": "优先权",
+          "en": "The state of being more important or urgent than others."
         }
       ],
       "examples": [
         {
-          "en": "The constant criticism may undermine her confidence in the project.",
-          "zh": "持续的批评可能会削弱她对项目的信心。"
+          "en": "Education should be a top priority for every government.",
+          "zh": "教育应该是每个政府的首要任务。"
         },
         {
-          "en": "Poor planning can undermine the success of any event.",
-          "zh": "糟糕的规划会破坏任何活动的成功。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=undermine&type=2",
-      "chapter": "基本词汇 动词200 Unit 10"
-    },
-    {
-      "word": "precious",
-      "pronunciation": "/ˈprɛʃəs/",
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "珍贵的",
-          "en": "Something that is valuable and important."
-        },
-        {
-          "pos": "adj.",
-          "zh": "可爱的",
-          "en": "Something that is dear or beloved."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Her engagement ring is a precious family heirloom.",
-          "zh": "她的订婚戒指是一件珍贵的家族传家宝。"
-        },
-        {
-          "en": "Time spent with family is the most precious gift.",
-          "zh": "与家人共度的时光是最珍贵的礼物。"
+          "en": "Finding a job is my main priority after graduation.",
+          "zh": "毕业后找工作是我的首要任务。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'precious' as something you 'treasure' or 'cherish' in life."
+        "association": "Think of 'priority' as 'prior' in time, meaning it comes first."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=precious&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 15"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=priority&type=2",
+      "chapter": "基本词汇 名词200 Unit 7"
+    },
+    {
+      "word": "ethical",
+      "pronunciation": "/ˈɛθɪkəl/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "伦理的",
+          "en": "Related to what is right and wrong in behavior."
+        },
+        {
+          "pos": "adj.",
+          "zh": "道德的",
+          "en": "Concerned with moral principles and values."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The company has an ethical responsibility to its employees.",
+          "zh": "公司对员工有道德责任。"
+        },
+        {
+          "en": "Many scientists debate the ethical implications of genetic research.",
+          "zh": "许多科学家讨论基因研究的伦理影响。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'ethics' when you hear 'ethical'. Both relate to morality."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ethical&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 3"
     }
   ]
 }

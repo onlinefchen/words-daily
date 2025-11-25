@@ -1,69 +1,67 @@
 {
-  "generated": "2025-11-24T22:07:02.755Z",
+  "generated": "2025-11-25T22:08:06.461Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "infringement",
-      "pronunciation": "/ɪnˈfrɪndʒmənt/",
+      "word": "genetics",
+      "pronunciation": "/dʒəˈnɛtɪks/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "侵犯，违背",
-          "en": "A violation of a law or a right."
+          "zh": "遗传学",
+          "en": "The study of genes and how traits are passed from parents to offspring."
         },
         {
           "pos": "n.",
-          "zh": "干扰",
-          "en": "An act that interferes with something."
+          "zh": "基因",
+          "en": "The biological units that determine the characteristics of a living thing."
         }
       ],
       "examples": [
         {
-          "en": "The new law aims to prevent copyright infringement.",
-          "zh": "新法律旨在防止版权侵犯。"
+          "en": "Genetics plays a crucial role in understanding inherited diseases.",
+          "zh": "遗传学在理解遗传疾病中起着至关重要的作用。"
         },
         {
-          "en": "His actions were viewed as an infringement of privacy rights.",
-          "zh": "他的行为被视为对隐私权的侵犯。"
+          "en": "Advancements in genetics have led to new treatments for various conditions.",
+          "zh": "遗传学的进步导致了对各种疾病的新治疗方法。"
         }
       ],
-      "memoryTips": {
-        "etymology": "The word 'infringement' comes from the Latin 'infringere', meaning 'to break' or 'to violate'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=infringement&type=2",
-      "chapter": "基本词汇 名词200 Unit 5"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=genetics&type=2",
+      "chapter": "认知词汇 社会与生活分类 提高运动员成绩"
     },
     {
-      "word": "undesirable",
-      "pronunciation": "/ˌʌn.dɪˈzaɪə.bəl/",
+      "word": "release",
+      "pronunciation": "/rɪˈliːs/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "不受欢迎的",
-          "en": "Not wanted or liked; not desirable."
+          "pos": "v.",
+          "zh": "释放",
+          "en": "To let something go or set it free."
         },
         {
-          "pos": "adj.",
-          "zh": "不利的",
-          "en": "Causing a disadvantage or harm."
+          "pos": "n.",
+          "zh": "发布",
+          "en": "The act of making something available to the public."
         }
       ],
       "examples": [
         {
-          "en": "Living in a noisy area can be quite undesirable for many people.",
-          "zh": "住在一个嘈杂的地区对许多人来说是相当不受欢迎的。"
+          "en": "The company plans to release a new smartphone next month.",
+          "zh": "该公司计划下个月发布一款新智能手机。"
         },
         {
-          "en": "The undesirable effects of pollution are evident in our environment.",
-          "zh": "污染的负面影响在我们的环境中显而易见。"
+          "en": "She felt a sense of relief after she was able to release her worries.",
+          "zh": "在她能够释放她的担忧后，她感到了一种释然。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'undesirable' as 'not desirable', which can help you remember its meaning."
+        "association": "Think of 'release' as letting go of a balloon into the sky."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=undesirable&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 19"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=release&type=2",
+      "chapter": "基本词汇 动词200 Unit 10"
     }
   ]
 }

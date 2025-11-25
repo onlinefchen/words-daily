@@ -1,67 +1,69 @@
 {
-  "generated": "2025-11-24T22:07:02.754Z",
+  "generated": "2025-11-25T22:08:06.461Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "cherish",
-      "pronunciation": "/ˈtʃɛrɪʃ/",
+      "word": "maintain",
+      "pronunciation": "/meɪnˈteɪn/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "珍惜",
-          "en": "To hold something dear and value it greatly."
+          "zh": "维持",
+          "en": "To keep something in its existing state or condition."
         },
         {
           "pos": "v.",
-          "zh": "爱护",
-          "en": "To care for someone or something with affection."
+          "zh": "维护",
+          "en": "To support or defend something, like an opinion or a system."
         }
       ],
       "examples": [
         {
-          "en": "I cherish the memories of my childhood spent with my family.",
-          "zh": "我珍惜与家人共度的童年回忆。"
+          "en": "It is important to maintain a healthy lifestyle for longevity.",
+          "zh": "维持健康的生活方式对长寿很重要。"
         },
         {
-          "en": "She cherishes her friend's support during tough times.",
-          "zh": "她珍惜朋友在艰难时期的支持。"
+          "en": "The government must maintain law and order in society.",
+          "zh": "政府必须维护社会的法律和秩序。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'cherish' as 'cheerish', like cheering for something or someone you love."
+        "etymology": "The word 'maintain' comes from the Latin 'manu tenere', meaning 'to hold in the hand'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cherish&type=2",
-      "chapter": "基本词汇 动词200 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=maintain&type=2",
+      "chapter": "基本词汇 动词200 Unit 8"
     },
     {
-      "word": "contaminate",
-      "pronunciation": "/kənˈtæmɪneɪt/",
+      "word": "suffer",
+      "pronunciation": "/ˈsʌfər/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "污染",
-          "en": "To make something dirty or unsafe by adding harmful substances."
+          "zh": "遭受；忍受",
+          "en": "To experience pain or distress."
         },
         {
           "pos": "v.",
-          "zh": "感染",
-          "en": "To introduce harmful bacteria or viruses into something."
+          "zh": "受苦；受难",
+          "en": "To go through difficult or unpleasant situations."
         }
       ],
       "examples": [
         {
-          "en": "Pollution can contaminate the water supply in many cities.",
-          "zh": "污染会污染许多城市的水源。"
+          "en": "Many people suffer from anxiety during exams.",
+          "zh": "许多人在考试期间感到焦虑。"
         },
         {
-          "en": "Improper disposal of chemicals can contaminate the soil.",
-          "zh": "不当处理化学品会污染土壤。"
+          "en": "Animals often suffer when they are mistreated by humans.",
+          "zh": "动物在受到人类虐待时常常遭受痛苦。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=contaminate&type=2",
-      "chapter": "核心词汇 科技发展 Unit 1"
+      "memoryTips": {
+        "association": "Think of 'suffer' as being like 'suffocate'—both involve distress."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=suffer&type=2",
+      "chapter": "基本词汇 动词200 Unit 10"
     }
   ]
 }

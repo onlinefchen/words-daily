@@ -1,67 +1,67 @@
 {
-  "generated": "2025-11-24T22:07:02.755Z",
+  "generated": "2025-11-25T22:08:06.461Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "gain",
-      "pronunciation": "/ɡeɪn/",
+      "word": "sentient",
+      "pronunciation": "/ˈsɛn.ti.ənt/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "获得",
-          "en": "To obtain or receive something."
+          "pos": "adj.",
+          "zh": "有知觉的",
+          "en": "Having the ability to perceive or feel things."
         },
         {
           "pos": "n.",
-          "zh": "收益",
-          "en": "An increase or advantage gained from something."
+          "zh": "有知觉的生物",
+          "en": "A being that can perceive or feel; a conscious entity."
         }
       ],
       "examples": [
         {
-          "en": "She hopes to gain valuable experience from this internship.",
-          "zh": "她希望通过这次实习获得宝贵的经验。"
+          "en": "Many scientists believe that animals are sentient beings.",
+          "zh": "许多科学家认为动物是有知觉的生物。"
         },
         {
-          "en": "The company reported a significant gain in profits this quarter.",
-          "zh": "该公司报告称本季度利润显著增加。"
+          "en": "The concept of sentient life raises important ethical questions.",
+          "zh": "有知觉生命的概念引发了重要的伦理问题。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'gain' as 'getting a gain,' like lifting weights to gain strength."
+        "etymology": "The word 'sentient' comes from the Latin 'sentire', meaning 'to feel'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=gain&type=2",
-      "chapter": "基本词汇 动词200 Unit 7"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sentient&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 5"
     },
     {
-      "word": "ridiculous",
-      "pronunciation": "/rɪˈdɪkjʊləs/",
+      "word": "share",
+      "pronunciation": "/ʃɛr/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "荒谬的",
-          "en": "Something that is very silly or unreasonable."
+          "pos": "v.",
+          "zh": "分享",
+          "en": "To give a part of something to others."
         },
         {
-          "pos": "adj.",
-          "zh": "可笑的",
-          "en": "Something that causes laughter because it is absurd or foolish."
+          "pos": "n.",
+          "zh": "份额",
+          "en": "A portion of something that is divided among people."
         }
       ],
       "examples": [
         {
-          "en": "It is ridiculous to think that he can finish the project alone.",
-          "zh": "认为他可以独自完成这个项目是荒谬的。"
+          "en": "We should share our resources to help each other succeed.",
+          "zh": "我们应该分享我们的资源，以互相帮助成功。"
         },
         {
-          "en": "Her excuse for being late was so ridiculous that everyone laughed.",
-          "zh": "她迟到的借口太可笑了，大家都笑了。"
+          "en": "He received a large share of the company’s profits this year.",
+          "zh": "他今年获得了公司利润的很大一部分。"
         }
       ],
       "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ridiculous&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 16"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=share&type=2",
+      "chapter": "基本词汇 动词200 Unit 10"
     }
   ]
 }
