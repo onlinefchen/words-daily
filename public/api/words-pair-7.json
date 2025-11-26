@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-25T22:08:06.461Z",
+  "generated": "2025-11-26T22:07:55.969Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "dorado",
-      "pronunciation": "/dəˈrɑː.doʊ/",
+      "word": "jealous",
+      "pronunciation": "/ˈdʒɛləs/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "一种金色的鱼",
-          "en": "A type of golden fish found in warm waters."
+          "pos": "adj.",
+          "zh": "嫉妒的",
+          "en": "Feeling unhappy because someone has what you want."
         },
         {
           "pos": "adj.",
-          "zh": "金色的，闪闪发光的",
-          "en": "Describing something that is golden or shiny."
+          "zh": "妒忌的",
+          "en": "Feeling resentful towards someone due to their success or advantages."
         }
       ],
       "examples": [
         {
-          "en": "The dorado fish is known for its beautiful golden color.",
-          "zh": "多拉多鱼以其美丽的金色而闻名。"
+          "en": "She felt jealous when her friend got a promotion at work.",
+          "zh": "当她的朋友在工作中升职时，她感到嫉妒。"
         },
         {
-          "en": "Many fishermen dream of catching a dorado in the open sea.",
-          "zh": "许多渔民梦想在公海捕捉一条多拉多。"
+          "en": "He was jealous of his brother's new car and success.",
+          "zh": "他对兄弟的新车和成功感到嫉妒。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'dorado' as 'golden' in Spanish, which can help you remember its meaning."
+        "association": "Think of the word 'jealous' as 'jealously guarding' what you want, linking it to the feeling of envy."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dorado&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=jealous&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 11"
     },
     {
-      "word": "diversity",
-      "pronunciation": "/daɪˈvɜːrsɪti/",
+      "word": "alienate",
+      "pronunciation": "/ˈeɪ.li.ə.neɪt/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "多样性",
-          "en": "The quality of having many different types of things or people."
+          "pos": "v.",
+          "zh": "疏远",
+          "en": "To make someone feel isolated or estranged."
         },
         {
-          "pos": "n.",
-          "zh": "差异",
-          "en": "The state of being different or varied."
+          "pos": "v.",
+          "zh": "使不友好",
+          "en": "To cause someone to become unfriendly or unsympathetic."
         }
       ],
       "examples": [
         {
-          "en": "Cultural diversity enriches our community and promotes understanding.",
-          "zh": "文化多样性丰富了我们的社区，促进了理解。"
+          "en": "His constant criticism may alienate his friends over time.",
+          "zh": "他不断的批评可能会使他的朋友们逐渐疏远。"
         },
         {
-          "en": "The diversity of wildlife in this region is astonishing and must be protected.",
-          "zh": "这个地区的野生动物多样性令人惊讶，必须保护。"
+          "en": "The new policies could alienate the employees from management.",
+          "zh": "新政策可能会使员工与管理层产生隔阂。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'diverse' as a garden with flowers of many colors, representing different types."
+        "association": "Think of 'alien' as someone who feels different or out of place, similar to feeling alienated."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=diversity&type=2",
-      "chapter": "基本词汇 名词200 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=alienate&type=2",
+      "chapter": "核心词汇 工作与生活 Unit 1"
     }
   ]
 }

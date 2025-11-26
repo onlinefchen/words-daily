@@ -1,67 +1,62 @@
 {
-  "generated": "2025-11-25T22:08:06.461Z",
+  "generated": "2025-11-26T22:07:55.970Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "schooling",
-      "pronunciation": "/ˈskuːlɪŋ/",
+      "word": "capture",
+      "pronunciation": "/ˈkæp.tʃər/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "教育，学校教育",
-          "en": "The process of being educated, usually in a school."
+          "pos": "v.",
+          "zh": "捕捉",
+          "en": "To take someone or something into your possession, often by force."
         },
         {
           "pos": "n.",
-          "zh": "学业，学术",
-          "en": "The learning and training that occurs in a school environment."
+          "zh": "捕获物",
+          "en": "An act of catching or taking something in a specific way."
         }
       ],
       "examples": [
         {
-          "en": "Many children benefit greatly from quality schooling in their early years.",
-          "zh": "许多孩子在早期接受优质教育会受益匪浅。"
+          "en": "The photographer was able to capture the beauty of the sunset.",
+          "zh": "摄影师能够捕捉到日落的美丽。"
         },
         {
-          "en": "Access to good schooling is essential for a successful future.",
-          "zh": "获得良好的教育对成功的未来至关重要。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=schooling&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 9"
-    },
-    {
-      "word": "potential",
-      "pronunciation": "/pəˈtɛnʃəl/",
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "潜在的",
-          "en": "Having the ability to develop into something in the future."
-        },
-        {
-          "pos": "n.",
-          "zh": "潜力",
-          "en": "The possibility of something happening or someone achieving something."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The student has great potential to excel in mathematics.",
-          "zh": "这位学生在数学方面有很大的潜力。"
-        },
-        {
-          "en": "Many cities have the potential to become major tourist destinations.",
-          "zh": "许多城市有潜力成为主要的旅游目的地。"
+          "en": "The capture of the enemy base was crucial for the victory.",
+          "zh": "敌军基地的捕获对胜利至关重要。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'potential' as 'power in waiting'—something that can grow stronger."
+        "association": "Think of 'capture' as 'captive,' where you take something or someone and hold it tightly."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=potential&type=2",
-      "chapter": "基本词汇 名词200 Unit 7"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=capture&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 2"
+    },
+    {
+      "word": "non-damaging earthquake",
+      "pronunciation": "/nɒnˈdæmɪdʒɪŋ ˈɜrθkwɛɪk/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "无损害的地震",
+          "en": "An earthquake that does not cause damage to buildings or the environment."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Scientists reported a non-damaging earthquake that occurred last night.",
+          "zh": "科学家报告了昨晚发生的无损害地震。"
+        },
+        {
+          "en": "The non-damaging earthquake was felt but caused no injuries.",
+          "zh": "这次无损害地震被感受到，但没有造成伤害。"
+        }
+      ],
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=non-damaging%20earthquake&type=2",
+      "chapter": "认知词汇 自然分类 地震"
     }
   ]
 }

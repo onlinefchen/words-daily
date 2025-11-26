@@ -1,67 +1,69 @@
 {
-  "generated": "2025-11-25T22:08:06.461Z",
+  "generated": "2025-11-26T22:07:55.969Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "genetics",
-      "pronunciation": "/dʒəˈnɛtɪks/",
+      "word": "breadwinner",
+      "pronunciation": "/ˈbrɛdˌwɪnər/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "遗传学",
-          "en": "The study of genes and how traits are passed from parents to offspring."
+          "zh": "家庭收入者",
+          "en": "A person who earns money to support a family."
         },
         {
           "pos": "n.",
-          "zh": "基因",
-          "en": "The biological units that determine the characteristics of a living thing."
+          "zh": "主要经济来源",
+          "en": "The main source of income for a household."
         }
       ],
       "examples": [
         {
-          "en": "Genetics plays a crucial role in understanding inherited diseases.",
-          "zh": "遗传学在理解遗传疾病中起着至关重要的作用。"
+          "en": "She is the main breadwinner in her family, working long hours.",
+          "zh": "她是家庭的主要收入者，工作时间很长。"
         },
         {
-          "en": "Advancements in genetics have led to new treatments for various conditions.",
-          "zh": "遗传学的进步导致了对各种疾病的新治疗方法。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=genetics&type=2",
-      "chapter": "认知词汇 社会与生活分类 提高运动员成绩"
-    },
-    {
-      "word": "release",
-      "pronunciation": "/rɪˈliːs/",
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "释放",
-          "en": "To let something go or set it free."
-        },
-        {
-          "pos": "n.",
-          "zh": "发布",
-          "en": "The act of making something available to the public."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The company plans to release a new smartphone next month.",
-          "zh": "该公司计划下个月发布一款新智能手机。"
-        },
-        {
-          "en": "She felt a sense of relief after she was able to release her worries.",
-          "zh": "在她能够释放她的担忧后，她感到了一种释然。"
+          "en": "In many families, the father is often seen as the breadwinner.",
+          "zh": "在许多家庭中，父亲常被视为经济支柱。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'release' as letting go of a balloon into the sky."
+        "association": "Think of 'bread' as the basic need and 'winner' as someone who provides it."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=release&type=2",
-      "chapter": "基本词汇 动词200 Unit 10"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=breadwinner&type=2",
+      "chapter": "核心词汇 工作与生活 Unit 1"
+    },
+    {
+      "word": "employment",
+      "pronunciation": "/ɪmˈplɔɪmənt/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "就业",
+          "en": "The state of having a job or work."
+        },
+        {
+          "pos": "n.",
+          "zh": "雇佣",
+          "en": "The act of hiring someone to work for you."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Finding employment can be challenging in today's competitive market.",
+          "zh": "在今天竞争激烈的市场中，找到工作可能很困难。"
+        },
+        {
+          "en": "Many graduates are seeking employment after finishing their studies.",
+          "zh": "许多毕业生在完成学业后寻找工作。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'employment' comes from the Latin 'implicare', meaning to involve or engage."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=employment&type=2",
+      "chapter": "核心词汇 工作与生活 Unit 2"
     }
   ]
 }

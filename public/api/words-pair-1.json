@@ -1,70 +1,69 @@
 {
-  "generated": "2025-11-25T22:08:06.460Z",
+  "generated": "2025-11-26T22:07:55.969Z",
   "pair": 1,
   "count": 2,
   "words": [
     {
-      "word": "affection",
-      "pronunciation": "/əˈfɛkʃən/",
+      "word": "touch",
+      "pronunciation": "/tʌtʃ/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "情感，爱",
-          "en": "A feeling of fondness or love for someone."
+          "pos": "v.",
+          "zh": "触碰",
+          "en": "To make physical contact with something."
         },
         {
           "pos": "n.",
-          "zh": "影响",
-          "en": "An influence on someone's feelings or behavior."
+          "zh": "触感",
+          "en": "The sense of feeling something by touch."
         }
       ],
       "examples": [
         {
-          "en": "She showed great affection for her pet dog every day.",
-          "zh": "她每天都对她的宠物狗表现出深厚的感情。"
+          "en": "She felt the soft fabric with a gentle touch.",
+          "zh": "她用轻柔的触感感受到了柔软的布料。"
         },
         {
-          "en": "His affection for his family is very clear and strong.",
-          "zh": "他对家庭的感情非常明显且强烈。"
+          "en": "A warm touch can comfort someone who is sad.",
+          "zh": "温暖的触碰可以安慰一个伤心的人。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'affection' comes from the Latin 'affectio', meaning 'a putting on, or a putting to'.",
-        "association": "Think of 'affection' as 'a connection that affects you emotionally'."
+        "association": "Think of 'touch' as connecting with something physically, like touching a friend to greet them."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=affection&type=2",
-      "chapter": "核心词汇 工作与生活 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=touch&type=2",
+      "chapter": "阅读真题认知词汇 蚂蚁智商"
     },
     {
-      "word": "prospective",
-      "pronunciation": "/prəˈspɛktɪv/",
+      "word": "sun compass",
+      "pronunciation": "/sʌn ˈkʌmpəs/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "潜在的",
-          "en": "Related to something that is expected to happen in the future."
+          "pos": "n.",
+          "zh": "太阳罗盘",
+          "en": "A tool or method that uses the position of the sun to determine direction."
         },
         {
           "pos": "n.",
-          "zh": "前景",
-          "en": "A person who is likely to become something, such as a candidate."
+          "zh": "太阳方向指示器",
+          "en": "A device that helps navigate by using sunlight's angle."
         }
       ],
       "examples": [
         {
-          "en": "The prospective student visited the university campus last weekend.",
-          "zh": "潜在的学生上周末参观了大学校园。"
+          "en": "Birds use the sun compass for navigation during migration.",
+          "zh": "鸟类在迁徙时使用太阳罗盘进行导航。"
         },
         {
-          "en": "She is a prospective buyer interested in purchasing the house.",
-          "zh": "她是一个对购买这所房子感兴趣的潜在买家。"
+          "en": "Explorers relied on the sun compass to find their way in the wilderness.",
+          "zh": "探险者依靠太阳罗盘在荒野中找到方向。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'prospect' as looking forward to something, which relates to the future."
+        "association": "Think of the sun guiding you like a compass does for direction."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=prospective&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 15"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sun%20compass&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

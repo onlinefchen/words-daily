@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-25T22:08:06.461Z",
+  "generated": "2025-11-26T22:07:55.969Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "priority",
-      "pronunciation": "/praɪˈɔr.ɪ.ti/",
+      "word": "climate zone",
+      "pronunciation": "/ˈklaɪmət zoʊn/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "优先事项",
-          "en": "Something that is considered more important than other things."
+          "zh": "气候区",
+          "en": "A region with a specific climate, characterized by similar weather patterns."
         },
         {
           "pos": "n.",
-          "zh": "优先权",
-          "en": "The state of being more important or urgent than others."
+          "zh": "气候带",
+          "en": "An area defined by its climate, such as tropical or temperate."
         }
       ],
       "examples": [
         {
-          "en": "Education should be a top priority for every government.",
-          "zh": "教育应该是每个政府的首要任务。"
+          "en": "The Amazon rainforest is located in a tropical climate zone.",
+          "zh": "亚马逊雨林位于热带气候区。"
         },
         {
-          "en": "Finding a job is my main priority after graduation.",
-          "zh": "毕业后找工作是我的首要任务。"
+          "en": "Different climate zones affect local agriculture and biodiversity.",
+          "zh": "不同的气候带影响当地农业和生物多样性。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'priority' as 'prior' in time, meaning it comes first."
+        "association": "Think of 'climate' as the weather and 'zone' as a specific area, helping you visualize different weather regions."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=priority&type=2",
-      "chapter": "基本词汇 名词200 Unit 7"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=climate%20zone&type=2",
+      "chapter": "认知词汇 自然分类 全球变暖"
     },
     {
-      "word": "ethical",
-      "pronunciation": "/ˈɛθɪkəl/",
+      "word": "raven",
+      "pronunciation": "/ˈreɪ.vən/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "伦理的",
-          "en": "Related to what is right and wrong in behavior."
+          "pos": "n.",
+          "zh": "乌鸦",
+          "en": "A large black bird known for its intelligence and vocal abilities."
         },
         {
-          "pos": "adj.",
-          "zh": "道德的",
-          "en": "Concerned with moral principles and values."
+          "pos": "v.",
+          "zh": "贪心地吃",
+          "en": "To eat something greedily or ravenously."
         }
       ],
       "examples": [
         {
-          "en": "The company has an ethical responsibility to its employees.",
-          "zh": "公司对员工有道德责任。"
+          "en": "The raven perched on the tree, watching everything below.",
+          "zh": "乌鸦栖息在树上，观察着下面的一切。"
         },
         {
-          "en": "Many scientists debate the ethical implications of genetic research.",
-          "zh": "许多科学家讨论基因研究的伦理影响。"
+          "en": "He ravened the food, not leaving a single crumb behind.",
+          "zh": "他贪婪地吃掉了食物，连一粒面包屑都没留下。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'ethics' when you hear 'ethical'. Both relate to morality."
+        "association": "Think of a raven as a clever bird that 'raves' about shiny objects."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ethical&type=2",
-      "chapter": "核心词汇 动物权益与保护 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=raven&type=2",
+      "chapter": "认知词汇 动物分类 动物思维"
     }
   ]
 }

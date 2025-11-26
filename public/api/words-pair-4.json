@@ -1,69 +1,67 @@
 {
-  "generated": "2025-11-25T22:08:06.461Z",
+  "generated": "2025-11-26T22:07:55.969Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "maintain",
-      "pronunciation": "/meɪnˈteɪn/",
+      "word": "heritage",
+      "pronunciation": "/ˈhɛrɪtɪdʒ/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "维持",
-          "en": "To keep something in its existing state or condition."
+          "pos": "n.",
+          "zh": "遗产",
+          "en": "The history and traditions passed down from previous generations."
         },
         {
-          "pos": "v.",
-          "zh": "维护",
-          "en": "To support or defend something, like an opinion or a system."
+          "pos": "n.",
+          "zh": "文化遗产",
+          "en": "The cultural aspects and values that are important to a group of people."
         }
       ],
       "examples": [
         {
-          "en": "It is important to maintain a healthy lifestyle for longevity.",
-          "zh": "维持健康的生活方式对长寿很重要。"
+          "en": "The city is known for its rich cultural heritage and historic landmarks.",
+          "zh": "这座城市因其丰富的文化遗产和历史地标而闻名。"
         },
         {
-          "en": "The government must maintain law and order in society.",
-          "zh": "政府必须维护社会的法律和秩序。"
+          "en": "Many countries work to preserve their natural and historical heritage.",
+          "zh": "许多国家致力于保护其自然和历史遗产。"
         }
       ],
-      "memoryTips": {
-        "etymology": "The word 'maintain' comes from the Latin 'manu tenere', meaning 'to hold in the hand'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=maintain&type=2",
-      "chapter": "基本词汇 动词200 Unit 8"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=heritage&type=2",
+      "chapter": "核心词汇 文化与传统 Unit 3"
     },
     {
-      "word": "suffer",
-      "pronunciation": "/ˈsʌfər/",
+      "word": "distinguish",
+      "pronunciation": "/dɪsˈtɪŋɡwɪʃ/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "遭受；忍受",
-          "en": "To experience pain or distress."
+          "zh": "区分",
+          "en": "To recognize or point out the difference between two or more things."
         },
         {
           "pos": "v.",
-          "zh": "受苦；受难",
-          "en": "To go through difficult or unpleasant situations."
+          "zh": "识别",
+          "en": "To identify someone or something as different from others."
         }
       ],
       "examples": [
         {
-          "en": "Many people suffer from anxiety during exams.",
-          "zh": "许多人在考试期间感到焦虑。"
+          "en": "It is important to distinguish fact from opinion in writing.",
+          "zh": "在写作中，区分事实与观点是很重要的。"
         },
         {
-          "en": "Animals often suffer when they are mistreated by humans.",
-          "zh": "动物在受到人类虐待时常常遭受痛苦。"
+          "en": "She can easily distinguish between different types of music.",
+          "zh": "她可以很容易地区分不同类型的音乐。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'suffer' as being like 'suffocate'—both involve distress."
+        "etymology": "The word 'distinguish' comes from the Latin 'distinguere', which means 'to separate' or 'to mark off'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=suffer&type=2",
-      "chapter": "基本词汇 动词200 Unit 10"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=distinguish&type=2",
+      "chapter": "基本词汇 动词200 Unit 6"
     }
   ]
 }

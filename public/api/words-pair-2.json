@@ -1,67 +1,69 @@
 {
-  "generated": "2025-11-25T22:08:06.460Z",
+  "generated": "2025-11-26T22:07:55.969Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "macaque",
-      "pronunciation": "/məˈkɑːk/",
+      "word": "refrain",
+      "pronunciation": "/rɪˈfreɪn/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "猕猴",
-          "en": "A type of monkey found in Asia and North Africa."
-        },
-        {
-          "pos": "n.",
-          "zh": "猕猴的种类",
-          "en": "Any of several species of long-tailed monkeys."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The macaque is known for its intelligence and social behavior.",
-          "zh": "猕猴因其智力和社交行为而闻名。"
-        },
-        {
-          "en": "In some cultures, macaques are considered sacred animals.",
-          "zh": "在一些文化中，猕猴被视为神圣动物。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'macaque' as 'ma' (like mother) and 'cack' (like a laughing sound), imagining a mother monkey making a funny noise."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=macaque&type=2",
-      "chapter": "认知词汇 动物分类 动物智力与语言习得"
-    },
-    {
-      "word": "value",
-      "pronunciation": "/ˈvæljuː/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "价值",
-          "en": "The importance or worth of something."
+          "pos": "v.",
+          "zh": "克制",
+          "en": "To stop yourself from doing something."
         },
         {
           "pos": "v.",
-          "zh": "重视",
-          "en": "To consider something to be important or beneficial."
+          "zh": "避免",
+          "en": "To avoid doing something that you would normally do."
         }
       ],
       "examples": [
         {
-          "en": "People often value honesty more than anything else.",
-          "zh": "人们常常把诚实看得比其他任何东西都重要。"
+          "en": "She decided to refrain from eating dessert to stay healthy.",
+          "zh": "她决定克制自己不吃甜点以保持健康。"
         },
         {
-          "en": "The company values its employees and their contributions.",
-          "zh": "这家公司重视员工及其贡献。"
+          "en": "It's important to refrain from interrupting others during meetings.",
+          "zh": "在会议中，重要的是避免打断他人。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=value&type=2",
-      "chapter": "基本词汇 名词200 Unit 10"
+      "memoryTips": {
+        "association": "Think of 'refrain' as 'refrain from doing something' like a musician refraining from playing a note."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=refrain&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 8"
+    },
+    {
+      "word": "resource",
+      "pronunciation": "/ˈriːsɔːrs/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "资源",
+          "en": "A resource is something that can be used to help achieve goals or support needs."
+        },
+        {
+          "pos": "v.",
+          "zh": "提供资源",
+          "en": "To resource means to supply or provide necessary items or support for a project."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The library is an important resource for students and researchers.",
+          "zh": "图书馆对学生和研究人员来说是一个重要的资源。"
+        },
+        {
+          "en": "Companies need to resource their teams effectively for success.",
+          "zh": "公司需要有效地为他们的团队提供资源以获得成功。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'resource' as a 'source' of help or materials."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=resource&type=2",
+      "chapter": "基本词汇 名词200 Unit 7"
     }
   ]
 }

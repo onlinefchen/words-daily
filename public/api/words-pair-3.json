@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-25T22:08:06.461Z",
+  "generated": "2025-11-26T22:07:55.969Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "sequacious",
-      "pronunciation": "/sɪˈkw eɪ ʃəs/",
+      "word": "genetic abnormaly",
+      "pronunciation": "/dʒəˈnɛtɪk əˈbɔrməlɪ/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "顺从的",
-          "en": "Eager to follow or obey others without thinking independently."
+          "pos": "n.",
+          "zh": "遗传异常",
+          "en": "A condition caused by changes in genes that can affect health."
         },
         {
           "pos": "adj.",
-          "zh": "缺乏独立性的",
-          "en": "Lacking originality or independence in thought or action."
+          "zh": "遗传性的",
+          "en": "Relating to or resulting from genes and heredity."
         }
       ],
       "examples": [
         {
-          "en": "The sequacious followers never questioned their leader's decisions.",
-          "zh": "那些顺从的追随者从未质疑他们领导者的决定。"
+          "en": "Many genetic abnormalities can lead to serious health issues.",
+          "zh": "许多遗传异常可能导致严重的健康问题。"
         },
         {
-          "en": "Her sequacious nature made her an easy target for manipulation.",
-          "zh": "她缺乏独立性的性格使她成为操控的容易目标。"
+          "en": "Doctors often test for genetic abnormalities during pregnancy.",
+          "zh": "医生通常在怀孕期间检查遗传异常。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'sequential' to remember 'sequacious' as both involve following a sequence or order."
+        "association": "Think of 'genetic' as genes passed down, and 'abnormality' as something not normal, linking them to health issues."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sequacious&type=2",
-      "chapter": "核心词汇 法制与犯罪 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=genetic%20abnormaly&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "digestive system",
-      "pronunciation": "/dəˈdʒɛstɪv ˈsɪstəm/",
+      "word": "sophisticated",
+      "pronunciation": "/səˈfɪstəˌkeɪtɪd/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "消化系统",
-          "en": "The system in the body that helps break down food."
+          "pos": "adj.",
+          "zh": "复杂的；精密的",
+          "en": "Having a lot of knowledge or experience; highly developed."
         },
         {
-          "pos": "n.",
-          "zh": "消化道",
-          "en": "The organs involved in the process of digestion."
+          "pos": "adj.",
+          "zh": "老练的；世故的",
+          "en": "Refined and elegant in style or manner; worldly-wise."
         }
       ],
       "examples": [
         {
-          "en": "A healthy digestive system is essential for overall well-being.",
-          "zh": "健康的消化系统对整体健康至关重要。"
+          "en": "Her sophisticated taste in art impressed everyone at the gallery.",
+          "zh": "她对艺术的高雅品味给画廊里的每个人留下了深刻印象。"
         },
         {
-          "en": "Certain foods can improve the function of the digestive system.",
-          "zh": "某些食物可以改善消化系统的功能。"
+          "en": "The new smartphone has a sophisticated design and advanced features.",
+          "zh": "这款新智能手机具有复杂的设计和先进的功能。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'digestive' as breaking down food, and 'system' as a network of organs working together."
+        "association": "Think of 'sophisticated' as being 'so fit to date', meaning someone who is refined and knowledgeable."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=digestive%20system&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sophisticated&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 17"
     }
   ]
 }

@@ -1,67 +1,69 @@
 {
-  "generated": "2025-11-25T22:08:06.461Z",
+  "generated": "2025-11-26T22:07:55.969Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "sentient",
-      "pronunciation": "/ˈsɛn.ti.ənt/",
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "有知觉的",
-          "en": "Having the ability to perceive or feel things."
-        },
-        {
-          "pos": "n.",
-          "zh": "有知觉的生物",
-          "en": "A being that can perceive or feel; a conscious entity."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Many scientists believe that animals are sentient beings.",
-          "zh": "许多科学家认为动物是有知觉的生物。"
-        },
-        {
-          "en": "The concept of sentient life raises important ethical questions.",
-          "zh": "有知觉生命的概念引发了重要的伦理问题。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'sentient' comes from the Latin 'sentire', meaning 'to feel'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sentient&type=2",
-      "chapter": "核心词汇 动物权益与保护 Unit 5"
-    },
-    {
-      "word": "share",
-      "pronunciation": "/ʃɛr/",
+      "word": "acclimatise",
+      "pronunciation": "/əˈklaɪməˌtaɪz/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "分享",
-          "en": "To give a part of something to others."
+          "zh": "适应",
+          "en": "To adjust to a new climate or environment."
         },
         {
-          "pos": "n.",
-          "zh": "份额",
-          "en": "A portion of something that is divided among people."
+          "pos": "v.",
+          "zh": "适应",
+          "en": "To become familiar with a new situation or experience."
         }
       ],
       "examples": [
         {
-          "en": "We should share our resources to help each other succeed.",
-          "zh": "我们应该分享我们的资源，以互相帮助成功。"
+          "en": "It takes time for travelers to acclimatise to high altitudes.",
+          "zh": "旅行者需要时间来适应高海拔的环境。"
         },
         {
-          "en": "He received a large share of the company’s profits this year.",
-          "zh": "他今年获得了公司利润的很大一部分。"
+          "en": "Animals need to acclimatise when moved to a different habitat.",
+          "zh": "动物在被迁移到不同栖息地时需要适应。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=share&type=2",
-      "chapter": "基本词汇 动词200 Unit 10"
+      "memoryTips": {
+        "association": "Think of 'climate' in 'acclimatise' to remember that it relates to adjusting to environmental changes."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=acclimatise&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 1"
+    },
+    {
+      "word": "hydrologic cycle",
+      "pronunciation": "/haɪˈdrɒlədʒɪk ˈsaɪkəl/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "水文循环",
+          "en": "The continuous movement of water on, above, and below the Earth's surface."
+        },
+        {
+          "pos": "n.",
+          "zh": "水循环",
+          "en": "The process through which water evaporates, condenses, and precipitates."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The hydrologic cycle plays a crucial role in climate regulation.",
+          "zh": "水文循环在气候调节中起着至关重要的作用。"
+        },
+        {
+          "en": "Understanding the hydrologic cycle helps in water conservation efforts.",
+          "zh": "理解水文循环有助于水资源保护工作。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'hydro' as related to water and 'cycle' as a repeating process."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=hydrologic%20cycle&type=2",
+      "chapter": "认知词汇 自然分类 \"厄尔尼诺\"现象"
     }
   ]
 }
