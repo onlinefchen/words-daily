@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-26T22:07:55.969Z",
+  "generated": "2025-11-27T22:07:43.929Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "climate zone",
-      "pronunciation": "/ˈklaɪmət zoʊn/",
+      "word": "embryology",
+      "pronunciation": "/ɛmˈbriː.ə.lə.dʒi/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "气候区",
-          "en": "A region with a specific climate, characterized by similar weather patterns."
+          "zh": "胚胎学",
+          "en": "The branch of biology that studies the development of embryos."
         },
         {
           "pos": "n.",
-          "zh": "气候带",
-          "en": "An area defined by its climate, such as tropical or temperate."
+          "zh": "胚胎发育",
+          "en": "The process of an embryo developing into a fetus."
         }
       ],
       "examples": [
         {
-          "en": "The Amazon rainforest is located in a tropical climate zone.",
-          "zh": "亚马逊雨林位于热带气候区。"
+          "en": "Embryology reveals how life begins and develops in the womb.",
+          "zh": "胚胎学揭示了生命如何在子宫中开始和发展。"
         },
         {
-          "en": "Different climate zones affect local agriculture and biodiversity.",
-          "zh": "不同的气候带影响当地农业和生物多样性。"
+          "en": "Studying embryology helps scientists understand genetic disorders.",
+          "zh": "研究胚胎学帮助科学家理解遗传性疾病。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'climate' as the weather and 'zone' as a specific area, helping you visualize different weather regions."
+        "etymology": "The word 'embryology' comes from the Greek 'embryon' meaning 'fetus' and 'logia' meaning 'study'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=climate%20zone&type=2",
-      "chapter": "认知词汇 自然分类 全球变暖"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=embryology&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "raven",
-      "pronunciation": "/ˈreɪ.vən/",
+      "word": "frequency",
+      "pronunciation": "/ˈfriː.kwən.si/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "乌鸦",
-          "en": "A large black bird known for its intelligence and vocal abilities."
+          "zh": "频率",
+          "en": "The number of times something happens in a specific period."
         },
         {
-          "pos": "v.",
-          "zh": "贪心地吃",
-          "en": "To eat something greedily or ravenously."
+          "pos": "n.",
+          "zh": "频率",
+          "en": "The rate at which a repeating event occurs."
         }
       ],
       "examples": [
         {
-          "en": "The raven perched on the tree, watching everything below.",
-          "zh": "乌鸦栖息在树上，观察着下面的一切。"
+          "en": "The frequency of earthquakes in that region is quite high.",
+          "zh": "该地区地震的频率相当高。"
         },
         {
-          "en": "He ravened the food, not leaving a single crumb behind.",
-          "zh": "他贪婪地吃掉了食物，连一粒面包屑都没留下。"
+          "en": "We need to measure the frequency of our meetings to improve productivity.",
+          "zh": "我们需要测量会议的频率，以提高生产力。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a raven as a clever bird that 'raves' about shiny objects."
+        "etymology": "The word 'frequency' comes from the Latin 'frequentia', meaning 'a crowd' or 'repeated'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=raven&type=2",
-      "chapter": "认知词汇 动物分类 动物思维"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=frequency&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

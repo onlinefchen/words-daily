@@ -1,62 +1,69 @@
 {
-  "generated": "2025-11-26T22:07:55.970Z",
+  "generated": "2025-11-27T22:07:43.929Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "capture",
-      "pronunciation": "/ˈkæp.tʃər/",
+      "word": "innocence",
+      "pronunciation": "/ˈɪnəsəns/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "捕捉",
-          "en": "To take someone or something into your possession, often by force."
+          "pos": "n.",
+          "zh": "无辜；清白",
+          "en": "The state of being not guilty or free from sin."
         },
         {
           "pos": "n.",
-          "zh": "捕获物",
-          "en": "An act of catching or taking something in a specific way."
+          "zh": "幼稚；天真",
+          "en": "The quality of being naïve or lacking experience."
         }
       ],
       "examples": [
         {
-          "en": "The photographer was able to capture the beauty of the sunset.",
-          "zh": "摄影师能够捕捉到日落的美丽。"
+          "en": "Her innocence made her trust everyone she met.",
+          "zh": "她的无辜让她信任每一个遇到的人。"
         },
         {
-          "en": "The capture of the enemy base was crucial for the victory.",
-          "zh": "敌军基地的捕获对胜利至关重要。"
+          "en": "The child's innocence was evident in his playful nature.",
+          "zh": "孩子的天真在他顽皮的性格中显而易见。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'capture' as 'captive,' where you take something or someone and hold it tightly."
+        "association": "Think of 'innocence' as 'in no sense' - someone who is innocent has no bad intentions."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=capture&type=2",
-      "chapter": "核心词汇 动物权益与保护 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=innocence&type=2",
+      "chapter": "核心词汇 法制与犯罪 Unit 2"
     },
     {
-      "word": "non-damaging earthquake",
-      "pronunciation": "/nɒnˈdæmɪdʒɪŋ ˈɜrθkwɛɪk/",
+      "word": "prestige",
+      "pronunciation": "/prɛsˈtiːdʒ/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "无损害的地震",
-          "en": "An earthquake that does not cause damage to buildings or the environment."
+          "pos": "n.",
+          "zh": "声望；威望",
+          "en": "The level of respect and admiration that someone or something has."
+        },
+        {
+          "pos": "n.",
+          "zh": "威信；声誉",
+          "en": "The high status or reputation that is respected by others."
         }
       ],
       "examples": [
         {
-          "en": "Scientists reported a non-damaging earthquake that occurred last night.",
-          "zh": "科学家报告了昨晚发生的无损害地震。"
+          "en": "Universities with great prestige often attract top students worldwide.",
+          "zh": "声誉高的大学通常吸引世界各地的优秀学生。"
         },
         {
-          "en": "The non-damaging earthquake was felt but caused no injuries.",
-          "zh": "这次无损害地震被感受到，但没有造成伤害。"
+          "en": "Many people desire jobs that come with prestige and influence.",
+          "zh": "许多人渴望拥有带有声望和影响力的工作。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=non-damaging%20earthquake&type=2",
-      "chapter": "认知词汇 自然分类 地震"
+      "memoryTips": {
+        "association": "Think of 'prestige' as a combination of 'prestigious' and 'edge', meaning having an edge in respect."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=prestige&type=2",
+      "chapter": "核心词汇 文化与传统 Unit 4"
     }
   ]
 }

@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-26T22:07:55.969Z",
+  "generated": "2025-11-27T22:07:43.929Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "timid",
-      "pronunciation": "/ˈtɪmɪd/",
+      "word": "supervise",
+      "pronunciation": "/ˈsuː.pɚ.vaɪz/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "胆怯的",
-          "en": "Feeling shy or lacking confidence."
+          "pos": "v.",
+          "zh": "监督",
+          "en": "To watch over and direct the work of others."
         },
         {
-          "pos": "adj.",
-          "zh": "胆小的",
-          "en": "Easily frightened or not brave."
+          "pos": "v.",
+          "zh": "管理",
+          "en": "To be in charge of a project or group."
         }
       ],
       "examples": [
         {
-          "en": "The timid child hesitated to speak in front of the class.",
-          "zh": "那个胆怯的孩子在班上犹豫着不敢发言。"
+          "en": "The manager will supervise the team during the project.",
+          "zh": "经理将在项目期间监督团队。"
         },
         {
-          "en": "She gave a timid smile when she met new people.",
-          "zh": "她见到新朋友时露出了一个胆怯的微笑。"
+          "en": "Teachers supervise students to ensure they follow the rules.",
+          "zh": "老师监督学生以确保他们遵守规则。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a timid mouse hiding away, too scared to come out."
+        "etymology": "The word 'supervise' comes from the Latin 'supervidere', meaning 'to oversee'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=timid&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 18"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=supervise&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 9"
     },
     {
-      "word": "herring",
-      "pronunciation": "/ˈhɛr.ɪŋ/",
+      "word": "poison",
+      "pronunciation": "/ˈpɔɪ.zən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "鲱鱼",
-          "en": "A type of small fish that is often eaten."
+          "zh": "毒药",
+          "en": "A substance that can cause illness or death when ingested."
         },
         {
-          "pos": "n.",
-          "zh": "鲱鱼罐头",
-          "en": "Fish that is preserved in a can or jar."
+          "pos": "v.",
+          "zh": "毒害",
+          "en": "To make something harmful or deadly, especially by adding poison."
         }
       ],
       "examples": [
         {
-          "en": "Herring is a popular dish in many coastal countries.",
-          "zh": "鲱鱼是许多沿海国家的受欢迎菜肴。"
+          "en": "The scientist studied how poison affects the human body.",
+          "zh": "科学家研究毒药如何影响人体。"
         },
         {
-          "en": "Canned herring can be found in most grocery stores.",
-          "zh": "罐装鲱鱼在大多数杂货店都能找到。"
+          "en": "He was poisoned by a toxic substance in the food.",
+          "zh": "他被食物中的有毒物质毒害了。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'herring' as 'hurry' because it swims quickly in the ocean."
+        "association": "Think of 'poison' as a 'poisonous' drink that can harm you."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=herring&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=poison&type=2",
+      "chapter": "核心词汇 环境保护 Unit 4"
     }
   ]
 }

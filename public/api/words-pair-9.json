@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-26T22:07:55.969Z",
+  "generated": "2025-11-27T22:07:43.929Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "acclimatise",
-      "pronunciation": "/əˈklaɪməˌtaɪz/",
+      "word": "beforehand",
+      "pronunciation": "/bɪˈfɔːrhænd/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "适应",
-          "en": "To adjust to a new climate or environment."
+          "pos": "adv.",
+          "zh": "事先",
+          "en": "Before something happens; in advance."
         },
         {
-          "pos": "v.",
-          "zh": "适应",
-          "en": "To become familiar with a new situation or experience."
+          "pos": "adj.",
+          "zh": "预先的",
+          "en": "Related to something that is done or known earlier."
         }
       ],
       "examples": [
         {
-          "en": "It takes time for travelers to acclimatise to high altitudes.",
-          "zh": "旅行者需要时间来适应高海拔的环境。"
+          "en": "I prepared my presentation beforehand to ensure everything was ready.",
+          "zh": "我提前准备了我的演讲，以确保一切就绪。"
         },
         {
-          "en": "Animals need to acclimatise when moved to a different habitat.",
-          "zh": "动物在被迁移到不同栖息地时需要适应。"
+          "en": "It is important to book tickets beforehand during the holiday season.",
+          "zh": "在假期期间，提前订票是很重要的。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'climate' in 'acclimatise' to remember that it relates to adjusting to environmental changes."
+        "association": "Think of 'before' and 'hand'; you plan with your hands before an event."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=acclimatise&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=beforehand&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 3"
     },
     {
-      "word": "hydrologic cycle",
-      "pronunciation": "/haɪˈdrɒlədʒɪk ˈsaɪkəl/",
+      "word": "vitality",
+      "pronunciation": "/vaɪˈtæləti/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "水文循环",
-          "en": "The continuous movement of water on, above, and below the Earth's surface."
+          "zh": "活力",
+          "en": "The state of being strong and active; energy."
         },
         {
           "pos": "n.",
-          "zh": "水循环",
-          "en": "The process through which water evaporates, condenses, and precipitates."
+          "zh": "生气",
+          "en": "The power to live, grow, and develop."
         }
       ],
       "examples": [
         {
-          "en": "The hydrologic cycle plays a crucial role in climate regulation.",
-          "zh": "水文循环在气候调节中起着至关重要的作用。"
+          "en": "Regular exercise can greatly increase your vitality and overall health.",
+          "zh": "定期锻炼可以大大提高你的活力和整体健康。"
         },
         {
-          "en": "Understanding the hydrologic cycle helps in water conservation efforts.",
-          "zh": "理解水文循环有助于水资源保护工作。"
+          "en": "The vitality of the community was evident during the festival celebrations.",
+          "zh": "在节日庆祝活动中，社区的活力显而易见。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'hydro' as related to water and 'cycle' as a repeating process."
+        "association": "Think of 'vitality' as 'vital' + 'ity', where 'vital' means essential for life."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=hydrologic%20cycle&type=2",
-      "chapter": "认知词汇 自然分类 \"厄尔尼诺\"现象"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vitality&type=2",
+      "chapter": "基本词汇 名词200 Unit 10"
     }
   ]
 }

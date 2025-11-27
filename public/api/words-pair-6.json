@@ -1,69 +1,70 @@
 {
-  "generated": "2025-11-26T22:07:55.969Z",
+  "generated": "2025-11-27T22:07:43.929Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "breadwinner",
-      "pronunciation": "/ˈbrɛdˌwɪnər/",
+      "word": "landfill",
+      "pronunciation": "/ˈlændfɪl/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "家庭收入者",
-          "en": "A person who earns money to support a family."
+          "zh": "垃圾填埋场",
+          "en": "A site where waste materials are buried."
         },
         {
-          "pos": "n.",
-          "zh": "主要经济来源",
-          "en": "The main source of income for a household."
+          "pos": "v.",
+          "zh": "填埋垃圾",
+          "en": "To dispose of waste by burying it in the ground."
         }
       ],
       "examples": [
         {
-          "en": "She is the main breadwinner in her family, working long hours.",
-          "zh": "她是家庭的主要收入者，工作时间很长。"
+          "en": "The city is planning to close the old landfill soon.",
+          "zh": "这座城市计划很快关闭旧的垃圾填埋场。"
         },
         {
-          "en": "In many families, the father is often seen as the breadwinner.",
-          "zh": "在许多家庭中，父亲常被视为经济支柱。"
+          "en": "Landfilling is one of the most common waste disposal methods.",
+          "zh": "填埋是最常见的垃圾处理方法之一。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'bread' as the basic need and 'winner' as someone who provides it."
+        "association": "Think of 'land' as the ground and 'fill' as filling it with waste."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=breadwinner&type=2",
-      "chapter": "核心词汇 工作与生活 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=landfill&type=2",
+      "chapter": "核心词汇 环境保护 Unit 4"
     },
     {
-      "word": "employment",
-      "pronunciation": "/ɪmˈplɔɪmənt/",
+      "word": "minority",
+      "pronunciation": "/məˈnɔɪ.ə.ti/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "就业",
-          "en": "The state of having a job or work."
+          "zh": "少数群体",
+          "en": "A group that is smaller than the majority in a population."
         },
         {
           "pos": "n.",
-          "zh": "雇佣",
-          "en": "The act of hiring someone to work for you."
+          "zh": "少数派",
+          "en": "A group with different opinions or characteristics from the larger group."
         }
       ],
       "examples": [
         {
-          "en": "Finding employment can be challenging in today's competitive market.",
-          "zh": "在今天竞争激烈的市场中，找到工作可能很困难。"
+          "en": "The minority group fought for their rights and recognition.",
+          "zh": "少数群体为他们的权利和认可而斗争。"
         },
         {
-          "en": "Many graduates are seeking employment after finishing their studies.",
-          "zh": "许多毕业生在完成学业后寻找工作。"
+          "en": "In many countries, the minority languages are at risk of disappearing.",
+          "zh": "在许多国家，少数语言面临消失的风险。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'employment' comes from the Latin 'implicare', meaning to involve or engage."
+        "etymology": "The word 'minority' comes from the Latin 'minor', meaning 'lesser' or 'smaller'.",
+        "association": "Think of 'minor' as something smaller, which can help you remember 'minority' as a smaller group."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=employment&type=2",
-      "chapter": "核心词汇 工作与生活 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=minority&type=2",
+      "chapter": "核心词汇 文化与传统 Unit 4"
     }
   ]
 }

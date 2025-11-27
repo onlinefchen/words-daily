@@ -1,69 +1,67 @@
 {
-  "generated": "2025-11-26T22:07:55.969Z",
+  "generated": "2025-11-27T22:07:43.928Z",
   "pair": 1,
   "count": 2,
   "words": [
     {
-      "word": "touch",
-      "pronunciation": "/tʌtʃ/",
+      "word": "exotic pest",
+      "pronunciation": "/ɪɡˈzɒtɪk pɛst/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "触碰",
-          "en": "To make physical contact with something."
+          "pos": "adj.",
+          "zh": "外来的，奇异的",
+          "en": "Strange and unusual, often from a distant place."
         },
         {
           "pos": "n.",
-          "zh": "触感",
-          "en": "The sense of feeling something by touch."
+          "zh": "外来害虫",
+          "en": "An insect or animal that is not native and causes harm to the environment."
         }
       ],
       "examples": [
         {
-          "en": "She felt the soft fabric with a gentle touch.",
-          "zh": "她用轻柔的触感感受到了柔软的布料。"
+          "en": "The exotic pest destroyed many crops last summer.",
+          "zh": "这种外来害虫去年夏天摧毁了许多农作物。"
         },
         {
-          "en": "A warm touch can comfort someone who is sad.",
-          "zh": "温暖的触碰可以安慰一个伤心的人。"
+          "en": "Scientists are studying how to control exotic pests effectively.",
+          "zh": "科学家们正在研究如何有效控制外来害虫。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'touch' as connecting with something physically, like touching a friend to greet them."
+        "association": "Think of 'exotic' as something foreign and 'pest' as a nuisance. Together, they describe harmful foreign species."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=touch&type=2",
-      "chapter": "阅读真题认知词汇 蚂蚁智商"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=exotic%20pest&type=2",
+      "chapter": "认知词汇 环境分类 病虫害防治"
     },
     {
-      "word": "sun compass",
-      "pronunciation": "/sʌn ˈkʌmpəs/",
+      "word": "obscenity",
+      "pronunciation": "/əbˈscɛnɪti/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "太阳罗盘",
-          "en": "A tool or method that uses the position of the sun to determine direction."
+          "zh": "猥亵行为",
+          "en": "A very offensive act, especially in sexual terms."
         },
         {
           "pos": "n.",
-          "zh": "太阳方向指示器",
-          "en": "A device that helps navigate by using sunlight's angle."
+          "zh": "不雅的作品",
+          "en": "A piece of writing or art that is considered vulgar or indecent."
         }
       ],
       "examples": [
         {
-          "en": "Birds use the sun compass for navigation during migration.",
-          "zh": "鸟类在迁徙时使用太阳罗盘进行导航。"
+          "en": "The movie was banned for its scenes of extreme obscenity.",
+          "zh": "这部电影因其极端猥亵的场景而被禁播。"
         },
         {
-          "en": "Explorers relied on the sun compass to find their way in the wilderness.",
-          "zh": "探险者依靠太阳罗盘在荒野中找到方向。"
+          "en": "She complained about the obscenity in his speech during the debate.",
+          "zh": "她抱怨他在辩论中演讲中的猥亵内容。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of the sun guiding you like a compass does for direction."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sun%20compass&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=obscenity&type=2",
+      "chapter": "核心词汇 伦理与道德 Unit 4"
     }
   ]
 }

@@ -1,69 +1,67 @@
 {
-  "generated": "2025-11-26T22:07:55.969Z",
+  "generated": "2025-11-27T22:07:43.929Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "jealous",
-      "pronunciation": "/ˈdʒɛləs/",
+      "word": "yearning",
+      "pronunciation": "/ˈjɜrnɪŋ/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "嫉妒的",
-          "en": "Feeling unhappy because someone has what you want."
+          "pos": "n.",
+          "zh": "渴望",
+          "en": "A strong feeling of wanting something very much."
         },
         {
-          "pos": "adj.",
-          "zh": "妒忌的",
-          "en": "Feeling resentful towards someone due to their success or advantages."
+          "pos": "v.",
+          "zh": "渴望",
+          "en": "To have a deep desire for something."
         }
       ],
       "examples": [
         {
-          "en": "She felt jealous when her friend got a promotion at work.",
-          "zh": "当她的朋友在工作中升职时，她感到嫉妒。"
+          "en": "She felt a yearning for her childhood home after many years.",
+          "zh": "多年后，她对童年家园产生了渴望。"
         },
         {
-          "en": "He was jealous of his brother's new car and success.",
-          "zh": "他对兄弟的新车和成功感到嫉妒。"
+          "en": "His yearning to travel the world grew stronger every day.",
+          "zh": "他对环游世界的渴望与日俱增。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of the word 'jealous' as 'jealously guarding' what you want, linking it to the feeling of envy."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=jealous&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 11"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=yearning&type=2",
+      "chapter": "基本词汇 名词200 Unit 10"
     },
     {
-      "word": "alienate",
-      "pronunciation": "/ˈeɪ.li.ə.neɪt/",
+      "word": "jealousy",
+      "pronunciation": "/ˈdʒɛləsi/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "疏远",
-          "en": "To make someone feel isolated or estranged."
+          "pos": "n.",
+          "zh": "嫉妒",
+          "en": "A feeling of wanting what someone else has, often leading to resentment."
         },
         {
-          "pos": "v.",
-          "zh": "使不友好",
-          "en": "To cause someone to become unfriendly or unsympathetic."
+          "pos": "n.",
+          "zh": "妒忌",
+          "en": "An emotion experienced when someone feels insecure about their own worth compared to others."
         }
       ],
       "examples": [
         {
-          "en": "His constant criticism may alienate his friends over time.",
-          "zh": "他不断的批评可能会使他的朋友们逐渐疏远。"
+          "en": "Her jealousy over his success caused a rift in their friendship.",
+          "zh": "她对他成功的嫉妒导致了他们友谊的裂痕。"
         },
         {
-          "en": "The new policies could alienate the employees from management.",
-          "zh": "新政策可能会使员工与管理层产生隔阂。"
+          "en": "Jealousy can harm relationships if not addressed properly.",
+          "zh": "如果不妥善处理，嫉妒可能会伤害关系。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'alien' as someone who feels different or out of place, similar to feeling alienated."
+        "association": "Think of jealousy as 'green-eyed monster', which is a common saying that represents jealousy."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=alienate&type=2",
-      "chapter": "核心词汇 工作与生活 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=jealousy&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 6"
     }
   ]
 }

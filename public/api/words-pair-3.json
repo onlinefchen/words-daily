@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-26T22:07:55.969Z",
+  "generated": "2025-11-27T22:07:43.929Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "genetic abnormaly",
-      "pronunciation": "/dʒəˈnɛtɪk əˈbɔrməlɪ/",
+      "word": "tranquil",
+      "pronunciation": "/ˈtræŋ.kwɪl/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "宁静的",
+          "en": "Calm and peaceful, without any disturbance."
+        },
+        {
+          "pos": "adj.",
+          "zh": "安静的",
+          "en": "A state of quietness and serenity."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The tranquil lake reflected the clear blue sky perfectly.",
+          "zh": "宁静的湖泊完美地映照出湛蓝的天空。"
+        },
+        {
+          "en": "She found a tranquil spot in the garden to read her book.",
+          "zh": "她在花园里找到了一个宁静的地方阅读她的书。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a tranquil scene, like a calm lake or a peaceful forest, to remember the word."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=tranquil&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 19"
+    },
+    {
+      "word": "temper",
+      "pronunciation": "/ˈtɛmpər/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "遗传异常",
-          "en": "A condition caused by changes in genes that can affect health."
+          "zh": "脾气",
+          "en": "A person's mood or emotional state, especially when angry."
         },
         {
-          "pos": "adj.",
-          "zh": "遗传性的",
-          "en": "Relating to or resulting from genes and heredity."
+          "pos": "v.",
+          "zh": "调和",
+          "en": "To moderate or soften something, often emotions or feelings."
         }
       ],
       "examples": [
         {
-          "en": "Many genetic abnormalities can lead to serious health issues.",
-          "zh": "许多遗传异常可能导致严重的健康问题。"
+          "en": "He has a bad temper and often loses his cool.",
+          "zh": "他脾气不好，经常失去冷静。"
         },
         {
-          "en": "Doctors often test for genetic abnormalities during pregnancy.",
-          "zh": "医生通常在怀孕期间检查遗传异常。"
+          "en": "She tried to temper her excitement before the big announcement.",
+          "zh": "在重要宣布之前，她试图平静自己的兴奋。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'genetic' as genes passed down, and 'abnormality' as something not normal, linking them to health issues."
+        "association": "Think of 'temper' as a 'temperature' of your emotions; when it rises, your temper can flare up."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=genetic%20abnormaly&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
-    },
-    {
-      "word": "sophisticated",
-      "pronunciation": "/səˈfɪstəˌkeɪtɪd/",
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "复杂的；精密的",
-          "en": "Having a lot of knowledge or experience; highly developed."
-        },
-        {
-          "pos": "adj.",
-          "zh": "老练的；世故的",
-          "en": "Refined and elegant in style or manner; worldly-wise."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Her sophisticated taste in art impressed everyone at the gallery.",
-          "zh": "她对艺术的高雅品味给画廊里的每个人留下了深刻印象。"
-        },
-        {
-          "en": "The new smartphone has a sophisticated design and advanced features.",
-          "zh": "这款新智能手机具有复杂的设计和先进的功能。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'sophisticated' as being 'so fit to date', meaning someone who is refined and knowledgeable."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sophisticated&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 17"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=temper&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 9"
     }
   ]
 }

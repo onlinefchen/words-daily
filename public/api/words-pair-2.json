@@ -1,69 +1,67 @@
 {
-  "generated": "2025-11-26T22:07:55.969Z",
+  "generated": "2025-11-27T22:07:43.928Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "refrain",
-      "pronunciation": "/rɪˈfreɪn/",
+      "word": "detect",
+      "pronunciation": "/dɪˈtɛkt/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "克制",
-          "en": "To stop yourself from doing something."
+          "zh": "发现，侦测",
+          "en": "To notice or discover something."
         },
         {
           "pos": "v.",
-          "zh": "避免",
-          "en": "To avoid doing something that you would normally do."
+          "zh": "测出，探测",
+          "en": "To find out the presence of something, especially something hidden."
         }
       ],
       "examples": [
         {
-          "en": "She decided to refrain from eating dessert to stay healthy.",
-          "zh": "她决定克制自己不吃甜点以保持健康。"
+          "en": "Scientists can detect changes in the climate very quickly.",
+          "zh": "科学家能够很快发现气候变化。"
         },
         {
-          "en": "It's important to refrain from interrupting others during meetings.",
-          "zh": "在会议中，重要的是避免打断他人。"
+          "en": "The security system is designed to detect any unauthorized access.",
+          "zh": "安全系统旨在检测任何未经授权的访问。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'refrain' as 'refrain from doing something' like a musician refraining from playing a note."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=refrain&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 8"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=detect&type=2",
+      "chapter": "认知词汇 动物分类 动物航行能力"
     },
     {
-      "word": "resource",
-      "pronunciation": "/ˈriːsɔːrs/",
+      "word": "extracurricular",
+      "pronunciation": "/ˌɛkstrəˈkɜrɪkjələr/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "资源",
-          "en": "A resource is something that can be used to help achieve goals or support needs."
+          "pos": "adj.",
+          "zh": "课外的",
+          "en": "Activities that are not part of the regular school curriculum."
         },
         {
-          "pos": "v.",
-          "zh": "提供资源",
-          "en": "To resource means to supply or provide necessary items or support for a project."
+          "pos": "n.",
+          "zh": "课外活动",
+          "en": "Activities like sports, music, or clubs that students participate in outside of regular classes."
         }
       ],
       "examples": [
         {
-          "en": "The library is an important resource for students and researchers.",
-          "zh": "图书馆对学生和研究人员来说是一个重要的资源。"
+          "en": "Many students join extracurricular activities to develop new skills.",
+          "zh": "许多学生参加课外活动以发展新技能。"
         },
         {
-          "en": "Companies need to resource their teams effectively for success.",
-          "zh": "公司需要有效地为他们的团队提供资源以获得成功。"
+          "en": "Extracurricular programs can help students make friends and explore interests.",
+          "zh": "课外项目可以帮助学生交朋友和探索兴趣。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'resource' as a 'source' of help or materials."
+        "association": "Think of 'extra' as additional activities outside the standard curriculum."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=resource&type=2",
-      "chapter": "基本词汇 名词200 Unit 7"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=extracurricular&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 9"
     }
   ]
 }
