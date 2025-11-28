@@ -1,70 +1,69 @@
 {
-  "generated": "2025-11-27T22:07:43.929Z",
+  "generated": "2025-11-28T22:07:30.168Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "miserable",
-      "pronunciation": "/ˈmɪz.ə.rə.bəl/",
+      "word": "specimen",
+      "pronunciation": "/ˈspɛs.ɪ.mən/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "痛苦的，悲惨的",
-          "en": "Feeling very unhappy or uncomfortable."
+          "pos": "n.",
+          "zh": "样本，标本",
+          "en": "A specimen is a sample of something, often used for study or analysis."
         },
         {
-          "pos": "adj.",
-          "zh": "可怜的，糟糕的",
-          "en": "In a very bad state or condition."
+          "pos": "n.",
+          "zh": "典型例子",
+          "en": "A specimen can also refer to an example that represents a group or type."
         }
       ],
       "examples": [
         {
-          "en": "She felt miserable after failing her exam last week.",
-          "zh": "她在上周考试不及格后感到很痛苦。"
+          "en": "The scientist examined the specimen under a powerful microscope.",
+          "zh": "科学家在强显微镜下检查样本。"
         },
         {
-          "en": "The weather was so miserable that we stayed indoors all day.",
-          "zh": "天气如此糟糕，以至于我们整天呆在室内。"
+          "en": "They collected specimens of various plants for their research.",
+          "zh": "他们为研究收集了各种植物的样本。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'miserable' as someone who is missing their smile, making them look sad."
+        "association": "Think of 'specimen' as a 'special mini' version of something, emphasizing its role as a sample or example."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=miserable&type=2",
-      "chapter": "核心词汇 动物权益与保护 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=specimen&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "domestication",
-      "pronunciation": "/dəˌmɛstəˈkeɪʃən/",
+      "word": "economical",
+      "pronunciation": "/ˌiː.kəˈnɑː.mɪ.kəl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "驯化",
-          "en": "The process of training wild animals or plants for human use."
+          "pos": "adj.",
+          "zh": "经济的，节省的",
+          "en": "Relating to saving money or resources."
         },
         {
-          "pos": "n.",
-          "zh": "家养",
-          "en": "The state of being adapted for living with humans."
+          "pos": "adj.",
+          "zh": "有效的，划算的",
+          "en": "Providing good value for the amount of money spent."
         }
       ],
       "examples": [
         {
-          "en": "Domestication of dogs began thousands of years ago.",
-          "zh": "狗的驯化始于几千年前。"
+          "en": "Buying in bulk is often more economical than purchasing single items.",
+          "zh": "大宗购买通常比单件购买更经济。"
         },
         {
-          "en": "The domestication of crops was essential for agriculture.",
-          "zh": "作物的驯化对农业至关重要。"
+          "en": "She found an economical way to travel during her vacation.",
+          "zh": "她找到了一种在假期旅行的经济方式。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word originates from the Latin 'domus', meaning 'home'.",
-        "association": "Think of 'domestication' as 'making wild things at home'."
+        "association": "Think of 'eco' in economical as related to 'eco-friendly', which often means saving resources."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=domestication&type=2",
-      "chapter": "认知词汇 动物分类 动物行为"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=economical&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 7"
     }
   ]
 }

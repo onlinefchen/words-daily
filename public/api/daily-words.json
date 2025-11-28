@@ -1,760 +1,758 @@
 {
-  "generated": "2025-11-27T22:07:43.927Z",
-  "date": "2025-11-27",
+  "generated": "2025-11-28T22:07:30.166Z",
+  "date": "2025-11-28",
   "totalWords": 20,
   "words": [
     {
-      "id": "w03052",
-      "word": "exotic pest",
-      "type": "phrase",
-      "chapterIndex": 4,
-      "globalIndex": 3052,
-      "chapter": "ch114",
-      "chapterName": "认知词汇 环境分类 病虫害防治",
+      "id": "w01660",
+      "word": "leisure",
+      "type": "single",
+      "chapterIndex": 20,
+      "globalIndex": 1660,
+      "chapter": "ch083",
+      "chapterName": "核心词汇 工作与生活 Unit 3",
       "pronunciation": {
-        "us": "/ɪɡˈzɒtɪk pɛst/"
+        "us": "/ˈlɛʒər/"
       },
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "外来的，奇异的",
-          "en": "Strange and unusual, often from a distant place."
+          "pos": "n.",
+          "zh": "休闲; 空闲时间",
+          "en": "Time when you are not working and can relax or enjoy activities."
         },
         {
-          "pos": "n.",
-          "zh": "外来害虫",
-          "en": "An insect or animal that is not native and causes harm to the environment."
+          "pos": "adj.",
+          "zh": "休闲的; 悠闲的",
+          "en": "Relating to activities that you do for enjoyment in your free time."
         }
       ],
       "examples": [
         {
-          "en": "The exotic pest destroyed many crops last summer.",
-          "zh": "这种外来害虫去年夏天摧毁了许多农作物。"
+          "en": "Many people enjoy reading books in their leisure time.",
+          "zh": "许多人喜欢在空闲时间阅读书籍。"
         },
         {
-          "en": "Scientists are studying how to control exotic pests effectively.",
-          "zh": "科学家们正在研究如何有效控制外来害虫。"
+          "en": "Leisure activities can help reduce stress and improve well-being.",
+          "zh": "休闲活动可以帮助减轻压力并改善健康。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'exotic' as something foreign and 'pest' as a nuisance. Together, they describe harmful foreign species."
+        "association": "Think of 'leisure' as 'leisurely' activities that you do to relax."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=exotic%20pest&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=leisure&type=2"
     },
     {
-      "id": "w01166",
-      "word": "obscenity",
+      "id": "w00492",
+      "word": "definite",
+      "type": "single",
+      "chapterIndex": 12,
+      "globalIndex": 492,
+      "chapter": "ch025",
+      "chapterName": "基本词汇 形容词和副词400 Unit 5",
+      "pronunciation": {
+        "us": "/ˈdɛf.ɪ.nɪt/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "明确的",
+          "en": "Clearly defined or determined; not vague."
+        },
+        {
+          "pos": "adj.",
+          "zh": "肯定的",
+          "en": "Certain or sure about something."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She gave a definite answer to the question asked in class.",
+          "zh": "她对课堂上提出的问题给出了明确的回答。"
+        },
+        {
+          "en": "There is a definite plan for the project's completion next month.",
+          "zh": "下个月有一个明确的计划来完成这个项目。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'definite' as having 'defense' against uncertainty, making things clear."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=definite&type=2"
+    },
+    {
+      "id": "w03828",
+      "word": "realistic style",
+      "type": "phrase",
+      "chapterIndex": 49,
+      "globalIndex": 3828,
+      "chapter": "ch126",
+      "chapterName": "认知词汇 历史分类 电影发展史",
+      "pronunciation": {
+        "us": "/ˌriːəˈlɪstɪk staɪl/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "现实主义风格",
+          "en": "A style that represents things as they actually are."
+        },
+        {
+          "pos": "n.",
+          "zh": "现实主义风格",
+          "en": "A way of creating art or literature that is true to life."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The artist chose a realistic style to depict everyday life.",
+          "zh": "这位艺术家选择了现实主义风格来描绘日常生活。"
+        },
+        {
+          "en": "Her novel is praised for its realistic style and relatable characters.",
+          "zh": "她的小说因其现实主义风格和可亲近的角色而受到赞誉。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=realistic%20style&type=2"
+    },
+    {
+      "id": "w02647",
+      "word": "vent",
+      "type": "single",
+      "chapterIndex": 62,
+      "globalIndex": 2647,
+      "chapter": "ch105",
+      "chapterName": "认知词汇 自然分类 火山",
+      "pronunciation": {
+        "us": "/vɛnt/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "发泄",
+          "en": "To express a strong emotion, such as anger or frustration."
+        },
+        {
+          "pos": "n.",
+          "zh": "通风口",
+          "en": "An opening that allows air to flow in or out of a space."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She needed to vent her frustrations after a long day at work.",
+          "zh": "她需要发泄一天工作后的沮丧情绪。"
+        },
+        {
+          "en": "The room was too hot, so I opened the vent to let in fresh air.",
+          "zh": "房间太热了，所以我打开通风口以让新鲜空气进来。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a 'vent' as a way to 'let out' feelings or 'let in' fresh air."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vent&type=2"
+    },
+    {
+      "id": "w01886",
+      "word": "sore",
       "type": "single",
       "chapterIndex": 6,
-      "globalIndex": 1166,
-      "chapter": "ch059",
-      "chapterName": "核心词汇 伦理与道德 Unit 4",
+      "globalIndex": 1886,
+      "chapter": "ch095",
+      "chapterName": "核心词汇 健康话题 Unit 5",
       "pronunciation": {
-        "us": "/əbˈscɛnɪti/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "猥亵行为",
-          "en": "A very offensive act, especially in sexual terms."
-        },
-        {
-          "pos": "n.",
-          "zh": "不雅的作品",
-          "en": "A piece of writing or art that is considered vulgar or indecent."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The movie was banned for its scenes of extreme obscenity.",
-          "zh": "这部电影因其极端猥亵的场景而被禁播。"
-        },
-        {
-          "en": "She complained about the obscenity in his speech during the debate.",
-          "zh": "她抱怨他在辩论中演讲中的猥亵内容。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=obscenity&type=2"
-    },
-    {
-      "id": "w02306",
-      "word": "detect",
-      "type": "single",
-      "chapterIndex": 9,
-      "globalIndex": 2306,
-      "chapter": "ch097",
-      "chapterName": "认知词汇 动物分类 动物航行能力",
-      "pronunciation": {
-        "us": "/dɪˈtɛkt/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "发现，侦测",
-          "en": "To notice or discover something."
-        },
-        {
-          "pos": "v.",
-          "zh": "测出，探测",
-          "en": "To find out the presence of something, especially something hidden."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Scientists can detect changes in the climate very quickly.",
-          "zh": "科学家能够很快发现气候变化。"
-        },
-        {
-          "en": "The security system is designed to detect any unauthorized access.",
-          "zh": "安全系统旨在检测任何未经授权的访问。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=detect&type=2"
-    },
-    {
-      "id": "w00562",
-      "word": "extracurricular",
-      "type": "single",
-      "chapterIndex": 2,
-      "globalIndex": 562,
-      "chapter": "ch029",
-      "chapterName": "基本词汇 形容词和副词400 Unit 9",
-      "pronunciation": {
-        "us": "/ˌɛkstrəˈkɜrɪkjələr/"
+        "us": "/sɔr/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "课外的",
-          "en": "Activities that are not part of the regular school curriculum."
+          "zh": "疼痛的",
+          "en": "Feeling pain or discomfort in a part of the body."
         },
         {
           "pos": "n.",
-          "zh": "课外活动",
-          "en": "Activities like sports, music, or clubs that students participate in outside of regular classes."
+          "zh": "痛处",
+          "en": "A place on the body that is painful."
         }
       ],
       "examples": [
         {
-          "en": "Many students join extracurricular activities to develop new skills.",
-          "zh": "许多学生参加课外活动以发展新技能。"
+          "en": "After the workout, my legs were very sore and difficult to move.",
+          "zh": "锻炼后，我的腿非常疼，难以移动。"
         },
         {
-          "en": "Extracurricular programs can help students make friends and explore interests.",
-          "zh": "课外项目可以帮助学生交朋友和探索兴趣。"
+          "en": "She has a sore throat and can't speak properly today.",
+          "zh": "她的喉咙痛，今天说话不太清楚。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'extra' as additional activities outside the standard curriculum."
+        "association": "Think of 'sore' as similar to 'sorrow' because both involve discomfort or pain."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=extracurricular&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sore&type=2"
     },
     {
-      "id": "w00764",
-      "word": "tranquil",
+      "id": "w01388",
+      "word": "versatile",
       "type": "single",
-      "chapterIndex": 4,
-      "globalIndex": 764,
-      "chapter": "ch039",
-      "chapterName": "基本词汇 形容词和副词400 Unit 19",
+      "chapterIndex": 8,
+      "globalIndex": 1388,
+      "chapter": "ch070",
+      "chapterName": "核心词汇 青少年教育 Unit 10",
       "pronunciation": {
-        "us": "/ˈtræŋ.kwɪl/"
+        "us": "/ˈvɜr.sə.taɪl/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "宁静的",
-          "en": "Calm and peaceful, without any disturbance."
+          "zh": "多才多艺的",
+          "en": "Able to adapt or be used for many different purposes."
         },
         {
           "pos": "adj.",
-          "zh": "安静的",
-          "en": "A state of quietness and serenity."
+          "zh": "多功能的",
+          "en": "Having many different skills or abilities."
         }
       ],
       "examples": [
         {
-          "en": "The tranquil lake reflected the clear blue sky perfectly.",
-          "zh": "宁静的湖泊完美地映照出湛蓝的天空。"
+          "en": "She is a versatile actress who can perform in many genres.",
+          "zh": "她是一位多才多艺的女演员，能够在多种类型中表演。"
         },
         {
-          "en": "She found a tranquil spot in the garden to read her book.",
-          "zh": "她在花园里找到了一个宁静的地方阅读她的书。"
+          "en": "The versatile tool can be used for cutting, drilling, and sanding.",
+          "zh": "这个多功能工具可以用来切割、钻孔和打磨。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a tranquil scene, like a calm lake or a peaceful forest, to remember the word."
+        "association": "Think of 'versatile' as 'versatile vehicle' that can drive on any terrain."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=tranquil&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=versatile&type=2"
     },
     {
-      "id": "w01376",
-      "word": "temper",
+      "id": "w02150",
+      "word": "specimen",
       "type": "single",
-      "chapterIndex": 16,
-      "globalIndex": 1376,
-      "chapter": "ch069",
-      "chapterName": "核心词汇 青少年教育 Unit 9",
+      "chapterIndex": 250,
+      "globalIndex": 2150,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
       "pronunciation": {
-        "us": "/ˈtɛmpər/"
+        "us": "/ˈspɛs.ɪ.mən/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "脾气",
-          "en": "A person's mood or emotional state, especially when angry."
+          "zh": "样本，标本",
+          "en": "A specimen is a sample of something, often used for study or analysis."
         },
         {
-          "pos": "v.",
-          "zh": "调和",
-          "en": "To moderate or soften something, often emotions or feelings."
+          "pos": "n.",
+          "zh": "典型例子",
+          "en": "A specimen can also refer to an example that represents a group or type."
         }
       ],
       "examples": [
         {
-          "en": "He has a bad temper and often loses his cool.",
-          "zh": "他脾气不好，经常失去冷静。"
+          "en": "The scientist examined the specimen under a powerful microscope.",
+          "zh": "科学家在强显微镜下检查样本。"
         },
         {
-          "en": "She tried to temper her excitement before the big announcement.",
-          "zh": "在重要宣布之前，她试图平静自己的兴奋。"
+          "en": "They collected specimens of various plants for their research.",
+          "zh": "他们为研究收集了各种植物的样本。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'temper' as a 'temperature' of your emotions; when it rises, your temper can flare up."
+        "association": "Think of 'specimen' as a 'special mini' version of something, emphasizing its role as a sample or example."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=temper&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=specimen&type=2"
     },
     {
-      "id": "w01475",
-      "word": "miserable",
+      "id": "w00534",
+      "word": "economical",
       "type": "single",
-      "chapterIndex": 15,
-      "globalIndex": 1475,
+      "chapterIndex": 14,
+      "globalIndex": 534,
+      "chapter": "ch027",
+      "chapterName": "基本词汇 形容词和副词400 Unit 7",
+      "pronunciation": {
+        "us": "/ˌiː.kəˈnɑː.mɪ.kəl/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "经济的，节省的",
+          "en": "Relating to saving money or resources."
+        },
+        {
+          "pos": "adj.",
+          "zh": "有效的，划算的",
+          "en": "Providing good value for the amount of money spent."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Buying in bulk is often more economical than purchasing single items.",
+          "zh": "大宗购买通常比单件购买更经济。"
+        },
+        {
+          "en": "She found an economical way to travel during her vacation.",
+          "zh": "她找到了一种在假期旅行的经济方式。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'eco' in economical as related to 'eco-friendly', which often means saving resources."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=economical&type=2"
+    },
+    {
+      "id": "w01477",
+      "word": "pathological",
+      "type": "single",
+      "chapterIndex": 17,
+      "globalIndex": 1477,
       "chapter": "ch074",
       "chapterName": "核心词汇 动物权益与保护 Unit 4",
       "pronunciation": {
-        "us": "/ˈmɪz.ə.rə.bəl/"
+        "us": "/ˌpæθəˈlɒdʒɪkəl/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "痛苦的，悲惨的",
-          "en": "Feeling very unhappy or uncomfortable."
+          "zh": "病理的",
+          "en": "Relating to the study of diseases."
         },
         {
           "pos": "adj.",
-          "zh": "可怜的，糟糕的",
-          "en": "In a very bad state or condition."
+          "zh": "病态的",
+          "en": "Describing behavior that is abnormal or unhealthy."
         }
       ],
       "examples": [
         {
-          "en": "She felt miserable after failing her exam last week.",
-          "zh": "她在上周考试不及格后感到很痛苦。"
+          "en": "The doctor explained the pathological changes in the patient's tissues.",
+          "zh": "医生解释了病人组织中的病理变化。"
         },
         {
-          "en": "The weather was so miserable that we stayed indoors all day.",
-          "zh": "天气如此糟糕，以至于我们整天呆在室内。"
+          "en": "Her pathological jealousy caused problems in their relationship.",
+          "zh": "她的病态嫉妒在他们的关系中造成了问题。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'miserable' as someone who is missing their smile, making them look sad."
+        "etymology": "Derived from the Greek word 'pathos' meaning 'suffering' and 'logia' meaning 'study'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=miserable&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pathological&type=2"
     },
     {
-      "id": "w02360",
-      "word": "domestication",
-      "type": "single",
-      "chapterIndex": 2,
-      "globalIndex": 2360,
-      "chapter": "ch099",
-      "chapterName": "认知词汇 动物分类 动物行为",
-      "pronunciation": {
-        "us": "/dəˌmɛstəˈkeɪʃən/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "驯化",
-          "en": "The process of training wild animals or plants for human use."
-        },
-        {
-          "pos": "n.",
-          "zh": "家养",
-          "en": "The state of being adapted for living with humans."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Domestication of dogs began thousands of years ago.",
-          "zh": "狗的驯化始于几千年前。"
-        },
-        {
-          "en": "The domestication of crops was essential for agriculture.",
-          "zh": "作物的驯化对农业至关重要。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word originates from the Latin 'domus', meaning 'home'.",
-        "association": "Think of 'domestication' as 'making wild things at home'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=domestication&type=2"
-    },
-    {
-      "id": "w01374",
-      "word": "supervise",
-      "type": "single",
-      "chapterIndex": 14,
-      "globalIndex": 1374,
-      "chapter": "ch069",
-      "chapterName": "核心词汇 青少年教育 Unit 9",
-      "pronunciation": {
-        "us": "/ˈsuː.pɚ.vaɪz/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "监督",
-          "en": "To watch over and direct the work of others."
-        },
-        {
-          "pos": "v.",
-          "zh": "管理",
-          "en": "To be in charge of a project or group."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The manager will supervise the team during the project.",
-          "zh": "经理将在项目期间监督团队。"
-        },
-        {
-          "en": "Teachers supervise students to ensure they follow the rules.",
-          "zh": "老师监督学生以确保他们遵守规则。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'supervise' comes from the Latin 'supervidere', meaning 'to oversee'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=supervise&type=2"
-    },
-    {
-      "id": "w00970",
-      "word": "poison",
-      "type": "single",
-      "chapterIndex": 10,
-      "globalIndex": 970,
-      "chapter": "ch049",
-      "chapterName": "核心词汇 环境保护 Unit 4",
-      "pronunciation": {
-        "us": "/ˈpɔɪ.zən/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "毒药",
-          "en": "A substance that can cause illness or death when ingested."
-        },
-        {
-          "pos": "v.",
-          "zh": "毒害",
-          "en": "To make something harmful or deadly, especially by adding poison."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The scientist studied how poison affects the human body.",
-          "zh": "科学家研究毒药如何影响人体。"
-        },
-        {
-          "en": "He was poisoned by a toxic substance in the food.",
-          "zh": "他被食物中的有毒物质毒害了。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'poison' as a 'poisonous' drink that can harm you."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=poison&type=2"
-    },
-    {
-      "id": "w00961",
-      "word": "landfill",
-      "type": "single",
-      "chapterIndex": 1,
-      "globalIndex": 961,
-      "chapter": "ch049",
-      "chapterName": "核心词汇 环境保护 Unit 4",
-      "pronunciation": {
-        "us": "/ˈlændfɪl/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "垃圾填埋场",
-          "en": "A site where waste materials are buried."
-        },
-        {
-          "pos": "v.",
-          "zh": "填埋垃圾",
-          "en": "To dispose of waste by burying it in the ground."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The city is planning to close the old landfill soon.",
-          "zh": "这座城市计划很快关闭旧的垃圾填埋场。"
-        },
-        {
-          "en": "Landfilling is one of the most common waste disposal methods.",
-          "zh": "填埋是最常见的垃圾处理方法之一。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'land' as the ground and 'fill' as filling it with waste."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=landfill&type=2"
-    },
-    {
-      "id": "w01061",
-      "word": "minority",
-      "type": "single",
-      "chapterIndex": 1,
-      "globalIndex": 1061,
-      "chapter": "ch054",
-      "chapterName": "核心词汇 文化与传统 Unit 4",
-      "pronunciation": {
-        "us": "/məˈnɔɪ.ə.ti/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "少数群体",
-          "en": "A group that is smaller than the majority in a population."
-        },
-        {
-          "pos": "n.",
-          "zh": "少数派",
-          "en": "A group with different opinions or characteristics from the larger group."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The minority group fought for their rights and recognition.",
-          "zh": "少数群体为他们的权利和认可而斗争。"
-        },
-        {
-          "en": "In many countries, the minority languages are at risk of disappearing.",
-          "zh": "在许多国家，少数语言面临消失的风险。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'minority' comes from the Latin 'minor', meaning 'lesser' or 'smaller'.",
-        "association": "Think of 'minor' as something smaller, which can help you remember 'minority' as a smaller group."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=minority&type=2"
-    },
-    {
-      "id": "w00400",
-      "word": "yearning",
-      "type": "single",
-      "chapterIndex": 20,
-      "globalIndex": 400,
-      "chapter": "ch020",
-      "chapterName": "基本词汇 名词200 Unit 10",
-      "pronunciation": {
-        "us": "/ˈjɜrnɪŋ/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "渴望",
-          "en": "A strong feeling of wanting something very much."
-        },
-        {
-          "pos": "v.",
-          "zh": "渴望",
-          "en": "To have a deep desire for something."
-        }
-      ],
-      "examples": [
-        {
-          "en": "She felt a yearning for her childhood home after many years.",
-          "zh": "多年后，她对童年家园产生了渴望。"
-        },
-        {
-          "en": "His yearning to travel the world grew stronger every day.",
-          "zh": "他对环游世界的渴望与日俱增。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=yearning&type=2"
-    },
-    {
-      "id": "w01316",
-      "word": "jealousy",
-      "type": "single",
-      "chapterIndex": 16,
-      "globalIndex": 1316,
-      "chapter": "ch066",
-      "chapterName": "核心词汇 青少年教育 Unit 6",
-      "pronunciation": {
-        "us": "/ˈdʒɛləsi/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "嫉妒",
-          "en": "A feeling of wanting what someone else has, often leading to resentment."
-        },
-        {
-          "pos": "n.",
-          "zh": "妒忌",
-          "en": "An emotion experienced when someone feels insecure about their own worth compared to others."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Her jealousy over his success caused a rift in their friendship.",
-          "zh": "她对他成功的嫉妒导致了他们友谊的裂痕。"
-        },
-        {
-          "en": "Jealousy can harm relationships if not addressed properly.",
-          "zh": "如果不妥善处理，嫉妒可能会伤害关系。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of jealousy as 'green-eyed monster', which is a common saying that represents jealousy."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=jealousy&type=2"
-    },
-    {
-      "id": "w02170",
-      "word": "embryology",
-      "type": "single",
-      "chapterIndex": 270,
-      "globalIndex": 2170,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/ɛmˈbriː.ə.lə.dʒi/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "胚胎学",
-          "en": "The branch of biology that studies the development of embryos."
-        },
-        {
-          "pos": "n.",
-          "zh": "胚胎发育",
-          "en": "The process of an embryo developing into a fetus."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Embryology reveals how life begins and develops in the womb.",
-          "zh": "胚胎学揭示了生命如何在子宫中开始和发展。"
-        },
-        {
-          "en": "Studying embryology helps scientists understand genetic disorders.",
-          "zh": "研究胚胎学帮助科学家理解遗传性疾病。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'embryology' comes from the Greek 'embryon' meaning 'fetus' and 'logia' meaning 'study'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=embryology&type=2"
-    },
-    {
-      "id": "w02065",
-      "word": "frequency",
-      "type": "single",
-      "chapterIndex": 165,
-      "globalIndex": 2065,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/ˈfriː.kwən.si/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "频率",
-          "en": "The number of times something happens in a specific period."
-        },
-        {
-          "pos": "n.",
-          "zh": "频率",
-          "en": "The rate at which a repeating event occurs."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The frequency of earthquakes in that region is quite high.",
-          "zh": "该地区地震的频率相当高。"
-        },
-        {
-          "en": "We need to measure the frequency of our meetings to improve productivity.",
-          "zh": "我们需要测量会议的频率，以提高生产力。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'frequency' comes from the Latin 'frequentia', meaning 'a crowd' or 'repeated'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=frequency&type=2"
-    },
-    {
-      "id": "w00451",
-      "word": "beforehand",
-      "type": "single",
-      "chapterIndex": 11,
-      "globalIndex": 451,
-      "chapter": "ch023",
-      "chapterName": "基本词汇 形容词和副词400 Unit 3",
-      "pronunciation": {
-        "us": "/bɪˈfɔːrhænd/"
-      },
-      "meanings": [
-        {
-          "pos": "adv.",
-          "zh": "事先",
-          "en": "Before something happens; in advance."
-        },
-        {
-          "pos": "adj.",
-          "zh": "预先的",
-          "en": "Related to something that is done or known earlier."
-        }
-      ],
-      "examples": [
-        {
-          "en": "I prepared my presentation beforehand to ensure everything was ready.",
-          "zh": "我提前准备了我的演讲，以确保一切就绪。"
-        },
-        {
-          "en": "It is important to book tickets beforehand during the holiday season.",
-          "zh": "在假期期间，提前订票是很重要的。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'before' and 'hand'; you plan with your hands before an event."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=beforehand&type=2"
-    },
-    {
-      "id": "w00393",
-      "word": "vitality",
-      "type": "single",
-      "chapterIndex": 13,
-      "globalIndex": 393,
-      "chapter": "ch020",
-      "chapterName": "基本词汇 名词200 Unit 10",
-      "pronunciation": {
-        "us": "/vaɪˈtæləti/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "活力",
-          "en": "The state of being strong and active; energy."
-        },
-        {
-          "pos": "n.",
-          "zh": "生气",
-          "en": "The power to live, grow, and develop."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Regular exercise can greatly increase your vitality and overall health.",
-          "zh": "定期锻炼可以大大提高你的活力和整体健康。"
-        },
-        {
-          "en": "The vitality of the community was evident during the festival celebrations.",
-          "zh": "在节日庆祝活动中，社区的活力显而易见。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'vitality' as 'vital' + 'ity', where 'vital' means essential for life."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vitality&type=2"
-    },
-    {
-      "id": "w01738",
-      "word": "innocence",
+      "id": "w00678",
+      "word": "powerful",
       "type": "single",
       "chapterIndex": 18,
-      "globalIndex": 1738,
-      "chapter": "ch087",
-      "chapterName": "核心词汇 法制与犯罪 Unit 2",
+      "globalIndex": 678,
+      "chapter": "ch034",
+      "chapterName": "基本词汇 形容词和副词400 Unit 14",
       "pronunciation": {
-        "us": "/ˈɪnəsəns/"
+        "us": "/ˈpaʊərfəl/"
       },
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "无辜；清白",
-          "en": "The state of being not guilty or free from sin."
+          "pos": "adj.",
+          "zh": "强大的",
+          "en": "Having great power or strength."
         },
         {
-          "pos": "n.",
-          "zh": "幼稚；天真",
-          "en": "The quality of being naïve or lacking experience."
+          "pos": "adj.",
+          "zh": "有影响力的",
+          "en": "Able to have a strong effect on someone or something."
         }
       ],
       "examples": [
         {
-          "en": "Her innocence made her trust everyone she met.",
-          "zh": "她的无辜让她信任每一个遇到的人。"
+          "en": "The powerful engine allowed the car to accelerate quickly.",
+          "zh": "强大的发动机使汽车加速迅速。"
         },
         {
-          "en": "The child's innocence was evident in his playful nature.",
-          "zh": "孩子的天真在他顽皮的性格中显而易见。"
+          "en": "She gave a powerful speech that inspired everyone present.",
+          "zh": "她发表了激励在场每一个人的强有力演讲。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'innocence' as 'in no sense' - someone who is innocent has no bad intentions."
+        "association": "Think of a powerful figure, like a superhero, who has great strength and influence."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=innocence&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=powerful&type=2"
     },
     {
-      "id": "w01072",
-      "word": "prestige",
+      "id": "w01162",
+      "word": "moral",
       "type": "single",
-      "chapterIndex": 12,
-      "globalIndex": 1072,
-      "chapter": "ch054",
-      "chapterName": "核心词汇 文化与传统 Unit 4",
+      "chapterIndex": 2,
+      "globalIndex": 1162,
+      "chapter": "ch059",
+      "chapterName": "核心词汇 伦理与道德 Unit 4",
       "pronunciation": {
-        "us": "/prɛsˈtiːdʒ/"
+        "us": "/ˈmɔːrəl/"
       },
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "声望；威望",
-          "en": "The level of respect and admiration that someone or something has."
+          "pos": "adj.",
+          "zh": "道德的",
+          "en": "Relating to what is right and wrong in human behavior."
         },
         {
           "pos": "n.",
-          "zh": "威信；声誉",
-          "en": "The high status or reputation that is respected by others."
+          "zh": "道德",
+          "en": "A lesson about what is right or wrong, often taught through stories."
         }
       ],
       "examples": [
         {
-          "en": "Universities with great prestige often attract top students worldwide.",
-          "zh": "声誉高的大学通常吸引世界各地的优秀学生。"
+          "en": "The story conveys a strong moral about honesty and integrity.",
+          "zh": "这个故事传达了关于诚实和正直的强烈道德观。"
         },
         {
-          "en": "Many people desire jobs that come with prestige and influence.",
-          "zh": "许多人渴望拥有带有声望和影响力的工作。"
+          "en": "Understanding moral values is essential for personal development.",
+          "zh": "理解道德价值观对个人发展至关重要。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'prestige' as a combination of 'prestigious' and 'edge', meaning having an edge in respect."
+        "etymology": "The word 'moral' comes from the Latin 'moralis', which means 'pertaining to manners'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=prestige&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=moral&type=2"
+    },
+    {
+      "id": "w01238",
+      "word": "curiosity",
+      "type": "single",
+      "chapterIndex": 18,
+      "globalIndex": 1238,
+      "chapter": "ch062",
+      "chapterName": "核心词汇 青少年教育 Unit 2",
+      "pronunciation": {
+        "us": "/ˌkjʊə.riˈɒs.ɪ.ti/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "好奇心",
+          "en": "A strong desire to learn or know about something."
+        },
+        {
+          "pos": "n.",
+          "zh": "新奇事物",
+          "en": "Something that arouses interest or attention."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Her curiosity about the universe led her to study astronomy.",
+          "zh": "她对宇宙的好奇心使她选择学习天文学。"
+        },
+        {
+          "en": "Children often show great curiosity when exploring their surroundings.",
+          "zh": "孩子们在探索周围环境时常常表现出极大的好奇心。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'curiosity' comes from the Latin 'curiositas', meaning 'care' or 'inquisitiveness'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=curiosity&type=2"
+    },
+    {
+      "id": "w02395",
+      "word": "chimp",
+      "type": "single",
+      "chapterIndex": 13,
+      "globalIndex": 2395,
+      "chapter": "ch100",
+      "chapterName": "认知词汇 动物分类 动物智力与语言习得",
+      "pronunciation": {
+        "us": "/tʃɪmp/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "黑猩猩",
+          "en": "A chimp is a type of great ape known for its intelligence."
+        },
+        {
+          "pos": "n.",
+          "zh": "小丑",
+          "en": "The term 'chimp' can also refer to a person who acts silly or foolish."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Chimps are known for using tools to solve problems.",
+          "zh": "黑猩猩以使用工具解决问题而闻名。"
+        },
+        {
+          "en": "The scientist studied how chimps communicate with each other.",
+          "zh": "科学家研究了黑猩猩如何相互交流。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=chimp&type=2"
+    },
+    {
+      "id": "w02105",
+      "word": "tailstock",
+      "type": "single",
+      "chapterIndex": 205,
+      "globalIndex": 2105,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/ˈteɪlˌstɑk/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "尾座",
+          "en": "A part of a lathe that supports the end of the workpiece."
+        },
+        {
+          "pos": "n.",
+          "zh": "尾座",
+          "en": "A component used in machining to hold and stabilize materials."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The tailstock is essential for precision during machining tasks.",
+          "zh": "尾座在加工任务中对精确性至关重要。"
+        },
+        {
+          "en": "Adjusting the tailstock can improve the accuracy of your workpiece.",
+          "zh": "调整尾座可以提高工件的准确性。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'tail' as the end of something, which supports the workpiece like a tail supports a body."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=tailstock&type=2"
+    },
+    {
+      "id": "w01052",
+      "word": "homogeneous",
+      "type": "single",
+      "chapterIndex": 12,
+      "globalIndex": 1052,
+      "chapter": "ch053",
+      "chapterName": "核心词汇 文化与传统 Unit 3",
+      "pronunciation": {
+        "us": "/həˈmɒdʒənəs/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "同质的",
+          "en": "Consisting of parts or elements that are all the same."
+        },
+        {
+          "pos": "adj.",
+          "zh": "均匀的",
+          "en": "Having a uniform composition or character."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The students came from a homogeneous background, sharing similar cultural values.",
+          "zh": "学生们来自同质的背景，分享相似的文化价值观。"
+        },
+        {
+          "en": "The researchers studied a homogeneous group of participants for accurate results.",
+          "zh": "研究人员对一组同质的参与者进行了研究，以获得准确的结果。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'homogeneous' comes from the Greek 'homogenes', meaning 'of the same kind'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=homogeneous&type=2"
+    },
+    {
+      "id": "w01695",
+      "word": "vigour",
+      "type": "single",
+      "chapterIndex": 15,
+      "globalIndex": 1695,
+      "chapter": "ch085",
+      "chapterName": "核心词汇 工作与生活 Unit 5",
+      "pronunciation": {
+        "us": "/ˈvɪɡər/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "活力；精力",
+          "en": "The physical strength and energy to do something."
+        },
+        {
+          "pos": "n.",
+          "zh": "力量；强度",
+          "en": "The intensity or force of something."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She approached the challenge with great vigour and determination.",
+          "zh": "她以极大的活力和决心面对这个挑战。"
+        },
+        {
+          "en": "The team played with vigour, showcasing their skills on the field.",
+          "zh": "球队表现出活力，展示了他们在场上的技能。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vigour&type=2"
+    },
+    {
+      "id": "w00703",
+      "word": "refreshing",
+      "type": "single",
+      "chapterIndex": 3,
+      "globalIndex": 703,
+      "chapter": "ch036",
+      "chapterName": "基本词汇 形容词和副词400 Unit 16",
+      "pronunciation": {
+        "us": "/rɪˈfrɛʃɪŋ/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "清新的",
+          "en": "Something that is new and cool, making you feel better."
+        },
+        {
+          "pos": "adj.",
+          "zh": "令人振奋的",
+          "en": "Something that brings energy or new ideas."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The cool breeze on a hot day is quite refreshing.",
+          "zh": "炎热的日子里，凉爽的微风非常清新。"
+        },
+        {
+          "en": "She found the new approach to the problem very refreshing.",
+          "zh": "她觉得解决问题的新方法非常令人振奋。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a refreshing drink on a hot day, which cools and energizes you."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=refreshing&type=2"
+    },
+    {
+      "id": "w02487",
+      "word": "inconclusive research",
+      "type": "phrase",
+      "chapterIndex": 40,
+      "globalIndex": 2487,
+      "chapter": "ch102",
+      "chapterName": "认知词汇 自然分类 地震",
+      "pronunciation": {
+        "us": "/ˌɪn.kənˈkluː.sɪv ˈriː.sɜːrtʃ/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "不确定的， inconclusive",
+          "en": "Not leading to a clear or definite conclusion."
+        },
+        {
+          "pos": "n.",
+          "zh": "不确定的研究",
+          "en": "Research that does not provide clear findings or results."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The study produced inconclusive research, leaving many questions unanswered.",
+          "zh": "该研究产生了不确定的结果，留下了许多未解的问题。"
+        },
+        {
+          "en": "Inconclusive research can hinder further scientific progress in the field.",
+          "zh": "不确定的研究可能会阻碍该领域的进一步科学进展。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'inconclusive' as 'in' + 'conclude' + 'sive' – meaning it doesn't lead to a conclusion."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=inconclusive%20research&type=2"
+    },
+    {
+      "id": "w00781",
+      "word": "universal",
+      "type": "single",
+      "chapterIndex": 1,
+      "globalIndex": 781,
+      "chapter": "ch040",
+      "chapterName": "基本词汇 形容词和副词400 Unit 20",
+      "pronunciation": {
+        "us": "/ˌjunɪˈvɜrsl/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "普遍的；全球的",
+          "en": "Relating to all people or things in the world."
+        },
+        {
+          "pos": "n.",
+          "zh": "普遍原则；通用法则",
+          "en": "A concept or rule that applies to everyone or everything."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The universal language of music can connect people worldwide.",
+          "zh": "音乐的普遍语言可以连接全世界的人。"
+        },
+        {
+          "en": "Many cultures share universal values such as kindness and respect.",
+          "zh": "许多文化共享诸如善良和尊重这样的普遍价值观。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'universal' comes from the Latin 'universalis', meaning 'of all' or 'belonging to all'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=universal&type=2"
+    },
+    {
+      "id": "w01057",
+      "word": "infiltrate",
+      "type": "single",
+      "chapterIndex": 17,
+      "globalIndex": 1057,
+      "chapter": "ch053",
+      "chapterName": "核心词汇 文化与传统 Unit 3",
+      "pronunciation": {
+        "us": "/ˈɪnfɪltreɪt/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "渗透",
+          "en": "To enter or become part of something in a secret way."
+        },
+        {
+          "pos": "v.",
+          "zh": "影响",
+          "en": "To influence something gradually or secretly."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The spy managed to infiltrate the enemy's camp unnoticed.",
+          "zh": "间谍成功地秘密潜入了敌人的营地。"
+        },
+        {
+          "en": "Scientists are studying how pollutants can infiltrate water supplies.",
+          "zh": "科学家正在研究污染物如何渗入水源。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'infiltrate' comes from the Latin 'infiltrare', meaning 'to filter in'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=infiltrate&type=2"
     }
   ]
 }

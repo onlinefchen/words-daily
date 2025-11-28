@@ -1,69 +1,67 @@
 {
-  "generated": "2025-11-27T22:07:43.929Z",
+  "generated": "2025-11-28T22:07:30.168Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "embryology",
-      "pronunciation": "/ɛmˈbriː.ə.lə.dʒi/",
+      "word": "homogeneous",
+      "pronunciation": "/həˈmɒdʒənəs/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "胚胎学",
-          "en": "The branch of biology that studies the development of embryos."
+          "pos": "adj.",
+          "zh": "同质的",
+          "en": "Consisting of parts or elements that are all the same."
         },
         {
-          "pos": "n.",
-          "zh": "胚胎发育",
-          "en": "The process of an embryo developing into a fetus."
+          "pos": "adj.",
+          "zh": "均匀的",
+          "en": "Having a uniform composition or character."
         }
       ],
       "examples": [
         {
-          "en": "Embryology reveals how life begins and develops in the womb.",
-          "zh": "胚胎学揭示了生命如何在子宫中开始和发展。"
+          "en": "The students came from a homogeneous background, sharing similar cultural values.",
+          "zh": "学生们来自同质的背景，分享相似的文化价值观。"
         },
         {
-          "en": "Studying embryology helps scientists understand genetic disorders.",
-          "zh": "研究胚胎学帮助科学家理解遗传性疾病。"
+          "en": "The researchers studied a homogeneous group of participants for accurate results.",
+          "zh": "研究人员对一组同质的参与者进行了研究，以获得准确的结果。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'embryology' comes from the Greek 'embryon' meaning 'fetus' and 'logia' meaning 'study'."
+        "etymology": "The word 'homogeneous' comes from the Greek 'homogenes', meaning 'of the same kind'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=embryology&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=homogeneous&type=2",
+      "chapter": "核心词汇 文化与传统 Unit 3"
     },
     {
-      "word": "frequency",
-      "pronunciation": "/ˈfriː.kwən.si/",
+      "word": "vigour",
+      "pronunciation": "/ˈvɪɡər/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "频率",
-          "en": "The number of times something happens in a specific period."
+          "zh": "活力；精力",
+          "en": "The physical strength and energy to do something."
         },
         {
           "pos": "n.",
-          "zh": "频率",
-          "en": "The rate at which a repeating event occurs."
+          "zh": "力量；强度",
+          "en": "The intensity or force of something."
         }
       ],
       "examples": [
         {
-          "en": "The frequency of earthquakes in that region is quite high.",
-          "zh": "该地区地震的频率相当高。"
+          "en": "She approached the challenge with great vigour and determination.",
+          "zh": "她以极大的活力和决心面对这个挑战。"
         },
         {
-          "en": "We need to measure the frequency of our meetings to improve productivity.",
-          "zh": "我们需要测量会议的频率，以提高生产力。"
+          "en": "The team played with vigour, showcasing their skills on the field.",
+          "zh": "球队表现出活力，展示了他们在场上的技能。"
         }
       ],
-      "memoryTips": {
-        "etymology": "The word 'frequency' comes from the Latin 'frequentia', meaning 'a crowd' or 'repeated'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=frequency&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vigour&type=2",
+      "chapter": "核心词汇 工作与生活 Unit 5"
     }
   ]
 }

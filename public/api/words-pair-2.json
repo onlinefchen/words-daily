@@ -1,67 +1,67 @@
 {
-  "generated": "2025-11-27T22:07:43.928Z",
+  "generated": "2025-11-28T22:07:30.167Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "detect",
-      "pronunciation": "/dɪˈtɛkt/",
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "发现，侦测",
-          "en": "To notice or discover something."
-        },
-        {
-          "pos": "v.",
-          "zh": "测出，探测",
-          "en": "To find out the presence of something, especially something hidden."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Scientists can detect changes in the climate very quickly.",
-          "zh": "科学家能够很快发现气候变化。"
-        },
-        {
-          "en": "The security system is designed to detect any unauthorized access.",
-          "zh": "安全系统旨在检测任何未经授权的访问。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=detect&type=2",
-      "chapter": "认知词汇 动物分类 动物航行能力"
-    },
-    {
-      "word": "extracurricular",
-      "pronunciation": "/ˌɛkstrəˈkɜrɪkjələr/",
+      "word": "realistic style",
+      "pronunciation": "/ˌriːəˈlɪstɪk staɪl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "课外的",
-          "en": "Activities that are not part of the regular school curriculum."
+          "zh": "现实主义风格",
+          "en": "A style that represents things as they actually are."
         },
         {
           "pos": "n.",
-          "zh": "课外活动",
-          "en": "Activities like sports, music, or clubs that students participate in outside of regular classes."
+          "zh": "现实主义风格",
+          "en": "A way of creating art or literature that is true to life."
         }
       ],
       "examples": [
         {
-          "en": "Many students join extracurricular activities to develop new skills.",
-          "zh": "许多学生参加课外活动以发展新技能。"
+          "en": "The artist chose a realistic style to depict everyday life.",
+          "zh": "这位艺术家选择了现实主义风格来描绘日常生活。"
         },
         {
-          "en": "Extracurricular programs can help students make friends and explore interests.",
-          "zh": "课外项目可以帮助学生交朋友和探索兴趣。"
+          "en": "Her novel is praised for its realistic style and relatable characters.",
+          "zh": "她的小说因其现实主义风格和可亲近的角色而受到赞誉。"
+        }
+      ],
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=realistic%20style&type=2",
+      "chapter": "认知词汇 历史分类 电影发展史"
+    },
+    {
+      "word": "vent",
+      "pronunciation": "/vɛnt/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "发泄",
+          "en": "To express a strong emotion, such as anger or frustration."
+        },
+        {
+          "pos": "n.",
+          "zh": "通风口",
+          "en": "An opening that allows air to flow in or out of a space."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She needed to vent her frustrations after a long day at work.",
+          "zh": "她需要发泄一天工作后的沮丧情绪。"
+        },
+        {
+          "en": "The room was too hot, so I opened the vent to let in fresh air.",
+          "zh": "房间太热了，所以我打开通风口以让新鲜空气进来。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'extra' as additional activities outside the standard curriculum."
+        "association": "Think of a 'vent' as a way to 'let out' feelings or 'let in' fresh air."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=extracurricular&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 9"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vent&type=2",
+      "chapter": "认知词汇 自然分类 火山"
     }
   ]
 }

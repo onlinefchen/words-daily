@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-27T22:07:43.929Z",
+  "generated": "2025-11-28T22:07:30.168Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "innocence",
-      "pronunciation": "/ˈɪnəsəns/",
+      "word": "universal",
+      "pronunciation": "/ˌjunɪˈvɜrsl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "无辜；清白",
-          "en": "The state of being not guilty or free from sin."
+          "pos": "adj.",
+          "zh": "普遍的；全球的",
+          "en": "Relating to all people or things in the world."
         },
         {
           "pos": "n.",
-          "zh": "幼稚；天真",
-          "en": "The quality of being naïve or lacking experience."
+          "zh": "普遍原则；通用法则",
+          "en": "A concept or rule that applies to everyone or everything."
         }
       ],
       "examples": [
         {
-          "en": "Her innocence made her trust everyone she met.",
-          "zh": "她的无辜让她信任每一个遇到的人。"
+          "en": "The universal language of music can connect people worldwide.",
+          "zh": "音乐的普遍语言可以连接全世界的人。"
         },
         {
-          "en": "The child's innocence was evident in his playful nature.",
-          "zh": "孩子的天真在他顽皮的性格中显而易见。"
+          "en": "Many cultures share universal values such as kindness and respect.",
+          "zh": "许多文化共享诸如善良和尊重这样的普遍价值观。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'innocence' as 'in no sense' - someone who is innocent has no bad intentions."
+        "etymology": "The word 'universal' comes from the Latin 'universalis', meaning 'of all' or 'belonging to all'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=innocence&type=2",
-      "chapter": "核心词汇 法制与犯罪 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=universal&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 20"
     },
     {
-      "word": "prestige",
-      "pronunciation": "/prɛsˈtiːdʒ/",
+      "word": "infiltrate",
+      "pronunciation": "/ˈɪnfɪltreɪt/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "声望；威望",
-          "en": "The level of respect and admiration that someone or something has."
+          "pos": "v.",
+          "zh": "渗透",
+          "en": "To enter or become part of something in a secret way."
         },
         {
-          "pos": "n.",
-          "zh": "威信；声誉",
-          "en": "The high status or reputation that is respected by others."
+          "pos": "v.",
+          "zh": "影响",
+          "en": "To influence something gradually or secretly."
         }
       ],
       "examples": [
         {
-          "en": "Universities with great prestige often attract top students worldwide.",
-          "zh": "声誉高的大学通常吸引世界各地的优秀学生。"
+          "en": "The spy managed to infiltrate the enemy's camp unnoticed.",
+          "zh": "间谍成功地秘密潜入了敌人的营地。"
         },
         {
-          "en": "Many people desire jobs that come with prestige and influence.",
-          "zh": "许多人渴望拥有带有声望和影响力的工作。"
+          "en": "Scientists are studying how pollutants can infiltrate water supplies.",
+          "zh": "科学家正在研究污染物如何渗入水源。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'prestige' as a combination of 'prestigious' and 'edge', meaning having an edge in respect."
+        "etymology": "The word 'infiltrate' comes from the Latin 'infiltrare', meaning 'to filter in'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=prestige&type=2",
-      "chapter": "核心词汇 文化与传统 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=infiltrate&type=2",
+      "chapter": "核心词汇 文化与传统 Unit 3"
     }
   ]
 }

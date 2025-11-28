@@ -1,66 +1,68 @@
 {
-  "generated": "2025-11-27T22:07:43.928Z",
+  "generated": "2025-11-28T22:07:30.167Z",
   "count": 2,
   "words": [
     {
-      "word": "exotic pest",
-      "pronunciation": "/ɪɡˈzɒtɪk pɛst/",
+      "word": "leisure",
+      "pronunciation": "/ˈlɛʒər/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "外来的，奇异的",
-          "en": "Strange and unusual, often from a distant place."
+          "pos": "n.",
+          "zh": "休闲; 空闲时间",
+          "en": "Time when you are not working and can relax or enjoy activities."
         },
         {
-          "pos": "n.",
-          "zh": "外来害虫",
-          "en": "An insect or animal that is not native and causes harm to the environment."
+          "pos": "adj.",
+          "zh": "休闲的; 悠闲的",
+          "en": "Relating to activities that you do for enjoyment in your free time."
         }
       ],
       "examples": [
         {
-          "en": "The exotic pest destroyed many crops last summer.",
-          "zh": "这种外来害虫去年夏天摧毁了许多农作物。"
+          "en": "Many people enjoy reading books in their leisure time.",
+          "zh": "许多人喜欢在空闲时间阅读书籍。"
         },
         {
-          "en": "Scientists are studying how to control exotic pests effectively.",
-          "zh": "科学家们正在研究如何有效控制外来害虫。"
+          "en": "Leisure activities can help reduce stress and improve well-being.",
+          "zh": "休闲活动可以帮助减轻压力并改善健康。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'exotic' as something foreign and 'pest' as a nuisance. Together, they describe harmful foreign species."
+        "association": "Think of 'leisure' as 'leisurely' activities that you do to relax."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=exotic%20pest&type=2",
-      "chapter": "认知词汇 环境分类 病虫害防治"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=leisure&type=2",
+      "chapter": "核心词汇 工作与生活 Unit 3"
     },
     {
-      "word": "obscenity",
-      "pronunciation": "/əbˈscɛnɪti/",
+      "word": "definite",
+      "pronunciation": "/ˈdɛf.ɪ.nɪt/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "猥亵行为",
-          "en": "A very offensive act, especially in sexual terms."
+          "pos": "adj.",
+          "zh": "明确的",
+          "en": "Clearly defined or determined; not vague."
         },
         {
-          "pos": "n.",
-          "zh": "不雅的作品",
-          "en": "A piece of writing or art that is considered vulgar or indecent."
+          "pos": "adj.",
+          "zh": "肯定的",
+          "en": "Certain or sure about something."
         }
       ],
       "examples": [
         {
-          "en": "The movie was banned for its scenes of extreme obscenity.",
-          "zh": "这部电影因其极端猥亵的场景而被禁播。"
+          "en": "She gave a definite answer to the question asked in class.",
+          "zh": "她对课堂上提出的问题给出了明确的回答。"
         },
         {
-          "en": "She complained about the obscenity in his speech during the debate.",
-          "zh": "她抱怨他在辩论中演讲中的猥亵内容。"
+          "en": "There is a definite plan for the project's completion next month.",
+          "zh": "下个月有一个明确的计划来完成这个项目。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=obscenity&type=2",
-      "chapter": "核心词汇 伦理与道德 Unit 4"
+      "memoryTips": {
+        "association": "Think of 'definite' as having 'defense' against uncertainty, making things clear."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=definite&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 5"
     }
   ]
 }

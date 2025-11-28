@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-27T22:07:43.929Z",
+  "generated": "2025-11-28T22:07:30.168Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "beforehand",
-      "pronunciation": "/bɪˈfɔːrhænd/",
+      "word": "refreshing",
+      "pronunciation": "/rɪˈfrɛʃɪŋ/",
       "meanings": [
         {
-          "pos": "adv.",
-          "zh": "事先",
-          "en": "Before something happens; in advance."
+          "pos": "adj.",
+          "zh": "清新的",
+          "en": "Something that is new and cool, making you feel better."
         },
         {
           "pos": "adj.",
-          "zh": "预先的",
-          "en": "Related to something that is done or known earlier."
+          "zh": "令人振奋的",
+          "en": "Something that brings energy or new ideas."
         }
       ],
       "examples": [
         {
-          "en": "I prepared my presentation beforehand to ensure everything was ready.",
-          "zh": "我提前准备了我的演讲，以确保一切就绪。"
+          "en": "The cool breeze on a hot day is quite refreshing.",
+          "zh": "炎热的日子里，凉爽的微风非常清新。"
         },
         {
-          "en": "It is important to book tickets beforehand during the holiday season.",
-          "zh": "在假期期间，提前订票是很重要的。"
+          "en": "She found the new approach to the problem very refreshing.",
+          "zh": "她觉得解决问题的新方法非常令人振奋。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'before' and 'hand'; you plan with your hands before an event."
+        "association": "Think of a refreshing drink on a hot day, which cools and energizes you."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=beforehand&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=refreshing&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 16"
     },
     {
-      "word": "vitality",
-      "pronunciation": "/vaɪˈtæləti/",
+      "word": "inconclusive research",
+      "pronunciation": "/ˌɪn.kənˈkluː.sɪv ˈriː.sɜːrtʃ/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "活力",
-          "en": "The state of being strong and active; energy."
+          "pos": "adj.",
+          "zh": "不确定的， inconclusive",
+          "en": "Not leading to a clear or definite conclusion."
         },
         {
           "pos": "n.",
-          "zh": "生气",
-          "en": "The power to live, grow, and develop."
+          "zh": "不确定的研究",
+          "en": "Research that does not provide clear findings or results."
         }
       ],
       "examples": [
         {
-          "en": "Regular exercise can greatly increase your vitality and overall health.",
-          "zh": "定期锻炼可以大大提高你的活力和整体健康。"
+          "en": "The study produced inconclusive research, leaving many questions unanswered.",
+          "zh": "该研究产生了不确定的结果，留下了许多未解的问题。"
         },
         {
-          "en": "The vitality of the community was evident during the festival celebrations.",
-          "zh": "在节日庆祝活动中，社区的活力显而易见。"
+          "en": "Inconclusive research can hinder further scientific progress in the field.",
+          "zh": "不确定的研究可能会阻碍该领域的进一步科学进展。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'vitality' as 'vital' + 'ity', where 'vital' means essential for life."
+        "association": "Think of 'inconclusive' as 'in' + 'conclude' + 'sive' – meaning it doesn't lead to a conclusion."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vitality&type=2",
-      "chapter": "基本词汇 名词200 Unit 10"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=inconclusive%20research&type=2",
+      "chapter": "认知词汇 自然分类 地震"
     }
   ]
 }

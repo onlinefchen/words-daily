@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-27T22:07:43.929Z",
+  "generated": "2025-11-28T22:07:30.168Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "tranquil",
-      "pronunciation": "/ˈtræŋ.kwɪl/",
+      "word": "sore",
+      "pronunciation": "/sɔr/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "宁静的",
-          "en": "Calm and peaceful, without any disturbance."
+          "zh": "疼痛的",
+          "en": "Feeling pain or discomfort in a part of the body."
         },
-        {
-          "pos": "adj.",
-          "zh": "安静的",
-          "en": "A state of quietness and serenity."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The tranquil lake reflected the clear blue sky perfectly.",
-          "zh": "宁静的湖泊完美地映照出湛蓝的天空。"
-        },
-        {
-          "en": "She found a tranquil spot in the garden to read her book.",
-          "zh": "她在花园里找到了一个宁静的地方阅读她的书。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of a tranquil scene, like a calm lake or a peaceful forest, to remember the word."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=tranquil&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 19"
-    },
-    {
-      "word": "temper",
-      "pronunciation": "/ˈtɛmpər/",
-      "meanings": [
         {
           "pos": "n.",
-          "zh": "脾气",
-          "en": "A person's mood or emotional state, especially when angry."
-        },
-        {
-          "pos": "v.",
-          "zh": "调和",
-          "en": "To moderate or soften something, often emotions or feelings."
+          "zh": "痛处",
+          "en": "A place on the body that is painful."
         }
       ],
       "examples": [
         {
-          "en": "He has a bad temper and often loses his cool.",
-          "zh": "他脾气不好，经常失去冷静。"
+          "en": "After the workout, my legs were very sore and difficult to move.",
+          "zh": "锻炼后，我的腿非常疼，难以移动。"
         },
         {
-          "en": "She tried to temper her excitement before the big announcement.",
-          "zh": "在重要宣布之前，她试图平静自己的兴奋。"
+          "en": "She has a sore throat and can't speak properly today.",
+          "zh": "她的喉咙痛，今天说话不太清楚。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'temper' as a 'temperature' of your emotions; when it rises, your temper can flare up."
+        "association": "Think of 'sore' as similar to 'sorrow' because both involve discomfort or pain."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=temper&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 9"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sore&type=2",
+      "chapter": "核心词汇 健康话题 Unit 5"
+    },
+    {
+      "word": "versatile",
+      "pronunciation": "/ˈvɜr.sə.taɪl/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "多才多艺的",
+          "en": "Able to adapt or be used for many different purposes."
+        },
+        {
+          "pos": "adj.",
+          "zh": "多功能的",
+          "en": "Having many different skills or abilities."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She is a versatile actress who can perform in many genres.",
+          "zh": "她是一位多才多艺的女演员，能够在多种类型中表演。"
+        },
+        {
+          "en": "The versatile tool can be used for cutting, drilling, and sanding.",
+          "zh": "这个多功能工具可以用来切割、钻孔和打磨。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'versatile' as 'versatile vehicle' that can drive on any terrain."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=versatile&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 10"
     }
   ]
 }

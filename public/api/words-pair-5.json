@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-27T22:07:43.929Z",
+  "generated": "2025-11-28T22:07:30.168Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "supervise",
-      "pronunciation": "/ˈsuː.pɚ.vaɪz/",
+      "word": "pathological",
+      "pronunciation": "/ˌpæθəˈlɒdʒɪkəl/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "监督",
-          "en": "To watch over and direct the work of others."
+          "pos": "adj.",
+          "zh": "病理的",
+          "en": "Relating to the study of diseases."
         },
         {
-          "pos": "v.",
-          "zh": "管理",
-          "en": "To be in charge of a project or group."
+          "pos": "adj.",
+          "zh": "病态的",
+          "en": "Describing behavior that is abnormal or unhealthy."
         }
       ],
       "examples": [
         {
-          "en": "The manager will supervise the team during the project.",
-          "zh": "经理将在项目期间监督团队。"
+          "en": "The doctor explained the pathological changes in the patient's tissues.",
+          "zh": "医生解释了病人组织中的病理变化。"
         },
         {
-          "en": "Teachers supervise students to ensure they follow the rules.",
-          "zh": "老师监督学生以确保他们遵守规则。"
+          "en": "Her pathological jealousy caused problems in their relationship.",
+          "zh": "她的病态嫉妒在他们的关系中造成了问题。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'supervise' comes from the Latin 'supervidere', meaning 'to oversee'."
+        "etymology": "Derived from the Greek word 'pathos' meaning 'suffering' and 'logia' meaning 'study'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=supervise&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 9"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pathological&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 4"
     },
     {
-      "word": "poison",
-      "pronunciation": "/ˈpɔɪ.zən/",
+      "word": "powerful",
+      "pronunciation": "/ˈpaʊərfəl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "毒药",
-          "en": "A substance that can cause illness or death when ingested."
+          "pos": "adj.",
+          "zh": "强大的",
+          "en": "Having great power or strength."
         },
         {
-          "pos": "v.",
-          "zh": "毒害",
-          "en": "To make something harmful or deadly, especially by adding poison."
+          "pos": "adj.",
+          "zh": "有影响力的",
+          "en": "Able to have a strong effect on someone or something."
         }
       ],
       "examples": [
         {
-          "en": "The scientist studied how poison affects the human body.",
-          "zh": "科学家研究毒药如何影响人体。"
+          "en": "The powerful engine allowed the car to accelerate quickly.",
+          "zh": "强大的发动机使汽车加速迅速。"
         },
         {
-          "en": "He was poisoned by a toxic substance in the food.",
-          "zh": "他被食物中的有毒物质毒害了。"
+          "en": "She gave a powerful speech that inspired everyone present.",
+          "zh": "她发表了激励在场每一个人的强有力演讲。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'poison' as a 'poisonous' drink that can harm you."
+        "association": "Think of a powerful figure, like a superhero, who has great strength and influence."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=poison&type=2",
-      "chapter": "核心词汇 环境保护 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=powerful&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 14"
     }
   ]
 }

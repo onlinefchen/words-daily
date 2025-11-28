@@ -1,70 +1,69 @@
 {
-  "generated": "2025-11-27T22:07:43.929Z",
+  "generated": "2025-11-28T22:07:30.168Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "landfill",
-      "pronunciation": "/ˈlændfɪl/",
+      "word": "moral",
+      "pronunciation": "/ˈmɔːrəl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "垃圾填埋场",
-          "en": "A site where waste materials are buried."
+          "pos": "adj.",
+          "zh": "道德的",
+          "en": "Relating to what is right and wrong in human behavior."
         },
         {
-          "pos": "v.",
-          "zh": "填埋垃圾",
-          "en": "To dispose of waste by burying it in the ground."
+          "pos": "n.",
+          "zh": "道德",
+          "en": "A lesson about what is right or wrong, often taught through stories."
         }
       ],
       "examples": [
         {
-          "en": "The city is planning to close the old landfill soon.",
-          "zh": "这座城市计划很快关闭旧的垃圾填埋场。"
+          "en": "The story conveys a strong moral about honesty and integrity.",
+          "zh": "这个故事传达了关于诚实和正直的强烈道德观。"
         },
         {
-          "en": "Landfilling is one of the most common waste disposal methods.",
-          "zh": "填埋是最常见的垃圾处理方法之一。"
+          "en": "Understanding moral values is essential for personal development.",
+          "zh": "理解道德价值观对个人发展至关重要。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'land' as the ground and 'fill' as filling it with waste."
+        "etymology": "The word 'moral' comes from the Latin 'moralis', which means 'pertaining to manners'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=landfill&type=2",
-      "chapter": "核心词汇 环境保护 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=moral&type=2",
+      "chapter": "核心词汇 伦理与道德 Unit 4"
     },
     {
-      "word": "minority",
-      "pronunciation": "/məˈnɔɪ.ə.ti/",
+      "word": "curiosity",
+      "pronunciation": "/ˌkjʊə.riˈɒs.ɪ.ti/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "少数群体",
-          "en": "A group that is smaller than the majority in a population."
+          "zh": "好奇心",
+          "en": "A strong desire to learn or know about something."
         },
         {
           "pos": "n.",
-          "zh": "少数派",
-          "en": "A group with different opinions or characteristics from the larger group."
+          "zh": "新奇事物",
+          "en": "Something that arouses interest or attention."
         }
       ],
       "examples": [
         {
-          "en": "The minority group fought for their rights and recognition.",
-          "zh": "少数群体为他们的权利和认可而斗争。"
+          "en": "Her curiosity about the universe led her to study astronomy.",
+          "zh": "她对宇宙的好奇心使她选择学习天文学。"
         },
         {
-          "en": "In many countries, the minority languages are at risk of disappearing.",
-          "zh": "在许多国家，少数语言面临消失的风险。"
+          "en": "Children often show great curiosity when exploring their surroundings.",
+          "zh": "孩子们在探索周围环境时常常表现出极大的好奇心。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'minority' comes from the Latin 'minor', meaning 'lesser' or 'smaller'.",
-        "association": "Think of 'minor' as something smaller, which can help you remember 'minority' as a smaller group."
+        "etymology": "The word 'curiosity' comes from the Latin 'curiositas', meaning 'care' or 'inquisitiveness'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=minority&type=2",
-      "chapter": "核心词汇 文化与传统 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=curiosity&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 2"
     }
   ]
 }
