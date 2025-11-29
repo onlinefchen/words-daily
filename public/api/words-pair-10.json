@@ -1,69 +1,70 @@
 {
-  "generated": "2025-11-28T22:07:30.168Z",
+  "generated": "2025-11-29T22:07:36.823Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "universal",
-      "pronunciation": "/ˌjunɪˈvɜrsl/",
+      "word": "slaughter",
+      "pronunciation": "/ˈslɔːtər/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "普遍的；全球的",
-          "en": "Relating to all people or things in the world."
+          "pos": "v.",
+          "zh": "屠杀; 杀戮",
+          "en": "To kill animals for food or to kill a large number of people."
         },
         {
           "pos": "n.",
-          "zh": "普遍原则；通用法则",
-          "en": "A concept or rule that applies to everyone or everything."
+          "zh": "屠杀; 杀戮",
+          "en": "The act of killing a large number of animals or people."
         }
       ],
       "examples": [
         {
-          "en": "The universal language of music can connect people worldwide.",
-          "zh": "音乐的普遍语言可以连接全世界的人。"
+          "en": "The slaughter of animals for food raises ethical questions.",
+          "zh": "为食物屠杀动物引发了伦理问题。"
         },
         {
-          "en": "Many cultures share universal values such as kindness and respect.",
-          "zh": "许多文化共享诸如善良和尊重这样的普遍价值观。"
+          "en": "The documentary highlighted the slaughter that occurs during wars.",
+          "zh": "这部纪录片强调了战争中发生的屠杀。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'universal' comes from the Latin 'universalis', meaning 'of all' or 'belonging to all'."
+        "association": "Think of 'slaughter' as 'slay' and 'laughter' combined; it's a serious act that contrasts with joy."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=universal&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 20"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=slaughter&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 5"
     },
     {
-      "word": "infiltrate",
-      "pronunciation": "/ˈɪnfɪltreɪt/",
+      "word": "indifferent",
+      "pronunciation": "/ɪnˈdɪf.ər.ənt/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "渗透",
-          "en": "To enter or become part of something in a secret way."
+          "pos": "adj.",
+          "zh": "不关心的",
+          "en": "Not interested in or concerned about something."
         },
         {
-          "pos": "v.",
-          "zh": "影响",
-          "en": "To influence something gradually or secretly."
+          "pos": "adj.",
+          "zh": "冷漠的",
+          "en": "Showing no preference or response; apathetic."
         }
       ],
       "examples": [
         {
-          "en": "The spy managed to infiltrate the enemy's camp unnoticed.",
-          "zh": "间谍成功地秘密潜入了敌人的营地。"
+          "en": "She remained indifferent to the ongoing debate about climate change.",
+          "zh": "她对气候变化的持续辩论保持冷漠。"
         },
         {
-          "en": "Scientists are studying how pollutants can infiltrate water supplies.",
-          "zh": "科学家正在研究污染物如何渗入水源。"
+          "en": "His indifferent attitude towards studying worried his teachers.",
+          "zh": "他对学习的漠不关心让老师们感到担忧。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'infiltrate' comes from the Latin 'infiltrare', meaning 'to filter in'."
+        "association": "Think of 'indifferent' as 'in different'; when you are indifferent, you are in a different state of caring.",
+        "mnemonic": "Indifferent sounds like 'in different', which can help you remember that it means not caring about differences."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=infiltrate&type=2",
-      "chapter": "核心词汇 文化与传统 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=indifferent&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 10"
     }
   ]
 }

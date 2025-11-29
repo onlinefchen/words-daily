@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-28T22:07:30.168Z",
+  "generated": "2025-11-29T22:07:36.823Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "moral",
-      "pronunciation": "/ˈmɔːrəl/",
+      "word": "sufficient",
+      "pronunciation": "/səˈfɪʃ.ənt/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "道德的",
-          "en": "Relating to what is right and wrong in human behavior."
+          "zh": "足够的",
+          "en": "Enough to meet the needs or requirements."
         },
         {
-          "pos": "n.",
-          "zh": "道德",
-          "en": "A lesson about what is right or wrong, often taught through stories."
+          "pos": "adj.",
+          "zh": "充足的",
+          "en": "Having what is needed for a specific purpose."
         }
       ],
       "examples": [
         {
-          "en": "The story conveys a strong moral about honesty and integrity.",
-          "zh": "这个故事传达了关于诚实和正直的强烈道德观。"
+          "en": "The food provided at the event was sufficient for everyone.",
+          "zh": "活动提供的食物对每个人来说都足够。"
         },
         {
-          "en": "Understanding moral values is essential for personal development.",
-          "zh": "理解道德价值观对个人发展至关重要。"
+          "en": "She had sufficient time to finish her project before the deadline.",
+          "zh": "她有足够的时间在截止日期前完成项目。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'moral' comes from the Latin 'moralis', which means 'pertaining to manners'."
+        "association": "Think of 'sufficient' as 'sufficient enough' to help you remember it means adequate or enough."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=moral&type=2",
-      "chapter": "核心词汇 伦理与道德 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sufficient&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 18"
     },
     {
-      "word": "curiosity",
-      "pronunciation": "/ˌkjʊə.riˈɒs.ɪ.ti/",
+      "word": "vice",
+      "pronunciation": "/vaɪs/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "好奇心",
-          "en": "A strong desire to learn or know about something."
+          "zh": "恶习",
+          "en": "A bad habit or immoral behavior."
         },
         {
           "pos": "n.",
-          "zh": "新奇事物",
-          "en": "Something that arouses interest or attention."
+          "zh": "副手",
+          "en": "A person who acts as a substitute or assistant."
         }
       ],
       "examples": [
         {
-          "en": "Her curiosity about the universe led her to study astronomy.",
-          "zh": "她对宇宙的好奇心使她选择学习天文学。"
+          "en": "His vice of gambling caused many problems in his life.",
+          "zh": "他赌博的恶习给他的生活带来了很多问题。"
         },
         {
-          "en": "Children often show great curiosity when exploring their surroundings.",
-          "zh": "孩子们在探索周围环境时常常表现出极大的好奇心。"
+          "en": "The vice president will attend the meeting tomorrow.",
+          "zh": "副总统明天将参加会议。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'curiosity' comes from the Latin 'curiositas', meaning 'care' or 'inquisitiveness'."
+        "etymology": "The word 'vice' comes from the Latin 'vitium', meaning 'fault' or 'defect'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=curiosity&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vice&type=2",
+      "chapter": "核心词汇 工作与生活 Unit 5"
     }
   ]
 }

@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-28T22:07:30.168Z",
+  "generated": "2025-11-29T22:07:36.822Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "sore",
-      "pronunciation": "/sɔr/",
+      "word": "entertaining",
+      "pronunciation": "/ˌɛn.təˈteɪ.nɪŋ/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "疼痛的",
-          "en": "Feeling pain or discomfort in a part of the body."
+          "zh": "有趣的，娱乐的",
+          "en": "Providing enjoyment or amusement."
+        },
+        {
+          "pos": "v.",
+          "zh": "使娱乐",
+          "en": "To keep someone amused or to provide enjoyment."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The movie was so entertaining that I watched it twice.",
+          "zh": "这部电影太有趣了，我看了两遍。"
+        },
+        {
+          "en": "She has an entertaining way of telling stories.",
+          "zh": "她讲故事的方式很有趣。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'entertaining' as 'enter-taining', which suggests entering a space of fun."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=entertaining&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 8"
+    },
+    {
+      "word": "breadwinner",
+      "pronunciation": "/ˈbrɛdˌwɪnər/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "家庭收入者",
+          "en": "A person who earns money to support a family."
         },
         {
           "pos": "n.",
-          "zh": "痛处",
-          "en": "A place on the body that is painful."
+          "zh": "主要经济来源",
+          "en": "The main source of income for a household."
         }
       ],
       "examples": [
         {
-          "en": "After the workout, my legs were very sore and difficult to move.",
-          "zh": "锻炼后，我的腿非常疼，难以移动。"
+          "en": "She is the main breadwinner in her family, working long hours.",
+          "zh": "她是家庭的主要收入者，工作时间很长。"
         },
         {
-          "en": "She has a sore throat and can't speak properly today.",
-          "zh": "她的喉咙痛，今天说话不太清楚。"
+          "en": "In many families, the father is often seen as the breadwinner.",
+          "zh": "在许多家庭中，父亲常被视为经济支柱。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'sore' as similar to 'sorrow' because both involve discomfort or pain."
+        "association": "Think of 'bread' as the basic need and 'winner' as someone who provides it."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sore&type=2",
-      "chapter": "核心词汇 健康话题 Unit 5"
-    },
-    {
-      "word": "versatile",
-      "pronunciation": "/ˈvɜr.sə.taɪl/",
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "多才多艺的",
-          "en": "Able to adapt or be used for many different purposes."
-        },
-        {
-          "pos": "adj.",
-          "zh": "多功能的",
-          "en": "Having many different skills or abilities."
-        }
-      ],
-      "examples": [
-        {
-          "en": "She is a versatile actress who can perform in many genres.",
-          "zh": "她是一位多才多艺的女演员，能够在多种类型中表演。"
-        },
-        {
-          "en": "The versatile tool can be used for cutting, drilling, and sanding.",
-          "zh": "这个多功能工具可以用来切割、钻孔和打磨。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'versatile' as 'versatile vehicle' that can drive on any terrain."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=versatile&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 10"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=breadwinner&type=2",
+      "chapter": "核心词汇 工作与生活 Unit 1"
     }
   ]
 }

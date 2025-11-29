@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-28T22:07:30.168Z",
+  "generated": "2025-11-29T22:07:36.823Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "refreshing",
-      "pronunciation": "/rɪˈfrɛʃɪŋ/",
+      "word": "seemingly",
+      "pronunciation": "/ˈsiːmɪŋli/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "清新的",
-          "en": "Something that is new and cool, making you feel better."
+          "pos": "adv.",
+          "zh": "似乎",
+          "en": "In a way that appears to be true but may not be."
         },
         {
-          "pos": "adj.",
-          "zh": "令人振奋的",
-          "en": "Something that brings energy or new ideas."
+          "pos": "adv.",
+          "zh": "表面上",
+          "en": "According to how something looks or seems."
         }
       ],
       "examples": [
         {
-          "en": "The cool breeze on a hot day is quite refreshing.",
-          "zh": "炎热的日子里，凉爽的微风非常清新。"
+          "en": "She seemingly passed the exam without studying much at all.",
+          "zh": "她似乎在几乎没有学习的情况下通过了考试。"
         },
         {
-          "en": "She found the new approach to the problem very refreshing.",
-          "zh": "她觉得解决问题的新方法非常令人振奋。"
+          "en": "The project was seemingly successful, but it had hidden problems.",
+          "zh": "这个项目表面上是成功的，但它有隐藏的问题。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a refreshing drink on a hot day, which cools and energizes you."
+        "association": "Think of 'seem' as how things appear; 'ingly' suggests a manner, so 'seemingly' is how things appear to be."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=refreshing&type=2",
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=seemingly&type=2",
       "chapter": "基本词汇 形容词和副词400 Unit 16"
     },
     {
-      "word": "inconclusive research",
-      "pronunciation": "/ˌɪn.kənˈkluː.sɪv ˈriː.sɜːrtʃ/",
+      "word": "conformity",
+      "pronunciation": "/kənˈfɔːrmɪti/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "不确定的， inconclusive",
-          "en": "Not leading to a clear or definite conclusion."
+          "pos": "n.",
+          "zh": "一致，遵从",
+          "en": "The act of following rules or standards."
         },
         {
           "pos": "n.",
-          "zh": "不确定的研究",
-          "en": "Research that does not provide clear findings or results."
+          "zh": "适应，顺应",
+          "en": "Behavior that matches the expectations of a group."
         }
       ],
       "examples": [
         {
-          "en": "The study produced inconclusive research, leaving many questions unanswered.",
-          "zh": "该研究产生了不确定的结果，留下了许多未解的问题。"
+          "en": "Many students feel pressure to maintain conformity in their social groups.",
+          "zh": "许多学生感受到在社交群体中保持一致性的压力。"
         },
         {
-          "en": "Inconclusive research can hinder further scientific progress in the field.",
-          "zh": "不确定的研究可能会阻碍该领域的进一步科学进展。"
+          "en": "Conformity can limit creativity and individual expression.",
+          "zh": "一致性可能会限制创造力和个人表达。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'inconclusive' as 'in' + 'conclude' + 'sive' – meaning it doesn't lead to a conclusion."
+        "association": "Think of 'conformity' as 'conforming' to norms, like wearing uniforms in schools."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=inconclusive%20research&type=2",
-      "chapter": "认知词汇 自然分类 地震"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=conformity&type=2",
+      "chapter": "核心词汇 民主与权利 Unit 1"
     }
   ]
 }

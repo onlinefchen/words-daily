@@ -1,69 +1,70 @@
 {
-  "generated": "2025-11-28T22:07:30.167Z",
+  "generated": "2025-11-29T22:07:36.822Z",
   "pair": 1,
   "count": 2,
   "words": [
     {
-      "word": "leisure",
-      "pronunciation": "/ˈlɛʒər/",
+      "word": "genetic",
+      "pronunciation": "/dʒəˈnɛtɪk/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "休闲; 空闲时间",
-          "en": "Time when you are not working and can relax or enjoy activities."
+          "pos": "adj.",
+          "zh": "遗传的",
+          "en": "Relating to genes or heredity."
         },
         {
           "pos": "adj.",
-          "zh": "休闲的; 悠闲的",
-          "en": "Relating to activities that you do for enjoyment in your free time."
+          "zh": "基因的",
+          "en": "Connected to the biological information passed from parents to offspring."
         }
       ],
       "examples": [
         {
-          "en": "Many people enjoy reading books in their leisure time.",
-          "zh": "许多人喜欢在空闲时间阅读书籍。"
+          "en": "Scientists study genetic factors that influence human behavior.",
+          "zh": "科学家研究影响人类行为的遗传因素。"
         },
         {
-          "en": "Leisure activities can help reduce stress and improve well-being.",
-          "zh": "休闲活动可以帮助减轻压力并改善健康。"
+          "en": "Genetic engineering can create crops that resist pests.",
+          "zh": "基因工程可以创造抵抗害虫的作物。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'leisure' as 'leisurely' activities that you do to relax."
+        "association": "Think of 'genetic' as being related to 'genes', which are the building blocks of heredity."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=leisure&type=2",
-      "chapter": "核心词汇 工作与生活 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=genetic&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 9"
     },
     {
-      "word": "definite",
-      "pronunciation": "/ˈdɛf.ɪ.nɪt/",
+      "word": "physiological",
+      "pronunciation": "/ˌfɪziəˈlɒdʒɪkəl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "明确的",
-          "en": "Clearly defined or determined; not vague."
+          "zh": "生理的",
+          "en": "Related to the functions and processes of living organisms."
         },
         {
           "pos": "adj.",
-          "zh": "肯定的",
-          "en": "Certain or sure about something."
+          "zh": "生理学的",
+          "en": "Pertaining to the scientific study of how living things work."
         }
       ],
       "examples": [
         {
-          "en": "She gave a definite answer to the question asked in class.",
-          "zh": "她对课堂上提出的问题给出了明确的回答。"
+          "en": "The physiological responses to stress can affect overall health.",
+          "zh": "对压力的生理反应会影响整体健康。"
         },
         {
-          "en": "There is a definite plan for the project's completion next month.",
-          "zh": "下个月有一个明确的计划来完成这个项目。"
+          "en": "Understanding physiological processes is crucial in medicine.",
+          "zh": "理解生理过程对医学至关重要。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'definite' as having 'defense' against uncertainty, making things clear."
+        "etymology": "The word 'physiological' comes from Greek roots: 'physio-' meaning 'nature' and '-logical' meaning 'study of'.",
+        "association": "Think of 'physiological' as 'physical logic'—the logical processes behind physical functions."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=definite&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=physiological&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 4"
     }
   ]
 }

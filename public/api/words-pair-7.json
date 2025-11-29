@@ -1,67 +1,64 @@
 {
-  "generated": "2025-11-28T22:07:30.168Z",
+  "generated": "2025-11-29T22:07:36.823Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "chimp",
-      "pronunciation": "/tʃɪmp/",
+      "word": "indispensable",
+      "pronunciation": "/ˌɪn.dɪsˈpɛn.sə.bəl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "黑猩猩",
-          "en": "A chimp is a type of great ape known for its intelligence."
-        },
-        {
-          "pos": "n.",
-          "zh": "小丑",
-          "en": "The term 'chimp' can also refer to a person who acts silly or foolish."
+          "pos": "adj.",
+          "zh": "不可或缺的",
+          "en": "Absolutely necessary; essential."
         }
       ],
       "examples": [
         {
-          "en": "Chimps are known for using tools to solve problems.",
-          "zh": "黑猩猩以使用工具解决问题而闻名。"
+          "en": "Water is an indispensable resource for all living beings.",
+          "zh": "水是所有生物不可或缺的资源。"
         },
         {
-          "en": "The scientist studied how chimps communicate with each other.",
-          "zh": "科学家研究了黑猩猩如何相互交流。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=chimp&type=2",
-      "chapter": "认知词汇 动物分类 动物智力与语言习得"
-    },
-    {
-      "word": "tailstock",
-      "pronunciation": "/ˈteɪlˌstɑk/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "尾座",
-          "en": "A part of a lathe that supports the end of the workpiece."
-        },
-        {
-          "pos": "n.",
-          "zh": "尾座",
-          "en": "A component used in machining to hold and stabilize materials."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The tailstock is essential for precision during machining tasks.",
-          "zh": "尾座在加工任务中对精确性至关重要。"
-        },
-        {
-          "en": "Adjusting the tailstock can improve the accuracy of your workpiece.",
-          "zh": "调整尾座可以提高工件的准确性。"
+          "en": "Good communication skills are indispensable in the workplace.",
+          "zh": "良好的沟通技巧在职场中是不可或缺的。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'tail' as the end of something, which supports the workpiece like a tail supports a body."
+        "association": "Think of 'indispensable' as 'in + dispense + able' - something you cannot do without."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=tailstock&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=indispensable&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 10"
+    },
+    {
+      "word": "resource",
+      "pronunciation": "/ˈriːsɔːrs/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "资源",
+          "en": "A resource is something that can be used to help achieve goals or support needs."
+        },
+        {
+          "pos": "v.",
+          "zh": "提供资源",
+          "en": "To resource means to supply or provide necessary items or support for a project."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The library is an important resource for students and researchers.",
+          "zh": "图书馆对学生和研究人员来说是一个重要的资源。"
+        },
+        {
+          "en": "Companies need to resource their teams effectively for success.",
+          "zh": "公司需要有效地为他们的团队提供资源以获得成功。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'resource' as a 'source' of help or materials."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=resource&type=2",
+      "chapter": "基本词汇 名词200 Unit 7"
     }
   ]
 }

@@ -1,67 +1,62 @@
 {
-  "generated": "2025-11-28T22:07:30.167Z",
+  "generated": "2025-11-29T22:07:36.822Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "realistic style",
-      "pronunciation": "/ˌriːəˈlɪstɪk staɪl/",
+      "word": "bowl-shaped crater",
+      "pronunciation": "/boʊl ʃeɪpt ˈkreɪtər/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "现实主义风格",
-          "en": "A style that represents things as they actually are."
-        },
-        {
           "pos": "n.",
-          "zh": "现实主义风格",
-          "en": "A way of creating art or literature that is true to life."
+          "zh": "碗形火山口",
+          "en": "A bowl-shaped hollow in the ground, often formed by volcanic activity."
         }
       ],
       "examples": [
         {
-          "en": "The artist chose a realistic style to depict everyday life.",
-          "zh": "这位艺术家选择了现实主义风格来描绘日常生活。"
+          "en": "The bowl-shaped crater was formed after the volcanic eruption.",
+          "zh": "这个碗形火山口是在火山爆发后形成的。"
         },
         {
-          "en": "Her novel is praised for its realistic style and relatable characters.",
-          "zh": "她的小说因其现实主义风格和可亲近的角色而受到赞誉。"
+          "en": "Scientists study the bowl-shaped crater to understand its formation.",
+          "zh": "科学家研究这个碗形火山口以了解它的形成。"
         }
       ],
       "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=realistic%20style&type=2",
-      "chapter": "认知词汇 历史分类 电影发展史"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=bowl-shaped%20crater&type=2",
+      "chapter": "认知词汇 自然分类 火山"
     },
     {
-      "word": "vent",
-      "pronunciation": "/vɛnt/",
+      "word": "qualified teacher",
+      "pronunciation": "/ˈkwɒlɪfaɪd ˈtiːtʃər/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "发泄",
-          "en": "To express a strong emotion, such as anger or frustration."
+          "pos": "adj.",
+          "zh": "合格教师",
+          "en": "A teacher who has the necessary skills and training to teach."
         },
         {
           "pos": "n.",
-          "zh": "通风口",
-          "en": "An opening that allows air to flow in or out of a space."
+          "zh": "合格教师",
+          "en": "A person who is officially recognized to teach due to their qualifications."
         }
       ],
       "examples": [
         {
-          "en": "She needed to vent her frustrations after a long day at work.",
-          "zh": "她需要发泄一天工作后的沮丧情绪。"
+          "en": "A qualified teacher can significantly improve student learning outcomes.",
+          "zh": "一位合格的教师可以显著提高学生的学习成果。"
         },
         {
-          "en": "The room was too hot, so I opened the vent to let in fresh air.",
-          "zh": "房间太热了，所以我打开通风口以让新鲜空气进来。"
+          "en": "Many schools require all teachers to be qualified before hiring.",
+          "zh": "许多学校要求所有教师在雇用前必须具备资格。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'vent' as a way to 'let out' feelings or 'let in' fresh air."
+        "association": "Think of a 'qualified teacher' as a 'key' to open the door to knowledge for students."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vent&type=2",
-      "chapter": "认知词汇 自然分类 火山"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=qualified%20teacher&type=2",
+      "chapter": "阅读真题认知词汇 小班教学"
     }
   ]
 }

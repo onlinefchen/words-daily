@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-28T22:07:30.168Z",
+  "generated": "2025-11-29T22:07:36.822Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "pathological",
-      "pronunciation": "/ˌpæθəˈlɒdʒɪkəl/",
+      "word": "arboreal",
+      "pronunciation": "/ɑːrˈbɔːr.i.əl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "病理的",
-          "en": "Relating to the study of diseases."
+          "zh": "树栖的",
+          "en": "Relating to trees; living in trees."
         },
         {
           "pos": "adj.",
-          "zh": "病态的",
-          "en": "Describing behavior that is abnormal or unhealthy."
+          "zh": "树木生长的",
+          "en": "Describing animals that primarily inhabit or move through trees."
         }
       ],
       "examples": [
         {
-          "en": "The doctor explained the pathological changes in the patient's tissues.",
-          "zh": "医生解释了病人组织中的病理变化。"
+          "en": "Monkeys are often classified as arboreal animals due to their tree-dwelling habits.",
+          "zh": "猴子通常被归类为树栖动物，因为它们的栖息习惯在树上。"
         },
         {
-          "en": "Her pathological jealousy caused problems in their relationship.",
-          "zh": "她的病态嫉妒在他们的关系中造成了问题。"
+          "en": "The arboreal lifestyle of sloths makes them unique among mammals.",
+          "zh": "树栖生活方式使树懒在哺乳动物中独树一帜。"
         }
       ],
       "memoryTips": {
-        "etymology": "Derived from the Greek word 'pathos' meaning 'suffering' and 'logia' meaning 'study'."
+        "association": "Think of 'arbor', which means tree, to remember 'arboreal' relates to trees."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pathological&type=2",
-      "chapter": "核心词汇 动物权益与保护 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=arboreal&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "powerful",
-      "pronunciation": "/ˈpaʊərfəl/",
+      "word": "poison",
+      "pronunciation": "/ˈpɔɪ.zən/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "强大的",
-          "en": "Having great power or strength."
+          "pos": "n.",
+          "zh": "毒药",
+          "en": "A substance that can cause harm or death if taken into the body."
         },
         {
-          "pos": "adj.",
-          "zh": "有影响力的",
-          "en": "Able to have a strong effect on someone or something."
+          "pos": "v.",
+          "zh": "毒害",
+          "en": "To make something harmful or deadly by adding a poison."
         }
       ],
       "examples": [
         {
-          "en": "The powerful engine allowed the car to accelerate quickly.",
-          "zh": "强大的发动机使汽车加速迅速。"
+          "en": "The scientist studied how poison affects the human body.",
+          "zh": "科学家研究毒药如何影响人体。"
         },
         {
-          "en": "She gave a powerful speech that inspired everyone present.",
-          "zh": "她发表了激励在场每一个人的强有力演讲。"
+          "en": "He tried to poison the rat in his kitchen.",
+          "zh": "他试图毒死厨房里的老鼠。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a powerful figure, like a superhero, who has great strength and influence."
+        "association": "Think of a 'poison apple' from fairy tales, symbolizing danger."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=powerful&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 14"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=poison&type=2",
+      "chapter": "核心词汇 健康话题 Unit 4"
     }
   ]
 }

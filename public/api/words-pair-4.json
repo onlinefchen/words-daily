@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-28T22:07:30.168Z",
+  "generated": "2025-11-29T22:07:36.822Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "specimen",
-      "pronunciation": "/ˈspɛs.ɪ.mən/",
+      "word": "suffering",
+      "pronunciation": "/ˈsʌfərɪŋ/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "样本，标本",
-          "en": "A specimen is a sample of something, often used for study or analysis."
+          "zh": "痛苦; 苦难",
+          "en": "The state of experiencing pain or distress."
         },
         {
-          "pos": "n.",
-          "zh": "典型例子",
-          "en": "A specimen can also refer to an example that represents a group or type."
+          "pos": "v.",
+          "zh": "遭受; 经历",
+          "en": "To experience something unpleasant."
         }
       ],
       "examples": [
         {
-          "en": "The scientist examined the specimen under a powerful microscope.",
-          "zh": "科学家在强显微镜下检查样本。"
+          "en": "Many people are suffering from mental health issues today.",
+          "zh": "今天，许多人都在遭受心理健康问题。"
         },
         {
-          "en": "They collected specimens of various plants for their research.",
-          "zh": "他们为研究收集了各种植物的样本。"
+          "en": "She dedicated her life to helping those who are suffering.",
+          "zh": "她把一生奉献给帮助那些受苦的人。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'specimen' as a 'special mini' version of something, emphasizing its role as a sample or example."
+        "association": "Think of 'suffering' as 'suffocating' from pain, connecting the two concepts."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=specimen&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=suffering&type=2",
+      "chapter": "核心词汇 健康话题 Unit 5"
     },
     {
-      "word": "economical",
-      "pronunciation": "/ˌiː.kəˈnɑː.mɪ.kəl/",
+      "word": "spoiled",
+      "pronunciation": "/spɔɪld/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "经济的，节省的",
-          "en": "Relating to saving money or resources."
+          "zh": "被宠坏的",
+          "en": "Having been treated too well, making someone or something difficult."
         },
         {
-          "pos": "adj.",
-          "zh": "有效的，划算的",
-          "en": "Providing good value for the amount of money spent."
+          "pos": "v.",
+          "zh": "破坏",
+          "en": "To damage or harm something, making it unusable or less enjoyable."
         }
       ],
       "examples": [
         {
-          "en": "Buying in bulk is often more economical than purchasing single items.",
-          "zh": "大宗购买通常比单件购买更经济。"
+          "en": "The spoiled child threw a tantrum when denied candy.",
+          "zh": "被宠坏的孩子在被拒绝糖果时发脾气。"
         },
         {
-          "en": "She found an economical way to travel during her vacation.",
-          "zh": "她找到了一种在假期旅行的经济方式。"
+          "en": "The rain spoiled our picnic plans for the day.",
+          "zh": "雨水破坏了我们今天的野餐计划。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'eco' in economical as related to 'eco-friendly', which often means saving resources."
+        "association": "Think of a spoiled fruit that is no longer good to eat; it has gone bad, just like someone who is too pampered."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=economical&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 7"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=spoiled&type=2",
+      "chapter": "核心词汇 法制与犯罪 Unit 5"
     }
   ]
 }
