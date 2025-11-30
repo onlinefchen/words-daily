@@ -1,69 +1,67 @@
 {
-  "generated": "2025-11-29T22:07:36.822Z",
+  "generated": "2025-11-30T22:07:43.967Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "suffering",
-      "pronunciation": "/ˈsʌfərɪŋ/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "痛苦; 苦难",
-          "en": "The state of experiencing pain or distress."
-        },
-        {
-          "pos": "v.",
-          "zh": "遭受; 经历",
-          "en": "To experience something unpleasant."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Many people are suffering from mental health issues today.",
-          "zh": "今天，许多人都在遭受心理健康问题。"
-        },
-        {
-          "en": "She dedicated her life to helping those who are suffering.",
-          "zh": "她把一生奉献给帮助那些受苦的人。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'suffering' as 'suffocating' from pain, connecting the two concepts."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=suffering&type=2",
-      "chapter": "核心词汇 健康话题 Unit 5"
-    },
-    {
-      "word": "spoiled",
-      "pronunciation": "/spɔɪld/",
+      "word": "aboriginal",
+      "pronunciation": "/ˌæbəˈrɪdʒənl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "被宠坏的",
-          "en": "Having been treated too well, making someone or something difficult."
+          "zh": "土著的",
+          "en": "Relating to the original inhabitants of a place."
         },
         {
-          "pos": "v.",
-          "zh": "破坏",
-          "en": "To damage or harm something, making it unusable or less enjoyable."
+          "pos": "n.",
+          "zh": "土著人",
+          "en": "A person, especially a member of a group, that has lived in a region for a long time."
         }
       ],
       "examples": [
         {
-          "en": "The spoiled child threw a tantrum when denied candy.",
-          "zh": "被宠坏的孩子在被拒绝糖果时发脾气。"
+          "en": "The aboriginal culture is rich in history and traditions.",
+          "zh": "土著文化在历史和传统上非常丰富。"
         },
         {
-          "en": "The rain spoiled our picnic plans for the day.",
-          "zh": "雨水破坏了我们今天的野餐计划。"
+          "en": "Many aboriginal communities are working to preserve their languages.",
+          "zh": "许多土著社区正在努力保护他们的语言。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a spoiled fruit that is no longer good to eat; it has gone bad, just like someone who is too pampered."
+        "etymology": "The word 'aboriginal' comes from the Latin 'aborigines', meaning 'from the beginning'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=spoiled&type=2",
-      "chapter": "核心词汇 法制与犯罪 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aboriginal&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 1"
+    },
+    {
+      "word": "disciplinary",
+      "pronunciation": "/ˈdɪsəplɪˌnɛri/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "纪律的",
+          "en": "Related to the enforcement of rules and maintaining order."
+        },
+        {
+          "pos": "n.",
+          "zh": "纪律",
+          "en": "A system of rules that regulates behavior or activity."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The school has strict disciplinary measures for students who misbehave.",
+          "zh": "学校对不守规矩的学生有严格的纪律措施。"
+        },
+        {
+          "en": "Disciplinary action is necessary to ensure everyone follows the rules.",
+          "zh": "采取纪律行动是确保每个人遵守规则的必要措施。"
+        }
+      ],
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disciplinary&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 6"
     }
   ]
 }

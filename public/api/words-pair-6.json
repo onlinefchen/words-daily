@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-29T22:07:36.823Z",
+  "generated": "2025-11-30T22:07:43.967Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "sufficient",
-      "pronunciation": "/səˈfɪʃ.ənt/",
+      "word": "cocky",
+      "pronunciation": "/ˈkɑː.ki/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "足够的",
-          "en": "Enough to meet the needs or requirements."
+          "zh": "自大的",
+          "en": "Having an overly high opinion of oneself; arrogant."
         },
         {
           "pos": "adj.",
-          "zh": "充足的",
-          "en": "Having what is needed for a specific purpose."
+          "zh": "过于自信的",
+          "en": "Being overly confident in a way that can be annoying."
         }
       ],
       "examples": [
         {
-          "en": "The food provided at the event was sufficient for everyone.",
-          "zh": "活动提供的食物对每个人来说都足够。"
+          "en": "His cocky attitude made it hard for others to work with him.",
+          "zh": "他自大的态度让其他人很难与他合作。"
         },
         {
-          "en": "She had sufficient time to finish her project before the deadline.",
-          "zh": "她有足够的时间在截止日期前完成项目。"
+          "en": "She was too cocky about winning the competition.",
+          "zh": "她对赢得比赛过于自信。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'sufficient' as 'sufficient enough' to help you remember it means adequate or enough."
+        "association": "Think of a 'cocky' rooster that struts around, full of itself."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sufficient&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 18"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cocky&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 4"
     },
     {
-      "word": "vice",
-      "pronunciation": "/vaɪs/",
+      "word": "grievous",
+      "pronunciation": "/ˈɡriː.vəs/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "恶习",
-          "en": "A bad habit or immoral behavior."
+          "pos": "adj.",
+          "zh": "严重的",
+          "en": "Very serious and causing a lot of pain or suffering."
         },
         {
-          "pos": "n.",
-          "zh": "副手",
-          "en": "A person who acts as a substitute or assistant."
+          "pos": "adj.",
+          "zh": "悲惨的",
+          "en": "Causing great sorrow or distress."
         }
       ],
       "examples": [
         {
-          "en": "His vice of gambling caused many problems in his life.",
-          "zh": "他赌博的恶习给他的生活带来了很多问题。"
+          "en": "The grievous loss of her friend affected her deeply.",
+          "zh": "她朋友的严重失去深深影响了她。"
         },
         {
-          "en": "The vice president will attend the meeting tomorrow.",
-          "zh": "副总统明天将参加会议。"
+          "en": "The report highlighted the grievous consequences of the accident.",
+          "zh": "报告强调了事故的严重后果。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'vice' comes from the Latin 'vitium', meaning 'fault' or 'defect'."
+        "association": "Think of 'grief' which is related to deep sorrow, connecting it to 'grievous' as something that causes grief."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vice&type=2",
-      "chapter": "核心词汇 工作与生活 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=grievous&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 9"
     }
   ]
 }

@@ -1,62 +1,70 @@
 {
-  "generated": "2025-11-29T22:07:36.822Z",
+  "generated": "2025-11-30T22:07:43.967Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "bowl-shaped crater",
-      "pronunciation": "/boʊl ʃeɪpt ˈkreɪtər/",
+      "word": "substitute",
+      "pronunciation": "/ˈsʌb.stɪ.tjuːt/",
       "meanings": [
         {
+          "pos": "v.",
+          "zh": "替代",
+          "en": "To replace one thing with another."
+        },
+        {
           "pos": "n.",
-          "zh": "碗形火山口",
-          "en": "A bowl-shaped hollow in the ground, often formed by volcanic activity."
+          "zh": "替代品",
+          "en": "A person or thing that takes the place of another."
         }
       ],
       "examples": [
         {
-          "en": "The bowl-shaped crater was formed after the volcanic eruption.",
-          "zh": "这个碗形火山口是在火山爆发后形成的。"
+          "en": "You can substitute oil for butter in this recipe.",
+          "zh": "在这个食谱中，你可以用油代替黄油。"
         },
         {
-          "en": "Scientists study the bowl-shaped crater to understand its formation.",
-          "zh": "科学家研究这个碗形火山口以了解它的形成。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=bowl-shaped%20crater&type=2",
-      "chapter": "认知词汇 自然分类 火山"
-    },
-    {
-      "word": "qualified teacher",
-      "pronunciation": "/ˈkwɒlɪfaɪd ˈtiːtʃər/",
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "合格教师",
-          "en": "A teacher who has the necessary skills and training to teach."
-        },
-        {
-          "pos": "n.",
-          "zh": "合格教师",
-          "en": "A person who is officially recognized to teach due to their qualifications."
-        }
-      ],
-      "examples": [
-        {
-          "en": "A qualified teacher can significantly improve student learning outcomes.",
-          "zh": "一位合格的教师可以显著提高学生的学习成果。"
-        },
-        {
-          "en": "Many schools require all teachers to be qualified before hiring.",
-          "zh": "许多学校要求所有教师在雇用前必须具备资格。"
+          "en": "She is a substitute teacher for the regular instructor.",
+          "zh": "她是这位常规老师的替代教师。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'qualified teacher' as a 'key' to open the door to knowledge for students."
+        "etymology": "The word 'substitute' comes from the Latin 'substituere', meaning 'to place under'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=qualified%20teacher&type=2",
-      "chapter": "阅读真题认知词汇 小班教学"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=substitute&type=2",
+      "chapter": "核心词汇 健康话题 Unit 5"
+    },
+    {
+      "word": "bewildering",
+      "pronunciation": "/bɪˈwɪldərɪŋ/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "令人困惑的",
+          "en": "Causing confusion or puzzlement."
+        },
+        {
+          "pos": "adj.",
+          "zh": "令人惊讶的",
+          "en": "Extremely surprising or difficult to understand."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The instructions were so bewildering that I gave up trying to understand.",
+          "zh": "这些指示令人困惑，我放弃了尝试理解。"
+        },
+        {
+          "en": "Her sudden change of plans was bewildering for everyone involved.",
+          "zh": "她计划的突然变化让所有人都感到困惑。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'bewildering' comes from 'bewilder', which means to confuse or befuddle someone.",
+        "association": "Think of 'wild' as in untamed; something wild can be confusing or bewildering."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=bewildering&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 3"
     }
   ]
 }

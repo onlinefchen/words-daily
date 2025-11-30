@@ -1,69 +1,68 @@
 {
-  "generated": "2025-11-29T22:07:36.822Z",
+  "generated": "2025-11-30T22:07:43.967Z",
   "count": 2,
   "words": [
     {
-      "word": "genetic",
-      "pronunciation": "/dʒəˈnɛtɪk/",
+      "word": "compassion",
+      "pronunciation": "/kəmˈpæʃ.ən/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "遗传的",
-          "en": "Relating to genes or heredity."
+          "pos": "n.",
+          "zh": "同情，怜悯",
+          "en": "A feeling of deep sympathy and concern for someone who is suffering."
         },
         {
-          "pos": "adj.",
-          "zh": "基因的",
-          "en": "Connected to the biological information passed from parents to offspring."
+          "pos": "n.",
+          "zh": "慈悲，仁爱",
+          "en": "A desire to help those who are in pain or distress."
         }
       ],
       "examples": [
         {
-          "en": "Scientists study genetic factors that influence human behavior.",
-          "zh": "科学家研究影响人类行为的遗传因素。"
+          "en": "Her compassion for the homeless inspired many to help.",
+          "zh": "她对无家可归者的同情激励了许多人提供帮助。"
         },
         {
-          "en": "Genetic engineering can create crops that resist pests.",
-          "zh": "基因工程可以创造抵抗害虫的作物。"
+          "en": "Showing compassion can make a big difference in someone's life.",
+          "zh": "展现同情心可以对某人的生活产生重大影响。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'genetic' as being related to 'genes', which are the building blocks of heredity."
+        "association": "Think of 'compassion' as 'co-passion', where you share the feelings of others."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=genetic&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 9"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compassion&type=2",
+      "chapter": "核心词汇 工作与生活 Unit 1"
     },
     {
-      "word": "physiological",
-      "pronunciation": "/ˌfɪziəˈlɒdʒɪkəl/",
+      "word": "sacrifice",
+      "pronunciation": "/ˈsækrɪfaɪs/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "生理的",
-          "en": "Related to the functions and processes of living organisms."
+          "pos": "v.",
+          "zh": "牺牲",
+          "en": "To give up something important for the sake of something else."
         },
         {
-          "pos": "adj.",
-          "zh": "生理学的",
-          "en": "Pertaining to the scientific study of how living things work."
+          "pos": "n.",
+          "zh": "牺牲品",
+          "en": "Something that is given up or lost for a purpose."
         }
       ],
       "examples": [
         {
-          "en": "The physiological responses to stress can affect overall health.",
-          "zh": "对压力的生理反应会影响整体健康。"
+          "en": "Many parents sacrifice their own happiness for their children's future.",
+          "zh": "许多父母为了孩子的未来牺牲自己的幸福。"
         },
         {
-          "en": "Understanding physiological processes is crucial in medicine.",
-          "zh": "理解生理过程对医学至关重要。"
+          "en": "The soldier made the ultimate sacrifice for his country.",
+          "zh": "这名士兵为他的国家做出了终极牺牲。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'physiological' comes from Greek roots: 'physio-' meaning 'nature' and '-logical' meaning 'study of'.",
-        "association": "Think of 'physiological' as 'physical logic'—the logical processes behind physical functions."
+        "association": "Think of 'sacrifice' as giving up something valuable to gain something greater, like trading a point for a goal in a game."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=physiological&type=2",
-      "chapter": "核心词汇 动物权益与保护 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sacrifice&type=2",
+      "chapter": "基本词汇 名词200 Unit 7"
     }
   ]
 }

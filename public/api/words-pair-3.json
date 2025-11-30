@@ -1,69 +1,67 @@
 {
-  "generated": "2025-11-29T22:07:36.822Z",
+  "generated": "2025-11-30T22:07:43.967Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "entertaining",
-      "pronunciation": "/ˌɛn.təˈteɪ.nɪŋ/",
+      "word": "vulnerable",
+      "pronunciation": "/ˈvʌlnərəbl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "有趣的，娱乐的",
-          "en": "Providing enjoyment or amusement."
+          "zh": "脆弱的",
+          "en": "Open to physical or emotional harm; not strong."
         },
         {
-          "pos": "v.",
-          "zh": "使娱乐",
-          "en": "To keep someone amused or to provide enjoyment."
+          "pos": "adj.",
+          "zh": "易受影响的",
+          "en": "Likely to be attacked or hurt; sensitive."
         }
       ],
       "examples": [
         {
-          "en": "The movie was so entertaining that I watched it twice.",
-          "zh": "这部电影太有趣了，我看了两遍。"
+          "en": "The children feel vulnerable when they are away from their parents.",
+          "zh": "孩子们在离开父母时感到脆弱。"
         },
         {
-          "en": "She has an entertaining way of telling stories.",
-          "zh": "她讲故事的方式很有趣。"
+          "en": "Many species become vulnerable due to climate change and habitat loss.",
+          "zh": "由于气候变化和栖息地丧失，许多物种变得脆弱。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'entertaining' as 'enter-taining', which suggests entering a space of fun."
+        "association": "Think of 'vulnerable' as 'vulnerable to attacks', linking it to 'vulnerable' and 'vulnerability' in defense contexts."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=entertaining&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 8"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vulnerable&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 10"
     },
     {
-      "word": "breadwinner",
-      "pronunciation": "/ˈbrɛdˌwɪnər/",
+      "word": "viper",
+      "pronunciation": "/ˈvaɪpər/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "家庭收入者",
-          "en": "A person who earns money to support a family."
+          "zh": "毒蛇",
+          "en": "A type of snake that is often poisonous."
         },
         {
           "pos": "n.",
-          "zh": "主要经济来源",
-          "en": "The main source of income for a household."
+          "zh": "阴险的人",
+          "en": "A person who is deceitful or treacherous."
         }
       ],
       "examples": [
         {
-          "en": "She is the main breadwinner in her family, working long hours.",
-          "zh": "她是家庭的主要收入者，工作时间很长。"
+          "en": "The viper slithered silently through the grass, searching for prey.",
+          "zh": "毒蛇在草丛中悄悄滑行，寻找猎物。"
         },
         {
-          "en": "In many families, the father is often seen as the breadwinner.",
-          "zh": "在许多家庭中，父亲常被视为经济支柱。"
+          "en": "He was a viper in the business world, always betraying his friends.",
+          "zh": "他在商界是一条毒蛇，总是背叛朋友。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'bread' as the basic need and 'winner' as someone who provides it."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=breadwinner&type=2",
-      "chapter": "核心词汇 工作与生活 Unit 1"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=viper&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

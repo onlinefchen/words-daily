@@ -1,67 +1,69 @@
 {
-  "generated": "2025-11-29T22:07:36.823Z",
+  "generated": "2025-11-30T22:07:43.968Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "stable",
-      "pronunciation": "/ˈsteɪ.bəl/",
+      "word": "corruption",
+      "pronunciation": "/kəˈrʌpʃən/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "稳定的",
-          "en": "Not likely to change or move suddenly."
+          "pos": "n.",
+          "zh": "腐败",
+          "en": "Dishonest or unethical behavior by people in power."
         },
         {
           "pos": "n.",
-          "zh": "马厩",
-          "en": "A building where horses are kept."
+          "zh": "损坏",
+          "en": "The process of something becoming damaged or altered."
         }
       ],
       "examples": [
         {
-          "en": "The economy needs to be stable for growth to occur.",
-          "zh": "经济需要稳定才能实现增长。"
+          "en": "Corruption in government can lead to serious social issues.",
+          "zh": "政府中的腐败可能导致严重的社会问题。"
         },
         {
-          "en": "The horse was kept in a stable near the farm.",
-          "zh": "那匹马被放在农场附近的马厩里。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=stable&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 17"
-    },
-    {
-      "word": "gregarious",
-      "pronunciation": "/ɡrəˈɡɛər.i.əs/",
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "群居的",
-          "en": "Fond of company; enjoying being with others."
-        },
-        {
-          "pos": "adj.",
-          "zh": "社交的",
-          "en": "Sociable; someone who likes to socialize."
-        }
-      ],
-      "examples": [
-        {
-          "en": "He is a gregarious person who loves making new friends.",
-          "zh": "他是一个群居的人，喜欢交新朋友。"
-        },
-        {
-          "en": "Animals that are gregarious prefer to live in groups.",
-          "zh": "喜欢群居的动物更喜欢成群生活。"
+          "en": "The corruption of data can affect the accuracy of research.",
+          "zh": "数据的损坏可能影响研究的准确性。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'gregarious' as 'great at gatherings' since such people enjoy social events."
+        "association": "Think of 'corrupt' as 'broken' or 'damaged', which can help remember its meanings."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=gregarious&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=corruption&type=2",
+      "chapter": "核心词汇 民主与权利 Unit 1"
+    },
+    {
+      "word": "irreversible",
+      "pronunciation": "/ɪˈrɪvərsəbl/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "不可逆的",
+          "en": "Something that cannot be reversed or changed back."
+        },
+        {
+          "pos": "adj.",
+          "zh": "不可恢复的",
+          "en": "A situation or process that cannot return to its original state."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The damage to the ecosystem is irreversible and will take decades to recover.",
+          "zh": "生态系统的损害是不可逆的，恢复需要几十年。"
+        },
+        {
+          "en": "Once you make a decision, some effects may be irreversible.",
+          "zh": "一旦你做出决定，某些影响可能是不可逆的。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'irreversible' comes from the prefix 'ir-' meaning 'not', and 'reversible', which means 'able to be turned back'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=irreversible&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 11"
     }
   ]
 }

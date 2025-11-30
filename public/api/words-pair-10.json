@@ -1,70 +1,69 @@
 {
-  "generated": "2025-11-29T22:07:36.823Z",
+  "generated": "2025-11-30T22:07:43.968Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "slaughter",
-      "pronunciation": "/ˈslɔːtər/",
+      "word": "priority",
+      "pronunciation": "/praɪˈɔrɪti/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "屠杀; 杀戮",
-          "en": "To kill animals for food or to kill a large number of people."
+          "pos": "n.",
+          "zh": "优先事项",
+          "en": "Something that is considered more important than other things."
         },
         {
           "pos": "n.",
-          "zh": "屠杀; 杀戮",
-          "en": "The act of killing a large number of animals or people."
+          "zh": "优先权",
+          "en": "The right to be dealt with before others."
         }
       ],
       "examples": [
         {
-          "en": "The slaughter of animals for food raises ethical questions.",
-          "zh": "为食物屠杀动物引发了伦理问题。"
+          "en": "Education should be the top priority for every government.",
+          "zh": "教育应该是每个政府的首要任务。"
         },
         {
-          "en": "The documentary highlighted the slaughter that occurs during wars.",
-          "zh": "这部纪录片强调了战争中发生的屠杀。"
+          "en": "She made her health a priority after the illness.",
+          "zh": "她在生病后把健康放在了首位。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'slaughter' as 'slay' and 'laughter' combined; it's a serious act that contrasts with joy."
+        "association": "Think of 'priority' as what you place 'first' in your list of tasks."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=slaughter&type=2",
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=priority&type=2",
       "chapter": "核心词汇 动物权益与保护 Unit 5"
     },
     {
-      "word": "indifferent",
-      "pronunciation": "/ɪnˈdɪf.ər.ənt/",
+      "word": "preceding",
+      "pronunciation": "/prɪˈsiːdɪŋ/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "不关心的",
-          "en": "Not interested in or concerned about something."
+          "zh": "在前的",
+          "en": "Existing or happening before something else."
         },
         {
           "pos": "adj.",
-          "zh": "冷漠的",
-          "en": "Showing no preference or response; apathetic."
+          "zh": "优先的",
+          "en": "Coming before in time or order."
         }
       ],
       "examples": [
         {
-          "en": "She remained indifferent to the ongoing debate about climate change.",
-          "zh": "她对气候变化的持续辩论保持冷漠。"
+          "en": "The preceding chapter explains the main concepts clearly.",
+          "zh": "前一章清楚地解释了主要概念。"
         },
         {
-          "en": "His indifferent attitude towards studying worried his teachers.",
-          "zh": "他对学习的漠不关心让老师们感到担忧。"
+          "en": "He referred to the preceding events to support his argument.",
+          "zh": "他提到了之前的事件以支持他的论点。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'indifferent' as 'in different'; when you are indifferent, you are in a different state of caring.",
-        "mnemonic": "Indifferent sounds like 'in different', which can help you remember that it means not caring about differences."
+        "association": "Think of 'preceding' as 'proceeding before'. Both words share a similar structure and meaning."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=indifferent&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 10"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=preceding&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 14"
     }
   ]
 }

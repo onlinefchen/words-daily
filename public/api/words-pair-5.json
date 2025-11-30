@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-29T22:07:36.822Z",
+  "generated": "2025-11-30T22:07:43.967Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "arboreal",
-      "pronunciation": "/ɑːrˈbɔːr.i.əl/",
+      "word": "alternative",
+      "pronunciation": "/ælˈtɜrnətɪv/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "树栖的",
-          "en": "Relating to trees; living in trees."
+          "zh": "替代的",
+          "en": "Something that can be used instead of something else."
         },
         {
-          "pos": "adj.",
-          "zh": "树木生长的",
-          "en": "Describing animals that primarily inhabit or move through trees."
+          "pos": "n.",
+          "zh": "替代品",
+          "en": "A choice or option that is different from the usual one."
         }
       ],
       "examples": [
         {
-          "en": "Monkeys are often classified as arboreal animals due to their tree-dwelling habits.",
-          "zh": "猴子通常被归类为树栖动物，因为它们的栖息习惯在树上。"
+          "en": "Many people seek alternative energy sources to reduce pollution.",
+          "zh": "许多人寻找替代能源以减少污染。"
         },
         {
-          "en": "The arboreal lifestyle of sloths makes them unique among mammals.",
-          "zh": "树栖生活方式使树懒在哺乳动物中独树一帜。"
+          "en": "He offered an alternative plan for the project to save costs.",
+          "zh": "他提出了一个替代方案以节省项目成本。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'arbor', which means tree, to remember 'arboreal' relates to trees."
+        "association": "Think of 'alternative' as 'alter' + 'native', meaning to change the usual choice."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=arboreal&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=alternative&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 2"
     },
     {
-      "word": "poison",
-      "pronunciation": "/ˈpɔɪ.zən/",
+      "word": "magnetic field",
+      "pronunciation": "/mæɡˈnɛtɪk fiːld/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "毒药",
-          "en": "A substance that can cause harm or death if taken into the body."
+          "zh": "磁场",
+          "en": "A region around a magnet where magnetic forces can be felt."
         },
         {
-          "pos": "v.",
-          "zh": "毒害",
-          "en": "To make something harmful or deadly by adding a poison."
+          "pos": "n.",
+          "zh": "电磁场",
+          "en": "An area around electric currents where magnetic effects occur."
         }
       ],
       "examples": [
         {
-          "en": "The scientist studied how poison affects the human body.",
-          "zh": "科学家研究毒药如何影响人体。"
+          "en": "The Earth has a magnetic field that protects us from solar radiation.",
+          "zh": "地球有一个磁场，可以保护我们免受太阳辐射。"
         },
         {
-          "en": "He tried to poison the rat in his kitchen.",
-          "zh": "他试图毒死厨房里的老鼠。"
+          "en": "Scientists study the magnetic field to understand its effects on satellites.",
+          "zh": "科学家研究磁场，以了解其对卫星的影响。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'poison apple' from fairy tales, symbolizing danger."
+        "association": "Think of how magnets attract metal objects; that pull is the magnetic field."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=poison&type=2",
-      "chapter": "核心词汇 健康话题 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=magnetic%20field&type=2",
+      "chapter": "认知词汇 动物分类 动物航行能力"
     }
   ]
 }

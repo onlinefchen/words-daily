@@ -1,69 +1,67 @@
 {
-  "generated": "2025-11-29T22:07:36.823Z",
+  "generated": "2025-11-30T22:07:43.968Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "seemingly",
-      "pronunciation": "/ˈsiːmɪŋli/",
+      "word": "elapid",
+      "pronunciation": "/ˈɛləpɪd/",
       "meanings": [
         {
-          "pos": "adv.",
-          "zh": "似乎",
-          "en": "In a way that appears to be true but may not be."
+          "pos": "adj.",
+          "zh": "毒蛇的",
+          "en": "Relating to a family of venomous snakes that includes cobras."
         },
         {
-          "pos": "adv.",
-          "zh": "表面上",
-          "en": "According to how something looks or seems."
+          "pos": "n.",
+          "zh": "毒蛇",
+          "en": "A type of venomous snake that can be found in various parts of the world."
         }
       ],
       "examples": [
         {
-          "en": "She seemingly passed the exam without studying much at all.",
-          "zh": "她似乎在几乎没有学习的情况下通过了考试。"
+          "en": "Elapid snakes like cobras can deliver a powerful venomous bite.",
+          "zh": "像眼镜蛇这样的毒蛇能施加强效的毒咬。"
         },
         {
-          "en": "The project was seemingly successful, but it had hidden problems.",
-          "zh": "这个项目表面上是成功的，但它有隐藏的问题。"
+          "en": "Many elapid species are known for their fast movements and agility.",
+          "zh": "许多毒蛇种类因其快速的移动和敏捷而闻名。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'seem' as how things appear; 'ingly' suggests a manner, so 'seemingly' is how things appear to be."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=seemingly&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 16"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=elapid&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "conformity",
-      "pronunciation": "/kənˈfɔːrmɪti/",
+      "word": "self-interest",
+      "pronunciation": "/sɛlf ˈɪn.tə.rest/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "一致，遵从",
-          "en": "The act of following rules or standards."
+          "zh": "自我利益",
+          "en": "The personal gain or benefit that someone seeks."
         },
         {
           "pos": "n.",
-          "zh": "适应，顺应",
-          "en": "Behavior that matches the expectations of a group."
+          "zh": "自我中心",
+          "en": "The concern for one's own advantage or welfare."
         }
       ],
       "examples": [
         {
-          "en": "Many students feel pressure to maintain conformity in their social groups.",
-          "zh": "许多学生感受到在社交群体中保持一致性的压力。"
+          "en": "Many decisions in politics are driven by self-interest rather than public good.",
+          "zh": "政治中的许多决策是由自我利益而非公共利益驱动的。"
         },
         {
-          "en": "Conformity can limit creativity and individual expression.",
-          "zh": "一致性可能会限制创造力和个人表达。"
+          "en": "In a competitive market, companies often act out of self-interest to maximize profits.",
+          "zh": "在竞争激烈的市场中，公司通常出于自我利益来最大化利润。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'conformity' as 'conforming' to norms, like wearing uniforms in schools."
+        "association": "Think of 'self' as referring to yourself and 'interest' as what you care about the most."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=conformity&type=2",
-      "chapter": "核心词汇 民主与权利 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=self-interest&type=2",
+      "chapter": "核心词汇 伦理与道德 Unit 4"
     }
   ]
 }
