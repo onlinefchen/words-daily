@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-30T22:07:43.967Z",
+  "generated": "2025-12-01T22:07:31.499Z",
   "pair": 1,
   "count": 2,
   "words": [
     {
-      "word": "compassion",
-      "pronunciation": "/kəmˈpæʃ.ən/",
+      "word": "role",
+      "pronunciation": "/roʊl/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "同情，怜悯",
-          "en": "A feeling of deep sympathy and concern for someone who is suffering."
+          "zh": "角色",
+          "en": "A part someone plays in a situation or activity."
         },
-        {
-          "pos": "n.",
-          "zh": "慈悲，仁爱",
-          "en": "A desire to help those who are in pain or distress."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Her compassion for the homeless inspired many to help.",
-          "zh": "她对无家可归者的同情激励了许多人提供帮助。"
-        },
-        {
-          "en": "Showing compassion can make a big difference in someone's life.",
-          "zh": "展现同情心可以对某人的生活产生重大影响。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'compassion' as 'co-passion', where you share the feelings of others."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compassion&type=2",
-      "chapter": "核心词汇 工作与生活 Unit 1"
-    },
-    {
-      "word": "sacrifice",
-      "pronunciation": "/ˈsækrɪfaɪs/",
-      "meanings": [
         {
           "pos": "v.",
-          "zh": "牺牲",
-          "en": "To give up something important for the sake of something else."
-        },
-        {
-          "pos": "n.",
-          "zh": "牺牲品",
-          "en": "Something that is given up or lost for a purpose."
+          "zh": "扮演",
+          "en": "To act in a particular way or perform a specific function."
         }
       ],
       "examples": [
         {
-          "en": "Many parents sacrifice their own happiness for their children's future.",
-          "zh": "许多父母为了孩子的未来牺牲自己的幸福。"
+          "en": "In the play, she had the leading role as the main character.",
+          "zh": "在剧中，她饰演了主角的主要角色。"
         },
         {
-          "en": "The soldier made the ultimate sacrifice for his country.",
-          "zh": "这名士兵为他的国家做出了终极牺牲。"
+          "en": "Teachers play a vital role in shaping students' futures.",
+          "zh": "教师在塑造学生未来方面发挥着重要作用。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'sacrifice' as giving up something valuable to gain something greater, like trading a point for a goal in a game."
+        "association": "Think of a 'role' as a 'role model' or 'role play' to remember its function in different contexts."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sacrifice&type=2",
-      "chapter": "基本词汇 名词200 Unit 7"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=role&type=2",
+      "chapter": "核心词汇 法制与犯罪 Unit 4"
+    },
+    {
+      "word": "cylindrical",
+      "pronunciation": "/sɪlˈɪndrɪkəl/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "柱状的",
+          "en": "Having the shape of a cylinder, which is a solid with circular ends."
+        },
+        {
+          "pos": "adj.",
+          "zh": "圆柱形的",
+          "en": "Related to a three-dimensional shape with straight sides and circular ends."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The cylindrical tower stood tall against the skyline.",
+          "zh": "这座圆柱形塔楼在天际线上巍峨耸立。"
+        },
+        {
+          "en": "He designed a cylindrical container for the project.",
+          "zh": "他为这个项目设计了一个圆柱形的容器。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a can or a pipe, which are common cylindrical objects."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cylindrical&type=2",
+      "chapter": "阅读真题认知词汇 英国建筑"
     }
   ]
 }

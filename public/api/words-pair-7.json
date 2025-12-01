@@ -1,69 +1,64 @@
 {
-  "generated": "2025-11-30T22:07:43.968Z",
+  "generated": "2025-12-01T22:07:31.500Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "brutal",
-      "pronunciation": "/ˈbruːtəl/",
+      "word": "granitic",
+      "pronunciation": "/ɡrəˈnɪtɪk/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "残忍的",
-          "en": "Very cruel or violent."
-        },
-        {
-          "pos": "adj.",
-          "zh": "严酷的",
-          "en": "Extremely harsh or severe."
+          "zh": "花岗岩的",
+          "en": "Relating to or resembling granite, a type of hard rock."
         }
       ],
       "examples": [
         {
-          "en": "The brutal winter caused many hardships for the local community.",
-          "zh": "残酷的冬天给当地社区带来了许多困难。"
+          "en": "The granitic landscape was formed by ancient volcanic activity.",
+          "zh": "这个花岗岩地貌是由古代火山活动形成的。"
         },
         {
-          "en": "His brutal honesty offended some people at the meeting.",
-          "zh": "他残酷的诚实让会议上的一些人感到冒犯。"
+          "en": "Granite is a granitic rock commonly used in construction.",
+          "zh": "花岗岩是一种常用于建筑的花岗岩石。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'brute' as someone who is very rough or cruel, which relates closely to the word 'brutal'."
+        "etymology": "The word 'granitic' comes from the Latin 'granum', meaning 'grain', due to the grainy texture of granite."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=brutal&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=granitic&type=2",
+      "chapter": "认知词汇 自然分类 火山"
     },
     {
-      "word": "balanced",
-      "pronunciation": "/ˈbælənst/",
+      "word": "superstition",
+      "pronunciation": "/ˌsuː.pərˈstɪʃ.ən/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "均衡的",
-          "en": "Having different elements that are equal or in the correct proportions."
+          "pos": "n.",
+          "zh": "迷信",
+          "en": "A belief that certain events or things can bring good or bad luck."
         },
         {
-          "pos": "v.",
-          "zh": "使平衡",
-          "en": "To make something stable by ensuring that different parts are equal."
+          "pos": "n.",
+          "zh": "迷信行为",
+          "en": "An action based on such beliefs, often irrational."
         }
       ],
       "examples": [
         {
-          "en": "Eating a balanced diet is important for good health.",
-          "zh": "均衡饮食对健康非常重要。"
+          "en": "Many people avoid walking under ladders due to superstition.",
+          "zh": "许多人因为迷信而避免走在梯子下。"
         },
         {
-          "en": "The teacher balanced fun and learning during the class.",
-          "zh": "老师在课堂上平衡了乐趣和学习。"
+          "en": "His superstition made him carry a lucky charm everywhere.",
+          "zh": "他的迷信让他到处携带一个幸运符。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a scale where both sides are equal, representing balance."
+        "association": "You can think of 'superstition' as something that is 'super' or beyond rationality, involving 'stitions' or beliefs."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=balanced&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=superstition&type=2",
+      "chapter": "基本词汇 名词200 Unit 8"
     }
   ]
 }

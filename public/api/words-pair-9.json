@@ -1,67 +1,69 @@
 {
-  "generated": "2025-11-30T22:07:43.968Z",
+  "generated": "2025-12-01T22:07:31.500Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "elapid",
-      "pronunciation": "/ˈɛləpɪd/",
+      "word": "adore",
+      "pronunciation": "/əˈdɔːr/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "毒蛇的",
-          "en": "Relating to a family of venomous snakes that includes cobras."
+          "pos": "v.",
+          "zh": "崇拜，喜爱",
+          "en": "To love someone or something very much."
         },
         {
-          "pos": "n.",
-          "zh": "毒蛇",
-          "en": "A type of venomous snake that can be found in various parts of the world."
+          "pos": "v.",
+          "zh": "倾慕",
+          "en": "To have a deep affection for someone."
         }
       ],
       "examples": [
         {
-          "en": "Elapid snakes like cobras can deliver a powerful venomous bite.",
-          "zh": "像眼镜蛇这样的毒蛇能施加强效的毒咬。"
+          "en": "She adores her grandmother and visits her every week.",
+          "zh": "她非常崇拜她的祖母，每周都去看望她。"
         },
         {
-          "en": "Many elapid species are known for their fast movements and agility.",
-          "zh": "许多毒蛇种类因其快速的移动和敏捷而闻名。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=elapid&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
-    },
-    {
-      "word": "self-interest",
-      "pronunciation": "/sɛlf ˈɪn.tə.rest/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "自我利益",
-          "en": "The personal gain or benefit that someone seeks."
-        },
-        {
-          "pos": "n.",
-          "zh": "自我中心",
-          "en": "The concern for one's own advantage or welfare."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Many decisions in politics are driven by self-interest rather than public good.",
-          "zh": "政治中的许多决策是由自我利益而非公共利益驱动的。"
-        },
-        {
-          "en": "In a competitive market, companies often act out of self-interest to maximize profits.",
-          "zh": "在竞争激烈的市场中，公司通常出于自我利益来最大化利润。"
+          "en": "Many children adore animals and enjoy visiting the zoo.",
+          "zh": "许多孩子喜欢动物，并且享受去动物园。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'self' as referring to yourself and 'interest' as what you care about the most."
+        "etymology": "The word 'adore' comes from Latin 'adorare', meaning 'to speak to' or 'to worship'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=self-interest&type=2",
-      "chapter": "核心词汇 伦理与道德 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=adore&type=2",
+      "chapter": "基本词汇 动词200 Unit 1"
+    },
+    {
+      "word": "reputation",
+      "pronunciation": "/ˌrɛp.jʊˈteɪ.ʃən/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "声誉",
+          "en": "The opinion that people have about someone or something."
+        },
+        {
+          "pos": "n.",
+          "zh": "名声",
+          "en": "The general quality or character as seen by others."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Her reputation as a reliable worker helped her get the job.",
+          "zh": "她作为一个可靠员工的声誉帮助她得到了这份工作。"
+        },
+        {
+          "en": "The restaurant lost its reputation after several negative reviews.",
+          "zh": "这家餐厅在几条负面评价后失去了它的声誉。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'reputation' as the 'repeated' opinions people have about someone."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=reputation&type=2",
+      "chapter": "基本词汇 名词200 Unit 7"
     }
   ]
 }

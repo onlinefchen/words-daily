@@ -1,69 +1,68 @@
 {
-  "generated": "2025-11-30T22:07:43.968Z",
+  "generated": "2025-12-01T22:07:31.500Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "priority",
-      "pronunciation": "/praɪˈɔrɪti/",
+      "word": "invertebrate",
+      "pronunciation": "/ɪnˈvɜrtəbrɪt/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "优先事项",
-          "en": "Something that is considered more important than other things."
+          "zh": "无脊椎动物",
+          "en": "An animal without a backbone, like insects or jellyfish."
         },
         {
-          "pos": "n.",
-          "zh": "优先权",
-          "en": "The right to be dealt with before others."
+          "pos": "adj.",
+          "zh": "无脊椎的",
+          "en": "Describing organisms that lack a spinal column."
         }
       ],
       "examples": [
         {
-          "en": "Education should be the top priority for every government.",
-          "zh": "教育应该是每个政府的首要任务。"
+          "en": "Many marine invertebrates play essential roles in ocean ecosystems.",
+          "zh": "许多海洋无脊椎动物在海洋生态系统中扮演重要角色。"
         },
         {
-          "en": "She made her health a priority after the illness.",
-          "zh": "她在生病后把健康放在了首位。"
+          "en": "Invertebrates make up a large portion of Earth's biodiversity.",
+          "zh": "无脊椎动物占地球生物多样性的很大一部分。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'priority' as what you place 'first' in your list of tasks."
+        "etymology": "The word 'invertebrate' comes from the Latin 'in-' meaning 'without' and 'vertebra' meaning 'joint' or 'spine'.",
+        "association": "Think of 'invert' to remember that invertebrates have no vertebrae, as they are 'inverted' from the typical animal structure."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=priority&type=2",
-      "chapter": "核心词汇 动物权益与保护 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=invertebrate&type=2",
+      "chapter": "认知词汇 动物分类 动物行为"
     },
     {
-      "word": "preceding",
-      "pronunciation": "/prɪˈsiːdɪŋ/",
+      "word": "legitimise",
+      "pronunciation": "/lɪˈdʒɪtɪmaɪz/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "在前的",
-          "en": "Existing or happening before something else."
+          "pos": "v.",
+          "zh": "合法化",
+          "en": "To make something legal or acceptable."
         },
         {
-          "pos": "adj.",
-          "zh": "优先的",
-          "en": "Coming before in time or order."
+          "pos": "v.",
+          "zh": "正当化",
+          "en": "To justify or prove that something is reasonable."
         }
       ],
       "examples": [
         {
-          "en": "The preceding chapter explains the main concepts clearly.",
-          "zh": "前一章清楚地解释了主要概念。"
+          "en": "The government aims to legitimise the use of renewable energy sources.",
+          "zh": "政府旨在合法化可再生能源的使用。"
         },
         {
-          "en": "He referred to the preceding events to support his argument.",
-          "zh": "他提到了之前的事件以支持他的论点。"
+          "en": "Many argue that laws can help legitimise certain social behaviors.",
+          "zh": "许多人认为法律可以帮助正当化某些社会行为。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'preceding' as 'proceeding before'. Both words share a similar structure and meaning."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=preceding&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 14"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=legitimise&type=2",
+      "chapter": "核心词汇 民主与权利 Unit 3"
     }
   ]
 }

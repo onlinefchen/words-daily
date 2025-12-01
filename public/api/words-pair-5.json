@@ -1,69 +1,67 @@
 {
-  "generated": "2025-11-30T22:07:43.967Z",
+  "generated": "2025-12-01T22:07:31.499Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "alternative",
-      "pronunciation": "/ælˈtɜrnətɪv/",
+      "word": "cannibalism",
+      "pronunciation": "/ˈkæn.ɪ.bəl.ɪ.zəm/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "替代的",
-          "en": "Something that can be used instead of something else."
+          "pos": "n.",
+          "zh": "食人行为",
+          "en": "The act of eating the flesh of one's own species."
         },
         {
           "pos": "n.",
-          "zh": "替代品",
-          "en": "A choice or option that is different from the usual one."
+          "zh": "自相残杀",
+          "en": "The practice of one group destroying or consuming another of the same kind."
         }
       ],
       "examples": [
         {
-          "en": "Many people seek alternative energy sources to reduce pollution.",
-          "zh": "许多人寻找替代能源以减少污染。"
+          "en": "Cannibalism has been documented in various cultures throughout history.",
+          "zh": "历史上，食人行为在不同文化中都有记载。"
         },
         {
-          "en": "He offered an alternative plan for the project to save costs.",
-          "zh": "他提出了一个替代方案以节省项目成本。"
+          "en": "Some animals exhibit cannibalism, especially in times of scarcity.",
+          "zh": "一些动物在资源匮乏时表现出食人行为。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'alternative' as 'alter' + 'native', meaning to change the usual choice."
+        "etymology": "The word 'cannibalism' comes from the Spanish word 'caníbal', which refers to the Carib people, known for eating human flesh."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=alternative&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cannibalism&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 1"
     },
     {
-      "word": "magnetic field",
-      "pronunciation": "/mæɡˈnɛtɪk fiːld/",
+      "word": "differentiate",
+      "pronunciation": "/ˌdɪf.əˈrɛn.ʧ.eɪt/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "磁场",
-          "en": "A region around a magnet where magnetic forces can be felt."
+          "pos": "v.",
+          "zh": "区分",
+          "en": "To recognize or ascertain what makes something different."
         },
         {
-          "pos": "n.",
-          "zh": "电磁场",
-          "en": "An area around electric currents where magnetic effects occur."
+          "pos": "v.",
+          "zh": "区分对待",
+          "en": "To treat differently based on certain characteristics."
         }
       ],
       "examples": [
         {
-          "en": "The Earth has a magnetic field that protects us from solar radiation.",
-          "zh": "地球有一个磁场，可以保护我们免受太阳辐射。"
+          "en": "It's important to differentiate between facts and opinions in an argument.",
+          "zh": "在争论中区分事实和观点是很重要的。"
         },
         {
-          "en": "Scientists study the magnetic field to understand its effects on satellites.",
-          "zh": "科学家研究磁场，以了解其对卫星的影响。"
+          "en": "Teachers need to differentiate their instruction to meet diverse student needs.",
+          "zh": "教师需要区分教学方法以满足不同学生的需求。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of how magnets attract metal objects; that pull is the magnetic field."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=magnetic%20field&type=2",
-      "chapter": "认知词汇 动物分类 动物航行能力"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=differentiate&type=2",
+      "chapter": "核心词汇 法制与犯罪 Unit 2"
     }
   ]
 }

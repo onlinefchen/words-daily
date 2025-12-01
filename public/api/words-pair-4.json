@@ -1,67 +1,69 @@
 {
-  "generated": "2025-11-30T22:07:43.967Z",
+  "generated": "2025-12-01T22:07:31.499Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "aboriginal",
-      "pronunciation": "/ˌæbəˈrɪdʒənl/",
+      "word": "domicile",
+      "pronunciation": "/ˈdɒm.ɪ.saɪl/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "土著的",
-          "en": "Relating to the original inhabitants of a place."
+          "pos": "n.",
+          "zh": "住所",
+          "en": "A person's permanent home or residence."
         },
         {
-          "pos": "n.",
-          "zh": "土著人",
-          "en": "A person, especially a member of a group, that has lived in a region for a long time."
+          "pos": "v.",
+          "zh": "居住",
+          "en": "To reside or live in a particular place."
         }
       ],
       "examples": [
         {
-          "en": "The aboriginal culture is rich in history and traditions.",
-          "zh": "土著文化在历史和传统上非常丰富。"
+          "en": "His domicile is registered in California, where he was born.",
+          "zh": "他的住所登记在加利福尼亚，他出生在那里。"
         },
         {
-          "en": "Many aboriginal communities are working to preserve their languages.",
-          "zh": "许多土著社区正在努力保护他们的语言。"
+          "en": "They chose to domicile their business in a tax-friendly region.",
+          "zh": "他们选择在一个税收友好的地区设立公司。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'aboriginal' comes from the Latin 'aborigines', meaning 'from the beginning'."
+        "association": "Think of 'domicile' as 'home' with 'domi-' suggesting 'domestic' or 'house'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aboriginal&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=domicile&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "disciplinary",
-      "pronunciation": "/ˈdɪsəplɪˌnɛri/",
+      "word": "self",
+      "pronunciation": "/sɛlf/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "纪律的",
-          "en": "Related to the enforcement of rules and maintaining order."
+          "pos": "n.",
+          "zh": "自我",
+          "en": "A person's essential being that distinguishes them from others."
         },
         {
-          "pos": "n.",
-          "zh": "纪律",
-          "en": "A system of rules that regulates behavior or activity."
+          "pos": "pron.",
+          "zh": "自己",
+          "en": "Referring to oneself, used for emphasis or clarification."
         }
       ],
       "examples": [
         {
-          "en": "The school has strict disciplinary measures for students who misbehave.",
-          "zh": "学校对不守规矩的学生有严格的纪律措施。"
+          "en": "She believes in being true to herself and her values.",
+          "zh": "她相信忠于自己和自己的价值观。"
         },
         {
-          "en": "Disciplinary action is necessary to ensure everyone follows the rules.",
-          "zh": "采取纪律行动是确保每个人遵守规则的必要措施。"
+          "en": "He often talks about his self-improvement journey.",
+          "zh": "他经常谈论自我提升的旅程。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disciplinary&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 6"
+      "memoryTips": {
+        "association": "Think of 'self' as your personal brand or identity, which helps you remember it relates to who you are."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=self&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 9"
     }
   ]
 }

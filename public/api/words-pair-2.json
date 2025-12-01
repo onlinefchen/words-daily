@@ -1,70 +1,69 @@
 {
-  "generated": "2025-11-30T22:07:43.967Z",
+  "generated": "2025-12-01T22:07:31.499Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "substitute",
-      "pronunciation": "/ˈsʌb.stɪ.tjuːt/",
+      "word": "pesticide",
+      "pronunciation": "/ˈpɛsɪˌsaɪd/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "替代",
-          "en": "To replace one thing with another."
+          "pos": "n.",
+          "zh": "农药",
+          "en": "A chemical used to kill pests that harm crops."
         },
         {
           "pos": "n.",
-          "zh": "替代品",
-          "en": "A person or thing that takes the place of another."
+          "zh": "杀虫剂",
+          "en": "A substance that eliminates insects from plants."
         }
       ],
       "examples": [
         {
-          "en": "You can substitute oil for butter in this recipe.",
-          "zh": "在这个食谱中，你可以用油代替黄油。"
+          "en": "Farmers often use pesticide to protect their crops from insects.",
+          "zh": "农民常常使用农药来保护他们的农作物免受昆虫侵害。"
         },
         {
-          "en": "She is a substitute teacher for the regular instructor.",
-          "zh": "她是这位常规老师的替代教师。"
+          "en": "Excessive pesticide use can lead to environmental pollution.",
+          "zh": "过度使用农药可能导致环境污染。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'substitute' comes from the Latin 'substituere', meaning 'to place under'."
+        "association": "Think of 'pest' in 'pesticide' to remember that it's meant to kill pests."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=substitute&type=2",
-      "chapter": "核心词汇 健康话题 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pesticide&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "bewildering",
-      "pronunciation": "/bɪˈwɪldərɪŋ/",
+      "word": "compulsory",
+      "pronunciation": "/kəmˈpʌlsəri/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "令人困惑的",
-          "en": "Causing confusion or puzzlement."
+          "zh": "强制的",
+          "en": "Required by law or a rule; mandatory."
         },
         {
           "pos": "adj.",
-          "zh": "令人惊讶的",
-          "en": "Extremely surprising or difficult to understand."
+          "zh": "必修的",
+          "en": "Something that must be done; not optional."
         }
       ],
       "examples": [
         {
-          "en": "The instructions were so bewildering that I gave up trying to understand.",
-          "zh": "这些指示令人困惑，我放弃了尝试理解。"
+          "en": "In many countries, education is compulsory for children.",
+          "zh": "在许多国家，教育对儿童是强制性的。"
         },
         {
-          "en": "Her sudden change of plans was bewildering for everyone involved.",
-          "zh": "她计划的突然变化让所有人都感到困惑。"
+          "en": "The school has compulsory uniforms for all students.",
+          "zh": "这所学校要求所有学生穿校服。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'bewildering' comes from 'bewilder', which means to confuse or befuddle someone.",
-        "association": "Think of 'wild' as in untamed; something wild can be confusing or bewildering."
+        "association": "Think of 'compulsory' as 'compelled to do something', which sounds similar."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=bewildering&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compulsory&type=2",
+      "chapter": "核心词汇 民主与权利 Unit 1"
     }
   ]
 }

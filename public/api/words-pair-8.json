@@ -1,69 +1,69 @@
 {
-  "generated": "2025-11-30T22:07:43.968Z",
+  "generated": "2025-12-01T22:07:31.500Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "corruption",
-      "pronunciation": "/kəˈrʌpʃən/",
+      "word": "promote",
+      "pronunciation": "/prəˈmoʊt/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "腐败",
-          "en": "Dishonest or unethical behavior by people in power."
+          "pos": "v.",
+          "zh": "促进，推动",
+          "en": "To help something to develop or increase."
         },
         {
-          "pos": "n.",
-          "zh": "损坏",
-          "en": "The process of something becoming damaged or altered."
+          "pos": "v.",
+          "zh": "晋升，提升",
+          "en": "To raise someone to a higher rank or position."
         }
       ],
       "examples": [
         {
-          "en": "Corruption in government can lead to serious social issues.",
-          "zh": "政府中的腐败可能导致严重的社会问题。"
+          "en": "The company aims to promote its new product next month.",
+          "zh": "公司计划下个月推广新产品。"
         },
         {
-          "en": "The corruption of data can affect the accuracy of research.",
-          "zh": "数据的损坏可能影响研究的准确性。"
+          "en": "She was promoted to manager due to her hard work.",
+          "zh": "由于她的努力工作，她被提升为经理。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'corrupt' as 'broken' or 'damaged', which can help remember its meanings."
+        "association": "Think of 'promote' as 'pro' (for) + 'mote' (motion), meaning to move something forward."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=corruption&type=2",
-      "chapter": "核心词汇 民主与权利 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=promote&type=2",
+      "chapter": "基本词汇 动词200 Unit 9"
     },
     {
-      "word": "irreversible",
-      "pronunciation": "/ɪˈrɪvərsəbl/",
+      "word": "upgrade",
+      "pronunciation": "/ˈʌpˌɡreɪd/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "不可逆的",
-          "en": "Something that cannot be reversed or changed back."
+          "pos": "v.",
+          "zh": "升级",
+          "en": "To improve or enhance something to a better version."
         },
         {
-          "pos": "adj.",
-          "zh": "不可恢复的",
-          "en": "A situation or process that cannot return to its original state."
+          "pos": "n.",
+          "zh": "升级",
+          "en": "An improvement or enhancement to something, often a system or product."
         }
       ],
       "examples": [
         {
-          "en": "The damage to the ecosystem is irreversible and will take decades to recover.",
-          "zh": "生态系统的损害是不可逆的，恢复需要几十年。"
+          "en": "I decided to upgrade my computer for better performance.",
+          "zh": "我决定升级我的电脑以获得更好的性能。"
         },
         {
-          "en": "Once you make a decision, some effects may be irreversible.",
-          "zh": "一旦你做出决定，某些影响可能是不可逆的。"
+          "en": "The upgrade to the software includes many new features.",
+          "zh": "软件的升级包含许多新功能。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'irreversible' comes from the prefix 'ir-' meaning 'not', and 'reversible', which means 'able to be turned back'."
+        "association": "Think of 'upgrade' as moving to a higher level, like ascending stairs."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=irreversible&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 11"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=upgrade&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 10"
     }
   ]
 }

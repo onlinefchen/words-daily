@@ -1,67 +1,69 @@
 {
-  "generated": "2025-11-30T22:07:43.967Z",
+  "generated": "2025-12-01T22:07:31.499Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "vulnerable",
-      "pronunciation": "/ˈvʌlnərəbl/",
+      "word": "hygiene",
+      "pronunciation": "/ˈhaɪ.dʒin/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "脆弱的",
-          "en": "Open to physical or emotional harm; not strong."
+          "pos": "n.",
+          "zh": "卫生",
+          "en": "The practice of keeping clean to prevent illness."
         },
         {
-          "pos": "adj.",
-          "zh": "易受影响的",
-          "en": "Likely to be attacked or hurt; sensitive."
+          "pos": "n.",
+          "zh": "卫生条件",
+          "en": "Conditions that affect health and cleanliness."
         }
       ],
       "examples": [
         {
-          "en": "The children feel vulnerable when they are away from their parents.",
-          "zh": "孩子们在离开父母时感到脆弱。"
+          "en": "Good hygiene is essential for preventing the spread of infections.",
+          "zh": "良好的卫生习惯对预防感染至关重要。"
         },
         {
-          "en": "Many species become vulnerable due to climate change and habitat loss.",
-          "zh": "由于气候变化和栖息地丧失，许多物种变得脆弱。"
+          "en": "Children should learn about personal hygiene from a young age.",
+          "zh": "儿童应该从小就学习个人卫生知识。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'vulnerable' as 'vulnerable to attacks', linking it to 'vulnerable' and 'vulnerability' in defense contexts."
+        "etymology": "The word 'hygiene' comes from the Greek word 'hygieinos', meaning 'health'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vulnerable&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 10"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=hygiene&type=2",
+      "chapter": "核心词汇 健康话题 Unit 3"
     },
     {
-      "word": "viper",
-      "pronunciation": "/ˈvaɪpər/",
+      "word": "torment",
+      "pronunciation": "/ˈtɔːr.mɛnt/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "毒蛇",
-          "en": "A type of snake that is often poisonous."
+          "pos": "v.",
+          "zh": "折磨",
+          "en": "To cause someone to suffer or feel great pain."
         },
         {
           "pos": "n.",
-          "zh": "阴险的人",
-          "en": "A person who is deceitful or treacherous."
+          "zh": "痛苦",
+          "en": "Severe pain or suffering, either physical or emotional."
         }
       ],
       "examples": [
         {
-          "en": "The viper slithered silently through the grass, searching for prey.",
-          "zh": "毒蛇在草丛中悄悄滑行，寻找猎物。"
+          "en": "The loud noise tormented her throughout the night.",
+          "zh": "喧闹的声音整晚折磨着她。"
         },
         {
-          "en": "He was a viper in the business world, always betraying his friends.",
-          "zh": "他在商界是一条毒蛇，总是背叛朋友。"
+          "en": "His memories of the accident became a constant torment.",
+          "zh": "他对事故的记忆成了不断的痛苦。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=viper&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "memoryTips": {
+        "association": "Think of 'torment' as 'torn' and 'meant', suggesting something that tears at your mind or emotions."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=torment&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 5"
     }
   ]
 }
