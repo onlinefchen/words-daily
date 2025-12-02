@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-01T22:07:31.500Z",
+  "generated": "2025-12-02T22:08:04.029Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "adore",
-      "pronunciation": "/əˈdɔːr/",
+      "word": "diversity",
+      "pronunciation": "/daɪˈvɜːrsɪti/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "崇拜，喜爱",
-          "en": "To love someone or something very much."
+          "pos": "n.",
+          "zh": "多样性",
+          "en": "The quality of having many different types of things or people."
         },
         {
-          "pos": "v.",
-          "zh": "倾慕",
-          "en": "To have a deep affection for someone."
+          "pos": "n.",
+          "zh": "差异",
+          "en": "The state of being different or varied."
         }
       ],
       "examples": [
         {
-          "en": "She adores her grandmother and visits her every week.",
-          "zh": "她非常崇拜她的祖母，每周都去看望她。"
+          "en": "Cultural diversity enriches our community and promotes understanding.",
+          "zh": "文化多样性丰富了我们的社区，促进了理解。"
         },
         {
-          "en": "Many children adore animals and enjoy visiting the zoo.",
-          "zh": "许多孩子喜欢动物，并且享受去动物园。"
+          "en": "The diversity of wildlife in this region is astonishing and must be protected.",
+          "zh": "这个地区的野生动物多样性令人惊讶，必须保护。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'adore' comes from Latin 'adorare', meaning 'to speak to' or 'to worship'."
+        "association": "Think of 'diverse' as a garden with flowers of many colors, representing different types."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=adore&type=2",
-      "chapter": "基本词汇 动词200 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=diversity&type=2",
+      "chapter": "基本词汇 名词200 Unit 3"
     },
     {
-      "word": "reputation",
-      "pronunciation": "/ˌrɛp.jʊˈteɪ.ʃən/",
+      "word": "exchange",
+      "pronunciation": "/ɪksˈtʃeɪndʒ/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "声誉",
-          "en": "The opinion that people have about someone or something."
+          "pos": "v.",
+          "zh": "交换",
+          "en": "To give something and receive something in return."
         },
         {
           "pos": "n.",
-          "zh": "名声",
-          "en": "The general quality or character as seen by others."
+          "zh": "交流",
+          "en": "The act of giving and receiving things, ideas, or information."
         }
       ],
       "examples": [
         {
-          "en": "Her reputation as a reliable worker helped her get the job.",
-          "zh": "她作为一个可靠员工的声誉帮助她得到了这份工作。"
+          "en": "We will exchange gifts during the holiday season.",
+          "zh": "我们将在假期期间互换礼物。"
         },
         {
-          "en": "The restaurant lost its reputation after several negative reviews.",
-          "zh": "这家餐厅在几条负面评价后失去了它的声誉。"
+          "en": "The students exchanged ideas on their projects last week.",
+          "zh": "学生们上周交流了他们项目的想法。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'reputation' as the 'repeated' opinions people have about someone."
+        "association": "Think of 'exchange' as 'ex-changing' items or ideas with someone else."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=reputation&type=2",
-      "chapter": "基本词汇 名词200 Unit 7"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=exchange&type=2",
+      "chapter": "基本词汇 名词200 Unit 4"
     }
   ]
 }

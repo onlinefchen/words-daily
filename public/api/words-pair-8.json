@@ -1,69 +1,67 @@
 {
-  "generated": "2025-12-01T22:07:31.500Z",
+  "generated": "2025-12-02T22:08:04.029Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "promote",
-      "pronunciation": "/prəˈmoʊt/",
+      "word": "prejudice",
+      "pronunciation": "/ˈprɛdʒʊdɪs/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "促进，推动",
-          "en": "To help something to develop or increase."
+          "pos": "n.",
+          "zh": "偏见",
+          "en": "An unfair opinion about someone or something not based on actual experience."
         },
         {
           "pos": "v.",
-          "zh": "晋升，提升",
-          "en": "To raise someone to a higher rank or position."
+          "zh": "使有偏见",
+          "en": "To cause someone to have an unfair opinion about someone or something."
         }
       ],
       "examples": [
         {
-          "en": "The company aims to promote its new product next month.",
-          "zh": "公司计划下个月推广新产品。"
+          "en": "Many people face prejudice because of their background or beliefs.",
+          "zh": "许多人因为他们的背景或信仰而面临偏见。"
         },
         {
-          "en": "She was promoted to manager due to her hard work.",
-          "zh": "由于她的努力工作，她被提升为经理。"
+          "en": "It is important to challenge prejudice in our society.",
+          "zh": "在我们的社会中，挑战偏见是很重要的。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'promote' as 'pro' (for) + 'mote' (motion), meaning to move something forward."
+        "etymology": "The word 'prejudice' comes from the Latin 'praejudicium', meaning 'a judgment in advance'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=promote&type=2",
-      "chapter": "基本词汇 动词200 Unit 9"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=prejudice&type=2",
+      "chapter": "基本词汇 名词200 Unit 7"
     },
     {
-      "word": "upgrade",
-      "pronunciation": "/ˈʌpˌɡreɪd/",
+      "word": "interference",
+      "pronunciation": "/ˌɪn.təˈfɪr.əns/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "升级",
-          "en": "To improve or enhance something to a better version."
+          "pos": "n.",
+          "zh": "干扰",
+          "en": "The act of getting involved in a situation to change it."
         },
         {
           "pos": "n.",
-          "zh": "升级",
-          "en": "An improvement or enhancement to something, often a system or product."
+          "zh": "干预",
+          "en": "A situation where one thing affects another, often negatively."
         }
       ],
       "examples": [
         {
-          "en": "I decided to upgrade my computer for better performance.",
-          "zh": "我决定升级我的电脑以获得更好的性能。"
+          "en": "The interference from outside sources disrupted the experiment.",
+          "zh": "外部来源的干扰打乱了实验。"
         },
         {
-          "en": "The upgrade to the software includes many new features.",
-          "zh": "软件的升级包含许多新功能。"
+          "en": "Her interference in the meeting caused confusion among the team members.",
+          "zh": "她在会议中的干预导致团队成员之间的困惑。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'upgrade' as moving to a higher level, like ascending stairs."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=upgrade&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 10"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=interference&type=2",
+      "chapter": "基本词汇 名词200 Unit 5"
     }
   ]
 }

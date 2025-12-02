@@ -1,64 +1,69 @@
 {
-  "generated": "2025-12-01T22:07:31.500Z",
+  "generated": "2025-12-02T22:08:04.029Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "granitic",
-      "pronunciation": "/ɡrəˈnɪtɪk/",
+      "word": "complain",
+      "pronunciation": "/kəmˈpleɪn/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "花岗岩的",
-          "en": "Relating to or resembling granite, a type of hard rock."
+          "pos": "v.",
+          "zh": "抱怨",
+          "en": "To express dissatisfaction or annoyance about something."
+        },
+        {
+          "pos": "n.",
+          "zh": "投诉",
+          "en": "An expression of unhappiness or a formal statement of dissatisfaction."
         }
       ],
       "examples": [
         {
-          "en": "The granitic landscape was formed by ancient volcanic activity.",
-          "zh": "这个花岗岩地貌是由古代火山活动形成的。"
+          "en": "She decided to complain to the manager about the poor service.",
+          "zh": "她决定向经理投诉服务差的问题。"
         },
         {
-          "en": "Granite is a granitic rock commonly used in construction.",
-          "zh": "花岗岩是一种常用于建筑的花岗岩石。"
+          "en": "Many customers complain when their orders are delayed.",
+          "zh": "许多顾客在订单延迟时会抱怨。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'granitic' comes from the Latin 'granum', meaning 'grain', due to the grainy texture of granite."
+        "association": "Think of 'complain' as 'claiming a problem' to remember its meaning."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=granitic&type=2",
-      "chapter": "认知词汇 自然分类 火山"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=complain&type=2",
+      "chapter": "基本词汇 动词200 Unit 3"
     },
     {
-      "word": "superstition",
-      "pronunciation": "/ˌsuː.pərˈstɪʃ.ən/",
+      "word": "prohibit",
+      "pronunciation": "/prəˈhɪbɪt/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "迷信",
-          "en": "A belief that certain events or things can bring good or bad luck."
+          "pos": "v.",
+          "zh": "禁止",
+          "en": "To stop someone from doing something or make it illegal."
         },
         {
-          "pos": "n.",
-          "zh": "迷信行为",
-          "en": "An action based on such beliefs, often irrational."
+          "pos": "v.",
+          "zh": "妨碍",
+          "en": "To prevent something from happening."
         }
       ],
       "examples": [
         {
-          "en": "Many people avoid walking under ladders due to superstition.",
-          "zh": "许多人因为迷信而避免走在梯子下。"
+          "en": "The school will prohibit students from using their phones during class.",
+          "zh": "学校将禁止学生在课堂上使用手机。"
         },
         {
-          "en": "His superstition made him carry a lucky charm everywhere.",
-          "zh": "他的迷信让他到处携带一个幸运符。"
+          "en": "Laws prohibit smoking in public areas to protect everyone's health.",
+          "zh": "法律禁止在公共场所吸烟，以保护每个人的健康。"
         }
       ],
       "memoryTips": {
-        "association": "You can think of 'superstition' as something that is 'super' or beyond rationality, involving 'stitions' or beliefs."
+        "etymology": "The word 'prohibit' comes from the Latin 'prohibere', meaning 'to hold back'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=superstition&type=2",
-      "chapter": "基本词汇 名词200 Unit 8"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=prohibit&type=2",
+      "chapter": "基本词汇 动词200 Unit 9"
     }
   ]
 }

@@ -1,68 +1,70 @@
 {
-  "generated": "2025-12-01T22:07:31.500Z",
+  "generated": "2025-12-02T22:08:04.029Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "invertebrate",
-      "pronunciation": "/ɪnˈvɜrtəbrɪt/",
+      "word": "cooperate",
+      "pronunciation": "/koʊˈɑːpəreɪt/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "无脊椎动物",
-          "en": "An animal without a backbone, like insects or jellyfish."
+          "pos": "v.",
+          "zh": "合作",
+          "en": "To work together with others to achieve a common goal."
         },
         {
-          "pos": "adj.",
-          "zh": "无脊椎的",
-          "en": "Describing organisms that lack a spinal column."
+          "pos": "v.",
+          "zh": "配合",
+          "en": "To be helpful and willing to assist others in their tasks."
         }
       ],
       "examples": [
         {
-          "en": "Many marine invertebrates play essential roles in ocean ecosystems.",
-          "zh": "许多海洋无脊椎动物在海洋生态系统中扮演重要角色。"
+          "en": "The two companies decided to cooperate on the new project.",
+          "zh": "这两家公司决定在新项目上合作。"
         },
         {
-          "en": "Invertebrates make up a large portion of Earth's biodiversity.",
-          "zh": "无脊椎动物占地球生物多样性的很大一部分。"
+          "en": "It is important for nations to cooperate to solve global issues.",
+          "zh": "各国合作解决全球问题是很重要的。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'invertebrate' comes from the Latin 'in-' meaning 'without' and 'vertebra' meaning 'joint' or 'spine'.",
-        "association": "Think of 'invert' to remember that invertebrates have no vertebrae, as they are 'inverted' from the typical animal structure."
+        "etymology": "The word 'cooperate' comes from the Latin 'cooperari', which means 'to work together'.",
+        "association": "Think of 'cooperate' as 'co' meaning together and 'operate' meaning to work, so it literally means to work together."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=invertebrate&type=2",
-      "chapter": "认知词汇 动物分类 动物行为"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cooperate&type=2",
+      "chapter": "基本词汇 动词200 Unit 4"
     },
     {
-      "word": "legitimise",
-      "pronunciation": "/lɪˈdʒɪtɪmaɪz/",
+      "word": "confront",
+      "pronunciation": "/kənˈfrʌnt/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "合法化",
-          "en": "To make something legal or acceptable."
+          "zh": "面对",
+          "en": "To face someone or something in a challenging way."
         },
         {
           "pos": "v.",
-          "zh": "正当化",
-          "en": "To justify or prove that something is reasonable."
+          "zh": "对抗",
+          "en": "To deal with a difficult situation or person."
         }
       ],
       "examples": [
         {
-          "en": "The government aims to legitimise the use of renewable energy sources.",
-          "zh": "政府旨在合法化可再生能源的使用。"
+          "en": "She decided to confront her fears during the presentation.",
+          "zh": "她决定在演讲中面对自己的恐惧。"
         },
         {
-          "en": "Many argue that laws can help legitimise certain social behaviors.",
-          "zh": "许多人认为法律可以帮助正当化某些社会行为。"
+          "en": "The teacher confronted the student about his missing assignments.",
+          "zh": "老师就学生缺交作业的事与他对峙。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=legitimise&type=2",
-      "chapter": "核心词汇 民主与权利 Unit 3"
+      "memoryTips": {
+        "association": "Think of 'confront' as 'con-front,' where you are facing someone directly."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=confront&type=2",
+      "chapter": "基本词汇 动词200 Unit 4"
     }
   ]
 }

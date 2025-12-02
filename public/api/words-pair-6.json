@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-01T22:07:31.500Z",
+  "generated": "2025-12-02T22:08:04.029Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "soil erosion",
-      "pronunciation": "/ˈsɔɪl ɪˈroʊʒən/",
+      "word": "foster",
+      "pronunciation": "/ˈfɔːstər/",
       "meanings": [
         {
+          "pos": "v.",
+          "zh": "培养，促进",
+          "en": "To encourage or promote the development of something."
+        },
+        {
           "pos": "n.",
-          "zh": "土壤侵蚀",
-          "en": "The process by which soil is worn away, often by water or wind."
+          "zh": "养育者，抚养者",
+          "en": "A person who takes care of a child not biologically their own."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The school aims to foster creativity in its students.",
+          "zh": "学校的目标是培养学生的创造力。"
+        },
+        {
+          "en": "They decided to foster a child in need of a loving home.",
+          "zh": "他们决定收养一个需要温暖家庭的孩子。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'foster' as 'fostering' a plant; you help it grow and thrive."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=foster&type=2",
+      "chapter": "基本词汇 动词200 Unit 7"
+    },
+    {
+      "word": "promote",
+      "pronunciation": "/prəˈmoʊt/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "促进，推动",
+          "en": "To help something to develop or increase."
         },
         {
           "pos": "v.",
-          "zh": "使土壤侵蚀",
-          "en": "To cause soil to be removed or eroded, usually through natural forces."
+          "zh": "晋升，提升",
+          "en": "To raise someone to a higher rank or position."
         }
       ],
       "examples": [
         {
-          "en": "Soil erosion can lead to decreased agricultural productivity.",
-          "zh": "土壤侵蚀会导致农业生产力下降。"
+          "en": "The company aims to promote its new product next month.",
+          "zh": "公司计划下个月推广新产品。"
         },
         {
-          "en": "Preventing soil erosion is essential for sustainable farming.",
-          "zh": "防止土壤侵蚀对于可持续农业至关重要。"
+          "en": "She was promoted to manager due to her hard work.",
+          "zh": "由于她的努力工作，她被提升为经理。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'soil' as the ground, and 'erosion' as the wearing away, like sand being blown by the wind."
+        "association": "Think of 'promote' as 'pro' (for) + 'mote' (motion), meaning to move something forward."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=soil%20erosion&type=2",
-      "chapter": "核心词汇 环境保护 Unit 5"
-    },
-    {
-      "word": "medical",
-      "pronunciation": "/ˈmɛdɪkəl/",
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "医学的",
-          "en": "Related to the practice of medicine or health."
-        },
-        {
-          "pos": "n.",
-          "zh": "医疗",
-          "en": "The field that involves the treatment of diseases and injuries."
-        }
-      ],
-      "examples": [
-        {
-          "en": "She decided to pursue a medical career to help others.",
-          "zh": "她决定追求医学事业，帮助他人。"
-        },
-        {
-          "en": "The hospital provides various medical services and treatments.",
-          "zh": "医院提供各种医疗服务和治疗。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'medical' comes from the Latin 'medicus', meaning 'physician'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=medical&type=2",
-      "chapter": "核心词汇 动物权益与保护 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=promote&type=2",
+      "chapter": "基本词汇 动词200 Unit 9"
     }
   ]
 }

@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-01T22:07:31.499Z",
+  "generated": "2025-12-02T22:08:04.028Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "hygiene",
-      "pronunciation": "/ˈhaɪ.dʒin/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "卫生",
-          "en": "The practice of keeping clean to prevent illness."
-        },
-        {
-          "pos": "n.",
-          "zh": "卫生条件",
-          "en": "Conditions that affect health and cleanliness."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Good hygiene is essential for preventing the spread of infections.",
-          "zh": "良好的卫生习惯对预防感染至关重要。"
-        },
-        {
-          "en": "Children should learn about personal hygiene from a young age.",
-          "zh": "儿童应该从小就学习个人卫生知识。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'hygiene' comes from the Greek word 'hygieinos', meaning 'health'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=hygiene&type=2",
-      "chapter": "核心词汇 健康话题 Unit 3"
-    },
-    {
-      "word": "torment",
-      "pronunciation": "/ˈtɔːr.mɛnt/",
+      "word": "involve",
+      "pronunciation": "/ɪnˈvɑlv/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "折磨",
-          "en": "To cause someone to suffer or feel great pain."
+          "zh": "涉及",
+          "en": "To include something as a necessary part or result."
         },
         {
-          "pos": "n.",
-          "zh": "痛苦",
-          "en": "Severe pain or suffering, either physical or emotional."
+          "pos": "v.",
+          "zh": "参与",
+          "en": "To take part in an activity or event."
         }
       ],
       "examples": [
         {
-          "en": "The loud noise tormented her throughout the night.",
-          "zh": "喧闹的声音整晚折磨着她。"
+          "en": "The project will involve many different teams working together.",
+          "zh": "这个项目将涉及许多不同的团队共同合作。"
         },
         {
-          "en": "His memories of the accident became a constant torment.",
-          "zh": "他对事故的记忆成了不断的痛苦。"
+          "en": "She decided to involve her friends in the planning process.",
+          "zh": "她决定让朋友们参与计划过程。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'torment' as 'torn' and 'meant', suggesting something that tears at your mind or emotions."
+        "association": "Think of 'involve' as 'in' + 'volve' (like revolve), meaning to include people in a situation."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=torment&type=2",
-      "chapter": "核心词汇 动物权益与保护 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=involve&type=2",
+      "chapter": "基本词汇 动词200 Unit 8"
+    },
+    {
+      "word": "campaign",
+      "pronunciation": "/kæmˈpeɪn/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "运动，活动",
+          "en": "A planned series of activities aimed at achieving a specific goal."
+        },
+        {
+          "pos": "v.",
+          "zh": "发起运动，进行活动",
+          "en": "To organize and take part in a series of actions to achieve a goal."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The government launched a campaign to promote healthy eating habits.",
+          "zh": "政府发起了一项宣传健康饮食习惯的运动。"
+        },
+        {
+          "en": "They campaigned for better education facilities in their community.",
+          "zh": "他们为改善社区的教育设施而发起运动。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a 'campaign' as a 'camp' where people gather to achieve a common objective."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=campaign&type=2",
+      "chapter": "基本词汇 名词200 Unit 1"
     }
   ]
 }

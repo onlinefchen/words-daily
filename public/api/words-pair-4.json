@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-01T22:07:31.499Z",
+  "generated": "2025-12-02T22:08:04.028Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "domicile",
-      "pronunciation": "/ˈdɒm.ɪ.saɪl/",
+      "word": "biased",
+      "pronunciation": "/ˈbaɪəst/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "住所",
-          "en": "A person's permanent home or residence."
+          "pos": "adj.",
+          "zh": "有偏见的",
+          "en": "Having an unfair preference for or against something."
         },
         {
           "pos": "v.",
-          "zh": "居住",
-          "en": "To reside or live in a particular place."
+          "zh": "使有偏见",
+          "en": "To cause someone to have a particular opinion that is not based on reason."
         }
       ],
       "examples": [
         {
-          "en": "His domicile is registered in California, where he was born.",
-          "zh": "他的住所登记在加利福尼亚，他出生在那里。"
+          "en": "The article was criticized for being biased towards one political party.",
+          "zh": "这篇文章因偏向一个政党而受到批评。"
         },
         {
-          "en": "They chose to domicile their business in a tax-friendly region.",
-          "zh": "他们选择在一个税收友好的地区设立公司。"
+          "en": "He is often biased in his judgments due to personal beliefs.",
+          "zh": "由于个人信念，他在判断上常常有偏见。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'domicile' as 'home' with 'domi-' suggesting 'domestic' or 'house'."
+        "association": "Think of 'bias' as a 'bias tape' that distorts the truth."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=domicile&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=biased&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 3"
     },
     {
-      "word": "self",
-      "pronunciation": "/sɛlf/",
+      "word": "block",
+      "pronunciation": "/blɑk/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "自我",
-          "en": "A person's essential being that distinguishes them from others."
+          "zh": "块；障碍",
+          "en": "A solid piece of material with flat surfaces."
         },
         {
-          "pos": "pron.",
-          "zh": "自己",
-          "en": "Referring to oneself, used for emphasis or clarification."
+          "pos": "v.",
+          "zh": "阻止；封锁",
+          "en": "To prevent movement or progress."
         }
       ],
       "examples": [
         {
-          "en": "She believes in being true to herself and her values.",
-          "zh": "她相信忠于自己和自己的价值观。"
+          "en": "He used a block of wood to hold the door open.",
+          "zh": "他用一块木头把门撑开。"
         },
         {
-          "en": "He often talks about his self-improvement journey.",
-          "zh": "他经常谈论自我提升的旅程。"
+          "en": "They need to block the road for maintenance work.",
+          "zh": "他们需要封锁道路进行维修工作。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'self' as your personal brand or identity, which helps you remember it relates to who you are."
+        "association": "Think of a 'block' as something that stops or holds back, like a block in a game."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=self&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 9"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=block&type=2",
+      "chapter": "基本词汇 动词200 Unit 3"
     }
   ]
 }

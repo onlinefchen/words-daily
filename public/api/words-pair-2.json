@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-01T22:07:31.499Z",
+  "generated": "2025-12-02T22:08:04.028Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "pesticide",
-      "pronunciation": "/ˈpɛsɪˌsaɪd/",
+      "word": "blast",
+      "pronunciation": "/blæst/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "农药",
-          "en": "A chemical used to kill pests that harm crops."
+          "zh": "爆炸；一阵强风",
+          "en": "An explosion or a strong burst of wind."
         },
         {
-          "pos": "n.",
-          "zh": "杀虫剂",
-          "en": "A substance that eliminates insects from plants."
+          "pos": "v.",
+          "zh": "炸毁；发出响声",
+          "en": "To explode or make a loud noise."
         }
       ],
       "examples": [
         {
-          "en": "Farmers often use pesticide to protect their crops from insects.",
-          "zh": "农民常常使用农药来保护他们的农作物免受昆虫侵害。"
+          "en": "The blast from the fireworks lit up the night sky beautifully.",
+          "zh": "烟花的爆炸照亮了美丽的夜空。"
         },
         {
-          "en": "Excessive pesticide use can lead to environmental pollution.",
-          "zh": "过度使用农药可能导致环境污染。"
+          "en": "They heard a loud blast as the bomb exploded in the distance.",
+          "zh": "他们听到远处炸弹爆炸时发出的巨响。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'pest' in 'pesticide' to remember that it's meant to kill pests."
+        "association": "Think of a 'blast' as a strong burst of something, like a blast of wind or sound that can surprise you."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pesticide&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=blast&type=2",
+      "chapter": "认知词汇 自然分类 火山"
     },
     {
-      "word": "compulsory",
-      "pronunciation": "/kəmˈpʌlsəri/",
+      "word": "conserve",
+      "pronunciation": "/kənˈsɜrv/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "强制的",
-          "en": "Required by law or a rule; mandatory."
+          "pos": "v.",
+          "zh": "保护，保存",
+          "en": "To keep something safe and prevent it from being damaged or wasted."
         },
         {
-          "pos": "adj.",
-          "zh": "必修的",
-          "en": "Something that must be done; not optional."
+          "pos": "v.",
+          "zh": "节省，节约",
+          "en": "To use something carefully so that it lasts longer or is not wasted."
         }
       ],
       "examples": [
         {
-          "en": "In many countries, education is compulsory for children.",
-          "zh": "在许多国家，教育对儿童是强制性的。"
+          "en": "We need to conserve water during the summer months.",
+          "zh": "在夏季，我们需要节约用水。"
         },
         {
-          "en": "The school has compulsory uniforms for all students.",
-          "zh": "这所学校要求所有学生穿校服。"
+          "en": "Conserving energy can help reduce your electricity bill.",
+          "zh": "节约能源可以帮助降低你的电费。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'compulsory' as 'compelled to do something', which sounds similar."
+        "association": "Think of 'conserve' as 'conserve energy' or 'conserve resources' to remember its meaning related to preservation."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compulsory&type=2",
-      "chapter": "核心词汇 民主与权利 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=conserve&type=2",
+      "chapter": "基本词汇 动词200 Unit 4"
     }
   ]
 }

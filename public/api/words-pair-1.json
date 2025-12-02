@@ -1,69 +1,64 @@
 {
-  "generated": "2025-12-01T22:07:31.499Z",
+  "generated": "2025-12-02T22:08:04.028Z",
   "pair": 1,
   "count": 2,
   "words": [
     {
-      "word": "role",
-      "pronunciation": "/roʊl/",
+      "word": "face-to-face interaction",
+      "pronunciation": "/ˈfeɪs tə ˈfeɪs ˌɪn.təˈræk.ʃən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "角色",
-          "en": "A part someone plays in a situation or activity."
-        },
-        {
-          "pos": "v.",
-          "zh": "扮演",
-          "en": "To act in a particular way or perform a specific function."
+          "zh": "面对面的互动",
+          "en": "Direct communication between people in the same place."
         }
       ],
       "examples": [
         {
-          "en": "In the play, she had the leading role as the main character.",
-          "zh": "在剧中，她饰演了主角的主要角色。"
+          "en": "Face-to-face interaction helps build stronger relationships.",
+          "zh": "面对面的互动有助于建立更强的关系。"
         },
         {
-          "en": "Teachers play a vital role in shaping students' futures.",
-          "zh": "教师在塑造学生未来方面发挥着重要作用。"
+          "en": "Many people prefer face-to-face interaction over online chats.",
+          "zh": "许多人更喜欢面对面的互动而不是在线聊天。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'role' as a 'role model' or 'role play' to remember its function in different contexts."
+        "association": "Imagine having a conversation while looking directly at someone's face, which reinforces connection."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=role&type=2",
-      "chapter": "核心词汇 法制与犯罪 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=face-to-face%20interaction&type=2",
+      "chapter": "认知词汇 教育分类 远程教育"
     },
     {
-      "word": "cylindrical",
-      "pronunciation": "/sɪlˈɪndrɪkəl/",
+      "word": "decency",
+      "pronunciation": "/ˈdiːsənsi/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "柱状的",
-          "en": "Having the shape of a cylinder, which is a solid with circular ends."
+          "pos": "n.",
+          "zh": "体面；正派",
+          "en": "The quality of being polite and respectful towards others."
         },
         {
-          "pos": "adj.",
-          "zh": "圆柱形的",
-          "en": "Related to a three-dimensional shape with straight sides and circular ends."
+          "pos": "n.",
+          "zh": "合乎礼仪的行为",
+          "en": "Behavior that is considered acceptable and proper in society."
         }
       ],
       "examples": [
         {
-          "en": "The cylindrical tower stood tall against the skyline.",
-          "zh": "这座圆柱形塔楼在天际线上巍峨耸立。"
+          "en": "He showed great decency by helping the elderly man.",
+          "zh": "他通过帮助那位老人展示了极大的体面。"
         },
         {
-          "en": "He designed a cylindrical container for the project.",
-          "zh": "他为这个项目设计了一个圆柱形的容器。"
+          "en": "Decency in conversation is essential for mutual respect.",
+          "zh": "交谈中的体面对于相互尊重至关重要。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a can or a pipe, which are common cylindrical objects."
+        "association": "Think of 'decent' as a root word that relates to good manners and respect."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cylindrical&type=2",
-      "chapter": "阅读真题认知词汇 英国建筑"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=decency&type=2",
+      "chapter": "核心词汇 伦理与道德 Unit 2"
     }
   ]
 }

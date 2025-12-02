@@ -1,67 +1,69 @@
 {
-  "generated": "2025-12-01T22:07:31.499Z",
+  "generated": "2025-12-02T22:08:04.028Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "cannibalism",
-      "pronunciation": "/ˈkæn.ɪ.bəl.ɪ.zəm/",
+      "word": "deepen",
+      "pronunciation": "/ˈdiː.pən/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "食人行为",
-          "en": "The act of eating the flesh of one's own species."
+          "pos": "v.",
+          "zh": "加深",
+          "en": "To make something stronger or more intense."
         },
         {
-          "pos": "n.",
-          "zh": "自相残杀",
-          "en": "The practice of one group destroying or consuming another of the same kind."
+          "pos": "v.",
+          "zh": "深化",
+          "en": "To increase understanding or knowledge of a subject."
         }
       ],
       "examples": [
         {
-          "en": "Cannibalism has been documented in various cultures throughout history.",
-          "zh": "历史上，食人行为在不同文化中都有记载。"
+          "en": "The teacher aims to deepen the students' understanding of science.",
+          "zh": "老师旨在加深学生对科学的理解。"
         },
         {
-          "en": "Some animals exhibit cannibalism, especially in times of scarcity.",
-          "zh": "一些动物在资源匮乏时表现出食人行为。"
+          "en": "They hope to deepen their relationship through honest communication.",
+          "zh": "他们希望通过诚实的交流加深彼此的关系。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'cannibalism' comes from the Spanish word 'caníbal', which refers to the Carib people, known for eating human flesh."
+        "etymology": "The word 'deepen' comes from the Old English 'deop', meaning 'deep'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cannibalism&type=2",
-      "chapter": "核心词汇 动物权益与保护 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=deepen&type=2",
+      "chapter": "基本词汇 动词200 Unit 5"
     },
     {
-      "word": "differentiate",
-      "pronunciation": "/ˌdɪf.əˈrɛn.ʧ.eɪt/",
+      "word": "damage",
+      "pronunciation": "/ˈdæmɪdʒ/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "区分",
-          "en": "To recognize or ascertain what makes something different."
+          "zh": "损害",
+          "en": "To cause harm or injury to something."
         },
         {
-          "pos": "v.",
-          "zh": "区分对待",
-          "en": "To treat differently based on certain characteristics."
+          "pos": "n.",
+          "zh": "损害",
+          "en": "Physical harm that affects the value or usefulness of something."
         }
       ],
       "examples": [
         {
-          "en": "It's important to differentiate between facts and opinions in an argument.",
-          "zh": "在争论中区分事实和观点是很重要的。"
+          "en": "The storm caused serious damage to the coastal buildings.",
+          "zh": "风暴对海岸建筑造成了严重的损害。"
         },
         {
-          "en": "Teachers need to differentiate their instruction to meet diverse student needs.",
-          "zh": "教师需要区分教学方法以满足不同学生的需求。"
+          "en": "He had to pay for the damage done to the car.",
+          "zh": "他必须为汽车造成的损害付费。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=differentiate&type=2",
-      "chapter": "核心词汇 法制与犯罪 Unit 2"
+      "memoryTips": {
+        "association": "Think of 'damage' as 'damaging something', like a dent in a car."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=damage&type=2",
+      "chapter": "基本词汇 动词200 Unit 4"
     }
   ]
 }
