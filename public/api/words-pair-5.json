@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-02T22:08:04.028Z",
+  "generated": "2025-12-03T22:08:38.971Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "deepen",
-      "pronunciation": "/ˈdiː.pən/",
+      "word": "contemptible",
+      "pronunciation": "/kənˈtɛmptəbl/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "加深",
-          "en": "To make something stronger or more intense."
+          "pos": "adj.",
+          "zh": "可鄙的，卑劣的",
+          "en": "Deserving of scorn; not worthy of respect."
         },
         {
-          "pos": "v.",
-          "zh": "深化",
-          "en": "To increase understanding or knowledge of a subject."
+          "pos": "adj.",
+          "zh": "令人厌恶的",
+          "en": "Causing feelings of disgust or disapproval."
         }
       ],
       "examples": [
         {
-          "en": "The teacher aims to deepen the students' understanding of science.",
-          "zh": "老师旨在加深学生对科学的理解。"
+          "en": "His contemptible behavior shocked everyone at the meeting.",
+          "zh": "他可鄙的行为让会议上的每个人都感到震惊。"
         },
         {
-          "en": "They hope to deepen their relationship through honest communication.",
-          "zh": "他们希望通过诚实的交流加深彼此的关系。"
+          "en": "She found his contemptible remarks completely unacceptable.",
+          "zh": "她觉得他那些可鄙的言论完全不可接受。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'deepen' comes from the Old English 'deop', meaning 'deep'."
+        "association": "Think of 'contempt' as feeling strong dislike, and 'ible' as capable of being that way."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=deepen&type=2",
-      "chapter": "基本词汇 动词200 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=contemptible&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 5"
     },
     {
-      "word": "damage",
-      "pronunciation": "/ˈdæmɪdʒ/",
+      "word": "prolong",
+      "pronunciation": "/prəˈlɔŋ/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "损害",
-          "en": "To cause harm or injury to something."
+          "zh": "延长",
+          "en": "To make something last longer."
         },
         {
-          "pos": "n.",
-          "zh": "损害",
-          "en": "Physical harm that affects the value or usefulness of something."
+          "pos": "v.",
+          "zh": "拖延",
+          "en": "To delay or to make something take more time."
         }
       ],
       "examples": [
         {
-          "en": "The storm caused serious damage to the coastal buildings.",
-          "zh": "风暴对海岸建筑造成了严重的损害。"
+          "en": "The meeting was prolonged to discuss more important issues.",
+          "zh": "会议被延长以讨论更重要的问题。"
         },
         {
-          "en": "He had to pay for the damage done to the car.",
-          "zh": "他必须为汽车造成的损害付费。"
+          "en": "We should not prolong the decision any further.",
+          "zh": "我们不应该再拖延这个决定。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'damage' as 'damaging something', like a dent in a car."
+        "association": "Think of 'long' in 'prolong'—to make something longer in time."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=damage&type=2",
-      "chapter": "基本词汇 动词200 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=prolong&type=2",
+      "chapter": "核心词汇 科技发展 Unit 4"
     }
   ]
 }

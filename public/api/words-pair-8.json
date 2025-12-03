@@ -1,67 +1,69 @@
 {
-  "generated": "2025-12-02T22:08:04.029Z",
+  "generated": "2025-12-03T22:08:38.971Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "prejudice",
-      "pronunciation": "/ˈprɛdʒʊdɪs/",
+      "word": "adopt",
+      "pronunciation": "/əˈdɒpt/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "偏见",
-          "en": "An unfair opinion about someone or something not based on actual experience."
+          "pos": "v.",
+          "zh": "采纳",
+          "en": "To take and use something, such as an idea or method."
         },
         {
           "pos": "v.",
-          "zh": "使有偏见",
-          "en": "To cause someone to have an unfair opinion about someone or something."
+          "zh": "收养",
+          "en": "To legally take a child and raise them as your own."
         }
       ],
       "examples": [
         {
-          "en": "Many people face prejudice because of their background or beliefs.",
-          "zh": "许多人因为他们的背景或信仰而面临偏见。"
+          "en": "Many countries adopt new technologies to improve their economy.",
+          "zh": "许多国家采用新技术来改善经济。"
         },
         {
-          "en": "It is important to challenge prejudice in our society.",
-          "zh": "在我们的社会中，挑战偏见是很重要的。"
+          "en": "They decided to adopt a child from an orphanage.",
+          "zh": "他们决定从孤儿院收养一个孩子。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'prejudice' comes from the Latin 'praejudicium', meaning 'a judgment in advance'."
+        "association": "Think of 'adopt' as 'a drop'—when you drop something into a new situation, you are adopting it."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=prejudice&type=2",
-      "chapter": "基本词汇 名词200 Unit 7"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=adopt&type=2",
+      "chapter": "基本词汇 动词200 Unit 1"
     },
     {
-      "word": "interference",
-      "pronunciation": "/ˌɪn.təˈfɪr.əns/",
+      "word": "tolerant",
+      "pronunciation": "/ˈtɑːlərənt/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "干扰",
-          "en": "The act of getting involved in a situation to change it."
+          "pos": "adj.",
+          "zh": "宽容的",
+          "en": "Able to accept different views or behaviors without getting upset."
         },
         {
-          "pos": "n.",
-          "zh": "干预",
-          "en": "A situation where one thing affects another, often negatively."
+          "pos": "adj.",
+          "zh": "耐受的",
+          "en": "Able to endure difficult conditions or situations."
         }
       ],
       "examples": [
         {
-          "en": "The interference from outside sources disrupted the experiment.",
-          "zh": "外部来源的干扰打乱了实验。"
+          "en": "She is very tolerant of different cultures and traditions.",
+          "zh": "她对不同的文化和传统非常宽容。"
         },
         {
-          "en": "Her interference in the meeting caused confusion among the team members.",
-          "zh": "她在会议中的干预导致团队成员之间的困惑。"
+          "en": "Being tolerant helps create a peaceful and harmonious society.",
+          "zh": "宽容有助于创造一个和平和谐的社会。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=interference&type=2",
-      "chapter": "基本词汇 名词200 Unit 5"
+      "memoryTips": {
+        "association": "Think of 'tolerate' which means to endure; both words share a similar meaning."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=tolerant&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 19"
     }
   ]
 }

@@ -1,63 +1,63 @@
 {
-  "generated": "2025-12-02T22:08:04.028Z",
+  "generated": "2025-12-03T22:08:38.970Z",
   "count": 2,
   "words": [
     {
-      "word": "face-to-face interaction",
-      "pronunciation": "/ˈfeɪs tə ˈfeɪs ˌɪn.təˈræk.ʃən/",
+      "word": "history of cartography",
+      "pronunciation": "/ˈhɪstəri əv kɑːrˈtɑːɡrəfi/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "面对面的互动",
-          "en": "Direct communication between people in the same place."
+          "zh": "制图历史",
+          "en": "The study of how maps have been made and used over time."
         }
       ],
       "examples": [
         {
-          "en": "Face-to-face interaction helps build stronger relationships.",
-          "zh": "面对面的互动有助于建立更强的关系。"
+          "en": "The history of cartography reveals how societies understood their world.",
+          "zh": "制图历史揭示了社会如何理解他们的世界。"
         },
         {
-          "en": "Many people prefer face-to-face interaction over online chats.",
-          "zh": "许多人更喜欢面对面的互动而不是在线聊天。"
+          "en": "Learning the history of cartography is essential for geography students.",
+          "zh": "学习制图历史对地理学生至关重要。"
         }
       ],
       "memoryTips": {
-        "association": "Imagine having a conversation while looking directly at someone's face, which reinforces connection."
+        "etymology": "The word 'cartography' comes from 'carta' (Latin for map) and 'graphy' (writing)."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=face-to-face%20interaction&type=2",
-      "chapter": "认知词汇 教育分类 远程教育"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=history%20of%20cartography&type=2",
+      "chapter": "认知词汇 历史分类 地图发展史"
     },
     {
-      "word": "decency",
-      "pronunciation": "/ˈdiːsənsi/",
+      "word": "demanding",
+      "pronunciation": "/dɪˈmændɪŋ/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "体面；正派",
-          "en": "The quality of being polite and respectful towards others."
+          "pos": "adj.",
+          "zh": "要求高的",
+          "en": "Requiring much effort or attention."
         },
         {
-          "pos": "n.",
-          "zh": "合乎礼仪的行为",
-          "en": "Behavior that is considered acceptable and proper in society."
+          "pos": "v.",
+          "zh": "要求",
+          "en": "To ask for something firmly."
         }
       ],
       "examples": [
         {
-          "en": "He showed great decency by helping the elderly man.",
-          "zh": "他通过帮助那位老人展示了极大的体面。"
+          "en": "The job is very demanding and requires long hours.",
+          "zh": "这份工作要求很高，需要长时间工作。"
         },
         {
-          "en": "Decency in conversation is essential for mutual respect.",
-          "zh": "交谈中的体面对于相互尊重至关重要。"
+          "en": "She has a demanding schedule that keeps her busy all week.",
+          "zh": "她的日程安排很紧，整周都很忙。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'decent' as a root word that relates to good manners and respect."
+        "association": "Think of 'demanding' as 'demanding attention' from others."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=decency&type=2",
-      "chapter": "核心词汇 伦理与道德 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=demanding&type=2",
+      "chapter": "核心词汇 工作与生活 Unit 2"
     }
   ]
 }

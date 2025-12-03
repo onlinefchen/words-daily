@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-02T22:08:04.029Z",
+  "generated": "2025-12-03T22:08:38.971Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "foster",
-      "pronunciation": "/ˈfɔːstər/",
+      "word": "victim",
+      "pronunciation": "/ˈvɪk.tɪm/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "培养，促进",
-          "en": "To encourage or promote the development of something."
+          "pos": "n.",
+          "zh": "受害者",
+          "en": "A person who suffers harm or loss."
         },
         {
           "pos": "n.",
-          "zh": "养育者，抚养者",
-          "en": "A person who takes care of a child not biologically their own."
+          "zh": "牺牲品",
+          "en": "Someone who is tricked or deceived."
         }
       ],
       "examples": [
         {
-          "en": "The school aims to foster creativity in its students.",
-          "zh": "学校的目标是培养学生的创造力。"
+          "en": "The flood left many families as victims of disaster.",
+          "zh": "洪水使许多家庭成为灾难的受害者。"
         },
         {
-          "en": "They decided to foster a child in need of a loving home.",
-          "zh": "他们决定收养一个需要温暖家庭的孩子。"
+          "en": "She felt like a victim after being cheated by her friend.",
+          "zh": "被朋友欺骗后，她觉得自己像个受害者。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'foster' as 'fostering' a plant; you help it grow and thrive."
+        "association": "Think of a 'victim' as someone who 'victimized' by unfortunate circumstances."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=foster&type=2",
-      "chapter": "基本词汇 动词200 Unit 7"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=victim&type=2",
+      "chapter": "基本词汇 名词200 Unit 10"
     },
     {
-      "word": "promote",
-      "pronunciation": "/prəˈmoʊt/",
+      "word": "spell",
+      "pronunciation": "/spɛl/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "促进，推动",
-          "en": "To help something to develop or increase."
+          "zh": "拼写",
+          "en": "To write or say the letters of a word in the correct order."
         },
         {
-          "pos": "v.",
-          "zh": "晋升，提升",
-          "en": "To raise someone to a higher rank or position."
+          "pos": "n.",
+          "zh": "拼写",
+          "en": "The way in which a word is written with letters."
         }
       ],
       "examples": [
         {
-          "en": "The company aims to promote its new product next month.",
-          "zh": "公司计划下个月推广新产品。"
+          "en": "Can you spell your name for me, please?",
+          "zh": "请你为我拼写一下你的名字好吗？"
         },
         {
-          "en": "She was promoted to manager due to her hard work.",
-          "zh": "由于她的努力工作，她被提升为经理。"
+          "en": "The correct spelling of the word is important in writing.",
+          "zh": "这个词的正确拼写在写作中很重要。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'promote' as 'pro' (for) + 'mote' (motion), meaning to move something forward."
+        "association": "Think of 'spell' as casting a magical spell with letters to create words."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=promote&type=2",
-      "chapter": "基本词汇 动词200 Unit 9"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=spell&type=2",
+      "chapter": "核心词汇 科技发展 Unit 5"
     }
   ]
 }

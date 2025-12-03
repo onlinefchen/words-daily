@@ -1,70 +1,69 @@
 {
-  "generated": "2025-12-02T22:08:04.029Z",
+  "generated": "2025-12-03T22:08:38.971Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "cooperate",
-      "pronunciation": "/koʊˈɑːpəreɪt/",
+      "word": "adoring",
+      "pronunciation": "/əˈdɔːrɪŋ/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "合作",
-          "en": "To work together with others to achieve a common goal."
+          "pos": "adj.",
+          "zh": "崇拜的，热爱的",
+          "en": "Feeling or showing great love and affection for someone."
         },
         {
           "pos": "v.",
-          "zh": "配合",
-          "en": "To be helpful and willing to assist others in their tasks."
+          "zh": "热爱，崇拜",
+          "en": "To regard someone with deep love and admiration."
         }
       ],
       "examples": [
         {
-          "en": "The two companies decided to cooperate on the new project.",
-          "zh": "这两家公司决定在新项目上合作。"
+          "en": "She has an adoring smile that lights up the room.",
+          "zh": "她有一个崇拜的微笑，照亮了整个房间。"
         },
         {
-          "en": "It is important for nations to cooperate to solve global issues.",
-          "zh": "各国合作解决全球问题是很重要的。"
+          "en": "The children were adoring their new puppy with joy.",
+          "zh": "孩子们满怀喜悦地崇拜着他们的新小狗。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'cooperate' comes from the Latin 'cooperari', which means 'to work together'.",
-        "association": "Think of 'cooperate' as 'co' meaning together and 'operate' meaning to work, so it literally means to work together."
+        "association": "Think of 'adoring' as being 'a door' to someone's heart, showing deep love."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cooperate&type=2",
-      "chapter": "基本词汇 动词200 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=adoring&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 1"
     },
     {
-      "word": "confront",
-      "pronunciation": "/kənˈfrʌnt/",
+      "word": "defy",
+      "pronunciation": "/dɪˈfaɪ/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "面对",
-          "en": "To face someone or something in a challenging way."
+          "zh": "反抗，违抗",
+          "en": "To refuse to obey someone or something."
         },
         {
           "pos": "v.",
-          "zh": "对抗",
-          "en": "To deal with a difficult situation or person."
+          "zh": "挑战",
+          "en": "To challenge someone to do something; to confront."
         }
       ],
       "examples": [
         {
-          "en": "She decided to confront her fears during the presentation.",
-          "zh": "她决定在演讲中面对自己的恐惧。"
+          "en": "She decided to defy the rules and speak her mind.",
+          "zh": "她决定违抗规则，直言不讳。"
         },
         {
-          "en": "The teacher confronted the student about his missing assignments.",
-          "zh": "老师就学生缺交作业的事与他对峙。"
+          "en": "The athlete chose to defy expectations and win the race.",
+          "zh": "这位运动员选择挑战预期并赢得了比赛。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'confront' as 'con-front,' where you are facing someone directly."
+        "association": "Think of 'defy' as 'defending your right' to do something against opposition."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=confront&type=2",
-      "chapter": "基本词汇 动词200 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=defy&type=2",
+      "chapter": "基本词汇 动词200 Unit 5"
     }
   ]
 }

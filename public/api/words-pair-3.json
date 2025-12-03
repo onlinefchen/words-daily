@@ -1,69 +1,67 @@
 {
-  "generated": "2025-12-02T22:08:04.028Z",
+  "generated": "2025-12-03T22:08:38.971Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "involve",
-      "pronunciation": "/ɪnˈvɑlv/",
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "涉及",
-          "en": "To include something as a necessary part or result."
-        },
-        {
-          "pos": "v.",
-          "zh": "参与",
-          "en": "To take part in an activity or event."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The project will involve many different teams working together.",
-          "zh": "这个项目将涉及许多不同的团队共同合作。"
-        },
-        {
-          "en": "She decided to involve her friends in the planning process.",
-          "zh": "她决定让朋友们参与计划过程。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'involve' as 'in' + 'volve' (like revolve), meaning to include people in a situation."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=involve&type=2",
-      "chapter": "基本词汇 动词200 Unit 8"
-    },
-    {
-      "word": "campaign",
-      "pronunciation": "/kæmˈpeɪn/",
+      "word": "breakthrough",
+      "pronunciation": "/ˈbreɪkˌθru/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "运动，活动",
-          "en": "A planned series of activities aimed at achieving a specific goal."
+          "zh": "突破，重大进展",
+          "en": "An important discovery or achievement that helps to improve a situation."
         },
         {
           "pos": "v.",
-          "zh": "发起运动，进行活动",
-          "en": "To organize and take part in a series of actions to achieve a goal."
+          "zh": "突破，克服",
+          "en": "To make a sudden advance or progress, especially in a difficult situation."
         }
       ],
       "examples": [
         {
-          "en": "The government launched a campaign to promote healthy eating habits.",
-          "zh": "政府发起了一项宣传健康饮食习惯的运动。"
+          "en": "The scientist made a breakthrough in cancer research last year.",
+          "zh": "这位科学家在去年的癌症研究中取得了突破。"
         },
         {
-          "en": "They campaigned for better education facilities in their community.",
-          "zh": "他们为改善社区的教育设施而发起运动。"
+          "en": "They hope to break through the barriers to renewable energy use.",
+          "zh": "他们希望突破可再生能源使用的障碍。"
+        }
+      ],
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=breakthrough&type=2",
+      "chapter": "基本词汇 名词200 Unit 1"
+    },
+    {
+      "word": "remarkable",
+      "pronunciation": "/rɪˈmɑːrkəbl/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "非凡的",
+          "en": "Something that is very unusual or surprising."
+        },
+        {
+          "pos": "adj.",
+          "zh": "显著的",
+          "en": "Something that is worthy of attention or notice."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The scientist made a remarkable discovery that changed the world.",
+          "zh": "这位科学家做出了一个非凡的发现，改变了世界。"
+        },
+        {
+          "en": "Her performance in the competition was truly remarkable and inspiring.",
+          "zh": "她在比赛中的表现真是非凡且鼓舞人心。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'campaign' as a 'camp' where people gather to achieve a common objective."
+        "association": "Think of 'remarkable' as 'remark' + 'able', meaning something that is able to be remarked upon due to its uniqueness."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=campaign&type=2",
-      "chapter": "基本词汇 名词200 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=remarkable&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 16"
     }
   ]
 }

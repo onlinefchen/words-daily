@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-02T22:08:04.028Z",
+  "generated": "2025-12-03T22:08:38.970Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "blast",
-      "pronunciation": "/blæst/",
+      "word": "bully",
+      "pronunciation": "/ˈbʊli/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "欺负",
+          "en": "To use strength or power to hurt or intimidate someone."
+        },
+        {
+          "pos": "n.",
+          "zh": "欺负者",
+          "en": "A person who hurts or intimidates others, often repeatedly."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many students feel unsafe because of bullies in their school.",
+          "zh": "许多学生因为学校里的欺负者感到不安全。"
+        },
+        {
+          "en": "She decided to stand up to the bully and not be afraid anymore.",
+          "zh": "她决定勇敢面对欺负者，不再害怕。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a 'bully' as someone who 'bulls' over others, dominating and intimidating them."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=bully&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 2"
+    },
+    {
+      "word": "ventilation",
+      "pronunciation": "/vɛn.tɪˈleɪ.ʃən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "爆炸；一阵强风",
-          "en": "An explosion or a strong burst of wind."
+          "zh": "通风",
+          "en": "The process of allowing fresh air to enter a space."
         },
         {
-          "pos": "v.",
-          "zh": "炸毁；发出响声",
-          "en": "To explode or make a loud noise."
+          "pos": "n.",
+          "zh": "通风设备",
+          "en": "A system or device that helps circulate air in a building."
         }
       ],
       "examples": [
         {
-          "en": "The blast from the fireworks lit up the night sky beautifully.",
-          "zh": "烟花的爆炸照亮了美丽的夜空。"
+          "en": "Proper ventilation is essential for maintaining good air quality indoors.",
+          "zh": "良好的通风对于保持室内空气质量至关重要。"
         },
         {
-          "en": "They heard a loud blast as the bomb exploded in the distance.",
-          "zh": "他们听到远处炸弹爆炸时发出的巨响。"
+          "en": "The building's ventilation system helps prevent moisture buildup.",
+          "zh": "该建筑的通风系统有助于防止湿气积聚。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'blast' as a strong burst of something, like a blast of wind or sound that can surprise you."
+        "association": "Think of 'ventilation' as 'venting' air to keep spaces fresh."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=blast&type=2",
-      "chapter": "认知词汇 自然分类 火山"
-    },
-    {
-      "word": "conserve",
-      "pronunciation": "/kənˈsɜrv/",
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "保护，保存",
-          "en": "To keep something safe and prevent it from being damaged or wasted."
-        },
-        {
-          "pos": "v.",
-          "zh": "节省，节约",
-          "en": "To use something carefully so that it lasts longer or is not wasted."
-        }
-      ],
-      "examples": [
-        {
-          "en": "We need to conserve water during the summer months.",
-          "zh": "在夏季，我们需要节约用水。"
-        },
-        {
-          "en": "Conserving energy can help reduce your electricity bill.",
-          "zh": "节约能源可以帮助降低你的电费。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'conserve' as 'conserve energy' or 'conserve resources' to remember its meaning related to preservation."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=conserve&type=2",
-      "chapter": "基本词汇 动词200 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ventilation&type=2",
+      "chapter": "核心词汇 环境保护 Unit 5"
     }
   ]
 }

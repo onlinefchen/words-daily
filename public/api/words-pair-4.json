@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-02T22:08:04.028Z",
+  "generated": "2025-12-03T22:08:38.971Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "biased",
-      "pronunciation": "/ˈbaɪəst/",
+      "word": "generate",
+      "pronunciation": "/ˈdʒɛnəˌreɪt/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "生成",
+          "en": "To produce or create something."
+        },
+        {
+          "pos": "v.",
+          "zh": "引起",
+          "en": "To cause something to happen or exist."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The new policy will generate more job opportunities for everyone.",
+          "zh": "新政策将为每个人创造更多的就业机会。"
+        },
+        {
+          "en": "Solar panels can generate electricity from sunlight effectively.",
+          "zh": "太阳能电池板可以有效地从阳光中产生电力。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a generator that creates power; it 'generates' energy."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=generate&type=2",
+      "chapter": "基本词汇 动词200 Unit 7"
+    },
+    {
+      "word": "flexible",
+      "pronunciation": "/ˈflɛksəbl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "有偏见的",
-          "en": "Having an unfair preference for or against something."
+          "zh": "灵活的",
+          "en": "Able to change or be changed easily."
         },
         {
-          "pos": "v.",
-          "zh": "使有偏见",
-          "en": "To cause someone to have a particular opinion that is not based on reason."
+          "pos": "adj.",
+          "zh": "可变通的",
+          "en": "Capable of adapting to new conditions."
         }
       ],
       "examples": [
         {
-          "en": "The article was criticized for being biased towards one political party.",
-          "zh": "这篇文章因偏向一个政党而受到批评。"
+          "en": "A flexible schedule allows me to manage my time better.",
+          "zh": "灵活的日程安排让我更好地管理时间。"
         },
         {
-          "en": "He is often biased in his judgments due to personal beliefs.",
-          "zh": "由于个人信念，他在判断上常常有偏见。"
+          "en": "This yoga class is great for improving your flexible body.",
+          "zh": "这节瑜伽课非常适合提高身体的灵活性。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'bias' as a 'bias tape' that distorts the truth."
+        "association": "Think of a flexible rubber band that can stretch and adapt to different shapes."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=biased&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 3"
-    },
-    {
-      "word": "block",
-      "pronunciation": "/blɑk/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "块；障碍",
-          "en": "A solid piece of material with flat surfaces."
-        },
-        {
-          "pos": "v.",
-          "zh": "阻止；封锁",
-          "en": "To prevent movement or progress."
-        }
-      ],
-      "examples": [
-        {
-          "en": "He used a block of wood to hold the door open.",
-          "zh": "他用一块木头把门撑开。"
-        },
-        {
-          "en": "They need to block the road for maintenance work.",
-          "zh": "他们需要封锁道路进行维修工作。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of a 'block' as something that stops or holds back, like a block in a game."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=block&type=2",
-      "chapter": "基本词汇 动词200 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=flexible&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 9"
     }
   ]
 }

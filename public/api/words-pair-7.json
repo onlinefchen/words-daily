@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-02T22:08:04.029Z",
+  "generated": "2025-12-03T22:08:38.971Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "complain",
-      "pronunciation": "/kəmˈpleɪn/",
+      "word": "compel",
+      "pronunciation": "/kəmˈpɛl/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "抱怨",
-          "en": "To express dissatisfaction or annoyance about something."
+          "zh": "强迫",
+          "en": "To make someone do something by using force or pressure."
         },
         {
-          "pos": "n.",
-          "zh": "投诉",
-          "en": "An expression of unhappiness or a formal statement of dissatisfaction."
+          "pos": "v.",
+          "zh": "迫使",
+          "en": "To cause something to happen or to force someone to act."
         }
       ],
       "examples": [
         {
-          "en": "She decided to complain to the manager about the poor service.",
-          "zh": "她决定向经理投诉服务差的问题。"
+          "en": "The teacher had to compel the students to finish their assignments.",
+          "zh": "老师不得不强迫学生完成作业。"
         },
         {
-          "en": "Many customers complain when their orders are delayed.",
-          "zh": "许多顾客在订单延迟时会抱怨。"
+          "en": "Economic factors can compel people to change their lifestyles.",
+          "zh": "经济因素可能迫使人们改变生活方式。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'complain' as 'claiming a problem' to remember its meaning."
+        "association": "Think of 'compel' as 'compelling' someone to act, emphasizing the pressure involved."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=complain&type=2",
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compel&type=2",
       "chapter": "基本词汇 动词200 Unit 3"
     },
     {
-      "word": "prohibit",
-      "pronunciation": "/prəˈhɪbɪt/",
+      "word": "conserve",
+      "pronunciation": "/kənˈsɜrv/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "禁止",
-          "en": "To stop someone from doing something or make it illegal."
+          "zh": "保护，保存",
+          "en": "To keep something safe and prevent it from being damaged or wasted."
         },
         {
           "pos": "v.",
-          "zh": "妨碍",
-          "en": "To prevent something from happening."
+          "zh": "节省，节约",
+          "en": "To use something carefully so that it lasts longer or is not wasted."
         }
       ],
       "examples": [
         {
-          "en": "The school will prohibit students from using their phones during class.",
-          "zh": "学校将禁止学生在课堂上使用手机。"
+          "en": "We need to conserve water during the summer months.",
+          "zh": "在夏季，我们需要节约用水。"
         },
         {
-          "en": "Laws prohibit smoking in public areas to protect everyone's health.",
-          "zh": "法律禁止在公共场所吸烟，以保护每个人的健康。"
+          "en": "Conserving energy can help reduce your electricity bill.",
+          "zh": "节约能源可以帮助降低你的电费。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'prohibit' comes from the Latin 'prohibere', meaning 'to hold back'."
+        "association": "Think of 'conserve' as 'conserve energy' or 'conserve resources' to remember its meaning related to preservation."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=prohibit&type=2",
-      "chapter": "基本词汇 动词200 Unit 9"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=conserve&type=2",
+      "chapter": "基本词汇 动词200 Unit 4"
     }
   ]
 }

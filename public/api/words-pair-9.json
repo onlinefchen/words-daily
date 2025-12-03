@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-02T22:08:04.029Z",
+  "generated": "2025-12-03T22:08:38.971Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "diversity",
-      "pronunciation": "/daɪˈvɜːrsɪti/",
+      "word": "menace",
+      "pronunciation": "/ˈmɛnəs/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "多样性",
-          "en": "The quality of having many different types of things or people."
+          "zh": "威胁",
+          "en": "A person or thing that causes harm or danger."
         },
-        {
-          "pos": "n.",
-          "zh": "差异",
-          "en": "The state of being different or varied."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Cultural diversity enriches our community and promotes understanding.",
-          "zh": "文化多样性丰富了我们的社区，促进了理解。"
-        },
-        {
-          "en": "The diversity of wildlife in this region is astonishing and must be protected.",
-          "zh": "这个地区的野生动物多样性令人惊讶，必须保护。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'diverse' as a garden with flowers of many colors, representing different types."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=diversity&type=2",
-      "chapter": "基本词汇 名词200 Unit 3"
-    },
-    {
-      "word": "exchange",
-      "pronunciation": "/ɪksˈtʃeɪndʒ/",
-      "meanings": [
         {
           "pos": "v.",
-          "zh": "交换",
-          "en": "To give something and receive something in return."
-        },
-        {
-          "pos": "n.",
-          "zh": "交流",
-          "en": "The act of giving and receiving things, ideas, or information."
+          "zh": "威胁",
+          "en": "To threaten or cause fear."
         }
       ],
       "examples": [
         {
-          "en": "We will exchange gifts during the holiday season.",
-          "zh": "我们将在假期期间互换礼物。"
+          "en": "The dark clouds were a menace to the picnic plans.",
+          "zh": "乌云对野餐计划构成了威胁。"
         },
         {
-          "en": "The students exchanged ideas on their projects last week.",
-          "zh": "学生们上周交流了他们项目的想法。"
+          "en": "He felt that crime was a growing menace in his city.",
+          "zh": "他觉得犯罪在他的城市中正日益成为威胁。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'exchange' as 'ex-changing' items or ideas with someone else."
+        "association": "Think of 'menace' as someone who 'menaces' you, creating a feeling of fear."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=exchange&type=2",
-      "chapter": "基本词汇 名词200 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=menace&type=2",
+      "chapter": "核心词汇 科技发展 Unit 3"
+    },
+    {
+      "word": "wisdom",
+      "pronunciation": "/ˈwɪzdəm/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "智慧",
+          "en": "The ability to make good decisions based on knowledge and experience."
+        },
+        {
+          "pos": "n.",
+          "zh": "明智的行为或选择",
+          "en": "A choice or action that shows good judgment."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Her wisdom in solving problems impressed everyone in the meeting.",
+          "zh": "她在解决问题时的智慧给会议上的每个人都留下了深刻印象。"
+        },
+        {
+          "en": "It is a sign of wisdom to learn from past mistakes.",
+          "zh": "从过去的错误中学习是智慧的表现。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'wisdom' as 'wise-dom,' where 'dom' refers to a state or condition of being wise."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=wisdom&type=2",
+      "chapter": "基本词汇 名词200 Unit 10"
     }
   ]
 }
