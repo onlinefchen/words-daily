@@ -1,69 +1,67 @@
 {
-  "generated": "2025-12-03T22:08:38.970Z",
+  "generated": "2025-12-04T22:06:59.670Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "bully",
-      "pronunciation": "/ˈbʊli/",
+      "word": "diversity",
+      "pronunciation": "/daɪˈvɜr.sɪ.ti/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "欺负",
-          "en": "To use strength or power to hurt or intimidate someone."
+          "pos": "n.",
+          "zh": "多样性",
+          "en": "The quality of being different or varied."
         },
         {
           "pos": "n.",
-          "zh": "欺负者",
-          "en": "A person who hurts or intimidates others, often repeatedly."
+          "zh": "多元性",
+          "en": "The presence of a range of different elements."
         }
       ],
       "examples": [
         {
-          "en": "Many students feel unsafe because of bullies in their school.",
-          "zh": "许多学生因为学校里的欺负者感到不安全。"
+          "en": "Cultural diversity enriches our society in many ways.",
+          "zh": "文化多样性在许多方面丰富了我们的社会。"
         },
         {
-          "en": "She decided to stand up to the bully and not be afraid anymore.",
-          "zh": "她决定勇敢面对欺负者，不再害怕。"
+          "en": "The diversity of opinions in the discussion was impressive.",
+          "zh": "讨论中意见的多样性令人印象深刻。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'bully' as someone who 'bulls' over others, dominating and intimidating them."
+        "association": "Think of 'diverse' when you hear 'diversity' to remember it relates to differences."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=bully&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=diversity&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "ventilation",
-      "pronunciation": "/vɛn.tɪˈleɪ.ʃən/",
+      "word": "mystery of nature",
+      "pronunciation": "/ˈmɪstəri əv ˈneɪtʃər/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "通风",
-          "en": "The process of allowing fresh air to enter a space."
+          "zh": "自然的奥秘",
+          "en": "A phenomenon in nature that is difficult to understand or explain."
         },
         {
           "pos": "n.",
-          "zh": "通风设备",
-          "en": "A system or device that helps circulate air in a building."
+          "zh": "自然界的神秘",
+          "en": "The unknown aspects or secrets of the natural world."
         }
       ],
       "examples": [
         {
-          "en": "Proper ventilation is essential for maintaining good air quality indoors.",
-          "zh": "良好的通风对于保持室内空气质量至关重要。"
+          "en": "Scientists study the mystery of nature to learn about our planet.",
+          "zh": "科学家研究自然的奥秘，以了解我们的星球。"
         },
         {
-          "en": "The building's ventilation system helps prevent moisture buildup.",
-          "zh": "该建筑的通风系统有助于防止湿气积聚。"
+          "en": "The mystery of nature fascinates many people around the world.",
+          "zh": "自然的奥秘吸引了世界各地的许多人。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'ventilation' as 'venting' air to keep spaces fresh."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ventilation&type=2",
-      "chapter": "核心词汇 环境保护 Unit 5"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=mystery%20of%20nature&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

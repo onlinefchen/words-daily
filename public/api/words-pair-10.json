@@ -1,69 +1,70 @@
 {
-  "generated": "2025-12-03T22:08:38.971Z",
+  "generated": "2025-12-04T22:06:59.671Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "adoring",
-      "pronunciation": "/əˈdɔːrɪŋ/",
+      "word": "disadvantaged",
+      "pronunciation": "/ˌdɪs.ədˈvæn.tɪd/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "崇拜的，热爱的",
-          "en": "Feeling or showing great love and affection for someone."
+          "zh": "弱势的",
+          "en": "Having less money, education, or opportunities than others."
         },
         {
-          "pos": "v.",
-          "zh": "热爱，崇拜",
-          "en": "To regard someone with deep love and admiration."
+          "pos": "adj.",
+          "zh": "不利的",
+          "en": "In a situation that makes it difficult to succeed."
         }
       ],
       "examples": [
         {
-          "en": "She has an adoring smile that lights up the room.",
-          "zh": "她有一个崇拜的微笑，照亮了整个房间。"
+          "en": "Many disadvantaged children lack access to quality education.",
+          "zh": "许多弱势儿童无法接受优质教育。"
         },
         {
-          "en": "The children were adoring their new puppy with joy.",
-          "zh": "孩子们满怀喜悦地崇拜着他们的新小狗。"
+          "en": "The program aims to support disadvantaged communities through grants.",
+          "zh": "该项目旨在通过补助金支持弱势社区。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'adoring' as being 'a door' to someone's heart, showing deep love."
+        "association": "Think of 'dis' as a prefix meaning 'not' and 'advantaged' as 'having advantages'. Together, they represent those who do not have advantages."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=adoring&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disadvantaged&type=2",
+      "chapter": "核心词汇 民主与权利 Unit 2"
     },
     {
-      "word": "defy",
-      "pronunciation": "/dɪˈfaɪ/",
+      "word": "juvenile",
+      "pronunciation": "/ˈdʒuː.vɪ.nəl/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "反抗，违抗",
-          "en": "To refuse to obey someone or something."
+          "pos": "adj.",
+          "zh": "青少年的",
+          "en": "Related to young people, typically under the age of 18."
         },
         {
-          "pos": "v.",
-          "zh": "挑战",
-          "en": "To challenge someone to do something; to confront."
+          "pos": "n.",
+          "zh": "青少年",
+          "en": "A young person, especially one who is not yet an adult."
         }
       ],
       "examples": [
         {
-          "en": "She decided to defy the rules and speak her mind.",
-          "zh": "她决定违抗规则，直言不讳。"
+          "en": "The juvenile court focuses on cases involving young offenders.",
+          "zh": "青少年法庭专注于涉及年轻犯罪者的案件。"
         },
         {
-          "en": "The athlete chose to defy expectations and win the race.",
-          "zh": "这位运动员选择挑战预期并赢得了比赛。"
+          "en": "He volunteered to teach juvenile delinquents valuable life skills.",
+          "zh": "他自愿教导青少年罪犯宝贵的生活技能。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'defy' as 'defending your right' to do something against opposition."
+        "association": "Think of 'juvenile' as 'juvenile justice', which deals with young people.",
+        "mnemonic": "Juvenile sounds like 'juvenile' which can remind you of 'youthful' or 'young'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=defy&type=2",
-      "chapter": "基本词汇 动词200 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=juvenile&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 6"
     }
   ]
 }

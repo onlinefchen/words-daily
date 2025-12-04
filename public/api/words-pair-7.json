@@ -1,69 +1,67 @@
 {
-  "generated": "2025-12-03T22:08:38.971Z",
+  "generated": "2025-12-04T22:06:59.670Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "compel",
-      "pronunciation": "/kəmˈpɛl/",
+      "word": "seismology",
+      "pronunciation": "/saɪˈzmɑːlədʒi/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "强迫",
-          "en": "To make someone do something by using force or pressure."
+          "pos": "n.",
+          "zh": "地震学",
+          "en": "The scientific study of earthquakes and the structure of the Earth."
         },
         {
-          "pos": "v.",
-          "zh": "迫使",
-          "en": "To cause something to happen or to force someone to act."
+          "pos": "n.",
+          "zh": "震动学",
+          "en": "The study of seismic waves produced by earthquakes."
         }
       ],
       "examples": [
         {
-          "en": "The teacher had to compel the students to finish their assignments.",
-          "zh": "老师不得不强迫学生完成作业。"
+          "en": "Seismology helps scientists predict potential earthquakes in the future.",
+          "zh": "地震学帮助科学家预测未来可能发生的地震。"
         },
         {
-          "en": "Economic factors can compel people to change their lifestyles.",
-          "zh": "经济因素可能迫使人们改变生活方式。"
+          "en": "The university offers a degree in seismology and related sciences.",
+          "zh": "这所大学提供地震学及相关科学的学位。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'compel' as 'compelling' someone to act, emphasizing the pressure involved."
+        "etymology": "The word 'seismology' comes from the Greek 'seismos' meaning 'earthquake' and 'logia' meaning 'study of'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compel&type=2",
-      "chapter": "基本词汇 动词200 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=seismology&type=2",
+      "chapter": "认知词汇 自然分类 地震"
     },
     {
-      "word": "conserve",
-      "pronunciation": "/kənˈsɜrv/",
+      "word": "casualties",
+      "pronunciation": "/ˈkæʒ.u.əl.tiz/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "保护，保存",
-          "en": "To keep something safe and prevent it from being damaged or wasted."
+          "pos": "n.",
+          "zh": "伤亡人员",
+          "en": "People who are killed or injured in a war or accident."
         },
         {
-          "pos": "v.",
-          "zh": "节省，节约",
-          "en": "To use something carefully so that it lasts longer or is not wasted."
+          "pos": "n.",
+          "zh": "损失",
+          "en": "The total number of people affected by an event, particularly in terms of injuries or deaths."
         }
       ],
       "examples": [
         {
-          "en": "We need to conserve water during the summer months.",
-          "zh": "在夏季，我们需要节约用水。"
+          "en": "The earthquake caused many casualties and widespread destruction.",
+          "zh": "这场地震造成了许多伤亡和广泛的破坏。"
         },
         {
-          "en": "Conserving energy can help reduce your electricity bill.",
-          "zh": "节约能源可以帮助降低你的电费。"
+          "en": "The report highlighted the casualties from the recent conflict.",
+          "zh": "报告强调了最近冲突中的伤亡情况。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'conserve' as 'conserve energy' or 'conserve resources' to remember its meaning related to preservation."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=conserve&type=2",
-      "chapter": "基本词汇 动词200 Unit 4"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=casualties&type=2",
+      "chapter": "认知词汇 自然分类 地震"
     }
   ]
 }

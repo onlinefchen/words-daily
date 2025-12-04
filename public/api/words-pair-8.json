@@ -1,69 +1,62 @@
 {
-  "generated": "2025-12-03T22:08:38.971Z",
+  "generated": "2025-12-04T22:06:59.670Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "adopt",
-      "pronunciation": "/əˈdɒpt/",
+      "word": "integrity",
+      "pronunciation": "/ɪnˈtɛɡrɪti/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "采纳",
-          "en": "To take and use something, such as an idea or method."
+          "pos": "n.",
+          "zh": "诚信",
+          "en": "The quality of being honest and having strong moral principles."
         },
         {
-          "pos": "v.",
-          "zh": "收养",
-          "en": "To legally take a child and raise them as your own."
+          "pos": "n.",
+          "zh": "完整性",
+          "en": "The state of being whole and undivided."
         }
       ],
       "examples": [
         {
-          "en": "Many countries adopt new technologies to improve their economy.",
-          "zh": "许多国家采用新技术来改善经济。"
+          "en": "She is known for her integrity and always tells the truth.",
+          "zh": "她因诚信而闻名，总是说实话。"
         },
         {
-          "en": "They decided to adopt a child from an orphanage.",
-          "zh": "他们决定从孤儿院收养一个孩子。"
+          "en": "Maintaining integrity is essential for building trust in relationships.",
+          "zh": "保持诚信对于建立信任关系至关重要。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'adopt' as 'a drop'—when you drop something into a new situation, you are adopting it."
+        "association": "Think of 'integrity' as being 'integrated' or whole, which ties to being honest and undivided."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=adopt&type=2",
-      "chapter": "基本词汇 动词200 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=integrity&type=2",
+      "chapter": "核心词汇 工作与生活 Unit 3"
     },
     {
-      "word": "tolerant",
-      "pronunciation": "/ˈtɑːlərənt/",
+      "word": "reproductive organ",
+      "pronunciation": "/rɪˈprɒdʌktɪv ˈɔrɡən/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "宽容的",
-          "en": "Able to accept different views or behaviors without getting upset."
-        },
-        {
-          "pos": "adj.",
-          "zh": "耐受的",
-          "en": "Able to endure difficult conditions or situations."
+          "pos": "n.",
+          "zh": "生殖器官",
+          "en": "A part of the body that helps in reproduction."
         }
       ],
       "examples": [
         {
-          "en": "She is very tolerant of different cultures and traditions.",
-          "zh": "她对不同的文化和传统非常宽容。"
+          "en": "The reproductive organs are essential for creating new life.",
+          "zh": "生殖器官对创造新生命至关重要。"
         },
         {
-          "en": "Being tolerant helps create a peaceful and harmonious society.",
-          "zh": "宽容有助于创造一个和平和谐的社会。"
+          "en": "Doctors study reproductive organs to understand fertility issues.",
+          "zh": "医生研究生殖器官以了解生育问题。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'tolerate' which means to endure; both words share a similar meaning."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=tolerant&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 19"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=reproductive%20organ&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

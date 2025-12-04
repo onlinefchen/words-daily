@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-03T22:08:38.971Z",
+  "generated": "2025-12-04T22:06:59.670Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "contemptible",
-      "pronunciation": "/kənˈtɛmptəbl/",
+      "word": "dupe",
+      "pronunciation": "/duːp/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "可鄙的，卑劣的",
-          "en": "Deserving of scorn; not worthy of respect."
+          "pos": "v.",
+          "zh": "欺骗",
+          "en": "To trick someone into believing something that is not true."
         },
         {
-          "pos": "adj.",
-          "zh": "令人厌恶的",
-          "en": "Causing feelings of disgust or disapproval."
+          "pos": "n.",
+          "zh": "受骗者",
+          "en": "A person who has been deceived or tricked."
         }
       ],
       "examples": [
         {
-          "en": "His contemptible behavior shocked everyone at the meeting.",
-          "zh": "他可鄙的行为让会议上的每个人都感到震惊。"
+          "en": "The scam artist managed to dupe many unsuspecting victims.",
+          "zh": "那个诈骗艺术家成功欺骗了许多毫无防备的受害者。"
         },
         {
-          "en": "She found his contemptible remarks completely unacceptable.",
-          "zh": "她觉得他那些可鄙的言论完全不可接受。"
+          "en": "She felt like a dupe after realizing the truth.",
+          "zh": "她在意识到真相后感觉自己像个受骗者。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'contempt' as feeling strong dislike, and 'ible' as capable of being that way."
+        "association": "Think of 'dupe' as someone being 'duped' or not 'duping' themselves into a false reality."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=contemptible&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dupe&type=2",
+      "chapter": "核心词汇 法制与犯罪 Unit 2"
     },
     {
-      "word": "prolong",
-      "pronunciation": "/prəˈlɔŋ/",
+      "word": "abolish",
+      "pronunciation": "/əˈbɑːlɪʃ/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "延长",
-          "en": "To make something last longer."
+          "zh": "废除",
+          "en": "To formally put an end to a system, practice, or institution."
         },
         {
           "pos": "v.",
-          "zh": "拖延",
-          "en": "To delay or to make something take more time."
+          "zh": "取消",
+          "en": "To do away with something completely."
         }
       ],
       "examples": [
         {
-          "en": "The meeting was prolonged to discuss more important issues.",
-          "zh": "会议被延长以讨论更重要的问题。"
+          "en": "Many countries have chosen to abolish the death penalty.",
+          "zh": "许多国家选择废除死刑。"
         },
         {
-          "en": "We should not prolong the decision any further.",
-          "zh": "我们不应该再拖延这个决定。"
+          "en": "The government decided to abolish outdated laws for modernization.",
+          "zh": "政府决定废除过时的法律以实现现代化。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'long' in 'prolong'—to make something longer in time."
+        "etymology": "The word 'abolish' comes from the Latin 'abolire', meaning 'to put an end to'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=prolong&type=2",
-      "chapter": "核心词汇 科技发展 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=abolish&type=2",
+      "chapter": "核心词汇 民主与权利 Unit 1"
     }
   ]
 }

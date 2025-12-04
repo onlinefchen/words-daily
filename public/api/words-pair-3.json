@@ -1,67 +1,69 @@
 {
-  "generated": "2025-12-03T22:08:38.971Z",
+  "generated": "2025-12-04T22:06:59.670Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "breakthrough",
-      "pronunciation": "/ˈbreɪkˌθru/",
+      "word": "demonstrate",
+      "pronunciation": "/ˈdɛmənˌstreɪt/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "突破，重大进展",
-          "en": "An important discovery or achievement that helps to improve a situation."
+          "pos": "v.",
+          "zh": "展示",
+          "en": "To show clearly or prove something."
         },
         {
           "pos": "v.",
-          "zh": "突破，克服",
-          "en": "To make a sudden advance or progress, especially in a difficult situation."
+          "zh": "演示",
+          "en": "To explain how something works by showing it."
         }
       ],
       "examples": [
         {
-          "en": "The scientist made a breakthrough in cancer research last year.",
-          "zh": "这位科学家在去年的癌症研究中取得了突破。"
+          "en": "The teacher will demonstrate the experiment to the class.",
+          "zh": "老师将向班级展示这个实验。"
         },
         {
-          "en": "They hope to break through the barriers to renewable energy use.",
-          "zh": "他们希望突破可再生能源使用的障碍。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=breakthrough&type=2",
-      "chapter": "基本词汇 名词200 Unit 1"
-    },
-    {
-      "word": "remarkable",
-      "pronunciation": "/rɪˈmɑːrkəbl/",
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "非凡的",
-          "en": "Something that is very unusual or surprising."
-        },
-        {
-          "pos": "adj.",
-          "zh": "显著的",
-          "en": "Something that is worthy of attention or notice."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The scientist made a remarkable discovery that changed the world.",
-          "zh": "这位科学家做出了一个非凡的发现，改变了世界。"
-        },
-        {
-          "en": "Her performance in the competition was truly remarkable and inspiring.",
-          "zh": "她在比赛中的表现真是非凡且鼓舞人心。"
+          "en": "The results clearly demonstrate the effectiveness of the new method.",
+          "zh": "结果清楚地展示了新方法的有效性。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'remarkable' as 'remark' + 'able', meaning something that is able to be remarked upon due to its uniqueness."
+        "association": "Think of 'demonstrate' as 'demo' + 'strate', where 'demo' is a common way to show or explain."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=remarkable&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 16"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=demonstrate&type=2",
+      "chapter": "基本词汇 动词200 Unit 5"
+    },
+    {
+      "word": "model organism",
+      "pronunciation": "/ˈmɒd.əl ˈɔː.ɡən.ɪ.zəm/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "模式生物",
+          "en": "A species used in research to understand biological processes."
+        },
+        {
+          "pos": "n.",
+          "zh": "典范有机体",
+          "en": "An organism that serves as a standard for studying genetics or disease."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The fruit fly is a common model organism in genetic studies.",
+          "zh": "果蝇是遗传研究中常用的模式生物。"
+        },
+        {
+          "en": "Researchers often choose mice as a model organism for drug testing.",
+          "zh": "研究人员经常选择小鼠作为药物测试的模式生物。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a 'model' as a 'example' and 'organism' as a 'living thing' used to study."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=model%20organism&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

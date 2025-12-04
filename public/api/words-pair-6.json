@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-03T22:08:38.971Z",
+  "generated": "2025-12-04T22:06:59.670Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "victim",
-      "pronunciation": "/ˈvɪk.tɪm/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "受害者",
-          "en": "A person who suffers harm or loss."
-        },
-        {
-          "pos": "n.",
-          "zh": "牺牲品",
-          "en": "Someone who is tricked or deceived."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The flood left many families as victims of disaster.",
-          "zh": "洪水使许多家庭成为灾难的受害者。"
-        },
-        {
-          "en": "She felt like a victim after being cheated by her friend.",
-          "zh": "被朋友欺骗后，她觉得自己像个受害者。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of a 'victim' as someone who 'victimized' by unfortunate circumstances."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=victim&type=2",
-      "chapter": "基本词汇 名词200 Unit 10"
-    },
-    {
-      "word": "spell",
-      "pronunciation": "/spɛl/",
+      "word": "reduce",
+      "pronunciation": "/rɪˈduːs/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "拼写",
-          "en": "To write or say the letters of a word in the correct order."
+          "zh": "减少",
+          "en": "To make something smaller in size, amount, or degree."
         },
         {
-          "pos": "n.",
-          "zh": "拼写",
-          "en": "The way in which a word is written with letters."
+          "pos": "v.",
+          "zh": "降低",
+          "en": "To lessen the extent or intensity of something."
         }
       ],
       "examples": [
         {
-          "en": "Can you spell your name for me, please?",
-          "zh": "请你为我拼写一下你的名字好吗？"
+          "en": "The government aims to reduce pollution in major cities.",
+          "zh": "政府旨在减少主要城市的污染。"
         },
         {
-          "en": "The correct spelling of the word is important in writing.",
-          "zh": "这个词的正确拼写在写作中很重要。"
+          "en": "She found ways to reduce her expenses each month.",
+          "zh": "她找到了每月减少开支的方法。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'spell' as casting a magical spell with letters to create words."
+        "association": "Think of 'reduce' as 're-duce', where 'duce' sounds like 'duce' in 'introduce', meaning to bring down or lower something."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=spell&type=2",
-      "chapter": "核心词汇 科技发展 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=reduce&type=2",
+      "chapter": "基本词汇 动词200 Unit 10"
+    },
+    {
+      "word": "thrifty",
+      "pronunciation": "/ˈθrɪfti/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "节俭的",
+          "en": "Careful about spending money; using resources wisely."
+        },
+        {
+          "pos": "adj.",
+          "zh": "节省的",
+          "en": "Not wasteful; able to save or use money efficiently."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She is very thrifty and always looks for sales.",
+          "zh": "她非常节俭，总是寻找打折商品。"
+        },
+        {
+          "en": "Being thrifty can help you save for future goals.",
+          "zh": "节俭可以帮助你为未来的目标存钱。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'thrift' as a way to save money, like a 'thrift store' where items are inexpensive."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=thrifty&type=2",
+      "chapter": "核心词汇 伦理与道德 Unit 5"
     }
   ]
 }

@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-03T22:08:38.971Z",
+  "generated": "2025-12-04T22:06:59.670Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "generate",
-      "pronunciation": "/ˈdʒɛnəˌreɪt/",
+      "word": "exotic",
+      "pronunciation": "/ɪɡˈzɑː.tɪk/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "生成",
-          "en": "To produce or create something."
+          "pos": "adj.",
+          "zh": "异国的",
+          "en": "Describing something unusual and fascinating because it comes from a distant place."
         },
         {
-          "pos": "v.",
-          "zh": "引起",
-          "en": "To cause something to happen or exist."
+          "pos": "adj.",
+          "zh": "新奇的",
+          "en": "Referring to something that is attractive or interesting because it is different from what is familiar."
         }
       ],
       "examples": [
         {
-          "en": "The new policy will generate more job opportunities for everyone.",
-          "zh": "新政策将为每个人创造更多的就业机会。"
+          "en": "The restaurant serves exotic dishes from various countries.",
+          "zh": "这家餐厅提供来自不同国家的异国菜肴。"
         },
         {
-          "en": "Solar panels can generate electricity from sunlight effectively.",
-          "zh": "太阳能电池板可以有效地从阳光中产生电力。"
+          "en": "She wore an exotic dress made from vibrant fabrics.",
+          "zh": "她穿着一件由鲜艳面料制成的异国风情的裙子。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a generator that creates power; it 'generates' energy."
+        "association": "Think of 'exotic' as something that makes you feel like you are on a grand adventure in a far-off land."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=generate&type=2",
-      "chapter": "基本词汇 动词200 Unit 7"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=exotic&type=2",
+      "chapter": "核心词汇 文化与传统 Unit 3"
     },
     {
-      "word": "flexible",
-      "pronunciation": "/ˈflɛksəbl/",
+      "word": "substantial",
+      "pronunciation": "/səbˈstænʧəl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "灵活的",
-          "en": "Able to change or be changed easily."
+          "zh": "大量的；可观的",
+          "en": "Large in amount or importance."
         },
         {
           "pos": "adj.",
-          "zh": "可变通的",
-          "en": "Capable of adapting to new conditions."
+          "zh": "实质性的",
+          "en": "Having real meaning or significance."
         }
       ],
       "examples": [
         {
-          "en": "A flexible schedule allows me to manage my time better.",
-          "zh": "灵活的日程安排让我更好地管理时间。"
+          "en": "The research provided substantial evidence for climate change.",
+          "zh": "这项研究提供了气候变化的实质性证据。"
         },
         {
-          "en": "This yoga class is great for improving your flexible body.",
-          "zh": "这节瑜伽课非常适合提高身体的灵活性。"
+          "en": "She made a substantial contribution to the charity.",
+          "zh": "她对慈善机构做出了大量的贡献。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a flexible rubber band that can stretch and adapt to different shapes."
+        "association": "Think of 'substantial' as 'substance'—something that has weight and importance."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=flexible&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 9"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=substantial&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 17"
     }
   ]
 }

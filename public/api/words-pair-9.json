@@ -1,69 +1,67 @@
 {
-  "generated": "2025-12-03T22:08:38.971Z",
+  "generated": "2025-12-04T22:06:59.670Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "menace",
-      "pronunciation": "/ˈmɛnəs/",
+      "word": "legitimise",
+      "pronunciation": "/lɪˈdʒɪtɪmaɪz/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "威胁",
-          "en": "A person or thing that causes harm or danger."
+          "pos": "v.",
+          "zh": "合法化",
+          "en": "To make something legal or acceptable."
         },
         {
           "pos": "v.",
-          "zh": "威胁",
-          "en": "To threaten or cause fear."
+          "zh": "正当化",
+          "en": "To justify or prove that something is reasonable."
         }
       ],
       "examples": [
         {
-          "en": "The dark clouds were a menace to the picnic plans.",
-          "zh": "乌云对野餐计划构成了威胁。"
+          "en": "The government aims to legitimise the use of renewable energy sources.",
+          "zh": "政府旨在合法化可再生能源的使用。"
         },
         {
-          "en": "He felt that crime was a growing menace in his city.",
-          "zh": "他觉得犯罪在他的城市中正日益成为威胁。"
+          "en": "Many argue that laws can help legitimise certain social behaviors.",
+          "zh": "许多人认为法律可以帮助正当化某些社会行为。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'menace' as someone who 'menaces' you, creating a feeling of fear."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=menace&type=2",
-      "chapter": "核心词汇 科技发展 Unit 3"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=legitimise&type=2",
+      "chapter": "核心词汇 民主与权利 Unit 3"
     },
     {
-      "word": "wisdom",
-      "pronunciation": "/ˈwɪzdəm/",
+      "word": "communication",
+      "pronunciation": "/kəˌmjunɪˈkeɪʃən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "智慧",
-          "en": "The ability to make good decisions based on knowledge and experience."
+          "zh": "交流，沟通",
+          "en": "The act of sharing information or ideas with others."
         },
         {
           "pos": "n.",
-          "zh": "明智的行为或选择",
-          "en": "A choice or action that shows good judgment."
+          "zh": "通讯，通讯方式",
+          "en": "A method or system for sending messages or information."
         }
       ],
       "examples": [
         {
-          "en": "Her wisdom in solving problems impressed everyone in the meeting.",
-          "zh": "她在解决问题时的智慧给会议上的每个人都留下了深刻印象。"
+          "en": "Effective communication is essential for successful teamwork.",
+          "zh": "有效的沟通对成功的团队合作至关重要。"
         },
         {
-          "en": "It is a sign of wisdom to learn from past mistakes.",
-          "zh": "从过去的错误中学习是智慧的表现。"
+          "en": "Modern technology has improved global communication significantly.",
+          "zh": "现代科技显著改善了全球通信。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'wisdom' as 'wise-dom,' where 'dom' refers to a state or condition of being wise."
+        "etymology": "The word 'communication' comes from the Latin 'communicare', meaning 'to share'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=wisdom&type=2",
-      "chapter": "基本词汇 名词200 Unit 10"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=communication&type=2",
+      "chapter": "核心词汇 文化与传统 Unit 2"
     }
   ]
 }

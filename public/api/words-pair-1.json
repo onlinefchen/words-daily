@@ -1,64 +1,67 @@
 {
-  "generated": "2025-12-03T22:08:38.970Z",
+  "generated": "2025-12-04T22:06:59.670Z",
   "pair": 1,
   "count": 2,
   "words": [
     {
-      "word": "history of cartography",
-      "pronunciation": "/ˈhɪstəri əv kɑːrˈtɑːɡrəfi/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "制图历史",
-          "en": "The study of how maps have been made and used over time."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The history of cartography reveals how societies understood their world.",
-          "zh": "制图历史揭示了社会如何理解他们的世界。"
-        },
-        {
-          "en": "Learning the history of cartography is essential for geography students.",
-          "zh": "学习制图历史对地理学生至关重要。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'cartography' comes from 'carta' (Latin for map) and 'graphy' (writing)."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=history%20of%20cartography&type=2",
-      "chapter": "认知词汇 历史分类 地图发展史"
-    },
-    {
-      "word": "demanding",
-      "pronunciation": "/dɪˈmændɪŋ/",
+      "word": "external damage",
+      "pronunciation": "/ɪkˈstɜrnəl ˈdæmɪdʒ/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "要求高的",
-          "en": "Requiring much effort or attention."
+          "zh": "外部的",
+          "en": "Related to the outside or outer part of something."
         },
         {
-          "pos": "v.",
-          "zh": "要求",
-          "en": "To ask for something firmly."
+          "pos": "n.",
+          "zh": "损害",
+          "en": "Harm or injury caused to something."
         }
       ],
       "examples": [
         {
-          "en": "The job is very demanding and requires long hours.",
-          "zh": "这份工作要求很高，需要长时间工作。"
+          "en": "The external damage to the building was evident after the storm.",
+          "zh": "风暴过后，建筑物的外部损害显而易见。"
         },
         {
-          "en": "She has a demanding schedule that keeps her busy all week.",
-          "zh": "她的日程安排很紧，整周都很忙。"
+          "en": "They assessed the external damage before starting repairs.",
+          "zh": "在开始修理之前，他们评估了外部损害。"
+        }
+      ],
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=external%20damage&type=2",
+      "chapter": "认知词汇 科技分类 桥梁检测"
+    },
+    {
+      "word": "wind resistance",
+      "pronunciation": "/wɪnd rɪˈzɪstəns/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "风阻",
+          "en": "The force that opposes the motion of an object through the air."
+        },
+        {
+          "pos": "n.",
+          "zh": "空气阻力",
+          "en": "Resistance experienced by objects due to air movement when they travel."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The car's design minimizes wind resistance for better fuel efficiency.",
+          "zh": "汽车的设计减少了风阻，从而提高了燃油效率。"
+        },
+        {
+          "en": "Athletes wear streamlined suits to reduce wind resistance during races.",
+          "zh": "运动员穿着流线型的服装，以减少比赛中的风阻。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'demanding' as 'demanding attention' from others."
+        "association": "Think of a windy day; the stronger the wind, the more resistance you feel while moving."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=demanding&type=2",
-      "chapter": "核心词汇 工作与生活 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=wind%20resistance&type=2",
+      "chapter": "认知词汇 动物分类 动物航行能力"
     }
   ]
 }
