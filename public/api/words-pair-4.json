@@ -1,68 +1,63 @@
 {
-  "generated": "2025-12-04T22:06:59.670Z",
+  "generated": "2025-12-05T22:08:02.733Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "exotic",
-      "pronunciation": "/ɪɡˈzɑː.tɪk/",
+      "word": "advantaged",
+      "pronunciation": "/ədˈvæn.tɪdʒd/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "异国的",
-          "en": "Describing something unusual and fascinating because it comes from a distant place."
-        },
-        {
-          "pos": "adj.",
-          "zh": "新奇的",
-          "en": "Referring to something that is attractive or interesting because it is different from what is familiar."
+          "zh": "有优势的",
+          "en": "Having more benefits or opportunities than others."
         }
       ],
       "examples": [
         {
-          "en": "The restaurant serves exotic dishes from various countries.",
-          "zh": "这家餐厅提供来自不同国家的异国菜肴。"
+          "en": "Students from advantaged backgrounds often access better education.",
+          "zh": "来自有优势背景的学生通常能获得更好的教育。"
         },
         {
-          "en": "She wore an exotic dress made from vibrant fabrics.",
-          "zh": "她穿着一件由鲜艳面料制成的异国风情的裙子。"
+          "en": "The advantaged position of the company led to increased profits.",
+          "zh": "公司的有利地位导致了利润的增加。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'exotic' as something that makes you feel like you are on a grand adventure in a far-off land."
+        "association": "Think of 'advantage' which relates closely to 'advantaged', as they share similar meanings."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=exotic&type=2",
-      "chapter": "核心词汇 文化与传统 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=advantaged&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 1"
     },
     {
-      "word": "substantial",
-      "pronunciation": "/səbˈstænʧəl/",
+      "word": "sensible",
+      "pronunciation": "/ˈsɛn.sə.bəl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "大量的；可观的",
-          "en": "Large in amount or importance."
+          "zh": "明智的",
+          "en": "Having good judgment and making wise decisions."
         },
         {
           "pos": "adj.",
-          "zh": "实质性的",
-          "en": "Having real meaning or significance."
+          "zh": "合理的",
+          "en": "Practical and reasonable, not extreme or foolish."
         }
       ],
       "examples": [
         {
-          "en": "The research provided substantial evidence for climate change.",
-          "zh": "这项研究提供了气候变化的实质性证据。"
+          "en": "It is sensible to save money for emergencies.",
+          "zh": "为紧急情况存钱是明智的。"
         },
         {
-          "en": "She made a substantial contribution to the charity.",
-          "zh": "她对慈善机构做出了大量的贡献。"
+          "en": "She made a sensible choice by studying hard for the exam.",
+          "zh": "她通过努力学习来为考试做出明智的选择。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'substantial' as 'substance'—something that has weight and importance."
+        "association": "Think of 'sensible' as being 'sensitive' to good decisions."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=substantial&type=2",
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sensible&type=2",
       "chapter": "基本词汇 形容词和副词400 Unit 17"
     }
   ]

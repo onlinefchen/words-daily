@@ -1,67 +1,70 @@
 {
-  "generated": "2025-12-04T22:06:59.670Z",
+  "generated": "2025-12-05T22:08:02.733Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "diversity",
-      "pronunciation": "/daɪˈvɜr.sɪ.ti/",
+      "word": "venom",
+      "pronunciation": "/ˈvɛnəm/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "多样性",
-          "en": "The quality of being different or varied."
+          "zh": "毒液",
+          "en": "A poisonous fluid produced by certain animals, like snakes."
         },
         {
           "pos": "n.",
-          "zh": "多元性",
-          "en": "The presence of a range of different elements."
+          "zh": "恶毒",
+          "en": "The quality of being harmful or spiteful."
         }
       ],
       "examples": [
         {
-          "en": "Cultural diversity enriches our society in many ways.",
-          "zh": "文化多样性在许多方面丰富了我们的社会。"
+          "en": "The snake's venom can be deadly if not treated quickly.",
+          "zh": "如果不及时治疗，蛇的毒液可能会致命。"
         },
         {
-          "en": "The diversity of opinions in the discussion was impressive.",
-          "zh": "讨论中意见的多样性令人印象深刻。"
+          "en": "Her words were filled with venom, showing her deep anger.",
+          "zh": "她的话中充满了恶毒，显示出她的愤怒。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'diverse' when you hear 'diversity' to remember it relates to differences."
+        "association": "Think of 'venom' as 'vengeful' liquid, something harmful."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=diversity&type=2",
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=venom&type=2",
       "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "mystery of nature",
-      "pronunciation": "/ˈmɪstəri əv ˈneɪtʃər/",
+      "word": "juvenile",
+      "pronunciation": "/ˈdʒuː.vɪ.nəl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "自然的奥秘",
-          "en": "A phenomenon in nature that is difficult to understand or explain."
+          "pos": "adj.",
+          "zh": "青少年的",
+          "en": "Related to young people, typically under the age of 18."
         },
         {
           "pos": "n.",
-          "zh": "自然界的神秘",
-          "en": "The unknown aspects or secrets of the natural world."
+          "zh": "青少年",
+          "en": "A young person, especially one who is not yet an adult."
         }
       ],
       "examples": [
         {
-          "en": "Scientists study the mystery of nature to learn about our planet.",
-          "zh": "科学家研究自然的奥秘，以了解我们的星球。"
+          "en": "The juvenile court focuses on cases involving young offenders.",
+          "zh": "青少年法庭专注于涉及年轻犯罪者的案件。"
         },
         {
-          "en": "The mystery of nature fascinates many people around the world.",
-          "zh": "自然的奥秘吸引了世界各地的许多人。"
+          "en": "He volunteered to teach juvenile delinquents valuable life skills.",
+          "zh": "他自愿教导青少年罪犯宝贵的生活技能。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=mystery%20of%20nature&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "memoryTips": {
+        "association": "Think of 'juvenile' as 'juvenile justice', which deals with young people.",
+        "mnemonic": "Juvenile sounds like 'juvenile' which can remind you of 'youthful' or 'young'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=juvenile&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 6"
     }
   ]
 }

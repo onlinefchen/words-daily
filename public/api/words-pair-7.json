@@ -1,67 +1,64 @@
 {
-  "generated": "2025-12-04T22:06:59.670Z",
+  "generated": "2025-12-05T22:08:02.734Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "seismology",
-      "pronunciation": "/saɪˈzmɑːlədʒi/",
+      "word": "cylinder",
+      "pronunciation": "/ˈsɪl.ɪn.dɚ/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "地震学",
-          "en": "The scientific study of earthquakes and the structure of the Earth."
+          "zh": "圆柱",
+          "en": "A cylinder is a solid shape with two circular ends and straight sides."
         },
         {
           "pos": "n.",
-          "zh": "震动学",
-          "en": "The study of seismic waves produced by earthquakes."
+          "zh": "气缸",
+          "en": "A cylinder can also refer to a part of an engine that holds fuel and air."
         }
       ],
       "examples": [
         {
-          "en": "Seismology helps scientists predict potential earthquakes in the future.",
-          "zh": "地震学帮助科学家预测未来可能发生的地震。"
+          "en": "The artist created a sculpture in the shape of a large cylinder.",
+          "zh": "艺术家创作了一座大型圆柱形的雕塑。"
         },
         {
-          "en": "The university offers a degree in seismology and related sciences.",
-          "zh": "这所大学提供地震学及相关科学的学位。"
+          "en": "In the car engine, the cylinder helps to power the vehicle.",
+          "zh": "在汽车发动机中，气缸有助于为车辆提供动力。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'seismology' comes from the Greek 'seismos' meaning 'earthquake' and 'logia' meaning 'study of'."
+        "association": "Think of a soda can, which is a common cylinder shape."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=seismology&type=2",
-      "chapter": "认知词汇 自然分类 地震"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cylinder&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "casualties",
-      "pronunciation": "/ˈkæʒ.u.əl.tiz/",
+      "word": "tiresome",
+      "pronunciation": "/ˈtaɪərsəm/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "伤亡人员",
-          "en": "People who are killed or injured in a war or accident."
-        },
-        {
-          "pos": "n.",
-          "zh": "损失",
-          "en": "The total number of people affected by an event, particularly in terms of injuries or deaths."
+          "pos": "adj.",
+          "zh": "令人疲倦的",
+          "en": "Causing fatigue or boredom; not interesting."
         }
       ],
       "examples": [
         {
-          "en": "The earthquake caused many casualties and widespread destruction.",
-          "zh": "这场地震造成了许多伤亡和广泛的破坏。"
+          "en": "The long meeting was tiresome and left everyone feeling exhausted.",
+          "zh": "漫长的会议令人疲倦，让每个人都感到精疲力竭。"
         },
         {
-          "en": "The report highlighted the casualties from the recent conflict.",
-          "zh": "报告强调了最近冲突中的伤亡情况。"
+          "en": "Her constant complaining became tiresome after a while.",
+          "zh": "她的不断抱怨过了一段时间后变得令人厌烦。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=casualties&type=2",
-      "chapter": "认知词汇 自然分类 地震"
+      "memoryTips": {
+        "association": "Think of a tire that is worn out and gets stuck, causing delays and frustration."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=tiresome&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 19"
     }
   ]
 }

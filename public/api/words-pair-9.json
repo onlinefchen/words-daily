@@ -1,67 +1,67 @@
 {
-  "generated": "2025-12-04T22:06:59.670Z",
+  "generated": "2025-12-05T22:08:02.734Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "legitimise",
-      "pronunciation": "/lɪˈdʒɪtɪmaɪz/",
+      "word": "artificial",
+      "pronunciation": "/ˌɑːr.tɪˈfɪʃ.əl/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "合法化",
-          "en": "To make something legal or acceptable."
+          "pos": "adj.",
+          "zh": "人工的",
+          "en": "Made by humans, not natural."
         },
         {
-          "pos": "v.",
-          "zh": "正当化",
-          "en": "To justify or prove that something is reasonable."
+          "pos": "n.",
+          "zh": "人工物",
+          "en": "Something created by humans, like a product or material."
         }
       ],
       "examples": [
         {
-          "en": "The government aims to legitimise the use of renewable energy sources.",
-          "zh": "政府旨在合法化可再生能源的使用。"
+          "en": "Some people prefer artificial flowers because they last longer.",
+          "zh": "有些人更喜欢人工花，因为它们更耐用。"
         },
         {
-          "en": "Many argue that laws can help legitimise certain social behaviors.",
-          "zh": "许多人认为法律可以帮助正当化某些社会行为。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=legitimise&type=2",
-      "chapter": "核心词汇 民主与权利 Unit 3"
-    },
-    {
-      "word": "communication",
-      "pronunciation": "/kəˌmjunɪˈkeɪʃən/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "交流，沟通",
-          "en": "The act of sharing information or ideas with others."
-        },
-        {
-          "pos": "n.",
-          "zh": "通讯，通讯方式",
-          "en": "A method or system for sending messages or information."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Effective communication is essential for successful teamwork.",
-          "zh": "有效的沟通对成功的团队合作至关重要。"
-        },
-        {
-          "en": "Modern technology has improved global communication significantly.",
-          "zh": "现代科技显著改善了全球通信。"
+          "en": "The scientist developed an artificial intelligence to solve complex problems.",
+          "zh": "科学家开发了一种人工智能来解决复杂的问题。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'communication' comes from the Latin 'communicare', meaning 'to share'."
+        "association": "Think of 'artificial' as 'art' + 'ificial', like art created by people."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=communication&type=2",
-      "chapter": "核心词汇 文化与传统 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=artificial&type=2",
+      "chapter": "核心词汇 科技发展 Unit 1"
+    },
+    {
+      "word": "thrilling",
+      "pronunciation": "/ˈθrɪl.ɪŋ/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "令人激动的",
+          "en": "Causing excitement or thrill; very exciting."
+        },
+        {
+          "pos": "adj.",
+          "zh": "刺激的",
+          "en": "Causing strong feelings of excitement or pleasure."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The roller coaster ride was a thrilling experience for everyone.",
+          "zh": "过山车的体验对每个人来说都是刺激的。"
+        },
+        {
+          "en": "She found the thriller novel absolutely thrilling from start to finish.",
+          "zh": "她发现这本惊悚小说从头到尾都非常刺激。"
+        }
+      ],
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=thrilling&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 18"
     }
   ]
 }

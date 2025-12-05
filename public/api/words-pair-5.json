@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-04T22:06:59.670Z",
+  "generated": "2025-12-05T22:08:02.734Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "dupe",
-      "pronunciation": "/duːp/",
+      "word": "troublesome",
+      "pronunciation": "/ˈtrʌb.əl.səm/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "欺骗",
-          "en": "To trick someone into believing something that is not true."
+          "pos": "adj.",
+          "zh": "麻烦的",
+          "en": "Causing problems or difficulties."
         },
         {
-          "pos": "n.",
-          "zh": "受骗者",
-          "en": "A person who has been deceived or tricked."
+          "pos": "adj.",
+          "zh": "令人烦恼的",
+          "en": "Causing worry or distress."
         }
       ],
       "examples": [
         {
-          "en": "The scam artist managed to dupe many unsuspecting victims.",
-          "zh": "那个诈骗艺术家成功欺骗了许多毫无防备的受害者。"
+          "en": "The troublesome situation required immediate attention from the authorities.",
+          "zh": "这个麻烦的情况需要当局立即关注。"
         },
         {
-          "en": "She felt like a dupe after realizing the truth.",
-          "zh": "她在意识到真相后感觉自己像个受骗者。"
+          "en": "She found the troublesome noise distracting while studying for her exams.",
+          "zh": "她发现学习时烦人的噪音让她分心。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'dupe' as someone being 'duped' or not 'duping' themselves into a false reality."
+        "association": "Think of 'trouble' in 'troublesome' to remember it causes issues."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dupe&type=2",
-      "chapter": "核心词汇 法制与犯罪 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=troublesome&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 19"
     },
     {
-      "word": "abolish",
-      "pronunciation": "/əˈbɑːlɪʃ/",
+      "word": "flavour",
+      "pronunciation": "/ˈfleɪvər/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "废除",
-          "en": "To formally put an end to a system, practice, or institution."
+          "pos": "n.",
+          "zh": "味道",
+          "en": "The particular taste or smell of something."
         },
         {
           "pos": "v.",
-          "zh": "取消",
-          "en": "To do away with something completely."
+          "zh": "调味",
+          "en": "To add a certain taste to food or drink."
         }
       ],
       "examples": [
         {
-          "en": "Many countries have chosen to abolish the death penalty.",
-          "zh": "许多国家选择废除死刑。"
+          "en": "The flavour of the soup was rich and comforting.",
+          "zh": "汤的味道丰富而令人感到舒适。"
         },
         {
-          "en": "The government decided to abolish outdated laws for modernization.",
-          "zh": "政府决定废除过时的法律以实现现代化。"
+          "en": "She likes to flavour her dishes with fresh herbs.",
+          "zh": "她喜欢用新鲜香草为菜肴调味。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'abolish' comes from the Latin 'abolire', meaning 'to put an end to'."
+        "association": "Think of 'flavor' as 'flavoring' your experience with food, making it memorable."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=abolish&type=2",
-      "chapter": "核心词汇 民主与权利 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=flavour&type=2",
+      "chapter": "基本词汇 名词200 Unit 4"
     }
   ]
 }

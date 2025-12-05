@@ -1,69 +1,64 @@
 {
-  "generated": "2025-12-04T22:06:59.670Z",
+  "generated": "2025-12-05T22:08:02.733Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "demonstrate",
-      "pronunciation": "/ˈdɛmənˌstreɪt/",
+      "word": "evil",
+      "pronunciation": "/ˈiːvəl/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "展示",
-          "en": "To show clearly or prove something."
+          "pos": "adj.",
+          "zh": "邪恶的",
+          "en": "Morally very bad or wrong."
         },
         {
-          "pos": "v.",
-          "zh": "演示",
-          "en": "To explain how something works by showing it."
+          "pos": "n.",
+          "zh": "邪恶",
+          "en": "The quality of being very bad or morally wrong."
         }
       ],
       "examples": [
         {
-          "en": "The teacher will demonstrate the experiment to the class.",
-          "zh": "老师将向班级展示这个实验。"
+          "en": "The villain in the movie was portrayed as an evil character.",
+          "zh": "电影中的反派被描绘成一个邪恶的角色。"
         },
         {
-          "en": "The results clearly demonstrate the effectiveness of the new method.",
-          "zh": "结果清楚地展示了新方法的有效性。"
+          "en": "Some people believe that evil exists in the world.",
+          "zh": "有些人相信世界上存在邪恶。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'demonstrate' as 'demo' + 'strate', where 'demo' is a common way to show or explain."
+        "association": "Think of 'evil' as 'e' for 'enemies' and 'vil' for 'villains'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=demonstrate&type=2",
-      "chapter": "基本词汇 动词200 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=evil&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 8"
     },
     {
-      "word": "model organism",
-      "pronunciation": "/ˈmɒd.əl ˈɔː.ɡən.ɪ.zəm/",
+      "word": "disease-carrying mosquito",
+      "pronunciation": "/dɪˈziːz ˈkær.i.ɪŋ mɒsˈkiː.toʊ/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "模式生物",
-          "en": "A species used in research to understand biological processes."
-        },
-        {
-          "pos": "n.",
-          "zh": "典范有机体",
-          "en": "An organism that serves as a standard for studying genetics or disease."
+          "zh": "传播疾病的蚊子",
+          "en": "A type of mosquito that can spread diseases to humans or animals."
         }
       ],
       "examples": [
         {
-          "en": "The fruit fly is a common model organism in genetic studies.",
-          "zh": "果蝇是遗传研究中常用的模式生物。"
+          "en": "Disease-carrying mosquitoes are a major concern for public health.",
+          "zh": "传播疾病的蚊子是公共健康的主要问题。"
         },
         {
-          "en": "Researchers often choose mice as a model organism for drug testing.",
-          "zh": "研究人员经常选择小鼠作为药物测试的模式生物。"
+          "en": "Efforts to control disease-carrying mosquitoes are essential in preventing outbreaks.",
+          "zh": "控制传播疾病的蚊子的努力对于预防疫情至关重要。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'model' as a 'example' and 'organism' as a 'living thing' used to study."
+        "association": "Think of a mosquito as a tiny airplane carrying disease passengers."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=model%20organism&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disease-carrying%20mosquito&type=2",
+      "chapter": "认知词汇 自然分类 全球变暖"
     }
   ]
 }

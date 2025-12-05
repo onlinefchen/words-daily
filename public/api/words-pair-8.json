@@ -1,62 +1,64 @@
 {
-  "generated": "2025-12-04T22:06:59.670Z",
+  "generated": "2025-12-05T22:08:02.734Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "integrity",
-      "pronunciation": "/ɪnˈtɛɡrɪti/",
+      "word": "carcinogen",
+      "pronunciation": "/kɑːrˈsɪnədʒən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "诚信",
-          "en": "The quality of being honest and having strong moral principles."
-        },
-        {
-          "pos": "n.",
-          "zh": "完整性",
-          "en": "The state of being whole and undivided."
+          "zh": "致癌物质",
+          "en": "A substance that can cause cancer in living tissue."
         }
       ],
       "examples": [
         {
-          "en": "She is known for her integrity and always tells the truth.",
-          "zh": "她因诚信而闻名，总是说实话。"
+          "en": "Smoking is a well-known carcinogen that increases cancer risk significantly.",
+          "zh": "吸烟是一个众所周知的致癌物质，显著增加癌症风险。"
         },
         {
-          "en": "Maintaining integrity is essential for building trust in relationships.",
-          "zh": "保持诚信对于建立信任关系至关重要。"
+          "en": "Many chemicals in the environment are classified as carcinogens by health agencies.",
+          "zh": "许多环境中的化学物质被健康机构归类为致癌物质。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'integrity' as being 'integrated' or whole, which ties to being honest and undivided."
+        "association": "Think of 'carcinogen' as 'carcin' (cancer) + 'gen' (producing), meaning it produces cancer."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=integrity&type=2",
-      "chapter": "核心词汇 工作与生活 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=carcinogen&type=2",
+      "chapter": "核心词汇 环境保护 Unit 1"
     },
     {
-      "word": "reproductive organ",
-      "pronunciation": "/rɪˈprɒdʌktɪv ˈɔrɡən/",
+      "word": "animal behaviour",
+      "pronunciation": "/ˈænɪməl bɪˈheɪvjər/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "生殖器官",
-          "en": "A part of the body that helps in reproduction."
+          "zh": "动物行为",
+          "en": "The way animals act or respond to their environment."
+        },
+        {
+          "pos": "n.",
+          "zh": "动物行为学",
+          "en": "The scientific study of how animals behave."
         }
       ],
       "examples": [
         {
-          "en": "The reproductive organs are essential for creating new life.",
-          "zh": "生殖器官对创造新生命至关重要。"
+          "en": "Understanding animal behaviour can help us protect endangered species.",
+          "zh": "理解动物行为可以帮助我们保护濒危物种。"
         },
         {
-          "en": "Doctors study reproductive organs to understand fertility issues.",
-          "zh": "医生研究生殖器官以了解生育问题。"
+          "en": "Researchers observe animal behaviour to learn about their social interactions.",
+          "zh": "研究人员观察动物行为以了解它们的社会互动。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=reproductive%20organ&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "memoryTips": {
+        "association": "Think of how animals behave in the wild, which helps link the word to its meaning."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=animal%20behaviour&type=2",
+      "chapter": "认知词汇 动物分类 动物行为"
     }
   ]
 }

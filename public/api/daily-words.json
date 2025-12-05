@@ -1,709 +1,121 @@
 {
-  "generated": "2025-12-04T22:06:59.669Z",
-  "date": "2025-12-04",
+  "generated": "2025-12-05T22:08:02.732Z",
+  "date": "2025-12-05",
   "totalWords": 20,
   "words": [
     {
-      "id": "w03436",
-      "word": "external damage",
-      "type": "phrase",
-      "chapterIndex": 52,
-      "globalIndex": 3436,
-      "chapter": "ch121",
-      "chapterName": "认知词汇 科技分类 桥梁检测",
-      "pronunciation": {
-        "us": "/ɪkˈstɜrnəl ˈdæmɪdʒ/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "外部的",
-          "en": "Related to the outside or outer part of something."
-        },
-        {
-          "pos": "n.",
-          "zh": "损害",
-          "en": "Harm or injury caused to something."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The external damage to the building was evident after the storm.",
-          "zh": "风暴过后，建筑物的外部损害显而易见。"
-        },
-        {
-          "en": "They assessed the external damage before starting repairs.",
-          "zh": "在开始修理之前，他们评估了外部损害。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=external%20damage&type=2"
-    },
-    {
-      "id": "w02338",
-      "word": "wind resistance",
-      "type": "phrase",
+      "id": "w04250",
+      "word": "skimming",
+      "type": "single",
       "chapterIndex": 41,
-      "globalIndex": 2338,
-      "chapter": "ch097",
-      "chapterName": "认知词汇 动物分类 动物航行能力",
+      "globalIndex": 4250,
+      "chapter": "ch134",
+      "chapterName": "认知词汇 教育分类 阅读技能",
       "pronunciation": {
-        "us": "/wɪnd rɪˈzɪstəns/"
+        "us": "/ˈskɪm.ɪŋ/"
       },
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "风阻",
-          "en": "The force that opposes the motion of an object through the air."
+          "pos": "v.",
+          "zh": "略读",
+          "en": "To read quickly to get the main idea."
         },
         {
           "pos": "n.",
-          "zh": "空气阻力",
-          "en": "Resistance experienced by objects due to air movement when they travel."
+          "zh": "略读",
+          "en": "A reading technique to grasp essential information rapidly."
         }
       ],
       "examples": [
         {
-          "en": "The car's design minimizes wind resistance for better fuel efficiency.",
-          "zh": "汽车的设计减少了风阻，从而提高了燃油效率。"
+          "en": "Skimming the article helped me understand the main points quickly.",
+          "zh": "略读这篇文章让我快速理解了要点。"
         },
         {
-          "en": "Athletes wear streamlined suits to reduce wind resistance during races.",
-          "zh": "运动员穿着流线型的服装，以减少比赛中的风阻。"
+          "en": "Students often use skimming to prepare for their exams efficiently.",
+          "zh": "学生们常常使用略读高效备考。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a windy day; the stronger the wind, the more resistance you feel while moving."
+        "association": "Think of 'skim' like a stone skimming over water, quickly touching the surface."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=wind%20resistance&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=skimming&type=2"
     },
     {
-      "id": "w01977",
-      "word": "diversity",
+      "id": "w01619",
+      "word": "competitive",
       "type": "single",
-      "chapterIndex": 77,
-      "globalIndex": 1977,
+      "chapterIndex": 19,
+      "globalIndex": 1619,
+      "chapter": "ch081",
+      "chapterName": "核心词汇 工作与生活 Unit 1",
+      "pronunciation": {
+        "us": "/kəmˈpɛtɪtɪv/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "竞争的",
+          "en": "Relating to a situation where people or companies try to be more successful than others."
+        },
+        {
+          "pos": "adj.",
+          "zh": "有竞争力的",
+          "en": "Able to compete successfully in a market or against others."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The job market is very competitive this year for recent graduates.",
+          "zh": "今年的就业市场对应届毕业生来说非常竞争激烈。"
+        },
+        {
+          "en": "To succeed, businesses must offer competitive prices and quality.",
+          "zh": "为了成功，企业必须提供有竞争力的价格和质量。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'compete' in 'competitive' to remember it's about rivalry."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=competitive&type=2"
+    },
+    {
+      "id": "w02294",
+      "word": "venom",
+      "type": "single",
+      "chapterIndex": 394,
+      "globalIndex": 2294,
       "chapter": "ch096",
       "chapterName": "认知词汇 动物分类 常考生物",
       "pronunciation": {
-        "us": "/daɪˈvɜr.sɪ.ti/"
+        "us": "/ˈvɛnəm/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "多样性",
-          "en": "The quality of being different or varied."
+          "zh": "毒液",
+          "en": "A poisonous fluid produced by certain animals, like snakes."
         },
         {
           "pos": "n.",
-          "zh": "多元性",
-          "en": "The presence of a range of different elements."
+          "zh": "恶毒",
+          "en": "The quality of being harmful or spiteful."
         }
       ],
       "examples": [
         {
-          "en": "Cultural diversity enriches our society in many ways.",
-          "zh": "文化多样性在许多方面丰富了我们的社会。"
+          "en": "The snake's venom can be deadly if not treated quickly.",
+          "zh": "如果不及时治疗，蛇的毒液可能会致命。"
         },
         {
-          "en": "The diversity of opinions in the discussion was impressive.",
-          "zh": "讨论中意见的多样性令人印象深刻。"
+          "en": "Her words were filled with venom, showing her deep anger.",
+          "zh": "她的话中充满了恶毒，显示出她的愤怒。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'diverse' when you hear 'diversity' to remember it relates to differences."
+        "association": "Think of 'venom' as 'vengeful' liquid, something harmful."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=diversity&type=2"
-    },
-    {
-      "id": "w02003",
-      "word": "mystery of nature",
-      "type": "phrase",
-      "chapterIndex": 103,
-      "globalIndex": 2003,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/ˈmɪstəri əv ˈneɪtʃər/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "自然的奥秘",
-          "en": "A phenomenon in nature that is difficult to understand or explain."
-        },
-        {
-          "pos": "n.",
-          "zh": "自然界的神秘",
-          "en": "The unknown aspects or secrets of the natural world."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Scientists study the mystery of nature to learn about our planet.",
-          "zh": "科学家研究自然的奥秘，以了解我们的星球。"
-        },
-        {
-          "en": "The mystery of nature fascinates many people around the world.",
-          "zh": "自然的奥秘吸引了世界各地的许多人。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=mystery%20of%20nature&type=2"
-    },
-    {
-      "id": "w00088",
-      "word": "demonstrate",
-      "type": "single",
-      "chapterIndex": 8,
-      "globalIndex": 88,
-      "chapter": "ch005",
-      "chapterName": "基本词汇 动词200 Unit 5",
-      "pronunciation": {
-        "us": "/ˈdɛmənˌstreɪt/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "展示",
-          "en": "To show clearly or prove something."
-        },
-        {
-          "pos": "v.",
-          "zh": "演示",
-          "en": "To explain how something works by showing it."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The teacher will demonstrate the experiment to the class.",
-          "zh": "老师将向班级展示这个实验。"
-        },
-        {
-          "en": "The results clearly demonstrate the effectiveness of the new method.",
-          "zh": "结果清楚地展示了新方法的有效性。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'demonstrate' as 'demo' + 'strate', where 'demo' is a common way to show or explain."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=demonstrate&type=2"
-    },
-    {
-      "id": "w02137",
-      "word": "model organism",
-      "type": "phrase",
-      "chapterIndex": 237,
-      "globalIndex": 2137,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/ˈmɒd.əl ˈɔː.ɡən.ɪ.zəm/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "模式生物",
-          "en": "A species used in research to understand biological processes."
-        },
-        {
-          "pos": "n.",
-          "zh": "典范有机体",
-          "en": "An organism that serves as a standard for studying genetics or disease."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The fruit fly is a common model organism in genetic studies.",
-          "zh": "果蝇是遗传研究中常用的模式生物。"
-        },
-        {
-          "en": "Researchers often choose mice as a model organism for drug testing.",
-          "zh": "研究人员经常选择小鼠作为药物测试的模式生物。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of a 'model' as a 'example' and 'organism' as a 'living thing' used to study."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=model%20organism&type=2"
-    },
-    {
-      "id": "w01042",
-      "word": "exotic",
-      "type": "single",
-      "chapterIndex": 2,
-      "globalIndex": 1042,
-      "chapter": "ch053",
-      "chapterName": "核心词汇 文化与传统 Unit 3",
-      "pronunciation": {
-        "us": "/ɪɡˈzɑː.tɪk/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "异国的",
-          "en": "Describing something unusual and fascinating because it comes from a distant place."
-        },
-        {
-          "pos": "adj.",
-          "zh": "新奇的",
-          "en": "Referring to something that is attractive or interesting because it is different from what is familiar."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The restaurant serves exotic dishes from various countries.",
-          "zh": "这家餐厅提供来自不同国家的异国菜肴。"
-        },
-        {
-          "en": "She wore an exotic dress made from vibrant fabrics.",
-          "zh": "她穿着一件由鲜艳面料制成的异国风情的裙子。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'exotic' as something that makes you feel like you are on a grand adventure in a far-off land."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=exotic&type=2"
-    },
-    {
-      "id": "w00740",
-      "word": "substantial",
-      "type": "single",
-      "chapterIndex": 20,
-      "globalIndex": 740,
-      "chapter": "ch037",
-      "chapterName": "基本词汇 形容词和副词400 Unit 17",
-      "pronunciation": {
-        "us": "/səbˈstænʧəl/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "大量的；可观的",
-          "en": "Large in amount or importance."
-        },
-        {
-          "pos": "adj.",
-          "zh": "实质性的",
-          "en": "Having real meaning or significance."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The research provided substantial evidence for climate change.",
-          "zh": "这项研究提供了气候变化的实质性证据。"
-        },
-        {
-          "en": "She made a substantial contribution to the charity.",
-          "zh": "她对慈善机构做出了大量的贡献。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'substantial' as 'substance'—something that has weight and importance."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=substantial&type=2"
-    },
-    {
-      "id": "w01726",
-      "word": "dupe",
-      "type": "single",
-      "chapterIndex": 6,
-      "globalIndex": 1726,
-      "chapter": "ch087",
-      "chapterName": "核心词汇 法制与犯罪 Unit 2",
-      "pronunciation": {
-        "us": "/duːp/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "欺骗",
-          "en": "To trick someone into believing something that is not true."
-        },
-        {
-          "pos": "n.",
-          "zh": "受骗者",
-          "en": "A person who has been deceived or tricked."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The scam artist managed to dupe many unsuspecting victims.",
-          "zh": "那个诈骗艺术家成功欺骗了许多毫无防备的受害者。"
-        },
-        {
-          "en": "She felt like a dupe after realizing the truth.",
-          "zh": "她在意识到真相后感觉自己像个受骗者。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'dupe' as someone being 'duped' or not 'duping' themselves into a false reality."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dupe&type=2"
-    },
-    {
-      "id": "w01501",
-      "word": "abolish",
-      "type": "single",
-      "chapterIndex": 1,
-      "globalIndex": 1501,
-      "chapter": "ch076",
-      "chapterName": "核心词汇 民主与权利 Unit 1",
-      "pronunciation": {
-        "us": "/əˈbɑːlɪʃ/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "废除",
-          "en": "To formally put an end to a system, practice, or institution."
-        },
-        {
-          "pos": "v.",
-          "zh": "取消",
-          "en": "To do away with something completely."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Many countries have chosen to abolish the death penalty.",
-          "zh": "许多国家选择废除死刑。"
-        },
-        {
-          "en": "The government decided to abolish outdated laws for modernization.",
-          "zh": "政府决定废除过时的法律以实现现代化。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'abolish' comes from the Latin 'abolire', meaning 'to put an end to'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=abolish&type=2"
-    },
-    {
-      "id": "w00181",
-      "word": "reduce",
-      "type": "single",
-      "chapterIndex": 1,
-      "globalIndex": 181,
-      "chapter": "ch010",
-      "chapterName": "基本词汇 动词200 Unit 10",
-      "pronunciation": {
-        "us": "/rɪˈduːs/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "减少",
-          "en": "To make something smaller in size, amount, or degree."
-        },
-        {
-          "pos": "v.",
-          "zh": "降低",
-          "en": "To lessen the extent or intensity of something."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The government aims to reduce pollution in major cities.",
-          "zh": "政府旨在减少主要城市的污染。"
-        },
-        {
-          "en": "She found ways to reduce her expenses each month.",
-          "zh": "她找到了每月减少开支的方法。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'reduce' as 're-duce', where 'duce' sounds like 'duce' in 'introduce', meaning to bring down or lower something."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=reduce&type=2"
-    },
-    {
-      "id": "w01191",
-      "word": "thrifty",
-      "type": "single",
-      "chapterIndex": 11,
-      "globalIndex": 1191,
-      "chapter": "ch060",
-      "chapterName": "核心词汇 伦理与道德 Unit 5",
-      "pronunciation": {
-        "us": "/ˈθrɪfti/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "节俭的",
-          "en": "Careful about spending money; using resources wisely."
-        },
-        {
-          "pos": "adj.",
-          "zh": "节省的",
-          "en": "Not wasteful; able to save or use money efficiently."
-        }
-      ],
-      "examples": [
-        {
-          "en": "She is very thrifty and always looks for sales.",
-          "zh": "她非常节俭，总是寻找打折商品。"
-        },
-        {
-          "en": "Being thrifty can help you save for future goals.",
-          "zh": "节俭可以帮助你为未来的目标存钱。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'thrift' as a way to save money, like a 'thrift store' where items are inexpensive."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=thrifty&type=2"
-    },
-    {
-      "id": "w02514",
-      "word": "seismology",
-      "type": "single",
-      "chapterIndex": 67,
-      "globalIndex": 2514,
-      "chapter": "ch102",
-      "chapterName": "认知词汇 自然分类 地震",
-      "pronunciation": {
-        "us": "/saɪˈzmɑːlədʒi/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "地震学",
-          "en": "The scientific study of earthquakes and the structure of the Earth."
-        },
-        {
-          "pos": "n.",
-          "zh": "震动学",
-          "en": "The study of seismic waves produced by earthquakes."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Seismology helps scientists predict potential earthquakes in the future.",
-          "zh": "地震学帮助科学家预测未来可能发生的地震。"
-        },
-        {
-          "en": "The university offers a degree in seismology and related sciences.",
-          "zh": "这所大学提供地震学及相关科学的学位。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'seismology' comes from the Greek 'seismos' meaning 'earthquake' and 'logia' meaning 'study of'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=seismology&type=2"
-    },
-    {
-      "id": "w02449",
-      "word": "casualties",
-      "type": "single",
-      "chapterIndex": 2,
-      "globalIndex": 2449,
-      "chapter": "ch102",
-      "chapterName": "认知词汇 自然分类 地震",
-      "pronunciation": {
-        "us": "/ˈkæʒ.u.əl.tiz/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "伤亡人员",
-          "en": "People who are killed or injured in a war or accident."
-        },
-        {
-          "pos": "n.",
-          "zh": "损失",
-          "en": "The total number of people affected by an event, particularly in terms of injuries or deaths."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The earthquake caused many casualties and widespread destruction.",
-          "zh": "这场地震造成了许多伤亡和广泛的破坏。"
-        },
-        {
-          "en": "The report highlighted the casualties from the recent conflict.",
-          "zh": "报告强调了最近冲突中的伤亡情况。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=casualties&type=2"
-    },
-    {
-      "id": "w01657",
-      "word": "integrity",
-      "type": "single",
-      "chapterIndex": 17,
-      "globalIndex": 1657,
-      "chapter": "ch083",
-      "chapterName": "核心词汇 工作与生活 Unit 3",
-      "pronunciation": {
-        "us": "/ɪnˈtɛɡrɪti/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "诚信",
-          "en": "The quality of being honest and having strong moral principles."
-        },
-        {
-          "pos": "n.",
-          "zh": "完整性",
-          "en": "The state of being whole and undivided."
-        }
-      ],
-      "examples": [
-        {
-          "en": "She is known for her integrity and always tells the truth.",
-          "zh": "她因诚信而闻名，总是说实话。"
-        },
-        {
-          "en": "Maintaining integrity is essential for building trust in relationships.",
-          "zh": "保持诚信对于建立信任关系至关重要。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'integrity' as being 'integrated' or whole, which ties to being honest and undivided."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=integrity&type=2"
-    },
-    {
-      "id": "w02147",
-      "word": "reproductive organ",
-      "type": "phrase",
-      "chapterIndex": 247,
-      "globalIndex": 2147,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/rɪˈprɒdʌktɪv ˈɔrɡən/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "生殖器官",
-          "en": "A part of the body that helps in reproduction."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The reproductive organs are essential for creating new life.",
-          "zh": "生殖器官对创造新生命至关重要。"
-        },
-        {
-          "en": "Doctors study reproductive organs to understand fertility issues.",
-          "zh": "医生研究生殖器官以了解生育问题。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=reproductive%20organ&type=2"
-    },
-    {
-      "id": "w01557",
-      "word": "legitimise",
-      "type": "single",
-      "chapterIndex": 17,
-      "globalIndex": 1557,
-      "chapter": "ch078",
-      "chapterName": "核心词汇 民主与权利 Unit 3",
-      "pronunciation": {
-        "us": "/lɪˈdʒɪtɪmaɪz/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "合法化",
-          "en": "To make something legal or acceptable."
-        },
-        {
-          "pos": "v.",
-          "zh": "正当化",
-          "en": "To justify or prove that something is reasonable."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The government aims to legitimise the use of renewable energy sources.",
-          "zh": "政府旨在合法化可再生能源的使用。"
-        },
-        {
-          "en": "Many argue that laws can help legitimise certain social behaviors.",
-          "zh": "许多人认为法律可以帮助正当化某些社会行为。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=legitimise&type=2"
-    },
-    {
-      "id": "w01022",
-      "word": "communication",
-      "type": "single",
-      "chapterIndex": 2,
-      "globalIndex": 1022,
-      "chapter": "ch052",
-      "chapterName": "核心词汇 文化与传统 Unit 2",
-      "pronunciation": {
-        "us": "/kəˌmjunɪˈkeɪʃən/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "交流，沟通",
-          "en": "The act of sharing information or ideas with others."
-        },
-        {
-          "pos": "n.",
-          "zh": "通讯，通讯方式",
-          "en": "A method or system for sending messages or information."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Effective communication is essential for successful teamwork.",
-          "zh": "有效的沟通对成功的团队合作至关重要。"
-        },
-        {
-          "en": "Modern technology has improved global communication significantly.",
-          "zh": "现代科技显著改善了全球通信。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'communication' comes from the Latin 'communicare', meaning 'to share'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=communication&type=2"
-    },
-    {
-      "id": "w01524",
-      "word": "disadvantaged",
-      "type": "single",
-      "chapterIndex": 4,
-      "globalIndex": 1524,
-      "chapter": "ch077",
-      "chapterName": "核心词汇 民主与权利 Unit 2",
-      "pronunciation": {
-        "us": "/ˌdɪs.ədˈvæn.tɪd/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "弱势的",
-          "en": "Having less money, education, or opportunities than others."
-        },
-        {
-          "pos": "adj.",
-          "zh": "不利的",
-          "en": "In a situation that makes it difficult to succeed."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Many disadvantaged children lack access to quality education.",
-          "zh": "许多弱势儿童无法接受优质教育。"
-        },
-        {
-          "en": "The program aims to support disadvantaged communities through grants.",
-          "zh": "该项目旨在通过补助金支持弱势社区。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'dis' as a prefix meaning 'not' and 'advantaged' as 'having advantages'. Together, they represent those who do not have advantages."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disadvantaged&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=venom&type=2"
     },
     {
       "id": "w01317",
@@ -743,6 +155,589 @@
         "mnemonic": "Juvenile sounds like 'juvenile' which can remind you of 'youthful' or 'young'."
       },
       "audioUrl": "https://dict.youdao.com/dictvoice?audio=juvenile&type=2"
+    },
+    {
+      "id": "w00553",
+      "word": "evil",
+      "type": "single",
+      "chapterIndex": 13,
+      "globalIndex": 553,
+      "chapter": "ch028",
+      "chapterName": "基本词汇 形容词和副词400 Unit 8",
+      "pronunciation": {
+        "us": "/ˈiːvəl/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "邪恶的",
+          "en": "Morally very bad or wrong."
+        },
+        {
+          "pos": "n.",
+          "zh": "邪恶",
+          "en": "The quality of being very bad or morally wrong."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The villain in the movie was portrayed as an evil character.",
+          "zh": "电影中的反派被描绘成一个邪恶的角色。"
+        },
+        {
+          "en": "Some people believe that evil exists in the world.",
+          "zh": "有些人相信世界上存在邪恶。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'evil' as 'e' for 'enemies' and 'vil' for 'villains'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=evil&type=2"
+    },
+    {
+      "id": "w02677",
+      "word": "disease-carrying mosquito",
+      "type": "phrase",
+      "chapterIndex": 18,
+      "globalIndex": 2677,
+      "chapter": "ch106",
+      "chapterName": "认知词汇 自然分类 全球变暖",
+      "pronunciation": {
+        "us": "/dɪˈziːz ˈkær.i.ɪŋ mɒsˈkiː.toʊ/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "传播疾病的蚊子",
+          "en": "A type of mosquito that can spread diseases to humans or animals."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Disease-carrying mosquitoes are a major concern for public health.",
+          "zh": "传播疾病的蚊子是公共健康的主要问题。"
+        },
+        {
+          "en": "Efforts to control disease-carrying mosquitoes are essential in preventing outbreaks.",
+          "zh": "控制传播疾病的蚊子的努力对于预防疫情至关重要。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a mosquito as a tiny airplane carrying disease passengers."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disease-carrying%20mosquito&type=2"
+    },
+    {
+      "id": "w00417",
+      "word": "advantaged",
+      "type": "single",
+      "chapterIndex": 17,
+      "globalIndex": 417,
+      "chapter": "ch021",
+      "chapterName": "基本词汇 形容词和副词400 Unit 1",
+      "pronunciation": {
+        "us": "/ədˈvæn.tɪdʒd/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "有优势的",
+          "en": "Having more benefits or opportunities than others."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Students from advantaged backgrounds often access better education.",
+          "zh": "来自有优势背景的学生通常能获得更好的教育。"
+        },
+        {
+          "en": "The advantaged position of the company led to increased profits.",
+          "zh": "公司的有利地位导致了利润的增加。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'advantage' which relates closely to 'advantaged', as they share similar meanings."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=advantaged&type=2"
+    },
+    {
+      "id": "w00723",
+      "word": "sensible",
+      "type": "single",
+      "chapterIndex": 3,
+      "globalIndex": 723,
+      "chapter": "ch037",
+      "chapterName": "基本词汇 形容词和副词400 Unit 17",
+      "pronunciation": {
+        "us": "/ˈsɛn.sə.bəl/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "明智的",
+          "en": "Having good judgment and making wise decisions."
+        },
+        {
+          "pos": "adj.",
+          "zh": "合理的",
+          "en": "Practical and reasonable, not extreme or foolish."
+        }
+      ],
+      "examples": [
+        {
+          "en": "It is sensible to save money for emergencies.",
+          "zh": "为紧急情况存钱是明智的。"
+        },
+        {
+          "en": "She made a sensible choice by studying hard for the exam.",
+          "zh": "她通过努力学习来为考试做出明智的选择。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'sensible' as being 'sensitive' to good decisions."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sensible&type=2"
+    },
+    {
+      "id": "w00766",
+      "word": "troublesome",
+      "type": "single",
+      "chapterIndex": 6,
+      "globalIndex": 766,
+      "chapter": "ch039",
+      "chapterName": "基本词汇 形容词和副词400 Unit 19",
+      "pronunciation": {
+        "us": "/ˈtrʌb.əl.səm/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "麻烦的",
+          "en": "Causing problems or difficulties."
+        },
+        {
+          "pos": "adj.",
+          "zh": "令人烦恼的",
+          "en": "Causing worry or distress."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The troublesome situation required immediate attention from the authorities.",
+          "zh": "这个麻烦的情况需要当局立即关注。"
+        },
+        {
+          "en": "She found the troublesome noise distracting while studying for her exams.",
+          "zh": "她发现学习时烦人的噪音让她分心。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'trouble' in 'troublesome' to remember it causes issues."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=troublesome&type=2"
+    },
+    {
+      "id": "w00274",
+      "word": "flavour",
+      "type": "single",
+      "chapterIndex": 14,
+      "globalIndex": 274,
+      "chapter": "ch014",
+      "chapterName": "基本词汇 名词200 Unit 4",
+      "pronunciation": {
+        "us": "/ˈfleɪvər/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "味道",
+          "en": "The particular taste or smell of something."
+        },
+        {
+          "pos": "v.",
+          "zh": "调味",
+          "en": "To add a certain taste to food or drink."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The flavour of the soup was rich and comforting.",
+          "zh": "汤的味道丰富而令人感到舒适。"
+        },
+        {
+          "en": "She likes to flavour her dishes with fresh herbs.",
+          "zh": "她喜欢用新鲜香草为菜肴调味。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'flavor' as 'flavoring' your experience with food, making it memorable."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=flavour&type=2"
+    },
+    {
+      "id": "w02198",
+      "word": "terrestrial",
+      "type": "single",
+      "chapterIndex": 298,
+      "globalIndex": 2198,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/tɛˈrɛs.tɪr.i.əl/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "陆地的",
+          "en": "Relating to the land or the earth."
+        },
+        {
+          "pos": "adj.",
+          "zh": "地球上的",
+          "en": "Existing or occurring on the planet Earth."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many terrestrial animals have adapted to life on land.",
+          "zh": "许多陆地动物已适应了陆地生活。"
+        },
+        {
+          "en": "The study of terrestrial ecosystems is crucial for conservation.",
+          "zh": "研究陆地生态系统对保护工作至关重要。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=terrestrial&type=2"
+    },
+    {
+      "id": "w00713",
+      "word": "rigid",
+      "type": "single",
+      "chapterIndex": 13,
+      "globalIndex": 713,
+      "chapter": "ch036",
+      "chapterName": "基本词汇 形容词和副词400 Unit 16",
+      "pronunciation": {
+        "us": "/ˈrɪdʒɪd/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "僵硬的",
+          "en": "Not flexible; stiff and hard."
+        },
+        {
+          "pos": "adj.",
+          "zh": "严格的",
+          "en": "Strict and unable to change or adapt."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The rigid rules made it difficult for students to express themselves.",
+          "zh": "严格的规则使学生很难表达自己。"
+        },
+        {
+          "en": "His rigid posture suggested he was feeling tense and uncomfortable.",
+          "zh": "他僵硬的姿势表明他感到紧张和不适。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a rigid object like a steel rod, which cannot bend."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=rigid&type=2"
+    },
+    {
+      "id": "w02214",
+      "word": "cylinder",
+      "type": "single",
+      "chapterIndex": 314,
+      "globalIndex": 2214,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/ˈsɪl.ɪn.dɚ/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "圆柱",
+          "en": "A cylinder is a solid shape with two circular ends and straight sides."
+        },
+        {
+          "pos": "n.",
+          "zh": "气缸",
+          "en": "A cylinder can also refer to a part of an engine that holds fuel and air."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The artist created a sculpture in the shape of a large cylinder.",
+          "zh": "艺术家创作了一座大型圆柱形的雕塑。"
+        },
+        {
+          "en": "In the car engine, the cylinder helps to power the vehicle.",
+          "zh": "在汽车发动机中，气缸有助于为车辆提供动力。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a soda can, which is a common cylinder shape."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cylinder&type=2"
+    },
+    {
+      "id": "w00761",
+      "word": "tiresome",
+      "type": "single",
+      "chapterIndex": 1,
+      "globalIndex": 761,
+      "chapter": "ch039",
+      "chapterName": "基本词汇 形容词和副词400 Unit 19",
+      "pronunciation": {
+        "us": "/ˈtaɪərsəm/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "令人疲倦的",
+          "en": "Causing fatigue or boredom; not interesting."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The long meeting was tiresome and left everyone feeling exhausted.",
+          "zh": "漫长的会议令人疲倦，让每个人都感到精疲力竭。"
+        },
+        {
+          "en": "Her constant complaining became tiresome after a while.",
+          "zh": "她的不断抱怨过了一段时间后变得令人厌烦。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a tire that is worn out and gets stuck, causing delays and frustration."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=tiresome&type=2"
+    },
+    {
+      "id": "w00913",
+      "word": "carcinogen",
+      "type": "single",
+      "chapterIndex": 13,
+      "globalIndex": 913,
+      "chapter": "ch046",
+      "chapterName": "核心词汇 环境保护 Unit 1",
+      "pronunciation": {
+        "us": "/kɑːrˈsɪnədʒən/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "致癌物质",
+          "en": "A substance that can cause cancer in living tissue."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Smoking is a well-known carcinogen that increases cancer risk significantly.",
+          "zh": "吸烟是一个众所周知的致癌物质，显著增加癌症风险。"
+        },
+        {
+          "en": "Many chemicals in the environment are classified as carcinogens by health agencies.",
+          "zh": "许多环境中的化学物质被健康机构归类为致癌物质。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'carcinogen' as 'carcin' (cancer) + 'gen' (producing), meaning it produces cancer."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=carcinogen&type=2"
+    },
+    {
+      "id": "w02359",
+      "word": "animal behaviour",
+      "type": "phrase",
+      "chapterIndex": 1,
+      "globalIndex": 2359,
+      "chapter": "ch099",
+      "chapterName": "认知词汇 动物分类 动物行为",
+      "pronunciation": {
+        "us": "/ˈænɪməl bɪˈheɪvjər/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "动物行为",
+          "en": "The way animals act or respond to their environment."
+        },
+        {
+          "pos": "n.",
+          "zh": "动物行为学",
+          "en": "The scientific study of how animals behave."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Understanding animal behaviour can help us protect endangered species.",
+          "zh": "理解动物行为可以帮助我们保护濒危物种。"
+        },
+        {
+          "en": "Researchers observe animal behaviour to learn about their social interactions.",
+          "zh": "研究人员观察动物行为以了解它们的社会互动。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of how animals behave in the wild, which helps link the word to its meaning."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=animal%20behaviour&type=2"
+    },
+    {
+      "id": "w00803",
+      "word": "artificial",
+      "type": "single",
+      "chapterIndex": 3,
+      "globalIndex": 803,
+      "chapter": "ch041",
+      "chapterName": "核心词汇 科技发展 Unit 1",
+      "pronunciation": {
+        "us": "/ˌɑːr.tɪˈfɪʃ.əl/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "人工的",
+          "en": "Made by humans, not natural."
+        },
+        {
+          "pos": "n.",
+          "zh": "人工物",
+          "en": "Something created by humans, like a product or material."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Some people prefer artificial flowers because they last longer.",
+          "zh": "有些人更喜欢人工花，因为它们更耐用。"
+        },
+        {
+          "en": "The scientist developed an artificial intelligence to solve complex problems.",
+          "zh": "科学家开发了一种人工智能来解决复杂的问题。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'artificial' as 'art' + 'ificial', like art created by people."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=artificial&type=2"
+    },
+    {
+      "id": "w00758",
+      "word": "thrilling",
+      "type": "single",
+      "chapterIndex": 18,
+      "globalIndex": 758,
+      "chapter": "ch038",
+      "chapterName": "基本词汇 形容词和副词400 Unit 18",
+      "pronunciation": {
+        "us": "/ˈθrɪl.ɪŋ/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "令人激动的",
+          "en": "Causing excitement or thrill; very exciting."
+        },
+        {
+          "pos": "adj.",
+          "zh": "刺激的",
+          "en": "Causing strong feelings of excitement or pleasure."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The roller coaster ride was a thrilling experience for everyone.",
+          "zh": "过山车的体验对每个人来说都是刺激的。"
+        },
+        {
+          "en": "She found the thriller novel absolutely thrilling from start to finish.",
+          "zh": "她发现这本惊悚小说从头到尾都非常刺激。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=thrilling&type=2"
+    },
+    {
+      "id": "w00547",
+      "word": "equivalent",
+      "type": "single",
+      "chapterIndex": 7,
+      "globalIndex": 547,
+      "chapter": "ch028",
+      "chapterName": "基本词汇 形容词和副词400 Unit 8",
+      "pronunciation": {
+        "us": "/ɪˈkwɪvələnt/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "相等的",
+          "en": "Having the same value, amount, or meaning as something else."
+        },
+        {
+          "pos": "n.",
+          "zh": "等价物",
+          "en": "Something that has the same value or function as another thing."
+        }
+      ],
+      "examples": [
+        {
+          "en": "A dollar is equivalent to about seven Chinese yuan.",
+          "zh": "一美元大约相当于七元人民币。"
+        },
+        {
+          "en": "Their efforts were equivalent to years of hard work.",
+          "zh": "他们的努力相当于多年的辛勤工作。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'equivalent' comes from the Latin 'aequivalens', meaning 'equal in value'.",
+        "association": "Think of 'equivalent' as 'equal' + 'valent', like balancing two sides of a scale."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=equivalent&type=2"
+    },
+    {
+      "id": "w01684",
+      "word": "social",
+      "type": "single",
+      "chapterIndex": 4,
+      "globalIndex": 1684,
+      "chapter": "ch085",
+      "chapterName": "核心词汇 工作与生活 Unit 5",
+      "pronunciation": {
+        "us": "/ˈsoʊʃəl/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "社交的",
+          "en": "Related to interactions between people."
+        },
+        {
+          "pos": "n.",
+          "zh": "社交活动",
+          "en": "Activities that involve meeting and interacting with others."
+        }
+      ],
+      "examples": [
+        {
+          "en": "He enjoys attending social gatherings with his friends.",
+          "zh": "他喜欢和朋友参加社交聚会。"
+        },
+        {
+          "en": "Social media has changed how we communicate today.",
+          "zh": "社交媒体改变了我们今天的沟通方式。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'social' as 'sociable', which helps you remember it's about people and interaction."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=social&type=2"
     }
   ]
 }

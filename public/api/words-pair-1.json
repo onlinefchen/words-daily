@@ -1,67 +1,69 @@
 {
-  "generated": "2025-12-04T22:06:59.670Z",
+  "generated": "2025-12-05T22:08:02.733Z",
   "pair": 1,
   "count": 2,
   "words": [
     {
-      "word": "external damage",
-      "pronunciation": "/ɪkˈstɜrnəl ˈdæmɪdʒ/",
+      "word": "skimming",
+      "pronunciation": "/ˈskɪm.ɪŋ/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "外部的",
-          "en": "Related to the outside or outer part of something."
+          "pos": "v.",
+          "zh": "略读",
+          "en": "To read quickly to get the main idea."
         },
         {
           "pos": "n.",
-          "zh": "损害",
-          "en": "Harm or injury caused to something."
+          "zh": "略读",
+          "en": "A reading technique to grasp essential information rapidly."
         }
       ],
       "examples": [
         {
-          "en": "The external damage to the building was evident after the storm.",
-          "zh": "风暴过后，建筑物的外部损害显而易见。"
+          "en": "Skimming the article helped me understand the main points quickly.",
+          "zh": "略读这篇文章让我快速理解了要点。"
         },
         {
-          "en": "They assessed the external damage before starting repairs.",
-          "zh": "在开始修理之前，他们评估了外部损害。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=external%20damage&type=2",
-      "chapter": "认知词汇 科技分类 桥梁检测"
-    },
-    {
-      "word": "wind resistance",
-      "pronunciation": "/wɪnd rɪˈzɪstəns/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "风阻",
-          "en": "The force that opposes the motion of an object through the air."
-        },
-        {
-          "pos": "n.",
-          "zh": "空气阻力",
-          "en": "Resistance experienced by objects due to air movement when they travel."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The car's design minimizes wind resistance for better fuel efficiency.",
-          "zh": "汽车的设计减少了风阻，从而提高了燃油效率。"
-        },
-        {
-          "en": "Athletes wear streamlined suits to reduce wind resistance during races.",
-          "zh": "运动员穿着流线型的服装，以减少比赛中的风阻。"
+          "en": "Students often use skimming to prepare for their exams efficiently.",
+          "zh": "学生们常常使用略读高效备考。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a windy day; the stronger the wind, the more resistance you feel while moving."
+        "association": "Think of 'skim' like a stone skimming over water, quickly touching the surface."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=wind%20resistance&type=2",
-      "chapter": "认知词汇 动物分类 动物航行能力"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=skimming&type=2",
+      "chapter": "认知词汇 教育分类 阅读技能"
+    },
+    {
+      "word": "competitive",
+      "pronunciation": "/kəmˈpɛtɪtɪv/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "竞争的",
+          "en": "Relating to a situation where people or companies try to be more successful than others."
+        },
+        {
+          "pos": "adj.",
+          "zh": "有竞争力的",
+          "en": "Able to compete successfully in a market or against others."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The job market is very competitive this year for recent graduates.",
+          "zh": "今年的就业市场对应届毕业生来说非常竞争激烈。"
+        },
+        {
+          "en": "To succeed, businesses must offer competitive prices and quality.",
+          "zh": "为了成功，企业必须提供有竞争力的价格和质量。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'compete' in 'competitive' to remember it's about rivalry."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=competitive&type=2",
+      "chapter": "核心词汇 工作与生活 Unit 1"
     }
   ]
 }

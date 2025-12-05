@@ -1,69 +1,67 @@
 {
-  "generated": "2025-12-04T22:06:59.670Z",
+  "generated": "2025-12-05T22:08:02.734Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "reduce",
-      "pronunciation": "/rɪˈduːs/",
+      "word": "terrestrial",
+      "pronunciation": "/tɛˈrɛs.tɪr.i.əl/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "减少",
-          "en": "To make something smaller in size, amount, or degree."
+          "pos": "adj.",
+          "zh": "陆地的",
+          "en": "Relating to the land or the earth."
         },
         {
-          "pos": "v.",
-          "zh": "降低",
-          "en": "To lessen the extent or intensity of something."
+          "pos": "adj.",
+          "zh": "地球上的",
+          "en": "Existing or occurring on the planet Earth."
         }
       ],
       "examples": [
         {
-          "en": "The government aims to reduce pollution in major cities.",
-          "zh": "政府旨在减少主要城市的污染。"
+          "en": "Many terrestrial animals have adapted to life on land.",
+          "zh": "许多陆地动物已适应了陆地生活。"
         },
         {
-          "en": "She found ways to reduce her expenses each month.",
-          "zh": "她找到了每月减少开支的方法。"
+          "en": "The study of terrestrial ecosystems is crucial for conservation.",
+          "zh": "研究陆地生态系统对保护工作至关重要。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'reduce' as 're-duce', where 'duce' sounds like 'duce' in 'introduce', meaning to bring down or lower something."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=reduce&type=2",
-      "chapter": "基本词汇 动词200 Unit 10"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=terrestrial&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "thrifty",
-      "pronunciation": "/ˈθrɪfti/",
+      "word": "rigid",
+      "pronunciation": "/ˈrɪdʒɪd/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "节俭的",
-          "en": "Careful about spending money; using resources wisely."
+          "zh": "僵硬的",
+          "en": "Not flexible; stiff and hard."
         },
         {
           "pos": "adj.",
-          "zh": "节省的",
-          "en": "Not wasteful; able to save or use money efficiently."
+          "zh": "严格的",
+          "en": "Strict and unable to change or adapt."
         }
       ],
       "examples": [
         {
-          "en": "She is very thrifty and always looks for sales.",
-          "zh": "她非常节俭，总是寻找打折商品。"
+          "en": "The rigid rules made it difficult for students to express themselves.",
+          "zh": "严格的规则使学生很难表达自己。"
         },
         {
-          "en": "Being thrifty can help you save for future goals.",
-          "zh": "节俭可以帮助你为未来的目标存钱。"
+          "en": "His rigid posture suggested he was feeling tense and uncomfortable.",
+          "zh": "他僵硬的姿势表明他感到紧张和不适。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'thrift' as a way to save money, like a 'thrift store' where items are inexpensive."
+        "association": "Think of a rigid object like a steel rod, which cannot bend."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=thrifty&type=2",
-      "chapter": "核心词汇 伦理与道德 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=rigid&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 16"
     }
   ]
 }
