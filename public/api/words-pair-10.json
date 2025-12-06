@@ -1,70 +1,69 @@
 {
-  "generated": "2025-12-05T22:08:02.734Z",
+  "generated": "2025-12-06T22:07:31.680Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "equivalent",
-      "pronunciation": "/ɪˈkwɪvələnt/",
+      "word": "strengthen",
+      "pronunciation": "/ˈstrɛŋθən/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "相等的",
-          "en": "Having the same value, amount, or meaning as something else."
+          "pos": "v.",
+          "zh": "增强",
+          "en": "To make something stronger or more powerful."
         },
         {
-          "pos": "n.",
-          "zh": "等价物",
-          "en": "Something that has the same value or function as another thing."
+          "pos": "v.",
+          "zh": "巩固",
+          "en": "To improve or reinforce something to make it more solid."
         }
       ],
       "examples": [
         {
-          "en": "A dollar is equivalent to about seven Chinese yuan.",
-          "zh": "一美元大约相当于七元人民币。"
+          "en": "Regular exercise can strengthen your muscles and improve your health.",
+          "zh": "定期锻炼可以增强你的肌肉并改善你的健康。"
         },
         {
-          "en": "Their efforts were equivalent to years of hard work.",
-          "zh": "他们的努力相当于多年的辛勤工作。"
+          "en": "The new policies aim to strengthen community ties and support local businesses.",
+          "zh": "新政策旨在加强社区关系并支持当地企业。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'equivalent' comes from the Latin 'aequivalens', meaning 'equal in value'.",
-        "association": "Think of 'equivalent' as 'equal' + 'valent', like balancing two sides of a scale."
+        "association": "Think of 'strength' when you hear 'strengthen', as both words are related to making something stronger."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=equivalent&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 8"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=strengthen&type=2",
+      "chapter": "核心词汇 法制与犯罪 Unit 5"
     },
     {
-      "word": "social",
-      "pronunciation": "/ˈsoʊʃəl/",
+      "word": "vulgar",
+      "pronunciation": "/ˈvʌl.ɡɚ/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "社交的",
-          "en": "Related to interactions between people."
+          "zh": "粗俗的",
+          "en": "Relating to something that is offensive or lacking in good manners."
         },
         {
-          "pos": "n.",
-          "zh": "社交活动",
-          "en": "Activities that involve meeting and interacting with others."
+          "pos": "adj.",
+          "zh": "低俗的",
+          "en": "Describing something that is crude or unrefined."
         }
       ],
       "examples": [
         {
-          "en": "He enjoys attending social gatherings with his friends.",
-          "zh": "他喜欢和朋友参加社交聚会。"
+          "en": "The comedian's vulgar jokes shocked many audience members.",
+          "zh": "这位喜剧演员粗俗的笑话让许多观众感到震惊。"
         },
         {
-          "en": "Social media has changed how we communicate today.",
-          "zh": "社交媒体改变了我们今天的沟通方式。"
+          "en": "She avoided vulgar language in her professional emails.",
+          "zh": "她在职业邮件中避免使用粗俗的语言。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'social' as 'sociable', which helps you remember it's about people and interaction."
+        "association": "Think of 'vulgar' as 'vulgarity', which relates to low-class behavior."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=social&type=2",
-      "chapter": "核心词汇 工作与生活 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vulgar&type=2",
+      "chapter": "核心词汇 法制与犯罪 Unit 5"
     }
   ]
 }

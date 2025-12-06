@@ -1,64 +1,69 @@
 {
-  "generated": "2025-12-05T22:08:02.734Z",
+  "generated": "2025-12-06T22:07:31.680Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "carcinogen",
-      "pronunciation": "/kɑːrˈsɪnədʒən/",
+      "word": "safeguard",
+      "pronunciation": "/ˈseɪfɡɑrd/",
       "meanings": [
         {
+          "pos": "v.",
+          "zh": "保护",
+          "en": "To protect something from harm or damage."
+        },
+        {
           "pos": "n.",
-          "zh": "致癌物质",
-          "en": "A substance that can cause cancer in living tissue."
+          "zh": "保护措施",
+          "en": "A measure taken to protect someone or something."
         }
       ],
       "examples": [
         {
-          "en": "Smoking is a well-known carcinogen that increases cancer risk significantly.",
-          "zh": "吸烟是一个众所周知的致癌物质，显著增加癌症风险。"
+          "en": "The new law is designed to safeguard the environment for future generations.",
+          "zh": "这项新法律旨在保护环境，以便为未来的世代着想。"
         },
         {
-          "en": "Many chemicals in the environment are classified as carcinogens by health agencies.",
-          "zh": "许多环境中的化学物质被健康机构归类为致癌物质。"
+          "en": "They installed a fence to safeguard their property from intruders.",
+          "zh": "他们安装了一个围栏，以保护他们的财产免受入侵者的侵害。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'carcinogen' as 'carcin' (cancer) + 'gen' (producing), meaning it produces cancer."
+        "association": "Think of 'safeguard' as 'safe guard', meaning to guard something safely."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=carcinogen&type=2",
-      "chapter": "核心词汇 环境保护 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=safeguard&type=2",
+      "chapter": "基本词汇 动词200 Unit 10"
     },
     {
-      "word": "animal behaviour",
-      "pronunciation": "/ˈænɪməl bɪˈheɪvjər/",
+      "word": "invisible",
+      "pronunciation": "/ɪnˈvɪz.ə.bəl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "动物行为",
-          "en": "The way animals act or respond to their environment."
+          "pos": "adj.",
+          "zh": "看不见的",
+          "en": "Not able to be seen; not visible."
         },
         {
-          "pos": "n.",
-          "zh": "动物行为学",
-          "en": "The scientific study of how animals behave."
+          "pos": "adj.",
+          "zh": "无形的",
+          "en": "Existing but not apparent; hidden from view."
         }
       ],
       "examples": [
         {
-          "en": "Understanding animal behaviour can help us protect endangered species.",
-          "zh": "理解动物行为可以帮助我们保护濒危物种。"
+          "en": "The stars are invisible during the day due to sunlight.",
+          "zh": "白天由于阳光，星星是看不见的。"
         },
         {
-          "en": "Researchers observe animal behaviour to learn about their social interactions.",
-          "zh": "研究人员观察动物行为以了解它们的社会互动。"
+          "en": "Many emotions are invisible but can be deeply felt.",
+          "zh": "许多情感是无形的，但能被深刻感受到。"
         }
       ],
       "memoryTips": {
-        "association": "Think of how animals behave in the wild, which helps link the word to its meaning."
+        "association": "Think of 'in' as 'not' and 'visible' as 'able to be seen', so invisible means not able to be seen."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=animal%20behaviour&type=2",
-      "chapter": "认知词汇 动物分类 动物行为"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=invisible&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 11"
     }
   ]
 }

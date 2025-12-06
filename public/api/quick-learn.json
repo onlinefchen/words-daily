@@ -1,68 +1,63 @@
 {
-  "generated": "2025-12-05T22:08:02.733Z",
+  "generated": "2025-12-06T22:07:31.679Z",
   "count": 2,
   "words": [
     {
-      "word": "skimming",
-      "pronunciation": "/ˈskɪm.ɪŋ/",
+      "word": "ungrateful",
+      "pronunciation": "/ʌnˈɡreɪt.fəl/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "略读",
-          "en": "To read quickly to get the main idea."
+          "pos": "adj.",
+          "zh": "忘恩负义的",
+          "en": "Not showing gratitude or appreciation for what someone has done."
+        }
+      ],
+      "examples": [
+        {
+          "en": "He was ungrateful for all the help he received from his friends.",
+          "zh": "他对朋友们给予的帮助毫不感激。"
+        },
+        {
+          "en": "Being ungrateful can harm your relationships with others.",
+          "zh": "忘恩负义可能会伤害你与他人的关系。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'ungrateful' as someone who forgets to thank a waiter after a meal. This can help you remember the lack of gratitude."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ungrateful&type=2",
+      "chapter": "核心词汇 工作与生活 Unit 5"
+    },
+    {
+      "word": "punishment",
+      "pronunciation": "/ˈpʌnɪʃmənt/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "惩罚",
+          "en": "A penalty given for doing something wrong."
         },
         {
           "pos": "n.",
-          "zh": "略读",
-          "en": "A reading technique to grasp essential information rapidly."
+          "zh": "刑罚",
+          "en": "A consequence imposed on someone as a result of their actions."
         }
       ],
       "examples": [
         {
-          "en": "Skimming the article helped me understand the main points quickly.",
-          "zh": "略读这篇文章让我快速理解了要点。"
+          "en": "The teacher decided on a punishment for the misbehaving students.",
+          "zh": "老师决定对不守规矩的学生施加惩罚。"
         },
         {
-          "en": "Students often use skimming to prepare for their exams efficiently.",
-          "zh": "学生们常常使用略读高效备考。"
+          "en": "Many believe that punishment should aim to correct behavior, not just to harm.",
+          "zh": "许多人认为惩罚应该旨在纠正行为，而不仅仅是造成伤害。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'skim' like a stone skimming over water, quickly touching the surface."
+        "association": "Think of 'punish' as a parent scolding a child, linking punishment to discipline."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=skimming&type=2",
-      "chapter": "认知词汇 教育分类 阅读技能"
-    },
-    {
-      "word": "competitive",
-      "pronunciation": "/kəmˈpɛtɪtɪv/",
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "竞争的",
-          "en": "Relating to a situation where people or companies try to be more successful than others."
-        },
-        {
-          "pos": "adj.",
-          "zh": "有竞争力的",
-          "en": "Able to compete successfully in a market or against others."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The job market is very competitive this year for recent graduates.",
-          "zh": "今年的就业市场对应届毕业生来说非常竞争激烈。"
-        },
-        {
-          "en": "To succeed, businesses must offer competitive prices and quality.",
-          "zh": "为了成功，企业必须提供有竞争力的价格和质量。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'compete' in 'competitive' to remember it's about rivalry."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=competitive&type=2",
-      "chapter": "核心词汇 工作与生活 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=punishment&type=2",
+      "chapter": "核心词汇 法制与犯罪 Unit 4"
     }
   ]
 }

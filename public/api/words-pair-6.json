@@ -1,67 +1,69 @@
 {
-  "generated": "2025-12-05T22:08:02.734Z",
+  "generated": "2025-12-06T22:07:31.680Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "terrestrial",
-      "pronunciation": "/tɛˈrɛs.tɪr.i.əl/",
+      "word": "stress",
+      "pronunciation": "/strɛs/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "陆地的",
-          "en": "Relating to the land or the earth."
+          "pos": "n.",
+          "zh": "压力",
+          "en": "A feeling of worry or tension caused by difficult situations."
         },
         {
-          "pos": "adj.",
-          "zh": "地球上的",
-          "en": "Existing or occurring on the planet Earth."
+          "pos": "v.",
+          "zh": "使紧张",
+          "en": "To make someone feel worried or anxious."
         }
       ],
       "examples": [
         {
-          "en": "Many terrestrial animals have adapted to life on land.",
-          "zh": "许多陆地动物已适应了陆地生活。"
+          "en": "She felt a lot of stress before her final exams.",
+          "zh": "她在期末考试前感到很大的压力。"
         },
         {
-          "en": "The study of terrestrial ecosystems is crucial for conservation.",
-          "zh": "研究陆地生态系统对保护工作至关重要。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=terrestrial&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
-    },
-    {
-      "word": "rigid",
-      "pronunciation": "/ˈrɪdʒɪd/",
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "僵硬的",
-          "en": "Not flexible; stiff and hard."
-        },
-        {
-          "pos": "adj.",
-          "zh": "严格的",
-          "en": "Strict and unable to change or adapt."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The rigid rules made it difficult for students to express themselves.",
-          "zh": "严格的规则使学生很难表达自己。"
-        },
-        {
-          "en": "His rigid posture suggested he was feeling tense and uncomfortable.",
-          "zh": "他僵硬的姿势表明他感到紧张和不适。"
+          "en": "He stressed the importance of regular exercise for health.",
+          "zh": "他强调了定期锻炼对健康的重要性。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a rigid object like a steel rod, which cannot bend."
+        "association": "Think of stress like a tight rubber band; it can stretch but too much tension will break it."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=rigid&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 16"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=stress&type=2",
+      "chapter": "核心词汇 健康话题 Unit 5"
+    },
+    {
+      "word": "eucalyptus",
+      "pronunciation": "/ˌjuː.kəˈlɪp.təs/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "桉树",
+          "en": "A type of tall tree known for its aromatic leaves and oil."
+        },
+        {
+          "pos": "n.",
+          "zh": "桉树油",
+          "en": "An oil extracted from eucalyptus leaves, used for medicinal purposes."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Eucalyptus trees are commonly found in Australia and other regions.",
+          "zh": "桉树通常在澳大利亚和其他地区被发现。"
+        },
+        {
+          "en": "The eucalyptus oil is often used in aromatherapy for its soothing effects.",
+          "zh": "桉树油常用于芳香疗法，因为它有舒缓的效果。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'eucalyptus' as 'eucalyptus leaves' which can remind you of the fresh smell often associated with forests."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=eucalyptus&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

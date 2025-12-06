@@ -1,70 +1,69 @@
 {
-  "generated": "2025-12-05T22:08:02.733Z",
+  "generated": "2025-12-06T22:07:31.679Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "venom",
-      "pronunciation": "/ˈvɛnəm/",
+      "word": "victim",
+      "pronunciation": "/ˈvɪk.tɪm/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "毒液",
-          "en": "A poisonous fluid produced by certain animals, like snakes."
+          "zh": "受害者",
+          "en": "A person who suffers harm or injury."
         },
         {
           "pos": "n.",
-          "zh": "恶毒",
-          "en": "The quality of being harmful or spiteful."
+          "zh": "牺牲品",
+          "en": "Someone who is tricked or deceived."
         }
       ],
       "examples": [
         {
-          "en": "The snake's venom can be deadly if not treated quickly.",
-          "zh": "如果不及时治疗，蛇的毒液可能会致命。"
+          "en": "The victim of the robbery was very shaken but unharmed.",
+          "zh": "抢劫的受害者非常震惊，但没有受伤。"
         },
         {
-          "en": "Her words were filled with venom, showing her deep anger.",
-          "zh": "她的话中充满了恶毒，显示出她的愤怒。"
+          "en": "He felt like a victim after being cheated in the game.",
+          "zh": "在游戏中被欺骗后，他感觉自己像个受害者。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'venom' as 'vengeful' liquid, something harmful."
+        "association": "Think of a 'victim' as someone who is 'victimized' by others."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=venom&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=victim&type=2",
+      "chapter": "核心词汇 法制与犯罪 Unit 5"
     },
     {
-      "word": "juvenile",
-      "pronunciation": "/ˈdʒuː.vɪ.nəl/",
+      "word": "civilisation",
+      "pronunciation": "/ˌsɪv.əl.ɪˈzeɪ.ʃən/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "青少年的",
-          "en": "Related to young people, typically under the age of 18."
+          "pos": "n.",
+          "zh": "文明",
+          "en": "A complex society with its own culture, government, and technology."
         },
         {
           "pos": "n.",
-          "zh": "青少年",
-          "en": "A young person, especially one who is not yet an adult."
+          "zh": "文明社会",
+          "en": "The stage of human social development that is considered advanced."
         }
       ],
       "examples": [
         {
-          "en": "The juvenile court focuses on cases involving young offenders.",
-          "zh": "青少年法庭专注于涉及年轻犯罪者的案件。"
+          "en": "Ancient Egypt is known for its remarkable achievements in civilization.",
+          "zh": "古埃及以其在文明方面的卓越成就而闻名。"
         },
         {
-          "en": "He volunteered to teach juvenile delinquents valuable life skills.",
-          "zh": "他自愿教导青少年罪犯宝贵的生活技能。"
+          "en": "The fall of the Roman Empire marked a significant change in European civilization.",
+          "zh": "罗马帝国的衰落标志着欧洲文明的重大变化。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'juvenile' as 'juvenile justice', which deals with young people.",
-        "mnemonic": "Juvenile sounds like 'juvenile' which can remind you of 'youthful' or 'young'."
+        "etymology": "The word 'civilization' comes from the Latin 'civilis' meaning 'relating to citizens'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=juvenile&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 6"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=civilisation&type=2",
+      "chapter": "认知词汇 历史分类 数字发展史"
     }
   ]
 }

@@ -1,67 +1,69 @@
 {
-  "generated": "2025-12-05T22:08:02.734Z",
+  "generated": "2025-12-06T22:07:31.680Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "artificial",
-      "pronunciation": "/ˌɑːr.tɪˈfɪʃ.əl/",
+      "word": "salmon population",
+      "pronunciation": "/ˈsælmən ˌpɒpjuˈleɪʃən/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "人工的",
-          "en": "Made by humans, not natural."
+          "pos": "n.",
+          "zh": "鲑鱼种群",
+          "en": "A group of salmon living in a specific area."
         },
         {
           "pos": "n.",
-          "zh": "人工物",
-          "en": "Something created by humans, like a product or material."
+          "zh": "鲑鱼数量",
+          "en": "The number of salmon in a certain region."
         }
       ],
       "examples": [
         {
-          "en": "Some people prefer artificial flowers because they last longer.",
-          "zh": "有些人更喜欢人工花，因为它们更耐用。"
+          "en": "The salmon population in the river has decreased significantly this year.",
+          "zh": "今年河流中的鲑鱼数量显著减少。"
         },
         {
-          "en": "The scientist developed an artificial intelligence to solve complex problems.",
-          "zh": "科学家开发了一种人工智能来解决复杂的问题。"
+          "en": "Researchers are studying the salmon population to understand its decline.",
+          "zh": "研究人员正在研究鲑鱼种群，以了解其减少的原因。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'artificial' as 'art' + 'ificial', like art created by people."
+        "association": "Think of 'salmon' as swimming fish and 'population' as a group of them in a specific habitat."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=artificial&type=2",
-      "chapter": "核心词汇 科技发展 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=salmon%20population&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "thrilling",
-      "pronunciation": "/ˈθrɪl.ɪŋ/",
+      "word": "evil",
+      "pronunciation": "/ˈiːvəl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "令人激动的",
-          "en": "Causing excitement or thrill; very exciting."
+          "zh": "邪恶的",
+          "en": "Something that is very bad or morally wrong."
         },
         {
-          "pos": "adj.",
-          "zh": "刺激的",
-          "en": "Causing strong feelings of excitement or pleasure."
+          "pos": "n.",
+          "zh": "邪恶",
+          "en": "The quality of being morally bad."
         }
       ],
       "examples": [
         {
-          "en": "The roller coaster ride was a thrilling experience for everyone.",
-          "zh": "过山车的体验对每个人来说都是刺激的。"
+          "en": "The evil villain plotted to take over the world.",
+          "zh": "那个邪恶的恶棍策划征服世界。"
         },
         {
-          "en": "She found the thriller novel absolutely thrilling from start to finish.",
-          "zh": "她发现这本惊悚小说从头到尾都非常刺激。"
+          "en": "Many stories depict the battle between good and evil.",
+          "zh": "许多故事描绘了善与恶之间的斗争。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=thrilling&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 18"
+      "memoryTips": {
+        "association": "Think of 'evil' as 'E-VIL' where 'VIL' sounds like 'villain', a character often associated with evil."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=evil&type=2",
+      "chapter": "基本词汇 名词200 Unit 4"
     }
   ]
 }

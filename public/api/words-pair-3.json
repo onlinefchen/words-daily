@@ -1,64 +1,69 @@
 {
-  "generated": "2025-12-05T22:08:02.733Z",
+  "generated": "2025-12-06T22:07:31.680Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "evil",
-      "pronunciation": "/ˈiːvəl/",
+      "word": "sedentary",
+      "pronunciation": "/ˈsɛd.ən.ter.i/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "邪恶的",
-          "en": "Morally very bad or wrong."
+          "zh": "久坐的",
+          "en": "Involving little physical activity; sitting most of the time."
         },
         {
-          "pos": "n.",
-          "zh": "邪恶",
-          "en": "The quality of being very bad or morally wrong."
+          "pos": "adj.",
+          "zh": "静态的",
+          "en": "Not moving or active; remaining in one place."
         }
       ],
       "examples": [
         {
-          "en": "The villain in the movie was portrayed as an evil character.",
-          "zh": "电影中的反派被描绘成一个邪恶的角色。"
+          "en": "A sedentary lifestyle can lead to various health problems.",
+          "zh": "久坐的生活方式可能导致各种健康问题。"
         },
         {
-          "en": "Some people believe that evil exists in the world.",
-          "zh": "有些人相信世界上存在邪恶。"
+          "en": "Many office workers have sedentary jobs that require long hours of sitting.",
+          "zh": "许多办公室工作人员的工作是久坐的，需要长时间坐着。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'evil' as 'e' for 'enemies' and 'vil' for 'villains'."
+        "association": "Think of 'sedentary' as related to 'sitting down' or 'settling in' for a long time."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=evil&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 8"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sedentary&type=2",
+      "chapter": "核心词汇 健康话题 Unit 5"
     },
     {
-      "word": "disease-carrying mosquito",
-      "pronunciation": "/dɪˈziːz ˈkær.i.ɪŋ mɒsˈkiː.toʊ/",
+      "word": "hygiene",
+      "pronunciation": "/ˈhaɪ.dʒin/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "传播疾病的蚊子",
-          "en": "A type of mosquito that can spread diseases to humans or animals."
+          "zh": "卫生",
+          "en": "The practice of keeping clean to prevent illness."
+        },
+        {
+          "pos": "n.",
+          "zh": "卫生条件",
+          "en": "Conditions that affect health and cleanliness."
         }
       ],
       "examples": [
         {
-          "en": "Disease-carrying mosquitoes are a major concern for public health.",
-          "zh": "传播疾病的蚊子是公共健康的主要问题。"
+          "en": "Good hygiene is essential for preventing the spread of infections.",
+          "zh": "良好的卫生习惯对预防感染至关重要。"
         },
         {
-          "en": "Efforts to control disease-carrying mosquitoes are essential in preventing outbreaks.",
-          "zh": "控制传播疾病的蚊子的努力对于预防疫情至关重要。"
+          "en": "Children should learn about personal hygiene from a young age.",
+          "zh": "儿童应该从小就学习个人卫生知识。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a mosquito as a tiny airplane carrying disease passengers."
+        "etymology": "The word 'hygiene' comes from the Greek word 'hygieinos', meaning 'health'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disease-carrying%20mosquito&type=2",
-      "chapter": "认知词汇 自然分类 全球变暖"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=hygiene&type=2",
+      "chapter": "核心词汇 健康话题 Unit 3"
     }
   ]
 }

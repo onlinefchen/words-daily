@@ -1,69 +1,67 @@
 {
-  "generated": "2025-12-05T22:08:02.734Z",
+  "generated": "2025-12-06T22:07:31.680Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "troublesome",
-      "pronunciation": "/ˈtrʌb.əl.səm/",
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "麻烦的",
-          "en": "Causing problems or difficulties."
-        },
-        {
-          "pos": "adj.",
-          "zh": "令人烦恼的",
-          "en": "Causing worry or distress."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The troublesome situation required immediate attention from the authorities.",
-          "zh": "这个麻烦的情况需要当局立即关注。"
-        },
-        {
-          "en": "She found the troublesome noise distracting while studying for her exams.",
-          "zh": "她发现学习时烦人的噪音让她分心。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'trouble' in 'troublesome' to remember it causes issues."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=troublesome&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 19"
-    },
-    {
-      "word": "flavour",
-      "pronunciation": "/ˈfleɪvər/",
+      "word": "overexploitation",
+      "pronunciation": "/ˌoʊvərɪkˈsplɔɪteɪʃən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "味道",
-          "en": "The particular taste or smell of something."
+          "zh": "过度开发",
+          "en": "The excessive use of resources that can lead to their depletion."
         },
         {
-          "pos": "v.",
-          "zh": "调味",
-          "en": "To add a certain taste to food or drink."
+          "pos": "n.",
+          "zh": "过度利用",
+          "en": "The unsustainable exploitation of natural resources."
         }
       ],
       "examples": [
         {
-          "en": "The flavour of the soup was rich and comforting.",
-          "zh": "汤的味道丰富而令人感到舒适。"
+          "en": "Overexploitation of fish stocks can lead to a severe ecological imbalance.",
+          "zh": "鱼类过度开发可能导致严重的生态失衡。"
         },
         {
-          "en": "She likes to flavour her dishes with fresh herbs.",
-          "zh": "她喜欢用新鲜香草为菜肴调味。"
+          "en": "The forest suffered from overexploitation, resulting in habitat loss for many species.",
+          "zh": "森林因过度开发而遭受破坏，导致许多物种失去栖息地。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'flavor' as 'flavoring' your experience with food, making it memorable."
+        "association": "Think of 'over' as 'too much' and 'exploitation' as 'using something up'. Together, it means using too much of something."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=flavour&type=2",
-      "chapter": "基本词汇 名词200 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=overexploitation&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
+    },
+    {
+      "word": "salmon stock",
+      "pronunciation": "/ˈsælmən stɑk/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "鲑鱼库存",
+          "en": "The amount of salmon available for fishing or sale."
+        },
+        {
+          "pos": "n.",
+          "zh": "鲑鱼资源",
+          "en": "A source of salmon that can be used for consumption or breeding."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The salmon stock in the river has decreased dramatically this year.",
+          "zh": "今年河里的鲑鱼库存急剧减少。"
+        },
+        {
+          "en": "Sustainable fishing practices are essential to maintain healthy salmon stocks.",
+          "zh": "可持续渔业实践对维持健康的鲑鱼资源至关重要。"
+        }
+      ],
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=salmon%20stock&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

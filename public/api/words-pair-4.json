@@ -1,64 +1,67 @@
 {
-  "generated": "2025-12-05T22:08:02.733Z",
+  "generated": "2025-12-06T22:07:31.680Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "advantaged",
-      "pronunciation": "/ədˈvæn.tɪdʒd/",
+      "word": "inheritance",
+      "pronunciation": "/ɪnˈhɛrɪtəns/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "有优势的",
-          "en": "Having more benefits or opportunities than others."
+          "pos": "n.",
+          "zh": "遗产",
+          "en": "The money or property received from someone after they die."
+        },
+        {
+          "pos": "n.",
+          "zh": "继承",
+          "en": "The act of receiving something from a predecessor."
         }
       ],
       "examples": [
         {
-          "en": "Students from advantaged backgrounds often access better education.",
-          "zh": "来自有优势背景的学生通常能获得更好的教育。"
+          "en": "She received a large inheritance after her grandmother passed away.",
+          "zh": "她在祖母去世后继承了一笔巨额遗产。"
         },
         {
-          "en": "The advantaged position of the company led to increased profits.",
-          "zh": "公司的有利地位导致了利润的增加。"
+          "en": "Inheritance can sometimes lead to family disputes over assets.",
+          "zh": "遗产有时会导致家庭在资产上的争执。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'advantage' which relates closely to 'advantaged', as they share similar meanings."
+        "etymology": "The word comes from the Latin 'inhaerentia', meaning 'to stick to' or 'to adhere'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=advantaged&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=inheritance&type=2",
+      "chapter": "认知词汇 动物分类 动物行为"
     },
     {
-      "word": "sensible",
-      "pronunciation": "/ˈsɛn.sə.bəl/",
+      "word": "Evolutionary Theory",
+      "pronunciation": "/ˌɛvəˈluːʃənəri ˈθɪəri/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "明智的",
-          "en": "Having good judgment and making wise decisions."
+          "pos": "n.",
+          "zh": "进化论",
+          "en": "A scientific explanation of how living things change over time."
         },
         {
-          "pos": "adj.",
-          "zh": "合理的",
-          "en": "Practical and reasonable, not extreme or foolish."
+          "pos": "n.",
+          "zh": "演变理论",
+          "en": "The idea that species develop through gradual changes."
         }
       ],
       "examples": [
         {
-          "en": "It is sensible to save money for emergencies.",
-          "zh": "为紧急情况存钱是明智的。"
+          "en": "The evolutionary theory explains the diversity of life on Earth.",
+          "zh": "进化论解释了地球上生命的多样性。"
         },
         {
-          "en": "She made a sensible choice by studying hard for the exam.",
-          "zh": "她通过努力学习来为考试做出明智的选择。"
+          "en": "Many scientists support the evolutionary theory as a key concept in biology.",
+          "zh": "许多科学家支持进化论，认为这是生物学的一个关键概念。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'sensible' as being 'sensitive' to good decisions."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sensible&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 17"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=Evolutionary%20Theory&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

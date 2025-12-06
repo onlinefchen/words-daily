@@ -1,64 +1,70 @@
 {
-  "generated": "2025-12-05T22:08:02.734Z",
+  "generated": "2025-12-06T22:07:31.680Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "cylinder",
-      "pronunciation": "/ˈsɪl.ɪn.dɚ/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "圆柱",
-          "en": "A cylinder is a solid shape with two circular ends and straight sides."
-        },
-        {
-          "pos": "n.",
-          "zh": "气缸",
-          "en": "A cylinder can also refer to a part of an engine that holds fuel and air."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The artist created a sculpture in the shape of a large cylinder.",
-          "zh": "艺术家创作了一座大型圆柱形的雕塑。"
-        },
-        {
-          "en": "In the car engine, the cylinder helps to power the vehicle.",
-          "zh": "在汽车发动机中，气缸有助于为车辆提供动力。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of a soda can, which is a common cylinder shape."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cylinder&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
-    },
-    {
-      "word": "tiresome",
-      "pronunciation": "/ˈtaɪərsəm/",
+      "word": "physical",
+      "pronunciation": "/ˈfɪz.ɪ.kəl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "令人疲倦的",
-          "en": "Causing fatigue or boredom; not interesting."
+          "zh": "身体的",
+          "en": "Relating to the body or material things."
+        },
+        {
+          "pos": "adj.",
+          "zh": "物理的",
+          "en": "Relating to the laws of nature and how things behave."
         }
       ],
       "examples": [
         {
-          "en": "The long meeting was tiresome and left everyone feeling exhausted.",
-          "zh": "漫长的会议令人疲倦，让每个人都感到精疲力竭。"
+          "en": "Regular physical exercise is essential for maintaining good health.",
+          "zh": "定期的身体锻炼对保持良好的健康至关重要。"
         },
         {
-          "en": "Her constant complaining became tiresome after a while.",
-          "zh": "她的不断抱怨过了一段时间后变得令人厌烦。"
+          "en": "The physical properties of water are crucial in science.",
+          "zh": "水的物理特性在科学中至关重要。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a tire that is worn out and gets stuck, causing delays and frustration."
+        "association": "Think of 'physical' as relating to the 'physical' body, like exercising or feeling.",
+        "mnemonic": "Physical sounds like 'fix a call' - think of fixing your body through exercise."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=tiresome&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 19"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=physical&type=2",
+      "chapter": "核心词汇 法制与犯罪 Unit 4"
+    },
+    {
+      "word": "poverty",
+      "pronunciation": "/ˈpɑːvərti/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "贫困",
+          "en": "The state of having little or no money and few resources."
+        },
+        {
+          "pos": "n.",
+          "zh": "贫穷",
+          "en": "A condition where people lack basic needs for a decent life."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many families live in poverty, struggling to meet their daily needs.",
+          "zh": "许多家庭生活在贫困中，努力满足他们的日常需求。"
+        },
+        {
+          "en": "Poverty can lead to various social and health issues in communities.",
+          "zh": "贫困可能导致社区中的各种社会和健康问题。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'poverty' as 'poor' + 'city', where many people struggle."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=poverty&type=2",
+      "chapter": "核心词汇 法制与犯罪 Unit 4"
     }
   ]
 }
