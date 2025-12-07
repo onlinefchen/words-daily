@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-06T22:07:31.680Z",
+  "generated": "2025-12-07T22:07:38.738Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "salmon population",
-      "pronunciation": "/ˈsælmən ˌpɒpjuˈleɪʃən/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "鲑鱼种群",
-          "en": "A group of salmon living in a specific area."
-        },
-        {
-          "pos": "n.",
-          "zh": "鲑鱼数量",
-          "en": "The number of salmon in a certain region."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The salmon population in the river has decreased significantly this year.",
-          "zh": "今年河流中的鲑鱼数量显著减少。"
-        },
-        {
-          "en": "Researchers are studying the salmon population to understand its decline.",
-          "zh": "研究人员正在研究鲑鱼种群，以了解其减少的原因。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'salmon' as swimming fish and 'population' as a group of them in a specific habitat."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=salmon%20population&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
-    },
-    {
-      "word": "evil",
-      "pronunciation": "/ˈiːvəl/",
+      "word": "original",
+      "pronunciation": "/əˈrɪdʒ.ɪ.nəl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "邪恶的",
-          "en": "Something that is very bad or morally wrong."
+          "zh": "原创的",
+          "en": "Something that is new and not copied from anything else."
         },
         {
           "pos": "n.",
-          "zh": "邪恶",
-          "en": "The quality of being morally bad."
+          "zh": "原作",
+          "en": "The first version of something from which copies are made."
         }
       ],
       "examples": [
         {
-          "en": "The evil villain plotted to take over the world.",
-          "zh": "那个邪恶的恶棍策划征服世界。"
+          "en": "The artist presented her original painting at the gallery.",
+          "zh": "这位艺术家在画廊展示了她的原创画作。"
         },
         {
-          "en": "Many stories depict the battle between good and evil.",
-          "zh": "许多故事描绘了善与恶之间的斗争。"
+          "en": "His original ideas inspired many people in the community.",
+          "zh": "他原创的想法激励了社区中的许多人。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'evil' as 'E-VIL' where 'VIL' sounds like 'villain', a character often associated with evil."
+        "etymology": "The word 'original' comes from the Latin 'originalis', meaning 'belonging to the beginning'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=evil&type=2",
-      "chapter": "基本词汇 名词200 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=original&type=2",
+      "chapter": "核心词汇 文化与传统 Unit 4"
+    },
+    {
+      "word": "recognisable",
+      "pronunciation": "/ˈrɛkəɡˌnaɪzəbl/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "可识别的",
+          "en": "Able to be recognized or identified."
+        },
+        {
+          "pos": "adj.",
+          "zh": "公认的",
+          "en": "Known or accepted by many people."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The logo is easily recognisable from a distance.",
+          "zh": "这个标志从远处很容易被识别。"
+        },
+        {
+          "en": "Her style is unique but still recognisable.",
+          "zh": "她的风格很独特，但仍然可以识别。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'recognise' as 're-cognise', meaning to know again. This helps remember that something recognisable is known or identified."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=recognisable&type=2",
+      "chapter": "认知词汇 动物分类 动物智力与语言习得"
     }
   ]
 }

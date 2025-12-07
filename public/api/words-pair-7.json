@@ -1,70 +1,69 @@
 {
-  "generated": "2025-12-06T22:07:31.680Z",
+  "generated": "2025-12-07T22:07:38.738Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "physical",
-      "pronunciation": "/ˈfɪz.ɪ.kəl/",
+      "word": "deserve",
+      "pronunciation": "/dɪˈzɜrv/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "身体的",
-          "en": "Relating to the body or material things."
+          "pos": "v.",
+          "zh": "应得",
+          "en": "to have earned something because of your actions or qualities."
         },
         {
-          "pos": "adj.",
-          "zh": "物理的",
-          "en": "Relating to the laws of nature and how things behave."
+          "pos": "v.",
+          "zh": "值得",
+          "en": "to be worthy of something, such as praise or reward."
         }
       ],
       "examples": [
         {
-          "en": "Regular physical exercise is essential for maintaining good health.",
-          "zh": "定期的身体锻炼对保持良好的健康至关重要。"
+          "en": "She deserves recognition for her hard work and dedication.",
+          "zh": "她因辛勤工作和奉献精神而值得被认可。"
         },
         {
-          "en": "The physical properties of water are crucial in science.",
-          "zh": "水的物理特性在科学中至关重要。"
+          "en": "After all his efforts, he truly deserves a break.",
+          "zh": "经过他所有的努力，他确实值得休息一下。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'physical' as relating to the 'physical' body, like exercising or feeling.",
-        "mnemonic": "Physical sounds like 'fix a call' - think of fixing your body through exercise."
+        "association": "Think of 'deserve' as 'de-serve', meaning you have served well enough to earn something."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=physical&type=2",
-      "chapter": "核心词汇 法制与犯罪 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=deserve&type=2",
+      "chapter": "基本词汇 动词200 Unit 5"
     },
     {
-      "word": "poverty",
-      "pronunciation": "/ˈpɑːvərti/",
+      "word": "internal compass",
+      "pronunciation": "/ɪnˈtɜrnəl ˈkɒmpəs/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "贫困",
-          "en": "The state of having little or no money and few resources."
+          "zh": "内心的指南",
+          "en": "An inner sense that guides one's actions and decisions."
         },
         {
           "pos": "n.",
-          "zh": "贫穷",
-          "en": "A condition where people lack basic needs for a decent life."
+          "zh": "道德方向感",
+          "en": "A personal sense of right and wrong that influences choices."
         }
       ],
       "examples": [
         {
-          "en": "Many families live in poverty, struggling to meet their daily needs.",
-          "zh": "许多家庭生活在贫困中，努力满足他们的日常需求。"
+          "en": "Listening to your internal compass can lead to better decisions.",
+          "zh": "倾听内心的指南可以带来更好的决策。"
         },
         {
-          "en": "Poverty can lead to various social and health issues in communities.",
-          "zh": "贫困可能导致社区中的各种社会和健康问题。"
+          "en": "Trusting your internal compass helps navigate through life's challenges.",
+          "zh": "相信自己的内心指南有助于应对生活的挑战。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'poverty' as 'poor' + 'city', where many people struggle."
+        "association": "Think of your internal compass as a GPS for your values and instincts."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=poverty&type=2",
-      "chapter": "核心词汇 法制与犯罪 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=internal%20compass&type=2",
+      "chapter": "认知词汇 动物分类 动物智力与语言习得"
     }
   ]
 }

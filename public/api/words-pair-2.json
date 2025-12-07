@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-06T22:07:31.679Z",
+  "generated": "2025-12-07T22:07:38.737Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "victim",
-      "pronunciation": "/ˈvɪk.tɪm/",
+      "word": "pragmatic",
+      "pronunciation": "/præɡˈmætɪk/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "受害者",
-          "en": "A person who suffers harm or injury."
+          "pos": "adj.",
+          "zh": "务实的",
+          "en": "Dealing with things sensibly and realistically."
         },
         {
-          "pos": "n.",
-          "zh": "牺牲品",
-          "en": "Someone who is tricked or deceived."
+          "pos": "adj.",
+          "zh": "实用的",
+          "en": "Focused on practical results rather than theories."
         }
       ],
       "examples": [
         {
-          "en": "The victim of the robbery was very shaken but unharmed.",
-          "zh": "抢劫的受害者非常震惊，但没有受伤。"
+          "en": "The manager took a pragmatic approach to solve the issue quickly.",
+          "zh": "经理采取了务实的方法迅速解决问题。"
         },
         {
-          "en": "He felt like a victim after being cheated in the game.",
-          "zh": "在游戏中被欺骗后，他感觉自己像个受害者。"
+          "en": "Her pragmatic attitude helped the team meet their deadlines.",
+          "zh": "她务实的态度帮助团队按时完成任务。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'victim' as someone who is 'victimized' by others."
+        "association": "Think of 'pragmatic' as being 'practical'—both start with 'prag-' and relate to real-world solutions."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=victim&type=2",
-      "chapter": "核心词汇 法制与犯罪 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pragmatic&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 14"
     },
     {
-      "word": "civilisation",
-      "pronunciation": "/ˌsɪv.əl.ɪˈzeɪ.ʃən/",
+      "word": "block",
+      "pronunciation": "/blɑk/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "文明",
-          "en": "A complex society with its own culture, government, and technology."
+          "zh": "块；障碍",
+          "en": "A solid piece of material with flat surfaces."
         },
         {
-          "pos": "n.",
-          "zh": "文明社会",
-          "en": "The stage of human social development that is considered advanced."
+          "pos": "v.",
+          "zh": "阻止；封锁",
+          "en": "To prevent movement or progress."
         }
       ],
       "examples": [
         {
-          "en": "Ancient Egypt is known for its remarkable achievements in civilization.",
-          "zh": "古埃及以其在文明方面的卓越成就而闻名。"
+          "en": "He used a block of wood to hold the door open.",
+          "zh": "他用一块木头把门撑开。"
         },
         {
-          "en": "The fall of the Roman Empire marked a significant change in European civilization.",
-          "zh": "罗马帝国的衰落标志着欧洲文明的重大变化。"
+          "en": "They need to block the road for maintenance work.",
+          "zh": "他们需要封锁道路进行维修工作。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'civilization' comes from the Latin 'civilis' meaning 'relating to citizens'."
+        "association": "Think of a 'block' as something that stops or holds back, like a block in a game."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=civilisation&type=2",
-      "chapter": "认知词汇 历史分类 数字发展史"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=block&type=2",
+      "chapter": "基本词汇 动词200 Unit 3"
     }
   ]
 }

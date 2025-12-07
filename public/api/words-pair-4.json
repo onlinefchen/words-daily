@@ -1,67 +1,70 @@
 {
-  "generated": "2025-12-06T22:07:31.680Z",
+  "generated": "2025-12-07T22:07:38.738Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "inheritance",
-      "pronunciation": "/ɪnˈhɛrɪtəns/",
+      "word": "slander",
+      "pronunciation": "/ˈslændər/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "遗产",
-          "en": "The money or property received from someone after they die."
+          "zh": "诽谤",
+          "en": "A false spoken statement that damages someone’s reputation."
         },
         {
-          "pos": "n.",
-          "zh": "继承",
-          "en": "The act of receiving something from a predecessor."
+          "pos": "v.",
+          "zh": "诽谤",
+          "en": "To make false spoken statements about someone that harm their reputation."
         }
       ],
       "examples": [
         {
-          "en": "She received a large inheritance after her grandmother passed away.",
-          "zh": "她在祖母去世后继承了一笔巨额遗产。"
+          "en": "The article was accused of slander against the politician.",
+          "zh": "这篇文章被指控对这位政治家进行诽谤。"
         },
         {
-          "en": "Inheritance can sometimes lead to family disputes over assets.",
-          "zh": "遗产有时会导致家庭在资产上的争执。"
+          "en": "He decided to sue her for slander after the false claims.",
+          "zh": "在这些虚假的指控之后，他决定起诉她诽谤。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word comes from the Latin 'inhaerentia', meaning 'to stick to' or 'to adhere'."
+        "association": "Think of 'slander' as 'slandering' someone's name, which is damaging."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=inheritance&type=2",
-      "chapter": "认知词汇 动物分类 动物行为"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=slander&type=2",
+      "chapter": "核心词汇 伦理与道德 Unit 5"
     },
     {
-      "word": "Evolutionary Theory",
-      "pronunciation": "/ˌɛvəˈluːʃənəri ˈθɪəri/",
+      "word": "establish",
+      "pronunciation": "/ɪˈstæblɪʃ/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "进化论",
-          "en": "A scientific explanation of how living things change over time."
+          "pos": "v.",
+          "zh": "建立",
+          "en": "To set up or create something on a firm basis."
         },
         {
-          "pos": "n.",
-          "zh": "演变理论",
-          "en": "The idea that species develop through gradual changes."
+          "pos": "v.",
+          "zh": "确定",
+          "en": "To show or prove something to be true or valid."
         }
       ],
       "examples": [
         {
-          "en": "The evolutionary theory explains the diversity of life on Earth.",
-          "zh": "进化论解释了地球上生命的多样性。"
+          "en": "The company plans to establish a new branch in the city.",
+          "zh": "公司计划在该市建立一个新分支。"
         },
         {
-          "en": "Many scientists support the evolutionary theory as a key concept in biology.",
-          "zh": "许多科学家支持进化论，认为这是生物学的一个关键概念。"
+          "en": "Scientists aim to establish a link between diet and health.",
+          "zh": "科学家旨在确定饮食与健康之间的联系。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=Evolutionary%20Theory&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "memoryTips": {
+        "etymology": "The word 'establish' comes from the Latin 'stabilire', meaning 'to make firm or stable'.",
+        "association": "Think of 'establish' as 'setting the stage' for something important."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=establish&type=2",
+      "chapter": "基本词汇 动词200 Unit 7"
     }
   ]
 }

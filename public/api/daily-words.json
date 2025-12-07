@@ -1,757 +1,759 @@
 {
-  "generated": "2025-12-06T22:07:31.678Z",
-  "date": "2025-12-06",
+  "generated": "2025-12-07T22:07:38.736Z",
+  "date": "2025-12-07",
   "totalWords": 20,
   "words": [
     {
-      "id": "w01690",
-      "word": "ungrateful",
+      "id": "w04148",
+      "word": "nugget",
       "type": "single",
-      "chapterIndex": 10,
-      "globalIndex": 1690,
-      "chapter": "ch085",
-      "chapterName": "核心词汇 工作与生活 Unit 5",
+      "chapterIndex": 24,
+      "globalIndex": 4148,
+      "chapter": "ch131",
+      "chapterName": "认知词汇 历史分类 淘金史",
       "pronunciation": {
-        "us": "/ʌnˈɡreɪt.fəl/"
+        "us": "/ˈnʌɡɪt/"
       },
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "忘恩负义的",
-          "en": "Not showing gratitude or appreciation for what someone has done."
+          "pos": "n.",
+          "zh": "小块食物",
+          "en": "A small piece of something, often food."
+        },
+        {
+          "pos": "n.",
+          "zh": "有价值的信息或想法",
+          "en": "A valuable piece of information or insight."
         }
       ],
       "examples": [
         {
-          "en": "He was ungrateful for all the help he received from his friends.",
-          "zh": "他对朋友们给予的帮助毫不感激。"
+          "en": "She found a gold nugget while panning for treasure.",
+          "zh": "她在淘金时发现了一块金块。"
         },
         {
-          "en": "Being ungrateful can harm your relationships with others.",
-          "zh": "忘恩负义可能会伤害你与他人的关系。"
+          "en": "The report contained several nuggets of useful advice.",
+          "zh": "该报告包含几条有用的建议。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'ungrateful' as someone who forgets to thank a waiter after a meal. This can help you remember the lack of gratitude."
+        "association": "Think of a 'nugget' as a small, precious thing, like a gold nugget."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ungrateful&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=nugget&type=2"
     },
     {
-      "id": "w01772",
-      "word": "punishment",
-      "type": "single",
-      "chapterIndex": 12,
-      "globalIndex": 1772,
-      "chapter": "ch089",
-      "chapterName": "核心词汇 法制与犯罪 Unit 4",
-      "pronunciation": {
-        "us": "/ˈpʌnɪʃmənt/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "惩罚",
-          "en": "A penalty given for doing something wrong."
-        },
-        {
-          "pos": "n.",
-          "zh": "刑罚",
-          "en": "A consequence imposed on someone as a result of their actions."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The teacher decided on a punishment for the misbehaving students.",
-          "zh": "老师决定对不守规矩的学生施加惩罚。"
-        },
-        {
-          "en": "Many believe that punishment should aim to correct behavior, not just to harm.",
-          "zh": "许多人认为惩罚应该旨在纠正行为，而不仅仅是造成伤害。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'punish' as a parent scolding a child, linking punishment to discipline."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=punishment&type=2"
-    },
-    {
-      "id": "w01797",
-      "word": "victim",
-      "type": "single",
-      "chapterIndex": 17,
-      "globalIndex": 1797,
-      "chapter": "ch090",
-      "chapterName": "核心词汇 法制与犯罪 Unit 5",
-      "pronunciation": {
-        "us": "/ˈvɪk.tɪm/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "受害者",
-          "en": "A person who suffers harm or injury."
-        },
-        {
-          "pos": "n.",
-          "zh": "牺牲品",
-          "en": "Someone who is tricked or deceived."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The victim of the robbery was very shaken but unharmed.",
-          "zh": "抢劫的受害者非常震惊，但没有受伤。"
-        },
-        {
-          "en": "He felt like a victim after being cheated in the game.",
-          "zh": "在游戏中被欺骗后，他感觉自己像个受害者。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of a 'victim' as someone who is 'victimized' by others."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=victim&type=2"
-    },
-    {
-      "id": "w04053",
-      "word": "civilisation",
-      "type": "single",
-      "chapterIndex": 14,
-      "globalIndex": 4053,
-      "chapter": "ch129",
-      "chapterName": "认知词汇 历史分类 数字发展史",
-      "pronunciation": {
-        "us": "/ˌsɪv.əl.ɪˈzeɪ.ʃən/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "文明",
-          "en": "A complex society with its own culture, government, and technology."
-        },
-        {
-          "pos": "n.",
-          "zh": "文明社会",
-          "en": "The stage of human social development that is considered advanced."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Ancient Egypt is known for its remarkable achievements in civilization.",
-          "zh": "古埃及以其在文明方面的卓越成就而闻名。"
-        },
-        {
-          "en": "The fall of the Roman Empire marked a significant change in European civilization.",
-          "zh": "罗马帝国的衰落标志着欧洲文明的重大变化。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'civilization' comes from the Latin 'civilis' meaning 'relating to citizens'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=civilisation&type=2"
-    },
-    {
-      "id": "w01884",
-      "word": "sedentary",
-      "type": "single",
-      "chapterIndex": 4,
-      "globalIndex": 1884,
-      "chapter": "ch095",
-      "chapterName": "核心词汇 健康话题 Unit 5",
-      "pronunciation": {
-        "us": "/ˈsɛd.ən.ter.i/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "久坐的",
-          "en": "Involving little physical activity; sitting most of the time."
-        },
-        {
-          "pos": "adj.",
-          "zh": "静态的",
-          "en": "Not moving or active; remaining in one place."
-        }
-      ],
-      "examples": [
-        {
-          "en": "A sedentary lifestyle can lead to various health problems.",
-          "zh": "久坐的生活方式可能导致各种健康问题。"
-        },
-        {
-          "en": "Many office workers have sedentary jobs that require long hours of sitting.",
-          "zh": "许多办公室工作人员的工作是久坐的，需要长时间坐着。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'sedentary' as related to 'sitting down' or 'settling in' for a long time."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sedentary&type=2"
-    },
-    {
-      "id": "w01852",
-      "word": "hygiene",
-      "type": "single",
-      "chapterIndex": 12,
-      "globalIndex": 1852,
-      "chapter": "ch093",
-      "chapterName": "核心词汇 健康话题 Unit 3",
-      "pronunciation": {
-        "us": "/ˈhaɪ.dʒin/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "卫生",
-          "en": "The practice of keeping clean to prevent illness."
-        },
-        {
-          "pos": "n.",
-          "zh": "卫生条件",
-          "en": "Conditions that affect health and cleanliness."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Good hygiene is essential for preventing the spread of infections.",
-          "zh": "良好的卫生习惯对预防感染至关重要。"
-        },
-        {
-          "en": "Children should learn about personal hygiene from a young age.",
-          "zh": "儿童应该从小就学习个人卫生知识。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'hygiene' comes from the Greek word 'hygieinos', meaning 'health'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=hygiene&type=2"
-    },
-    {
-      "id": "w02368",
-      "word": "inheritance",
-      "type": "single",
-      "chapterIndex": 10,
-      "globalIndex": 2368,
-      "chapter": "ch099",
-      "chapterName": "认知词汇 动物分类 动物行为",
-      "pronunciation": {
-        "us": "/ɪnˈhɛrɪtəns/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "遗产",
-          "en": "The money or property received from someone after they die."
-        },
-        {
-          "pos": "n.",
-          "zh": "继承",
-          "en": "The act of receiving something from a predecessor."
-        }
-      ],
-      "examples": [
-        {
-          "en": "She received a large inheritance after her grandmother passed away.",
-          "zh": "她在祖母去世后继承了一笔巨额遗产。"
-        },
-        {
-          "en": "Inheritance can sometimes lead to family disputes over assets.",
-          "zh": "遗产有时会导致家庭在资产上的争执。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word comes from the Latin 'inhaerentia', meaning 'to stick to' or 'to adhere'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=inheritance&type=2"
-    },
-    {
-      "id": "w02173",
-      "word": "Evolutionary Theory",
-      "type": "phrase",
-      "chapterIndex": 273,
-      "globalIndex": 2173,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/ˌɛvəˈluːʃənəri ˈθɪəri/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "进化论",
-          "en": "A scientific explanation of how living things change over time."
-        },
-        {
-          "pos": "n.",
-          "zh": "演变理论",
-          "en": "The idea that species develop through gradual changes."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The evolutionary theory explains the diversity of life on Earth.",
-          "zh": "进化论解释了地球上生命的多样性。"
-        },
-        {
-          "en": "Many scientists support the evolutionary theory as a key concept in biology.",
-          "zh": "许多科学家支持进化论，认为这是生物学的一个关键概念。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=Evolutionary%20Theory&type=2"
-    },
-    {
-      "id": "w02088",
-      "word": "overexploitation",
-      "type": "single",
-      "chapterIndex": 188,
-      "globalIndex": 2088,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/ˌoʊvərɪkˈsplɔɪteɪʃən/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "过度开发",
-          "en": "The excessive use of resources that can lead to their depletion."
-        },
-        {
-          "pos": "n.",
-          "zh": "过度利用",
-          "en": "The unsustainable exploitation of natural resources."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Overexploitation of fish stocks can lead to a severe ecological imbalance.",
-          "zh": "鱼类过度开发可能导致严重的生态失衡。"
-        },
-        {
-          "en": "The forest suffered from overexploitation, resulting in habitat loss for many species.",
-          "zh": "森林因过度开发而遭受破坏，导致许多物种失去栖息地。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'over' as 'too much' and 'exploitation' as 'using something up'. Together, it means using too much of something."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=overexploitation&type=2"
-    },
-    {
-      "id": "w02020",
-      "word": "salmon stock",
-      "type": "phrase",
-      "chapterIndex": 120,
-      "globalIndex": 2020,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/ˈsælmən stɑk/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "鲑鱼库存",
-          "en": "The amount of salmon available for fishing or sale."
-        },
-        {
-          "pos": "n.",
-          "zh": "鲑鱼资源",
-          "en": "A source of salmon that can be used for consumption or breeding."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The salmon stock in the river has decreased dramatically this year.",
-          "zh": "今年河里的鲑鱼库存急剧减少。"
-        },
-        {
-          "en": "Sustainable fishing practices are essential to maintain healthy salmon stocks.",
-          "zh": "可持续渔业实践对维持健康的鲑鱼资源至关重要。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=salmon%20stock&type=2"
-    },
-    {
-      "id": "w01890",
-      "word": "stress",
-      "type": "single",
-      "chapterIndex": 10,
-      "globalIndex": 1890,
-      "chapter": "ch095",
-      "chapterName": "核心词汇 健康话题 Unit 5",
-      "pronunciation": {
-        "us": "/strɛs/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "压力",
-          "en": "A feeling of worry or tension caused by difficult situations."
-        },
-        {
-          "pos": "v.",
-          "zh": "使紧张",
-          "en": "To make someone feel worried or anxious."
-        }
-      ],
-      "examples": [
-        {
-          "en": "She felt a lot of stress before her final exams.",
-          "zh": "她在期末考试前感到很大的压力。"
-        },
-        {
-          "en": "He stressed the importance of regular exercise for health.",
-          "zh": "他强调了定期锻炼对健康的重要性。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of stress like a tight rubber band; it can stretch but too much tension will break it."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=stress&type=2"
-    },
-    {
-      "id": "w01915",
-      "word": "eucalyptus",
-      "type": "single",
-      "chapterIndex": 15,
-      "globalIndex": 1915,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/ˌjuː.kəˈlɪp.təs/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "桉树",
-          "en": "A type of tall tree known for its aromatic leaves and oil."
-        },
-        {
-          "pos": "n.",
-          "zh": "桉树油",
-          "en": "An oil extracted from eucalyptus leaves, used for medicinal purposes."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Eucalyptus trees are commonly found in Australia and other regions.",
-          "zh": "桉树通常在澳大利亚和其他地区被发现。"
-        },
-        {
-          "en": "The eucalyptus oil is often used in aromatherapy for its soothing effects.",
-          "zh": "桉树油常用于芳香疗法，因为它有舒缓的效果。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'eucalyptus' as 'eucalyptus leaves' which can remind you of the fresh smell often associated with forests."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=eucalyptus&type=2"
-    },
-    {
-      "id": "w01762",
-      "word": "physical",
+      "id": "w00302",
+      "word": "lack",
       "type": "single",
       "chapterIndex": 2,
-      "globalIndex": 1762,
-      "chapter": "ch089",
-      "chapterName": "核心词汇 法制与犯罪 Unit 4",
+      "globalIndex": 302,
+      "chapter": "ch016",
+      "chapterName": "基本词汇 名词200 Unit 6",
       "pronunciation": {
-        "us": "/ˈfɪz.ɪ.kəl/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "身体的",
-          "en": "Relating to the body or material things."
-        },
-        {
-          "pos": "adj.",
-          "zh": "物理的",
-          "en": "Relating to the laws of nature and how things behave."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Regular physical exercise is essential for maintaining good health.",
-          "zh": "定期的身体锻炼对保持良好的健康至关重要。"
-        },
-        {
-          "en": "The physical properties of water are crucial in science.",
-          "zh": "水的物理特性在科学中至关重要。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'physical' as relating to the 'physical' body, like exercising or feeling.",
-        "mnemonic": "Physical sounds like 'fix a call' - think of fixing your body through exercise."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=physical&type=2"
-    },
-    {
-      "id": "w01765",
-      "word": "poverty",
-      "type": "single",
-      "chapterIndex": 5,
-      "globalIndex": 1765,
-      "chapter": "ch089",
-      "chapterName": "核心词汇 法制与犯罪 Unit 4",
-      "pronunciation": {
-        "us": "/ˈpɑːvərti/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "贫困",
-          "en": "The state of having little or no money and few resources."
-        },
-        {
-          "pos": "n.",
-          "zh": "贫穷",
-          "en": "A condition where people lack basic needs for a decent life."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Many families live in poverty, struggling to meet their daily needs.",
-          "zh": "许多家庭生活在贫困中，努力满足他们的日常需求。"
-        },
-        {
-          "en": "Poverty can lead to various social and health issues in communities.",
-          "zh": "贫困可能导致社区中的各种社会和健康问题。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'poverty' as 'poor' + 'city', where many people struggle."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=poverty&type=2"
-    },
-    {
-      "id": "w00189",
-      "word": "safeguard",
-      "type": "single",
-      "chapterIndex": 9,
-      "globalIndex": 189,
-      "chapter": "ch010",
-      "chapterName": "基本词汇 动词200 Unit 10",
-      "pronunciation": {
-        "us": "/ˈseɪfɡɑrd/"
+        "us": "/læk/"
       },
       "meanings": [
         {
           "pos": "v.",
-          "zh": "保护",
-          "en": "To protect something from harm or damage."
+          "zh": "缺乏",
+          "en": "To not have enough of something."
         },
         {
           "pos": "n.",
-          "zh": "保护措施",
-          "en": "A measure taken to protect someone or something."
+          "zh": "缺乏",
+          "en": "The state of not having enough of something."
         }
       ],
       "examples": [
         {
-          "en": "The new law is designed to safeguard the environment for future generations.",
-          "zh": "这项新法律旨在保护环境，以便为未来的世代着想。"
+          "en": "Many children suffer from a lack of proper nutrition.",
+          "zh": "许多孩子缺乏适当的营养。"
         },
         {
-          "en": "They installed a fence to safeguard their property from intruders.",
-          "zh": "他们安装了一个围栏，以保护他们的财产免受入侵者的侵害。"
+          "en": "The project failed due to a lack of funding and support.",
+          "zh": "该项目由于缺乏资金和支持而失败。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'safeguard' as 'safe guard', meaning to guard something safely."
+        "association": "Think of 'lack' as 'lacking' something important in your life."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=safeguard&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=lack&type=2"
     },
     {
-      "id": "w00609",
-      "word": "invisible",
+      "id": "w00679",
+      "word": "pragmatic",
       "type": "single",
-      "chapterIndex": 9,
-      "globalIndex": 609,
-      "chapter": "ch031",
-      "chapterName": "基本词汇 形容词和副词400 Unit 11",
+      "chapterIndex": 19,
+      "globalIndex": 679,
+      "chapter": "ch034",
+      "chapterName": "基本词汇 形容词和副词400 Unit 14",
       "pronunciation": {
-        "us": "/ɪnˈvɪz.ə.bəl/"
+        "us": "/præɡˈmætɪk/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "看不见的",
-          "en": "Not able to be seen; not visible."
+          "zh": "务实的",
+          "en": "Dealing with things sensibly and realistically."
         },
         {
           "pos": "adj.",
-          "zh": "无形的",
-          "en": "Existing but not apparent; hidden from view."
+          "zh": "实用的",
+          "en": "Focused on practical results rather than theories."
         }
       ],
       "examples": [
         {
-          "en": "The stars are invisible during the day due to sunlight.",
-          "zh": "白天由于阳光，星星是看不见的。"
+          "en": "The manager took a pragmatic approach to solve the issue quickly.",
+          "zh": "经理采取了务实的方法迅速解决问题。"
         },
         {
-          "en": "Many emotions are invisible but can be deeply felt.",
-          "zh": "许多情感是无形的，但能被深刻感受到。"
+          "en": "Her pragmatic attitude helped the team meet their deadlines.",
+          "zh": "她务实的态度帮助团队按时完成任务。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'in' as 'not' and 'visible' as 'able to be seen', so invisible means not able to be seen."
+        "association": "Think of 'pragmatic' as being 'practical'—both start with 'prag-' and relate to real-world solutions."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=invisible&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pragmatic&type=2"
     },
     {
-      "id": "w02018",
-      "word": "salmon population",
-      "type": "phrase",
-      "chapterIndex": 118,
-      "globalIndex": 2018,
+      "id": "w00043",
+      "word": "block",
+      "type": "single",
+      "chapterIndex": 3,
+      "globalIndex": 43,
+      "chapter": "ch003",
+      "chapterName": "基本词汇 动词200 Unit 3",
+      "pronunciation": {
+        "us": "/blɑk/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "块；障碍",
+          "en": "A solid piece of material with flat surfaces."
+        },
+        {
+          "pos": "v.",
+          "zh": "阻止；封锁",
+          "en": "To prevent movement or progress."
+        }
+      ],
+      "examples": [
+        {
+          "en": "He used a block of wood to hold the door open.",
+          "zh": "他用一块木头把门撑开。"
+        },
+        {
+          "en": "They need to block the road for maintenance work.",
+          "zh": "他们需要封锁道路进行维修工作。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a 'block' as something that stops or holds back, like a block in a game."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=block&type=2"
+    },
+    {
+      "id": "w00113",
+      "word": "encounter",
+      "type": "single",
+      "chapterIndex": 13,
+      "globalIndex": 113,
+      "chapter": "ch006",
+      "chapterName": "基本词汇 动词200 Unit 6",
+      "pronunciation": {
+        "us": "/ɪnˈkaʊntər/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "遇到",
+          "en": "To meet or come across someone or something unexpectedly."
+        },
+        {
+          "pos": "n.",
+          "zh": "遭遇",
+          "en": "An unexpected meeting or experience."
+        }
+      ],
+      "examples": [
+        {
+          "en": "I had a surprising encounter with an old friend at the market.",
+          "zh": "我在市场上意外遇到了一个老朋友。"
+        },
+        {
+          "en": "The hikers encountered a bear while climbing the mountain.",
+          "zh": "登山者在爬山时遇到了一只熊。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'encounter' as 'in' (inside) + 'counter' (a table or surface), where you meet someone unexpectedly."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=encounter&type=2"
+    },
+    {
+      "id": "w01016",
+      "word": "characteristic",
+      "type": "single",
+      "chapterIndex": 16,
+      "globalIndex": 1016,
+      "chapter": "ch051",
+      "chapterName": "核心词汇 文化与传统 Unit 1",
+      "pronunciation": {
+        "us": "/ˌkɛrɪktəˈrɪstɪk/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "特征",
+          "en": "A special quality or feature of someone or something."
+        },
+        {
+          "pos": "adj.",
+          "zh": "特有的",
+          "en": "Describing something that is typical or unique to a person or thing."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Honesty is a characteristic that many people admire in leaders.",
+          "zh": "诚实是许多人欣赏领导者的特征。"
+        },
+        {
+          "en": "The characteristic colors of autumn make the season beautiful.",
+          "zh": "秋天特有的颜色使这个季节变得美丽。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=characteristic&type=2"
+    },
+    {
+      "id": "w01183",
+      "word": "slander",
+      "type": "single",
+      "chapterIndex": 3,
+      "globalIndex": 1183,
+      "chapter": "ch060",
+      "chapterName": "核心词汇 伦理与道德 Unit 5",
+      "pronunciation": {
+        "us": "/ˈslændər/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "诽谤",
+          "en": "A false spoken statement that damages someone’s reputation."
+        },
+        {
+          "pos": "v.",
+          "zh": "诽谤",
+          "en": "To make false spoken statements about someone that harm their reputation."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The article was accused of slander against the politician.",
+          "zh": "这篇文章被指控对这位政治家进行诽谤。"
+        },
+        {
+          "en": "He decided to sue her for slander after the false claims.",
+          "zh": "在这些虚假的指控之后，他决定起诉她诽谤。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'slander' as 'slandering' someone's name, which is damaging."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=slander&type=2"
+    },
+    {
+      "id": "w00123",
+      "word": "establish",
+      "type": "single",
+      "chapterIndex": 3,
+      "globalIndex": 123,
+      "chapter": "ch007",
+      "chapterName": "基本词汇 动词200 Unit 7",
+      "pronunciation": {
+        "us": "/ɪˈstæblɪʃ/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "建立",
+          "en": "To set up or create something on a firm basis."
+        },
+        {
+          "pos": "v.",
+          "zh": "确定",
+          "en": "To show or prove something to be true or valid."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The company plans to establish a new branch in the city.",
+          "zh": "公司计划在该市建立一个新分支。"
+        },
+        {
+          "en": "Scientists aim to establish a link between diet and health.",
+          "zh": "科学家旨在确定饮食与健康之间的联系。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'establish' comes from the Latin 'stabilire', meaning 'to make firm or stable'.",
+        "association": "Think of 'establish' as 'setting the stage' for something important."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=establish&type=2"
+    },
+    {
+      "id": "w02395",
+      "word": "chimp",
+      "type": "single",
+      "chapterIndex": 13,
+      "globalIndex": 2395,
+      "chapter": "ch100",
+      "chapterName": "认知词汇 动物分类 动物智力与语言习得",
+      "pronunciation": {
+        "us": "/tʃɪmp/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "黑猩猩",
+          "en": "A chimp is a type of great ape known for its intelligence."
+        },
+        {
+          "pos": "n.",
+          "zh": "小丑",
+          "en": "The term 'chimp' can also refer to a person who acts silly or foolish."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Chimps are known for using tools to solve problems.",
+          "zh": "黑猩猩以使用工具解决问题而闻名。"
+        },
+        {
+          "en": "The scientist studied how chimps communicate with each other.",
+          "zh": "科学家研究了黑猩猩如何相互交流。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=chimp&type=2"
+    },
+    {
+      "id": "w00061",
+      "word": "condemn",
+      "type": "single",
+      "chapterIndex": 1,
+      "globalIndex": 61,
+      "chapter": "ch004",
+      "chapterName": "基本词汇 动词200 Unit 4",
+      "pronunciation": {
+        "us": "/kənˈdɛm/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "谴责",
+          "en": "To express strong disapproval of something."
+        },
+        {
+          "pos": "v.",
+          "zh": "判刑",
+          "en": "To declare someone guilty and assign a punishment."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many leaders condemned the violent actions of the protesters.",
+          "zh": "许多领导人谴责了抗议者的暴力行为。"
+        },
+        {
+          "en": "The judge decided to condemn the criminal to ten years in prison.",
+          "zh": "法官决定判处罪犯十年监禁。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'condemn' comes from the Latin 'condemnare', meaning 'to declare guilty'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=condemn&type=2"
+    },
+    {
+      "id": "w00806",
+      "word": "catastrophe",
+      "type": "single",
+      "chapterIndex": 6,
+      "globalIndex": 806,
+      "chapter": "ch041",
+      "chapterName": "核心词汇 科技发展 Unit 1",
+      "pronunciation": {
+        "us": "/kəˈtæs.trə.fi/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "灾难",
+          "en": "A sudden event that causes great damage or suffering."
+        },
+        {
+          "pos": "n.",
+          "zh": "大失败",
+          "en": "A complete failure or disaster in a situation."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The earthquake resulted in a catastrophe for the entire region.",
+          "zh": "这场地震导致了整个地区的灾难。"
+        },
+        {
+          "en": "Her project turned into a catastrophe due to poor planning.",
+          "zh": "由于计划不周，她的项目变成了一个大失败。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'cat' and 'astro' (related to stars) to remember that a catastrophe is something that can be as shocking as a cat falling from the sky."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=catastrophe&type=2"
+    },
+    {
+      "id": "w02211",
+      "word": "colony",
+      "type": "single",
+      "chapterIndex": 311,
+      "globalIndex": 2211,
       "chapter": "ch096",
       "chapterName": "认知词汇 动物分类 常考生物",
       "pronunciation": {
-        "us": "/ˈsælmən ˌpɒpjuˈleɪʃən/"
+        "us": "/ˈkɒl.ə.ni/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "鲑鱼种群",
-          "en": "A group of salmon living in a specific area."
+          "zh": "殖民地",
+          "en": "A territory controlled by another country."
         },
         {
           "pos": "n.",
-          "zh": "鲑鱼数量",
-          "en": "The number of salmon in a certain region."
+          "zh": "群体",
+          "en": "A group of the same type of plants or animals living together."
         }
       ],
       "examples": [
         {
-          "en": "The salmon population in the river has decreased significantly this year.",
-          "zh": "今年河流中的鲑鱼数量显著减少。"
+          "en": "The British established a colony in America during the 17th century.",
+          "zh": "英国在17世纪在美国建立了一个殖民地。"
         },
         {
-          "en": "Researchers are studying the salmon population to understand its decline.",
-          "zh": "研究人员正在研究鲑鱼种群，以了解其减少的原因。"
+          "en": "The coral reef is a colony of tiny marine creatures.",
+          "zh": "这个珊瑚礁是大量微小海洋生物的群体。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'salmon' as swimming fish and 'population' as a group of them in a specific habitat."
+        "etymology": "The word 'colony' comes from the Latin 'colonia', meaning 'farm' or 'settlement'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=salmon%20population&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=colony&type=2"
     },
     {
-      "id": "w00270",
-      "word": "evil",
+      "id": "w00092",
+      "word": "deserve",
       "type": "single",
-      "chapterIndex": 10,
-      "globalIndex": 270,
-      "chapter": "ch014",
-      "chapterName": "基本词汇 名词200 Unit 4",
+      "chapterIndex": 12,
+      "globalIndex": 92,
+      "chapter": "ch005",
+      "chapterName": "基本词汇 动词200 Unit 5",
       "pronunciation": {
-        "us": "/ˈiːvəl/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "邪恶的",
-          "en": "Something that is very bad or morally wrong."
-        },
-        {
-          "pos": "n.",
-          "zh": "邪恶",
-          "en": "The quality of being morally bad."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The evil villain plotted to take over the world.",
-          "zh": "那个邪恶的恶棍策划征服世界。"
-        },
-        {
-          "en": "Many stories depict the battle between good and evil.",
-          "zh": "许多故事描绘了善与恶之间的斗争。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'evil' as 'E-VIL' where 'VIL' sounds like 'villain', a character often associated with evil."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=evil&type=2"
-    },
-    {
-      "id": "w01787",
-      "word": "strengthen",
-      "type": "single",
-      "chapterIndex": 7,
-      "globalIndex": 1787,
-      "chapter": "ch090",
-      "chapterName": "核心词汇 法制与犯罪 Unit 5",
-      "pronunciation": {
-        "us": "/ˈstrɛŋθən/"
+        "us": "/dɪˈzɜrv/"
       },
       "meanings": [
         {
           "pos": "v.",
-          "zh": "增强",
-          "en": "To make something stronger or more powerful."
+          "zh": "应得",
+          "en": "to have earned something because of your actions or qualities."
         },
         {
           "pos": "v.",
-          "zh": "巩固",
-          "en": "To improve or reinforce something to make it more solid."
+          "zh": "值得",
+          "en": "to be worthy of something, such as praise or reward."
         }
       ],
       "examples": [
         {
-          "en": "Regular exercise can strengthen your muscles and improve your health.",
-          "zh": "定期锻炼可以增强你的肌肉并改善你的健康。"
+          "en": "She deserves recognition for her hard work and dedication.",
+          "zh": "她因辛勤工作和奉献精神而值得被认可。"
         },
         {
-          "en": "The new policies aim to strengthen community ties and support local businesses.",
-          "zh": "新政策旨在加强社区关系并支持当地企业。"
+          "en": "After all his efforts, he truly deserves a break.",
+          "zh": "经过他所有的努力，他确实值得休息一下。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'strength' when you hear 'strengthen', as both words are related to making something stronger."
+        "association": "Think of 'deserve' as 'de-serve', meaning you have served well enough to earn something."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=strengthen&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=deserve&type=2"
     },
     {
-      "id": "w01800",
-      "word": "vulgar",
-      "type": "single",
-      "chapterIndex": 20,
-      "globalIndex": 1800,
-      "chapter": "ch090",
-      "chapterName": "核心词汇 法制与犯罪 Unit 5",
+      "id": "w02404",
+      "word": "internal compass",
+      "type": "phrase",
+      "chapterIndex": 22,
+      "globalIndex": 2404,
+      "chapter": "ch100",
+      "chapterName": "认知词汇 动物分类 动物智力与语言习得",
       "pronunciation": {
-        "us": "/ˈvʌl.ɡɚ/"
+        "us": "/ɪnˈtɜrnəl ˈkɒmpəs/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "内心的指南",
+          "en": "An inner sense that guides one's actions and decisions."
+        },
+        {
+          "pos": "n.",
+          "zh": "道德方向感",
+          "en": "A personal sense of right and wrong that influences choices."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Listening to your internal compass can lead to better decisions.",
+          "zh": "倾听内心的指南可以带来更好的决策。"
+        },
+        {
+          "en": "Trusting your internal compass helps navigate through life's challenges.",
+          "zh": "相信自己的内心指南有助于应对生活的挑战。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of your internal compass as a GPS for your values and instincts."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=internal%20compass&type=2"
+    },
+    {
+      "id": "w00736",
+      "word": "stable",
+      "type": "single",
+      "chapterIndex": 16,
+      "globalIndex": 736,
+      "chapter": "ch037",
+      "chapterName": "基本词汇 形容词和副词400 Unit 17",
+      "pronunciation": {
+        "us": "/ˈsteɪ.bəl/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "粗俗的",
-          "en": "Relating to something that is offensive or lacking in good manners."
+          "zh": "稳定的",
+          "en": "Not likely to change or move suddenly."
         },
         {
-          "pos": "adj.",
-          "zh": "低俗的",
-          "en": "Describing something that is crude or unrefined."
+          "pos": "n.",
+          "zh": "马厩",
+          "en": "A building where horses are kept."
         }
       ],
       "examples": [
         {
-          "en": "The comedian's vulgar jokes shocked many audience members.",
-          "zh": "这位喜剧演员粗俗的笑话让许多观众感到震惊。"
+          "en": "The economy needs to be stable for growth to occur.",
+          "zh": "经济需要稳定才能实现增长。"
         },
         {
-          "en": "She avoided vulgar language in her professional emails.",
-          "zh": "她在职业邮件中避免使用粗俗的语言。"
+          "en": "The horse was kept in a stable near the farm.",
+          "zh": "那匹马被放在农场附近的马厩里。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=stable&type=2"
+    },
+    {
+      "id": "w02541",
+      "word": "evaporated",
+      "type": "single",
+      "chapterIndex": 13,
+      "globalIndex": 2541,
+      "chapter": "ch103",
+      "chapterName": "认知词汇 自然分类 \"厄尔尼诺\"现象",
+      "pronunciation": {
+        "us": "/ɪˈvæpəˌreɪtɪd/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "蒸发",
+          "en": "To change from a liquid to a gas, usually with heat."
+        },
+        {
+          "pos": "v.",
+          "zh": "消失",
+          "en": "To disappear or become less intense."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The water in the pot evaporated quickly when heated.",
+          "zh": "锅里的水在加热时迅速蒸发。"
+        },
+        {
+          "en": "The excitement of the crowd evaporated after the event ended.",
+          "zh": "活动结束后，观众的兴奋感消失了。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'vulgar' as 'vulgarity', which relates to low-class behavior."
+        "association": "Think of a magician making water 'evaporate' into thin air."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vulgar&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=evaporated&type=2"
+    },
+    {
+      "id": "w01066",
+      "word": "original",
+      "type": "single",
+      "chapterIndex": 6,
+      "globalIndex": 1066,
+      "chapter": "ch054",
+      "chapterName": "核心词汇 文化与传统 Unit 4",
+      "pronunciation": {
+        "us": "/əˈrɪdʒ.ɪ.nəl/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "原创的",
+          "en": "Something that is new and not copied from anything else."
+        },
+        {
+          "pos": "n.",
+          "zh": "原作",
+          "en": "The first version of something from which copies are made."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The artist presented her original painting at the gallery.",
+          "zh": "这位艺术家在画廊展示了她的原创画作。"
+        },
+        {
+          "en": "His original ideas inspired many people in the community.",
+          "zh": "他原创的想法激励了社区中的许多人。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'original' comes from the Latin 'originalis', meaning 'belonging to the beginning'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=original&type=2"
+    },
+    {
+      "id": "w02422",
+      "word": "recognisable",
+      "type": "single",
+      "chapterIndex": 40,
+      "globalIndex": 2422,
+      "chapter": "ch100",
+      "chapterName": "认知词汇 动物分类 动物智力与语言习得",
+      "pronunciation": {
+        "us": "/ˈrɛkəɡˌnaɪzəbl/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "可识别的",
+          "en": "Able to be recognized or identified."
+        },
+        {
+          "pos": "adj.",
+          "zh": "公认的",
+          "en": "Known or accepted by many people."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The logo is easily recognisable from a distance.",
+          "zh": "这个标志从远处很容易被识别。"
+        },
+        {
+          "en": "Her style is unique but still recognisable.",
+          "zh": "她的风格很独特，但仍然可以识别。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'recognise' as 're-cognise', meaning to know again. This helps remember that something recognisable is known or identified."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=recognisable&type=2"
+    },
+    {
+      "id": "w02160",
+      "word": "apterous",
+      "type": "single",
+      "chapterIndex": 260,
+      "globalIndex": 2160,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/ˈæp.tər.əs/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "无翅的",
+          "en": "Describing an insect or animal that lacks wings."
+        },
+        {
+          "pos": "adj.",
+          "zh": "不适合的",
+          "en": "Not suitable or not adapted for a particular purpose."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The apterous insects are often found in dark, damp habitats.",
+          "zh": "无翅昆虫常常出现在阴暗潮湿的栖息地。"
+        },
+        {
+          "en": "Some species are apterous, making them less vulnerable to predators.",
+          "zh": "一些物种是无翅的，这使它们不那么容易受到捕食者的攻击。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'apterous' comes from the Greek 'apteros', meaning 'without wings' ('a-' meaning 'without' and 'pteron' meaning 'wing')."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=apterous&type=2"
+    },
+    {
+      "id": "w02067",
+      "word": "gillnet",
+      "type": "single",
+      "chapterIndex": 167,
+      "globalIndex": 2067,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/ˈɡɪlˌnɛt/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "刺网",
+          "en": "A type of fishing net that catches fish by their gills."
+        },
+        {
+          "pos": "v.",
+          "zh": "用刺网捕鱼",
+          "en": "To catch fish using a gillnet."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The fishermen used a gillnet to catch salmon in the river.",
+          "zh": "渔民们在河里用刺网捕捉鲑鱼。"
+        },
+        {
+          "en": "Using a gillnet can be an effective method for fishing.",
+          "zh": "使用刺网可以是一种有效的捕鱼方法。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'gill' as part of a fish's breathing system, and 'net' as a tool to catch it."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=gillnet&type=2"
     }
   ]
 }

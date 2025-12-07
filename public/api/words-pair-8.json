@@ -1,69 +1,67 @@
 {
-  "generated": "2025-12-06T22:07:31.680Z",
+  "generated": "2025-12-07T22:07:38.738Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "safeguard",
-      "pronunciation": "/ˈseɪfɡɑrd/",
+      "word": "stable",
+      "pronunciation": "/ˈsteɪ.bəl/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "保护",
-          "en": "To protect something from harm or damage."
+          "pos": "adj.",
+          "zh": "稳定的",
+          "en": "Not likely to change or move suddenly."
         },
         {
           "pos": "n.",
-          "zh": "保护措施",
-          "en": "A measure taken to protect someone or something."
+          "zh": "马厩",
+          "en": "A building where horses are kept."
         }
       ],
       "examples": [
         {
-          "en": "The new law is designed to safeguard the environment for future generations.",
-          "zh": "这项新法律旨在保护环境，以便为未来的世代着想。"
+          "en": "The economy needs to be stable for growth to occur.",
+          "zh": "经济需要稳定才能实现增长。"
         },
         {
-          "en": "They installed a fence to safeguard their property from intruders.",
-          "zh": "他们安装了一个围栏，以保护他们的财产免受入侵者的侵害。"
+          "en": "The horse was kept in a stable near the farm.",
+          "zh": "那匹马被放在农场附近的马厩里。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'safeguard' as 'safe guard', meaning to guard something safely."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=safeguard&type=2",
-      "chapter": "基本词汇 动词200 Unit 10"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=stable&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 17"
     },
     {
-      "word": "invisible",
-      "pronunciation": "/ɪnˈvɪz.ə.bəl/",
+      "word": "evaporated",
+      "pronunciation": "/ɪˈvæpəˌreɪtɪd/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "看不见的",
-          "en": "Not able to be seen; not visible."
+          "pos": "v.",
+          "zh": "蒸发",
+          "en": "To change from a liquid to a gas, usually with heat."
         },
         {
-          "pos": "adj.",
-          "zh": "无形的",
-          "en": "Existing but not apparent; hidden from view."
+          "pos": "v.",
+          "zh": "消失",
+          "en": "To disappear or become less intense."
         }
       ],
       "examples": [
         {
-          "en": "The stars are invisible during the day due to sunlight.",
-          "zh": "白天由于阳光，星星是看不见的。"
+          "en": "The water in the pot evaporated quickly when heated.",
+          "zh": "锅里的水在加热时迅速蒸发。"
         },
         {
-          "en": "Many emotions are invisible but can be deeply felt.",
-          "zh": "许多情感是无形的，但能被深刻感受到。"
+          "en": "The excitement of the crowd evaporated after the event ended.",
+          "zh": "活动结束后，观众的兴奋感消失了。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'in' as 'not' and 'visible' as 'able to be seen', so invisible means not able to be seen."
+        "association": "Think of a magician making water 'evaporate' into thin air."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=invisible&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 11"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=evaporated&type=2",
+      "chapter": "认知词汇 自然分类 \"厄尔尼诺\"现象"
     }
   ]
 }

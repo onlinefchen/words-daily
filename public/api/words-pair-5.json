@@ -1,67 +1,67 @@
 {
-  "generated": "2025-12-06T22:07:31.680Z",
+  "generated": "2025-12-07T22:07:38.738Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "overexploitation",
-      "pronunciation": "/ˌoʊvərɪkˈsplɔɪteɪʃən/",
+      "word": "chimp",
+      "pronunciation": "/tʃɪmp/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "过度开发",
-          "en": "The excessive use of resources that can lead to their depletion."
+          "zh": "黑猩猩",
+          "en": "A chimp is a type of great ape known for its intelligence."
         },
         {
           "pos": "n.",
-          "zh": "过度利用",
-          "en": "The unsustainable exploitation of natural resources."
+          "zh": "小丑",
+          "en": "The term 'chimp' can also refer to a person who acts silly or foolish."
         }
       ],
       "examples": [
         {
-          "en": "Overexploitation of fish stocks can lead to a severe ecological imbalance.",
-          "zh": "鱼类过度开发可能导致严重的生态失衡。"
+          "en": "Chimps are known for using tools to solve problems.",
+          "zh": "黑猩猩以使用工具解决问题而闻名。"
         },
         {
-          "en": "The forest suffered from overexploitation, resulting in habitat loss for many species.",
-          "zh": "森林因过度开发而遭受破坏，导致许多物种失去栖息地。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'over' as 'too much' and 'exploitation' as 'using something up'. Together, it means using too much of something."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=overexploitation&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
-    },
-    {
-      "word": "salmon stock",
-      "pronunciation": "/ˈsælmən stɑk/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "鲑鱼库存",
-          "en": "The amount of salmon available for fishing or sale."
-        },
-        {
-          "pos": "n.",
-          "zh": "鲑鱼资源",
-          "en": "A source of salmon that can be used for consumption or breeding."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The salmon stock in the river has decreased dramatically this year.",
-          "zh": "今年河里的鲑鱼库存急剧减少。"
-        },
-        {
-          "en": "Sustainable fishing practices are essential to maintain healthy salmon stocks.",
-          "zh": "可持续渔业实践对维持健康的鲑鱼资源至关重要。"
+          "en": "The scientist studied how chimps communicate with each other.",
+          "zh": "科学家研究了黑猩猩如何相互交流。"
         }
       ],
       "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=salmon%20stock&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=chimp&type=2",
+      "chapter": "认知词汇 动物分类 动物智力与语言习得"
+    },
+    {
+      "word": "condemn",
+      "pronunciation": "/kənˈdɛm/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "谴责",
+          "en": "To express strong disapproval of something."
+        },
+        {
+          "pos": "v.",
+          "zh": "判刑",
+          "en": "To declare someone guilty and assign a punishment."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many leaders condemned the violent actions of the protesters.",
+          "zh": "许多领导人谴责了抗议者的暴力行为。"
+        },
+        {
+          "en": "The judge decided to condemn the criminal to ten years in prison.",
+          "zh": "法官决定判处罪犯十年监禁。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'condemn' comes from the Latin 'condemnare', meaning 'to declare guilty'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=condemn&type=2",
+      "chapter": "基本词汇 动词200 Unit 4"
     }
   ]
 }

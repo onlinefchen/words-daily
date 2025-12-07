@@ -1,63 +1,68 @@
 {
-  "generated": "2025-12-06T22:07:31.679Z",
+  "generated": "2025-12-07T22:07:38.737Z",
   "count": 2,
   "words": [
     {
-      "word": "ungrateful",
-      "pronunciation": "/ʌnˈɡreɪt.fəl/",
+      "word": "nugget",
+      "pronunciation": "/ˈnʌɡɪt/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "忘恩负义的",
-          "en": "Not showing gratitude or appreciation for what someone has done."
+          "pos": "n.",
+          "zh": "小块食物",
+          "en": "A small piece of something, often food."
+        },
+        {
+          "pos": "n.",
+          "zh": "有价值的信息或想法",
+          "en": "A valuable piece of information or insight."
         }
       ],
       "examples": [
         {
-          "en": "He was ungrateful for all the help he received from his friends.",
-          "zh": "他对朋友们给予的帮助毫不感激。"
+          "en": "She found a gold nugget while panning for treasure.",
+          "zh": "她在淘金时发现了一块金块。"
         },
         {
-          "en": "Being ungrateful can harm your relationships with others.",
-          "zh": "忘恩负义可能会伤害你与他人的关系。"
+          "en": "The report contained several nuggets of useful advice.",
+          "zh": "该报告包含几条有用的建议。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'ungrateful' as someone who forgets to thank a waiter after a meal. This can help you remember the lack of gratitude."
+        "association": "Think of a 'nugget' as a small, precious thing, like a gold nugget."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ungrateful&type=2",
-      "chapter": "核心词汇 工作与生活 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=nugget&type=2",
+      "chapter": "认知词汇 历史分类 淘金史"
     },
     {
-      "word": "punishment",
-      "pronunciation": "/ˈpʌnɪʃmənt/",
+      "word": "lack",
+      "pronunciation": "/læk/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "惩罚",
-          "en": "A penalty given for doing something wrong."
+          "pos": "v.",
+          "zh": "缺乏",
+          "en": "To not have enough of something."
         },
         {
           "pos": "n.",
-          "zh": "刑罚",
-          "en": "A consequence imposed on someone as a result of their actions."
+          "zh": "缺乏",
+          "en": "The state of not having enough of something."
         }
       ],
       "examples": [
         {
-          "en": "The teacher decided on a punishment for the misbehaving students.",
-          "zh": "老师决定对不守规矩的学生施加惩罚。"
+          "en": "Many children suffer from a lack of proper nutrition.",
+          "zh": "许多孩子缺乏适当的营养。"
         },
         {
-          "en": "Many believe that punishment should aim to correct behavior, not just to harm.",
-          "zh": "许多人认为惩罚应该旨在纠正行为，而不仅仅是造成伤害。"
+          "en": "The project failed due to a lack of funding and support.",
+          "zh": "该项目由于缺乏资金和支持而失败。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'punish' as a parent scolding a child, linking punishment to discipline."
+        "association": "Think of 'lack' as 'lacking' something important in your life."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=punishment&type=2",
-      "chapter": "核心词汇 法制与犯罪 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=lack&type=2",
+      "chapter": "基本词汇 名词200 Unit 6"
     }
   ]
 }

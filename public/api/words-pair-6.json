@@ -1,68 +1,68 @@
 {
-  "generated": "2025-12-06T22:07:31.680Z",
+  "generated": "2025-12-07T22:07:38.738Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "stress",
-      "pronunciation": "/strɛs/",
+      "word": "catastrophe",
+      "pronunciation": "/kəˈtæs.trə.fi/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "压力",
-          "en": "A feeling of worry or tension caused by difficult situations."
+          "zh": "灾难",
+          "en": "A sudden event that causes great damage or suffering."
         },
         {
-          "pos": "v.",
-          "zh": "使紧张",
-          "en": "To make someone feel worried or anxious."
+          "pos": "n.",
+          "zh": "大失败",
+          "en": "A complete failure or disaster in a situation."
         }
       ],
       "examples": [
         {
-          "en": "She felt a lot of stress before her final exams.",
-          "zh": "她在期末考试前感到很大的压力。"
+          "en": "The earthquake resulted in a catastrophe for the entire region.",
+          "zh": "这场地震导致了整个地区的灾难。"
         },
         {
-          "en": "He stressed the importance of regular exercise for health.",
-          "zh": "他强调了定期锻炼对健康的重要性。"
+          "en": "Her project turned into a catastrophe due to poor planning.",
+          "zh": "由于计划不周，她的项目变成了一个大失败。"
         }
       ],
       "memoryTips": {
-        "association": "Think of stress like a tight rubber band; it can stretch but too much tension will break it."
+        "association": "Think of 'cat' and 'astro' (related to stars) to remember that a catastrophe is something that can be as shocking as a cat falling from the sky."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=stress&type=2",
-      "chapter": "核心词汇 健康话题 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=catastrophe&type=2",
+      "chapter": "核心词汇 科技发展 Unit 1"
     },
     {
-      "word": "eucalyptus",
-      "pronunciation": "/ˌjuː.kəˈlɪp.təs/",
+      "word": "colony",
+      "pronunciation": "/ˈkɒl.ə.ni/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "桉树",
-          "en": "A type of tall tree known for its aromatic leaves and oil."
+          "zh": "殖民地",
+          "en": "A territory controlled by another country."
         },
         {
           "pos": "n.",
-          "zh": "桉树油",
-          "en": "An oil extracted from eucalyptus leaves, used for medicinal purposes."
+          "zh": "群体",
+          "en": "A group of the same type of plants or animals living together."
         }
       ],
       "examples": [
         {
-          "en": "Eucalyptus trees are commonly found in Australia and other regions.",
-          "zh": "桉树通常在澳大利亚和其他地区被发现。"
+          "en": "The British established a colony in America during the 17th century.",
+          "zh": "英国在17世纪在美国建立了一个殖民地。"
         },
         {
-          "en": "The eucalyptus oil is often used in aromatherapy for its soothing effects.",
-          "zh": "桉树油常用于芳香疗法，因为它有舒缓的效果。"
+          "en": "The coral reef is a colony of tiny marine creatures.",
+          "zh": "这个珊瑚礁是大量微小海洋生物的群体。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'eucalyptus' as 'eucalyptus leaves' which can remind you of the fresh smell often associated with forests."
+        "etymology": "The word 'colony' comes from the Latin 'colonia', meaning 'farm' or 'settlement'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=eucalyptus&type=2",
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=colony&type=2",
       "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
