@@ -1,69 +1,67 @@
 {
-  "generated": "2025-12-07T22:07:38.738Z",
+  "generated": "2025-12-08T22:08:10.292Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "apterous",
-      "pronunciation": "/ˈæp.tər.əs/",
+      "word": "compatible",
+      "pronunciation": "/kəmˈpætəbl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "无翅的",
-          "en": "Describing an insect or animal that lacks wings."
+          "zh": "兼容的",
+          "en": "Able to exist or work together without conflict."
         },
         {
           "pos": "adj.",
-          "zh": "不适合的",
-          "en": "Not suitable or not adapted for a particular purpose."
+          "zh": "适合的",
+          "en": "Suitable or well-matched for a particular purpose or situation."
         }
       ],
       "examples": [
         {
-          "en": "The apterous insects are often found in dark, damp habitats.",
-          "zh": "无翅昆虫常常出现在阴暗潮湿的栖息地。"
+          "en": "The software is compatible with both Windows and Mac operating systems.",
+          "zh": "该软件与Windows和Mac操作系统兼容。"
         },
         {
-          "en": "Some species are apterous, making them less vulnerable to predators.",
-          "zh": "一些物种是无翅的，这使它们不那么容易受到捕食者的攻击。"
+          "en": "They found a compatible partner who shares their interests and values.",
+          "zh": "他们找到了一个与自己兴趣和价值观相符的伴侣。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'apterous' comes from the Greek 'apteros', meaning 'without wings' ('a-' meaning 'without' and 'pteron' meaning 'wing')."
+        "association": "Think of 'compatible' as 'com-patible', meaning two things that can 'pat' each other on the back, indicating harmony."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=apterous&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compatible&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 4"
     },
     {
-      "word": "gillnet",
-      "pronunciation": "/ˈɡɪlˌnɛt/",
+      "word": "chaotic",
+      "pronunciation": "/keɪˈɑːtɪk/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "刺网",
-          "en": "A type of fishing net that catches fish by their gills."
+          "pos": "adj.",
+          "zh": "混乱的",
+          "en": "In a state of complete disorder and confusion."
         },
         {
-          "pos": "v.",
-          "zh": "用刺网捕鱼",
-          "en": "To catch fish using a gillnet."
+          "pos": "adj.",
+          "zh": "喧闹的",
+          "en": "Having a lot of noise and activity that is hard to control."
         }
       ],
       "examples": [
         {
-          "en": "The fishermen used a gillnet to catch salmon in the river.",
-          "zh": "渔民们在河里用刺网捕捉鲑鱼。"
+          "en": "The traffic was chaotic during the rush hour in the city.",
+          "zh": "高峰时段，城市的交通非常混乱。"
         },
         {
-          "en": "Using a gillnet can be an effective method for fishing.",
-          "zh": "使用刺网可以是一种有效的捕鱼方法。"
+          "en": "Her chaotic schedule made it difficult to find time for studying.",
+          "zh": "她混乱的日程安排让她很难找到学习的时间。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'gill' as part of a fish's breathing system, and 'net' as a tool to catch it."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=gillnet&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=chaotic&type=2",
+      "chapter": "认知词汇 自然分类 地震"
     }
   ]
 }

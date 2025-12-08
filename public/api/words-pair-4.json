@@ -1,70 +1,69 @@
 {
-  "generated": "2025-12-07T22:07:38.738Z",
+  "generated": "2025-12-08T22:08:10.292Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "slander",
-      "pronunciation": "/ˈslændər/",
+      "word": "lava",
+      "pronunciation": "/ˈlævə/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "诽谤",
-          "en": "A false spoken statement that damages someone’s reputation."
+          "zh": "熔岩",
+          "en": "Molten rock that erupts from a volcano."
         },
         {
-          "pos": "v.",
-          "zh": "诽谤",
-          "en": "To make false spoken statements about someone that harm their reputation."
+          "pos": "n.",
+          "zh": "火山喷发物",
+          "en": "Material that flows from a volcano during an eruption."
         }
       ],
       "examples": [
         {
-          "en": "The article was accused of slander against the politician.",
-          "zh": "这篇文章被指控对这位政治家进行诽谤。"
+          "en": "The lava from the volcano flowed down the mountain side.",
+          "zh": "火山的熔岩沿着山坡流下。"
         },
         {
-          "en": "He decided to sue her for slander after the false claims.",
-          "zh": "在这些虚假的指控之后，他决定起诉她诽谤。"
+          "en": "When lava cools, it can form solid rock formations.",
+          "zh": "当熔岩冷却时，可以形成固体岩石构造。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'slander' as 'slandering' someone's name, which is damaging."
+        "association": "Think of 'lava' as 'lava lamp,' which is a visual reminder of flowing molten material."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=slander&type=2",
-      "chapter": "核心词汇 伦理与道德 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=lava&type=2",
+      "chapter": "认知词汇 自然分类 火山"
     },
     {
-      "word": "establish",
-      "pronunciation": "/ɪˈstæblɪʃ/",
+      "word": "blue whale",
+      "pronunciation": "/bluː weɪl/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "建立",
-          "en": "To set up or create something on a firm basis."
+          "pos": "n.",
+          "zh": "蓝鲸",
+          "en": "The blue whale is the largest animal on Earth, known for its immense size."
         },
         {
-          "pos": "v.",
-          "zh": "确定",
-          "en": "To show or prove something to be true or valid."
+          "pos": "n.",
+          "zh": "蓝鲸",
+          "en": "Blue whales are marine mammals that live in oceans and feed on small shrimp-like animals called krill."
         }
       ],
       "examples": [
         {
-          "en": "The company plans to establish a new branch in the city.",
-          "zh": "公司计划在该市建立一个新分支。"
+          "en": "The blue whale can grow up to 100 feet long and weigh over 200 tons.",
+          "zh": "蓝鲸可以长到100英尺，体重超过200吨。"
         },
         {
-          "en": "Scientists aim to establish a link between diet and health.",
-          "zh": "科学家旨在确定饮食与健康之间的联系。"
+          "en": "Scientists study blue whales to understand their migration patterns and feeding habits.",
+          "zh": "科学家研究蓝鲸以了解它们的迁徙模式和觅食习惯。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'establish' comes from the Latin 'stabilire', meaning 'to make firm or stable'.",
-        "association": "Think of 'establish' as 'setting the stage' for something important."
+        "association": "Think of the color blue representing the ocean, where blue whales live, and their large size as a symbol of strength and majesty."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=establish&type=2",
-      "chapter": "基本词汇 动词200 Unit 7"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=blue%20whale&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-07T22:07:38.737Z",
+  "generated": "2025-12-08T22:08:10.292Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "pragmatic",
-      "pronunciation": "/præɡˈmætɪk/",
+      "word": "preliminary",
+      "pronunciation": "/prɪˈlɪmɪnəri/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "务实的",
-          "en": "Dealing with things sensibly and realistically."
+          "zh": "初步的",
+          "en": "Something that comes before the main part or is an initial step."
         },
-        {
-          "pos": "adj.",
-          "zh": "实用的",
-          "en": "Focused on practical results rather than theories."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The manager took a pragmatic approach to solve the issue quickly.",
-          "zh": "经理采取了务实的方法迅速解决问题。"
-        },
-        {
-          "en": "Her pragmatic attitude helped the team meet their deadlines.",
-          "zh": "她务实的态度帮助团队按时完成任务。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'pragmatic' as being 'practical'—both start with 'prag-' and relate to real-world solutions."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pragmatic&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 14"
-    },
-    {
-      "word": "block",
-      "pronunciation": "/blɑk/",
-      "meanings": [
         {
           "pos": "n.",
-          "zh": "块；障碍",
-          "en": "A solid piece of material with flat surfaces."
-        },
-        {
-          "pos": "v.",
-          "zh": "阻止；封锁",
-          "en": "To prevent movement or progress."
+          "zh": "初步措施",
+          "en": "An action or decision taken before the main event."
         }
       ],
       "examples": [
         {
-          "en": "He used a block of wood to hold the door open.",
-          "zh": "他用一块木头把门撑开。"
+          "en": "The preliminary results show a significant increase in sales.",
+          "zh": "初步结果显示销售额显著增加。"
         },
         {
-          "en": "They need to block the road for maintenance work.",
-          "zh": "他们需要封锁道路进行维修工作。"
+          "en": "They held a preliminary meeting to discuss project goals.",
+          "zh": "他们举行了初步会议以讨论项目目标。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'block' as something that stops or holds back, like a block in a game."
+        "etymology": "The word 'preliminary' comes from the Latin 'prae-' meaning 'before' and 'limin' meaning 'threshold', indicating something that comes before the main event."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=block&type=2",
-      "chapter": "基本词汇 动词200 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=preliminary&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 15"
+    },
+    {
+      "word": "fantastic",
+      "pronunciation": "/fænˈtæstɪk/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "极好的",
+          "en": "Extremely good or impressive."
+        },
+        {
+          "pos": "adj.",
+          "zh": "幻想的",
+          "en": "Relating to things that are imaginary or not real."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The view from the mountain was absolutely fantastic and breathtaking.",
+          "zh": "从山顶看到的景色真是极好，令人叹为观止。"
+        },
+        {
+          "en": "She had a fantastic idea for improving the community garden.",
+          "zh": "她有一个极好的主意来改善社区花园。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'fantasy' to remember that 'fantastic' relates to amazing or imaginary things."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=fantastic&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 4"
     }
   ]
 }

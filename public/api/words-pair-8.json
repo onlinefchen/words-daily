@@ -1,67 +1,69 @@
 {
-  "generated": "2025-12-07T22:07:38.738Z",
+  "generated": "2025-12-08T22:08:10.292Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "stable",
-      "pronunciation": "/ˈsteɪ.bəl/",
+      "word": "moral",
+      "pronunciation": "/ˈmɔːrəl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "稳定的",
-          "en": "Not likely to change or move suddenly."
+          "zh": "道德的",
+          "en": "Relating to what is right and wrong in human behavior."
         },
         {
           "pos": "n.",
-          "zh": "马厩",
-          "en": "A building where horses are kept."
+          "zh": "道德",
+          "en": "A lesson about what is right or wrong, often taught through stories."
         }
       ],
       "examples": [
         {
-          "en": "The economy needs to be stable for growth to occur.",
-          "zh": "经济需要稳定才能实现增长。"
+          "en": "The story conveys a strong moral about honesty and integrity.",
+          "zh": "这个故事传达了关于诚实和正直的强烈道德观。"
         },
         {
-          "en": "The horse was kept in a stable near the farm.",
-          "zh": "那匹马被放在农场附近的马厩里。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=stable&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 17"
-    },
-    {
-      "word": "evaporated",
-      "pronunciation": "/ɪˈvæpəˌreɪtɪd/",
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "蒸发",
-          "en": "To change from a liquid to a gas, usually with heat."
-        },
-        {
-          "pos": "v.",
-          "zh": "消失",
-          "en": "To disappear or become less intense."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The water in the pot evaporated quickly when heated.",
-          "zh": "锅里的水在加热时迅速蒸发。"
-        },
-        {
-          "en": "The excitement of the crowd evaporated after the event ended.",
-          "zh": "活动结束后，观众的兴奋感消失了。"
+          "en": "Understanding moral values is essential for personal development.",
+          "zh": "理解道德价值观对个人发展至关重要。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a magician making water 'evaporate' into thin air."
+        "etymology": "The word 'moral' comes from the Latin 'moralis', which means 'pertaining to manners'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=evaporated&type=2",
-      "chapter": "认知词汇 自然分类 \"厄尔尼诺\"现象"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=moral&type=2",
+      "chapter": "核心词汇 伦理与道德 Unit 4"
+    },
+    {
+      "word": "livestock",
+      "pronunciation": "/ˈlaɪvˌstɑk/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "牲畜",
+          "en": "Animals raised for food, work, or other purposes."
+        },
+        {
+          "pos": "n.",
+          "zh": "家畜",
+          "en": "Farm animals like cows, sheep, and pigs."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Farmers often raise livestock for meat and dairy products.",
+          "zh": "农民通常饲养牲畜以获取肉类和乳制品。"
+        },
+        {
+          "en": "Livestock management is essential for sustainable agriculture.",
+          "zh": "牲畜管理对于可持续农业至关重要。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'live' in livestock, as these animals are alive and contribute to life on a farm."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=livestock&type=2",
+      "chapter": "认知词汇 动物分类 动物行为"
     }
   ]
 }

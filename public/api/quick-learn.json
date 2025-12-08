@@ -1,68 +1,66 @@
 {
-  "generated": "2025-12-07T22:07:38.737Z",
+  "generated": "2025-12-08T22:08:10.291Z",
   "count": 2,
   "words": [
     {
-      "word": "nugget",
-      "pronunciation": "/ˈnʌɡɪt/",
+      "word": "financial transaction",
+      "pronunciation": "/faɪˈnæn.ʃəl trænˈzæk.ʃən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "小块食物",
-          "en": "A small piece of something, often food."
+          "zh": "金融交易",
+          "en": "A financial transaction is an exchange of money for goods or services."
         },
         {
           "pos": "n.",
-          "zh": "有价值的信息或想法",
-          "en": "A valuable piece of information or insight."
+          "zh": "财务交易",
+          "en": "It refers to any activity that involves money movement."
         }
       ],
       "examples": [
         {
-          "en": "She found a gold nugget while panning for treasure.",
-          "zh": "她在淘金时发现了一块金块。"
+          "en": "The bank reported a significant increase in financial transactions last year.",
+          "zh": "银行报告去年金融交易显著增加。"
         },
         {
-          "en": "The report contained several nuggets of useful advice.",
-          "zh": "该报告包含几条有用的建议。"
+          "en": "She made a financial transaction to pay for her online purchase.",
+          "zh": "她进行了金融交易以支付她的在线购买。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'nugget' as a small, precious thing, like a gold nugget."
+        "association": "Think of a 'transaction' as a train moving money from one station (person) to another."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=nugget&type=2",
-      "chapter": "认知词汇 历史分类 淘金史"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=financial%20transaction&type=2",
+      "chapter": "认知词汇 历史分类 电讯发展史"
     },
     {
-      "word": "lack",
-      "pronunciation": "/læk/",
+      "word": "assert",
+      "pronunciation": "/əˈsɜrt/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "缺乏",
-          "en": "To not have enough of something."
+          "zh": "断言，主张",
+          "en": "To state a fact or belief confidently and forcefully."
         },
         {
-          "pos": "n.",
-          "zh": "缺乏",
-          "en": "The state of not having enough of something."
+          "pos": "v.",
+          "zh": "维护，确保",
+          "en": "To defend or maintain something, especially a right or position."
         }
       ],
       "examples": [
         {
-          "en": "Many children suffer from a lack of proper nutrition.",
-          "zh": "许多孩子缺乏适当的营养。"
+          "en": "She asserted her opinion during the meeting with confidence.",
+          "zh": "她在会议上自信地表达了自己的观点。"
         },
         {
-          "en": "The project failed due to a lack of funding and support.",
-          "zh": "该项目由于缺乏资金和支持而失败。"
+          "en": "The lawyer asserted his client's innocence in court.",
+          "zh": "律师在法庭上坚决主张他的客户无罪。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'lack' as 'lacking' something important in your life."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=lack&type=2",
-      "chapter": "基本词汇 名词200 Unit 6"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=assert&type=2",
+      "chapter": "基本词汇 动词200 Unit 2"
     }
   ]
 }

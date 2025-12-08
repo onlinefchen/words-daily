@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-07T22:07:38.738Z",
+  "generated": "2025-12-08T22:08:10.292Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "catastrophe",
-      "pronunciation": "/kəˈtæs.trə.fi/",
+      "word": "infiltrate",
+      "pronunciation": "/ˈɪnfɪltreɪt/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "灾难",
-          "en": "A sudden event that causes great damage or suffering."
+          "pos": "v.",
+          "zh": "渗透",
+          "en": "To enter or become part of something in a secret way."
         },
         {
-          "pos": "n.",
-          "zh": "大失败",
-          "en": "A complete failure or disaster in a situation."
+          "pos": "v.",
+          "zh": "影响",
+          "en": "To influence something gradually or secretly."
         }
       ],
       "examples": [
         {
-          "en": "The earthquake resulted in a catastrophe for the entire region.",
-          "zh": "这场地震导致了整个地区的灾难。"
+          "en": "The spy managed to infiltrate the enemy's camp unnoticed.",
+          "zh": "间谍成功地秘密潜入了敌人的营地。"
         },
         {
-          "en": "Her project turned into a catastrophe due to poor planning.",
-          "zh": "由于计划不周，她的项目变成了一个大失败。"
+          "en": "Scientists are studying how pollutants can infiltrate water supplies.",
+          "zh": "科学家正在研究污染物如何渗入水源。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'cat' and 'astro' (related to stars) to remember that a catastrophe is something that can be as shocking as a cat falling from the sky."
+        "etymology": "The word 'infiltrate' comes from the Latin 'infiltrare', meaning 'to filter in'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=catastrophe&type=2",
-      "chapter": "核心词汇 科技发展 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=infiltrate&type=2",
+      "chapter": "核心词汇 文化与传统 Unit 3"
     },
     {
-      "word": "colony",
-      "pronunciation": "/ˈkɒl.ə.ni/",
+      "word": "moment magnitude scale",
+      "pronunciation": "/ˈmoʊ.mənt ˈmæɡ.nɪ.tud skeɪl/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "殖民地",
-          "en": "A territory controlled by another country."
+          "zh": "震级",
+          "en": "A scale used to measure the size or strength of earthquakes."
         },
         {
           "pos": "n.",
-          "zh": "群体",
-          "en": "A group of the same type of plants or animals living together."
+          "zh": "地震大小测量",
+          "en": "A method that quantifies the energy released during an earthquake."
         }
       ],
       "examples": [
         {
-          "en": "The British established a colony in America during the 17th century.",
-          "zh": "英国在17世纪在美国建立了一个殖民地。"
+          "en": "The moment magnitude scale is widely used by seismologists.",
+          "zh": "震级尺度被地震学家广泛使用。"
         },
         {
-          "en": "The coral reef is a colony of tiny marine creatures.",
-          "zh": "这个珊瑚礁是大量微小海洋生物的群体。"
+          "en": "This earthquake had a moment magnitude of 7.2, indicating severe shaking.",
+          "zh": "这次地震的震级为7.2，表明震动非常剧烈。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'colony' comes from the Latin 'colonia', meaning 'farm' or 'settlement'."
+        "association": "Think of 'moment' as the instant an earthquake strikes, and 'magnitude' as its strength."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=colony&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=moment%20magnitude%20scale&type=2",
+      "chapter": "认知词汇 自然分类 地震"
     }
   ]
 }

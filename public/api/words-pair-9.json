@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-07T22:07:38.738Z",
+  "generated": "2025-12-08T22:08:10.292Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "original",
-      "pronunciation": "/əˈrɪdʒ.ɪ.nəl/",
+      "word": "emission",
+      "pronunciation": "/ɪˈmɪʃ.ən/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "原创的",
-          "en": "Something that is new and not copied from anything else."
+          "pos": "n.",
+          "zh": "排放",
+          "en": "The act of releasing something, especially gases or pollutants, into the air."
         },
         {
           "pos": "n.",
-          "zh": "原作",
-          "en": "The first version of something from which copies are made."
+          "zh": "发射",
+          "en": "The process of sending out energy, light, or sound."
         }
       ],
       "examples": [
         {
-          "en": "The artist presented her original painting at the gallery.",
-          "zh": "这位艺术家在画廊展示了她的原创画作。"
+          "en": "The emission of carbon dioxide is a major concern for climate change.",
+          "zh": "二氧化碳的排放是气候变化的主要问题。"
         },
         {
-          "en": "His original ideas inspired many people in the community.",
-          "zh": "他原创的想法激励了社区中的许多人。"
+          "en": "New technologies aim to reduce harmful emissions from vehicles.",
+          "zh": "新技术旨在减少汽车的有害排放。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'original' comes from the Latin 'originalis', meaning 'belonging to the beginning'."
+        "etymology": "The word 'emission' comes from the Latin 'emissio', which means 'a sending out'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=original&type=2",
-      "chapter": "核心词汇 文化与传统 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=emission&type=2",
+      "chapter": "认知词汇 自然分类 地震"
     },
     {
-      "word": "recognisable",
-      "pronunciation": "/ˈrɛkəɡˌnaɪzəbl/",
+      "word": "slander",
+      "pronunciation": "/ˈslændər/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "可识别的",
-          "en": "Able to be recognized or identified."
+          "pos": "n.",
+          "zh": "诽谤",
+          "en": "A false spoken statement that damages someone’s reputation."
         },
         {
-          "pos": "adj.",
-          "zh": "公认的",
-          "en": "Known or accepted by many people."
+          "pos": "v.",
+          "zh": "诽谤",
+          "en": "To make false spoken statements about someone that harm their reputation."
         }
       ],
       "examples": [
         {
-          "en": "The logo is easily recognisable from a distance.",
-          "zh": "这个标志从远处很容易被识别。"
+          "en": "The article was accused of slander against the politician.",
+          "zh": "这篇文章被指控对这位政治家进行诽谤。"
         },
         {
-          "en": "Her style is unique but still recognisable.",
-          "zh": "她的风格很独特，但仍然可以识别。"
+          "en": "He decided to sue her for slander after the false claims.",
+          "zh": "在这些虚假的指控之后，他决定起诉她诽谤。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'recognise' as 're-cognise', meaning to know again. This helps remember that something recognisable is known or identified."
+        "association": "Think of 'slander' as 'slandering' someone's name, which is damaging."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=recognisable&type=2",
-      "chapter": "认知词汇 动物分类 动物智力与语言习得"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=slander&type=2",
+      "chapter": "核心词汇 伦理与道德 Unit 5"
     }
   ]
 }

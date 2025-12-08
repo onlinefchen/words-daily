@@ -1,67 +1,69 @@
 {
-  "generated": "2025-12-07T22:07:38.738Z",
+  "generated": "2025-12-08T22:08:10.292Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "chimp",
-      "pronunciation": "/tʃɪmp/",
+      "word": "coeducation",
+      "pronunciation": "/ˌkoʊˌɛdʒʊˈkeɪʃən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "黑猩猩",
-          "en": "A chimp is a type of great ape known for its intelligence."
+          "zh": "男女同校教育",
+          "en": "An educational system where both male and female students are taught together."
         },
         {
           "pos": "n.",
-          "zh": "小丑",
-          "en": "The term 'chimp' can also refer to a person who acts silly or foolish."
+          "zh": "共同教育",
+          "en": "A form of education that promotes equality between genders."
         }
       ],
       "examples": [
         {
-          "en": "Chimps are known for using tools to solve problems.",
-          "zh": "黑猩猩以使用工具解决问题而闻名。"
+          "en": "Coeducation helps to promote gender equality in the classroom.",
+          "zh": "男女同校教育有助于在课堂上促进性别平等。"
         },
         {
-          "en": "The scientist studied how chimps communicate with each other.",
-          "zh": "科学家研究了黑猩猩如何相互交流。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=chimp&type=2",
-      "chapter": "认知词汇 动物分类 动物智力与语言习得"
-    },
-    {
-      "word": "condemn",
-      "pronunciation": "/kənˈdɛm/",
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "谴责",
-          "en": "To express strong disapproval of something."
-        },
-        {
-          "pos": "v.",
-          "zh": "判刑",
-          "en": "To declare someone guilty and assign a punishment."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Many leaders condemned the violent actions of the protesters.",
-          "zh": "许多领导人谴责了抗议者的暴力行为。"
-        },
-        {
-          "en": "The judge decided to condemn the criminal to ten years in prison.",
-          "zh": "法官决定判处罪犯十年监禁。"
+          "en": "Many countries have adopted coeducation as a standard practice.",
+          "zh": "许多国家已将男女同校教育作为标准做法。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'condemn' comes from the Latin 'condemnare', meaning 'to declare guilty'."
+        "association": "Think of 'co' as in 'cooperate' and 'education' as the process of learning together."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=condemn&type=2",
-      "chapter": "基本词汇 动词200 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=coeducation&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 2"
+    },
+    {
+      "word": "joint",
+      "pronunciation": "/dʒɔɪnt/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "关节",
+          "en": "A place where two bones meet and can move."
+        },
+        {
+          "pos": "v.",
+          "zh": "连接",
+          "en": "To connect or combine two or more things."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The doctor explained how the joint helps us move our arms.",
+          "zh": "医生解释了关节如何帮助我们移动手臂。"
+        },
+        {
+          "en": "They decided to joint their efforts to complete the project.",
+          "zh": "他们决定联合努力完成这个项目。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a 'joint' as a place where things come together, like in a partnership."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=joint&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

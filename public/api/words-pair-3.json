@@ -1,67 +1,69 @@
 {
-  "generated": "2025-12-07T22:07:38.737Z",
+  "generated": "2025-12-08T22:08:10.292Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "encounter",
-      "pronunciation": "/ɪnˈkaʊntər/",
+      "word": "ecological",
+      "pronunciation": "/ˌiː.kəˈlɒdʒ.ɪ.kəl/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "遇到",
-          "en": "To meet or come across someone or something unexpectedly."
-        },
-        {
-          "pos": "n.",
-          "zh": "遭遇",
-          "en": "An unexpected meeting or experience."
-        }
-      ],
-      "examples": [
-        {
-          "en": "I had a surprising encounter with an old friend at the market.",
-          "zh": "我在市场上意外遇到了一个老朋友。"
-        },
-        {
-          "en": "The hikers encountered a bear while climbing the mountain.",
-          "zh": "登山者在爬山时遇到了一只熊。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'encounter' as 'in' (inside) + 'counter' (a table or surface), where you meet someone unexpectedly."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=encounter&type=2",
-      "chapter": "基本词汇 动词200 Unit 6"
-    },
-    {
-      "word": "characteristic",
-      "pronunciation": "/ˌkɛrɪktəˈrɪstɪk/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "特征",
-          "en": "A special quality or feature of someone or something."
+          "pos": "adj.",
+          "zh": "生态的",
+          "en": "Related to the relationship between living things and their environment."
         },
         {
           "pos": "adj.",
-          "zh": "特有的",
-          "en": "Describing something that is typical or unique to a person or thing."
+          "zh": "生态学的",
+          "en": "Concerning the study of ecosystems and how organisms interact."
         }
       ],
       "examples": [
         {
-          "en": "Honesty is a characteristic that many people admire in leaders.",
-          "zh": "诚实是许多人欣赏领导者的特征。"
+          "en": "The ecological balance is crucial for sustaining biodiversity.",
+          "zh": "生态平衡对维持生物多样性至关重要。"
         },
         {
-          "en": "The characteristic colors of autumn make the season beautiful.",
-          "zh": "秋天特有的颜色使这个季节变得美丽。"
+          "en": "Many ecological problems arise from human activities and pollution.",
+          "zh": "许多生态问题源于人类活动和污染。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=characteristic&type=2",
-      "chapter": "核心词汇 文化与传统 Unit 1"
+      "memoryTips": {
+        "association": "Think of 'eco' as in 'ecosystem', linking it to the environment for an easy recall."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ecological&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 7"
+    },
+    {
+      "word": "baneful",
+      "pronunciation": "/ˈbeɪn.fəl/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "有害的",
+          "en": "Causing harm or destruction; very harmful."
+        },
+        {
+          "pos": "adj.",
+          "zh": "致命的",
+          "en": "Having a negative effect that can lead to serious consequences."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The baneful effects of pollution are evident in the city's health statistics.",
+          "zh": "污染的有害影响在城市的健康统计中显而易见。"
+        },
+        {
+          "en": "His baneful influence led many young people astray.",
+          "zh": "他有害的影响使许多年轻人误入歧途。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'bane' as a source of harm, like a bad 'bane' to your health."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=baneful&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 3"
     }
   ]
 }
