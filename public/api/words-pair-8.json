@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-08T22:08:10.292Z",
+  "generated": "2025-12-09T22:08:23.647Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "moral",
-      "pronunciation": "/ˈmɔːrəl/",
+      "word": "internal compass",
+      "pronunciation": "/ɪnˈtɜrnəl ˈkɒmpəs/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "内心的指南",
+          "en": "An inner sense that guides one's actions and decisions."
+        },
+        {
+          "pos": "n.",
+          "zh": "道德方向感",
+          "en": "A personal sense of right and wrong that influences choices."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Listening to your internal compass can lead to better decisions.",
+          "zh": "倾听内心的指南可以带来更好的决策。"
+        },
+        {
+          "en": "Trusting your internal compass helps navigate through life's challenges.",
+          "zh": "相信自己的内心指南有助于应对生活的挑战。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of your internal compass as a GPS for your values and instincts."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=internal%20compass&type=2",
+      "chapter": "认知词汇 动物分类 动物智力与语言习得"
+    },
+    {
+      "word": "basaltic lava",
+      "pronunciation": "/bəˈsæl.tɪk ˈlɑː.və/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "道德的",
-          "en": "Relating to what is right and wrong in human behavior."
+          "zh": "玄武岩的",
+          "en": "Relating to a type of lava that is rich in magnesium and iron."
         },
         {
           "pos": "n.",
-          "zh": "道德",
-          "en": "A lesson about what is right or wrong, often taught through stories."
+          "zh": "玄武岩熔岩",
+          "en": "A type of lava that flows easily and forms smooth, flat surfaces."
         }
       ],
       "examples": [
         {
-          "en": "The story conveys a strong moral about honesty and integrity.",
-          "zh": "这个故事传达了关于诚实和正直的强烈道德观。"
+          "en": "Basaltic lava forms large, smooth plateaus in volcanic regions.",
+          "zh": "玄武岩熔岩在火山地区形成大而平滑的高原。"
         },
         {
-          "en": "Understanding moral values is essential for personal development.",
-          "zh": "理解道德价值观对个人发展至关重要。"
+          "en": "The eruption produced a river of basaltic lava that flowed down the mountain.",
+          "zh": "这次喷发产生了一条流下山的玄武岩熔岩河。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'moral' comes from the Latin 'moralis', which means 'pertaining to manners'."
+        "association": "Think of 'basaltic' as 'base' because it forms the base of many volcanic landscapes."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=moral&type=2",
-      "chapter": "核心词汇 伦理与道德 Unit 4"
-    },
-    {
-      "word": "livestock",
-      "pronunciation": "/ˈlaɪvˌstɑk/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "牲畜",
-          "en": "Animals raised for food, work, or other purposes."
-        },
-        {
-          "pos": "n.",
-          "zh": "家畜",
-          "en": "Farm animals like cows, sheep, and pigs."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Farmers often raise livestock for meat and dairy products.",
-          "zh": "农民通常饲养牲畜以获取肉类和乳制品。"
-        },
-        {
-          "en": "Livestock management is essential for sustainable agriculture.",
-          "zh": "牲畜管理对于可持续农业至关重要。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'live' in livestock, as these animals are alive and contribute to life on a farm."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=livestock&type=2",
-      "chapter": "认知词汇 动物分类 动物行为"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=basaltic%20lava&type=2",
+      "chapter": "认知词汇 自然分类 火山"
     }
   ]
 }

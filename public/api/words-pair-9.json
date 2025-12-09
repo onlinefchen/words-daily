@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-08T22:08:10.292Z",
+  "generated": "2025-12-09T22:08:23.647Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "emission",
-      "pronunciation": "/ɪˈmɪʃ.ən/",
+      "word": "devastation",
+      "pronunciation": "/ˌdɛvəˈsteɪʃən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "排放",
-          "en": "The act of releasing something, especially gases or pollutants, into the air."
+          "zh": "毁灭，破坏",
+          "en": "The act of causing great destruction or damage."
         },
         {
           "pos": "n.",
-          "zh": "发射",
-          "en": "The process of sending out energy, light, or sound."
+          "zh": "悲痛，痛苦",
+          "en": "Severe emotional pain or distress."
         }
       ],
       "examples": [
         {
-          "en": "The emission of carbon dioxide is a major concern for climate change.",
-          "zh": "二氧化碳的排放是气候变化的主要问题。"
+          "en": "The devastation caused by the hurricane was unprecedented in recent history.",
+          "zh": "飓风造成的毁灭在最近的历史中是前所未有的。"
         },
         {
-          "en": "New technologies aim to reduce harmful emissions from vehicles.",
-          "zh": "新技术旨在减少汽车的有害排放。"
+          "en": "She felt a sense of devastation after losing her beloved pet.",
+          "zh": "失去心爱的宠物后，她感到一种悲痛。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'emission' comes from the Latin 'emissio', which means 'a sending out'."
+        "association": "Think of 'devastation' as a 'devastating situation' where everything is destroyed."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=emission&type=2",
-      "chapter": "认知词汇 自然分类 地震"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=devastation&type=2",
+      "chapter": "核心词汇 环境保护 Unit 2"
     },
     {
-      "word": "slander",
-      "pronunciation": "/ˈslændər/",
+      "word": "physician",
+      "pronunciation": "/fɪˈzɪʃ.ən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "诽谤",
-          "en": "A false spoken statement that damages someone’s reputation."
+          "zh": "医生",
+          "en": "A physician is a medical doctor who treats patients."
         },
         {
-          "pos": "v.",
-          "zh": "诽谤",
-          "en": "To make false spoken statements about someone that harm their reputation."
+          "pos": "n.",
+          "zh": "医学专家",
+          "en": "A physician is someone who specializes in the practice of medicine."
         }
       ],
       "examples": [
         {
-          "en": "The article was accused of slander against the politician.",
-          "zh": "这篇文章被指控对这位政治家进行诽谤。"
+          "en": "The physician advised me to eat a balanced diet for better health.",
+          "zh": "医生建议我均衡饮食以保持健康。"
         },
         {
-          "en": "He decided to sue her for slander after the false claims.",
-          "zh": "在这些虚假的指控之后，他决定起诉她诽谤。"
+          "en": "After the examination, the physician prescribed some medication.",
+          "zh": "检查后，医生开了一些药物。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'slander' as 'slandering' someone's name, which is damaging."
+        "etymology": "The word 'physician' comes from the Latin 'physica', meaning 'natural science' or 'medicine'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=slander&type=2",
-      "chapter": "核心词汇 伦理与道德 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=physician&type=2",
+      "chapter": "核心词汇 健康话题 Unit 4"
     }
   ]
 }

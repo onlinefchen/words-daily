@@ -1,67 +1,71 @@
 {
-  "generated": "2025-12-08T22:08:10.292Z",
+  "generated": "2025-12-09T22:08:23.646Z",
   "pair": 1,
   "count": 2,
   "words": [
     {
-      "word": "financial transaction",
-      "pronunciation": "/faɪˈnæn.ʃəl trænˈzæk.ʃən/",
+      "word": "inexperience",
+      "pronunciation": "/ˌɪnɪkˈspɪərəns/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "金融交易",
-          "en": "A financial transaction is an exchange of money for goods or services."
+          "zh": "缺乏经验",
+          "en": "The state of having little or no experience in a particular field."
         },
         {
           "pos": "n.",
-          "zh": "财务交易",
-          "en": "It refers to any activity that involves money movement."
+          "zh": "无知",
+          "en": "The lack of knowledge or skills in a specific area."
         }
       ],
       "examples": [
         {
-          "en": "The bank reported a significant increase in financial transactions last year.",
-          "zh": "银行报告去年金融交易显著增加。"
+          "en": "Her inexperience in negotiations led to a poor agreement.",
+          "zh": "她在谈判中的缺乏经验导致了一个糟糕的协议。"
         },
         {
-          "en": "She made a financial transaction to pay for her online purchase.",
-          "zh": "她进行了金融交易以支付她的在线购买。"
+          "en": "Inexperience can be a barrier to success in many careers.",
+          "zh": "缺乏经验可能是许多职业成功的障碍。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'transaction' as a train moving money from one station (person) to another."
+        "etymology": "The word 'inexperience' comes from the prefix 'in-' meaning 'not' and 'experience', which refers to the knowledge or skill gained through involvement.",
+        "association": "Think of 'in-experience' as 'not having experiences', which can help you remember its meaning."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=financial%20transaction&type=2",
-      "chapter": "认知词汇 历史分类 电讯发展史"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=inexperience&type=2",
+      "chapter": "核心词汇 法制与犯罪 Unit 2"
     },
     {
-      "word": "assert",
-      "pronunciation": "/əˈsɜrt/",
+      "word": "advancement",
+      "pronunciation": "/ədˈvænsmənt/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "断言，主张",
-          "en": "To state a fact or belief confidently and forcefully."
+          "pos": "n.",
+          "zh": "进展",
+          "en": "The process of making progress or moving forward in a particular field."
         },
         {
-          "pos": "v.",
-          "zh": "维护，确保",
-          "en": "To defend or maintain something, especially a right or position."
+          "pos": "n.",
+          "zh": "提升",
+          "en": "An increase in position, rank, or status, often in a job or career."
         }
       ],
       "examples": [
         {
-          "en": "She asserted her opinion during the meeting with confidence.",
-          "zh": "她在会议上自信地表达了自己的观点。"
+          "en": "The advancement of technology has changed our daily lives significantly.",
+          "zh": "科技的进步显著改变了我们的日常生活。"
         },
         {
-          "en": "The lawyer asserted his client's innocence in court.",
-          "zh": "律师在法庭上坚决主张他的客户无罪。"
+          "en": "She received a promotion as a result of her hard work and advancement.",
+          "zh": "由于她的努力工作，她获得了晋升。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=assert&type=2",
-      "chapter": "基本词汇 动词200 Unit 2"
+      "memoryTips": {
+        "etymology": "The word 'advancement' comes from the Old French 'avancement' and the Latin 'adventus', meaning 'arrival' or 'approach'.",
+        "association": "Think of 'advance' as stepping forward; 'advancement' is the process of stepping forward in your career or knowledge."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=advancement&type=2",
+      "chapter": "基本词汇 名词200 Unit 1"
     }
   ]
 }

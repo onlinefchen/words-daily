@@ -1,761 +1,760 @@
 {
-  "generated": "2025-12-08T22:08:10.291Z",
-  "date": "2025-12-08",
+  "generated": "2025-12-09T22:08:23.645Z",
+  "date": "2025-12-09",
   "totalWords": 20,
   "words": [
     {
-      "id": "w04105",
-      "word": "financial transaction",
-      "type": "phrase",
-      "chapterIndex": 16,
-      "globalIndex": 4105,
-      "chapter": "ch130",
-      "chapterName": "认知词汇 历史分类 电讯发展史",
+      "id": "w01737",
+      "word": "inexperience",
+      "type": "single",
+      "chapterIndex": 17,
+      "globalIndex": 1737,
+      "chapter": "ch087",
+      "chapterName": "核心词汇 法制与犯罪 Unit 2",
       "pronunciation": {
-        "us": "/faɪˈnæn.ʃəl trænˈzæk.ʃən/"
+        "us": "/ˌɪnɪkˈspɪərəns/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "金融交易",
-          "en": "A financial transaction is an exchange of money for goods or services."
+          "zh": "缺乏经验",
+          "en": "The state of having little or no experience in a particular field."
         },
         {
           "pos": "n.",
-          "zh": "财务交易",
-          "en": "It refers to any activity that involves money movement."
+          "zh": "无知",
+          "en": "The lack of knowledge or skills in a specific area."
         }
       ],
       "examples": [
         {
-          "en": "The bank reported a significant increase in financial transactions last year.",
-          "zh": "银行报告去年金融交易显著增加。"
+          "en": "Her inexperience in negotiations led to a poor agreement.",
+          "zh": "她在谈判中的缺乏经验导致了一个糟糕的协议。"
         },
         {
-          "en": "She made a financial transaction to pay for her online purchase.",
-          "zh": "她进行了金融交易以支付她的在线购买。"
+          "en": "Inexperience can be a barrier to success in many careers.",
+          "zh": "缺乏经验可能是许多职业成功的障碍。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'transaction' as a train moving money from one station (person) to another."
+        "etymology": "The word 'inexperience' comes from the prefix 'in-' meaning 'not' and 'experience', which refers to the knowledge or skill gained through involvement.",
+        "association": "Think of 'in-experience' as 'not having experiences', which can help you remember its meaning."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=financial%20transaction&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=inexperience&type=2"
     },
     {
-      "id": "w00029",
-      "word": "assert",
+      "id": "w00209",
+      "word": "advancement",
       "type": "single",
       "chapterIndex": 9,
-      "globalIndex": 29,
-      "chapter": "ch002",
-      "chapterName": "基本词汇 动词200 Unit 2",
+      "globalIndex": 209,
+      "chapter": "ch011",
+      "chapterName": "基本词汇 名词200 Unit 1",
       "pronunciation": {
-        "us": "/əˈsɜrt/"
+        "us": "/ədˈvænsmənt/"
       },
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "断言，主张",
-          "en": "To state a fact or belief confidently and forcefully."
-        },
-        {
-          "pos": "v.",
-          "zh": "维护，确保",
-          "en": "To defend or maintain something, especially a right or position."
-        }
-      ],
-      "examples": [
-        {
-          "en": "She asserted her opinion during the meeting with confidence.",
-          "zh": "她在会议上自信地表达了自己的观点。"
-        },
-        {
-          "en": "The lawyer asserted his client's innocence in court.",
-          "zh": "律师在法庭上坚决主张他的客户无罪。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=assert&type=2"
-    },
-    {
-      "id": "w00685",
-      "word": "preliminary",
-      "type": "single",
-      "chapterIndex": 5,
-      "globalIndex": 685,
-      "chapter": "ch035",
-      "chapterName": "基本词汇 形容词和副词400 Unit 15",
-      "pronunciation": {
-        "us": "/prɪˈlɪmɪnəri/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "初步的",
-          "en": "Something that comes before the main part or is an initial step."
+          "pos": "n.",
+          "zh": "进展",
+          "en": "The process of making progress or moving forward in a particular field."
         },
         {
           "pos": "n.",
-          "zh": "初步措施",
-          "en": "An action or decision taken before the main event."
+          "zh": "提升",
+          "en": "An increase in position, rank, or status, often in a job or career."
         }
       ],
       "examples": [
         {
-          "en": "The preliminary results show a significant increase in sales.",
-          "zh": "初步结果显示销售额显著增加。"
+          "en": "The advancement of technology has changed our daily lives significantly.",
+          "zh": "科技的进步显著改变了我们的日常生活。"
         },
         {
-          "en": "They held a preliminary meeting to discuss project goals.",
-          "zh": "他们举行了初步会议以讨论项目目标。"
+          "en": "She received a promotion as a result of her hard work and advancement.",
+          "zh": "由于她的努力工作，她获得了晋升。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'preliminary' comes from the Latin 'prae-' meaning 'before' and 'limin' meaning 'threshold', indicating something that comes before the main event."
+        "etymology": "The word 'advancement' comes from the Old French 'avancement' and the Latin 'adventus', meaning 'arrival' or 'approach'.",
+        "association": "Think of 'advance' as stepping forward; 'advancement' is the process of stepping forward in your career or knowledge."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=preliminary&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=advancement&type=2"
     },
     {
-      "id": "w01272",
-      "word": "fantastic",
+      "id": "w01346",
+      "word": "pessimistic",
       "type": "single",
-      "chapterIndex": 12,
-      "globalIndex": 1272,
-      "chapter": "ch064",
-      "chapterName": "核心词汇 青少年教育 Unit 4",
+      "chapterIndex": 6,
+      "globalIndex": 1346,
+      "chapter": "ch068",
+      "chapterName": "核心词汇 青少年教育 Unit 8",
       "pronunciation": {
-        "us": "/fænˈtæstɪk/"
+        "us": "/ˌpɛsɪˈmɪstɪk/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "极好的",
-          "en": "Extremely good or impressive."
+          "zh": "悲观的",
+          "en": "Having a negative outlook on life or expecting bad outcomes."
         },
         {
           "pos": "adj.",
-          "zh": "幻想的",
-          "en": "Relating to things that are imaginary or not real."
+          "zh": "缺乏希望的",
+          "en": "Lacking hope or confidence in future events."
         }
       ],
       "examples": [
         {
-          "en": "The view from the mountain was absolutely fantastic and breathtaking.",
-          "zh": "从山顶看到的景色真是极好，令人叹为观止。"
+          "en": "She has a pessimistic view of the future and often feels discouraged.",
+          "zh": "她对未来持悲观态度，常常感到沮丧。"
         },
         {
-          "en": "She had a fantastic idea for improving the community garden.",
-          "zh": "她有一个极好的主意来改善社区花园。"
+          "en": "His pessimistic attitude affects his friends and family negatively.",
+          "zh": "他悲观的态度对朋友和家人产生了负面影响。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'fantasy' to remember that 'fantastic' relates to amazing or imaginary things."
+        "association": "Think of 'pessimist' as someone always wearing dark glasses, seeing the world negatively."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=fantastic&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pessimistic&type=2"
     },
     {
-      "id": "w00533",
-      "word": "ecological",
+      "id": "w04255",
+      "word": "sub-vocalisation",
       "type": "single",
-      "chapterIndex": 13,
-      "globalIndex": 533,
-      "chapter": "ch027",
-      "chapterName": "基本词汇 形容词和副词400 Unit 7",
+      "chapterIndex": 46,
+      "globalIndex": 4255,
+      "chapter": "ch134",
+      "chapterName": "认知词汇 教育分类 阅读技能",
       "pronunciation": {
-        "us": "/ˌiː.kəˈlɒdʒ.ɪ.kəl/"
+        "us": "/sʌbˌvoʊ.kəl.ɪˈzeɪ.ʃən/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "默读",
+          "en": "The act of silently saying words in your mind while reading."
+        },
+        {
+          "pos": "n.",
+          "zh": "内心发音",
+          "en": "The internal voice that helps you process written text."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many readers use sub-vocalisation to understand complex texts better.",
+          "zh": "许多读者使用默读来更好地理解复杂的文本。"
+        },
+        {
+          "en": "Sub-vocalisation can slow down reading speed if overused.",
+          "zh": "如果过度使用，默读可能会减慢阅读速度。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'sub' as below and 'vocalisation' as voice; it’s your inner voice speaking below the surface."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sub-vocalisation&type=2"
+    },
+    {
+      "id": "w00929",
+      "word": "disaster",
+      "type": "single",
+      "chapterIndex": 9,
+      "globalIndex": 929,
+      "chapter": "ch047",
+      "chapterName": "核心词汇 环境保护 Unit 2",
+      "pronunciation": {
+        "us": "/dɪˈzæstər/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "灾难",
+          "en": "A disaster is a sudden event that causes great damage or suffering."
+        },
+        {
+          "pos": "n.",
+          "zh": "失败",
+          "en": "It can also refer to a complete failure or something that goes very wrong."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The hurricane was a disaster that destroyed many homes and lives.",
+          "zh": "飓风是一个灾难，摧毁了许多家庭和生命。"
+        },
+        {
+          "en": "The project turned into a disaster due to poor planning and execution.",
+          "zh": "由于规划和执行不当，该项目变成了一场灾难。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'disaster' comes from the Italian 'disastro', meaning 'ill-starred', derived from 'dis-' (bad) and 'astro' (star), indicating bad fortune."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disaster&type=2"
+    },
+    {
+      "id": "w00374",
+      "word": "traffic",
+      "type": "single",
+      "chapterIndex": 14,
+      "globalIndex": 374,
+      "chapter": "ch019",
+      "chapterName": "基本词汇 名词200 Unit 9",
+      "pronunciation": {
+        "us": "/ˈtræfɪk/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "交通",
+          "en": "The movement of vehicles on roads."
+        },
+        {
+          "pos": "v.",
+          "zh": "堵塞",
+          "en": "To cause congestion or blockage in traffic."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The traffic was so heavy that I arrived late to the meeting.",
+          "zh": "交通非常繁忙，我开会迟到了。"
+        },
+        {
+          "en": "She tried to avoid traffic by taking a different route.",
+          "zh": "她试图通过选择不同的路线来避开交通。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'traffic' as a 'track' where vehicles 'traffic' through."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=traffic&type=2"
+    },
+    {
+      "id": "w00676",
+      "word": "pornographic",
+      "type": "single",
+      "chapterIndex": 16,
+      "globalIndex": 676,
+      "chapter": "ch034",
+      "chapterName": "基本词汇 形容词和副词400 Unit 14",
+      "pronunciation": {
+        "us": "/ˌpɔrnəˈgræfɪk/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "生态的",
-          "en": "Related to the relationship between living things and their environment."
+          "zh": "色情的",
+          "en": "Related to sexual content that is intended to cause sexual excitement."
         },
         {
           "pos": "adj.",
-          "zh": "生态学的",
-          "en": "Concerning the study of ecosystems and how organisms interact."
+          "zh": "露骨的",
+          "en": "Describing material that displays sexual acts or nudity in a graphic way."
         }
       ],
       "examples": [
         {
-          "en": "The ecological balance is crucial for sustaining biodiversity.",
-          "zh": "生态平衡对维持生物多样性至关重要。"
+          "en": "Many countries have laws against distributing pornographic material.",
+          "zh": "许多国家对传播色情材料有法律限制。"
         },
         {
-          "en": "Many ecological problems arise from human activities and pollution.",
-          "zh": "许多生态问题源于人类活动和污染。"
+          "en": "The film was criticized for its pornographic scenes and explicit content.",
+          "zh": "这部电影因其色情场景和露骨内容而受到批评。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'eco' as in 'ecosystem', linking it to the environment for an easy recall."
+        "association": "Think of 'porn' as the root of 'pornographic,' associating it with adult content."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ecological&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pornographic&type=2"
     },
     {
-      "id": "w00448",
-      "word": "baneful",
+      "id": "w00239",
+      "word": "creativity",
       "type": "single",
-      "chapterIndex": 8,
-      "globalIndex": 448,
-      "chapter": "ch023",
-      "chapterName": "基本词汇 形容词和副词400 Unit 3",
+      "chapterIndex": 19,
+      "globalIndex": 239,
+      "chapter": "ch012",
+      "chapterName": "基本词汇 名词200 Unit 2",
       "pronunciation": {
-        "us": "/ˈbeɪn.fəl/"
+        "us": "/kriˈeɪtɪvɪti/"
       },
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "有害的",
-          "en": "Causing harm or destruction; very harmful."
+          "pos": "n.",
+          "zh": "创造力",
+          "en": "The ability to produce new ideas or things."
         },
         {
-          "pos": "adj.",
-          "zh": "致命的",
-          "en": "Having a negative effect that can lead to serious consequences."
+          "pos": "n.",
+          "zh": "创造性",
+          "en": "The quality of being imaginative or original."
         }
       ],
       "examples": [
         {
-          "en": "The baneful effects of pollution are evident in the city's health statistics.",
-          "zh": "污染的有害影响在城市的健康统计中显而易见。"
+          "en": "Her creativity helped the team develop innovative solutions.",
+          "zh": "她的创造力帮助团队开发了创新的解决方案。"
         },
         {
-          "en": "His baneful influence led many young people astray.",
-          "zh": "他有害的影响使许多年轻人误入歧途。"
+          "en": "Art often reflects the creativity of the artist's mind.",
+          "zh": "艺术常常反映出艺术家头脑中的创造力。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'bane' as a source of harm, like a bad 'bane' to your health."
+        "etymology": "The word 'creativity' comes from the Latin root 'creare', meaning 'to create'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=baneful&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=creativity&type=2"
     },
     {
-      "id": "w02626",
-      "word": "lava",
+      "id": "w01345",
+      "word": "perplex",
       "type": "single",
-      "chapterIndex": 41,
-      "globalIndex": 2626,
+      "chapterIndex": 5,
+      "globalIndex": 1345,
+      "chapter": "ch068",
+      "chapterName": "核心词汇 青少年教育 Unit 8",
+      "pronunciation": {
+        "us": "/pərˈplɛks/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "使困惑",
+          "en": "To confuse someone or make them unsure about something."
+        },
+        {
+          "pos": "v.",
+          "zh": "使复杂",
+          "en": "To make something more complicated or difficult to understand."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The complex math problem perplexed the students during the exam.",
+          "zh": "复杂的数学题让学生们在考试中感到困惑。"
+        },
+        {
+          "en": "His sudden change in behavior perplexed his friends and family.",
+          "zh": "他突然的行为变化让朋友和家人感到困惑。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'perplex' comes from the Latin 'perplexus,' meaning 'entangled' or 'complicated.'"
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=perplex&type=2"
+    },
+    {
+      "id": "w00962",
+      "word": "litter",
+      "type": "single",
+      "chapterIndex": 2,
+      "globalIndex": 962,
+      "chapter": "ch049",
+      "chapterName": "核心词汇 环境保护 Unit 4",
+      "pronunciation": {
+        "us": "/ˈlɪtər/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "垃圾，废物",
+          "en": "Waste material that is disposed of improperly."
+        },
+        {
+          "pos": "v.",
+          "zh": "乱扔，丢弃",
+          "en": "To throw away trash in a careless manner."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many parks are ruined by people who litter carelessly.",
+          "zh": "许多公园因人们随意乱扔垃圾而被破坏。"
+        },
+        {
+          "en": "The city organized a campaign to clean up litter from the streets.",
+          "zh": "这座城市组织了一场清理街道垃圾的活动。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'litter' as 'little trash' scattered around."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=litter&type=2"
+    },
+    {
+      "id": "w02630",
+      "word": "non-explosive lava flow",
+      "type": "phrase",
+      "chapterIndex": 45,
+      "globalIndex": 2630,
       "chapter": "ch105",
       "chapterName": "认知词汇 自然分类 火山",
       "pronunciation": {
-        "us": "/ˈlævə/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "熔岩",
-          "en": "Molten rock that erupts from a volcano."
-        },
-        {
-          "pos": "n.",
-          "zh": "火山喷发物",
-          "en": "Material that flows from a volcano during an eruption."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The lava from the volcano flowed down the mountain side.",
-          "zh": "火山的熔岩沿着山坡流下。"
-        },
-        {
-          "en": "When lava cools, it can form solid rock formations.",
-          "zh": "当熔岩冷却时，可以形成固体岩石构造。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'lava' as 'lava lamp,' which is a visual reminder of flowing molten material."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=lava&type=2"
-    },
-    {
-      "id": "w02047",
-      "word": "blue whale",
-      "type": "phrase",
-      "chapterIndex": 147,
-      "globalIndex": 2047,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/bluː weɪl/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "蓝鲸",
-          "en": "The blue whale is the largest animal on Earth, known for its immense size."
-        },
-        {
-          "pos": "n.",
-          "zh": "蓝鲸",
-          "en": "Blue whales are marine mammals that live in oceans and feed on small shrimp-like animals called krill."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The blue whale can grow up to 100 feet long and weigh over 200 tons.",
-          "zh": "蓝鲸可以长到100英尺，体重超过200吨。"
-        },
-        {
-          "en": "Scientists study blue whales to understand their migration patterns and feeding habits.",
-          "zh": "科学家研究蓝鲸以了解它们的迁徙模式和觅食习惯。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of the color blue representing the ocean, where blue whales live, and their large size as a symbol of strength and majesty."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=blue%20whale&type=2"
-    },
-    {
-      "id": "w01225",
-      "word": "coeducation",
-      "type": "single",
-      "chapterIndex": 5,
-      "globalIndex": 1225,
-      "chapter": "ch062",
-      "chapterName": "核心词汇 青少年教育 Unit 2",
-      "pronunciation": {
-        "us": "/ˌkoʊˌɛdʒʊˈkeɪʃən/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "男女同校教育",
-          "en": "An educational system where both male and female students are taught together."
-        },
-        {
-          "pos": "n.",
-          "zh": "共同教育",
-          "en": "A form of education that promotes equality between genders."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Coeducation helps to promote gender equality in the classroom.",
-          "zh": "男女同校教育有助于在课堂上促进性别平等。"
-        },
-        {
-          "en": "Many countries have adopted coeducation as a standard practice.",
-          "zh": "许多国家已将男女同校教育作为标准做法。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'co' as in 'cooperate' and 'education' as the process of learning together."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=coeducation&type=2"
-    },
-    {
-      "id": "w02185",
-      "word": "joint",
-      "type": "single",
-      "chapterIndex": 285,
-      "globalIndex": 2185,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/dʒɔɪnt/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "关节",
-          "en": "A place where two bones meet and can move."
-        },
-        {
-          "pos": "v.",
-          "zh": "连接",
-          "en": "To connect or combine two or more things."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The doctor explained how the joint helps us move our arms.",
-          "zh": "医生解释了关节如何帮助我们移动手臂。"
-        },
-        {
-          "en": "They decided to joint their efforts to complete the project.",
-          "zh": "他们决定联合努力完成这个项目。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of a 'joint' as a place where things come together, like in a partnership."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=joint&type=2"
-    },
-    {
-      "id": "w01057",
-      "word": "infiltrate",
-      "type": "single",
-      "chapterIndex": 17,
-      "globalIndex": 1057,
-      "chapter": "ch053",
-      "chapterName": "核心词汇 文化与传统 Unit 3",
-      "pronunciation": {
-        "us": "/ˈɪnfɪltreɪt/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "渗透",
-          "en": "To enter or become part of something in a secret way."
-        },
-        {
-          "pos": "v.",
-          "zh": "影响",
-          "en": "To influence something gradually or secretly."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The spy managed to infiltrate the enemy's camp unnoticed.",
-          "zh": "间谍成功地秘密潜入了敌人的营地。"
-        },
-        {
-          "en": "Scientists are studying how pollutants can infiltrate water supplies.",
-          "zh": "科学家正在研究污染物如何渗入水源。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'infiltrate' comes from the Latin 'infiltrare', meaning 'to filter in'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=infiltrate&type=2"
-    },
-    {
-      "id": "w02496",
-      "word": "moment magnitude scale",
-      "type": "phrase",
-      "chapterIndex": 49,
-      "globalIndex": 2496,
-      "chapter": "ch102",
-      "chapterName": "认知词汇 自然分类 地震",
-      "pronunciation": {
-        "us": "/ˈmoʊ.mənt ˈmæɡ.nɪ.tud skeɪl/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "震级",
-          "en": "A scale used to measure the size or strength of earthquakes."
-        },
-        {
-          "pos": "n.",
-          "zh": "地震大小测量",
-          "en": "A method that quantifies the energy released during an earthquake."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The moment magnitude scale is widely used by seismologists.",
-          "zh": "震级尺度被地震学家广泛使用。"
-        },
-        {
-          "en": "This earthquake had a moment magnitude of 7.2, indicating severe shaking.",
-          "zh": "这次地震的震级为7.2，表明震动非常剧烈。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'moment' as the instant an earthquake strikes, and 'magnitude' as its strength."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=moment%20magnitude%20scale&type=2"
-    },
-    {
-      "id": "w01184",
-      "word": "sluttish",
-      "type": "single",
-      "chapterIndex": 4,
-      "globalIndex": 1184,
-      "chapter": "ch060",
-      "chapterName": "核心词汇 伦理与道德 Unit 5",
-      "pronunciation": {
-        "us": "/ˈslʌtɪʃ/"
+        "us": "/nɒn-ɪkˈspləʊsɪv ˈlɑːvə floʊ/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "邋遢的，懒散的",
-          "en": "Having a dirty or untidy appearance; careless."
-        },
-        {
-          "pos": "adj.",
-          "zh": "不修边幅的，放荡的",
-          "en": "Indicating a lack of care in appearance or behavior."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Her sluttish appearance made it difficult to take her seriously.",
-          "zh": "她邋遢的外表让人很难认真对待她。"
-        },
-        {
-          "en": "His sluttish behavior at the party surprised everyone.",
-          "zh": "他在聚会上的放荡行为让所有人都感到惊讶。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'slut' in 'sluttish' as a link to being careless about appearance."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sluttish&type=2"
-    },
-    {
-      "id": "w00485",
-      "word": "controversial",
-      "type": "single",
-      "chapterIndex": 5,
-      "globalIndex": 485,
-      "chapter": "ch025",
-      "chapterName": "基本词汇 形容词和副词400 Unit 5",
-      "pronunciation": {
-        "us": "/ˌkɒn.troˈvɜːr.ʃəl/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "有争议的",
-          "en": "Causing a lot of disagreement or discussion."
-        },
-        {
-          "pos": "adj.",
-          "zh": "引起争论的",
-          "en": "Something that people have strong, differing opinions about."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The controversial decision led to protests in several cities.",
-          "zh": "这一有争议的决定在几个城市引发了抗议。"
-        },
-        {
-          "en": "Many films are controversial due to their sensitive topics.",
-          "zh": "许多电影因其敏感话题而引起争议。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'controversial' as 'con' (against) + 'troversy' (argument) – an argument against something."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=controversial&type=2"
-    },
-    {
-      "id": "w01162",
-      "word": "moral",
-      "type": "single",
-      "chapterIndex": 2,
-      "globalIndex": 1162,
-      "chapter": "ch059",
-      "chapterName": "核心词汇 伦理与道德 Unit 4",
-      "pronunciation": {
-        "us": "/ˈmɔːrəl/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "道德的",
-          "en": "Relating to what is right and wrong in human behavior."
+          "zh": "非爆炸性的",
+          "en": "Describing lava that flows smoothly without explosive eruptions."
         },
         {
           "pos": "n.",
-          "zh": "道德",
-          "en": "A lesson about what is right or wrong, often taught through stories."
+          "zh": "非爆炸性熔岩流",
+          "en": "A type of lava flow that is gentle and does not cause explosions."
         }
       ],
       "examples": [
         {
-          "en": "The story conveys a strong moral about honesty and integrity.",
-          "zh": "这个故事传达了关于诚实和正直的强烈道德观。"
+          "en": "Non-explosive lava flows create wide, gentle landscapes over time.",
+          "zh": "非爆炸性熔岩流随着时间的推移形成宽广而平缓的地貌。"
         },
         {
-          "en": "Understanding moral values is essential for personal development.",
-          "zh": "理解道德价值观对个人发展至关重要。"
+          "en": "Scientists study non-explosive lava flows to understand volcanic activity better.",
+          "zh": "科学家研究非爆炸性熔岩流以更好地理解火山活动。"
         }
       ],
-      "memoryTips": {
-        "etymology": "The word 'moral' comes from the Latin 'moralis', which means 'pertaining to manners'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=moral&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=non-explosive%20lava%20flow&type=2"
     },
     {
-      "id": "w02374",
-      "word": "livestock",
+      "id": "w00396",
+      "word": "weakness",
       "type": "single",
       "chapterIndex": 16,
-      "globalIndex": 2374,
-      "chapter": "ch099",
-      "chapterName": "认知词汇 动物分类 动物行为",
+      "globalIndex": 396,
+      "chapter": "ch020",
+      "chapterName": "基本词汇 名词200 Unit 10",
       "pronunciation": {
-        "us": "/ˈlaɪvˌstɑk/"
+        "us": "/ˈwiːk.nəs/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "牲畜",
-          "en": "Animals raised for food, work, or other purposes."
+          "zh": "弱点",
+          "en": "A lack of strength or a flaw in someone's character."
         },
         {
           "pos": "n.",
-          "zh": "家畜",
-          "en": "Farm animals like cows, sheep, and pigs."
+          "zh": "虚弱",
+          "en": "The state of being weak in health or power."
         }
       ],
       "examples": [
         {
-          "en": "Farmers often raise livestock for meat and dairy products.",
-          "zh": "农民通常饲养牲畜以获取肉类和乳制品。"
+          "en": "Her greatest weakness is her inability to say no to others.",
+          "zh": "她最大的弱点是无法对他人说不。"
         },
         {
-          "en": "Livestock management is essential for sustainable agriculture.",
-          "zh": "牲畜管理对于可持续农业至关重要。"
+          "en": "Many athletes work hard to overcome their physical weaknesses.",
+          "zh": "许多运动员努力克服他们的身体弱点。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'live' in livestock, as these animals are alive and contribute to life on a farm."
+        "association": "Think of 'weakness' as a 'week' when you're feeling weak, like a tired day."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=livestock&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=weakness&type=2"
     },
     {
-      "id": "w02468",
-      "word": "emission",
+      "id": "w02504",
+      "word": "rocks'fabric",
       "type": "single",
-      "chapterIndex": 21,
-      "globalIndex": 2468,
+      "chapterIndex": 57,
+      "globalIndex": 2504,
       "chapter": "ch102",
       "chapterName": "认知词汇 自然分类 地震",
       "pronunciation": {
-        "us": "/ɪˈmɪʃ.ən/"
+        "us": "/ˈrɑks ˈfæbrɪk/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "排放",
-          "en": "The act of releasing something, especially gases or pollutants, into the air."
+          "zh": "岩石的结构",
+          "en": "The arrangement and composition of minerals in a rock."
         },
         {
           "pos": "n.",
-          "zh": "发射",
-          "en": "The process of sending out energy, light, or sound."
+          "zh": "岩石的织物",
+          "en": "The texture or characteristics of a rock."
         }
       ],
       "examples": [
         {
-          "en": "The emission of carbon dioxide is a major concern for climate change.",
-          "zh": "二氧化碳的排放是气候变化的主要问题。"
+          "en": "The rocks' fabric reveals important information about their formation.",
+          "zh": "岩石的结构揭示了有关其形成的重要信息。"
         },
         {
-          "en": "New technologies aim to reduce harmful emissions from vehicles.",
-          "zh": "新技术旨在减少汽车的有害排放。"
+          "en": "Geologists study rocks' fabric to understand Earth's history.",
+          "zh": "地质学家研究岩石的结构以了解地球的历史。"
         }
       ],
-      "memoryTips": {
-        "etymology": "The word 'emission' comes from the Latin 'emissio', which means 'a sending out'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=emission&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=rocks'fabric&type=2"
     },
     {
-      "id": "w01183",
-      "word": "slander",
+      "id": "w01350",
+      "word": "pornography",
       "type": "single",
-      "chapterIndex": 3,
-      "globalIndex": 1183,
-      "chapter": "ch060",
-      "chapterName": "核心词汇 伦理与道德 Unit 5",
+      "chapterIndex": 10,
+      "globalIndex": 1350,
+      "chapter": "ch068",
+      "chapterName": "核心词汇 青少年教育 Unit 8",
       "pronunciation": {
-        "us": "/ˈslændər/"
+        "us": "/pɔrnˈɒɡrəfi/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "诽谤",
-          "en": "A false spoken statement that damages someone’s reputation."
+          "zh": "色情",
+          "en": "The explicit portrayal of sexual subject matter for sexual arousal."
         },
         {
-          "pos": "v.",
-          "zh": "诽谤",
-          "en": "To make false spoken statements about someone that harm their reputation."
+          "pos": "n.",
+          "zh": "色情作品",
+          "en": "Printed or visual material that depicts sexual acts or nudity."
         }
       ],
       "examples": [
         {
-          "en": "The article was accused of slander against the politician.",
-          "zh": "这篇文章被指控对这位政治家进行诽谤。"
+          "en": "Many argue that pornography can negatively influence relationships.",
+          "zh": "许多人认为色情作品会对人际关系产生负面影响。"
         },
         {
-          "en": "He decided to sue her for slander after the false claims.",
-          "zh": "在这些虚假的指控之后，他决定起诉她诽谤。"
+          "en": "Access to pornography has increased with the rise of the internet.",
+          "zh": "随着互联网的兴起，获取色情内容变得更加容易。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'slander' as 'slandering' someone's name, which is damaging."
+        "etymology": "The word 'pornography' originates from the Greek words 'porne' meaning 'prostitute' and 'graphia' meaning 'writing'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=slander&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pornography&type=2"
     },
     {
-      "id": "w00472",
-      "word": "compatible",
-      "type": "single",
-      "chapterIndex": 12,
-      "globalIndex": 472,
-      "chapter": "ch024",
-      "chapterName": "基本词汇 形容词和副词400 Unit 4",
+      "id": "w02404",
+      "word": "internal compass",
+      "type": "phrase",
+      "chapterIndex": 22,
+      "globalIndex": 2404,
+      "chapter": "ch100",
+      "chapterName": "认知词汇 动物分类 动物智力与语言习得",
       "pronunciation": {
-        "us": "/kəmˈpætəbl/"
+        "us": "/ɪnˈtɜrnəl ˈkɒmpəs/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "内心的指南",
+          "en": "An inner sense that guides one's actions and decisions."
+        },
+        {
+          "pos": "n.",
+          "zh": "道德方向感",
+          "en": "A personal sense of right and wrong that influences choices."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Listening to your internal compass can lead to better decisions.",
+          "zh": "倾听内心的指南可以带来更好的决策。"
+        },
+        {
+          "en": "Trusting your internal compass helps navigate through life's challenges.",
+          "zh": "相信自己的内心指南有助于应对生活的挑战。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of your internal compass as a GPS for your values and instincts."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=internal%20compass&type=2"
+    },
+    {
+      "id": "w02590",
+      "word": "basaltic lava",
+      "type": "phrase",
+      "chapterIndex": 5,
+      "globalIndex": 2590,
+      "chapter": "ch105",
+      "chapterName": "认知词汇 自然分类 火山",
+      "pronunciation": {
+        "us": "/bəˈsæl.tɪk ˈlɑː.və/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "兼容的",
-          "en": "Able to exist or work together without conflict."
+          "zh": "玄武岩的",
+          "en": "Relating to a type of lava that is rich in magnesium and iron."
         },
         {
-          "pos": "adj.",
-          "zh": "适合的",
-          "en": "Suitable or well-matched for a particular purpose or situation."
+          "pos": "n.",
+          "zh": "玄武岩熔岩",
+          "en": "A type of lava that flows easily and forms smooth, flat surfaces."
         }
       ],
       "examples": [
         {
-          "en": "The software is compatible with both Windows and Mac operating systems.",
-          "zh": "该软件与Windows和Mac操作系统兼容。"
+          "en": "Basaltic lava forms large, smooth plateaus in volcanic regions.",
+          "zh": "玄武岩熔岩在火山地区形成大而平滑的高原。"
         },
         {
-          "en": "They found a compatible partner who shares their interests and values.",
-          "zh": "他们找到了一个与自己兴趣和价值观相符的伴侣。"
+          "en": "The eruption produced a river of basaltic lava that flowed down the mountain.",
+          "zh": "这次喷发产生了一条流下山的玄武岩熔岩河。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'compatible' as 'com-patible', meaning two things that can 'pat' each other on the back, indicating harmony."
+        "association": "Think of 'basaltic' as 'base' because it forms the base of many volcanic landscapes."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compatible&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=basaltic%20lava&type=2"
     },
     {
-      "id": "w02450",
-      "word": "chaotic",
+      "id": "w00927",
+      "word": "devastation",
       "type": "single",
-      "chapterIndex": 3,
-      "globalIndex": 2450,
-      "chapter": "ch102",
-      "chapterName": "认知词汇 自然分类 地震",
+      "chapterIndex": 7,
+      "globalIndex": 927,
+      "chapter": "ch047",
+      "chapterName": "核心词汇 环境保护 Unit 2",
       "pronunciation": {
-        "us": "/keɪˈɑːtɪk/"
+        "us": "/ˌdɛvəˈsteɪʃən/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "毁灭，破坏",
+          "en": "The act of causing great destruction or damage."
+        },
+        {
+          "pos": "n.",
+          "zh": "悲痛，痛苦",
+          "en": "Severe emotional pain or distress."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The devastation caused by the hurricane was unprecedented in recent history.",
+          "zh": "飓风造成的毁灭在最近的历史中是前所未有的。"
+        },
+        {
+          "en": "She felt a sense of devastation after losing her beloved pet.",
+          "zh": "失去心爱的宠物后，她感到一种悲痛。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'devastation' as a 'devastating situation' where everything is destroyed."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=devastation&type=2"
+    },
+    {
+      "id": "w01875",
+      "word": "physician",
+      "type": "single",
+      "chapterIndex": 15,
+      "globalIndex": 1875,
+      "chapter": "ch094",
+      "chapterName": "核心词汇 健康话题 Unit 4",
+      "pronunciation": {
+        "us": "/fɪˈzɪʃ.ən/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "医生",
+          "en": "A physician is a medical doctor who treats patients."
+        },
+        {
+          "pos": "n.",
+          "zh": "医学专家",
+          "en": "A physician is someone who specializes in the practice of medicine."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The physician advised me to eat a balanced diet for better health.",
+          "zh": "医生建议我均衡饮食以保持健康。"
+        },
+        {
+          "en": "After the examination, the physician prescribed some medication.",
+          "zh": "检查后，医生开了一些药物。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'physician' comes from the Latin 'physica', meaning 'natural science' or 'medicine'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=physician&type=2"
+    },
+    {
+      "id": "w00236",
+      "word": "corruption",
+      "type": "single",
+      "chapterIndex": 16,
+      "globalIndex": 236,
+      "chapter": "ch012",
+      "chapterName": "基本词汇 名词200 Unit 2",
+      "pronunciation": {
+        "us": "/kəˈrʌpʃən/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "腐败",
+          "en": "Corruption refers to dishonest or unethical behavior, especially by people in power."
+        },
+        {
+          "pos": "n.",
+          "zh": "毁坏",
+          "en": "Corruption can also mean the process of something being damaged or spoiled."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The investigation revealed widespread corruption within the government.",
+          "zh": "调查揭示了政府内部的广泛腐败。"
+        },
+        {
+          "en": "Corruption can lead to the collapse of trust in public institutions.",
+          "zh": "腐败可能导致公众对机构信任的崩溃。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=corruption&type=2"
+    },
+    {
+      "id": "w00544",
+      "word": "enthusiastic",
+      "type": "single",
+      "chapterIndex": 4,
+      "globalIndex": 544,
+      "chapter": "ch028",
+      "chapterName": "基本词汇 形容词和副词400 Unit 8",
+      "pronunciation": {
+        "us": "/ɪnˈθuːziˌæstɪk/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "混乱的",
-          "en": "In a state of complete disorder and confusion."
+          "zh": "热情的",
+          "en": "Showing great excitement and interest."
         },
         {
           "pos": "adj.",
-          "zh": "喧闹的",
-          "en": "Having a lot of noise and activity that is hard to control."
+          "zh": "充满热情的",
+          "en": "Having or showing intense and eager enjoyment."
         }
       ],
       "examples": [
         {
-          "en": "The traffic was chaotic during the rush hour in the city.",
-          "zh": "高峰时段，城市的交通非常混乱。"
+          "en": "She was enthusiastic about joining the new art class.",
+          "zh": "她对加入新的艺术班感到很热情。"
         },
         {
-          "en": "Her chaotic schedule made it difficult to find time for studying.",
-          "zh": "她混乱的日程安排让她很难找到学习的时间。"
+          "en": "The teacher was enthusiastic when explaining the science project.",
+          "zh": "老师在讲解科学项目时非常热情。"
         }
       ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=chaotic&type=2"
+      "memoryTips": {
+        "association": "Think of 'enthusiastic' as being 'in-the-heat' of excitement."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=enthusiastic&type=2"
     }
   ]
 }

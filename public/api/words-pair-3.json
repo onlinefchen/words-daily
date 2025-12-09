@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-08T22:08:10.292Z",
+  "generated": "2025-12-09T22:08:23.646Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "ecological",
-      "pronunciation": "/ˌiː.kəˈlɒdʒ.ɪ.kəl/",
+      "word": "disaster",
+      "pronunciation": "/dɪˈzæstər/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "生态的",
-          "en": "Related to the relationship between living things and their environment."
+          "pos": "n.",
+          "zh": "灾难",
+          "en": "A disaster is a sudden event that causes great damage or suffering."
         },
         {
-          "pos": "adj.",
-          "zh": "生态学的",
-          "en": "Concerning the study of ecosystems and how organisms interact."
+          "pos": "n.",
+          "zh": "失败",
+          "en": "It can also refer to a complete failure or something that goes very wrong."
         }
       ],
       "examples": [
         {
-          "en": "The ecological balance is crucial for sustaining biodiversity.",
-          "zh": "生态平衡对维持生物多样性至关重要。"
+          "en": "The hurricane was a disaster that destroyed many homes and lives.",
+          "zh": "飓风是一个灾难，摧毁了许多家庭和生命。"
         },
         {
-          "en": "Many ecological problems arise from human activities and pollution.",
-          "zh": "许多生态问题源于人类活动和污染。"
+          "en": "The project turned into a disaster due to poor planning and execution.",
+          "zh": "由于规划和执行不当，该项目变成了一场灾难。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'eco' as in 'ecosystem', linking it to the environment for an easy recall."
+        "etymology": "The word 'disaster' comes from the Italian 'disastro', meaning 'ill-starred', derived from 'dis-' (bad) and 'astro' (star), indicating bad fortune."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ecological&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 7"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disaster&type=2",
+      "chapter": "核心词汇 环境保护 Unit 2"
     },
     {
-      "word": "baneful",
-      "pronunciation": "/ˈbeɪn.fəl/",
+      "word": "traffic",
+      "pronunciation": "/ˈtræfɪk/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "有害的",
-          "en": "Causing harm or destruction; very harmful."
+          "pos": "n.",
+          "zh": "交通",
+          "en": "The movement of vehicles on roads."
         },
         {
-          "pos": "adj.",
-          "zh": "致命的",
-          "en": "Having a negative effect that can lead to serious consequences."
+          "pos": "v.",
+          "zh": "堵塞",
+          "en": "To cause congestion or blockage in traffic."
         }
       ],
       "examples": [
         {
-          "en": "The baneful effects of pollution are evident in the city's health statistics.",
-          "zh": "污染的有害影响在城市的健康统计中显而易见。"
+          "en": "The traffic was so heavy that I arrived late to the meeting.",
+          "zh": "交通非常繁忙，我开会迟到了。"
         },
         {
-          "en": "His baneful influence led many young people astray.",
-          "zh": "他有害的影响使许多年轻人误入歧途。"
+          "en": "She tried to avoid traffic by taking a different route.",
+          "zh": "她试图通过选择不同的路线来避开交通。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'bane' as a source of harm, like a bad 'bane' to your health."
+        "association": "Think of 'traffic' as a 'track' where vehicles 'traffic' through."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=baneful&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=traffic&type=2",
+      "chapter": "基本词汇 名词200 Unit 9"
     }
   ]
 }

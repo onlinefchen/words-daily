@@ -1,69 +1,67 @@
 {
-  "generated": "2025-12-08T22:08:10.292Z",
+  "generated": "2025-12-09T22:08:23.647Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "infiltrate",
-      "pronunciation": "/ˈɪnfɪltreɪt/",
+      "word": "non-explosive lava flow",
+      "pronunciation": "/nɒn-ɪkˈspləʊsɪv ˈlɑːvə floʊ/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "渗透",
-          "en": "To enter or become part of something in a secret way."
+          "pos": "adj.",
+          "zh": "非爆炸性的",
+          "en": "Describing lava that flows smoothly without explosive eruptions."
         },
         {
-          "pos": "v.",
-          "zh": "影响",
-          "en": "To influence something gradually or secretly."
+          "pos": "n.",
+          "zh": "非爆炸性熔岩流",
+          "en": "A type of lava flow that is gentle and does not cause explosions."
         }
       ],
       "examples": [
         {
-          "en": "The spy managed to infiltrate the enemy's camp unnoticed.",
-          "zh": "间谍成功地秘密潜入了敌人的营地。"
+          "en": "Non-explosive lava flows create wide, gentle landscapes over time.",
+          "zh": "非爆炸性熔岩流随着时间的推移形成宽广而平缓的地貌。"
         },
         {
-          "en": "Scientists are studying how pollutants can infiltrate water supplies.",
-          "zh": "科学家正在研究污染物如何渗入水源。"
+          "en": "Scientists study non-explosive lava flows to understand volcanic activity better.",
+          "zh": "科学家研究非爆炸性熔岩流以更好地理解火山活动。"
         }
       ],
-      "memoryTips": {
-        "etymology": "The word 'infiltrate' comes from the Latin 'infiltrare', meaning 'to filter in'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=infiltrate&type=2",
-      "chapter": "核心词汇 文化与传统 Unit 3"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=non-explosive%20lava%20flow&type=2",
+      "chapter": "认知词汇 自然分类 火山"
     },
     {
-      "word": "moment magnitude scale",
-      "pronunciation": "/ˈmoʊ.mənt ˈmæɡ.nɪ.tud skeɪl/",
+      "word": "weakness",
+      "pronunciation": "/ˈwiːk.nəs/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "震级",
-          "en": "A scale used to measure the size or strength of earthquakes."
+          "zh": "弱点",
+          "en": "A lack of strength or a flaw in someone's character."
         },
         {
           "pos": "n.",
-          "zh": "地震大小测量",
-          "en": "A method that quantifies the energy released during an earthquake."
+          "zh": "虚弱",
+          "en": "The state of being weak in health or power."
         }
       ],
       "examples": [
         {
-          "en": "The moment magnitude scale is widely used by seismologists.",
-          "zh": "震级尺度被地震学家广泛使用。"
+          "en": "Her greatest weakness is her inability to say no to others.",
+          "zh": "她最大的弱点是无法对他人说不。"
         },
         {
-          "en": "This earthquake had a moment magnitude of 7.2, indicating severe shaking.",
-          "zh": "这次地震的震级为7.2，表明震动非常剧烈。"
+          "en": "Many athletes work hard to overcome their physical weaknesses.",
+          "zh": "许多运动员努力克服他们的身体弱点。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'moment' as the instant an earthquake strikes, and 'magnitude' as its strength."
+        "association": "Think of 'weakness' as a 'week' when you're feeling weak, like a tired day."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=moment%20magnitude%20scale&type=2",
-      "chapter": "认知词汇 自然分类 地震"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=weakness&type=2",
+      "chapter": "基本词汇 名词200 Unit 10"
     }
   ]
 }

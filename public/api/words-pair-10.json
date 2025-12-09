@@ -1,67 +1,67 @@
 {
-  "generated": "2025-12-08T22:08:10.292Z",
+  "generated": "2025-12-09T22:08:23.647Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "compatible",
-      "pronunciation": "/kəmˈpætəbl/",
+      "word": "corruption",
+      "pronunciation": "/kəˈrʌpʃən/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "兼容的",
-          "en": "Able to exist or work together without conflict."
+          "pos": "n.",
+          "zh": "腐败",
+          "en": "Corruption refers to dishonest or unethical behavior, especially by people in power."
         },
         {
-          "pos": "adj.",
-          "zh": "适合的",
-          "en": "Suitable or well-matched for a particular purpose or situation."
+          "pos": "n.",
+          "zh": "毁坏",
+          "en": "Corruption can also mean the process of something being damaged or spoiled."
         }
       ],
       "examples": [
         {
-          "en": "The software is compatible with both Windows and Mac operating systems.",
-          "zh": "该软件与Windows和Mac操作系统兼容。"
+          "en": "The investigation revealed widespread corruption within the government.",
+          "zh": "调查揭示了政府内部的广泛腐败。"
         },
         {
-          "en": "They found a compatible partner who shares their interests and values.",
-          "zh": "他们找到了一个与自己兴趣和价值观相符的伴侣。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'compatible' as 'com-patible', meaning two things that can 'pat' each other on the back, indicating harmony."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compatible&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 4"
-    },
-    {
-      "word": "chaotic",
-      "pronunciation": "/keɪˈɑːtɪk/",
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "混乱的",
-          "en": "In a state of complete disorder and confusion."
-        },
-        {
-          "pos": "adj.",
-          "zh": "喧闹的",
-          "en": "Having a lot of noise and activity that is hard to control."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The traffic was chaotic during the rush hour in the city.",
-          "zh": "高峰时段，城市的交通非常混乱。"
-        },
-        {
-          "en": "Her chaotic schedule made it difficult to find time for studying.",
-          "zh": "她混乱的日程安排让她很难找到学习的时间。"
+          "en": "Corruption can lead to the collapse of trust in public institutions.",
+          "zh": "腐败可能导致公众对机构信任的崩溃。"
         }
       ],
       "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=chaotic&type=2",
-      "chapter": "认知词汇 自然分类 地震"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=corruption&type=2",
+      "chapter": "基本词汇 名词200 Unit 2"
+    },
+    {
+      "word": "enthusiastic",
+      "pronunciation": "/ɪnˈθuːziˌæstɪk/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "热情的",
+          "en": "Showing great excitement and interest."
+        },
+        {
+          "pos": "adj.",
+          "zh": "充满热情的",
+          "en": "Having or showing intense and eager enjoyment."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She was enthusiastic about joining the new art class.",
+          "zh": "她对加入新的艺术班感到很热情。"
+        },
+        {
+          "en": "The teacher was enthusiastic when explaining the science project.",
+          "zh": "老师在讲解科学项目时非常热情。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'enthusiastic' as being 'in-the-heat' of excitement."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=enthusiastic&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 8"
     }
   ]
 }

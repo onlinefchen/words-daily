@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-08T22:08:10.292Z",
+  "generated": "2025-12-09T22:08:23.646Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "preliminary",
-      "pronunciation": "/prɪˈlɪmɪnəri/",
+      "word": "pessimistic",
+      "pronunciation": "/ˌpɛsɪˈmɪstɪk/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "初步的",
-          "en": "Something that comes before the main part or is an initial step."
+          "zh": "悲观的",
+          "en": "Having a negative outlook on life or expecting bad outcomes."
+        },
+        {
+          "pos": "adj.",
+          "zh": "缺乏希望的",
+          "en": "Lacking hope or confidence in future events."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She has a pessimistic view of the future and often feels discouraged.",
+          "zh": "她对未来持悲观态度，常常感到沮丧。"
+        },
+        {
+          "en": "His pessimistic attitude affects his friends and family negatively.",
+          "zh": "他悲观的态度对朋友和家人产生了负面影响。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'pessimist' as someone always wearing dark glasses, seeing the world negatively."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pessimistic&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 8"
+    },
+    {
+      "word": "sub-vocalisation",
+      "pronunciation": "/sʌbˌvoʊ.kəl.ɪˈzeɪ.ʃən/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "默读",
+          "en": "The act of silently saying words in your mind while reading."
         },
         {
           "pos": "n.",
-          "zh": "初步措施",
-          "en": "An action or decision taken before the main event."
+          "zh": "内心发音",
+          "en": "The internal voice that helps you process written text."
         }
       ],
       "examples": [
         {
-          "en": "The preliminary results show a significant increase in sales.",
-          "zh": "初步结果显示销售额显著增加。"
+          "en": "Many readers use sub-vocalisation to understand complex texts better.",
+          "zh": "许多读者使用默读来更好地理解复杂的文本。"
         },
         {
-          "en": "They held a preliminary meeting to discuss project goals.",
-          "zh": "他们举行了初步会议以讨论项目目标。"
+          "en": "Sub-vocalisation can slow down reading speed if overused.",
+          "zh": "如果过度使用，默读可能会减慢阅读速度。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'preliminary' comes from the Latin 'prae-' meaning 'before' and 'limin' meaning 'threshold', indicating something that comes before the main event."
+        "association": "Think of 'sub' as below and 'vocalisation' as voice; it’s your inner voice speaking below the surface."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=preliminary&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 15"
-    },
-    {
-      "word": "fantastic",
-      "pronunciation": "/fænˈtæstɪk/",
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "极好的",
-          "en": "Extremely good or impressive."
-        },
-        {
-          "pos": "adj.",
-          "zh": "幻想的",
-          "en": "Relating to things that are imaginary or not real."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The view from the mountain was absolutely fantastic and breathtaking.",
-          "zh": "从山顶看到的景色真是极好，令人叹为观止。"
-        },
-        {
-          "en": "She had a fantastic idea for improving the community garden.",
-          "zh": "她有一个极好的主意来改善社区花园。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'fantasy' to remember that 'fantastic' relates to amazing or imaginary things."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=fantastic&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sub-vocalisation&type=2",
+      "chapter": "认知词汇 教育分类 阅读技能"
     }
   ]
 }

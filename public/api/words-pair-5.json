@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-08T22:08:10.292Z",
+  "generated": "2025-12-09T22:08:23.647Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "coeducation",
-      "pronunciation": "/ˌkoʊˌɛdʒʊˈkeɪʃən/",
+      "word": "perplex",
+      "pronunciation": "/pərˈplɛks/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "男女同校教育",
-          "en": "An educational system where both male and female students are taught together."
-        },
-        {
-          "pos": "n.",
-          "zh": "共同教育",
-          "en": "A form of education that promotes equality between genders."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Coeducation helps to promote gender equality in the classroom.",
-          "zh": "男女同校教育有助于在课堂上促进性别平等。"
-        },
-        {
-          "en": "Many countries have adopted coeducation as a standard practice.",
-          "zh": "许多国家已将男女同校教育作为标准做法。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'co' as in 'cooperate' and 'education' as the process of learning together."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=coeducation&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 2"
-    },
-    {
-      "word": "joint",
-      "pronunciation": "/dʒɔɪnt/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "关节",
-          "en": "A place where two bones meet and can move."
+          "pos": "v.",
+          "zh": "使困惑",
+          "en": "To confuse someone or make them unsure about something."
         },
         {
           "pos": "v.",
-          "zh": "连接",
-          "en": "To connect or combine two or more things."
+          "zh": "使复杂",
+          "en": "To make something more complicated or difficult to understand."
         }
       ],
       "examples": [
         {
-          "en": "The doctor explained how the joint helps us move our arms.",
-          "zh": "医生解释了关节如何帮助我们移动手臂。"
+          "en": "The complex math problem perplexed the students during the exam.",
+          "zh": "复杂的数学题让学生们在考试中感到困惑。"
         },
         {
-          "en": "They decided to joint their efforts to complete the project.",
-          "zh": "他们决定联合努力完成这个项目。"
+          "en": "His sudden change in behavior perplexed his friends and family.",
+          "zh": "他突然的行为变化让朋友和家人感到困惑。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'joint' as a place where things come together, like in a partnership."
+        "etymology": "The word 'perplex' comes from the Latin 'perplexus,' meaning 'entangled' or 'complicated.'"
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=joint&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=perplex&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 8"
+    },
+    {
+      "word": "litter",
+      "pronunciation": "/ˈlɪtər/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "垃圾，废物",
+          "en": "Waste material that is disposed of improperly."
+        },
+        {
+          "pos": "v.",
+          "zh": "乱扔，丢弃",
+          "en": "To throw away trash in a careless manner."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many parks are ruined by people who litter carelessly.",
+          "zh": "许多公园因人们随意乱扔垃圾而被破坏。"
+        },
+        {
+          "en": "The city organized a campaign to clean up litter from the streets.",
+          "zh": "这座城市组织了一场清理街道垃圾的活动。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'litter' as 'little trash' scattered around."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=litter&type=2",
+      "chapter": "核心词汇 环境保护 Unit 4"
     }
   ]
 }

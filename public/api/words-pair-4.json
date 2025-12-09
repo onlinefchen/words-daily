@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-08T22:08:10.292Z",
+  "generated": "2025-12-09T22:08:23.646Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "lava",
-      "pronunciation": "/ˈlævə/",
+      "word": "pornographic",
+      "pronunciation": "/ˌpɔrnəˈgræfɪk/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "熔岩",
-          "en": "Molten rock that erupts from a volcano."
+          "pos": "adj.",
+          "zh": "色情的",
+          "en": "Related to sexual content that is intended to cause sexual excitement."
         },
         {
-          "pos": "n.",
-          "zh": "火山喷发物",
-          "en": "Material that flows from a volcano during an eruption."
+          "pos": "adj.",
+          "zh": "露骨的",
+          "en": "Describing material that displays sexual acts or nudity in a graphic way."
         }
       ],
       "examples": [
         {
-          "en": "The lava from the volcano flowed down the mountain side.",
-          "zh": "火山的熔岩沿着山坡流下。"
+          "en": "Many countries have laws against distributing pornographic material.",
+          "zh": "许多国家对传播色情材料有法律限制。"
         },
         {
-          "en": "When lava cools, it can form solid rock formations.",
-          "zh": "当熔岩冷却时，可以形成固体岩石构造。"
+          "en": "The film was criticized for its pornographic scenes and explicit content.",
+          "zh": "这部电影因其色情场景和露骨内容而受到批评。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'lava' as 'lava lamp,' which is a visual reminder of flowing molten material."
+        "association": "Think of 'porn' as the root of 'pornographic,' associating it with adult content."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=lava&type=2",
-      "chapter": "认知词汇 自然分类 火山"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pornographic&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 14"
     },
     {
-      "word": "blue whale",
-      "pronunciation": "/bluː weɪl/",
+      "word": "creativity",
+      "pronunciation": "/kriˈeɪtɪvɪti/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "蓝鲸",
-          "en": "The blue whale is the largest animal on Earth, known for its immense size."
+          "zh": "创造力",
+          "en": "The ability to produce new ideas or things."
         },
         {
           "pos": "n.",
-          "zh": "蓝鲸",
-          "en": "Blue whales are marine mammals that live in oceans and feed on small shrimp-like animals called krill."
+          "zh": "创造性",
+          "en": "The quality of being imaginative or original."
         }
       ],
       "examples": [
         {
-          "en": "The blue whale can grow up to 100 feet long and weigh over 200 tons.",
-          "zh": "蓝鲸可以长到100英尺，体重超过200吨。"
+          "en": "Her creativity helped the team develop innovative solutions.",
+          "zh": "她的创造力帮助团队开发了创新的解决方案。"
         },
         {
-          "en": "Scientists study blue whales to understand their migration patterns and feeding habits.",
-          "zh": "科学家研究蓝鲸以了解它们的迁徙模式和觅食习惯。"
+          "en": "Art often reflects the creativity of the artist's mind.",
+          "zh": "艺术常常反映出艺术家头脑中的创造力。"
         }
       ],
       "memoryTips": {
-        "association": "Think of the color blue representing the ocean, where blue whales live, and their large size as a symbol of strength and majesty."
+        "etymology": "The word 'creativity' comes from the Latin root 'creare', meaning 'to create'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=blue%20whale&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=creativity&type=2",
+      "chapter": "基本词汇 名词200 Unit 2"
     }
   ]
 }

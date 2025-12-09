@@ -1,69 +1,67 @@
 {
-  "generated": "2025-12-08T22:08:10.292Z",
+  "generated": "2025-12-09T22:08:23.647Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "sluttish",
-      "pronunciation": "/ˈslʌtɪʃ/",
+      "word": "rocks'fabric",
+      "pronunciation": "/ˈrɑks ˈfæbrɪk/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "邋遢的，懒散的",
-          "en": "Having a dirty or untidy appearance; careless."
+          "pos": "n.",
+          "zh": "岩石的结构",
+          "en": "The arrangement and composition of minerals in a rock."
         },
         {
-          "pos": "adj.",
-          "zh": "不修边幅的，放荡的",
-          "en": "Indicating a lack of care in appearance or behavior."
+          "pos": "n.",
+          "zh": "岩石的织物",
+          "en": "The texture or characteristics of a rock."
         }
       ],
       "examples": [
         {
-          "en": "Her sluttish appearance made it difficult to take her seriously.",
-          "zh": "她邋遢的外表让人很难认真对待她。"
+          "en": "The rocks' fabric reveals important information about their formation.",
+          "zh": "岩石的结构揭示了有关其形成的重要信息。"
         },
         {
-          "en": "His sluttish behavior at the party surprised everyone.",
-          "zh": "他在聚会上的放荡行为让所有人都感到惊讶。"
+          "en": "Geologists study rocks' fabric to understand Earth's history.",
+          "zh": "地质学家研究岩石的结构以了解地球的历史。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'slut' in 'sluttish' as a link to being careless about appearance."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sluttish&type=2",
-      "chapter": "核心词汇 伦理与道德 Unit 5"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=rocks'fabric&type=2",
+      "chapter": "认知词汇 自然分类 地震"
     },
     {
-      "word": "controversial",
-      "pronunciation": "/ˌkɒn.troˈvɜːr.ʃəl/",
+      "word": "pornography",
+      "pronunciation": "/pɔrnˈɒɡrəfi/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "有争议的",
-          "en": "Causing a lot of disagreement or discussion."
+          "pos": "n.",
+          "zh": "色情",
+          "en": "The explicit portrayal of sexual subject matter for sexual arousal."
         },
         {
-          "pos": "adj.",
-          "zh": "引起争论的",
-          "en": "Something that people have strong, differing opinions about."
+          "pos": "n.",
+          "zh": "色情作品",
+          "en": "Printed or visual material that depicts sexual acts or nudity."
         }
       ],
       "examples": [
         {
-          "en": "The controversial decision led to protests in several cities.",
-          "zh": "这一有争议的决定在几个城市引发了抗议。"
+          "en": "Many argue that pornography can negatively influence relationships.",
+          "zh": "许多人认为色情作品会对人际关系产生负面影响。"
         },
         {
-          "en": "Many films are controversial due to their sensitive topics.",
-          "zh": "许多电影因其敏感话题而引起争议。"
+          "en": "Access to pornography has increased with the rise of the internet.",
+          "zh": "随着互联网的兴起，获取色情内容变得更加容易。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'controversial' as 'con' (against) + 'troversy' (argument) – an argument against something."
+        "etymology": "The word 'pornography' originates from the Greek words 'porne' meaning 'prostitute' and 'graphia' meaning 'writing'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=controversial&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pornography&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 8"
     }
   ]
 }
