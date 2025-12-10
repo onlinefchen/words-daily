@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-09T22:08:23.646Z",
+  "generated": "2025-12-10T22:08:29.431Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "pessimistic",
-      "pronunciation": "/ˌpɛsɪˈmɪstɪk/",
+      "word": "particular",
+      "pronunciation": "/pərˈtɪkjələr/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "悲观的",
-          "en": "Having a negative outlook on life or expecting bad outcomes."
+          "zh": "特定的，特别的",
+          "en": "Referring to a specific thing or person."
         },
         {
           "pos": "adj.",
-          "zh": "缺乏希望的",
-          "en": "Lacking hope or confidence in future events."
+          "zh": "细致的，讲究的",
+          "en": "Showing attention to detail or being specific about something."
         }
       ],
       "examples": [
         {
-          "en": "She has a pessimistic view of the future and often feels discouraged.",
-          "zh": "她对未来持悲观态度，常常感到沮丧。"
+          "en": "She has a particular interest in environmental science.",
+          "zh": "她对环境科学有特别的兴趣。"
         },
         {
-          "en": "His pessimistic attitude affects his friends and family negatively.",
-          "zh": "他悲观的态度对朋友和家人产生了负面影响。"
+          "en": "He is known for his particular way of solving problems.",
+          "zh": "他以独特的解决问题方式而闻名。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'pessimist' as someone always wearing dark glasses, seeing the world negatively."
+        "association": "Think of 'particular' as 'part' + 'icular', where 'part' refers to a specific part of something."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pessimistic&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 8"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=particular&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 14"
     },
     {
-      "word": "sub-vocalisation",
-      "pronunciation": "/sʌbˌvoʊ.kəl.ɪˈzeɪ.ʃən/",
+      "word": "ecological",
+      "pronunciation": "/ˌiː.kəˈlɒdʒ.ɪ.kəl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "默读",
-          "en": "The act of silently saying words in your mind while reading."
+          "pos": "adj.",
+          "zh": "生态的",
+          "en": "Related to the relationship between living things and their environment."
         },
         {
-          "pos": "n.",
-          "zh": "内心发音",
-          "en": "The internal voice that helps you process written text."
+          "pos": "adj.",
+          "zh": "生态学的",
+          "en": "Concerning the study of ecosystems and how organisms interact."
         }
       ],
       "examples": [
         {
-          "en": "Many readers use sub-vocalisation to understand complex texts better.",
-          "zh": "许多读者使用默读来更好地理解复杂的文本。"
+          "en": "The ecological balance is crucial for sustaining biodiversity.",
+          "zh": "生态平衡对维持生物多样性至关重要。"
         },
         {
-          "en": "Sub-vocalisation can slow down reading speed if overused.",
-          "zh": "如果过度使用，默读可能会减慢阅读速度。"
+          "en": "Many ecological problems arise from human activities and pollution.",
+          "zh": "许多生态问题源于人类活动和污染。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'sub' as below and 'vocalisation' as voice; it’s your inner voice speaking below the surface."
+        "association": "Think of 'eco' as in 'ecosystem', linking it to the environment for an easy recall."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sub-vocalisation&type=2",
-      "chapter": "认知词汇 教育分类 阅读技能"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ecological&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 7"
     }
   ]
 }

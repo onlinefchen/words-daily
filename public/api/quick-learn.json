@@ -1,70 +1,66 @@
 {
-  "generated": "2025-12-09T22:08:23.646Z",
+  "generated": "2025-12-10T22:08:29.431Z",
   "count": 2,
   "words": [
     {
-      "word": "inexperience",
-      "pronunciation": "/ˌɪnɪkˈspɪərəns/",
+      "word": "tamp",
+      "pronunciation": "/tæmp/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "缺乏经验",
-          "en": "The state of having little or no experience in a particular field."
+          "pos": "v.",
+          "zh": "夯实，压实",
+          "en": "To pack or press down tightly."
         },
         {
           "pos": "n.",
-          "zh": "无知",
-          "en": "The lack of knowledge or skills in a specific area."
+          "zh": "夯，压实的工具",
+          "en": "A tool used for packing down materials."
         }
       ],
       "examples": [
         {
-          "en": "Her inexperience in negotiations led to a poor agreement.",
-          "zh": "她在谈判中的缺乏经验导致了一个糟糕的协议。"
+          "en": "The workers tamped the soil before laying the foundation.",
+          "zh": "工人在铺设基础之前夯实了土壤。"
         },
         {
-          "en": "Inexperience can be a barrier to success in many careers.",
-          "zh": "缺乏经验可能是许多职业成功的障碍。"
+          "en": "He used a tamp to compress the gravel in the driveway.",
+          "zh": "他用夯工具压实车道上的碎石。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'inexperience' comes from the prefix 'in-' meaning 'not' and 'experience', which refers to the knowledge or skill gained through involvement.",
-        "association": "Think of 'in-experience' as 'not having experiences', which can help you remember its meaning."
+        "association": "Think of 'tamp' as 'stamp' but for packing down materials."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=inexperience&type=2",
-      "chapter": "核心词汇 法制与犯罪 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=tamp&type=2",
+      "chapter": "阅读真题认知词汇 香蕉种植"
     },
     {
-      "word": "advancement",
-      "pronunciation": "/ədˈvænsmənt/",
+      "word": "ground crack",
+      "pronunciation": "/ɡraʊnd kræk/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "进展",
-          "en": "The process of making progress or moving forward in a particular field."
+          "zh": "地面裂缝",
+          "en": "A crack or split in the ground, often caused by dry conditions."
         },
         {
-          "pos": "n.",
-          "zh": "提升",
-          "en": "An increase in position, rank, or status, often in a job or career."
+          "pos": "v.",
+          "zh": "使地面裂开",
+          "en": "To cause the ground to split or break apart."
         }
       ],
       "examples": [
         {
-          "en": "The advancement of technology has changed our daily lives significantly.",
-          "zh": "科技的进步显著改变了我们的日常生活。"
+          "en": "The severe drought caused many ground cracks in the fields.",
+          "zh": "严重的干旱导致田地出现了许多地面裂缝。"
         },
         {
-          "en": "She received a promotion as a result of her hard work and advancement.",
-          "zh": "由于她的努力工作，她获得了晋升。"
+          "en": "Farmers are concerned about the ground cracks damaging their crops.",
+          "zh": "农民担心地面裂缝会损害他们的作物。"
         }
       ],
-      "memoryTips": {
-        "etymology": "The word 'advancement' comes from the Old French 'avancement' and the Latin 'adventus', meaning 'arrival' or 'approach'.",
-        "association": "Think of 'advance' as stepping forward; 'advancement' is the process of stepping forward in your career or knowledge."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=advancement&type=2",
-      "chapter": "基本词汇 名词200 Unit 1"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ground%20crack&type=2",
+      "chapter": "认知词汇 自然分类 地震"
     }
   ]
 }

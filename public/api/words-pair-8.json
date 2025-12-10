@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-09T22:08:23.647Z",
+  "generated": "2025-12-10T22:08:29.432Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "internal compass",
-      "pronunciation": "/ɪnˈtɜrnəl ˈkɒmpəs/",
+      "word": "discrimination",
+      "pronunciation": "/ˌdɪs.krɪ.mɪˈneɪ.ʃən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "内心的指南",
-          "en": "An inner sense that guides one's actions and decisions."
+          "zh": "歧视",
+          "en": "The unfair treatment of a person or group based on characteristics like race or gender."
         },
         {
           "pos": "n.",
-          "zh": "道德方向感",
-          "en": "A personal sense of right and wrong that influences choices."
+          "zh": "辨别",
+          "en": "The ability to recognize and understand differences between things."
         }
       ],
       "examples": [
         {
-          "en": "Listening to your internal compass can lead to better decisions.",
-          "zh": "倾听内心的指南可以带来更好的决策。"
+          "en": "Many countries have laws against racial discrimination in the workplace.",
+          "zh": "许多国家在职场上有反对种族歧视的法律。"
         },
         {
-          "en": "Trusting your internal compass helps navigate through life's challenges.",
-          "zh": "相信自己的内心指南有助于应对生活的挑战。"
+          "en": "Her strong discrimination between right and wrong is admirable.",
+          "zh": "她对是非的强烈辨别能力令人钦佩。"
         }
       ],
       "memoryTips": {
-        "association": "Think of your internal compass as a GPS for your values and instincts."
+        "etymology": "The word comes from the Latin 'discriminare', meaning 'to distinguish'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=internal%20compass&type=2",
-      "chapter": "认知词汇 动物分类 动物智力与语言习得"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=discrimination&type=2",
+      "chapter": "基本词汇 名词200 Unit 3"
     },
     {
-      "word": "basaltic lava",
-      "pronunciation": "/bəˈsæl.tɪk ˈlɑː.və/",
+      "word": "virtual",
+      "pronunciation": "/ˈvɜr.tʃu.əl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "玄武岩的",
-          "en": "Relating to a type of lava that is rich in magnesium and iron."
+          "zh": "虚拟的",
+          "en": "Not real; created by computer technology to simulate reality."
         },
         {
-          "pos": "n.",
-          "zh": "玄武岩熔岩",
-          "en": "A type of lava that flows easily and forms smooth, flat surfaces."
+          "pos": "adj.",
+          "zh": "几乎的",
+          "en": "Almost or nearly the same as something else; not completely."
         }
       ],
       "examples": [
         {
-          "en": "Basaltic lava forms large, smooth plateaus in volcanic regions.",
-          "zh": "玄武岩熔岩在火山地区形成大而平滑的高原。"
+          "en": "Many businesses now operate in a virtual environment to reach more customers.",
+          "zh": "许多企业现在在虚拟环境中运营，以接触更多客户。"
         },
         {
-          "en": "The eruption produced a river of basaltic lava that flowed down the mountain.",
-          "zh": "这次喷发产生了一条流下山的玄武岩熔岩河。"
+          "en": "Virtual reality games provide an immersive experience for players.",
+          "zh": "虚拟现实游戏为玩家提供了沉浸式体验。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'basaltic' as 'base' because it forms the base of many volcanic landscapes."
+        "association": "Think of 'virtual' as 'virtually real', where things seem real but are not."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=basaltic%20lava&type=2",
-      "chapter": "认知词汇 自然分类 火山"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=virtual&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 20"
     }
   ]
 }

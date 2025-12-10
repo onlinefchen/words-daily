@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-09T22:08:23.646Z",
+  "generated": "2025-12-10T22:08:29.431Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "pornographic",
-      "pronunciation": "/ˌpɔrnəˈgræfɪk/",
+      "word": "conformity",
+      "pronunciation": "/kənˈfɔːrmɪti/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "色情的",
-          "en": "Related to sexual content that is intended to cause sexual excitement."
+          "pos": "n.",
+          "zh": "遵从; 一致性",
+          "en": "The act of matching attitudes, beliefs, and behaviors to group norms."
         },
         {
-          "pos": "adj.",
-          "zh": "露骨的",
-          "en": "Describing material that displays sexual acts or nudity in a graphic way."
+          "pos": "n.",
+          "zh": "符合; 符合性",
+          "en": "The state of being in agreement or harmony with something."
         }
       ],
       "examples": [
         {
-          "en": "Many countries have laws against distributing pornographic material.",
-          "zh": "许多国家对传播色情材料有法律限制。"
+          "en": "Social conformity can lead to a loss of individual identity.",
+          "zh": "社会的遵从可能导致个人身份的丧失。"
         },
         {
-          "en": "The film was criticized for its pornographic scenes and explicit content.",
-          "zh": "这部电影因其色情场景和露骨内容而受到批评。"
+          "en": "He felt pressured to conform to the expectations of his peers.",
+          "zh": "他感到被迫遵从同龄人的期望。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'porn' as the root of 'pornographic,' associating it with adult content."
+        "association": "Think of 'conformity' as 'conforming' to a 'norm' in a group."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pornographic&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 14"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=conformity&type=2",
+      "chapter": "核心词汇 文化与传统 Unit 2"
     },
     {
-      "word": "creativity",
-      "pronunciation": "/kriˈeɪtɪvɪti/",
+      "word": "unique",
+      "pronunciation": "/juːˈniːk/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "创造力",
-          "en": "The ability to produce new ideas or things."
+          "pos": "adj.",
+          "zh": "独特的",
+          "en": "Being the only one of its kind; unlike anything else."
         },
         {
-          "pos": "n.",
-          "zh": "创造性",
-          "en": "The quality of being imaginative or original."
+          "pos": "adj.",
+          "zh": "独一无二的",
+          "en": "Having special qualities that make something stand out."
         }
       ],
       "examples": [
         {
-          "en": "Her creativity helped the team develop innovative solutions.",
-          "zh": "她的创造力帮助团队开发了创新的解决方案。"
+          "en": "Her artwork is truly unique and captures everyone's attention.",
+          "zh": "她的艺术作品独一无二，吸引了每个人的注意。"
         },
         {
-          "en": "Art often reflects the creativity of the artist's mind.",
-          "zh": "艺术常常反映出艺术家头脑中的创造力。"
+          "en": "This restaurant offers a unique dining experience you won't forget.",
+          "zh": "这家餐厅提供独特的用餐体验，你绝对不会忘记。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'creativity' comes from the Latin root 'creare', meaning 'to create'."
+        "etymology": "The word 'unique' comes from the Latin 'unicus', meaning 'only' or 'single'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=creativity&type=2",
-      "chapter": "基本词汇 名词200 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=unique&type=2",
+      "chapter": "核心词汇 文化与传统 Unit 5"
     }
   ]
 }

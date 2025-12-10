@@ -1,67 +1,69 @@
 {
-  "generated": "2025-12-09T22:08:23.647Z",
+  "generated": "2025-12-10T22:08:29.432Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "rocks'fabric",
-      "pronunciation": "/ˈrɑks ˈfæbrɪk/",
+      "word": "incur",
+      "pronunciation": "/ɪnˈkɜr/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "岩石的结构",
-          "en": "The arrangement and composition of minerals in a rock."
+          "pos": "v.",
+          "zh": "招致",
+          "en": "To bring something upon oneself, often an unwanted consequence."
         },
         {
-          "pos": "n.",
-          "zh": "岩石的织物",
-          "en": "The texture or characteristics of a rock."
+          "pos": "v.",
+          "zh": "产生",
+          "en": "To become subject to something, typically a cost or liability."
         }
       ],
       "examples": [
         {
-          "en": "The rocks' fabric reveals important information about their formation.",
-          "zh": "岩石的结构揭示了有关其形成的重要信息。"
+          "en": "The company may incur additional costs during the project.",
+          "zh": "公司在项目中可能会产生额外费用。"
         },
         {
-          "en": "Geologists study rocks' fabric to understand Earth's history.",
-          "zh": "地质学家研究岩石的结构以了解地球的历史。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=rocks'fabric&type=2",
-      "chapter": "认知词汇 自然分类 地震"
-    },
-    {
-      "word": "pornography",
-      "pronunciation": "/pɔrnˈɒɡrəfi/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "色情",
-          "en": "The explicit portrayal of sexual subject matter for sexual arousal."
-        },
-        {
-          "pos": "n.",
-          "zh": "色情作品",
-          "en": "Printed or visual material that depicts sexual acts or nudity."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Many argue that pornography can negatively influence relationships.",
-          "zh": "许多人认为色情作品会对人际关系产生负面影响。"
-        },
-        {
-          "en": "Access to pornography has increased with the rise of the internet.",
-          "zh": "随着互联网的兴起，获取色情内容变得更加容易。"
+          "en": "If you are late, you will incur a penalty fee.",
+          "zh": "如果你迟到，你将会产生罚款。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'pornography' originates from the Greek words 'porne' meaning 'prostitute' and 'graphia' meaning 'writing'."
+        "association": "Think of 'in' as bringing something 'cur' (cure) upon yourself, but in a negative way, like an unwanted cost."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pornography&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 8"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=incur&type=2",
+      "chapter": "核心词汇 科技发展 Unit 3"
+    },
+    {
+      "word": "adore",
+      "pronunciation": "/əˈdɔːr/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "崇拜，喜爱",
+          "en": "To love someone or something very much."
+        },
+        {
+          "pos": "v.",
+          "zh": "倾慕",
+          "en": "To have a deep affection for someone."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She adores her grandmother and visits her every week.",
+          "zh": "她非常崇拜她的祖母，每周都去看望她。"
+        },
+        {
+          "en": "Many children adore animals and enjoy visiting the zoo.",
+          "zh": "许多孩子喜欢动物，并且享受去动物园。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'adore' comes from Latin 'adorare', meaning 'to speak to' or 'to worship'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=adore&type=2",
+      "chapter": "基本词汇 动词200 Unit 1"
     }
   ]
 }

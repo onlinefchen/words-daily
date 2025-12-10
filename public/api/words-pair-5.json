@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-09T22:08:23.647Z",
+  "generated": "2025-12-10T22:08:29.432Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "perplex",
-      "pronunciation": "/pərˈplɛks/",
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "使困惑",
-          "en": "To confuse someone or make them unsure about something."
-        },
-        {
-          "pos": "v.",
-          "zh": "使复杂",
-          "en": "To make something more complicated or difficult to understand."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The complex math problem perplexed the students during the exam.",
-          "zh": "复杂的数学题让学生们在考试中感到困惑。"
-        },
-        {
-          "en": "His sudden change in behavior perplexed his friends and family.",
-          "zh": "他突然的行为变化让朋友和家人感到困惑。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'perplex' comes from the Latin 'perplexus,' meaning 'entangled' or 'complicated.'"
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=perplex&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 8"
-    },
-    {
-      "word": "litter",
-      "pronunciation": "/ˈlɪtər/",
+      "word": "atmosphere",
+      "pronunciation": "/ˈætməsfɪr/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "垃圾，废物",
-          "en": "Waste material that is disposed of improperly."
+          "zh": "气氛",
+          "en": "The feeling or mood in a place or situation."
         },
         {
-          "pos": "v.",
-          "zh": "乱扔，丢弃",
-          "en": "To throw away trash in a careless manner."
+          "pos": "n.",
+          "zh": "大气层",
+          "en": "The layer of gases surrounding the Earth."
         }
       ],
       "examples": [
         {
-          "en": "Many parks are ruined by people who litter carelessly.",
-          "zh": "许多公园因人们随意乱扔垃圾而被破坏。"
+          "en": "The restaurant had a cozy atmosphere that made us feel relaxed.",
+          "zh": "这家餐厅有一种舒适的气氛，让我们感到放松。"
         },
         {
-          "en": "The city organized a campaign to clean up litter from the streets.",
-          "zh": "这座城市组织了一场清理街道垃圾的活动。"
+          "en": "The Earth's atmosphere protects us from harmful space radiation.",
+          "zh": "地球的大气层保护我们免受有害的太空辐射。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'litter' as 'little trash' scattered around."
+        "association": "Think of 'atmosphere' as 'at most here,' where the surroundings greatly affect our feelings."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=litter&type=2",
-      "chapter": "核心词汇 环境保护 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=atmosphere&type=2",
+      "chapter": "核心词汇 环境保护 Unit 1"
+    },
+    {
+      "word": "communication",
+      "pronunciation": "/kəˌmjunɪˈkeɪʃən/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "交流，沟通",
+          "en": "The act of sharing information or ideas with others."
+        },
+        {
+          "pos": "n.",
+          "zh": "通讯，通讯方式",
+          "en": "A method or system for sending messages or information."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Effective communication is essential for successful teamwork.",
+          "zh": "有效的沟通对成功的团队合作至关重要。"
+        },
+        {
+          "en": "Modern technology has improved global communication significantly.",
+          "zh": "现代科技显著改善了全球通信。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'communication' comes from the Latin 'communicare', meaning 'to share'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=communication&type=2",
+      "chapter": "核心词汇 文化与传统 Unit 2"
     }
   ]
 }

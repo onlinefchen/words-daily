@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-09T22:08:23.647Z",
+  "generated": "2025-12-10T22:08:29.432Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "devastation",
-      "pronunciation": "/ˌdɛvəˈsteɪʃən/",
+      "word": "explore",
+      "pronunciation": "/ɪkˈsplɔːr/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "毁灭，破坏",
-          "en": "The act of causing great destruction or damage."
+          "pos": "v.",
+          "zh": "探索",
+          "en": "To travel through a place to learn more about it."
         },
         {
-          "pos": "n.",
-          "zh": "悲痛，痛苦",
-          "en": "Severe emotional pain or distress."
+          "pos": "v.",
+          "zh": "研究",
+          "en": "To examine something in detail to understand it better."
         }
       ],
       "examples": [
         {
-          "en": "The devastation caused by the hurricane was unprecedented in recent history.",
-          "zh": "飓风造成的毁灭在最近的历史中是前所未有的。"
+          "en": "Scientists explore the ocean to find new species.",
+          "zh": "科学家探索海洋以发现新物种。"
         },
         {
-          "en": "She felt a sense of devastation after losing her beloved pet.",
-          "zh": "失去心爱的宠物后，她感到一种悲痛。"
+          "en": "We decided to explore the ancient ruins during our trip.",
+          "zh": "我们决定在旅行中探索古老的遗址。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'devastation' as a 'devastating situation' where everything is destroyed."
+        "association": "Think of 'exploring' as 'ex-ploring' where you 'explore' different 'ploring' areas."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=devastation&type=2",
-      "chapter": "核心词汇 环境保护 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=explore&type=2",
+      "chapter": "基本词汇 动词200 Unit 7"
     },
     {
-      "word": "physician",
-      "pronunciation": "/fɪˈzɪʃ.ən/",
+      "word": "longevity",
+      "pronunciation": "/lɒnˈdʒɛvəti/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "医生",
-          "en": "A physician is a medical doctor who treats patients."
+          "zh": "长寿",
+          "en": "The length of time that a person lives."
         },
         {
           "pos": "n.",
-          "zh": "医学专家",
-          "en": "A physician is someone who specializes in the practice of medicine."
+          "zh": "持久性",
+          "en": "The duration of something's existence or effectiveness."
         }
       ],
       "examples": [
         {
-          "en": "The physician advised me to eat a balanced diet for better health.",
-          "zh": "医生建议我均衡饮食以保持健康。"
+          "en": "Many people are seeking ways to improve their longevity.",
+          "zh": "许多人在寻找提高他们寿命的方法。"
         },
         {
-          "en": "After the examination, the physician prescribed some medication.",
-          "zh": "检查后，医生开了一些药物。"
+          "en": "The longevity of certain species can be quite remarkable.",
+          "zh": "某些物种的持久性可以非常显著。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'physician' comes from the Latin 'physica', meaning 'natural science' or 'medicine'."
+        "association": "Think of 'long' in longevity to remember it relates to a long life."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=physician&type=2",
-      "chapter": "核心词汇 健康话题 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=longevity&type=2",
+      "chapter": "核心词汇 科技发展 Unit 3"
     }
   ]
 }

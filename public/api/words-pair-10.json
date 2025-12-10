@@ -1,67 +1,62 @@
 {
-  "generated": "2025-12-09T22:08:23.647Z",
+  "generated": "2025-12-10T22:08:29.432Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "corruption",
-      "pronunciation": "/kəˈrʌpʃən/",
+      "word": "efficiency",
+      "pronunciation": "/ɪˈfɪʃ.ən.si/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "腐败",
-          "en": "Corruption refers to dishonest or unethical behavior, especially by people in power."
+          "zh": "效率",
+          "en": "The ability to do something with minimal waste of time or resources."
         },
         {
           "pos": "n.",
-          "zh": "毁坏",
-          "en": "Corruption can also mean the process of something being damaged or spoiled."
+          "zh": "效能",
+          "en": "The effectiveness of a process or system to achieve a goal."
         }
       ],
       "examples": [
         {
-          "en": "The investigation revealed widespread corruption within the government.",
-          "zh": "调查揭示了政府内部的广泛腐败。"
+          "en": "Improving energy efficiency can lead to significant cost savings.",
+          "zh": "提高能源效率可以带来显著的成本节省。"
         },
         {
-          "en": "Corruption can lead to the collapse of trust in public institutions.",
-          "zh": "腐败可能导致公众对机构信任的崩溃。"
+          "en": "The factory operates with high efficiency, maximizing output.",
+          "zh": "这家工厂以高效率运营，最大化产出。"
         }
       ],
       "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=corruption&type=2",
-      "chapter": "基本词汇 名词200 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=efficiency&type=2",
+      "chapter": "核心词汇 科技发展 Unit 2"
     },
     {
-      "word": "enthusiastic",
-      "pronunciation": "/ɪnˈθuːziˌæstɪk/",
+      "word": "irresistible",
+      "pronunciation": "/ˌɪr.ɪˈzɪs.tə.bəl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "热情的",
-          "en": "Showing great excitement and interest."
-        },
-        {
-          "pos": "adj.",
-          "zh": "充满热情的",
-          "en": "Having or showing intense and eager enjoyment."
+          "zh": "不可抗拒的",
+          "en": "Too attractive or appealing to be resisted."
         }
       ],
       "examples": [
         {
-          "en": "She was enthusiastic about joining the new art class.",
-          "zh": "她对加入新的艺术班感到很热情。"
+          "en": "The cake looked so irresistible that I had to try a piece.",
+          "zh": "蛋糕看起来如此不可抗拒，我不得不试一小块。"
         },
         {
-          "en": "The teacher was enthusiastic when explaining the science project.",
-          "zh": "老师在讲解科学项目时非常热情。"
+          "en": "Her smile was irresistible, making everyone around her feel happy.",
+          "zh": "她的微笑是不可抗拒的，让周围每个人都感到快乐。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'enthusiastic' as being 'in-the-heat' of excitement."
+        "association": "Think of 'resist' in 'irresistible'—if you can't resist, it's very appealing."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=enthusiastic&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 8"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=irresistible&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 11"
     }
   ]
 }

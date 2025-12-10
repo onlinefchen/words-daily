@@ -1,69 +1,67 @@
 {
-  "generated": "2025-12-09T22:08:23.646Z",
+  "generated": "2025-12-10T22:08:29.431Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "disaster",
-      "pronunciation": "/dɪˈzæstər/",
+      "word": "existing",
+      "pronunciation": "/ɪɡˈzɪstɪŋ/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "灾难",
-          "en": "A disaster is a sudden event that causes great damage or suffering."
+          "pos": "adj.",
+          "zh": "现有的",
+          "en": "Something that is present or currently available."
         },
         {
-          "pos": "n.",
-          "zh": "失败",
-          "en": "It can also refer to a complete failure or something that goes very wrong."
+          "pos": "adj.",
+          "zh": "现有的，存在的",
+          "en": "Referring to something that has been in existence."
         }
       ],
       "examples": [
         {
-          "en": "The hurricane was a disaster that destroyed many homes and lives.",
-          "zh": "飓风是一个灾难，摧毁了许多家庭和生命。"
+          "en": "The existing laws need to be updated to reflect current issues.",
+          "zh": "现有的法律需要更新以反映当前问题。"
         },
         {
-          "en": "The project turned into a disaster due to poor planning and execution.",
-          "zh": "由于规划和执行不当，该项目变成了一场灾难。"
+          "en": "She plans to improve the existing facilities at the school.",
+          "zh": "她计划改善学校现有的设施。"
         }
       ],
-      "memoryTips": {
-        "etymology": "The word 'disaster' comes from the Italian 'disastro', meaning 'ill-starred', derived from 'dis-' (bad) and 'astro' (star), indicating bad fortune."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disaster&type=2",
-      "chapter": "核心词汇 环境保护 Unit 2"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=existing&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 8"
     },
     {
-      "word": "traffic",
-      "pronunciation": "/ˈtræfɪk/",
+      "word": "toxic",
+      "pronunciation": "/ˈtɒksɪk/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "交通",
-          "en": "The movement of vehicles on roads."
+          "pos": "adj.",
+          "zh": "有毒的",
+          "en": "Poisonous or harmful to living things."
         },
         {
-          "pos": "v.",
-          "zh": "堵塞",
-          "en": "To cause congestion or blockage in traffic."
+          "pos": "adj.",
+          "zh": "有害的",
+          "en": "Causing damage or unpleasant effects."
         }
       ],
       "examples": [
         {
-          "en": "The traffic was so heavy that I arrived late to the meeting.",
-          "zh": "交通非常繁忙，我开会迟到了。"
+          "en": "The toxic chemicals in the factory polluted the nearby river.",
+          "zh": "工厂中的有毒化学物质污染了附近的河流。"
         },
         {
-          "en": "She tried to avoid traffic by taking a different route.",
-          "zh": "她试图通过选择不同的路线来避开交通。"
+          "en": "Some plants are toxic and should not be eaten.",
+          "zh": "有些植物是有毒的，不能食用。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'traffic' as a 'track' where vehicles 'traffic' through."
+        "association": "Think of a 'toxic' relationship as one that harms you."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=traffic&type=2",
-      "chapter": "基本词汇 名词200 Unit 9"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=toxic&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 19"
     }
   ]
 }

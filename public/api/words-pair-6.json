@@ -1,67 +1,70 @@
 {
-  "generated": "2025-12-09T22:08:23.647Z",
+  "generated": "2025-12-10T22:08:29.432Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "non-explosive lava flow",
-      "pronunciation": "/nɒn-ɪkˈspləʊsɪv ˈlɑːvə floʊ/",
+      "word": "justifiable",
+      "pronunciation": "/ˈdʒʌstəˌfaɪəbl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "非爆炸性的",
-          "en": "Describing lava that flows smoothly without explosive eruptions."
+          "zh": "可辩解的",
+          "en": "Describes something that can be justified or explained as reasonable."
         },
         {
-          "pos": "n.",
-          "zh": "非爆炸性熔岩流",
-          "en": "A type of lava flow that is gentle and does not cause explosions."
+          "pos": "adj.",
+          "zh": "合理的",
+          "en": "Refers to actions or decisions that are right or acceptable."
         }
       ],
       "examples": [
         {
-          "en": "Non-explosive lava flows create wide, gentle landscapes over time.",
-          "zh": "非爆炸性熔岩流随着时间的推移形成宽广而平缓的地貌。"
+          "en": "His actions were justifiable given the circumstances he faced.",
+          "zh": "考虑到他面临的情况，他的行为是可以辩解的。"
         },
         {
-          "en": "Scientists study non-explosive lava flows to understand volcanic activity better.",
-          "zh": "科学家研究非爆炸性熔岩流以更好地理解火山活动。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=non-explosive%20lava%20flow&type=2",
-      "chapter": "认知词汇 自然分类 火山"
-    },
-    {
-      "word": "weakness",
-      "pronunciation": "/ˈwiːk.nəs/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "弱点",
-          "en": "A lack of strength or a flaw in someone's character."
-        },
-        {
-          "pos": "n.",
-          "zh": "虚弱",
-          "en": "The state of being weak in health or power."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Her greatest weakness is her inability to say no to others.",
-          "zh": "她最大的弱点是无法对他人说不。"
-        },
-        {
-          "en": "Many athletes work hard to overcome their physical weaknesses.",
-          "zh": "许多运动员努力克服他们的身体弱点。"
+          "en": "The increase in fees is justifiable due to rising costs.",
+          "zh": "费用的增加是合理的，因为成本在上升。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'weakness' as a 'week' when you're feeling weak, like a tired day."
+        "etymology": "The word 'justifiable' comes from the Latin 'justificare', which means to make right or just.",
+        "association": "Think of 'justifiable' as 'just' + 'ifiable', meaning it can be made just or reasonable."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=weakness&type=2",
-      "chapter": "基本词汇 名词200 Unit 10"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=justifiable&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 11"
+    },
+    {
+      "word": "cocky",
+      "pronunciation": "/ˈkɑː.ki/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "自大的",
+          "en": "Having an overly high opinion of oneself; arrogant."
+        },
+        {
+          "pos": "adj.",
+          "zh": "过于自信的",
+          "en": "Being overly confident in a way that can be annoying."
+        }
+      ],
+      "examples": [
+        {
+          "en": "His cocky attitude made it hard for others to work with him.",
+          "zh": "他自大的态度让其他人很难与他合作。"
+        },
+        {
+          "en": "She was too cocky about winning the competition.",
+          "zh": "她对赢得比赛过于自信。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a 'cocky' rooster that struts around, full of itself."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cocky&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 4"
     }
   ]
 }
