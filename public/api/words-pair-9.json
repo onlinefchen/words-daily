@@ -1,69 +1,70 @@
 {
-  "generated": "2025-12-10T22:08:29.432Z",
+  "generated": "2025-12-11T22:08:18.580Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "explore",
-      "pronunciation": "/ɪkˈsplɔːr/",
+      "word": "indifferent",
+      "pronunciation": "/ɪnˈdɪf.ər.ənt/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "探索",
-          "en": "To travel through a place to learn more about it."
+          "pos": "adj.",
+          "zh": "不关心的",
+          "en": "Not interested in or concerned about something."
         },
         {
-          "pos": "v.",
-          "zh": "研究",
-          "en": "To examine something in detail to understand it better."
+          "pos": "adj.",
+          "zh": "冷漠的",
+          "en": "Showing no preference or response; apathetic."
         }
       ],
       "examples": [
         {
-          "en": "Scientists explore the ocean to find new species.",
-          "zh": "科学家探索海洋以发现新物种。"
+          "en": "She remained indifferent to the ongoing debate about climate change.",
+          "zh": "她对气候变化的持续辩论保持冷漠。"
         },
         {
-          "en": "We decided to explore the ancient ruins during our trip.",
-          "zh": "我们决定在旅行中探索古老的遗址。"
+          "en": "His indifferent attitude towards studying worried his teachers.",
+          "zh": "他对学习的漠不关心让老师们感到担忧。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'exploring' as 'ex-ploring' where you 'explore' different 'ploring' areas."
+        "association": "Think of 'indifferent' as 'in different'; when you are indifferent, you are in a different state of caring.",
+        "mnemonic": "Indifferent sounds like 'in different', which can help you remember that it means not caring about differences."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=explore&type=2",
-      "chapter": "基本词汇 动词200 Unit 7"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=indifferent&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 10"
     },
     {
-      "word": "longevity",
-      "pronunciation": "/lɒnˈdʒɛvəti/",
+      "word": "nutritious",
+      "pronunciation": "/nuˈtrɪʃəs/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "长寿",
-          "en": "The length of time that a person lives."
+          "pos": "adj.",
+          "zh": "营养的",
+          "en": "Providing the necessary substances for health and growth."
         },
         {
-          "pos": "n.",
-          "zh": "持久性",
-          "en": "The duration of something's existence or effectiveness."
+          "pos": "adj.",
+          "zh": "有营养价值的",
+          "en": "Rich in nutrients that are beneficial for the body."
         }
       ],
       "examples": [
         {
-          "en": "Many people are seeking ways to improve their longevity.",
-          "zh": "许多人在寻找提高他们寿命的方法。"
+          "en": "Eating a balanced diet is essential for maintaining nutritious meals.",
+          "zh": "均衡饮食对保持营养餐至关重要。"
         },
         {
-          "en": "The longevity of certain species can be quite remarkable.",
-          "zh": "某些物种的持久性可以非常显著。"
+          "en": "Fruits and vegetables are often considered the most nutritious foods.",
+          "zh": "水果和蔬菜通常被认为是最有营养的食品。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'long' in longevity to remember it relates to a long life."
+        "etymology": "The word 'nutritious' comes from the Latin 'nutritius,' meaning 'nourishing.'"
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=longevity&type=2",
-      "chapter": "核心词汇 科技发展 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=nutritious&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 13"
     }
   ]
 }

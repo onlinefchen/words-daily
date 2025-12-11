@@ -1,67 +1,69 @@
 {
-  "generated": "2025-12-10T22:08:29.431Z",
+  "generated": "2025-12-11T22:08:18.580Z",
   "pair": 1,
   "count": 2,
   "words": [
     {
-      "word": "tamp",
-      "pronunciation": "/tæmp/",
+      "word": "penalty",
+      "pronunciation": "/ˈpɛnəlti/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "夯实，压实",
-          "en": "To pack or press down tightly."
+          "pos": "n.",
+          "zh": "罚款",
+          "en": "A punishment or consequence for breaking a rule or law."
         },
         {
           "pos": "n.",
-          "zh": "夯，压实的工具",
-          "en": "A tool used for packing down materials."
+          "zh": "惩罚",
+          "en": "A disadvantage imposed on someone for failing to do something."
         }
       ],
       "examples": [
         {
-          "en": "The workers tamped the soil before laying the foundation.",
-          "zh": "工人在铺设基础之前夯实了土壤。"
+          "en": "The penalty for speeding can include fines or points on your license.",
+          "zh": "超速的罚款可能包括罚金或驾照扣分。"
         },
         {
-          "en": "He used a tamp to compress the gravel in the driveway.",
-          "zh": "他用夯工具压实车道上的碎石。"
+          "en": "Players face a penalty if they break the rules during the game.",
+          "zh": "如果球员在比赛中违反规则，他们将面临惩罚。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'tamp' as 'stamp' but for packing down materials."
+        "association": "Think of 'penalty' as a 'pen' that writes down your mistakes leading to punishment."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=tamp&type=2",
-      "chapter": "阅读真题认知词汇 香蕉种植"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=penalty&type=2",
+      "chapter": "基本词汇 名词200 Unit 6"
     },
     {
-      "word": "ground crack",
-      "pronunciation": "/ɡraʊnd kræk/",
+      "word": "childrearing",
+      "pronunciation": "/ˈʧaɪldˌrɪərɪŋ/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "地面裂缝",
-          "en": "A crack or split in the ground, often caused by dry conditions."
+          "zh": "育儿",
+          "en": "The process of raising and caring for children."
         },
         {
-          "pos": "v.",
-          "zh": "使地面裂开",
-          "en": "To cause the ground to split or break apart."
+          "pos": "n.",
+          "zh": "儿童教育",
+          "en": "The methods and practices used in raising children."
         }
       ],
       "examples": [
         {
-          "en": "The severe drought caused many ground cracks in the fields.",
-          "zh": "严重的干旱导致田地出现了许多地面裂缝。"
+          "en": "Effective childrearing is essential for a child's development.",
+          "zh": "有效的育儿对孩子的发展至关重要。"
         },
         {
-          "en": "Farmers are concerned about the ground cracks damaging their crops.",
-          "zh": "农民担心地面裂缝会损害他们的作物。"
+          "en": "Many parents seek advice on childrearing techniques.",
+          "zh": "许多父母寻求关于育儿技巧的建议。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ground%20crack&type=2",
-      "chapter": "认知词汇 自然分类 地震"
+      "memoryTips": {
+        "etymology": "The word 'childrearing' comes from 'child' and 'rearing', where 'rearing' means to raise or bring up."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=childrearing&type=2",
+      "chapter": "认知词汇 社会与生活分类 工作与家庭冲突"
     }
   ]
 }

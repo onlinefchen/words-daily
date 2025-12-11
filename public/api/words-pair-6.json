@@ -1,70 +1,69 @@
 {
-  "generated": "2025-12-10T22:08:29.432Z",
+  "generated": "2025-12-11T22:08:18.580Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "justifiable",
-      "pronunciation": "/ˈdʒʌstəˌfaɪəbl/",
+      "word": "bee colony",
+      "pronunciation": "/bi ˈkɒləni/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "可辩解的",
-          "en": "Describes something that can be justified or explained as reasonable."
+          "pos": "n.",
+          "zh": "蜜蜂群",
+          "en": "A group of bees living together in a hive."
         },
         {
-          "pos": "adj.",
-          "zh": "合理的",
-          "en": "Refers to actions or decisions that are right or acceptable."
+          "pos": "n.",
+          "zh": "蜜蜂群体",
+          "en": "The social structure and community of bees working together."
         }
       ],
       "examples": [
         {
-          "en": "His actions were justifiable given the circumstances he faced.",
-          "zh": "考虑到他面临的情况，他的行为是可以辩解的。"
+          "en": "The bee colony is essential for pollinating many plants.",
+          "zh": "蜜蜂群对许多植物的授粉至关重要。"
         },
         {
-          "en": "The increase in fees is justifiable due to rising costs.",
-          "zh": "费用的增加是合理的，因为成本在上升。"
+          "en": "Farmers often rely on a healthy bee colony for crops.",
+          "zh": "农民常常依赖健康的蜜蜂群来种植农作物。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'justifiable' comes from the Latin 'justificare', which means to make right or just.",
-        "association": "Think of 'justifiable' as 'just' + 'ifiable', meaning it can be made just or reasonable."
+        "association": "Think of a 'colony' as a community, like a small town where bees live and work together."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=justifiable&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 11"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=bee%20colony&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "cocky",
-      "pronunciation": "/ˈkɑː.ki/",
+      "word": "envenomate",
+      "pronunciation": "/ɪnˈvɛn.ə.meɪt/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "自大的",
-          "en": "Having an overly high opinion of oneself; arrogant."
+          "pos": "v.",
+          "zh": "使中毒",
+          "en": "To make something poisonous or toxic."
         },
         {
-          "pos": "adj.",
-          "zh": "过于自信的",
-          "en": "Being overly confident in a way that can be annoying."
+          "pos": "v.",
+          "zh": "使恶化",
+          "en": "To make a situation worse or more harmful."
         }
       ],
       "examples": [
         {
-          "en": "His cocky attitude made it hard for others to work with him.",
-          "zh": "他自大的态度让其他人很难与他合作。"
+          "en": "The snake's bite can envenomate its prey within minutes.",
+          "zh": "蛇的咬伤可以在几分钟内使猎物中毒。"
         },
         {
-          "en": "She was too cocky about winning the competition.",
-          "zh": "她对赢得比赛过于自信。"
+          "en": "The argument only served to envenomate their relationship further.",
+          "zh": "争论只会使他们的关系更加恶化。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'cocky' rooster that struts around, full of itself."
+        "association": "Think of 'envenomate' as 'to add venom', where 'venom' is a poison."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cocky&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=envenomate&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

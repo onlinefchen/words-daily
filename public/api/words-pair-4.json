@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-10T22:08:29.431Z",
+  "generated": "2025-12-11T22:08:18.580Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "conformity",
-      "pronunciation": "/kənˈfɔːrmɪti/",
+      "word": "segregated",
+      "pronunciation": "/ˈsɛɡrɪˌɡeɪtɪd/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "遵从; 一致性",
-          "en": "The act of matching attitudes, beliefs, and behaviors to group norms."
+          "pos": "adj.",
+          "zh": "隔离的",
+          "en": "Separated from others; kept apart."
         },
         {
-          "pos": "n.",
-          "zh": "符合; 符合性",
-          "en": "The state of being in agreement or harmony with something."
+          "pos": "v.",
+          "zh": "隔离",
+          "en": "To set apart from others; to isolate."
         }
       ],
       "examples": [
         {
-          "en": "Social conformity can lead to a loss of individual identity.",
-          "zh": "社会的遵从可能导致个人身份的丧失。"
+          "en": "The school was segregated by race until the 1970s.",
+          "zh": "这所学校直到1970年代才不再按种族隔离。"
         },
         {
-          "en": "He felt pressured to conform to the expectations of his peers.",
-          "zh": "他感到被迫遵从同龄人的期望。"
+          "en": "Many communities are still segregated in terms of wealth and opportunity.",
+          "zh": "许多社区在财富和机会方面仍然存在隔离现象。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'conformity' as 'conforming' to a 'norm' in a group."
+        "association": "Think of 'segregated' as 'separated' in a crowded space, where people are divided."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=conformity&type=2",
-      "chapter": "核心词汇 文化与传统 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=segregated&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 17"
     },
     {
-      "word": "unique",
-      "pronunciation": "/juːˈniːk/",
+      "word": "illusion",
+      "pronunciation": "/ɪˈluːʒən/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "独特的",
-          "en": "Being the only one of its kind; unlike anything else."
+          "pos": "n.",
+          "zh": "幻觉",
+          "en": "A false idea or belief that seems real but is not."
         },
         {
-          "pos": "adj.",
-          "zh": "独一无二的",
-          "en": "Having special qualities that make something stand out."
+          "pos": "n.",
+          "zh": "错觉",
+          "en": "An appearance that tricks the mind into seeing something that isn’t there."
         }
       ],
       "examples": [
         {
-          "en": "Her artwork is truly unique and captures everyone's attention.",
-          "zh": "她的艺术作品独一无二，吸引了每个人的注意。"
+          "en": "The magician created an illusion that amazed the audience.",
+          "zh": "魔术师制造了一种让观众惊叹的幻觉。"
         },
         {
-          "en": "This restaurant offers a unique dining experience you won't forget.",
-          "zh": "这家餐厅提供独特的用餐体验，你绝对不会忘记。"
+          "en": "Her smile was an illusion hiding her true feelings.",
+          "zh": "她的微笑是掩饰真实感受的错觉。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'unique' comes from the Latin 'unicus', meaning 'only' or 'single'."
+        "association": "Think of 'illusion' as 'in-lusion', where something appears inside but isn't really there."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=unique&type=2",
-      "chapter": "核心词汇 文化与传统 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=illusion&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 5"
     }
   ]
 }

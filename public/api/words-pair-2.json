@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-10T22:08:29.431Z",
+  "generated": "2025-12-11T22:08:18.580Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "particular",
-      "pronunciation": "/pərˈtɪkjələr/",
+      "word": "dominance",
+      "pronunciation": "/ˈdɑː.mɪ.nəns/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "特定的，特别的",
-          "en": "Referring to a specific thing or person."
+          "pos": "n.",
+          "zh": "主导地位",
+          "en": "The state of having power or influence over others."
         },
         {
-          "pos": "adj.",
-          "zh": "细致的，讲究的",
-          "en": "Showing attention to detail or being specific about something."
+          "pos": "n.",
+          "zh": "优势",
+          "en": "The quality of being more important or powerful than others."
         }
       ],
       "examples": [
         {
-          "en": "She has a particular interest in environmental science.",
-          "zh": "她对环境科学有特别的兴趣。"
+          "en": "The dominance of technology in our lives is undeniable.",
+          "zh": "科技在我们生活中的主导地位是不可否认的。"
         },
         {
-          "en": "He is known for his particular way of solving problems.",
-          "zh": "他以独特的解决问题方式而闻名。"
+          "en": "The team's dominance in the league led to many victories.",
+          "zh": "该队在联赛中的优势带来了许多胜利。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'particular' as 'part' + 'icular', where 'part' refers to a specific part of something."
+        "etymology": "The word 'dominance' comes from the Latin 'dominari', meaning 'to rule'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=particular&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 14"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dominance&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 2"
     },
     {
-      "word": "ecological",
-      "pronunciation": "/ˌiː.kəˈlɒdʒ.ɪ.kəl/",
+      "word": "catastrophic",
+      "pronunciation": "/ˌkætəˈstrɑːfɪk/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "生态的",
-          "en": "Related to the relationship between living things and their environment."
+          "zh": "灾难性的",
+          "en": "Causing a lot of damage or suffering."
         },
         {
           "pos": "adj.",
-          "zh": "生态学的",
-          "en": "Concerning the study of ecosystems and how organisms interact."
+          "zh": "极其严重的",
+          "en": "Extremely serious or disastrous."
         }
       ],
       "examples": [
         {
-          "en": "The ecological balance is crucial for sustaining biodiversity.",
-          "zh": "生态平衡对维持生物多样性至关重要。"
+          "en": "The catastrophic flood destroyed many homes in the village.",
+          "zh": "灾难性的洪水摧毁了村庄里的许多房屋。"
         },
         {
-          "en": "Many ecological problems arise from human activities and pollution.",
-          "zh": "许多生态问题源于人类活动和污染。"
+          "en": "Experts warned that climate change could have catastrophic effects.",
+          "zh": "专家警告气候变化可能会产生灾难性的影响。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'eco' as in 'ecosystem', linking it to the environment for an easy recall."
+        "association": "Think of a 'cat' trapped in a 'traffic' jam, leading to a disastrous situation."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ecological&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 7"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=catastrophic&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 4"
     }
   ]
 }

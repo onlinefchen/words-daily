@@ -1,62 +1,69 @@
 {
-  "generated": "2025-12-10T22:08:29.432Z",
+  "generated": "2025-12-11T22:08:18.581Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "efficiency",
-      "pronunciation": "/ɪˈfɪʃ.ən.si/",
+      "word": "individuality",
+      "pronunciation": "/ˌɪndɪˈvɪdʒuəlɪti/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "效率",
-          "en": "The ability to do something with minimal waste of time or resources."
+          "zh": "个性",
+          "en": "The quality of being unique and different from others."
         },
         {
           "pos": "n.",
-          "zh": "效能",
-          "en": "The effectiveness of a process or system to achieve a goal."
+          "zh": "个体",
+          "en": "The characteristics that make a person distinct."
         }
       ],
       "examples": [
         {
-          "en": "Improving energy efficiency can lead to significant cost savings.",
-          "zh": "提高能源效率可以带来显著的成本节省。"
+          "en": "Her individuality shines through in her unique fashion choices.",
+          "zh": "她的个性在她独特的时尚选择中闪耀。"
         },
         {
-          "en": "The factory operates with high efficiency, maximizing output.",
-          "zh": "这家工厂以高效率运营，最大化产出。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=efficiency&type=2",
-      "chapter": "核心词汇 科技发展 Unit 2"
-    },
-    {
-      "word": "irresistible",
-      "pronunciation": "/ˌɪr.ɪˈzɪs.tə.bəl/",
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "不可抗拒的",
-          "en": "Too attractive or appealing to be resisted."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The cake looked so irresistible that I had to try a piece.",
-          "zh": "蛋糕看起来如此不可抗拒，我不得不试一小块。"
-        },
-        {
-          "en": "Her smile was irresistible, making everyone around her feel happy.",
-          "zh": "她的微笑是不可抗拒的，让周围每个人都感到快乐。"
+          "en": "Encouraging individuality is important for personal growth and creativity.",
+          "zh": "鼓励个性对于个人成长和创造力很重要。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'resist' in 'irresistible'—if you can't resist, it's very appealing."
+        "etymology": "The word 'individuality' comes from 'individual', which means a single person, combined with the suffix '-ity' that indicates a quality or state."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=irresistible&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 11"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=individuality&type=2",
+      "chapter": "核心词汇 科技发展 Unit 3"
+    },
+    {
+      "word": "elimination",
+      "pronunciation": "/ɪˌlɪməˈneɪʃən/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "消除",
+          "en": "The act of removing something completely."
+        },
+        {
+          "pos": "n.",
+          "zh": "淘汰",
+          "en": "The process of getting rid of something that is no longer needed."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The elimination of waste is crucial for a cleaner environment.",
+          "zh": "消除废物对更清洁的环境至关重要。"
+        },
+        {
+          "en": "Their elimination from the competition surprised everyone last year.",
+          "zh": "他们去年在比赛中的淘汰让所有人感到惊讶。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'elimination' comes from the Latin 'eliminare', meaning 'to remove' or 'to turn out.'"
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=elimination&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 3"
     }
   ]
 }

@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-10T22:08:29.432Z",
+  "generated": "2025-12-11T22:08:18.580Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "atmosphere",
-      "pronunciation": "/ˈætməsfɪr/",
+      "word": "periodic violent unleashing",
+      "pronunciation": "/ˈpɪə.ri.ədɪk ˈvaɪ.ələnt ʌnˈliː.ʃɪŋ/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "气氛",
-          "en": "The feeling or mood in a place or situation."
+          "pos": "adj.",
+          "zh": "周期性的",
+          "en": "Occurring at regular intervals; repeated over time."
         },
         {
-          "pos": "n.",
-          "zh": "大气层",
-          "en": "The layer of gases surrounding the Earth."
+          "pos": "adj.",
+          "zh": "猛烈的",
+          "en": "Characterized by strong, forceful action or intensity."
         }
       ],
       "examples": [
         {
-          "en": "The restaurant had a cozy atmosphere that made us feel relaxed.",
-          "zh": "这家餐厅有一种舒适的气氛，让我们感到放松。"
+          "en": "The periodic violent unleashing of storms can cause significant damage.",
+          "zh": "周期性猛烈的暴风雨可能造成重大损失。"
         },
         {
-          "en": "The Earth's atmosphere protects us from harmful space radiation.",
-          "zh": "地球的大气层保护我们免受有害的太空辐射。"
+          "en": "Scientists study the periodic violent unleashing of volcanic eruptions.",
+          "zh": "科学家研究火山爆发的周期性猛烈释放。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'atmosphere' as 'at most here,' where the surroundings greatly affect our feelings."
+        "association": "Think of 'periodic' as a clock that ticks at regular intervals, and 'violent unleashing' as a storm breaking loose."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=atmosphere&type=2",
-      "chapter": "核心词汇 环境保护 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=periodic%20violent%20unleashing&type=2",
+      "chapter": "认知词汇 自然分类 火山"
     },
     {
-      "word": "communication",
-      "pronunciation": "/kəˌmjunɪˈkeɪʃən/",
+      "word": "paleontology",
+      "pronunciation": "/ˌpeɪlɪˈɒn.tə.lə.dʒi/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "交流，沟通",
-          "en": "The act of sharing information or ideas with others."
+          "zh": "古生物学",
+          "en": "The study of fossils and ancient life forms."
         },
         {
           "pos": "n.",
-          "zh": "通讯，通讯方式",
-          "en": "A method or system for sending messages or information."
+          "zh": "化石记录",
+          "en": "The record of ancient organisms preserved in rocks."
         }
       ],
       "examples": [
         {
-          "en": "Effective communication is essential for successful teamwork.",
-          "zh": "有效的沟通对成功的团队合作至关重要。"
+          "en": "Paleontology helps us understand the history of life on Earth.",
+          "zh": "古生物学帮助我们理解地球生命的历史。"
         },
         {
-          "en": "Modern technology has improved global communication significantly.",
-          "zh": "现代科技显著改善了全球通信。"
+          "en": "Scientists in paleontology study dinosaur fossils to learn more.",
+          "zh": "古生物学的科学家研究恐龙化石以获得更多信息。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'communication' comes from the Latin 'communicare', meaning 'to share'."
+        "etymology": "The word comes from the Greek 'palaios' meaning ancient, and 'ont' meaning being or creature, combined with 'logia' meaning study."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=communication&type=2",
-      "chapter": "核心词汇 文化与传统 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=paleontology&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

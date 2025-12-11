@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-10T22:08:29.432Z",
+  "generated": "2025-12-11T22:08:18.580Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "incur",
-      "pronunciation": "/ɪnˈkɜr/",
+      "word": "trustful",
+      "pronunciation": "/ˈtrʌstfəl/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "招致",
-          "en": "To bring something upon oneself, often an unwanted consequence."
+          "pos": "adj.",
+          "zh": "可信任的",
+          "en": "Someone who is willing to believe in others and their honesty."
         },
         {
-          "pos": "v.",
-          "zh": "产生",
-          "en": "To become subject to something, typically a cost or liability."
+          "pos": "adj.",
+          "zh": "容易信任的",
+          "en": "A person who readily places confidence in others."
         }
       ],
       "examples": [
         {
-          "en": "The company may incur additional costs during the project.",
-          "zh": "公司在项目中可能会产生额外费用。"
+          "en": "She is very trustful, always believing in the good of people.",
+          "zh": "她非常可信，总是相信人们的善良。"
         },
         {
-          "en": "If you are late, you will incur a penalty fee.",
-          "zh": "如果你迟到，你将会产生罚款。"
+          "en": "His trustful nature made it easy for others to manipulate him.",
+          "zh": "他容易信任的性格让别人很容易操控他。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'in' as bringing something 'cur' (cure) upon yourself, but in a negative way, like an unwanted cost."
+        "association": "Think of 'trust' as a foundation of the word, indicating a person who is open to trusting others."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=incur&type=2",
-      "chapter": "核心词汇 科技发展 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=trustful&type=2",
+      "chapter": "核心词汇 法制与犯罪 Unit 5"
     },
     {
-      "word": "adore",
-      "pronunciation": "/əˈdɔːr/",
+      "word": "substitute",
+      "pronunciation": "/ˈsʌb.stɪ.tjuːt/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "崇拜，喜爱",
-          "en": "To love someone or something very much."
+          "zh": "替代",
+          "en": "To replace one thing with another."
         },
         {
-          "pos": "v.",
-          "zh": "倾慕",
-          "en": "To have a deep affection for someone."
+          "pos": "n.",
+          "zh": "替代品",
+          "en": "A person or thing that takes the place of another."
         }
       ],
       "examples": [
         {
-          "en": "She adores her grandmother and visits her every week.",
-          "zh": "她非常崇拜她的祖母，每周都去看望她。"
+          "en": "You can substitute oil with applesauce in this recipe.",
+          "zh": "在这个食谱中，你可以用苹果酱代替油。"
         },
         {
-          "en": "Many children adore animals and enjoy visiting the zoo.",
-          "zh": "许多孩子喜欢动物，并且享受去动物园。"
+          "en": "The teacher will substitute for her colleague who is ill.",
+          "zh": "老师将替代生病的同事。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'adore' comes from Latin 'adorare', meaning 'to speak to' or 'to worship'."
+        "association": "Think of 'substitute' as 'sub' (under) + 'stitute' (to place), meaning to place something under another."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=adore&type=2",
-      "chapter": "基本词汇 动词200 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=substitute&type=2",
+      "chapter": "核心词汇 科技发展 Unit 5"
     }
   ]
 }

@@ -1,69 +1,64 @@
 {
-  "generated": "2025-12-10T22:08:29.432Z",
+  "generated": "2025-12-11T22:08:18.580Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "discrimination",
-      "pronunciation": "/ˌdɪs.krɪ.mɪˈneɪ.ʃən/",
+      "word": "loss of consciousness",
+      "pronunciation": "/lɔs əv ˈkɒnʃəsnəs/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "歧视",
-          "en": "The unfair treatment of a person or group based on characteristics like race or gender."
-        },
-        {
-          "pos": "n.",
-          "zh": "辨别",
-          "en": "The ability to recognize and understand differences between things."
+          "zh": "失去意识",
+          "en": "A state where a person cannot respond or is unaware of their surroundings."
         }
       ],
       "examples": [
         {
-          "en": "Many countries have laws against racial discrimination in the workplace.",
-          "zh": "许多国家在职场上有反对种族歧视的法律。"
+          "en": "The patient experienced a sudden loss of consciousness during the procedure.",
+          "zh": "病人在手术过程中突然失去了意识。"
         },
         {
-          "en": "Her strong discrimination between right and wrong is admirable.",
-          "zh": "她对是非的强烈辨别能力令人钦佩。"
+          "en": "Loss of consciousness can occur due to various medical conditions.",
+          "zh": "失去意识可能是由于多种医疗状况造成的。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word comes from the Latin 'discriminare', meaning 'to distinguish'."
+        "association": "Think of 'loss' as losing your awareness like losing an item. When you lose consciousness, it’s like losing your grip on reality."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=discrimination&type=2",
-      "chapter": "基本词汇 名词200 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=loss%20of%20consciousness&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "virtual",
-      "pronunciation": "/ˈvɜr.tʃu.əl/",
+      "word": "coho",
+      "pronunciation": "/ˈkoʊ.hoʊ/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "虚拟的",
-          "en": "Not real; created by computer technology to simulate reality."
+          "pos": "n.",
+          "zh": "鲑鱼的一种",
+          "en": "A type of Pacific salmon, known for its silver skin and pink flesh."
         },
         {
-          "pos": "adj.",
-          "zh": "几乎的",
-          "en": "Almost or nearly the same as something else; not completely."
+          "pos": "n.",
+          "zh": "一种鱼类",
+          "en": "A fish species popular in fishing and cooking."
         }
       ],
       "examples": [
         {
-          "en": "Many businesses now operate in a virtual environment to reach more customers.",
-          "zh": "许多企业现在在虚拟环境中运营，以接触更多客户。"
+          "en": "The coho salmon is often used in delicious sushi dishes.",
+          "zh": "虹鳟鱼常用于美味的寿司菜肴中。"
         },
         {
-          "en": "Virtual reality games provide an immersive experience for players.",
-          "zh": "虚拟现实游戏为玩家提供了沉浸式体验。"
+          "en": "Many anglers prefer to catch coho for its fighting spirit.",
+          "zh": "许多钓鱼者喜欢捕捉虹鳟鱼，因为它的斗志。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'virtual' as 'virtually real', where things seem real but are not."
+        "association": "Think of 'coho' as 'co' for company and 'ho' for a cheer, like a fish party!"
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=virtual&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 20"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=coho&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }
