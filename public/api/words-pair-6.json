@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-11T22:08:18.580Z",
+  "generated": "2025-12-12T22:08:21.090Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "bee colony",
-      "pronunciation": "/bi ˈkɒləni/",
+      "word": "conservation",
+      "pronunciation": "/ˌkɒn.səˈveɪ.ʃən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "蜜蜂群",
-          "en": "A group of bees living together in a hive."
+          "zh": "保护；保存",
+          "en": "The act of protecting and preserving the natural environment."
         },
         {
           "pos": "n.",
-          "zh": "蜜蜂群体",
-          "en": "The social structure and community of bees working together."
+          "zh": "节约；节省",
+          "en": "The careful use of resources to prevent waste."
         }
       ],
       "examples": [
         {
-          "en": "The bee colony is essential for pollinating many plants.",
-          "zh": "蜜蜂群对许多植物的授粉至关重要。"
+          "en": "Wildlife conservation is crucial for protecting endangered species.",
+          "zh": "野生动物保护对保护濒危物种至关重要。"
         },
         {
-          "en": "Farmers often rely on a healthy bee colony for crops.",
-          "zh": "农民常常依赖健康的蜜蜂群来种植农作物。"
+          "en": "Water conservation can help reduce the effects of drought.",
+          "zh": "节水可以帮助减轻干旱的影响。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'colony' as a community, like a small town where bees live and work together."
+        "etymology": "The word 'conservation' comes from the Latin 'conservare', meaning to keep safe or preserve."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=bee%20colony&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=conservation&type=2",
+      "chapter": "基本词汇 名词200 Unit 2"
     },
     {
-      "word": "envenomate",
-      "pronunciation": "/ɪnˈvɛn.ə.meɪt/",
+      "word": "self",
+      "pronunciation": "/sɛlf/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "使中毒",
-          "en": "To make something poisonous or toxic."
+          "pos": "n.",
+          "zh": "自我",
+          "en": "A person's essential being that distinguishes them from others."
         },
         {
-          "pos": "v.",
-          "zh": "使恶化",
-          "en": "To make a situation worse or more harmful."
+          "pos": "pron.",
+          "zh": "自己",
+          "en": "Referring to oneself, used for emphasis or clarification."
         }
       ],
       "examples": [
         {
-          "en": "The snake's bite can envenomate its prey within minutes.",
-          "zh": "蛇的咬伤可以在几分钟内使猎物中毒。"
+          "en": "She believes in being true to herself and her values.",
+          "zh": "她相信忠于自己和自己的价值观。"
         },
         {
-          "en": "The argument only served to envenomate their relationship further.",
-          "zh": "争论只会使他们的关系更加恶化。"
+          "en": "He often talks about his self-improvement journey.",
+          "zh": "他经常谈论自我提升的旅程。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'envenomate' as 'to add venom', where 'venom' is a poison."
+        "association": "Think of 'self' as your personal brand or identity, which helps you remember it relates to who you are."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=envenomate&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=self&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 9"
     }
   ]
 }

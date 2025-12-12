@@ -1,70 +1,65 @@
 {
-  "generated": "2025-12-11T22:08:18.580Z",
+  "generated": "2025-12-12T22:08:21.090Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "indifferent",
-      "pronunciation": "/ɪnˈdɪf.ər.ənt/",
+      "word": "socioeconomic",
+      "pronunciation": "/ˌsoʊ.si.oʊ.ˈi.kɒm.ɪk/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "不关心的",
-          "en": "Not interested in or concerned about something."
-        },
-        {
-          "pos": "adj.",
-          "zh": "冷漠的",
-          "en": "Showing no preference or response; apathetic."
+          "zh": "社会经济的",
+          "en": "Related to the interaction between social and economic factors."
         }
       ],
       "examples": [
         {
-          "en": "She remained indifferent to the ongoing debate about climate change.",
-          "zh": "她对气候变化的持续辩论保持冷漠。"
+          "en": "The socioeconomic status of families affects children's education quality.",
+          "zh": "家庭的社会经济地位影响孩子的教育质量。"
         },
         {
-          "en": "His indifferent attitude towards studying worried his teachers.",
-          "zh": "他对学习的漠不关心让老师们感到担忧。"
+          "en": "Urban areas often show diverse socioeconomic conditions among residents.",
+          "zh": "城市地区居民之间常常显示出多样的社会经济状况。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'indifferent' as 'in different'; when you are indifferent, you are in a different state of caring.",
-        "mnemonic": "Indifferent sounds like 'in different', which can help you remember that it means not caring about differences."
+        "association": "Think of 'socio' as society and 'economic' as money, linking them together."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=indifferent&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 10"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=socioeconomic&type=2",
+      "chapter": "认知词汇 自然分类 \"厄尔尼诺\"现象"
     },
     {
-      "word": "nutritious",
-      "pronunciation": "/nuˈtrɪʃəs/",
+      "word": "content",
+      "pronunciation": "/ˈkɒn.tent/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "营养的",
-          "en": "Providing the necessary substances for health and growth."
+          "zh": "满意的",
+          "en": "Feeling happy and satisfied with what you have."
         },
         {
-          "pos": "adj.",
-          "zh": "有营养价值的",
-          "en": "Rich in nutrients that are beneficial for the body."
+          "pos": "n.",
+          "zh": "内容",
+          "en": "The information or material contained in something."
         }
       ],
       "examples": [
         {
-          "en": "Eating a balanced diet is essential for maintaining nutritious meals.",
-          "zh": "均衡饮食对保持营养餐至关重要。"
+          "en": "She felt content after finishing her book.",
+          "zh": "她在完成书籍后感到满意。"
         },
         {
-          "en": "Fruits and vegetables are often considered the most nutritious foods.",
-          "zh": "水果和蔬菜通常被认为是最有营养的食品。"
+          "en": "The content of the video was both informative and entertaining.",
+          "zh": "视频的内容既有信息性又有娱乐性。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'nutritious' comes from the Latin 'nutritius,' meaning 'nourishing.'"
+        "association": "Think of 'content' as being 'contained' within yourself, feeling satisfied.",
+        "mnemonic": "Remember 'content' as 'con-tent' – when you are content, you feel 'tense-free' and relaxed."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=nutritious&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 13"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=content&type=2",
+      "chapter": "核心词汇 工作与生活 Unit 2"
     }
   ]
 }

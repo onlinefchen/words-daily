@@ -1,64 +1,59 @@
 {
-  "generated": "2025-12-11T22:08:18.580Z",
+  "generated": "2025-12-12T22:08:21.090Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "detrimental",
-      "pronunciation": "/ˌdɛtrɪˈmɛntəl/",
+      "word": "incidence of sickness",
+      "pronunciation": "/ˈɪn.sɪ.dəns əv ˈsɪk.nəs/",
       "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "有害的",
-          "en": "Causing harm or damage."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Excessive screen time can have detrimental effects on children’s health.",
-          "zh": "过多的屏幕时间对儿童健康有害。"
-        },
-        {
-          "en": "The factory's pollution is detrimental to the local environment.",
-          "zh": "工厂的污染对当地环境有害。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'detrimental' as 'deterring' or 'detracting' from something good."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=detrimental&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 6"
-    },
-    {
-      "word": "characteristic",
-      "pronunciation": "/ˌkɛrɪkˈtɛrɪstɪk/",
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "特有的",
-          "en": "Belonging to a particular person or thing; typical."
-        },
         {
           "pos": "n.",
-          "zh": "特征",
-          "en": "A feature or quality that is typical of someone or something."
+          "zh": "疾病发生率",
+          "en": "The frequency or occurrence of illness in a population."
         }
       ],
       "examples": [
         {
-          "en": "Honesty is a characteristic that many people value highly.",
-          "zh": "诚实是许多人高度重视的特征。"
+          "en": "The incidence of sickness has increased in recent years.",
+          "zh": "近年来，疾病的发生率增加了。"
         },
         {
-          "en": "The characteristic features of the painting are its vibrant colors.",
-          "zh": "这幅画的特征是其鲜艳的色彩。"
+          "en": "Health officials are monitoring the incidence of sickness closely.",
+          "zh": "卫生官员正在密切监测疾病的发生率。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'characteristic' comes from the Greek 'kharakter', meaning 'to engrave'."
+        "association": "Think of 'incidence' as 'incident' and relate it to events of illness happening."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=characteristic&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=incidence%20of%20sickness&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
+    },
+    {
+      "word": "ubiquitous",
+      "pronunciation": "/juːˈbɪkwɪtəs/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "无处不在的",
+          "en": "Present everywhere; very common."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Smartphones have become ubiquitous in modern society.",
+          "zh": "智能手机在现代社会中无处不在。"
+        },
+        {
+          "en": "The internet is a ubiquitous part of daily life for many people.",
+          "zh": "互联网是许多人日常生活中无处不在的一部分。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'ubiquitous' as 'you be quick to notice it everywhere'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ubiquitous&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 19"
     }
   ]
 }

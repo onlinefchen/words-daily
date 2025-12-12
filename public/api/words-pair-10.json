@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-11T22:08:18.581Z",
+  "generated": "2025-12-12T22:08:21.091Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "individuality",
-      "pronunciation": "/ˌɪndɪˈvɪdʒuəlɪti/",
+      "word": "exhaustion",
+      "pronunciation": "/ɪɡˈzɔːstʃən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "个性",
-          "en": "The quality of being unique and different from others."
+          "zh": "疲惫",
+          "en": "A state of extreme tiredness or lack of energy."
         },
         {
           "pos": "n.",
-          "zh": "个体",
-          "en": "The characteristics that make a person distinct."
+          "zh": "耗尽",
+          "en": "The process of using up all of one's resources or energy."
         }
       ],
       "examples": [
         {
-          "en": "Her individuality shines through in her unique fashion choices.",
-          "zh": "她的个性在她独特的时尚选择中闪耀。"
+          "en": "After working for twelve hours straight, I felt complete exhaustion.",
+          "zh": "连续工作十二小时后，我感到完全疲惫。"
         },
         {
-          "en": "Encouraging individuality is important for personal growth and creativity.",
-          "zh": "鼓励个性对于个人成长和创造力很重要。"
+          "en": "The marathon left her in a state of exhaustion and needing rest.",
+          "zh": "马拉松比赛让她感到疲惫不堪，需要休息。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'individuality' comes from 'individual', which means a single person, combined with the suffix '-ity' that indicates a quality or state."
+        "etymology": "The word 'exhaustion' comes from the Latin 'exhaurire', meaning 'to draw out'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=individuality&type=2",
-      "chapter": "核心词汇 科技发展 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=exhaustion&type=2",
+      "chapter": "核心词汇 科技发展 Unit 2"
     },
     {
-      "word": "elimination",
-      "pronunciation": "/ɪˌlɪməˈneɪʃən/",
+      "word": "royal jelly",
+      "pronunciation": "/ˈrɔɪ.əl ˈdʒɛl.i/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "消除",
-          "en": "The act of removing something completely."
+          "zh": "蜂王浆",
+          "en": "A nutritious substance produced by bees, fed to larvae and queen bees."
         },
         {
           "pos": "n.",
-          "zh": "淘汰",
-          "en": "The process of getting rid of something that is no longer needed."
+          "zh": "特别营养的食物",
+          "en": "A special food thought to have health benefits for humans."
         }
       ],
       "examples": [
         {
-          "en": "The elimination of waste is crucial for a cleaner environment.",
-          "zh": "消除废物对更清洁的环境至关重要。"
+          "en": "Many people believe that royal jelly can enhance their health.",
+          "zh": "许多人相信蜂王浆可以增强他们的健康。"
         },
         {
-          "en": "Their elimination from the competition surprised everyone last year.",
-          "zh": "他们去年在比赛中的淘汰让所有人感到惊讶。"
+          "en": "Royal jelly is rich in vitamins and minerals crucial for growth.",
+          "zh": "蜂王浆富含对生长至关重要的维生素和矿物质。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'elimination' comes from the Latin 'eliminare', meaning 'to remove' or 'to turn out.'"
+        "association": "Think of 'royal' as something special and 'jelly' as a sweet, nourishing food."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=elimination&type=2",
-      "chapter": "核心词汇 动物权益与保护 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=royal%20jelly&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

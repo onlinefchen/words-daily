@@ -1,69 +1,67 @@
 {
-  "generated": "2025-12-11T22:08:18.580Z",
+  "generated": "2025-12-12T22:08:21.090Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "segregated",
-      "pronunciation": "/ˈsɛɡrɪˌɡeɪtɪd/",
+      "word": "conquer",
+      "pronunciation": "/ˈkɒŋ.kər/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "隔离的",
-          "en": "Separated from others; kept apart."
+          "pos": "v.",
+          "zh": "征服",
+          "en": "To gain control over a place or people by force."
         },
         {
           "pos": "v.",
-          "zh": "隔离",
-          "en": "To set apart from others; to isolate."
+          "zh": "克服",
+          "en": "To overcome a difficulty or challenge."
         }
       ],
       "examples": [
         {
-          "en": "The school was segregated by race until the 1970s.",
-          "zh": "这所学校直到1970年代才不再按种族隔离。"
+          "en": "The army managed to conquer the enemy territory in just a week.",
+          "zh": "军队在短短一周内成功征服了敌方领土。"
         },
         {
-          "en": "Many communities are still segregated in terms of wealth and opportunity.",
-          "zh": "许多社区在财富和机会方面仍然存在隔离现象。"
+          "en": "She worked hard to conquer her fear of public speaking.",
+          "zh": "她努力克服了对公众演讲的恐惧。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'segregated' as 'separated' in a crowded space, where people are divided."
+        "etymology": "The word 'conquer' comes from the Latin 'conquaerere', meaning 'to seek out' or 'to obtain'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=segregated&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 17"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=conquer&type=2",
+      "chapter": "核心词汇 科技发展 Unit 1"
     },
     {
-      "word": "illusion",
-      "pronunciation": "/ɪˈluːʒən/",
+      "word": "disorderly",
+      "pronunciation": "/dɪsˈɔrdərli/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "幻觉",
-          "en": "A false idea or belief that seems real but is not."
+          "pos": "adj.",
+          "zh": "无序的，混乱的",
+          "en": "Not organized or arranged in a neat way."
         },
         {
-          "pos": "n.",
-          "zh": "错觉",
-          "en": "An appearance that tricks the mind into seeing something that isn’t there."
+          "pos": "adj.",
+          "zh": "骚乱的，扰乱的",
+          "en": "Characterized by a lack of order or control."
         }
       ],
       "examples": [
         {
-          "en": "The magician created an illusion that amazed the audience.",
-          "zh": "魔术师制造了一种让观众惊叹的幻觉。"
+          "en": "The classroom was disorderly after the students finished their projects.",
+          "zh": "在学生们完成项目后，教室变得混乱不堪。"
         },
         {
-          "en": "Her smile was an illusion hiding her true feelings.",
-          "zh": "她的微笑是掩饰真实感受的错觉。"
+          "en": "The disorderly crowd made it difficult for the police to manage the situation.",
+          "zh": "混乱的人群使警方难以控制局势。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'illusion' as 'in-lusion', where something appears inside but isn't really there."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=illusion&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 5"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disorderly&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 6"
     }
   ]
 }

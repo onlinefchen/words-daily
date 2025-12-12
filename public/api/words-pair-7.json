@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-11T22:08:18.580Z",
+  "generated": "2025-12-12T22:08:21.090Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "trustful",
-      "pronunciation": "/ˈtrʌstfəl/",
+      "word": "discrimination",
+      "pronunciation": "/ˌdɪs.krɪ.mɪˈneɪ.ʃən/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "可信任的",
-          "en": "Someone who is willing to believe in others and their honesty."
-        },
-        {
-          "pos": "adj.",
-          "zh": "容易信任的",
-          "en": "A person who readily places confidence in others."
-        }
-      ],
-      "examples": [
-        {
-          "en": "She is very trustful, always believing in the good of people.",
-          "zh": "她非常可信，总是相信人们的善良。"
-        },
-        {
-          "en": "His trustful nature made it easy for others to manipulate him.",
-          "zh": "他容易信任的性格让别人很容易操控他。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'trust' as a foundation of the word, indicating a person who is open to trusting others."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=trustful&type=2",
-      "chapter": "核心词汇 法制与犯罪 Unit 5"
-    },
-    {
-      "word": "substitute",
-      "pronunciation": "/ˈsʌb.stɪ.tjuːt/",
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "替代",
-          "en": "To replace one thing with another."
+          "pos": "n.",
+          "zh": "歧视",
+          "en": "The unfair treatment of a person or group based on characteristics like race or gender."
         },
         {
           "pos": "n.",
-          "zh": "替代品",
-          "en": "A person or thing that takes the place of another."
+          "zh": "区别",
+          "en": "The ability to recognize differences between things, often leading to better choices."
         }
       ],
       "examples": [
         {
-          "en": "You can substitute oil with applesauce in this recipe.",
-          "zh": "在这个食谱中，你可以用苹果酱代替油。"
+          "en": "Discrimination in the workplace can lead to a toxic environment.",
+          "zh": "工作场所的歧视会导致有毒的环境。"
         },
         {
-          "en": "The teacher will substitute for her colleague who is ill.",
-          "zh": "老师将替代生病的同事。"
+          "en": "Many countries have laws against discrimination based on gender or race.",
+          "zh": "许多国家有反对基于性别或种族歧视的法律。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'substitute' as 'sub' (under) + 'stitute' (to place), meaning to place something under another."
+        "etymology": "The word 'discrimination' comes from the Latin 'discriminare', meaning 'to distinguish' or 'to separate'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=substitute&type=2",
-      "chapter": "核心词汇 科技发展 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=discrimination&type=2",
+      "chapter": "核心词汇 民主与权利 Unit 2"
+    },
+    {
+      "word": "provocative",
+      "pronunciation": "/prəˈvɒk.ə.tɪv/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "挑衅的",
+          "en": "Causing strong feelings or reactions, often intentionally."
+        },
+        {
+          "pos": "adj.",
+          "zh": "激起争议的",
+          "en": "Designed to provoke thought, discussion, or controversy."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The provocative article sparked a heated debate among readers.",
+          "zh": "这篇挑衅性的文章引发了读者之间的激烈辩论。"
+        },
+        {
+          "en": "His provocative remarks were meant to challenge the status quo.",
+          "zh": "他挑衅性的言论旨在挑战现状。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'provoke' to associate the word with causing a reaction."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=provocative&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 15"
     }
   ]
 }

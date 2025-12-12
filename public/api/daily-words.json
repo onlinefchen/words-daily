@@ -1,496 +1,45 @@
 {
-  "generated": "2025-12-11T22:08:18.579Z",
-  "date": "2025-12-11",
+  "generated": "2025-12-12T22:08:21.089Z",
+  "date": "2025-12-12",
   "totalWords": 20,
   "words": [
     {
-      "id": "w00315",
-      "word": "penalty",
+      "id": "w03889",
+      "word": "limitation",
       "type": "single",
-      "chapterIndex": 15,
-      "globalIndex": 315,
-      "chapter": "ch016",
-      "chapterName": "基本词汇 名词200 Unit 6",
+      "chapterIndex": 45,
+      "globalIndex": 3889,
+      "chapter": "ch127",
+      "chapterName": "认知词汇 历史分类 记时器发展史",
       "pronunciation": {
-        "us": "/ˈpɛnəlti/"
+        "us": "/ˌlɪmɪˈteɪʃən/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "罚款",
-          "en": "A punishment or consequence for breaking a rule or law."
+          "zh": "限制",
+          "en": "A limit on what can be done or achieved."
         },
         {
           "pos": "n.",
-          "zh": "惩罚",
-          "en": "A disadvantage imposed on someone for failing to do something."
+          "zh": "局限性",
+          "en": "A quality of being restricted in some way."
         }
       ],
       "examples": [
         {
-          "en": "The penalty for speeding can include fines or points on your license.",
-          "zh": "超速的罚款可能包括罚金或驾照扣分。"
+          "en": "There is a limitation to how much we can learn in one day.",
+          "zh": "我们一天内能学到的东西是有限的。"
         },
         {
-          "en": "Players face a penalty if they break the rules during the game.",
-          "zh": "如果球员在比赛中违反规则，他们将面临惩罚。"
+          "en": "Her physical limitation prevented her from participating in sports.",
+          "zh": "她的身体局限性使她无法参与体育运动。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'penalty' as a 'pen' that writes down your mistakes leading to punishment."
+        "etymology": "The word 'limitation' comes from the Latin 'limitare', meaning to bound or restrict."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=penalty&type=2"
-    },
-    {
-      "id": "w04391",
-      "word": "childrearing",
-      "type": "single",
-      "chapterIndex": 4,
-      "globalIndex": 4391,
-      "chapter": "ch139",
-      "chapterName": "认知词汇 社会与生活分类 工作与家庭冲突",
-      "pronunciation": {
-        "us": "/ˈʧaɪldˌrɪərɪŋ/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "育儿",
-          "en": "The process of raising and caring for children."
-        },
-        {
-          "pos": "n.",
-          "zh": "儿童教育",
-          "en": "The methods and practices used in raising children."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Effective childrearing is essential for a child's development.",
-          "zh": "有效的育儿对孩子的发展至关重要。"
-        },
-        {
-          "en": "Many parents seek advice on childrearing techniques.",
-          "zh": "许多父母寻求关于育儿技巧的建议。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'childrearing' comes from 'child' and 'rearing', where 'rearing' means to raise or bring up."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=childrearing&type=2"
-    },
-    {
-      "id": "w01439",
-      "word": "dominance",
-      "type": "single",
-      "chapterIndex": 19,
-      "globalIndex": 1439,
-      "chapter": "ch072",
-      "chapterName": "核心词汇 动物权益与保护 Unit 2",
-      "pronunciation": {
-        "us": "/ˈdɑː.mɪ.nəns/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "主导地位",
-          "en": "The state of having power or influence over others."
-        },
-        {
-          "pos": "n.",
-          "zh": "优势",
-          "en": "The quality of being more important or powerful than others."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The dominance of technology in our lives is undeniable.",
-          "zh": "科技在我们生活中的主导地位是不可否认的。"
-        },
-        {
-          "en": "The team's dominance in the league led to many victories.",
-          "zh": "该队在联赛中的优势带来了许多胜利。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'dominance' comes from the Latin 'dominari', meaning 'to rule'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dominance&type=2"
-    },
-    {
-      "id": "w00464",
-      "word": "catastrophic",
-      "type": "single",
-      "chapterIndex": 4,
-      "globalIndex": 464,
-      "chapter": "ch024",
-      "chapterName": "基本词汇 形容词和副词400 Unit 4",
-      "pronunciation": {
-        "us": "/ˌkætəˈstrɑːfɪk/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "灾难性的",
-          "en": "Causing a lot of damage or suffering."
-        },
-        {
-          "pos": "adj.",
-          "zh": "极其严重的",
-          "en": "Extremely serious or disastrous."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The catastrophic flood destroyed many homes in the village.",
-          "zh": "灾难性的洪水摧毁了村庄里的许多房屋。"
-        },
-        {
-          "en": "Experts warned that climate change could have catastrophic effects.",
-          "zh": "专家警告气候变化可能会产生灾难性的影响。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of a 'cat' trapped in a 'traffic' jam, leading to a disastrous situation."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=catastrophic&type=2"
-    },
-    {
-      "id": "w00502",
-      "word": "detrimental",
-      "type": "single",
-      "chapterIndex": 2,
-      "globalIndex": 502,
-      "chapter": "ch026",
-      "chapterName": "基本词汇 形容词和副词400 Unit 6",
-      "pronunciation": {
-        "us": "/ˌdɛtrɪˈmɛntəl/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "有害的",
-          "en": "Causing harm or damage."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Excessive screen time can have detrimental effects on children’s health.",
-          "zh": "过多的屏幕时间对儿童健康有害。"
-        },
-        {
-          "en": "The factory's pollution is detrimental to the local environment.",
-          "zh": "工厂的污染对当地环境有害。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'detrimental' as 'deterring' or 'detracting' from something good."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=detrimental&type=2"
-    },
-    {
-      "id": "w00466",
-      "word": "characteristic",
-      "type": "single",
-      "chapterIndex": 6,
-      "globalIndex": 466,
-      "chapter": "ch024",
-      "chapterName": "基本词汇 形容词和副词400 Unit 4",
-      "pronunciation": {
-        "us": "/ˌkɛrɪkˈtɛrɪstɪk/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "特有的",
-          "en": "Belonging to a particular person or thing; typical."
-        },
-        {
-          "pos": "n.",
-          "zh": "特征",
-          "en": "A feature or quality that is typical of someone or something."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Honesty is a characteristic that many people value highly.",
-          "zh": "诚实是许多人高度重视的特征。"
-        },
-        {
-          "en": "The characteristic features of the painting are its vibrant colors.",
-          "zh": "这幅画的特征是其鲜艳的色彩。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'characteristic' comes from the Greek 'kharakter', meaning 'to engrave'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=characteristic&type=2"
-    },
-    {
-      "id": "w00721",
-      "word": "segregated",
-      "type": "single",
-      "chapterIndex": 1,
-      "globalIndex": 721,
-      "chapter": "ch037",
-      "chapterName": "基本词汇 形容词和副词400 Unit 17",
-      "pronunciation": {
-        "us": "/ˈsɛɡrɪˌɡeɪtɪd/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "隔离的",
-          "en": "Separated from others; kept apart."
-        },
-        {
-          "pos": "v.",
-          "zh": "隔离",
-          "en": "To set apart from others; to isolate."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The school was segregated by race until the 1970s.",
-          "zh": "这所学校直到1970年代才不再按种族隔离。"
-        },
-        {
-          "en": "Many communities are still segregated in terms of wealth and opportunity.",
-          "zh": "许多社区在财富和机会方面仍然存在隔离现象。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'segregated' as 'separated' in a crowded space, where people are divided."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=segregated&type=2"
-    },
-    {
-      "id": "w01293",
-      "word": "illusion",
-      "type": "single",
-      "chapterIndex": 13,
-      "globalIndex": 1293,
-      "chapter": "ch065",
-      "chapterName": "核心词汇 青少年教育 Unit 5",
-      "pronunciation": {
-        "us": "/ɪˈluːʒən/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "幻觉",
-          "en": "A false idea or belief that seems real but is not."
-        },
-        {
-          "pos": "n.",
-          "zh": "错觉",
-          "en": "An appearance that tricks the mind into seeing something that isn’t there."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The magician created an illusion that amazed the audience.",
-          "zh": "魔术师制造了一种让观众惊叹的幻觉。"
-        },
-        {
-          "en": "Her smile was an illusion hiding her true feelings.",
-          "zh": "她的微笑是掩饰真实感受的错觉。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'illusion' as 'in-lusion', where something appears inside but isn't really there."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=illusion&type=2"
-    },
-    {
-      "id": "w02633",
-      "word": "periodic violent unleashing",
-      "type": "phrase",
-      "chapterIndex": 48,
-      "globalIndex": 2633,
-      "chapter": "ch105",
-      "chapterName": "认知词汇 自然分类 火山",
-      "pronunciation": {
-        "us": "/ˈpɪə.ri.ədɪk ˈvaɪ.ələnt ʌnˈliː.ʃɪŋ/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "周期性的",
-          "en": "Occurring at regular intervals; repeated over time."
-        },
-        {
-          "pos": "adj.",
-          "zh": "猛烈的",
-          "en": "Characterized by strong, forceful action or intensity."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The periodic violent unleashing of storms can cause significant damage.",
-          "zh": "周期性猛烈的暴风雨可能造成重大损失。"
-        },
-        {
-          "en": "Scientists study the periodic violent unleashing of volcanic eruptions.",
-          "zh": "科学家研究火山爆发的周期性猛烈释放。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'periodic' as a clock that ticks at regular intervals, and 'violent unleashing' as a storm breaking loose."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=periodic%20violent%20unleashing&type=2"
-    },
-    {
-      "id": "w02191",
-      "word": "paleontology",
-      "type": "single",
-      "chapterIndex": 291,
-      "globalIndex": 2191,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/ˌpeɪlɪˈɒn.tə.lə.dʒi/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "古生物学",
-          "en": "The study of fossils and ancient life forms."
-        },
-        {
-          "pos": "n.",
-          "zh": "化石记录",
-          "en": "The record of ancient organisms preserved in rocks."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Paleontology helps us understand the history of life on Earth.",
-          "zh": "古生物学帮助我们理解地球生命的历史。"
-        },
-        {
-          "en": "Scientists in paleontology study dinosaur fossils to learn more.",
-          "zh": "古生物学的科学家研究恐龙化石以获得更多信息。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word comes from the Greek 'palaios' meaning ancient, and 'ont' meaning being or creature, combined with 'logia' meaning study."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=paleontology&type=2"
-    },
-    {
-      "id": "w02205",
-      "word": "bee colony",
-      "type": "phrase",
-      "chapterIndex": 305,
-      "globalIndex": 2205,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/bi ˈkɒləni/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "蜜蜂群",
-          "en": "A group of bees living together in a hive."
-        },
-        {
-          "pos": "n.",
-          "zh": "蜜蜂群体",
-          "en": "The social structure and community of bees working together."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The bee colony is essential for pollinating many plants.",
-          "zh": "蜜蜂群对许多植物的授粉至关重要。"
-        },
-        {
-          "en": "Farmers often rely on a healthy bee colony for crops.",
-          "zh": "农民常常依赖健康的蜜蜂群来种植农作物。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of a 'colony' as a community, like a small town where bees live and work together."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=bee%20colony&type=2"
-    },
-    {
-      "id": "w02268",
-      "word": "envenomate",
-      "type": "single",
-      "chapterIndex": 368,
-      "globalIndex": 2268,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/ɪnˈvɛn.ə.meɪt/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "使中毒",
-          "en": "To make something poisonous or toxic."
-        },
-        {
-          "pos": "v.",
-          "zh": "使恶化",
-          "en": "To make a situation worse or more harmful."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The snake's bite can envenomate its prey within minutes.",
-          "zh": "蛇的咬伤可以在几分钟内使猎物中毒。"
-        },
-        {
-          "en": "The argument only served to envenomate their relationship further.",
-          "zh": "争论只会使他们的关系更加恶化。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'envenomate' as 'to add venom', where 'venom' is a poison."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=envenomate&type=2"
-    },
-    {
-      "id": "w01792",
-      "word": "trustful",
-      "type": "single",
-      "chapterIndex": 12,
-      "globalIndex": 1792,
-      "chapter": "ch090",
-      "chapterName": "核心词汇 法制与犯罪 Unit 5",
-      "pronunciation": {
-        "us": "/ˈtrʌstfəl/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "可信任的",
-          "en": "Someone who is willing to believe in others and their honesty."
-        },
-        {
-          "pos": "adj.",
-          "zh": "容易信任的",
-          "en": "A person who readily places confidence in others."
-        }
-      ],
-      "examples": [
-        {
-          "en": "She is very trustful, always believing in the good of people.",
-          "zh": "她非常可信，总是相信人们的善良。"
-        },
-        {
-          "en": "His trustful nature made it easy for others to manipulate him.",
-          "zh": "他容易信任的性格让别人很容易操控他。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'trust' as a foundation of the word, indicating a person who is open to trusting others."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=trustful&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=limitation&type=2"
     },
     {
       "id": "w00890",
@@ -531,228 +80,669 @@
       "audioUrl": "https://dict.youdao.com/dictvoice?audio=substitute&type=2"
     },
     {
-      "id": "w02278",
-      "word": "loss of consciousness",
+      "id": "w00783",
+      "word": "unreasonable",
+      "type": "single",
+      "chapterIndex": 3,
+      "globalIndex": 783,
+      "chapter": "ch040",
+      "chapterName": "基本词汇 形容词和副词400 Unit 20",
+      "pronunciation": {
+        "us": "/ʌnˈrizənəbl/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "不合理的",
+          "en": "Not based on good reason or logic."
+        },
+        {
+          "pos": "adj.",
+          "zh": "过分的",
+          "en": "Exceeding reasonable limits; excessive."
+        }
+      ],
+      "examples": [
+        {
+          "en": "His demands were completely unreasonable and impossible to meet.",
+          "zh": "他的要求完全不合理，无法满足。"
+        },
+        {
+          "en": "It is unreasonable to expect everyone to agree on everything.",
+          "zh": "期望每个人在所有问题上达成一致是不合理的。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'unreasonable' as 'un-reasonable', meaning it lacks reason.",
+        "mnemonic": "The word 'unreasonable' starts with 'un', like 'unfair', which also suggests something is not right."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=unreasonable&type=2"
+    },
+    {
+      "id": "w00303",
+      "word": "leisure",
+      "type": "single",
+      "chapterIndex": 3,
+      "globalIndex": 303,
+      "chapter": "ch016",
+      "chapterName": "基本词汇 名词200 Unit 6",
+      "pronunciation": {
+        "us": "/ˈleʒ.ər/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "闲暇",
+          "en": "Time when you are not working and can relax."
+        },
+        {
+          "pos": "adj.",
+          "zh": "休闲的",
+          "en": "Activities done during free time for enjoyment."
+        }
+      ],
+      "examples": [
+        {
+          "en": "I enjoy reading books in my leisure time after work.",
+          "zh": "我喜欢在工作后闲暇时间阅读书籍。"
+        },
+        {
+          "en": "Leisure activities like hiking can improve mental health.",
+          "zh": "像远足这样的休闲活动可以改善心理健康。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'leisure' as 'leisurely' time, when you can take things slow."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=leisure&type=2"
+    },
+    {
+      "id": "w01931",
+      "word": "incidence of sickness",
       "type": "phrase",
-      "chapterIndex": 378,
-      "globalIndex": 2278,
+      "chapterIndex": 31,
+      "globalIndex": 1931,
       "chapter": "ch096",
       "chapterName": "认知词汇 动物分类 常考生物",
       "pronunciation": {
-        "us": "/lɔs əv ˈkɒnʃəsnəs/"
+        "us": "/ˈɪn.sɪ.dəns əv ˈsɪk.nəs/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "失去意识",
-          "en": "A state where a person cannot respond or is unaware of their surroundings."
+          "zh": "疾病发生率",
+          "en": "The frequency or occurrence of illness in a population."
         }
       ],
       "examples": [
         {
-          "en": "The patient experienced a sudden loss of consciousness during the procedure.",
-          "zh": "病人在手术过程中突然失去了意识。"
+          "en": "The incidence of sickness has increased in recent years.",
+          "zh": "近年来，疾病的发生率增加了。"
         },
         {
-          "en": "Loss of consciousness can occur due to various medical conditions.",
-          "zh": "失去意识可能是由于多种医疗状况造成的。"
+          "en": "Health officials are monitoring the incidence of sickness closely.",
+          "zh": "卫生官员正在密切监测疾病的发生率。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'loss' as losing your awareness like losing an item. When you lose consciousness, it’s like losing your grip on reality."
+        "association": "Think of 'incidence' as 'incident' and relate it to events of illness happening."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=loss%20of%20consciousness&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=incidence%20of%20sickness&type=2"
     },
     {
-      "id": "w01974",
-      "word": "coho",
+      "id": "w00770",
+      "word": "ubiquitous",
       "type": "single",
-      "chapterIndex": 74,
-      "globalIndex": 1974,
+      "chapterIndex": 10,
+      "globalIndex": 770,
+      "chapter": "ch039",
+      "chapterName": "基本词汇 形容词和副词400 Unit 19",
+      "pronunciation": {
+        "us": "/juːˈbɪkwɪtəs/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "无处不在的",
+          "en": "Present everywhere; very common."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Smartphones have become ubiquitous in modern society.",
+          "zh": "智能手机在现代社会中无处不在。"
+        },
+        {
+          "en": "The internet is a ubiquitous part of daily life for many people.",
+          "zh": "互联网是许多人日常生活中无处不在的一部分。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'ubiquitous' as 'you be quick to notice it everywhere'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ubiquitous&type=2"
+    },
+    {
+      "id": "w00809",
+      "word": "conquer",
+      "type": "single",
+      "chapterIndex": 9,
+      "globalIndex": 809,
+      "chapter": "ch041",
+      "chapterName": "核心词汇 科技发展 Unit 1",
+      "pronunciation": {
+        "us": "/ˈkɒŋ.kər/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "征服",
+          "en": "To gain control over a place or people by force."
+        },
+        {
+          "pos": "v.",
+          "zh": "克服",
+          "en": "To overcome a difficulty or challenge."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The army managed to conquer the enemy territory in just a week.",
+          "zh": "军队在短短一周内成功征服了敌方领土。"
+        },
+        {
+          "en": "She worked hard to conquer her fear of public speaking.",
+          "zh": "她努力克服了对公众演讲的恐惧。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'conquer' comes from the Latin 'conquaerere', meaning 'to seek out' or 'to obtain'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=conquer&type=2"
+    },
+    {
+      "id": "w00517",
+      "word": "disorderly",
+      "type": "single",
+      "chapterIndex": 17,
+      "globalIndex": 517,
+      "chapter": "ch026",
+      "chapterName": "基本词汇 形容词和副词400 Unit 6",
+      "pronunciation": {
+        "us": "/dɪsˈɔrdərli/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "无序的，混乱的",
+          "en": "Not organized or arranged in a neat way."
+        },
+        {
+          "pos": "adj.",
+          "zh": "骚乱的，扰乱的",
+          "en": "Characterized by a lack of order or control."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The classroom was disorderly after the students finished their projects.",
+          "zh": "在学生们完成项目后，教室变得混乱不堪。"
+        },
+        {
+          "en": "The disorderly crowd made it difficult for the police to manage the situation.",
+          "zh": "混乱的人群使警方难以控制局势。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disorderly&type=2"
+    },
+    {
+      "id": "w01933",
+      "word": "joey",
+      "type": "single",
+      "chapterIndex": 33,
+      "globalIndex": 1933,
       "chapter": "ch096",
       "chapterName": "认知词汇 动物分类 常考生物",
       "pronunciation": {
-        "us": "/ˈkoʊ.hoʊ/"
+        "us": "/ˈdʒoʊ.i/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "鲑鱼的一种",
-          "en": "A type of Pacific salmon, known for its silver skin and pink flesh."
+          "zh": "袋鼠宝宝",
+          "en": "A joey is a young kangaroo that is still developing in its mother's pouch."
         },
         {
           "pos": "n.",
-          "zh": "一种鱼类",
-          "en": "A fish species popular in fishing and cooking."
+          "zh": "小动物",
+          "en": "The term can also refer to the young of some marsupials."
         }
       ],
       "examples": [
         {
-          "en": "The coho salmon is often used in delicious sushi dishes.",
-          "zh": "虹鳟鱼常用于美味的寿司菜肴中。"
+          "en": "The mother kangaroo carried her joey safely in her pouch.",
+          "zh": "母袋鼠把她的小袋鼠安全地放在袋子里。"
         },
         {
-          "en": "Many anglers prefer to catch coho for its fighting spirit.",
-          "zh": "许多钓鱼者喜欢捕捉虹鳟鱼，因为它的斗志。"
+          "en": "A joey stays in its mother's pouch for several months after birth.",
+          "zh": "小袋鼠在出生后几个月内会待在母亲的袋子里。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'coho' as 'co' for company and 'ho' for a cheer, like a fish party!"
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=coho&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=joey&type=2"
     },
     {
-      "id": "w00592",
-      "word": "indifferent",
-      "type": "single",
-      "chapterIndex": 12,
-      "globalIndex": 592,
-      "chapter": "ch030",
-      "chapterName": "基本词汇 形容词和副词400 Unit 10",
-      "pronunciation": {
-        "us": "/ɪnˈdɪf.ər.ənt/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "不关心的",
-          "en": "Not interested in or concerned about something."
-        },
-        {
-          "pos": "adj.",
-          "zh": "冷漠的",
-          "en": "Showing no preference or response; apathetic."
-        }
-      ],
-      "examples": [
-        {
-          "en": "She remained indifferent to the ongoing debate about climate change.",
-          "zh": "她对气候变化的持续辩论保持冷漠。"
-        },
-        {
-          "en": "His indifferent attitude towards studying worried his teachers.",
-          "zh": "他对学习的漠不关心让老师们感到担忧。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'indifferent' as 'in different'; when you are indifferent, you are in a different state of caring.",
-        "mnemonic": "Indifferent sounds like 'in different', which can help you remember that it means not caring about differences."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=indifferent&type=2"
-    },
-    {
-      "id": "w00648",
-      "word": "nutritious",
-      "type": "single",
-      "chapterIndex": 8,
-      "globalIndex": 648,
-      "chapter": "ch033",
-      "chapterName": "基本词汇 形容词和副词400 Unit 13",
-      "pronunciation": {
-        "us": "/nuˈtrɪʃəs/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "营养的",
-          "en": "Providing the necessary substances for health and growth."
-        },
-        {
-          "pos": "adj.",
-          "zh": "有营养价值的",
-          "en": "Rich in nutrients that are beneficial for the body."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Eating a balanced diet is essential for maintaining nutritious meals.",
-          "zh": "均衡饮食对保持营养餐至关重要。"
-        },
-        {
-          "en": "Fruits and vegetables are often considered the most nutritious foods.",
-          "zh": "水果和蔬菜通常被认为是最有营养的食品。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'nutritious' comes from the Latin 'nutritius,' meaning 'nourishing.'"
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=nutritious&type=2"
-    },
-    {
-      "id": "w00846",
-      "word": "individuality",
-      "type": "single",
-      "chapterIndex": 6,
-      "globalIndex": 846,
-      "chapter": "ch043",
-      "chapterName": "核心词汇 科技发展 Unit 3",
-      "pronunciation": {
-        "us": "/ˌɪndɪˈvɪdʒuəlɪti/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "个性",
-          "en": "The quality of being unique and different from others."
-        },
-        {
-          "pos": "n.",
-          "zh": "个体",
-          "en": "The characteristics that make a person distinct."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Her individuality shines through in her unique fashion choices.",
-          "zh": "她的个性在她独特的时尚选择中闪耀。"
-        },
-        {
-          "en": "Encouraging individuality is important for personal growth and creativity.",
-          "zh": "鼓励个性对于个人成长和创造力很重要。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'individuality' comes from 'individual', which means a single person, combined with the suffix '-ity' that indicates a quality or state."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=individuality&type=2"
-    },
-    {
-      "id": "w01442",
-      "word": "elimination",
+      "id": "w00682",
+      "word": "preferable",
       "type": "single",
       "chapterIndex": 2,
-      "globalIndex": 1442,
-      "chapter": "ch073",
-      "chapterName": "核心词汇 动物权益与保护 Unit 3",
+      "globalIndex": 682,
+      "chapter": "ch035",
+      "chapterName": "基本词汇 形容词和副词400 Unit 15",
       "pronunciation": {
-        "us": "/ɪˌlɪməˈneɪʃən/"
+        "us": "/ˈprɛfərəbəl/"
       },
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "消除",
-          "en": "The act of removing something completely."
+          "pos": "adj.",
+          "zh": "更可取的",
+          "en": "More desirable or suitable than something else."
         },
         {
-          "pos": "n.",
-          "zh": "淘汰",
-          "en": "The process of getting rid of something that is no longer needed."
+          "pos": "adj.",
+          "zh": "优先选择的",
+          "en": "Preferred over other options or choices."
         }
       ],
       "examples": [
         {
-          "en": "The elimination of waste is crucial for a cleaner environment.",
-          "zh": "消除废物对更清洁的环境至关重要。"
+          "en": "It is preferable to study in a quiet environment for better concentration.",
+          "zh": "在安静的环境中学习更可取，以提高专注力。"
         },
         {
-          "en": "Their elimination from the competition surprised everyone last year.",
-          "zh": "他们去年在比赛中的淘汰让所有人感到惊讶。"
+          "en": "Many people find it preferable to work from home rather than commuting.",
+          "zh": "许多人发现居家工作比通勤更优先选择。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'elimination' comes from the Latin 'eliminare', meaning 'to remove' or 'to turn out.'"
+        "association": "Think of 'prefer' in 'preferable' to recall that it means to choose something over another."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=elimination&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=preferable&type=2"
+    },
+    {
+      "id": "w00233",
+      "word": "conservation",
+      "type": "single",
+      "chapterIndex": 13,
+      "globalIndex": 233,
+      "chapter": "ch012",
+      "chapterName": "基本词汇 名词200 Unit 2",
+      "pronunciation": {
+        "us": "/ˌkɒn.səˈveɪ.ʃən/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "保护；保存",
+          "en": "The act of protecting and preserving the natural environment."
+        },
+        {
+          "pos": "n.",
+          "zh": "节约；节省",
+          "en": "The careful use of resources to prevent waste."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Wildlife conservation is crucial for protecting endangered species.",
+          "zh": "野生动物保护对保护濒危物种至关重要。"
+        },
+        {
+          "en": "Water conservation can help reduce the effects of drought.",
+          "zh": "节水可以帮助减轻干旱的影响。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'conservation' comes from the Latin 'conservare', meaning to keep safe or preserve."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=conservation&type=2"
+    },
+    {
+      "id": "w01366",
+      "word": "self",
+      "type": "single",
+      "chapterIndex": 6,
+      "globalIndex": 1366,
+      "chapter": "ch069",
+      "chapterName": "核心词汇 青少年教育 Unit 9",
+      "pronunciation": {
+        "us": "/sɛlf/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "自我",
+          "en": "A person's essential being that distinguishes them from others."
+        },
+        {
+          "pos": "pron.",
+          "zh": "自己",
+          "en": "Referring to oneself, used for emphasis or clarification."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She believes in being true to herself and her values.",
+          "zh": "她相信忠于自己和自己的价值观。"
+        },
+        {
+          "en": "He often talks about his self-improvement journey.",
+          "zh": "他经常谈论自我提升的旅程。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'self' as your personal brand or identity, which helps you remember it relates to who you are."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=self&type=2"
+    },
+    {
+      "id": "w01525",
+      "word": "discrimination",
+      "type": "single",
+      "chapterIndex": 5,
+      "globalIndex": 1525,
+      "chapter": "ch077",
+      "chapterName": "核心词汇 民主与权利 Unit 2",
+      "pronunciation": {
+        "us": "/ˌdɪs.krɪ.mɪˈneɪ.ʃən/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "歧视",
+          "en": "The unfair treatment of a person or group based on characteristics like race or gender."
+        },
+        {
+          "pos": "n.",
+          "zh": "区别",
+          "en": "The ability to recognize differences between things, often leading to better choices."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Discrimination in the workplace can lead to a toxic environment.",
+          "zh": "工作场所的歧视会导致有毒的环境。"
+        },
+        {
+          "en": "Many countries have laws against discrimination based on gender or race.",
+          "zh": "许多国家有反对基于性别或种族歧视的法律。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'discrimination' comes from the Latin 'discriminare', meaning 'to distinguish' or 'to separate'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=discrimination&type=2"
+    },
+    {
+      "id": "w00698",
+      "word": "provocative",
+      "type": "single",
+      "chapterIndex": 18,
+      "globalIndex": 698,
+      "chapter": "ch035",
+      "chapterName": "基本词汇 形容词和副词400 Unit 15",
+      "pronunciation": {
+        "us": "/prəˈvɒk.ə.tɪv/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "挑衅的",
+          "en": "Causing strong feelings or reactions, often intentionally."
+        },
+        {
+          "pos": "adj.",
+          "zh": "激起争议的",
+          "en": "Designed to provoke thought, discussion, or controversy."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The provocative article sparked a heated debate among readers.",
+          "zh": "这篇挑衅性的文章引发了读者之间的激烈辩论。"
+        },
+        {
+          "en": "His provocative remarks were meant to challenge the status quo.",
+          "zh": "他挑衅性的言论旨在挑战现状。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'provoke' to associate the word with causing a reaction."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=provocative&type=2"
+    },
+    {
+      "id": "w00680",
+      "word": "preceding",
+      "type": "single",
+      "chapterIndex": 20,
+      "globalIndex": 680,
+      "chapter": "ch034",
+      "chapterName": "基本词汇 形容词和副词400 Unit 14",
+      "pronunciation": {
+        "us": "/prɪˈsiːdɪŋ/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "在前的",
+          "en": "Existing or happening before something else."
+        },
+        {
+          "pos": "adj.",
+          "zh": "优先的",
+          "en": "Coming before in time or order."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The preceding chapter explains the main concepts clearly.",
+          "zh": "前一章清楚地解释了主要概念。"
+        },
+        {
+          "en": "He referred to the preceding events to support his argument.",
+          "zh": "他提到了之前的事件以支持他的论点。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'preceding' as 'proceeding before'. Both words share a similar structure and meaning."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=preceding&type=2"
+    },
+    {
+      "id": "w00634",
+      "word": "multilateral",
+      "type": "single",
+      "chapterIndex": 14,
+      "globalIndex": 634,
+      "chapter": "ch032",
+      "chapterName": "基本词汇 形容词和副词400 Unit 12",
+      "pronunciation": {
+        "us": "/ˌmʌl.tɪˈlæt.ər.əl/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "多边的",
+          "en": "Involving multiple countries or groups working together."
+        },
+        {
+          "pos": "adj.",
+          "zh": "多方面的",
+          "en": "Relating to more than two sides or parties."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The conference aimed to establish multilateral agreements on climate change.",
+          "zh": "此次会议旨在建立关于气候变化的多边协议。"
+        },
+        {
+          "en": "Multilateral trade can benefit all participating nations equally.",
+          "zh": "多边贸易可以使所有参与国家受益均等。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'multi' meaning many, and 'lateral' relating to sides, so it’s about many sides coming together."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=multilateral&type=2"
+    },
+    {
+      "id": "w02562",
+      "word": "socioeconomic",
+      "type": "single",
+      "chapterIndex": 34,
+      "globalIndex": 2562,
+      "chapter": "ch103",
+      "chapterName": "认知词汇 自然分类 \"厄尔尼诺\"现象",
+      "pronunciation": {
+        "us": "/ˌsoʊ.si.oʊ.ˈi.kɒm.ɪk/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "社会经济的",
+          "en": "Related to the interaction between social and economic factors."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The socioeconomic status of families affects children's education quality.",
+          "zh": "家庭的社会经济地位影响孩子的教育质量。"
+        },
+        {
+          "en": "Urban areas often show diverse socioeconomic conditions among residents.",
+          "zh": "城市地区居民之间常常显示出多样的社会经济状况。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'socio' as society and 'economic' as money, linking them together."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=socioeconomic&type=2"
+    },
+    {
+      "id": "w01623",
+      "word": "content",
+      "type": "single",
+      "chapterIndex": 3,
+      "globalIndex": 1623,
+      "chapter": "ch082",
+      "chapterName": "核心词汇 工作与生活 Unit 2",
+      "pronunciation": {
+        "us": "/ˈkɒn.tent/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "满意的",
+          "en": "Feeling happy and satisfied with what you have."
+        },
+        {
+          "pos": "n.",
+          "zh": "内容",
+          "en": "The information or material contained in something."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She felt content after finishing her book.",
+          "zh": "她在完成书籍后感到满意。"
+        },
+        {
+          "en": "The content of the video was both informative and entertaining.",
+          "zh": "视频的内容既有信息性又有娱乐性。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'content' as being 'contained' within yourself, feeling satisfied.",
+        "mnemonic": "Remember 'content' as 'con-tent' – when you are content, you feel 'tense-free' and relaxed."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=content&type=2"
+    },
+    {
+      "id": "w00830",
+      "word": "exhaustion",
+      "type": "single",
+      "chapterIndex": 10,
+      "globalIndex": 830,
+      "chapter": "ch042",
+      "chapterName": "核心词汇 科技发展 Unit 2",
+      "pronunciation": {
+        "us": "/ɪɡˈzɔːstʃən/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "疲惫",
+          "en": "A state of extreme tiredness or lack of energy."
+        },
+        {
+          "pos": "n.",
+          "zh": "耗尽",
+          "en": "The process of using up all of one's resources or energy."
+        }
+      ],
+      "examples": [
+        {
+          "en": "After working for twelve hours straight, I felt complete exhaustion.",
+          "zh": "连续工作十二小时后，我感到完全疲惫。"
+        },
+        {
+          "en": "The marathon left her in a state of exhaustion and needing rest.",
+          "zh": "马拉松比赛让她感到疲惫不堪，需要休息。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'exhaustion' comes from the Latin 'exhaurire', meaning 'to draw out'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=exhaustion&type=2"
+    },
+    {
+      "id": "w02241",
+      "word": "royal jelly",
+      "type": "phrase",
+      "chapterIndex": 341,
+      "globalIndex": 2241,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/ˈrɔɪ.əl ˈdʒɛl.i/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "蜂王浆",
+          "en": "A nutritious substance produced by bees, fed to larvae and queen bees."
+        },
+        {
+          "pos": "n.",
+          "zh": "特别营养的食物",
+          "en": "A special food thought to have health benefits for humans."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many people believe that royal jelly can enhance their health.",
+          "zh": "许多人相信蜂王浆可以增强他们的健康。"
+        },
+        {
+          "en": "Royal jelly is rich in vitamins and minerals crucial for growth.",
+          "zh": "蜂王浆富含对生长至关重要的维生素和矿物质。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'royal' as something special and 'jelly' as a sweet, nourishing food."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=royal%20jelly&type=2"
     }
   ]
 }

@@ -1,68 +1,68 @@
 {
-  "generated": "2025-12-11T22:08:18.579Z",
+  "generated": "2025-12-12T22:08:21.089Z",
   "count": 2,
   "words": [
     {
-      "word": "penalty",
-      "pronunciation": "/ˈpɛnəlti/",
+      "word": "limitation",
+      "pronunciation": "/ˌlɪmɪˈteɪʃən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "罚款",
-          "en": "A punishment or consequence for breaking a rule or law."
+          "zh": "限制",
+          "en": "A limit on what can be done or achieved."
         },
         {
           "pos": "n.",
-          "zh": "惩罚",
-          "en": "A disadvantage imposed on someone for failing to do something."
+          "zh": "局限性",
+          "en": "A quality of being restricted in some way."
         }
       ],
       "examples": [
         {
-          "en": "The penalty for speeding can include fines or points on your license.",
-          "zh": "超速的罚款可能包括罚金或驾照扣分。"
+          "en": "There is a limitation to how much we can learn in one day.",
+          "zh": "我们一天内能学到的东西是有限的。"
         },
         {
-          "en": "Players face a penalty if they break the rules during the game.",
-          "zh": "如果球员在比赛中违反规则，他们将面临惩罚。"
+          "en": "Her physical limitation prevented her from participating in sports.",
+          "zh": "她的身体局限性使她无法参与体育运动。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'penalty' as a 'pen' that writes down your mistakes leading to punishment."
+        "etymology": "The word 'limitation' comes from the Latin 'limitare', meaning to bound or restrict."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=penalty&type=2",
-      "chapter": "基本词汇 名词200 Unit 6"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=limitation&type=2",
+      "chapter": "认知词汇 历史分类 记时器发展史"
     },
     {
-      "word": "childrearing",
-      "pronunciation": "/ˈʧaɪldˌrɪərɪŋ/",
+      "word": "substitute",
+      "pronunciation": "/ˈsʌb.stɪ.tjuːt/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "育儿",
-          "en": "The process of raising and caring for children."
+          "pos": "v.",
+          "zh": "替代",
+          "en": "To replace one thing with another."
         },
         {
           "pos": "n.",
-          "zh": "儿童教育",
-          "en": "The methods and practices used in raising children."
+          "zh": "替代品",
+          "en": "A person or thing that takes the place of another."
         }
       ],
       "examples": [
         {
-          "en": "Effective childrearing is essential for a child's development.",
-          "zh": "有效的育儿对孩子的发展至关重要。"
+          "en": "You can substitute oil with applesauce in this recipe.",
+          "zh": "在这个食谱中，你可以用苹果酱代替油。"
         },
         {
-          "en": "Many parents seek advice on childrearing techniques.",
-          "zh": "许多父母寻求关于育儿技巧的建议。"
+          "en": "The teacher will substitute for her colleague who is ill.",
+          "zh": "老师将替代生病的同事。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'childrearing' comes from 'child' and 'rearing', where 'rearing' means to raise or bring up."
+        "association": "Think of 'substitute' as 'sub' (under) + 'stitute' (to place), meaning to place something under another."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=childrearing&type=2",
-      "chapter": "认知词汇 社会与生活分类 工作与家庭冲突"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=substitute&type=2",
+      "chapter": "核心词汇 科技发展 Unit 5"
     }
   ]
 }

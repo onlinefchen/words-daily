@@ -1,69 +1,67 @@
 {
-  "generated": "2025-12-11T22:08:18.580Z",
+  "generated": "2025-12-12T22:08:21.090Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "periodic violent unleashing",
-      "pronunciation": "/ˈpɪə.ri.ədɪk ˈvaɪ.ələnt ʌnˈliː.ʃɪŋ/",
+      "word": "joey",
+      "pronunciation": "/ˈdʒoʊ.i/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "周期性的",
-          "en": "Occurring at regular intervals; repeated over time."
+          "pos": "n.",
+          "zh": "袋鼠宝宝",
+          "en": "A joey is a young kangaroo that is still developing in its mother's pouch."
         },
         {
-          "pos": "adj.",
-          "zh": "猛烈的",
-          "en": "Characterized by strong, forceful action or intensity."
+          "pos": "n.",
+          "zh": "小动物",
+          "en": "The term can also refer to the young of some marsupials."
         }
       ],
       "examples": [
         {
-          "en": "The periodic violent unleashing of storms can cause significant damage.",
-          "zh": "周期性猛烈的暴风雨可能造成重大损失。"
+          "en": "The mother kangaroo carried her joey safely in her pouch.",
+          "zh": "母袋鼠把她的小袋鼠安全地放在袋子里。"
         },
         {
-          "en": "Scientists study the periodic violent unleashing of volcanic eruptions.",
-          "zh": "科学家研究火山爆发的周期性猛烈释放。"
+          "en": "A joey stays in its mother's pouch for several months after birth.",
+          "zh": "小袋鼠在出生后几个月内会待在母亲的袋子里。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'periodic' as a clock that ticks at regular intervals, and 'violent unleashing' as a storm breaking loose."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=periodic%20violent%20unleashing&type=2",
-      "chapter": "认知词汇 自然分类 火山"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=joey&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "paleontology",
-      "pronunciation": "/ˌpeɪlɪˈɒn.tə.lə.dʒi/",
+      "word": "preferable",
+      "pronunciation": "/ˈprɛfərəbəl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "古生物学",
-          "en": "The study of fossils and ancient life forms."
+          "pos": "adj.",
+          "zh": "更可取的",
+          "en": "More desirable or suitable than something else."
         },
         {
-          "pos": "n.",
-          "zh": "化石记录",
-          "en": "The record of ancient organisms preserved in rocks."
+          "pos": "adj.",
+          "zh": "优先选择的",
+          "en": "Preferred over other options or choices."
         }
       ],
       "examples": [
         {
-          "en": "Paleontology helps us understand the history of life on Earth.",
-          "zh": "古生物学帮助我们理解地球生命的历史。"
+          "en": "It is preferable to study in a quiet environment for better concentration.",
+          "zh": "在安静的环境中学习更可取，以提高专注力。"
         },
         {
-          "en": "Scientists in paleontology study dinosaur fossils to learn more.",
-          "zh": "古生物学的科学家研究恐龙化石以获得更多信息。"
+          "en": "Many people find it preferable to work from home rather than commuting.",
+          "zh": "许多人发现居家工作比通勤更优先选择。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word comes from the Greek 'palaios' meaning ancient, and 'ont' meaning being or creature, combined with 'logia' meaning study."
+        "association": "Think of 'prefer' in 'preferable' to recall that it means to choose something over another."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=paleontology&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=preferable&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 15"
     }
   ]
 }

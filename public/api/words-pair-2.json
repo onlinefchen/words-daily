@@ -1,69 +1,70 @@
 {
-  "generated": "2025-12-11T22:08:18.580Z",
+  "generated": "2025-12-12T22:08:21.090Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "dominance",
-      "pronunciation": "/ˈdɑː.mɪ.nəns/",
+      "word": "unreasonable",
+      "pronunciation": "/ʌnˈrizənəbl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "主导地位",
-          "en": "The state of having power or influence over others."
+          "pos": "adj.",
+          "zh": "不合理的",
+          "en": "Not based on good reason or logic."
         },
         {
-          "pos": "n.",
-          "zh": "优势",
-          "en": "The quality of being more important or powerful than others."
+          "pos": "adj.",
+          "zh": "过分的",
+          "en": "Exceeding reasonable limits; excessive."
         }
       ],
       "examples": [
         {
-          "en": "The dominance of technology in our lives is undeniable.",
-          "zh": "科技在我们生活中的主导地位是不可否认的。"
+          "en": "His demands were completely unreasonable and impossible to meet.",
+          "zh": "他的要求完全不合理，无法满足。"
         },
         {
-          "en": "The team's dominance in the league led to many victories.",
-          "zh": "该队在联赛中的优势带来了许多胜利。"
+          "en": "It is unreasonable to expect everyone to agree on everything.",
+          "zh": "期望每个人在所有问题上达成一致是不合理的。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'dominance' comes from the Latin 'dominari', meaning 'to rule'."
+        "association": "Think of 'unreasonable' as 'un-reasonable', meaning it lacks reason.",
+        "mnemonic": "The word 'unreasonable' starts with 'un', like 'unfair', which also suggests something is not right."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dominance&type=2",
-      "chapter": "核心词汇 动物权益与保护 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=unreasonable&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 20"
     },
     {
-      "word": "catastrophic",
-      "pronunciation": "/ˌkætəˈstrɑːfɪk/",
+      "word": "leisure",
+      "pronunciation": "/ˈleʒ.ər/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "灾难性的",
-          "en": "Causing a lot of damage or suffering."
+          "pos": "n.",
+          "zh": "闲暇",
+          "en": "Time when you are not working and can relax."
         },
         {
           "pos": "adj.",
-          "zh": "极其严重的",
-          "en": "Extremely serious or disastrous."
+          "zh": "休闲的",
+          "en": "Activities done during free time for enjoyment."
         }
       ],
       "examples": [
         {
-          "en": "The catastrophic flood destroyed many homes in the village.",
-          "zh": "灾难性的洪水摧毁了村庄里的许多房屋。"
+          "en": "I enjoy reading books in my leisure time after work.",
+          "zh": "我喜欢在工作后闲暇时间阅读书籍。"
         },
         {
-          "en": "Experts warned that climate change could have catastrophic effects.",
-          "zh": "专家警告气候变化可能会产生灾难性的影响。"
+          "en": "Leisure activities like hiking can improve mental health.",
+          "zh": "像远足这样的休闲活动可以改善心理健康。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'cat' trapped in a 'traffic' jam, leading to a disastrous situation."
+        "association": "Think of 'leisure' as 'leisurely' time, when you can take things slow."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=catastrophic&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=leisure&type=2",
+      "chapter": "基本词汇 名词200 Unit 6"
     }
   ]
 }

@@ -1,64 +1,69 @@
 {
-  "generated": "2025-12-11T22:08:18.580Z",
+  "generated": "2025-12-12T22:08:21.090Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "loss of consciousness",
-      "pronunciation": "/lɔs əv ˈkɒnʃəsnəs/",
+      "word": "preceding",
+      "pronunciation": "/prɪˈsiːdɪŋ/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "失去意识",
-          "en": "A state where a person cannot respond or is unaware of their surroundings."
+          "pos": "adj.",
+          "zh": "在前的",
+          "en": "Existing or happening before something else."
+        },
+        {
+          "pos": "adj.",
+          "zh": "优先的",
+          "en": "Coming before in time or order."
         }
       ],
       "examples": [
         {
-          "en": "The patient experienced a sudden loss of consciousness during the procedure.",
-          "zh": "病人在手术过程中突然失去了意识。"
+          "en": "The preceding chapter explains the main concepts clearly.",
+          "zh": "前一章清楚地解释了主要概念。"
         },
         {
-          "en": "Loss of consciousness can occur due to various medical conditions.",
-          "zh": "失去意识可能是由于多种医疗状况造成的。"
+          "en": "He referred to the preceding events to support his argument.",
+          "zh": "他提到了之前的事件以支持他的论点。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'loss' as losing your awareness like losing an item. When you lose consciousness, it’s like losing your grip on reality."
+        "association": "Think of 'preceding' as 'proceeding before'. Both words share a similar structure and meaning."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=loss%20of%20consciousness&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=preceding&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 14"
     },
     {
-      "word": "coho",
-      "pronunciation": "/ˈkoʊ.hoʊ/",
+      "word": "multilateral",
+      "pronunciation": "/ˌmʌl.tɪˈlæt.ər.əl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "鲑鱼的一种",
-          "en": "A type of Pacific salmon, known for its silver skin and pink flesh."
+          "pos": "adj.",
+          "zh": "多边的",
+          "en": "Involving multiple countries or groups working together."
         },
         {
-          "pos": "n.",
-          "zh": "一种鱼类",
-          "en": "A fish species popular in fishing and cooking."
+          "pos": "adj.",
+          "zh": "多方面的",
+          "en": "Relating to more than two sides or parties."
         }
       ],
       "examples": [
         {
-          "en": "The coho salmon is often used in delicious sushi dishes.",
-          "zh": "虹鳟鱼常用于美味的寿司菜肴中。"
+          "en": "The conference aimed to establish multilateral agreements on climate change.",
+          "zh": "此次会议旨在建立关于气候变化的多边协议。"
         },
         {
-          "en": "Many anglers prefer to catch coho for its fighting spirit.",
-          "zh": "许多钓鱼者喜欢捕捉虹鳟鱼，因为它的斗志。"
+          "en": "Multilateral trade can benefit all participating nations equally.",
+          "zh": "多边贸易可以使所有参与国家受益均等。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'coho' as 'co' for company and 'ho' for a cheer, like a fish party!"
+        "association": "Think of 'multi' meaning many, and 'lateral' relating to sides, so it’s about many sides coming together."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=coho&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=multilateral&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 12"
     }
   ]
 }
