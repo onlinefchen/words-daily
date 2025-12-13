@@ -1,59 +1,69 @@
 {
-  "generated": "2025-12-12T22:08:21.090Z",
+  "generated": "2025-12-13T22:07:34.824Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "incidence of sickness",
-      "pronunciation": "/ˈɪn.sɪ.dəns əv ˈsɪk.nəs/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "疾病发生率",
-          "en": "The frequency or occurrence of illness in a population."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The incidence of sickness has increased in recent years.",
-          "zh": "近年来，疾病的发生率增加了。"
-        },
-        {
-          "en": "Health officials are monitoring the incidence of sickness closely.",
-          "zh": "卫生官员正在密切监测疾病的发生率。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'incidence' as 'incident' and relate it to events of illness happening."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=incidence%20of%20sickness&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
-    },
-    {
-      "word": "ubiquitous",
-      "pronunciation": "/juːˈbɪkwɪtəs/",
+      "word": "compulsory",
+      "pronunciation": "/kəmˈpʌlsəri/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "无处不在的",
-          "en": "Present everywhere; very common."
+          "zh": "强制的",
+          "en": "Required by law or a rule; mandatory."
+        },
+        {
+          "pos": "adj.",
+          "zh": "必修的",
+          "en": "Something that must be done; not optional."
         }
       ],
       "examples": [
         {
-          "en": "Smartphones have become ubiquitous in modern society.",
-          "zh": "智能手机在现代社会中无处不在。"
+          "en": "In many countries, education is compulsory for children.",
+          "zh": "在许多国家，教育对儿童是强制性的。"
         },
         {
-          "en": "The internet is a ubiquitous part of daily life for many people.",
-          "zh": "互联网是许多人日常生活中无处不在的一部分。"
+          "en": "The school has compulsory uniforms for all students.",
+          "zh": "这所学校要求所有学生穿校服。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'ubiquitous' as 'you be quick to notice it everywhere'."
+        "association": "Think of 'compulsory' as 'compelled to do something', which sounds similar."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ubiquitous&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 19"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compulsory&type=2",
+      "chapter": "核心词汇 民主与权利 Unit 1"
+    },
+    {
+      "word": "pursue",
+      "pronunciation": "/pərˈsuː/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "追求",
+          "en": "To try to achieve or obtain something."
+        },
+        {
+          "pos": "v.",
+          "zh": "追赶",
+          "en": "To follow someone or something in order to catch them."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She decided to pursue her dream of becoming a doctor.",
+          "zh": "她决定追求成为医生的梦想。"
+        },
+        {
+          "en": "The police are pursuing the suspect through the streets.",
+          "zh": "警方正在街道上追赶嫌疑犯。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'pursuit' which is related to 'pursue' and means the act of chasing or seeking something."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pursue&type=2",
+      "chapter": "基本词汇 动词200 Unit 9"
     }
   ]
 }

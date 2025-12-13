@@ -1,67 +1,69 @@
 {
-  "generated": "2025-12-12T22:08:21.090Z",
+  "generated": "2025-12-13T22:07:34.824Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "conquer",
-      "pronunciation": "/ˈkɒŋ.kər/",
+      "word": "lifestyle",
+      "pronunciation": "/ˈlaɪfˌstaɪl/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "征服",
-          "en": "To gain control over a place or people by force."
+          "pos": "n.",
+          "zh": "生活方式",
+          "en": "The way a person or group lives and the habits they have."
         },
         {
-          "pos": "v.",
-          "zh": "克服",
-          "en": "To overcome a difficulty or challenge."
+          "pos": "n.",
+          "zh": "风格",
+          "en": "A particular way of living that reflects personal choices and values."
         }
       ],
       "examples": [
         {
-          "en": "The army managed to conquer the enemy territory in just a week.",
-          "zh": "军队在短短一周内成功征服了敌方领土。"
+          "en": "Many people are changing their lifestyle to become healthier.",
+          "zh": "许多人正在改变他们的生活方式以变得更健康。"
         },
         {
-          "en": "She worked hard to conquer her fear of public speaking.",
-          "zh": "她努力克服了对公众演讲的恐惧。"
+          "en": "Her lifestyle includes regular exercise and a balanced diet.",
+          "zh": "她的生活方式包括定期锻炼和均衡饮食。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'conquer' comes from the Latin 'conquaerere', meaning 'to seek out' or 'to obtain'."
+        "association": "Think of 'life' and 'style' as how you 'style' your 'life'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=conquer&type=2",
-      "chapter": "核心词汇 科技发展 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=lifestyle&type=2",
+      "chapter": "核心词汇 健康话题 Unit 4"
     },
     {
-      "word": "disorderly",
-      "pronunciation": "/dɪsˈɔrdərli/",
+      "word": "deceive",
+      "pronunciation": "/dɪˈsiːv/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "无序的，混乱的",
-          "en": "Not organized or arranged in a neat way."
+          "pos": "v.",
+          "zh": "欺骗",
+          "en": "To make someone believe something that is not true."
         },
         {
-          "pos": "adj.",
-          "zh": "骚乱的，扰乱的",
-          "en": "Characterized by a lack of order or control."
+          "pos": "v.",
+          "zh": "误导",
+          "en": "To mislead someone by giving false information."
         }
       ],
       "examples": [
         {
-          "en": "The classroom was disorderly after the students finished their projects.",
-          "zh": "在学生们完成项目后，教室变得混乱不堪。"
+          "en": "He tried to deceive her with a fake story about his past.",
+          "zh": "他试图用一个关于他过去的假故事来欺骗她。"
         },
         {
-          "en": "The disorderly crowd made it difficult for the police to manage the situation.",
-          "zh": "混乱的人群使警方难以控制局势。"
+          "en": "Many people were deceived by the scam and lost their money.",
+          "zh": "许多人被这个骗局欺骗，失去了他们的钱。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disorderly&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 6"
+      "memoryTips": {
+        "association": "Think of 'deceive' as 'deceit' with a twist, where deceit involves trickery."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=deceive&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 2"
     }
   ]
 }

@@ -1,69 +1,67 @@
 {
-  "generated": "2025-12-12T22:08:21.090Z",
+  "generated": "2025-12-13T22:07:34.824Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "preceding",
-      "pronunciation": "/prɪˈsiːdɪŋ/",
+      "word": "corruption",
+      "pronunciation": "/kəˈrʌpʃən/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "在前的",
-          "en": "Existing or happening before something else."
+          "pos": "n.",
+          "zh": "腐败",
+          "en": "Corruption refers to dishonest or unethical behavior, especially by people in power."
         },
         {
-          "pos": "adj.",
-          "zh": "优先的",
-          "en": "Coming before in time or order."
+          "pos": "n.",
+          "zh": "毁坏",
+          "en": "Corruption can also mean the process of something being damaged or spoiled."
         }
       ],
       "examples": [
         {
-          "en": "The preceding chapter explains the main concepts clearly.",
-          "zh": "前一章清楚地解释了主要概念。"
+          "en": "The investigation revealed widespread corruption within the government.",
+          "zh": "调查揭示了政府内部的广泛腐败。"
         },
         {
-          "en": "He referred to the preceding events to support his argument.",
-          "zh": "他提到了之前的事件以支持他的论点。"
+          "en": "Corruption can lead to the collapse of trust in public institutions.",
+          "zh": "腐败可能导致公众对机构信任的崩溃。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'preceding' as 'proceeding before'. Both words share a similar structure and meaning."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=preceding&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 14"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=corruption&type=2",
+      "chapter": "基本词汇 名词200 Unit 2"
     },
     {
-      "word": "multilateral",
-      "pronunciation": "/ˌmʌl.tɪˈlæt.ər.əl/",
+      "word": "extend",
+      "pronunciation": "/ɪkˈstɛnd/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "多边的",
-          "en": "Involving multiple countries or groups working together."
+          "pos": "v.",
+          "zh": "延长",
+          "en": "To make something longer in time or distance."
         },
         {
-          "pos": "adj.",
-          "zh": "多方面的",
-          "en": "Relating to more than two sides or parties."
+          "pos": "v.",
+          "zh": "提供",
+          "en": "To offer or give something, such as help or an invitation."
         }
       ],
       "examples": [
         {
-          "en": "The conference aimed to establish multilateral agreements on climate change.",
-          "zh": "此次会议旨在建立关于气候变化的多边协议。"
+          "en": "We decided to extend our stay at the beach for another week.",
+          "zh": "我们决定在海滩再延长一周的逗留。"
         },
         {
-          "en": "Multilateral trade can benefit all participating nations equally.",
-          "zh": "多边贸易可以使所有参与国家受益均等。"
+          "en": "The company plans to extend its services to new markets next year.",
+          "zh": "公司计划明年将其服务扩展到新市场。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'multi' meaning many, and 'lateral' relating to sides, so it’s about many sides coming together."
+        "association": "Think of 'extend' as 'stretching' something out, like a rubber band."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=multilateral&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 12"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=extend&type=2",
+      "chapter": "基本词汇 动词200 Unit 7"
     }
   ]
 }

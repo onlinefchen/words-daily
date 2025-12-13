@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-12T22:08:21.091Z",
+  "generated": "2025-12-13T22:07:34.825Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "exhaustion",
-      "pronunciation": "/ɪɡˈzɔːstʃən/",
+      "word": "worship",
+      "pronunciation": "/ˈwɜːrʃɪp/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "疲惫",
-          "en": "A state of extreme tiredness or lack of energy."
+          "pos": "v.",
+          "zh": "崇拜",
+          "en": "To show deep respect and love for a god or person."
         },
         {
           "pos": "n.",
-          "zh": "耗尽",
-          "en": "The process of using up all of one's resources or energy."
+          "zh": "崇拜",
+          "en": "The act of showing respect and love for a god or person."
         }
       ],
       "examples": [
         {
-          "en": "After working for twelve hours straight, I felt complete exhaustion.",
-          "zh": "连续工作十二小时后，我感到完全疲惫。"
+          "en": "Many people worship at temples to express their faith.",
+          "zh": "许多人在寺庙里崇拜以表达他们的信仰。"
         },
         {
-          "en": "The marathon left her in a state of exhaustion and needing rest.",
-          "zh": "马拉松比赛让她感到疲惫不堪，需要休息。"
+          "en": "His followers worship him as a leader and mentor.",
+          "zh": "他的追随者将他视为领导者和导师崇拜。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'exhaustion' comes from the Latin 'exhaurire', meaning 'to draw out'."
+        "etymology": "The word 'worship' comes from the Old English 'weorþscipe', meaning 'worthiness' or 'to honor'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=exhaustion&type=2",
-      "chapter": "核心词汇 科技发展 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=worship&type=2",
+      "chapter": "核心词汇 伦理与道德 Unit 5"
     },
     {
-      "word": "royal jelly",
-      "pronunciation": "/ˈrɔɪ.əl ˈdʒɛl.i/",
+      "word": "abuse",
+      "pronunciation": "/əˈbjuz/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "蜂王浆",
-          "en": "A nutritious substance produced by bees, fed to larvae and queen bees."
+          "pos": "v.",
+          "zh": "滥用；虐待",
+          "en": "To use something in a harmful or wrong way."
         },
         {
           "pos": "n.",
-          "zh": "特别营养的食物",
-          "en": "A special food thought to have health benefits for humans."
+          "zh": "虐待；滥用",
+          "en": "The act of treating someone or something badly."
         }
       ],
       "examples": [
         {
-          "en": "Many people believe that royal jelly can enhance their health.",
-          "zh": "许多人相信蜂王浆可以增强他们的健康。"
+          "en": "The organization works to prevent child abuse in our community.",
+          "zh": "该组织致力于防止我们社区的儿童虐待。"
         },
         {
-          "en": "Royal jelly is rich in vitamins and minerals crucial for growth.",
-          "zh": "蜂王浆富含对生长至关重要的维生素和矿物质。"
+          "en": "Many people suffer from substance abuse due to addiction.",
+          "zh": "许多人因成瘾而遭受药物滥用。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'royal' as something special and 'jelly' as a sweet, nourishing food."
+        "etymology": "The word 'abuse' comes from the Latin 'abusus', meaning 'to use wrongly'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=royal%20jelly&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=abuse&type=2",
+      "chapter": "基本词汇 动词200 Unit 1"
     }
   ]
 }

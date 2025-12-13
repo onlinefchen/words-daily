@@ -1,68 +1,63 @@
 {
-  "generated": "2025-12-12T22:08:21.090Z",
+  "generated": "2025-12-13T22:07:34.824Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "conservation",
-      "pronunciation": "/ˌkɒn.səˈveɪ.ʃən/",
+      "word": "express rider service",
+      "pronunciation": "/ɪkˈsprɛs ˈraɪdər ˈsɜrvɪs/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "保护；保存",
-          "en": "The act of protecting and preserving the natural environment."
-        },
-        {
-          "pos": "n.",
-          "zh": "节约；节省",
-          "en": "The careful use of resources to prevent waste."
+          "zh": "快递骑士服务",
+          "en": "A service that delivers packages quickly using riders on bikes or motorcycles."
         }
       ],
       "examples": [
         {
-          "en": "Wildlife conservation is crucial for protecting endangered species.",
-          "zh": "野生动物保护对保护濒危物种至关重要。"
+          "en": "I used an express rider service to send the documents overnight.",
+          "zh": "我使用快递骑士服务将文件送到隔夜。"
         },
         {
-          "en": "Water conservation can help reduce the effects of drought.",
-          "zh": "节水可以帮助减轻干旱的影响。"
+          "en": "The express rider service ensured my package arrived on time.",
+          "zh": "快递骑士服务确保我的包裹准时到达。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'conservation' comes from the Latin 'conservare', meaning to keep safe or preserve."
+        "association": "Think of 'express' as fast and 'rider' as someone who delivers, linking speed with delivery."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=conservation&type=2",
-      "chapter": "基本词汇 名词200 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=express%20rider%20service&type=2",
+      "chapter": "认知词汇 历史分类 电讯发展史"
     },
     {
-      "word": "self",
-      "pronunciation": "/sɛlf/",
+      "word": "rowdy",
+      "pronunciation": "/ˈraʊdi/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "自我",
-          "en": "A person's essential being that distinguishes them from others."
+          "pos": "adj.",
+          "zh": "吵闹的",
+          "en": "Noisy and disorderly, often causing trouble."
         },
         {
-          "pos": "pron.",
-          "zh": "自己",
-          "en": "Referring to oneself, used for emphasis or clarification."
+          "pos": "n.",
+          "zh": "吵闹的人",
+          "en": "A person who is loud and disruptive."
         }
       ],
       "examples": [
         {
-          "en": "She believes in being true to herself and her values.",
-          "zh": "她相信忠于自己和自己的价值观。"
+          "en": "The rowdy crowd at the concert made it hard to hear the music.",
+          "zh": "音乐会上的吵闹人群让人难以听到音乐。"
         },
         {
-          "en": "He often talks about his self-improvement journey.",
-          "zh": "他经常谈论自我提升的旅程。"
+          "en": "Rowdy children often need guidance to behave in public.",
+          "zh": "吵闹的孩子们常常需要指导，以便在公共场合表现得体。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'self' as your personal brand or identity, which helps you remember it relates to who you are."
+        "association": "Think of 'rowdy' as a 'row' of people making a loud 'racket'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=self&type=2",
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=rowdy&type=2",
       "chapter": "核心词汇 青少年教育 Unit 9"
     }
   ]

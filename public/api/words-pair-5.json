@@ -1,67 +1,69 @@
 {
-  "generated": "2025-12-12T22:08:21.090Z",
+  "generated": "2025-12-13T22:07:34.824Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "joey",
-      "pronunciation": "/ˈdʒoʊ.i/",
+      "word": "disregard",
+      "pronunciation": "/ˌdɪs.rɪˈɡɑrd/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "袋鼠宝宝",
-          "en": "A joey is a young kangaroo that is still developing in its mother's pouch."
+          "pos": "v.",
+          "zh": "忽视",
+          "en": "To pay no attention to something or someone."
         },
         {
           "pos": "n.",
-          "zh": "小动物",
-          "en": "The term can also refer to the young of some marsupials."
+          "zh": "漠视",
+          "en": "The act of ignoring or not considering something."
         }
       ],
       "examples": [
         {
-          "en": "The mother kangaroo carried her joey safely in her pouch.",
-          "zh": "母袋鼠把她的小袋鼠安全地放在袋子里。"
+          "en": "Many people tend to disregard the importance of regular exercise.",
+          "zh": "许多人往往忽视规律锻炼的重要性。"
         },
         {
-          "en": "A joey stays in its mother's pouch for several months after birth.",
-          "zh": "小袋鼠在出生后几个月内会待在母亲的袋子里。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=joey&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
-    },
-    {
-      "word": "preferable",
-      "pronunciation": "/ˈprɛfərəbəl/",
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "更可取的",
-          "en": "More desirable or suitable than something else."
-        },
-        {
-          "pos": "adj.",
-          "zh": "优先选择的",
-          "en": "Preferred over other options or choices."
-        }
-      ],
-      "examples": [
-        {
-          "en": "It is preferable to study in a quiet environment for better concentration.",
-          "zh": "在安静的环境中学习更可取，以提高专注力。"
-        },
-        {
-          "en": "Many people find it preferable to work from home rather than commuting.",
-          "zh": "许多人发现居家工作比通勤更优先选择。"
+          "en": "Her disregard for the rules led to serious consequences.",
+          "zh": "她对规则的漠视导致了严重的后果。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'prefer' in 'preferable' to recall that it means to choose something over another."
+        "association": "Think of 'dis' as in 'not' and 'regard' as in 'consider'. Together, they mean 'not considering'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=preferable&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 15"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disregard&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 2"
+    },
+    {
+      "word": "incurable",
+      "pronunciation": "/ɪnˈkjʊr.ə.bəl/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "不可治愈的",
+          "en": "Describes a disease or condition that cannot be cured."
+        },
+        {
+          "pos": "adj.",
+          "zh": "不可改变的",
+          "en": "Refers to a situation or condition that cannot be changed or improved."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many believe that cancer is an incurable disease.",
+          "zh": "许多人认为癌症是一种不可治愈的疾病。"
+        },
+        {
+          "en": "He has an incurable optimism that inspires everyone around him.",
+          "zh": "他有一种不可改变的乐观精神，激励着周围的每一个人。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'incurable' comes from Latin 'incurabilis', where 'in-' means 'not' and 'curabilis' means 'curable'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=incurable&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 10"
     }
   ]
 }

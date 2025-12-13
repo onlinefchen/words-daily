@@ -1,68 +1,68 @@
 {
-  "generated": "2025-12-12T22:08:21.089Z",
+  "generated": "2025-12-13T22:07:34.823Z",
   "count": 2,
   "words": [
     {
-      "word": "limitation",
-      "pronunciation": "/ˌlɪmɪˈteɪʃən/",
+      "word": "lax",
+      "pronunciation": "/læks/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "限制",
-          "en": "A limit on what can be done or achieved."
+          "pos": "adj.",
+          "zh": "松弛的；不严格的",
+          "en": "Not strict or careful about rules or standards."
         },
         {
-          "pos": "n.",
-          "zh": "局限性",
-          "en": "A quality of being restricted in some way."
+          "pos": "adj.",
+          "zh": "懈怠的；马虎的",
+          "en": "Showing a lack of attention or effort."
         }
       ],
       "examples": [
         {
-          "en": "There is a limitation to how much we can learn in one day.",
-          "zh": "我们一天内能学到的东西是有限的。"
+          "en": "The teacher was too lax with the students during the exam.",
+          "zh": "老师在考试期间对学生太宽松了。"
         },
         {
-          "en": "Her physical limitation prevented her from participating in sports.",
-          "zh": "她的身体局限性使她无法参与体育运动。"
+          "en": "His lax attitude towards studying led to poor grades.",
+          "zh": "他对学习的松懈态度导致了成绩不佳。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'limitation' comes from the Latin 'limitare', meaning to bound or restrict."
+        "association": "Think of 'lax' as being like a 'relaxed' person who doesn't follow rules closely."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=limitation&type=2",
-      "chapter": "认知词汇 历史分类 记时器发展史"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=lax&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 11"
     },
     {
-      "word": "substitute",
-      "pronunciation": "/ˈsʌb.stɪ.tjuːt/",
+      "word": "misguiding",
+      "pronunciation": "/mɪsˈɡaɪdɪŋ/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "替代",
-          "en": "To replace one thing with another."
+          "pos": "adj.",
+          "zh": "误导的",
+          "en": "Leading someone to a wrong conclusion or belief."
         },
         {
-          "pos": "n.",
-          "zh": "替代品",
-          "en": "A person or thing that takes the place of another."
+          "pos": "v.",
+          "zh": "使误导",
+          "en": "To cause someone to have a false impression or idea."
         }
       ],
       "examples": [
         {
-          "en": "You can substitute oil with applesauce in this recipe.",
-          "zh": "在这个食谱中，你可以用苹果酱代替油。"
+          "en": "The misguiding information led many people to make poor decisions.",
+          "zh": "错误的信息使许多人做出了糟糕的决定。"
         },
         {
-          "en": "The teacher will substitute for her colleague who is ill.",
-          "zh": "老师将替代生病的同事。"
+          "en": "Her misguiding advice caused confusion among the team members.",
+          "zh": "她的误导性建议使团队成员感到困惑。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'substitute' as 'sub' (under) + 'stitute' (to place), meaning to place something under another."
+        "association": "Think of 'mis' as in 'mistake' and 'guiding' as guiding someone wrong."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=substitute&type=2",
-      "chapter": "核心词汇 科技发展 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=misguiding&type=2",
+      "chapter": "核心词汇 伦理与道德 Unit 3"
     }
   ]
 }
