@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-13T22:07:34.825Z",
+  "generated": "2025-12-14T22:07:40.110Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "worship",
-      "pronunciation": "/ˈwɜːrʃɪp/",
+      "word": "enforce",
+      "pronunciation": "/ɪnˈfɔrs/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "崇拜",
-          "en": "To show deep respect and love for a god or person."
+          "zh": "强制执行",
+          "en": "To make people follow a rule or law."
         },
         {
-          "pos": "n.",
-          "zh": "崇拜",
-          "en": "The act of showing respect and love for a god or person."
+          "pos": "v.",
+          "zh": "实施",
+          "en": "To ensure that something is carried out or obeyed."
         }
       ],
       "examples": [
         {
-          "en": "Many people worship at temples to express their faith.",
-          "zh": "许多人在寺庙里崇拜以表达他们的信仰。"
+          "en": "The government needs to enforce stricter laws on pollution.",
+          "zh": "政府需要执行更严格的污染法律。"
         },
         {
-          "en": "His followers worship him as a leader and mentor.",
-          "zh": "他的追随者将他视为领导者和导师崇拜。"
+          "en": "Teachers must enforce the school's rules to maintain order.",
+          "zh": "教师必须执行学校的规定以维持秩序。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'worship' comes from the Old English 'weorþscipe', meaning 'worthiness' or 'to honor'."
+        "association": "Think of 'enforce' as enforcing a rule, similar to 'force' someone to obey."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=worship&type=2",
-      "chapter": "核心词汇 伦理与道德 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=enforce&type=2",
+      "chapter": "基本词汇 动词200 Unit 6"
     },
     {
-      "word": "abuse",
-      "pronunciation": "/əˈbjuz/",
+      "word": "breakthrough",
+      "pronunciation": "/ˈbreɪkˌθru/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "滥用；虐待",
-          "en": "To use something in a harmful or wrong way."
+          "pos": "n.",
+          "zh": "突破",
+          "en": "An important discovery or achievement that helps to advance knowledge or progress."
         },
         {
-          "pos": "n.",
-          "zh": "虐待；滥用",
-          "en": "The act of treating someone or something badly."
+          "pos": "v.",
+          "zh": "突破，打破",
+          "en": "To make a significant progress or overcome an obstacle."
         }
       ],
       "examples": [
         {
-          "en": "The organization works to prevent child abuse in our community.",
-          "zh": "该组织致力于防止我们社区的儿童虐待。"
+          "en": "The scientist made a breakthrough in cancer research last year.",
+          "zh": "这位科学家去年在癌症研究中取得了突破性进展。"
         },
         {
-          "en": "Many people suffer from substance abuse due to addiction.",
-          "zh": "许多人因成瘾而遭受药物滥用。"
+          "en": "They hope to break through the barriers to renewable energy.",
+          "zh": "他们希望打破可再生能源的障碍。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'abuse' comes from the Latin 'abusus', meaning 'to use wrongly'."
+        "association": "Think of a 'break' in a wall that allows you to move forward, symbolizing progress."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=abuse&type=2",
-      "chapter": "基本词汇 动词200 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=breakthrough&type=2",
+      "chapter": "核心词汇 科技发展 Unit 1"
     }
   ]
 }

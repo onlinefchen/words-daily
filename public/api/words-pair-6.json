@@ -1,64 +1,64 @@
 {
-  "generated": "2025-12-13T22:07:34.824Z",
+  "generated": "2025-12-14T22:07:40.110Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "express rider service",
-      "pronunciation": "/ɪkˈsprɛs ˈraɪdər ˈsɜrvɪs/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "快递骑士服务",
-          "en": "A service that delivers packages quickly using riders on bikes or motorcycles."
-        }
-      ],
-      "examples": [
-        {
-          "en": "I used an express rider service to send the documents overnight.",
-          "zh": "我使用快递骑士服务将文件送到隔夜。"
-        },
-        {
-          "en": "The express rider service ensured my package arrived on time.",
-          "zh": "快递骑士服务确保我的包裹准时到达。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'express' as fast and 'rider' as someone who delivers, linking speed with delivery."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=express%20rider%20service&type=2",
-      "chapter": "认知词汇 历史分类 电讯发展史"
-    },
-    {
-      "word": "rowdy",
-      "pronunciation": "/ˈraʊdi/",
+      "word": "diverse",
+      "pronunciation": "/dɪˈvɜrs/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "吵闹的",
-          "en": "Noisy and disorderly, often causing trouble."
-        },
-        {
-          "pos": "n.",
-          "zh": "吵闹的人",
-          "en": "A person who is loud and disruptive."
+          "zh": "多样的",
+          "en": "Showing a great variety; different from one another."
         }
       ],
       "examples": [
         {
-          "en": "The rowdy crowd at the concert made it hard to hear the music.",
-          "zh": "音乐会上的吵闹人群让人难以听到音乐。"
+          "en": "The festival features diverse cultures from around the world.",
+          "zh": "这个节日展示了来自世界各地的多样文化。"
         },
         {
-          "en": "Rowdy children often need guidance to behave in public.",
-          "zh": "吵闹的孩子们常常需要指导，以便在公共场合表现得体。"
+          "en": "She has diverse interests, including music, sports, and art.",
+          "zh": "她有多样的兴趣，包括音乐、运动和艺术。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'rowdy' as a 'row' of people making a loud 'racket'."
+        "association": "Think of 'diverse' as 'diverse colors' in a rainbow, representing variety."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=rowdy&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 9"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=diverse&type=2",
+      "chapter": "核心词汇 文化与传统 Unit 2"
+    },
+    {
+      "word": "adapt",
+      "pronunciation": "/əˈdæpt/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "适应",
+          "en": "To change in order to fit or work better in a new situation."
+        },
+        {
+          "pos": "v.",
+          "zh": "改编",
+          "en": "To modify something to suit a new purpose or condition."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Animals must adapt to their environment to survive.",
+          "zh": "动物必须适应它们的环境才能生存。"
+        },
+        {
+          "en": "The author decided to adapt the novel into a screenplay.",
+          "zh": "作者决定将小说改编为剧本。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'adapt' as 'a-dapt,' where you 'a' (adjust) to 'dapt' (fit) your surroundings."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=adapt&type=2",
+      "chapter": "基本词汇 动词200 Unit 1"
     }
   ]
 }

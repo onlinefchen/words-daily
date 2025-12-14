@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-13T22:07:34.824Z",
+  "generated": "2025-12-14T22:07:40.109Z",
   "pair": 1,
   "count": 2,
   "words": [
     {
-      "word": "lax",
-      "pronunciation": "/læks/",
+      "word": "rainforest habitat",
+      "pronunciation": "/ˈreɪnˌfɔːrɪst ˈhæbɪtæt/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "松弛的；不严格的",
-          "en": "Not strict or careful about rules or standards."
+          "pos": "n.",
+          "zh": "雨林栖息地",
+          "en": "A tropical forest with tall trees and a lot of rain."
         },
         {
-          "pos": "adj.",
-          "zh": "懈怠的；马虎的",
-          "en": "Showing a lack of attention or effort."
+          "pos": "n.",
+          "zh": "生物多样性的栖息地",
+          "en": "A habitat that supports many species of plants and animals."
         }
       ],
       "examples": [
         {
-          "en": "The teacher was too lax with the students during the exam.",
-          "zh": "老师在考试期间对学生太宽松了。"
+          "en": "The rainforest habitat is crucial for many endangered species.",
+          "zh": "雨林栖息地对许多濒危物种至关重要。"
         },
         {
-          "en": "His lax attitude towards studying led to poor grades.",
-          "zh": "他对学习的松懈态度导致了成绩不佳。"
+          "en": "Deforestation threatens the delicate balance of rainforest habitats.",
+          "zh": "森林砍伐威胁到雨林栖息地的微妙平衡。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'lax' as being like a 'relaxed' person who doesn't follow rules closely."
+        "association": "Think of 'rain' as the essential water needed for lush forests, and 'forest' as the rich environment where diverse life thrives."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=lax&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 11"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=rainforest%20habitat&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "misguiding",
-      "pronunciation": "/mɪsˈɡaɪdɪŋ/",
+      "word": "resource",
+      "pronunciation": "/ˈriːsɔːrs/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "误导的",
-          "en": "Leading someone to a wrong conclusion or belief."
+          "pos": "n.",
+          "zh": "资源",
+          "en": "A resource is something that can be used to help achieve goals or support needs."
         },
         {
           "pos": "v.",
-          "zh": "使误导",
-          "en": "To cause someone to have a false impression or idea."
+          "zh": "提供资源",
+          "en": "To resource means to supply or provide necessary items or support for a project."
         }
       ],
       "examples": [
         {
-          "en": "The misguiding information led many people to make poor decisions.",
-          "zh": "错误的信息使许多人做出了糟糕的决定。"
+          "en": "The library is an important resource for students and researchers.",
+          "zh": "图书馆对学生和研究人员来说是一个重要的资源。"
         },
         {
-          "en": "Her misguiding advice caused confusion among the team members.",
-          "zh": "她的误导性建议使团队成员感到困惑。"
+          "en": "Companies need to resource their teams effectively for success.",
+          "zh": "公司需要有效地为他们的团队提供资源以获得成功。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'mis' as in 'mistake' and 'guiding' as guiding someone wrong."
+        "association": "Think of 'resource' as a 'source' of help or materials."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=misguiding&type=2",
-      "chapter": "核心词汇 伦理与道德 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=resource&type=2",
+      "chapter": "基本词汇 名词200 Unit 7"
     }
   ]
 }

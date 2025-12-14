@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-13T22:07:34.824Z",
+  "generated": "2025-12-14T22:07:40.109Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "compulsory",
-      "pronunciation": "/kəmˈpʌlsəri/",
+      "word": "intellectual",
+      "pronunciation": "/ˌɪn.təˈlɛk.tʃu.əl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "强制的",
-          "en": "Required by law or a rule; mandatory."
+          "zh": "智力的",
+          "en": "Related to the ability to think and understand."
         },
         {
-          "pos": "adj.",
-          "zh": "必修的",
-          "en": "Something that must be done; not optional."
+          "pos": "n.",
+          "zh": "知识分子",
+          "en": "A person who uses their mind and intellect for ideas."
         }
       ],
       "examples": [
         {
-          "en": "In many countries, education is compulsory for children.",
-          "zh": "在许多国家，教育对儿童是强制性的。"
+          "en": "Many intellectuals debate important social issues in public forums.",
+          "zh": "许多知识分子在公共论坛上辩论重要的社会问题。"
         },
         {
-          "en": "The school has compulsory uniforms for all students.",
-          "zh": "这所学校要求所有学生穿校服。"
+          "en": "She enjoys reading books that challenge her intellectual abilities.",
+          "zh": "她喜欢读那些挑战她智力的书籍。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'compulsory' as 'compelled to do something', which sounds similar."
+        "etymology": "The word 'intellectual' comes from the Latin 'intellectus', meaning understanding or perception."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compulsory&type=2",
-      "chapter": "核心词汇 民主与权利 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=intellectual&type=2",
+      "chapter": "核心词汇 科技发展 Unit 3"
     },
     {
-      "word": "pursue",
-      "pronunciation": "/pərˈsuː/",
+      "word": "preceding",
+      "pronunciation": "/prɪˈsiːdɪŋ/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "追求",
-          "en": "To try to achieve or obtain something."
+          "pos": "adj.",
+          "zh": "在前的",
+          "en": "Existing or happening before something else."
         },
         {
-          "pos": "v.",
-          "zh": "追赶",
-          "en": "To follow someone or something in order to catch them."
+          "pos": "adj.",
+          "zh": "优先的",
+          "en": "Coming before in time or order."
         }
       ],
       "examples": [
         {
-          "en": "She decided to pursue her dream of becoming a doctor.",
-          "zh": "她决定追求成为医生的梦想。"
+          "en": "The preceding chapter explains the main concepts clearly.",
+          "zh": "前一章清楚地解释了主要概念。"
         },
         {
-          "en": "The police are pursuing the suspect through the streets.",
-          "zh": "警方正在街道上追赶嫌疑犯。"
+          "en": "He referred to the preceding events to support his argument.",
+          "zh": "他提到了之前的事件以支持他的论点。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'pursuit' which is related to 'pursue' and means the act of chasing or seeking something."
+        "association": "Think of 'preceding' as 'proceeding before'. Both words share a similar structure and meaning."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pursue&type=2",
-      "chapter": "基本词汇 动词200 Unit 9"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=preceding&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 14"
     }
   ]
 }

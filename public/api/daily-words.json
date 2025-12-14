@@ -1,757 +1,757 @@
 {
-  "generated": "2025-12-13T22:07:34.823Z",
-  "date": "2025-12-13",
+  "generated": "2025-12-14T22:07:40.108Z",
+  "date": "2025-12-14",
   "totalWords": 20,
   "words": [
     {
-      "id": "w00620",
-      "word": "lax",
-      "type": "single",
-      "chapterIndex": 20,
-      "globalIndex": 620,
-      "chapter": "ch031",
-      "chapterName": "基本词汇 形容词和副词400 Unit 11",
+      "id": "w02145",
+      "word": "rainforest habitat",
+      "type": "phrase",
+      "chapterIndex": 245,
+      "globalIndex": 2145,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
       "pronunciation": {
-        "us": "/læks/"
+        "us": "/ˈreɪnˌfɔːrɪst ˈhæbɪtæt/"
       },
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "松弛的；不严格的",
-          "en": "Not strict or careful about rules or standards."
+          "pos": "n.",
+          "zh": "雨林栖息地",
+          "en": "A tropical forest with tall trees and a lot of rain."
         },
         {
-          "pos": "adj.",
-          "zh": "懈怠的；马虎的",
-          "en": "Showing a lack of attention or effort."
+          "pos": "n.",
+          "zh": "生物多样性的栖息地",
+          "en": "A habitat that supports many species of plants and animals."
         }
       ],
       "examples": [
         {
-          "en": "The teacher was too lax with the students during the exam.",
-          "zh": "老师在考试期间对学生太宽松了。"
+          "en": "The rainforest habitat is crucial for many endangered species.",
+          "zh": "雨林栖息地对许多濒危物种至关重要。"
         },
         {
-          "en": "His lax attitude towards studying led to poor grades.",
-          "zh": "他对学习的松懈态度导致了成绩不佳。"
+          "en": "Deforestation threatens the delicate balance of rainforest habitats.",
+          "zh": "森林砍伐威胁到雨林栖息地的微妙平衡。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'lax' as being like a 'relaxed' person who doesn't follow rules closely."
+        "association": "Think of 'rain' as the essential water needed for lush forests, and 'forest' as the rich environment where diverse life thrives."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=lax&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=rainforest%20habitat&type=2"
     },
     {
-      "id": "w01160",
-      "word": "misguiding",
+      "id": "w00337",
+      "word": "resource",
       "type": "single",
-      "chapterIndex": 20,
-      "globalIndex": 1160,
-      "chapter": "ch058",
-      "chapterName": "核心词汇 伦理与道德 Unit 3",
+      "chapterIndex": 17,
+      "globalIndex": 337,
+      "chapter": "ch017",
+      "chapterName": "基本词汇 名词200 Unit 7",
       "pronunciation": {
-        "us": "/mɪsˈɡaɪdɪŋ/"
+        "us": "/ˈriːsɔːrs/"
       },
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "误导的",
-          "en": "Leading someone to a wrong conclusion or belief."
+          "pos": "n.",
+          "zh": "资源",
+          "en": "A resource is something that can be used to help achieve goals or support needs."
         },
         {
           "pos": "v.",
-          "zh": "使误导",
-          "en": "To cause someone to have a false impression or idea."
+          "zh": "提供资源",
+          "en": "To resource means to supply or provide necessary items or support for a project."
         }
       ],
       "examples": [
         {
-          "en": "The misguiding information led many people to make poor decisions.",
-          "zh": "错误的信息使许多人做出了糟糕的决定。"
+          "en": "The library is an important resource for students and researchers.",
+          "zh": "图书馆对学生和研究人员来说是一个重要的资源。"
         },
         {
-          "en": "Her misguiding advice caused confusion among the team members.",
-          "zh": "她的误导性建议使团队成员感到困惑。"
+          "en": "Companies need to resource their teams effectively for success.",
+          "zh": "公司需要有效地为他们的团队提供资源以获得成功。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'mis' as in 'mistake' and 'guiding' as guiding someone wrong."
+        "association": "Think of 'resource' as a 'source' of help or materials."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=misguiding&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=resource&type=2"
     },
     {
-      "id": "w00261",
-      "word": "elimination",
+      "id": "w01121",
+      "word": "decency",
       "type": "single",
       "chapterIndex": 1,
-      "globalIndex": 261,
-      "chapter": "ch014",
-      "chapterName": "基本词汇 名词200 Unit 4",
+      "globalIndex": 1121,
+      "chapter": "ch057",
+      "chapterName": "核心词汇 伦理与道德 Unit 2",
       "pronunciation": {
-        "us": "/ɪˌlɪməˈneɪʃən/"
+        "us": "/ˈdiːsənsi/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "消除，剔除",
-          "en": "The act of removing something completely."
+          "zh": "体面；正派",
+          "en": "The quality of being polite and respectful towards others."
         },
         {
           "pos": "n.",
-          "zh": "淘汰",
-          "en": "The process of getting rid of something that is not needed or useful."
+          "zh": "合乎礼仪的行为",
+          "en": "Behavior that is considered acceptable and proper in society."
         }
       ],
       "examples": [
         {
-          "en": "The elimination of waste is crucial for a cleaner environment.",
-          "zh": "消除废物对一个更清洁的环境至关重要。"
+          "en": "He showed great decency by helping the elderly man.",
+          "zh": "他通过帮助那位老人展示了极大的体面。"
         },
         {
-          "en": "They focused on the elimination of errors in the final report.",
-          "zh": "他们专注于消除最终报告中的错误。"
+          "en": "Decency in conversation is essential for mutual respect.",
+          "zh": "交谈中的体面对于相互尊重至关重要。"
         }
       ],
       "memoryTips": {
-        "etymology": "Derived from the Latin word 'eliminare', meaning 'to remove' or 'to turn out'."
+        "association": "Think of 'decent' as a root word that relates to good manners and respect."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=elimination&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=decency&type=2"
     },
     {
-      "id": "w02590",
-      "word": "basaltic lava",
-      "type": "phrase",
-      "chapterIndex": 5,
-      "globalIndex": 2590,
-      "chapter": "ch105",
-      "chapterName": "认知词汇 自然分类 火山",
+      "id": "w03879",
+      "word": "horology",
+      "type": "single",
+      "chapterIndex": 35,
+      "globalIndex": 3879,
+      "chapter": "ch127",
+      "chapterName": "认知词汇 历史分类 记时器发展史",
       "pronunciation": {
-        "us": "/bəˈsæl.tɪk ˈlɑː.və/"
+        "us": "/həˈrɑːləʤi/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "钟表制造与研究",
+          "en": "The study and craft of making and designing clocks and watches."
+        },
+        {
+          "pos": "n.",
+          "zh": "计时法",
+          "en": "The science of measuring time accurately."
+        }
+      ],
+      "examples": [
+        {
+          "en": "He developed a passion for horology while working in a watch shop.",
+          "zh": "他在一家钟表店工作时对钟表学产生了热情。"
+        },
+        {
+          "en": "Horology has advanced significantly with modern technology and design.",
+          "zh": "随着现代技术和设计的发展，钟表学有了显著进步。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'horo-' as in 'hour', connecting it to timekeeping."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=horology&type=2"
+    },
+    {
+      "id": "w00849",
+      "word": "intellectual",
+      "type": "single",
+      "chapterIndex": 9,
+      "globalIndex": 849,
+      "chapter": "ch043",
+      "chapterName": "核心词汇 科技发展 Unit 3",
+      "pronunciation": {
+        "us": "/ˌɪn.təˈlɛk.tʃu.əl/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "玄武岩的",
-          "en": "Relating to a type of lava that is rich in magnesium and iron."
+          "zh": "智力的",
+          "en": "Related to the ability to think and understand."
         },
         {
           "pos": "n.",
-          "zh": "玄武岩熔岩",
-          "en": "A type of lava that flows easily and forms smooth, flat surfaces."
+          "zh": "知识分子",
+          "en": "A person who uses their mind and intellect for ideas."
         }
       ],
       "examples": [
         {
-          "en": "Basaltic lava forms large, smooth plateaus in volcanic regions.",
-          "zh": "玄武岩熔岩在火山地区形成大而平滑的高原。"
+          "en": "Many intellectuals debate important social issues in public forums.",
+          "zh": "许多知识分子在公共论坛上辩论重要的社会问题。"
         },
         {
-          "en": "The eruption produced a river of basaltic lava that flowed down the mountain.",
-          "zh": "这次喷发产生了一条流下山的玄武岩熔岩河。"
+          "en": "She enjoys reading books that challenge her intellectual abilities.",
+          "zh": "她喜欢读那些挑战她智力的书籍。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'basaltic' as 'base' because it forms the base of many volcanic landscapes."
+        "etymology": "The word 'intellectual' comes from the Latin 'intellectus', meaning understanding or perception."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=basaltic%20lava&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=intellectual&type=2"
     },
     {
-      "id": "w01513",
-      "word": "compulsory",
+      "id": "w00680",
+      "word": "preceding",
+      "type": "single",
+      "chapterIndex": 20,
+      "globalIndex": 680,
+      "chapter": "ch034",
+      "chapterName": "基本词汇 形容词和副词400 Unit 14",
+      "pronunciation": {
+        "us": "/prɪˈsiːdɪŋ/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "在前的",
+          "en": "Existing or happening before something else."
+        },
+        {
+          "pos": "adj.",
+          "zh": "优先的",
+          "en": "Coming before in time or order."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The preceding chapter explains the main concepts clearly.",
+          "zh": "前一章清楚地解释了主要概念。"
+        },
+        {
+          "en": "He referred to the preceding events to support his argument.",
+          "zh": "他提到了之前的事件以支持他的论点。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'preceding' as 'proceeding before'. Both words share a similar structure and meaning."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=preceding&type=2"
+    },
+    {
+      "id": "w00441",
+      "word": "astronomical",
+      "type": "single",
+      "chapterIndex": 1,
+      "globalIndex": 441,
+      "chapter": "ch023",
+      "chapterName": "基本词汇 形容词和副词400 Unit 3",
+      "pronunciation": {
+        "us": "/ˌæs.trəˈnɔː.mɪ.kəl/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "天文的",
+          "en": "Relating to astronomy or celestial bodies."
+        },
+        {
+          "pos": "adj.",
+          "zh": "巨大的",
+          "en": "Extremely large or great in size or amount."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The astronomical data collected by scientists is crucial for research.",
+          "zh": "科学家收集的天文数据对研究至关重要。"
+        },
+        {
+          "en": "The costs of the project were astronomical, far exceeding the budget.",
+          "zh": "该项目的成本巨大，远远超出了预算。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'astronomical' as related to 'astronomy' and 'massive' like the universe, which is vast."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=astronomical&type=2"
+    },
+    {
+      "id": "w00773",
+      "word": "unanimous",
       "type": "single",
       "chapterIndex": 13,
-      "globalIndex": 1513,
-      "chapter": "ch076",
-      "chapterName": "核心词汇 民主与权利 Unit 1",
+      "globalIndex": 773,
+      "chapter": "ch039",
+      "chapterName": "基本词汇 形容词和副词400 Unit 19",
       "pronunciation": {
-        "us": "/kəmˈpʌlsəri/"
+        "us": "/juˈnæn.ɪ.məs/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "强制的",
-          "en": "Required by law or a rule; mandatory."
-        },
-        {
-          "pos": "adj.",
-          "zh": "必修的",
-          "en": "Something that must be done; not optional."
+          "zh": "全体一致的",
+          "en": "In agreement by everyone; everyone supports the same opinion."
         }
       ],
       "examples": [
         {
-          "en": "In many countries, education is compulsory for children.",
-          "zh": "在许多国家，教育对儿童是强制性的。"
+          "en": "The committee made a unanimous decision to approve the new policy.",
+          "zh": "委员会一致决定批准新政策。"
         },
         {
-          "en": "The school has compulsory uniforms for all students.",
-          "zh": "这所学校要求所有学生穿校服。"
+          "en": "The proposal was met with unanimous support from all members.",
+          "zh": "提案得到了所有成员的一致支持。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'compulsory' as 'compelled to do something', which sounds similar."
+        "association": "Think of 'united' and 'namous' as everyone having the same name, indicating agreement."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compulsory&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=unanimous&type=2"
     },
     {
-      "id": "w00176",
-      "word": "pursue",
-      "type": "single",
-      "chapterIndex": 16,
-      "globalIndex": 176,
-      "chapter": "ch009",
-      "chapterName": "基本词汇 动词200 Unit 9",
-      "pronunciation": {
-        "us": "/pərˈsuː/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "追求",
-          "en": "To try to achieve or obtain something."
-        },
-        {
-          "pos": "v.",
-          "zh": "追赶",
-          "en": "To follow someone or something in order to catch them."
-        }
-      ],
-      "examples": [
-        {
-          "en": "She decided to pursue her dream of becoming a doctor.",
-          "zh": "她决定追求成为医生的梦想。"
-        },
-        {
-          "en": "The police are pursuing the suspect through the streets.",
-          "zh": "警方正在街道上追赶嫌疑犯。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'pursuit' which is related to 'pursue' and means the act of chasing or seeking something."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pursue&type=2"
-    },
-    {
-      "id": "w01863",
-      "word": "lifestyle",
-      "type": "single",
-      "chapterIndex": 3,
-      "globalIndex": 1863,
-      "chapter": "ch094",
-      "chapterName": "核心词汇 健康话题 Unit 4",
-      "pronunciation": {
-        "us": "/ˈlaɪfˌstaɪl/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "生活方式",
-          "en": "The way a person or group lives and the habits they have."
-        },
-        {
-          "pos": "n.",
-          "zh": "风格",
-          "en": "A particular way of living that reflects personal choices and values."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Many people are changing their lifestyle to become healthier.",
-          "zh": "许多人正在改变他们的生活方式以变得更健康。"
-        },
-        {
-          "en": "Her lifestyle includes regular exercise and a balanced diet.",
-          "zh": "她的生活方式包括定期锻炼和均衡饮食。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'life' and 'style' as how you 'style' your 'life'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=lifestyle&type=2"
-    },
-    {
-      "id": "w01239",
-      "word": "deceive",
+      "id": "w01059",
+      "word": "intrinsic",
       "type": "single",
       "chapterIndex": 19,
-      "globalIndex": 1239,
-      "chapter": "ch062",
-      "chapterName": "核心词汇 青少年教育 Unit 2",
+      "globalIndex": 1059,
+      "chapter": "ch053",
+      "chapterName": "核心词汇 文化与传统 Unit 3",
       "pronunciation": {
-        "us": "/dɪˈsiːv/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "欺骗",
-          "en": "To make someone believe something that is not true."
-        },
-        {
-          "pos": "v.",
-          "zh": "误导",
-          "en": "To mislead someone by giving false information."
-        }
-      ],
-      "examples": [
-        {
-          "en": "He tried to deceive her with a fake story about his past.",
-          "zh": "他试图用一个关于他过去的假故事来欺骗她。"
-        },
-        {
-          "en": "Many people were deceived by the scam and lost their money.",
-          "zh": "许多人被这个骗局欺骗，失去了他们的钱。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'deceive' as 'deceit' with a twist, where deceit involves trickery."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=deceive&type=2"
-    },
-    {
-      "id": "w01438",
-      "word": "disregard",
-      "type": "single",
-      "chapterIndex": 18,
-      "globalIndex": 1438,
-      "chapter": "ch072",
-      "chapterName": "核心词汇 动物权益与保护 Unit 2",
-      "pronunciation": {
-        "us": "/ˌdɪs.rɪˈɡɑrd/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "忽视",
-          "en": "To pay no attention to something or someone."
-        },
-        {
-          "pos": "n.",
-          "zh": "漠视",
-          "en": "The act of ignoring or not considering something."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Many people tend to disregard the importance of regular exercise.",
-          "zh": "许多人往往忽视规律锻炼的重要性。"
-        },
-        {
-          "en": "Her disregard for the rules led to serious consequences.",
-          "zh": "她对规则的漠视导致了严重的后果。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'dis' as in 'not' and 'regard' as in 'consider'. Together, they mean 'not considering'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disregard&type=2"
-    },
-    {
-      "id": "w00589",
-      "word": "incurable",
-      "type": "single",
-      "chapterIndex": 9,
-      "globalIndex": 589,
-      "chapter": "ch030",
-      "chapterName": "基本词汇 形容词和副词400 Unit 10",
-      "pronunciation": {
-        "us": "/ɪnˈkjʊr.ə.bəl/"
+        "us": "/ɪnˈtrɪnsɪk/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "不可治愈的",
-          "en": "Describes a disease or condition that cannot be cured."
+          "zh": "内在的，固有的",
+          "en": "Belonging naturally; essential or fundamental to something."
         },
         {
           "pos": "adj.",
-          "zh": "不可改变的",
-          "en": "Refers to a situation or condition that cannot be changed or improved."
+          "zh": "本质的，内在的",
+          "en": "Existing as an essential part of something."
         }
       ],
       "examples": [
         {
-          "en": "Many believe that cancer is an incurable disease.",
-          "zh": "许多人认为癌症是一种不可治愈的疾病。"
+          "en": "The intrinsic value of art cannot be measured by money.",
+          "zh": "艺术的内在价值无法用金钱来衡量。"
         },
         {
-          "en": "He has an incurable optimism that inspires everyone around him.",
-          "zh": "他有一种不可改变的乐观精神，激励着周围的每一个人。"
+          "en": "She found intrinsic motivation in her passion for learning.",
+          "zh": "她在对学习的热爱中找到了内在的动力。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'incurable' comes from Latin 'incurabilis', where 'in-' means 'not' and 'curabilis' means 'curable'."
+        "etymology": "The word 'intrinsic' comes from the Latin 'intrinsecus', meaning 'inward' or 'within'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=incurable&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=intrinsic&type=2"
     },
     {
-      "id": "w04103",
-      "word": "express rider service",
-      "type": "phrase",
+      "id": "w00444",
+      "word": "available",
+      "type": "single",
+      "chapterIndex": 4,
+      "globalIndex": 444,
+      "chapter": "ch023",
+      "chapterName": "基本词汇 形容词和副词400 Unit 3",
+      "pronunciation": {
+        "us": "/əˈveɪləbl/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "可用的",
+          "en": "Something that can be used or accessed."
+        },
+        {
+          "pos": "adj.",
+          "zh": "可得到的",
+          "en": "Something that is free to be taken or is not busy."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The resources are available for all students wishing to learn.",
+          "zh": "这些资源对所有希望学习的学生都是可用的。"
+        },
+        {
+          "en": "She is available to discuss the project anytime this week.",
+          "zh": "她本周任何时候都可以讨论这个项目。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'available' as 'a table' where something can be placed or accessed."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=available&type=2"
+    },
+    {
+      "id": "w01034",
+      "word": "diverse",
+      "type": "single",
       "chapterIndex": 14,
-      "globalIndex": 4103,
-      "chapter": "ch130",
-      "chapterName": "认知词汇 历史分类 电讯发展史",
+      "globalIndex": 1034,
+      "chapter": "ch052",
+      "chapterName": "核心词汇 文化与传统 Unit 2",
       "pronunciation": {
-        "us": "/ɪkˈsprɛs ˈraɪdər ˈsɜrvɪs/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "快递骑士服务",
-          "en": "A service that delivers packages quickly using riders on bikes or motorcycles."
-        }
-      ],
-      "examples": [
-        {
-          "en": "I used an express rider service to send the documents overnight.",
-          "zh": "我使用快递骑士服务将文件送到隔夜。"
-        },
-        {
-          "en": "The express rider service ensured my package arrived on time.",
-          "zh": "快递骑士服务确保我的包裹准时到达。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'express' as fast and 'rider' as someone who delivers, linking speed with delivery."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=express%20rider%20service&type=2"
-    },
-    {
-      "id": "w01361",
-      "word": "rowdy",
-      "type": "single",
-      "chapterIndex": 1,
-      "globalIndex": 1361,
-      "chapter": "ch069",
-      "chapterName": "核心词汇 青少年教育 Unit 9",
-      "pronunciation": {
-        "us": "/ˈraʊdi/"
+        "us": "/dɪˈvɜrs/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "吵闹的",
-          "en": "Noisy and disorderly, often causing trouble."
-        },
-        {
-          "pos": "n.",
-          "zh": "吵闹的人",
-          "en": "A person who is loud and disruptive."
+          "zh": "多样的",
+          "en": "Showing a great variety; different from one another."
         }
       ],
       "examples": [
         {
-          "en": "The rowdy crowd at the concert made it hard to hear the music.",
-          "zh": "音乐会上的吵闹人群让人难以听到音乐。"
+          "en": "The festival features diverse cultures from around the world.",
+          "zh": "这个节日展示了来自世界各地的多样文化。"
         },
         {
-          "en": "Rowdy children often need guidance to behave in public.",
-          "zh": "吵闹的孩子们常常需要指导，以便在公共场合表现得体。"
+          "en": "She has diverse interests, including music, sports, and art.",
+          "zh": "她有多样的兴趣，包括音乐、运动和艺术。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'rowdy' as a 'row' of people making a loud 'racket'."
+        "association": "Think of 'diverse' as 'diverse colors' in a rainbow, representing variety."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=rowdy&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=diverse&type=2"
     },
     {
-      "id": "w01288",
-      "word": "idol",
+      "id": "w00011",
+      "word": "adapt",
       "type": "single",
-      "chapterIndex": 8,
-      "globalIndex": 1288,
-      "chapter": "ch065",
-      "chapterName": "核心词汇 青少年教育 Unit 5",
-      "pronunciation": {
-        "us": "/ˈaɪ.dəl/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "偶像",
-          "en": "A person who is greatly admired or loved."
-        },
-        {
-          "pos": "n.",
-          "zh": "崇拜的对象",
-          "en": "An object or image that represents a god."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Many teenagers have pop stars as their idols and role models.",
-          "zh": "许多青少年把流行明星视为他们的偶像和榜样。"
-        },
-        {
-          "en": "In ancient times, people often worshipped idols made of stone.",
-          "zh": "在古代，人们常常崇拜用石头制成的偶像。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=idol&type=2"
-    },
-    {
-      "id": "w00350",
-      "word": "stereotype",
-      "type": "single",
-      "chapterIndex": 10,
-      "globalIndex": 350,
-      "chapter": "ch018",
-      "chapterName": "基本词汇 名词200 Unit 8",
-      "pronunciation": {
-        "us": "/ˈstɛr.i.oʊ.taɪp/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "刻板印象",
-          "en": "A widely held but oversimplified idea of a particular type of person or thing."
-        },
-        {
-          "pos": "v.",
-          "zh": "对...形成刻板印象",
-          "en": "To view or categorize someone or something in a fixed and oversimplified way."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Many people still hold stereotypes about different cultures.",
-          "zh": "许多人对不同文化仍然有刻板印象。"
-        },
-        {
-          "en": "It is unfair to stereotype individuals based on their appearance.",
-          "zh": "根据外貌对个体形成刻板印象是不公平的。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'stereo' as in sound systems that can be one-dimensional; stereotypes are similarly flat views of people."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=stereotype&type=2"
-    },
-    {
-      "id": "w00236",
-      "word": "corruption",
-      "type": "single",
-      "chapterIndex": 16,
-      "globalIndex": 236,
-      "chapter": "ch012",
-      "chapterName": "基本词汇 名词200 Unit 2",
-      "pronunciation": {
-        "us": "/kəˈrʌpʃən/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "腐败",
-          "en": "Corruption refers to dishonest or unethical behavior, especially by people in power."
-        },
-        {
-          "pos": "n.",
-          "zh": "毁坏",
-          "en": "Corruption can also mean the process of something being damaged or spoiled."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The investigation revealed widespread corruption within the government.",
-          "zh": "调查揭示了政府内部的广泛腐败。"
-        },
-        {
-          "en": "Corruption can lead to the collapse of trust in public institutions.",
-          "zh": "腐败可能导致公众对机构信任的崩溃。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=corruption&type=2"
-    },
-    {
-      "id": "w00129",
-      "word": "extend",
-      "type": "single",
-      "chapterIndex": 9,
-      "globalIndex": 129,
-      "chapter": "ch007",
-      "chapterName": "基本词汇 动词200 Unit 7",
-      "pronunciation": {
-        "us": "/ɪkˈstɛnd/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "延长",
-          "en": "To make something longer in time or distance."
-        },
-        {
-          "pos": "v.",
-          "zh": "提供",
-          "en": "To offer or give something, such as help or an invitation."
-        }
-      ],
-      "examples": [
-        {
-          "en": "We decided to extend our stay at the beach for another week.",
-          "zh": "我们决定在海滩再延长一周的逗留。"
-        },
-        {
-          "en": "The company plans to extend its services to new markets next year.",
-          "zh": "公司计划明年将其服务扩展到新市场。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'extend' as 'stretching' something out, like a rubber band."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=extend&type=2"
-    },
-    {
-      "id": "w01550",
-      "word": "justifiable",
-      "type": "single",
-      "chapterIndex": 10,
-      "globalIndex": 1550,
-      "chapter": "ch078",
-      "chapterName": "核心词汇 民主与权利 Unit 3",
-      "pronunciation": {
-        "us": "/ˈdʒʌstɪfaɪəbl/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "正当的，合理的",
-          "en": "Something that is fair and can be defended."
-        },
-        {
-          "pos": "adj.",
-          "zh": "可证明的，合理的",
-          "en": "A reason or action that can be justified or explained."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Her concerns about the project were completely justifiable and needed attention.",
-          "zh": "她对这个项目的担忧是完全合理的，值得关注。"
-        },
-        {
-          "en": "The company’s decision to raise prices was justifiable due to rising costs.",
-          "zh": "由于成本上升，公司提高价格的决定是合理的。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'justifiable' comes from the Latin 'justificare', meaning 'to make right or lawful'.",
-        "association": "Think of 'just' as in fairness, and 'ifiable' suggests it can be justified."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=justifiable&type=2"
-    },
-    {
-      "id": "w02524",
-      "word": "tsunami",
-      "type": "single",
-      "chapterIndex": 77,
-      "globalIndex": 2524,
-      "chapter": "ch102",
-      "chapterName": "认知词汇 自然分类 地震",
-      "pronunciation": {
-        "us": "/tsuːˈnɑːmi/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "海啸",
-          "en": "A large and powerful ocean wave caused by underwater earthquakes or volcanic eruptions."
-        },
-        {
-          "pos": "n.",
-          "zh": "巨浪",
-          "en": "A sudden and destructive surge of water that can flood coastal areas."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The tsunami caused massive destruction along the coastline.",
-          "zh": "海啸在海岸线造成了巨大的破坏。"
-        },
-        {
-          "en": "Residents were warned about the approaching tsunami after the earthquake.",
-          "zh": "在地震后，居民们被警告即将到来的海啸。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'tsunami' as a 'tsu-nami' or 'two waves' coming together to create a massive wave."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=tsunami&type=2"
-    },
-    {
-      "id": "w01200",
-      "word": "worship",
-      "type": "single",
-      "chapterIndex": 20,
-      "globalIndex": 1200,
-      "chapter": "ch060",
-      "chapterName": "核心词汇 伦理与道德 Unit 5",
-      "pronunciation": {
-        "us": "/ˈwɜːrʃɪp/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "崇拜",
-          "en": "To show deep respect and love for a god or person."
-        },
-        {
-          "pos": "n.",
-          "zh": "崇拜",
-          "en": "The act of showing respect and love for a god or person."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Many people worship at temples to express their faith.",
-          "zh": "许多人在寺庙里崇拜以表达他们的信仰。"
-        },
-        {
-          "en": "His followers worship him as a leader and mentor.",
-          "zh": "他的追随者将他视为领导者和导师崇拜。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'worship' comes from the Old English 'weorþscipe', meaning 'worthiness' or 'to honor'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=worship&type=2"
-    },
-    {
-      "id": "w00005",
-      "word": "abuse",
-      "type": "single",
-      "chapterIndex": 5,
-      "globalIndex": 5,
+      "chapterIndex": 11,
+      "globalIndex": 11,
       "chapter": "ch001",
       "chapterName": "基本词汇 动词200 Unit 1",
       "pronunciation": {
-        "us": "/əˈbjuz/"
+        "us": "/əˈdæpt/"
       },
       "meanings": [
         {
           "pos": "v.",
-          "zh": "滥用；虐待",
-          "en": "To use something in a harmful or wrong way."
+          "zh": "适应",
+          "en": "To change in order to fit or work better in a new situation."
         },
         {
-          "pos": "n.",
-          "zh": "虐待；滥用",
-          "en": "The act of treating someone or something badly."
+          "pos": "v.",
+          "zh": "改编",
+          "en": "To modify something to suit a new purpose or condition."
         }
       ],
       "examples": [
         {
-          "en": "The organization works to prevent child abuse in our community.",
-          "zh": "该组织致力于防止我们社区的儿童虐待。"
+          "en": "Animals must adapt to their environment to survive.",
+          "zh": "动物必须适应它们的环境才能生存。"
         },
         {
-          "en": "Many people suffer from substance abuse due to addiction.",
-          "zh": "许多人因成瘾而遭受药物滥用。"
+          "en": "The author decided to adapt the novel into a screenplay.",
+          "zh": "作者决定将小说改编为剧本。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'abuse' comes from the Latin 'abusus', meaning 'to use wrongly'."
+        "association": "Think of 'adapt' as 'a-dapt,' where you 'a' (adjust) to 'dapt' (fit) your surroundings."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=abuse&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=adapt&type=2"
+    },
+    {
+      "id": "w00282",
+      "word": "heritage",
+      "type": "single",
+      "chapterIndex": 2,
+      "globalIndex": 282,
+      "chapter": "ch015",
+      "chapterName": "基本词汇 名词200 Unit 5",
+      "pronunciation": {
+        "us": "/ˈhɛrɪtɪdʒ/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "遗产",
+          "en": "Heritage refers to the traditions, achievements, and beliefs passed down from previous generations."
+        },
+        {
+          "pos": "n.",
+          "zh": "文化遗产",
+          "en": "It can also mean the cultural aspects that are important to a group or society."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many cities work hard to preserve their cultural heritage for future generations.",
+          "zh": "许多城市努力保护其文化遗产，以便将来的人们能够继承。"
+        },
+        {
+          "en": "Heritage sites often attract tourists who want to learn about history.",
+          "zh": "遗产地通常吸引希望了解历史的游客。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'heritage' comes from the Latin 'hereditare', meaning to inherit, which emphasizes the idea of receiving something from ancestors."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=heritage&type=2"
+    },
+    {
+      "id": "w00791",
+      "word": "virtual",
+      "type": "single",
+      "chapterIndex": 11,
+      "globalIndex": 791,
+      "chapter": "ch040",
+      "chapterName": "基本词汇 形容词和副词400 Unit 20",
+      "pronunciation": {
+        "us": "/ˈvɜr.tʃu.əl/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "虚拟的",
+          "en": "Not real; created by computer technology to simulate reality."
+        },
+        {
+          "pos": "adj.",
+          "zh": "几乎的",
+          "en": "Almost or nearly the same as something else; not completely."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many businesses now operate in a virtual environment to reach more customers.",
+          "zh": "许多企业现在在虚拟环境中运营，以接触更多客户。"
+        },
+        {
+          "en": "Virtual reality games provide an immersive experience for players.",
+          "zh": "虚拟现实游戏为玩家提供了沉浸式体验。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'virtual' as 'virtually real', where things seem real but are not."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=virtual&type=2"
+    },
+    {
+      "id": "w00713",
+      "word": "rigid",
+      "type": "single",
+      "chapterIndex": 13,
+      "globalIndex": 713,
+      "chapter": "ch036",
+      "chapterName": "基本词汇 形容词和副词400 Unit 16",
+      "pronunciation": {
+        "us": "/ˈrɪdʒɪd/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "僵硬的",
+          "en": "Not flexible; stiff and hard."
+        },
+        {
+          "pos": "adj.",
+          "zh": "严格的",
+          "en": "Strict and unable to change or adapt."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The rigid rules made it difficult for students to express themselves.",
+          "zh": "严格的规则使学生很难表达自己。"
+        },
+        {
+          "en": "His rigid posture suggested he was feeling tense and uncomfortable.",
+          "zh": "他僵硬的姿势表明他感到紧张和不适。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a rigid object like a steel rod, which cannot bend."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=rigid&type=2"
+    },
+    {
+      "id": "w01265",
+      "word": "enlightenment",
+      "type": "single",
+      "chapterIndex": 5,
+      "globalIndex": 1265,
+      "chapter": "ch064",
+      "chapterName": "核心词汇 青少年教育 Unit 4",
+      "pronunciation": {
+        "us": "/ɪnˈlaɪtənmənt/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "启蒙，开悟",
+          "en": "The state of having knowledge or understanding."
+        },
+        {
+          "pos": "n.",
+          "zh": "启蒙运动",
+          "en": "A historical period that emphasized reason and individualism."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The Enlightenment was a time of great intellectual growth in Europe.",
+          "zh": "启蒙时代是欧洲伟大智力发展的时期。"
+        },
+        {
+          "en": "Many philosophers contributed to the ideas of enlightenment and reason.",
+          "zh": "许多哲学家为启蒙和理性的思想做出了贡献。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'light' in 'enlightenment' as bringing knowledge and clarity."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=enlightenment&type=2"
+    },
+    {
+      "id": "w01287",
+      "word": "ideal",
+      "type": "single",
+      "chapterIndex": 7,
+      "globalIndex": 1287,
+      "chapter": "ch065",
+      "chapterName": "核心词汇 青少年教育 Unit 5",
+      "pronunciation": {
+        "us": "/aɪˈdɛl/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "理想的",
+          "en": "Perfect or most suitable for a particular purpose."
+        },
+        {
+          "pos": "n.",
+          "zh": "理想",
+          "en": "A standard or principle that is considered perfect."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Finding the ideal job can take a lot of time and effort.",
+          "zh": "找到理想的工作可能需要很多时间和精力。"
+        },
+        {
+          "en": "She has an ideal vision for a better future.",
+          "zh": "她对更美好的未来有一个理想的愿景。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'ideal' as 'I deal' with the best situation."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ideal&type=2"
+    },
+    {
+      "id": "w00111",
+      "word": "eliminate",
+      "type": "single",
+      "chapterIndex": 11,
+      "globalIndex": 111,
+      "chapter": "ch006",
+      "chapterName": "基本词汇 动词200 Unit 6",
+      "pronunciation": {
+        "us": "/ɪˈlɪməˌneɪt/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "消除",
+          "en": "To remove or get rid of something completely."
+        },
+        {
+          "pos": "v.",
+          "zh": "排除",
+          "en": "To eliminate something means to exclude it from consideration."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The new policy aims to eliminate waste in the production process.",
+          "zh": "新政策旨在消除生产过程中的浪费。"
+        },
+        {
+          "en": "They worked hard to eliminate any doubts about their project.",
+          "zh": "他们努力消除对项目的任何怀疑。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'eliminate' as 'leaving something out' or 'cutting it out' like a bad habit."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=eliminate&type=2"
+    },
+    {
+      "id": "w00116",
+      "word": "enforce",
+      "type": "single",
+      "chapterIndex": 16,
+      "globalIndex": 116,
+      "chapter": "ch006",
+      "chapterName": "基本词汇 动词200 Unit 6",
+      "pronunciation": {
+        "us": "/ɪnˈfɔrs/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "强制执行",
+          "en": "To make people follow a rule or law."
+        },
+        {
+          "pos": "v.",
+          "zh": "实施",
+          "en": "To ensure that something is carried out or obeyed."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The government needs to enforce stricter laws on pollution.",
+          "zh": "政府需要执行更严格的污染法律。"
+        },
+        {
+          "en": "Teachers must enforce the school's rules to maintain order.",
+          "zh": "教师必须执行学校的规定以维持秩序。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'enforce' as enforcing a rule, similar to 'force' someone to obey."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=enforce&type=2"
+    },
+    {
+      "id": "w00805",
+      "word": "breakthrough",
+      "type": "single",
+      "chapterIndex": 5,
+      "globalIndex": 805,
+      "chapter": "ch041",
+      "chapterName": "核心词汇 科技发展 Unit 1",
+      "pronunciation": {
+        "us": "/ˈbreɪkˌθru/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "突破",
+          "en": "An important discovery or achievement that helps to advance knowledge or progress."
+        },
+        {
+          "pos": "v.",
+          "zh": "突破，打破",
+          "en": "To make a significant progress or overcome an obstacle."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The scientist made a breakthrough in cancer research last year.",
+          "zh": "这位科学家去年在癌症研究中取得了突破性进展。"
+        },
+        {
+          "en": "They hope to break through the barriers to renewable energy.",
+          "zh": "他们希望打破可再生能源的障碍。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a 'break' in a wall that allows you to move forward, symbolizing progress."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=breakthrough&type=2"
     }
   ]
 }

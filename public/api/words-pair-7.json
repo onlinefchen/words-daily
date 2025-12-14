@@ -1,67 +1,69 @@
 {
-  "generated": "2025-12-13T22:07:34.824Z",
+  "generated": "2025-12-14T22:07:40.110Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "idol",
-      "pronunciation": "/ˈaɪ.dəl/",
+      "word": "heritage",
+      "pronunciation": "/ˈhɛrɪtɪdʒ/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "偶像",
-          "en": "A person who is greatly admired or loved."
+          "zh": "遗产",
+          "en": "Heritage refers to the traditions, achievements, and beliefs passed down from previous generations."
         },
         {
           "pos": "n.",
-          "zh": "崇拜的对象",
-          "en": "An object or image that represents a god."
+          "zh": "文化遗产",
+          "en": "It can also mean the cultural aspects that are important to a group or society."
         }
       ],
       "examples": [
         {
-          "en": "Many teenagers have pop stars as their idols and role models.",
-          "zh": "许多青少年把流行明星视为他们的偶像和榜样。"
+          "en": "Many cities work hard to preserve their cultural heritage for future generations.",
+          "zh": "许多城市努力保护其文化遗产，以便将来的人们能够继承。"
         },
         {
-          "en": "In ancient times, people often worshipped idols made of stone.",
-          "zh": "在古代，人们常常崇拜用石头制成的偶像。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=idol&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 5"
-    },
-    {
-      "word": "stereotype",
-      "pronunciation": "/ˈstɛr.i.oʊ.taɪp/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "刻板印象",
-          "en": "A widely held but oversimplified idea of a particular type of person or thing."
-        },
-        {
-          "pos": "v.",
-          "zh": "对...形成刻板印象",
-          "en": "To view or categorize someone or something in a fixed and oversimplified way."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Many people still hold stereotypes about different cultures.",
-          "zh": "许多人对不同文化仍然有刻板印象。"
-        },
-        {
-          "en": "It is unfair to stereotype individuals based on their appearance.",
-          "zh": "根据外貌对个体形成刻板印象是不公平的。"
+          "en": "Heritage sites often attract tourists who want to learn about history.",
+          "zh": "遗产地通常吸引希望了解历史的游客。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'stereo' as in sound systems that can be one-dimensional; stereotypes are similarly flat views of people."
+        "etymology": "The word 'heritage' comes from the Latin 'hereditare', meaning to inherit, which emphasizes the idea of receiving something from ancestors."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=stereotype&type=2",
-      "chapter": "基本词汇 名词200 Unit 8"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=heritage&type=2",
+      "chapter": "基本词汇 名词200 Unit 5"
+    },
+    {
+      "word": "virtual",
+      "pronunciation": "/ˈvɜr.tʃu.əl/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "虚拟的",
+          "en": "Not real; created by computer technology to simulate reality."
+        },
+        {
+          "pos": "adj.",
+          "zh": "几乎的",
+          "en": "Almost or nearly the same as something else; not completely."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many businesses now operate in a virtual environment to reach more customers.",
+          "zh": "许多企业现在在虚拟环境中运营，以接触更多客户。"
+        },
+        {
+          "en": "Virtual reality games provide an immersive experience for players.",
+          "zh": "虚拟现实游戏为玩家提供了沉浸式体验。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'virtual' as 'virtually real', where things seem real but are not."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=virtual&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 20"
     }
   ]
 }

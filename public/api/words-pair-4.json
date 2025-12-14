@@ -1,69 +1,64 @@
 {
-  "generated": "2025-12-13T22:07:34.824Z",
+  "generated": "2025-12-14T22:07:40.109Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "lifestyle",
-      "pronunciation": "/ˈlaɪfˌstaɪl/",
+      "word": "astronomical",
+      "pronunciation": "/ˌæs.trəˈnɔː.mɪ.kəl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "生活方式",
-          "en": "The way a person or group lives and the habits they have."
+          "pos": "adj.",
+          "zh": "天文的",
+          "en": "Relating to astronomy or celestial bodies."
         },
         {
-          "pos": "n.",
-          "zh": "风格",
-          "en": "A particular way of living that reflects personal choices and values."
+          "pos": "adj.",
+          "zh": "巨大的",
+          "en": "Extremely large or great in size or amount."
         }
       ],
       "examples": [
         {
-          "en": "Many people are changing their lifestyle to become healthier.",
-          "zh": "许多人正在改变他们的生活方式以变得更健康。"
+          "en": "The astronomical data collected by scientists is crucial for research.",
+          "zh": "科学家收集的天文数据对研究至关重要。"
         },
         {
-          "en": "Her lifestyle includes regular exercise and a balanced diet.",
-          "zh": "她的生活方式包括定期锻炼和均衡饮食。"
+          "en": "The costs of the project were astronomical, far exceeding the budget.",
+          "zh": "该项目的成本巨大，远远超出了预算。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'life' and 'style' as how you 'style' your 'life'."
+        "association": "Think of 'astronomical' as related to 'astronomy' and 'massive' like the universe, which is vast."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=lifestyle&type=2",
-      "chapter": "核心词汇 健康话题 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=astronomical&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 3"
     },
     {
-      "word": "deceive",
-      "pronunciation": "/dɪˈsiːv/",
+      "word": "unanimous",
+      "pronunciation": "/juˈnæn.ɪ.məs/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "欺骗",
-          "en": "To make someone believe something that is not true."
-        },
-        {
-          "pos": "v.",
-          "zh": "误导",
-          "en": "To mislead someone by giving false information."
+          "pos": "adj.",
+          "zh": "全体一致的",
+          "en": "In agreement by everyone; everyone supports the same opinion."
         }
       ],
       "examples": [
         {
-          "en": "He tried to deceive her with a fake story about his past.",
-          "zh": "他试图用一个关于他过去的假故事来欺骗她。"
+          "en": "The committee made a unanimous decision to approve the new policy.",
+          "zh": "委员会一致决定批准新政策。"
         },
         {
-          "en": "Many people were deceived by the scam and lost their money.",
-          "zh": "许多人被这个骗局欺骗，失去了他们的钱。"
+          "en": "The proposal was met with unanimous support from all members.",
+          "zh": "提案得到了所有成员的一致支持。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'deceive' as 'deceit' with a twist, where deceit involves trickery."
+        "association": "Think of 'united' and 'namous' as everyone having the same name, indicating agreement."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=deceive&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=unanimous&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 19"
     }
   ]
 }

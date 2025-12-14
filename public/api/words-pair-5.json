@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-13T22:07:34.824Z",
+  "generated": "2025-12-14T22:07:40.110Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "disregard",
-      "pronunciation": "/ˌdɪs.rɪˈɡɑrd/",
+      "word": "intrinsic",
+      "pronunciation": "/ɪnˈtrɪnsɪk/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "忽视",
-          "en": "To pay no attention to something or someone."
+          "pos": "adj.",
+          "zh": "内在的，固有的",
+          "en": "Belonging naturally; essential or fundamental to something."
         },
         {
-          "pos": "n.",
-          "zh": "漠视",
-          "en": "The act of ignoring or not considering something."
+          "pos": "adj.",
+          "zh": "本质的，内在的",
+          "en": "Existing as an essential part of something."
         }
       ],
       "examples": [
         {
-          "en": "Many people tend to disregard the importance of regular exercise.",
-          "zh": "许多人往往忽视规律锻炼的重要性。"
+          "en": "The intrinsic value of art cannot be measured by money.",
+          "zh": "艺术的内在价值无法用金钱来衡量。"
         },
         {
-          "en": "Her disregard for the rules led to serious consequences.",
-          "zh": "她对规则的漠视导致了严重的后果。"
+          "en": "She found intrinsic motivation in her passion for learning.",
+          "zh": "她在对学习的热爱中找到了内在的动力。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'dis' as in 'not' and 'regard' as in 'consider'. Together, they mean 'not considering'."
+        "etymology": "The word 'intrinsic' comes from the Latin 'intrinsecus', meaning 'inward' or 'within'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disregard&type=2",
-      "chapter": "核心词汇 动物权益与保护 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=intrinsic&type=2",
+      "chapter": "核心词汇 文化与传统 Unit 3"
     },
     {
-      "word": "incurable",
-      "pronunciation": "/ɪnˈkjʊr.ə.bəl/",
+      "word": "available",
+      "pronunciation": "/əˈveɪləbl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "不可治愈的",
-          "en": "Describes a disease or condition that cannot be cured."
+          "zh": "可用的",
+          "en": "Something that can be used or accessed."
         },
         {
           "pos": "adj.",
-          "zh": "不可改变的",
-          "en": "Refers to a situation or condition that cannot be changed or improved."
+          "zh": "可得到的",
+          "en": "Something that is free to be taken or is not busy."
         }
       ],
       "examples": [
         {
-          "en": "Many believe that cancer is an incurable disease.",
-          "zh": "许多人认为癌症是一种不可治愈的疾病。"
+          "en": "The resources are available for all students wishing to learn.",
+          "zh": "这些资源对所有希望学习的学生都是可用的。"
         },
         {
-          "en": "He has an incurable optimism that inspires everyone around him.",
-          "zh": "他有一种不可改变的乐观精神，激励着周围的每一个人。"
+          "en": "She is available to discuss the project anytime this week.",
+          "zh": "她本周任何时候都可以讨论这个项目。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'incurable' comes from Latin 'incurabilis', where 'in-' means 'not' and 'curabilis' means 'curable'."
+        "association": "Think of 'available' as 'a table' where something can be placed or accessed."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=incurable&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 10"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=available&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 3"
     }
   ]
 }

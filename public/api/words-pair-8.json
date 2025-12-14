@@ -1,67 +1,69 @@
 {
-  "generated": "2025-12-13T22:07:34.824Z",
+  "generated": "2025-12-14T22:07:40.110Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "corruption",
-      "pronunciation": "/kəˈrʌpʃən/",
+      "word": "rigid",
+      "pronunciation": "/ˈrɪdʒɪd/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "腐败",
-          "en": "Corruption refers to dishonest or unethical behavior, especially by people in power."
+          "pos": "adj.",
+          "zh": "僵硬的",
+          "en": "Not flexible; stiff and hard."
         },
         {
-          "pos": "n.",
-          "zh": "毁坏",
-          "en": "Corruption can also mean the process of something being damaged or spoiled."
+          "pos": "adj.",
+          "zh": "严格的",
+          "en": "Strict and unable to change or adapt."
         }
       ],
       "examples": [
         {
-          "en": "The investigation revealed widespread corruption within the government.",
-          "zh": "调查揭示了政府内部的广泛腐败。"
+          "en": "The rigid rules made it difficult for students to express themselves.",
+          "zh": "严格的规则使学生很难表达自己。"
         },
         {
-          "en": "Corruption can lead to the collapse of trust in public institutions.",
-          "zh": "腐败可能导致公众对机构信任的崩溃。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=corruption&type=2",
-      "chapter": "基本词汇 名词200 Unit 2"
-    },
-    {
-      "word": "extend",
-      "pronunciation": "/ɪkˈstɛnd/",
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "延长",
-          "en": "To make something longer in time or distance."
-        },
-        {
-          "pos": "v.",
-          "zh": "提供",
-          "en": "To offer or give something, such as help or an invitation."
-        }
-      ],
-      "examples": [
-        {
-          "en": "We decided to extend our stay at the beach for another week.",
-          "zh": "我们决定在海滩再延长一周的逗留。"
-        },
-        {
-          "en": "The company plans to extend its services to new markets next year.",
-          "zh": "公司计划明年将其服务扩展到新市场。"
+          "en": "His rigid posture suggested he was feeling tense and uncomfortable.",
+          "zh": "他僵硬的姿势表明他感到紧张和不适。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'extend' as 'stretching' something out, like a rubber band."
+        "association": "Think of a rigid object like a steel rod, which cannot bend."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=extend&type=2",
-      "chapter": "基本词汇 动词200 Unit 7"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=rigid&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 16"
+    },
+    {
+      "word": "enlightenment",
+      "pronunciation": "/ɪnˈlaɪtənmənt/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "启蒙，开悟",
+          "en": "The state of having knowledge or understanding."
+        },
+        {
+          "pos": "n.",
+          "zh": "启蒙运动",
+          "en": "A historical period that emphasized reason and individualism."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The Enlightenment was a time of great intellectual growth in Europe.",
+          "zh": "启蒙时代是欧洲伟大智力发展的时期。"
+        },
+        {
+          "en": "Many philosophers contributed to the ideas of enlightenment and reason.",
+          "zh": "许多哲学家为启蒙和理性的思想做出了贡献。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'light' in 'enlightenment' as bringing knowledge and clarity."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=enlightenment&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 4"
     }
   ]
 }

@@ -1,70 +1,69 @@
 {
-  "generated": "2025-12-13T22:07:34.824Z",
+  "generated": "2025-12-14T22:07:40.110Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "justifiable",
-      "pronunciation": "/ˈdʒʌstɪfaɪəbl/",
+      "word": "ideal",
+      "pronunciation": "/aɪˈdɛl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "正当的，合理的",
-          "en": "Something that is fair and can be defended."
+          "zh": "理想的",
+          "en": "Perfect or most suitable for a particular purpose."
         },
         {
-          "pos": "adj.",
-          "zh": "可证明的，合理的",
-          "en": "A reason or action that can be justified or explained."
+          "pos": "n.",
+          "zh": "理想",
+          "en": "A standard or principle that is considered perfect."
         }
       ],
       "examples": [
         {
-          "en": "Her concerns about the project were completely justifiable and needed attention.",
-          "zh": "她对这个项目的担忧是完全合理的，值得关注。"
+          "en": "Finding the ideal job can take a lot of time and effort.",
+          "zh": "找到理想的工作可能需要很多时间和精力。"
         },
         {
-          "en": "The company’s decision to raise prices was justifiable due to rising costs.",
-          "zh": "由于成本上升，公司提高价格的决定是合理的。"
+          "en": "She has an ideal vision for a better future.",
+          "zh": "她对更美好的未来有一个理想的愿景。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'justifiable' comes from the Latin 'justificare', meaning 'to make right or lawful'.",
-        "association": "Think of 'just' as in fairness, and 'ifiable' suggests it can be justified."
+        "association": "Think of 'ideal' as 'I deal' with the best situation."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=justifiable&type=2",
-      "chapter": "核心词汇 民主与权利 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ideal&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 5"
     },
     {
-      "word": "tsunami",
-      "pronunciation": "/tsuːˈnɑːmi/",
+      "word": "eliminate",
+      "pronunciation": "/ɪˈlɪməˌneɪt/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "海啸",
-          "en": "A large and powerful ocean wave caused by underwater earthquakes or volcanic eruptions."
+          "pos": "v.",
+          "zh": "消除",
+          "en": "To remove or get rid of something completely."
         },
         {
-          "pos": "n.",
-          "zh": "巨浪",
-          "en": "A sudden and destructive surge of water that can flood coastal areas."
+          "pos": "v.",
+          "zh": "排除",
+          "en": "To eliminate something means to exclude it from consideration."
         }
       ],
       "examples": [
         {
-          "en": "The tsunami caused massive destruction along the coastline.",
-          "zh": "海啸在海岸线造成了巨大的破坏。"
+          "en": "The new policy aims to eliminate waste in the production process.",
+          "zh": "新政策旨在消除生产过程中的浪费。"
         },
         {
-          "en": "Residents were warned about the approaching tsunami after the earthquake.",
-          "zh": "在地震后，居民们被警告即将到来的海啸。"
+          "en": "They worked hard to eliminate any doubts about their project.",
+          "zh": "他们努力消除对项目的任何怀疑。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'tsunami' as a 'tsu-nami' or 'two waves' coming together to create a massive wave."
+        "association": "Think of 'eliminate' as 'leaving something out' or 'cutting it out' like a bad habit."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=tsunami&type=2",
-      "chapter": "认知词汇 自然分类 地震"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=eliminate&type=2",
+      "chapter": "基本词汇 动词200 Unit 6"
     }
   ]
 }

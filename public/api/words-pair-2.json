@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-13T22:07:34.824Z",
+  "generated": "2025-12-14T22:07:40.109Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "elimination",
-      "pronunciation": "/ɪˌlɪməˈneɪʃən/",
+      "word": "decency",
+      "pronunciation": "/ˈdiːsənsi/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "消除，剔除",
-          "en": "The act of removing something completely."
+          "zh": "体面；正派",
+          "en": "The quality of being polite and respectful towards others."
         },
         {
           "pos": "n.",
-          "zh": "淘汰",
-          "en": "The process of getting rid of something that is not needed or useful."
+          "zh": "合乎礼仪的行为",
+          "en": "Behavior that is considered acceptable and proper in society."
         }
       ],
       "examples": [
         {
-          "en": "The elimination of waste is crucial for a cleaner environment.",
-          "zh": "消除废物对一个更清洁的环境至关重要。"
+          "en": "He showed great decency by helping the elderly man.",
+          "zh": "他通过帮助那位老人展示了极大的体面。"
         },
         {
-          "en": "They focused on the elimination of errors in the final report.",
-          "zh": "他们专注于消除最终报告中的错误。"
+          "en": "Decency in conversation is essential for mutual respect.",
+          "zh": "交谈中的体面对于相互尊重至关重要。"
         }
       ],
       "memoryTips": {
-        "etymology": "Derived from the Latin word 'eliminare', meaning 'to remove' or 'to turn out'."
+        "association": "Think of 'decent' as a root word that relates to good manners and respect."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=elimination&type=2",
-      "chapter": "基本词汇 名词200 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=decency&type=2",
+      "chapter": "核心词汇 伦理与道德 Unit 2"
     },
     {
-      "word": "basaltic lava",
-      "pronunciation": "/bəˈsæl.tɪk ˈlɑː.və/",
+      "word": "horology",
+      "pronunciation": "/həˈrɑːləʤi/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "玄武岩的",
-          "en": "Relating to a type of lava that is rich in magnesium and iron."
+          "pos": "n.",
+          "zh": "钟表制造与研究",
+          "en": "The study and craft of making and designing clocks and watches."
         },
         {
           "pos": "n.",
-          "zh": "玄武岩熔岩",
-          "en": "A type of lava that flows easily and forms smooth, flat surfaces."
+          "zh": "计时法",
+          "en": "The science of measuring time accurately."
         }
       ],
       "examples": [
         {
-          "en": "Basaltic lava forms large, smooth plateaus in volcanic regions.",
-          "zh": "玄武岩熔岩在火山地区形成大而平滑的高原。"
+          "en": "He developed a passion for horology while working in a watch shop.",
+          "zh": "他在一家钟表店工作时对钟表学产生了热情。"
         },
         {
-          "en": "The eruption produced a river of basaltic lava that flowed down the mountain.",
-          "zh": "这次喷发产生了一条流下山的玄武岩熔岩河。"
+          "en": "Horology has advanced significantly with modern technology and design.",
+          "zh": "随着现代技术和设计的发展，钟表学有了显著进步。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'basaltic' as 'base' because it forms the base of many volcanic landscapes."
+        "association": "Think of 'horo-' as in 'hour', connecting it to timekeeping."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=basaltic%20lava&type=2",
-      "chapter": "认知词汇 自然分类 火山"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=horology&type=2",
+      "chapter": "认知词汇 历史分类 记时器发展史"
     }
   ]
 }
