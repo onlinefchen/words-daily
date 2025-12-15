@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-14T22:07:40.109Z",
+  "generated": "2025-12-15T22:08:29.048Z",
   "pair": 1,
   "count": 2,
   "words": [
     {
-      "word": "rainforest habitat",
-      "pronunciation": "/ˈreɪnˌfɔːrɪst ˈhæbɪtæt/",
+      "word": "pregnancy",
+      "pronunciation": "/ˈprɛɡnənsi/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "雨林栖息地",
-          "en": "A tropical forest with tall trees and a lot of rain."
+          "zh": "怀孕",
+          "en": "The condition of carrying a developing baby in the womb."
         },
         {
           "pos": "n.",
-          "zh": "生物多样性的栖息地",
-          "en": "A habitat that supports many species of plants and animals."
+          "zh": "妊娠期",
+          "en": "The period during which a woman is pregnant."
         }
       ],
       "examples": [
         {
-          "en": "The rainforest habitat is crucial for many endangered species.",
-          "zh": "雨林栖息地对许多濒危物种至关重要。"
+          "en": "Her pregnancy was a joyful surprise for the whole family.",
+          "zh": "她的怀孕对整个家庭来说是一个快乐的惊喜。"
         },
         {
-          "en": "Deforestation threatens the delicate balance of rainforest habitats.",
-          "zh": "森林砍伐威胁到雨林栖息地的微妙平衡。"
+          "en": "Pregnancy can bring many physical and emotional changes.",
+          "zh": "怀孕会带来许多身体和情感上的变化。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'rain' as the essential water needed for lush forests, and 'forest' as the rich environment where diverse life thrives."
+        "association": "Think of 'pregnancy' as 'pre-gan' which sounds like 'pre-gain' – gaining a baby before birth."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=rainforest%20habitat&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pregnancy&type=2",
+      "chapter": "核心词汇 法制与犯罪 Unit 4"
     },
     {
-      "word": "resource",
-      "pronunciation": "/ˈriːsɔːrs/",
+      "word": "bully",
+      "pronunciation": "/ˈbʊli/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "资源",
-          "en": "A resource is something that can be used to help achieve goals or support needs."
+          "pos": "v.",
+          "zh": "欺负",
+          "en": "To use strength or power to hurt or intimidate someone."
         },
         {
-          "pos": "v.",
-          "zh": "提供资源",
-          "en": "To resource means to supply or provide necessary items or support for a project."
+          "pos": "n.",
+          "zh": "欺负者",
+          "en": "A person who hurts or intimidates others, often repeatedly."
         }
       ],
       "examples": [
         {
-          "en": "The library is an important resource for students and researchers.",
-          "zh": "图书馆对学生和研究人员来说是一个重要的资源。"
+          "en": "Many students feel unsafe because of bullies in their school.",
+          "zh": "许多学生因为学校里的欺负者感到不安全。"
         },
         {
-          "en": "Companies need to resource their teams effectively for success.",
-          "zh": "公司需要有效地为他们的团队提供资源以获得成功。"
+          "en": "She decided to stand up to the bully and not be afraid anymore.",
+          "zh": "她决定勇敢面对欺负者，不再害怕。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'resource' as a 'source' of help or materials."
+        "association": "Think of a 'bully' as someone who 'bulls' over others, dominating and intimidating them."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=resource&type=2",
-      "chapter": "基本词汇 名词200 Unit 7"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=bully&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 2"
     }
   ]
 }

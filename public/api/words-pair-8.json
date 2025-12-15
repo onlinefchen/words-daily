@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-14T22:07:40.110Z",
+  "generated": "2025-12-15T22:08:29.049Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "rigid",
-      "pronunciation": "/ˈrɪdʒɪd/",
+      "word": "deserve",
+      "pronunciation": "/dɪˈzɜrv/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "僵硬的",
-          "en": "Not flexible; stiff and hard."
+          "pos": "v.",
+          "zh": "应得",
+          "en": "to have earned something because of your actions or qualities."
         },
         {
-          "pos": "adj.",
-          "zh": "严格的",
-          "en": "Strict and unable to change or adapt."
+          "pos": "v.",
+          "zh": "值得",
+          "en": "to be worthy of something, such as praise or reward."
         }
       ],
       "examples": [
         {
-          "en": "The rigid rules made it difficult for students to express themselves.",
-          "zh": "严格的规则使学生很难表达自己。"
+          "en": "She deserves recognition for her hard work and dedication.",
+          "zh": "她因辛勤工作和奉献精神而值得被认可。"
         },
         {
-          "en": "His rigid posture suggested he was feeling tense and uncomfortable.",
-          "zh": "他僵硬的姿势表明他感到紧张和不适。"
+          "en": "After all his efforts, he truly deserves a break.",
+          "zh": "经过他所有的努力，他确实值得休息一下。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a rigid object like a steel rod, which cannot bend."
+        "association": "Think of 'deserve' as 'de-serve', meaning you have served well enough to earn something."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=rigid&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 16"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=deserve&type=2",
+      "chapter": "基本词汇 动词200 Unit 5"
     },
     {
-      "word": "enlightenment",
-      "pronunciation": "/ɪnˈlaɪtənmənt/",
+      "word": "catastrophe",
+      "pronunciation": "/kəˈtæs.trə.fi/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "启蒙，开悟",
-          "en": "The state of having knowledge or understanding."
+          "zh": "灾难",
+          "en": "A sudden event that causes great damage or suffering."
         },
         {
           "pos": "n.",
-          "zh": "启蒙运动",
-          "en": "A historical period that emphasized reason and individualism."
+          "zh": "惨败",
+          "en": "A complete failure or disaster."
         }
       ],
       "examples": [
         {
-          "en": "The Enlightenment was a time of great intellectual growth in Europe.",
-          "zh": "启蒙时代是欧洲伟大智力发展的时期。"
+          "en": "The earthquake was a catastrophe that affected thousands of people.",
+          "zh": "这次地震是一次灾难，影响了数千人。"
         },
         {
-          "en": "Many philosophers contributed to the ideas of enlightenment and reason.",
-          "zh": "许多哲学家为启蒙和理性的思想做出了贡献。"
+          "en": "The company's financial crisis was a catastrophe for its employees.",
+          "zh": "公司的财务危机对员工来说是一次灾难。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'light' in 'enlightenment' as bringing knowledge and clarity."
+        "etymology": "The word 'catastrophe' comes from the Greek word 'katastrophē', meaning 'overturning' or 'sudden turn'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=enlightenment&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=catastrophe&type=2",
+      "chapter": "基本词汇 名词200 Unit 2"
     }
   ]
 }

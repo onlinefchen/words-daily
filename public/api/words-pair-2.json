@@ -1,69 +1,70 @@
 {
-  "generated": "2025-12-14T22:07:40.109Z",
+  "generated": "2025-12-15T22:08:29.048Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "decency",
-      "pronunciation": "/ˈdiːsənsi/",
+      "word": "lifespan",
+      "pronunciation": "/ˈlaɪfˌspæn/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "体面；正派",
-          "en": "The quality of being polite and respectful towards others."
+          "zh": "寿命",
+          "en": "The length of time that a living thing lives."
         },
         {
           "pos": "n.",
-          "zh": "合乎礼仪的行为",
-          "en": "Behavior that is considered acceptable and proper in society."
+          "zh": "使用期限",
+          "en": "The duration that something can be used effectively."
         }
       ],
       "examples": [
         {
-          "en": "He showed great decency by helping the elderly man.",
-          "zh": "他通过帮助那位老人展示了极大的体面。"
+          "en": "The average human lifespan has increased over the last century.",
+          "zh": "平均人类寿命在过去一个世纪中有所增加。"
         },
         {
-          "en": "Decency in conversation is essential for mutual respect.",
-          "zh": "交谈中的体面对于相互尊重至关重要。"
+          "en": "Many products have a limited lifespan due to wear and tear.",
+          "zh": "许多产品由于磨损而有使用期限。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'decent' as a root word that relates to good manners and respect."
+        "association": "Think of 'life' and 'span' together, as in the span of life."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=decency&type=2",
-      "chapter": "核心词汇 伦理与道德 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=lifespan&type=2",
+      "chapter": "阅读真题认知词汇 英国儿童肥胖症"
     },
     {
-      "word": "horology",
-      "pronunciation": "/həˈrɑːləʤi/",
+      "word": "numerous",
+      "pronunciation": "/ˈnjuːmərəs/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "钟表制造与研究",
-          "en": "The study and craft of making and designing clocks and watches."
+          "pos": "adj.",
+          "zh": "许多的",
+          "en": "Existing in large quantities; a lot of something."
         },
         {
-          "pos": "n.",
-          "zh": "计时法",
-          "en": "The science of measuring time accurately."
+          "pos": "adj.",
+          "zh": "众多的",
+          "en": "Consisting of many different items or parts."
         }
       ],
       "examples": [
         {
-          "en": "He developed a passion for horology while working in a watch shop.",
-          "zh": "他在一家钟表店工作时对钟表学产生了热情。"
+          "en": "The library has numerous books on various subjects.",
+          "zh": "图书馆有许多关于不同主题的书籍。"
         },
         {
-          "en": "Horology has advanced significantly with modern technology and design.",
-          "zh": "随着现代技术和设计的发展，钟表学有了显著进步。"
+          "en": "Numerous studies show the benefits of exercise.",
+          "zh": "许多研究显示锻炼的好处。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'horo-' as in 'hour', connecting it to timekeeping."
+        "association": "Think of 'numerous' as 'numberous', implying many numbers.",
+        "mnemonic": "Numerous sounds like 'new meres', imagine a new sea with many shores."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=horology&type=2",
-      "chapter": "认知词汇 历史分类 记时器发展史"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=numerous&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 13"
     }
   ]
 }

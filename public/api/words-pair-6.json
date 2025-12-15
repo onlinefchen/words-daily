@@ -1,64 +1,67 @@
 {
-  "generated": "2025-12-14T22:07:40.110Z",
+  "generated": "2025-12-15T22:08:29.049Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "diverse",
-      "pronunciation": "/dɪˈvɜrs/",
+      "word": "endangered",
+      "pronunciation": "/ɪnˈdeɪndʒərd/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "多样的",
-          "en": "Showing a great variety; different from one another."
+          "zh": "濒危的",
+          "en": "At risk of becoming extinct or disappearing."
+        },
+        {
+          "pos": "adj.",
+          "zh": "面临危险的",
+          "en": "In danger of harm or destruction."
         }
       ],
       "examples": [
         {
-          "en": "The festival features diverse cultures from around the world.",
-          "zh": "这个节日展示了来自世界各地的多样文化。"
+          "en": "Many species of animals are endangered due to habitat loss.",
+          "zh": "由于栖息地的丧失，许多动物物种濒临灭绝。"
         },
         {
-          "en": "She has diverse interests, including music, sports, and art.",
-          "zh": "她有多样的兴趣，包括音乐、运动和艺术。"
+          "en": "Conservation efforts are crucial for protecting endangered plants.",
+          "zh": "保护努力对保护濒危植物至关重要。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'diverse' as 'diverse colors' in a rainbow, representing variety."
+        "association": "Think of 'endanger' as being at the 'end' of existence."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=diverse&type=2",
-      "chapter": "核心词汇 文化与传统 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=endangered&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 7"
     },
     {
-      "word": "adapt",
-      "pronunciation": "/əˈdæpt/",
+      "word": "sewage",
+      "pronunciation": "/ˈsuːɪdʒ/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "适应",
-          "en": "To change in order to fit or work better in a new situation."
+          "pos": "n.",
+          "zh": "污水",
+          "en": "Sewage is waste water and excrement that is removed from homes and businesses."
         },
         {
-          "pos": "v.",
-          "zh": "改编",
-          "en": "To modify something to suit a new purpose or condition."
+          "pos": "n.",
+          "zh": "污物",
+          "en": "Sewage can also refer to the solid waste material that is carried away by water."
         }
       ],
       "examples": [
         {
-          "en": "Animals must adapt to their environment to survive.",
-          "zh": "动物必须适应它们的环境才能生存。"
+          "en": "The city is investing in a new sewage treatment plant to reduce pollution.",
+          "zh": "这个城市正在投资新的污水处理厂，以减少污染。"
         },
         {
-          "en": "The author decided to adapt the novel into a screenplay.",
-          "zh": "作者决定将小说改编为剧本。"
+          "en": "Improper sewage disposal can lead to serious health problems for local residents.",
+          "zh": "不当的污水处理可能会导致当地居民严重的健康问题。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'adapt' as 'a-dapt,' where you 'a' (adjust) to 'dapt' (fit) your surroundings."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=adapt&type=2",
-      "chapter": "基本词汇 动词200 Unit 1"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sewage&type=2",
+      "chapter": "核心词汇 环境保护 Unit 4"
     }
   ]
 }

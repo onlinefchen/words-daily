@@ -1,64 +1,69 @@
 {
-  "generated": "2025-12-14T22:07:40.109Z",
+  "generated": "2025-12-15T22:08:29.048Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "astronomical",
-      "pronunciation": "/ˌæs.trəˈnɔː.mɪ.kəl/",
+      "word": "balanced",
+      "pronunciation": "/ˈbælənst/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "天文的",
-          "en": "Relating to astronomy or celestial bodies."
+          "zh": "均衡的",
+          "en": "Having different elements that are equal or in the correct proportions."
         },
         {
-          "pos": "adj.",
-          "zh": "巨大的",
-          "en": "Extremely large or great in size or amount."
+          "pos": "v.",
+          "zh": "使平衡",
+          "en": "To make something stable by ensuring that different parts are equal."
         }
       ],
       "examples": [
         {
-          "en": "The astronomical data collected by scientists is crucial for research.",
-          "zh": "科学家收集的天文数据对研究至关重要。"
+          "en": "Eating a balanced diet is important for good health.",
+          "zh": "均衡饮食对健康非常重要。"
         },
         {
-          "en": "The costs of the project were astronomical, far exceeding the budget.",
-          "zh": "该项目的成本巨大，远远超出了预算。"
+          "en": "The teacher balanced fun and learning during the class.",
+          "zh": "老师在课堂上平衡了乐趣和学习。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'astronomical' as related to 'astronomy' and 'massive' like the universe, which is vast."
+        "association": "Think of a scale where both sides are equal, representing balance."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=astronomical&type=2",
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=balanced&type=2",
       "chapter": "基本词汇 形容词和副词400 Unit 3"
     },
     {
-      "word": "unanimous",
-      "pronunciation": "/juˈnæn.ɪ.məs/",
+      "word": "live",
+      "pronunciation": "/lɪv/",
       "meanings": [
         {
+          "pos": "v.",
+          "zh": "生活",
+          "en": "To be alive; to exist or have life."
+        },
+        {
           "pos": "adj.",
-          "zh": "全体一致的",
-          "en": "In agreement by everyone; everyone supports the same opinion."
+          "zh": "现场的",
+          "en": "Being performed or happening at the moment."
         }
       ],
       "examples": [
         {
-          "en": "The committee made a unanimous decision to approve the new policy.",
-          "zh": "委员会一致决定批准新政策。"
+          "en": "Many people choose to live in big cities for better opportunities.",
+          "zh": "许多人选择在大城市生活以获得更好的机会。"
         },
         {
-          "en": "The proposal was met with unanimous support from all members.",
-          "zh": "提案得到了所有成员的一致支持。"
+          "en": "The concert was broadcast live from the famous music hall.",
+          "zh": "音乐会在著名的音乐厅现场播出。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'united' and 'namous' as everyone having the same name, indicating agreement."
+        "association": "Think of 'live' as being full of life; when we live, we experience everything around us."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=unanimous&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 19"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=live&type=2",
+      "chapter": "基本词汇 动词200 Unit 8"
     }
   ]
 }

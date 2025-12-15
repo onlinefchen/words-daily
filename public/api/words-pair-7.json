@@ -1,69 +1,67 @@
 {
-  "generated": "2025-12-14T22:07:40.110Z",
+  "generated": "2025-12-15T22:08:29.049Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "heritage",
-      "pronunciation": "/ˈhɛrɪtɪdʒ/",
+      "word": "treatment",
+      "pronunciation": "/ˈtriːt.mənt/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "遗产",
-          "en": "Heritage refers to the traditions, achievements, and beliefs passed down from previous generations."
+          "zh": "治疗",
+          "en": "The way to help someone who is sick or has a problem."
         },
         {
           "pos": "n.",
-          "zh": "文化遗产",
-          "en": "It can also mean the cultural aspects that are important to a group or society."
+          "zh": "对待",
+          "en": "The way someone behaves towards another person."
         }
       ],
       "examples": [
         {
-          "en": "Many cities work hard to preserve their cultural heritage for future generations.",
-          "zh": "许多城市努力保护其文化遗产，以便将来的人们能够继承。"
+          "en": "The treatment for the disease was effective and improved her health.",
+          "zh": "这种疾病的治疗方法很有效，改善了她的健康。"
         },
         {
-          "en": "Heritage sites often attract tourists who want to learn about history.",
-          "zh": "遗产地通常吸引希望了解历史的游客。"
+          "en": "His treatment of the staff was kind and respectful at all times.",
+          "zh": "他对员工的对待始终友好且尊重。"
         }
       ],
-      "memoryTips": {
-        "etymology": "The word 'heritage' comes from the Latin 'hereditare', meaning to inherit, which emphasizes the idea of receiving something from ancestors."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=heritage&type=2",
-      "chapter": "基本词汇 名词200 Unit 5"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=treatment&type=2",
+      "chapter": "核心词汇 环境保护 Unit 5"
     },
     {
-      "word": "virtual",
-      "pronunciation": "/ˈvɜr.tʃu.əl/",
+      "word": "cultivation",
+      "pronunciation": "/ˈkʌltɪˌveɪʃən/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "虚拟的",
-          "en": "Not real; created by computer technology to simulate reality."
+          "pos": "n.",
+          "zh": "耕作；栽培",
+          "en": "The act of growing plants or crops."
         },
         {
-          "pos": "adj.",
-          "zh": "几乎的",
-          "en": "Almost or nearly the same as something else; not completely."
+          "pos": "n.",
+          "zh": "培养",
+          "en": "The process of developing or improving skills or qualities."
         }
       ],
       "examples": [
         {
-          "en": "Many businesses now operate in a virtual environment to reach more customers.",
-          "zh": "许多企业现在在虚拟环境中运营，以接触更多客户。"
+          "en": "The cultivation of vegetables is essential for a healthy diet.",
+          "zh": "蔬菜的栽培对健康饮食至关重要。"
         },
         {
-          "en": "Virtual reality games provide an immersive experience for players.",
-          "zh": "虚拟现实游戏为玩家提供了沉浸式体验。"
+          "en": "Cultivation of good habits can lead to personal success.",
+          "zh": "培养良好的习惯可以带来个人成功。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'virtual' as 'virtually real', where things seem real but are not."
+        "etymology": "The word 'cultivation' comes from the Latin 'cultura', meaning 'to till or to nurture'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=virtual&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 20"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cultivation&type=2",
+      "chapter": "基本词汇 名词200 Unit 3"
     }
   ]
 }

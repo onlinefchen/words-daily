@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-14T22:07:40.109Z",
+  "generated": "2025-12-15T22:08:29.048Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "intellectual",
-      "pronunciation": "/ˌɪn.təˈlɛk.tʃu.əl/",
+      "word": "censorship",
+      "pronunciation": "/ˈsɛn.sər.ʃɪp/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "智力的",
-          "en": "Related to the ability to think and understand."
+          "pos": "n.",
+          "zh": "审查制度",
+          "en": "The practice of officially examining books, movies, or other materials and suppressing unacceptable parts."
         },
         {
           "pos": "n.",
-          "zh": "知识分子",
-          "en": "A person who uses their mind and intellect for ideas."
+          "zh": "言论审查",
+          "en": "The control or suppression of what can be said or published."
         }
       ],
       "examples": [
         {
-          "en": "Many intellectuals debate important social issues in public forums.",
-          "zh": "许多知识分子在公共论坛上辩论重要的社会问题。"
+          "en": "Censorship can limit freedom of expression in many countries.",
+          "zh": "审查制度可能限制许多国家的表达自由。"
         },
         {
-          "en": "She enjoys reading books that challenge her intellectual abilities.",
-          "zh": "她喜欢读那些挑战她智力的书籍。"
+          "en": "Many films face censorship before they are allowed to be released.",
+          "zh": "许多电影在允许上映之前会面临审查。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'intellectual' comes from the Latin 'intellectus', meaning understanding or perception."
+        "association": "Think of 'censor' as someone who cuts out parts of a movie, similar to how a teacher might edit a student's paper."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=intellectual&type=2",
-      "chapter": "核心词汇 科技发展 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=censorship&type=2",
+      "chapter": "基本词汇 名词200 Unit 2"
     },
     {
-      "word": "preceding",
-      "pronunciation": "/prɪˈsiːdɪŋ/",
+      "word": "similar",
+      "pronunciation": "/ˈsɪmɪlər/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "在前的",
-          "en": "Existing or happening before something else."
+          "zh": "相似的",
+          "en": "Having characteristics that are alike or comparable."
         },
         {
           "pos": "adj.",
-          "zh": "优先的",
-          "en": "Coming before in time or order."
+          "zh": "类似的",
+          "en": "Not the same but quite like something else."
         }
       ],
       "examples": [
         {
-          "en": "The preceding chapter explains the main concepts clearly.",
-          "zh": "前一章清楚地解释了主要概念。"
+          "en": "The two paintings are similar in style and color.",
+          "zh": "这两幅画在风格和颜色上很相似。"
         },
         {
-          "en": "He referred to the preceding events to support his argument.",
-          "zh": "他提到了之前的事件以支持他的论点。"
+          "en": "Many animals have similar habits and behaviors.",
+          "zh": "许多动物有相似的习惯和行为。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'preceding' as 'proceeding before'. Both words share a similar structure and meaning."
+        "association": "Think of 'similar' as 'similarly shaped' to remember it relates to likeness."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=preceding&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 14"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=similar&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 17"
     }
   ]
 }

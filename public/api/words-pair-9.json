@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-14T22:07:40.110Z",
+  "generated": "2025-12-15T22:08:29.049Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "ideal",
-      "pronunciation": "/aɪˈdɛl/",
+      "word": "timely",
+      "pronunciation": "/ˈtaɪmli/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "理想的",
-          "en": "Perfect or most suitable for a particular purpose."
+          "zh": "及时的",
+          "en": "Happening at the right time; not late."
+        },
+        {
+          "pos": "adj.",
+          "zh": "适时的",
+          "en": "Suitable for the time; appropriate."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The timely arrival of help saved many lives during the disaster.",
+          "zh": "救援的及时到达拯救了许多生命。"
+        },
+        {
+          "en": "Her timely advice made a significant difference in my decision-making.",
+          "zh": "她的及时建议在我的决策中产生了重大影响。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'time' in 'timely' to remember it means something that is on time."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=timely&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 18"
+    },
+    {
+      "word": "crisis",
+      "pronunciation": "/ˈkraɪsɪs/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "危机",
+          "en": "A time of intense difficulty or danger."
         },
         {
           "pos": "n.",
-          "zh": "理想",
-          "en": "A standard or principle that is considered perfect."
+          "zh": "关键时刻",
+          "en": "A turning point or decisive moment in a situation."
         }
       ],
       "examples": [
         {
-          "en": "Finding the ideal job can take a lot of time and effort.",
-          "zh": "找到理想的工作可能需要很多时间和精力。"
+          "en": "The country faced a severe economic crisis last year.",
+          "zh": "该国去年面临严重的经济危机。"
         },
         {
-          "en": "She has an ideal vision for a better future.",
-          "zh": "她对更美好的未来有一个理想的愿景。"
+          "en": "During a crisis, strong leadership is essential for recovery.",
+          "zh": "在危机期间，强有力的领导对于恢复至关重要。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'ideal' as 'I deal' with the best situation."
+        "etymology": "The word 'crisis' comes from the Greek 'krisis', meaning 'decision' or 'judgment'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ideal&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 5"
-    },
-    {
-      "word": "eliminate",
-      "pronunciation": "/ɪˈlɪməˌneɪt/",
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "消除",
-          "en": "To remove or get rid of something completely."
-        },
-        {
-          "pos": "v.",
-          "zh": "排除",
-          "en": "To eliminate something means to exclude it from consideration."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The new policy aims to eliminate waste in the production process.",
-          "zh": "新政策旨在消除生产过程中的浪费。"
-        },
-        {
-          "en": "They worked hard to eliminate any doubts about their project.",
-          "zh": "他们努力消除对项目的任何怀疑。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'eliminate' as 'leaving something out' or 'cutting it out' like a bad habit."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=eliminate&type=2",
-      "chapter": "基本词汇 动词200 Unit 6"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=crisis&type=2",
+      "chapter": "基本词汇 名词200 Unit 2"
     }
   ]
 }
