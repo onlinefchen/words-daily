@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-15T22:08:29.049Z",
+  "generated": "2025-12-16T22:08:14.830Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "timely",
-      "pronunciation": "/ˈtaɪmli/",
+      "word": "tidal wave",
+      "pronunciation": "/ˈtaɪdəl weɪv/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "及时的",
-          "en": "Happening at the right time; not late."
+          "pos": "n.",
+          "zh": "海啸",
+          "en": "A large ocean wave caused by underwater earthquakes or volcanic eruptions."
         },
         {
-          "pos": "adj.",
-          "zh": "适时的",
-          "en": "Suitable for the time; appropriate."
+          "pos": "n.",
+          "zh": "潮流",
+          "en": "A strong and powerful surge of water, often affecting coastal areas."
         }
       ],
       "examples": [
         {
-          "en": "The timely arrival of help saved many lives during the disaster.",
-          "zh": "救援的及时到达拯救了许多生命。"
+          "en": "The tidal wave destroyed many homes along the coast.",
+          "zh": "海啸摧毁了沿海的许多房屋。"
         },
         {
-          "en": "Her timely advice made a significant difference in my decision-making.",
-          "zh": "她的及时建议在我的决策中产生了重大影响。"
+          "en": "Scientists study tidal waves to predict future natural disasters.",
+          "zh": "科学家研究海啸以预测未来的自然灾害。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'time' in 'timely' to remember it means something that is on time."
+        "association": "Think of the word 'tidal' as related to tides, and 'wave' as a large wave, which helps remember its meaning."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=timely&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 18"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=tidal%20wave&type=2",
+      "chapter": "认知词汇 自然分类 \"厄尔尼诺\"现象"
     },
     {
-      "word": "crisis",
-      "pronunciation": "/ˈkraɪsɪs/",
+      "word": "illiteracy",
+      "pronunciation": "/ɪˈlɪtərəsi/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "危机",
-          "en": "A time of intense difficulty or danger."
+          "zh": "文盲，识字率低",
+          "en": "The state of being unable to read or write."
         },
         {
           "pos": "n.",
-          "zh": "关键时刻",
-          "en": "A turning point or decisive moment in a situation."
+          "zh": "缺乏教育，缺乏知识",
+          "en": "A lack of knowledge in a specific area due to insufficient education."
         }
       ],
       "examples": [
         {
-          "en": "The country faced a severe economic crisis last year.",
-          "zh": "该国去年面临严重的经济危机。"
+          "en": "Illiteracy remains a significant challenge in many developing countries.",
+          "zh": "文盲在许多发展中国家仍然是一个重大挑战。"
         },
         {
-          "en": "During a crisis, strong leadership is essential for recovery.",
-          "zh": "在危机期间，强有力的领导对于恢复至关重要。"
+          "en": "Programs to reduce illiteracy can improve community development.",
+          "zh": "减少文盲的项目可以改善社区发展。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'crisis' comes from the Greek 'krisis', meaning 'decision' or 'judgment'."
+        "association": "Think of 'illiteracy' as 'ill' (sick) literacy; if you are illiterate, your reading skills are sick."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=crisis&type=2",
-      "chapter": "基本词汇 名词200 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=illiteracy&type=2",
+      "chapter": "核心词汇 工作与生活 Unit 3"
     }
   ]
 }

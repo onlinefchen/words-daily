@@ -1,70 +1,65 @@
 {
-  "generated": "2025-12-15T22:08:29.048Z",
+  "generated": "2025-12-16T22:08:14.829Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "lifespan",
-      "pronunciation": "/ˈlaɪfˌspæn/",
+      "word": "offensive",
+      "pronunciation": "/əˈfɛn.sɪv/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "寿命",
-          "en": "The length of time that a living thing lives."
+          "pos": "adj.",
+          "zh": "冒犯的",
+          "en": "Causing anger or hurt feelings."
         },
         {
           "pos": "n.",
-          "zh": "使用期限",
-          "en": "The duration that something can be used effectively."
+          "zh": "进攻",
+          "en": "A military attack or an aggressive action."
         }
       ],
       "examples": [
         {
-          "en": "The average human lifespan has increased over the last century.",
-          "zh": "平均人类寿命在过去一个世纪中有所增加。"
+          "en": "His comments were considered offensive by many in the audience.",
+          "zh": "他的评论被许多观众视为冒犯。"
         },
         {
-          "en": "Many products have a limited lifespan due to wear and tear.",
-          "zh": "许多产品由于磨损而有使用期限。"
+          "en": "The country launched an offensive against its neighboring rival.",
+          "zh": "该国对其邻国对手发起了进攻。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'life' and 'span' together, as in the span of life."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=lifespan&type=2",
-      "chapter": "阅读真题认知词汇 英国儿童肥胖症"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=offensive&type=2",
+      "chapter": "核心词汇 法制与犯罪 Unit 3"
     },
     {
-      "word": "numerous",
-      "pronunciation": "/ˈnjuːmərəs/",
+      "word": "synthetic voice",
+      "pronunciation": "/sɪnˈθɛtɪk vɔɪs/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "许多的",
-          "en": "Existing in large quantities; a lot of something."
+          "pos": "n.",
+          "zh": "合成语音",
+          "en": "A computer-generated voice that can mimic human speech."
         },
         {
-          "pos": "adj.",
-          "zh": "众多的",
-          "en": "Consisting of many different items or parts."
+          "pos": "n.",
+          "zh": "虚拟声音",
+          "en": "An artificial voice used in technology for communication."
         }
       ],
       "examples": [
         {
-          "en": "The library has numerous books on various subjects.",
-          "zh": "图书馆有许多关于不同主题的书籍。"
+          "en": "Many apps now use synthetic voice for reading text aloud.",
+          "zh": "现在许多应用程序使用合成语音来朗读文本。"
         },
         {
-          "en": "Numerous studies show the benefits of exercise.",
-          "zh": "许多研究显示锻炼的好处。"
+          "en": "The synthetic voice technology has improved significantly over the years.",
+          "zh": "合成语音技术在这些年中有了显著的改善。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'numerous' as 'numberous', implying many numbers.",
-        "mnemonic": "Numerous sounds like 'new meres', imagine a new sea with many shores."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=numerous&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 13"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=synthetic%20voice&type=2",
+      "chapter": "认知词汇 动物分类 动物智力与语言习得"
     }
   ]
 }

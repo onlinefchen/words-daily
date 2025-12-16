@@ -1,67 +1,69 @@
 {
-  "generated": "2025-12-15T22:08:29.049Z",
+  "generated": "2025-12-16T22:08:14.829Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "endangered",
-      "pronunciation": "/ɪnˈdeɪndʒərd/",
+      "word": "electrical resistivity",
+      "pronunciation": "/ɪˈlɛktrɪkəl rɪˈzɪstɪviːti/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "濒危的",
-          "en": "At risk of becoming extinct or disappearing."
+          "pos": "n.",
+          "zh": "电阻率",
+          "en": "A measure of how strongly a material resists the flow of electric current."
         },
         {
-          "pos": "adj.",
-          "zh": "面临危险的",
-          "en": "In danger of harm or destruction."
+          "pos": "n.",
+          "zh": "电气电阻特性",
+          "en": "The property of a substance that indicates its ability to conduct electricity."
         }
       ],
       "examples": [
         {
-          "en": "Many species of animals are endangered due to habitat loss.",
-          "zh": "由于栖息地的丧失，许多动物物种濒临灭绝。"
+          "en": "Copper has low electrical resistivity, making it ideal for wiring.",
+          "zh": "铜的电阻率低，非常适合用作电线。"
         },
         {
-          "en": "Conservation efforts are crucial for protecting endangered plants.",
-          "zh": "保护努力对保护濒危植物至关重要。"
+          "en": "The electrical resistivity of materials varies with temperature and composition.",
+          "zh": "材料的电阻率随温度和成分而变化。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'endanger' as being at the 'end' of existence."
+        "association": "Think of 'resist' in resistivity as resisting the flow of electricity, like a dam holding back water."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=endangered&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 7"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=electrical%20resistivity&type=2",
+      "chapter": "认知词汇 自然分类 地震"
     },
     {
-      "word": "sewage",
-      "pronunciation": "/ˈsuːɪdʒ/",
+      "word": "downstream",
+      "pronunciation": "/ˈdaʊnˌstriːm/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "污水",
-          "en": "Sewage is waste water and excrement that is removed from homes and businesses."
+          "pos": "adj.",
+          "zh": "下游的",
+          "en": "Located in the direction of the current of a river."
         },
         {
-          "pos": "n.",
-          "zh": "污物",
-          "en": "Sewage can also refer to the solid waste material that is carried away by water."
+          "pos": "adv.",
+          "zh": "在下游",
+          "en": "Towards or at a lower point in a river or stream."
         }
       ],
       "examples": [
         {
-          "en": "The city is investing in a new sewage treatment plant to reduce pollution.",
-          "zh": "这个城市正在投资新的污水处理厂，以减少污染。"
+          "en": "The factory is located downstream from the river's source.",
+          "zh": "工厂位于河流源头的下游。"
         },
         {
-          "en": "Improper sewage disposal can lead to serious health problems for local residents.",
-          "zh": "不当的污水处理可能会导致当地居民严重的健康问题。"
+          "en": "Pollution flows downstream, affecting many communities.",
+          "zh": "污染流向下游，影响了许多社区。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sewage&type=2",
-      "chapter": "核心词汇 环境保护 Unit 4"
+      "memoryTips": {
+        "association": "Think of a river flowing down from the mountains to the sea, where everything downstream is affected by what happens upstream."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=downstream&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

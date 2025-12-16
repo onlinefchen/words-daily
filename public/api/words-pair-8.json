@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-15T22:08:29.049Z",
+  "generated": "2025-12-16T22:08:14.830Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "deserve",
-      "pronunciation": "/dɪˈzɜrv/",
+      "word": "electromagnetic field",
+      "pronunciation": "/ˌiːlɛkˈtrɒmæɡnɛtɪk fiːld/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "应得",
-          "en": "to have earned something because of your actions or qualities."
+          "pos": "n.",
+          "zh": "电磁场",
+          "en": "A region around a magnet or electric current where magnetic and electric forces exist."
         },
         {
-          "pos": "v.",
-          "zh": "值得",
-          "en": "to be worthy of something, such as praise or reward."
+          "pos": "n.",
+          "zh": "电磁场",
+          "en": "The physical field produced by electrically charged objects that influences other charged objects."
         }
       ],
       "examples": [
         {
-          "en": "She deserves recognition for her hard work and dedication.",
-          "zh": "她因辛勤工作和奉献精神而值得被认可。"
+          "en": "The Earth has its own electromagnetic field that protects us from solar radiation.",
+          "zh": "地球有自己的电磁场，可以保护我们免受太阳辐射的影响。"
         },
         {
-          "en": "After all his efforts, he truly deserves a break.",
-          "zh": "经过他所有的努力，他确实值得休息一下。"
+          "en": "Scientists study electromagnetic fields to improve communication technology.",
+          "zh": "科学家研究电磁场以改进通信技术。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'deserve' as 'de-serve', meaning you have served well enough to earn something."
+        "association": "Think of 'electromagnetic' as a combination of electricity and magnetism, both of which create fields."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=deserve&type=2",
-      "chapter": "基本词汇 动词200 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=electromagnetic%20field&type=2",
+      "chapter": "认知词汇 自然分类 地震"
     },
     {
-      "word": "catastrophe",
-      "pronunciation": "/kəˈtæs.trə.fi/",
+      "word": "media",
+      "pronunciation": "/ˈmiːdiə/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "灾难",
-          "en": "A sudden event that causes great damage or suffering."
+          "zh": "媒体",
+          "en": "The means of communication, such as television, newspapers, and the internet."
         },
         {
           "pos": "n.",
-          "zh": "惨败",
-          "en": "A complete failure or disaster."
+          "zh": "媒介",
+          "en": "A way to convey information or culture, often through various channels."
         }
       ],
       "examples": [
         {
-          "en": "The earthquake was a catastrophe that affected thousands of people.",
-          "zh": "这次地震是一次灾难，影响了数千人。"
+          "en": "Social media has changed how we connect with each other.",
+          "zh": "社交媒体改变了我们彼此联系的方式。"
         },
         {
-          "en": "The company's financial crisis was a catastrophe for its employees.",
-          "zh": "公司的财务危机对员工来说是一次灾难。"
+          "en": "The news media plays a crucial role in informing the public.",
+          "zh": "新闻媒体在通知公众方面发挥着关键作用。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'catastrophe' comes from the Greek word 'katastrophē', meaning 'overturning' or 'sudden turn'."
+        "association": "Think of 'media' as a bridge that connects information to people."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=catastrophe&type=2",
-      "chapter": "基本词汇 名词200 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=media&type=2",
+      "chapter": "核心词汇 民主与权利 Unit 4"
     }
   ]
 }

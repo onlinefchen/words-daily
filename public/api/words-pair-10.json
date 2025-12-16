@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-15T22:08:29.049Z",
+  "generated": "2025-12-16T22:08:14.830Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "devastation",
-      "pronunciation": "/ˌdɛvəˈsteɪʃən/",
+      "word": "overgraze",
+      "pronunciation": "/ˌoʊvərˈɡreɪz/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "毁灭，破坏",
-          "en": "The act of causing great destruction or damage."
+          "pos": "v.",
+          "zh": "过度放牧",
+          "en": "To allow animals to eat too much grass in an area, harming the land."
         },
         {
-          "pos": "n.",
-          "zh": "悲痛，痛苦",
-          "en": "Severe emotional pain or distress."
+          "pos": "v.",
+          "zh": "损坏土地",
+          "en": "To damage land by letting animals eat all the vegetation."
         }
       ],
       "examples": [
         {
-          "en": "The devastation caused by the hurricane was unprecedented in recent history.",
-          "zh": "飓风造成的毁灭在最近的历史中是前所未有的。"
+          "en": "Farmers must prevent overgrazing to protect their land's health.",
+          "zh": "农民必须防止过度放牧以保护土地的健康。"
         },
         {
-          "en": "She felt a sense of devastation after losing her beloved pet.",
-          "zh": "失去心爱的宠物后，她感到一种悲痛。"
+          "en": "Overgrazing can lead to soil erosion and loss of nutrients.",
+          "zh": "过度放牧会导致土壤侵蚀和养分流失。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'devastation' as a 'devastating situation' where everything is destroyed."
+        "association": "Think of 'over' as too much and 'graze' as animals eating grass. Together, they mean animals eating too much grass."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=devastation&type=2",
-      "chapter": "核心词汇 环境保护 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=overgraze&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "strength",
-      "pronunciation": "/strɛŋθ/",
+      "word": "olfactory",
+      "pronunciation": "/ɒlˈfæk.tər.i/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "力量",
-          "en": "The quality of being strong; the ability to endure or resist."
+          "pos": "adj.",
+          "zh": "嗅觉的",
+          "en": "Relating to the sense of smell."
         },
         {
           "pos": "n.",
-          "zh": "优势",
-          "en": "A strong point or advantage in a person or situation."
+          "zh": "嗅觉神经",
+          "en": "A term used to describe the sensory system responsible for the sense of smell."
         }
       ],
       "examples": [
         {
-          "en": "Her strength helped her overcome many challenges in life.",
-          "zh": "她的力量帮助她克服了生活中的许多挑战。"
+          "en": "The olfactory system helps us identify different scents in our environment.",
+          "zh": "嗅觉系统帮助我们识别环境中的不同气味。"
         },
         {
-          "en": "The team's strength lies in their ability to work together.",
-          "zh": "这个团队的优势在于他们的合作能力。"
+          "en": "Certain memories can be triggered by olfactory cues, like the smell of fresh bread.",
+          "zh": "某些记忆可以通过嗅觉提示被唤起，比如新鲜面包的气味。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'strength' as the 'string' that holds things together, symbolizing support and stability."
+        "association": "Think of 'olfactory' as relating to 'olfaction', which is the process of smelling. You can visualize a nose detecting scents."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=strength&type=2",
-      "chapter": "基本词汇 名词200 Unit 8"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=olfactory&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

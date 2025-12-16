@@ -1,69 +1,64 @@
 {
-  "generated": "2025-12-15T22:08:29.048Z",
+  "generated": "2025-12-16T22:08:14.829Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "censorship",
-      "pronunciation": "/ˈsɛn.sər.ʃɪp/",
+      "word": "epic journey from stream to sea",
+      "pronunciation": "/ˈɛpɪk ˈdʒɜrni frʌm strim tu si/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "审查制度",
-          "en": "The practice of officially examining books, movies, or other materials and suppressing unacceptable parts."
-        },
-        {
-          "pos": "n.",
-          "zh": "言论审查",
-          "en": "The control or suppression of what can be said or published."
+          "zh": "史诗般的旅程",
+          "en": "A long and adventurous journey that is significant and memorable."
         }
       ],
       "examples": [
         {
-          "en": "Censorship can limit freedom of expression in many countries.",
-          "zh": "审查制度可能限制许多国家的表达自由。"
+          "en": "The epic journey from stream to sea inspired many great stories.",
+          "zh": "从小溪到大海的史诗般旅程激发了许多伟大的故事。"
         },
         {
-          "en": "Many films face censorship before they are allowed to be released.",
-          "zh": "许多电影在允许上映之前会面临审查。"
+          "en": "Explorers often recount their epic journeys from stream to sea.",
+          "zh": "探险者们常常讲述他们从小溪到大海的史诗般旅程。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'censor' as someone who cuts out parts of a movie, similar to how a teacher might edit a student's paper."
+        "association": "Think of a hero's adventure, where they start small by a stream and grow into something grand by reaching the sea."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=censorship&type=2",
-      "chapter": "基本词汇 名词200 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=epic%20journey%20from%20stream%20to%20sea&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "similar",
-      "pronunciation": "/ˈsɪmɪlər/",
+      "word": "punishment",
+      "pronunciation": "/ˈpʌnɪʃmənt/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "相似的",
-          "en": "Having characteristics that are alike or comparable."
+          "pos": "n.",
+          "zh": "惩罚",
+          "en": "A penalty given for doing something wrong."
         },
         {
-          "pos": "adj.",
-          "zh": "类似的",
-          "en": "Not the same but quite like something else."
+          "pos": "n.",
+          "zh": "刑罚",
+          "en": "A consequence imposed on someone as a result of their actions."
         }
       ],
       "examples": [
         {
-          "en": "The two paintings are similar in style and color.",
-          "zh": "这两幅画在风格和颜色上很相似。"
+          "en": "The teacher decided on a punishment for the misbehaving students.",
+          "zh": "老师决定对不守规矩的学生施加惩罚。"
         },
         {
-          "en": "Many animals have similar habits and behaviors.",
-          "zh": "许多动物有相似的习惯和行为。"
+          "en": "Many believe that punishment should aim to correct behavior, not just to harm.",
+          "zh": "许多人认为惩罚应该旨在纠正行为，而不仅仅是造成伤害。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'similar' as 'similarly shaped' to remember it relates to likeness."
+        "association": "Think of 'punish' as a parent scolding a child, linking punishment to discipline."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=similar&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 17"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=punishment&type=2",
+      "chapter": "核心词汇 法制与犯罪 Unit 4"
     }
   ]
 }

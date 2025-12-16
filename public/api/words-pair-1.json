@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-15T22:08:29.048Z",
+  "generated": "2025-12-16T22:08:14.829Z",
   "pair": 1,
   "count": 2,
   "words": [
     {
-      "word": "pregnancy",
-      "pronunciation": "/ˈprɛɡnənsi/",
+      "word": "digital television",
+      "pronunciation": "/ˈdɪdʒɪtəl ˌtɛlɪˈvɪʒən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "怀孕",
-          "en": "The condition of carrying a developing baby in the womb."
+          "zh": "数字电视",
+          "en": "A television system that uses digital signals for broadcasting."
         },
         {
           "pos": "n.",
-          "zh": "妊娠期",
-          "en": "The period during which a woman is pregnant."
+          "zh": "数字电视",
+          "en": "A type of television that offers better quality than analog TV."
         }
       ],
       "examples": [
         {
-          "en": "Her pregnancy was a joyful surprise for the whole family.",
-          "zh": "她的怀孕对整个家庭来说是一个快乐的惊喜。"
+          "en": "Many households have switched to digital television for clearer images.",
+          "zh": "许多家庭已转向数字电视以获得更清晰的图像。"
         },
         {
-          "en": "Pregnancy can bring many physical and emotional changes.",
-          "zh": "怀孕会带来许多身体和情感上的变化。"
+          "en": "Digital television provides a wider range of channels and better sound quality.",
+          "zh": "数字电视提供更广泛的频道和更好的音质。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'pregnancy' as 'pre-gan' which sounds like 'pre-gain' – gaining a baby before birth."
+        "association": "Think of 'digital' as 'clear' and 'television' as 'viewing' — clearer viewing experience."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pregnancy&type=2",
-      "chapter": "核心词汇 法制与犯罪 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=digital%20television&type=2",
+      "chapter": "阅读真题认知词汇 短信互动电视"
     },
     {
-      "word": "bully",
-      "pronunciation": "/ˈbʊli/",
+      "word": "plagiarise",
+      "pronunciation": "/ˈpleɪdʒəˌraɪz/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "欺负",
-          "en": "To use strength or power to hurt or intimidate someone."
+          "zh": "抄袭",
+          "en": "To copy someone else's work or ideas and present them as your own."
         },
         {
-          "pos": "n.",
-          "zh": "欺负者",
-          "en": "A person who hurts or intimidates others, often repeatedly."
+          "pos": "v.",
+          "zh": "剽窃",
+          "en": "To take credit for another person's writing or intellectual property."
         }
       ],
       "examples": [
         {
-          "en": "Many students feel unsafe because of bullies in their school.",
-          "zh": "许多学生因为学校里的欺负者感到不安全。"
+          "en": "The student was accused of plagiarising an online article for his essay.",
+          "zh": "这名学生被指控在他的文章中抄袭了一篇在线文章。"
         },
         {
-          "en": "She decided to stand up to the bully and not be afraid anymore.",
-          "zh": "她决定勇敢面对欺负者，不再害怕。"
+          "en": "Plagiarising work can lead to serious academic consequences and penalties.",
+          "zh": "抄袭工作可能导致严重的学术后果和惩罚。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'bully' as someone who 'bulls' over others, dominating and intimidating them."
+        "association": "Think of 'plagiarise' as 'play' with 'a rise' in creativity, meaning you should create your own ideas instead of copying."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=bully&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=plagiarise&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 8"
     }
   ]
 }

@@ -1,763 +1,745 @@
 {
-  "generated": "2025-12-15T22:08:29.047Z",
-  "date": "2025-12-15",
+  "generated": "2025-12-16T22:08:14.828Z",
+  "date": "2025-12-16",
   "totalWords": 20,
   "words": [
     {
-      "id": "w01766",
-      "word": "pregnancy",
+      "id": "w04844",
+      "word": "digital television",
+      "type": "phrase",
+      "chapterIndex": 34,
+      "globalIndex": 4844,
+      "chapter": "ch150",
+      "chapterName": "阅读真题认知词汇 短信互动电视",
+      "pronunciation": {
+        "us": "/ˈdɪdʒɪtəl ˌtɛlɪˈvɪʒən/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "数字电视",
+          "en": "A television system that uses digital signals for broadcasting."
+        },
+        {
+          "pos": "n.",
+          "zh": "数字电视",
+          "en": "A type of television that offers better quality than analog TV."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many households have switched to digital television for clearer images.",
+          "zh": "许多家庭已转向数字电视以获得更清晰的图像。"
+        },
+        {
+          "en": "Digital television provides a wider range of channels and better sound quality.",
+          "zh": "数字电视提供更广泛的频道和更好的音质。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'digital' as 'clear' and 'television' as 'viewing' — clearer viewing experience."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=digital%20television&type=2"
+    },
+    {
+      "id": "w01349",
+      "word": "plagiarise",
       "type": "single",
-      "chapterIndex": 6,
-      "globalIndex": 1766,
+      "chapterIndex": 9,
+      "globalIndex": 1349,
+      "chapter": "ch068",
+      "chapterName": "核心词汇 青少年教育 Unit 8",
+      "pronunciation": {
+        "us": "/ˈpleɪdʒəˌraɪz/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "抄袭",
+          "en": "To copy someone else's work or ideas and present them as your own."
+        },
+        {
+          "pos": "v.",
+          "zh": "剽窃",
+          "en": "To take credit for another person's writing or intellectual property."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The student was accused of plagiarising an online article for his essay.",
+          "zh": "这名学生被指控在他的文章中抄袭了一篇在线文章。"
+        },
+        {
+          "en": "Plagiarising work can lead to serious academic consequences and penalties.",
+          "zh": "抄袭工作可能导致严重的学术后果和惩罚。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'plagiarise' as 'play' with 'a rise' in creativity, meaning you should create your own ideas instead of copying."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=plagiarise&type=2"
+    },
+    {
+      "id": "w01754",
+      "word": "offensive",
+      "type": "single",
+      "chapterIndex": 14,
+      "globalIndex": 1754,
+      "chapter": "ch088",
+      "chapterName": "核心词汇 法制与犯罪 Unit 3",
+      "pronunciation": {
+        "us": "/əˈfɛn.sɪv/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "冒犯的",
+          "en": "Causing anger or hurt feelings."
+        },
+        {
+          "pos": "n.",
+          "zh": "进攻",
+          "en": "A military attack or an aggressive action."
+        }
+      ],
+      "examples": [
+        {
+          "en": "His comments were considered offensive by many in the audience.",
+          "zh": "他的评论被许多观众视为冒犯。"
+        },
+        {
+          "en": "The country launched an offensive against its neighboring rival.",
+          "zh": "该国对其邻国对手发起了进攻。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=offensive&type=2"
+    },
+    {
+      "id": "w02428",
+      "word": "synthetic voice",
+      "type": "phrase",
+      "chapterIndex": 46,
+      "globalIndex": 2428,
+      "chapter": "ch100",
+      "chapterName": "认知词汇 动物分类 动物智力与语言习得",
+      "pronunciation": {
+        "us": "/sɪnˈθɛtɪk vɔɪs/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "合成语音",
+          "en": "A computer-generated voice that can mimic human speech."
+        },
+        {
+          "pos": "n.",
+          "zh": "虚拟声音",
+          "en": "An artificial voice used in technology for communication."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many apps now use synthetic voice for reading text aloud.",
+          "zh": "现在许多应用程序使用合成语音来朗读文本。"
+        },
+        {
+          "en": "The synthetic voice technology has improved significantly over the years.",
+          "zh": "合成语音技术在这些年中有了显著的改善。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=synthetic%20voice&type=2"
+    },
+    {
+      "id": "w01982",
+      "word": "epic journey from stream to sea",
+      "type": "phrase",
+      "chapterIndex": 82,
+      "globalIndex": 1982,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/ˈɛpɪk ˈdʒɜrni frʌm strim tu si/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "史诗般的旅程",
+          "en": "A long and adventurous journey that is significant and memorable."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The epic journey from stream to sea inspired many great stories.",
+          "zh": "从小溪到大海的史诗般旅程激发了许多伟大的故事。"
+        },
+        {
+          "en": "Explorers often recount their epic journeys from stream to sea.",
+          "zh": "探险者们常常讲述他们从小溪到大海的史诗般旅程。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a hero's adventure, where they start small by a stream and grow into something grand by reaching the sea."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=epic%20journey%20from%20stream%20to%20sea&type=2"
+    },
+    {
+      "id": "w01772",
+      "word": "punishment",
+      "type": "single",
+      "chapterIndex": 12,
+      "globalIndex": 1772,
       "chapter": "ch089",
       "chapterName": "核心词汇 法制与犯罪 Unit 4",
       "pronunciation": {
-        "us": "/ˈprɛɡnənsi/"
+        "us": "/ˈpʌnɪʃmənt/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "怀孕",
-          "en": "The condition of carrying a developing baby in the womb."
+          "zh": "惩罚",
+          "en": "A penalty given for doing something wrong."
         },
         {
           "pos": "n.",
-          "zh": "妊娠期",
-          "en": "The period during which a woman is pregnant."
+          "zh": "刑罚",
+          "en": "A consequence imposed on someone as a result of their actions."
         }
       ],
       "examples": [
         {
-          "en": "Her pregnancy was a joyful surprise for the whole family.",
-          "zh": "她的怀孕对整个家庭来说是一个快乐的惊喜。"
+          "en": "The teacher decided on a punishment for the misbehaving students.",
+          "zh": "老师决定对不守规矩的学生施加惩罚。"
         },
         {
-          "en": "Pregnancy can bring many physical and emotional changes.",
-          "zh": "怀孕会带来许多身体和情感上的变化。"
+          "en": "Many believe that punishment should aim to correct behavior, not just to harm.",
+          "zh": "许多人认为惩罚应该旨在纠正行为，而不仅仅是造成伤害。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'pregnancy' as 'pre-gan' which sounds like 'pre-gain' – gaining a baby before birth."
+        "association": "Think of 'punish' as a parent scolding a child, linking punishment to discipline."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pregnancy&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=punishment&type=2"
     },
     {
-      "id": "w01221",
-      "word": "bully",
-      "type": "single",
-      "chapterIndex": 1,
-      "globalIndex": 1221,
-      "chapter": "ch062",
-      "chapterName": "核心词汇 青少年教育 Unit 2",
-      "pronunciation": {
-        "us": "/ˈbʊli/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "欺负",
-          "en": "To use strength or power to hurt or intimidate someone."
-        },
-        {
-          "pos": "n.",
-          "zh": "欺负者",
-          "en": "A person who hurts or intimidates others, often repeatedly."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Many students feel unsafe because of bullies in their school.",
-          "zh": "许多学生因为学校里的欺负者感到不安全。"
-        },
-        {
-          "en": "She decided to stand up to the bully and not be afraid anymore.",
-          "zh": "她决定勇敢面对欺负者，不再害怕。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of a 'bully' as someone who 'bulls' over others, dominating and intimidating them."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=bully&type=2"
-    },
-    {
-      "id": "w04863",
-      "word": "lifespan",
-      "type": "single",
-      "chapterIndex": 10,
-      "globalIndex": 4863,
-      "chapter": "ch151",
-      "chapterName": "阅读真题认知词汇 英国儿童肥胖症",
-      "pronunciation": {
-        "us": "/ˈlaɪfˌspæn/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "寿命",
-          "en": "The length of time that a living thing lives."
-        },
-        {
-          "pos": "n.",
-          "zh": "使用期限",
-          "en": "The duration that something can be used effectively."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The average human lifespan has increased over the last century.",
-          "zh": "平均人类寿命在过去一个世纪中有所增加。"
-        },
-        {
-          "en": "Many products have a limited lifespan due to wear and tear.",
-          "zh": "许多产品由于磨损而有使用期限。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'life' and 'span' together, as in the span of life."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=lifespan&type=2"
-    },
-    {
-      "id": "w00647",
-      "word": "numerous",
+      "id": "w02439",
+      "word": "fluctuation",
       "type": "single",
       "chapterIndex": 7,
-      "globalIndex": 647,
-      "chapter": "ch033",
-      "chapterName": "基本词汇 形容词和副词400 Unit 13",
+      "globalIndex": 2439,
+      "chapter": "ch101",
+      "chapterName": "认知词汇 自然分类 北极的恶劣气候",
       "pronunciation": {
-        "us": "/ˈnjuːmərəs/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "许多的",
-          "en": "Existing in large quantities; a lot of something."
-        },
-        {
-          "pos": "adj.",
-          "zh": "众多的",
-          "en": "Consisting of many different items or parts."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The library has numerous books on various subjects.",
-          "zh": "图书馆有许多关于不同主题的书籍。"
-        },
-        {
-          "en": "Numerous studies show the benefits of exercise.",
-          "zh": "许多研究显示锻炼的好处。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'numerous' as 'numberous', implying many numbers.",
-        "mnemonic": "Numerous sounds like 'new meres', imagine a new sea with many shores."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=numerous&type=2"
-    },
-    {
-      "id": "w00225",
-      "word": "censorship",
-      "type": "single",
-      "chapterIndex": 5,
-      "globalIndex": 225,
-      "chapter": "ch012",
-      "chapterName": "基本词汇 名词200 Unit 2",
-      "pronunciation": {
-        "us": "/ˈsɛn.sər.ʃɪp/"
+        "us": "/ˌflʌk.tʃuˈeɪ.ʃən/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "审查制度",
-          "en": "The practice of officially examining books, movies, or other materials and suppressing unacceptable parts."
+          "zh": "波动",
+          "en": "A change or variation in something, often in a regular pattern."
         },
         {
           "pos": "n.",
-          "zh": "言论审查",
-          "en": "The control or suppression of what can be said or published."
+          "zh": "起伏",
+          "en": "An irregular change in level or amount, especially in prices or temperatures."
         }
       ],
       "examples": [
         {
-          "en": "Censorship can limit freedom of expression in many countries.",
-          "zh": "审查制度可能限制许多国家的表达自由。"
+          "en": "There was a fluctuation in the stock market last week.",
+          "zh": "上周股市出现了波动。"
         },
         {
-          "en": "Many films face censorship before they are allowed to be released.",
-          "zh": "许多电影在允许上映之前会面临审查。"
+          "en": "The temperature showed significant fluctuation during the day.",
+          "zh": "白天气温出现了显著的起伏。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'censor' as someone who cuts out parts of a movie, similar to how a teacher might edit a student's paper."
+        "association": "Think of 'fluctuation' as 'flux', which means flow or change, like waves in water."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=censorship&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=fluctuation&type=2"
     },
     {
-      "id": "w00726",
-      "word": "similar",
-      "type": "single",
-      "chapterIndex": 6,
-      "globalIndex": 726,
-      "chapter": "ch037",
-      "chapterName": "基本词汇 形容词和副词400 Unit 17",
+      "id": "w01978",
+      "word": "dog salmon",
+      "type": "phrase",
+      "chapterIndex": 78,
+      "globalIndex": 1978,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
       "pronunciation": {
-        "us": "/ˈsɪmɪlər/"
+        "us": "/dɔg ˈsælmən/"
       },
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "相似的",
-          "en": "Having characteristics that are alike or comparable."
+          "pos": "n.",
+          "zh": "狗鲑鱼",
+          "en": "A type of fish that is commonly used for dog food."
         },
         {
-          "pos": "adj.",
-          "zh": "类似的",
-          "en": "Not the same but quite like something else."
+          "pos": "n.",
+          "zh": "狗鲑鱼",
+          "en": "A fish known for its high nutritional value, often fed to dogs."
         }
       ],
       "examples": [
         {
-          "en": "The two paintings are similar in style and color.",
-          "zh": "这两幅画在风格和颜色上很相似。"
+          "en": "Dog salmon is a great source of protein for pets.",
+          "zh": "狗鲑鱼是宠物的优质蛋白质来源。"
         },
         {
-          "en": "Many animals have similar habits and behaviors.",
-          "zh": "许多动物有相似的习惯和行为。"
+          "en": "Many dog food brands include dog salmon for added nutrition.",
+          "zh": "许多狗粮品牌添加狗鲑鱼以增加营养。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'similar' as 'similarly shaped' to remember it relates to likeness."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=similar&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dog%20salmon&type=2"
     },
     {
-      "id": "w00447",
-      "word": "balanced",
-      "type": "single",
-      "chapterIndex": 7,
-      "globalIndex": 447,
-      "chapter": "ch023",
-      "chapterName": "基本词汇 形容词和副词400 Unit 3",
+      "id": "w02082",
+      "word": "natural food chain",
+      "type": "phrase",
+      "chapterIndex": 182,
+      "globalIndex": 2082,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
       "pronunciation": {
-        "us": "/ˈbælənst/"
+        "us": "/ˈnæʧərəl fuːd tʃeɪn/"
       },
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "均衡的",
-          "en": "Having different elements that are equal or in the correct proportions."
-        },
-        {
-          "pos": "v.",
-          "zh": "使平衡",
-          "en": "To make something stable by ensuring that different parts are equal."
+          "pos": "n.",
+          "zh": "自然食物链",
+          "en": "A sequence of organisms in nature where each one is eaten by the next."
         }
       ],
       "examples": [
         {
-          "en": "Eating a balanced diet is important for good health.",
-          "zh": "均衡饮食对健康非常重要。"
+          "en": "The natural food chain is essential for maintaining ecological balance.",
+          "zh": "自然食物链对于维持生态平衡至关重要。"
         },
         {
-          "en": "The teacher balanced fun and learning during the class.",
-          "zh": "老师在课堂上平衡了乐趣和学习。"
+          "en": "Humans are at the top of the natural food chain in many ecosystems.",
+          "zh": "在许多生态系统中，人类位于自然食物链的顶端。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of a scale where both sides are equal, representing balance."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=balanced&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=natural%20food%20chain&type=2"
     },
     {
-      "id": "w00152",
-      "word": "live",
+      "id": "w02321",
+      "word": "mammal",
       "type": "single",
-      "chapterIndex": 12,
-      "globalIndex": 152,
-      "chapter": "ch008",
-      "chapterName": "基本词汇 动词200 Unit 8",
+      "chapterIndex": 24,
+      "globalIndex": 2321,
+      "chapter": "ch097",
+      "chapterName": "认知词汇 动物分类 动物航行能力",
       "pronunciation": {
-        "us": "/lɪv/"
+        "us": "/ˈmæm.əl/"
       },
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "生活",
-          "en": "To be alive; to exist or have life."
+          "pos": "n.",
+          "zh": "哺乳动物",
+          "en": "A mammal is an animal that gives birth to live young and feeds them with milk."
         },
         {
-          "pos": "adj.",
-          "zh": "现场的",
-          "en": "Being performed or happening at the moment."
+          "pos": "n.",
+          "zh": "哺乳动物类",
+          "en": "Mammals are a class of animals characterized by having fur or hair."
         }
       ],
       "examples": [
         {
-          "en": "Many people choose to live in big cities for better opportunities.",
-          "zh": "许多人选择在大城市生活以获得更好的机会。"
+          "en": "Dolphins are intelligent mammals that live in the ocean.",
+          "zh": "海豚是生活在海洋中的聪明哺乳动物。"
         },
         {
-          "en": "The concert was broadcast live from the famous music hall.",
-          "zh": "音乐会在著名的音乐厅现场播出。"
+          "en": "Humans are the most advanced mammals on Earth.",
+          "zh": "人类是地球上最先进的哺乳动物。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'live' as being full of life; when we live, we experience everything around us."
+        "etymology": "The word 'mammal' comes from the Latin 'mamma', meaning 'breast', referring to their ability to nurse young."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=live&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=mammal&type=2"
     },
     {
-      "id": "w00799",
-      "word": "worthy",
-      "type": "single",
+      "id": "w02466",
+      "word": "electrical resistivity",
+      "type": "phrase",
       "chapterIndex": 19,
-      "globalIndex": 799,
-      "chapter": "ch040",
-      "chapterName": "基本词汇 形容词和副词400 Unit 20",
+      "globalIndex": 2466,
+      "chapter": "ch102",
+      "chapterName": "认知词汇 自然分类 地震",
       "pronunciation": {
-        "us": "/ˈwɜrði/"
+        "us": "/ɪˈlɛktrɪkəl rɪˈzɪstɪviːti/"
       },
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "值得的",
-          "en": "Deserving respect, attention, or support."
-        },
-        {
-          "pos": "adj.",
-          "zh": "有价值的",
-          "en": "Having value or importance."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Her efforts to help the community are truly worthy.",
-          "zh": "她为帮助社区所做的努力真的值得称赞。"
-        },
-        {
-          "en": "The book is worthy of being read by everyone.",
-          "zh": "这本书值得每个人去阅读。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'worthy' as 'worth it', meaning something is valuable or important.",
-        "mnemonic": "Worthy sounds like 'wordy', which can remind you that something worthy has a lot to say."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=worthy&type=2"
-    },
-    {
-      "id": "w00977",
-      "word": "reuse",
-      "type": "single",
-      "chapterIndex": 17,
-      "globalIndex": 977,
-      "chapter": "ch049",
-      "chapterName": "核心词汇 环境保护 Unit 4",
-      "pronunciation": {
-        "us": "/ˌriːˈjuːz/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "重复使用",
-          "en": "To use something again instead of throwing it away."
+          "pos": "n.",
+          "zh": "电阻率",
+          "en": "A measure of how strongly a material resists the flow of electric current."
         },
         {
           "pos": "n.",
-          "zh": "重复使用的行为",
-          "en": "The act of using something again."
+          "zh": "电气电阻特性",
+          "en": "The property of a substance that indicates its ability to conduct electricity."
         }
       ],
       "examples": [
         {
-          "en": "Many people choose to reuse plastic bags to reduce waste.",
-          "zh": "许多人选择重复使用塑料袋以减少浪费。"
+          "en": "Copper has low electrical resistivity, making it ideal for wiring.",
+          "zh": "铜的电阻率低，非常适合用作电线。"
         },
         {
-          "en": "Reusing old furniture can save money and help the environment.",
-          "zh": "重复使用旧家具可以省钱并保护环境。"
+          "en": "The electrical resistivity of materials varies with temperature and composition.",
+          "zh": "材料的电阻率随温度和成分而变化。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'reuse' as 'use again', which directly describes the action."
+        "association": "Think of 'resist' in resistivity as resisting the flow of electricity, like a dam holding back water."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=reuse&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=electrical%20resistivity&type=2"
     },
     {
-      "id": "w00540",
-      "word": "endangered",
+      "id": "w01979",
+      "word": "downstream",
       "type": "single",
+      "chapterIndex": 79,
+      "globalIndex": 1979,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/ˈdaʊnˌstriːm/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "下游的",
+          "en": "Located in the direction of the current of a river."
+        },
+        {
+          "pos": "adv.",
+          "zh": "在下游",
+          "en": "Towards or at a lower point in a river or stream."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The factory is located downstream from the river's source.",
+          "zh": "工厂位于河流源头的下游。"
+        },
+        {
+          "en": "Pollution flows downstream, affecting many communities.",
+          "zh": "污染流向下游，影响了许多社区。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a river flowing down from the mountains to the sea, where everything downstream is affected by what happens upstream."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=downstream&type=2"
+    },
+    {
+      "id": "w01398",
+      "word": "world-weary",
+      "type": "single",
+      "chapterIndex": 18,
+      "globalIndex": 1398,
+      "chapter": "ch070",
+      "chapterName": "核心词汇 青少年教育 Unit 10",
+      "pronunciation": {
+        "us": "/ˈwɜrldˌwɪri/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "厌世的",
+          "en": "Feeling tired and unhappy with life, often due to too many difficulties."
+        },
+        {
+          "pos": "adj.",
+          "zh": "世事烦扰的",
+          "en": "Having a sense of having seen too much of the world, leading to a loss of enthusiasm."
+        }
+      ],
+      "examples": [
+        {
+          "en": "After years of travel, he felt quite world-weary and longed for home.",
+          "zh": "经过多年的旅行，他感到非常厌世，渴望回家。"
+        },
+        {
+          "en": "Her world-weary attitude made it hard for her to enjoy new experiences.",
+          "zh": "她厌世的态度使得她很难享受新体验。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of the phrase 'weary of the world' to remember the feeling of tiredness and disillusionment."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=world-weary&type=2"
+    },
+    {
+      "id": "w01369",
+      "word": "slothful",
+      "type": "single",
+      "chapterIndex": 9,
+      "globalIndex": 1369,
+      "chapter": "ch069",
+      "chapterName": "核心词汇 青少年教育 Unit 9",
+      "pronunciation": {
+        "us": "/ˈsloʊθ.fəl/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "懒惰的",
+          "en": "Having a tendency to be lazy or inactive."
+        },
+        {
+          "pos": "adj.",
+          "zh": "迟缓的",
+          "en": "Moving slowly or lacking energy."
+        }
+      ],
+      "examples": [
+        {
+          "en": "His slothful attitude towards studying led to poor exam results.",
+          "zh": "他对学习的懒惰态度导致了糟糕的考试成绩。"
+        },
+        {
+          "en": "The slothful pace of the project frustrated the team members.",
+          "zh": "项目的缓慢进展让团队成员感到沮丧。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a 'sloth', which is known for being slow and lazy, to remember 'slothful'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=slothful&type=2"
+    },
+    {
+      "id": "w02467",
+      "word": "electromagnetic field",
+      "type": "phrase",
       "chapterIndex": 20,
-      "globalIndex": 540,
-      "chapter": "ch027",
-      "chapterName": "基本词汇 形容词和副词400 Unit 7",
+      "globalIndex": 2467,
+      "chapter": "ch102",
+      "chapterName": "认知词汇 自然分类 地震",
       "pronunciation": {
-        "us": "/ɪnˈdeɪndʒərd/"
+        "us": "/ˌiːlɛkˈtrɒmæɡnɛtɪk fiːld/"
       },
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "濒危的",
-          "en": "At risk of becoming extinct or disappearing."
+          "pos": "n.",
+          "zh": "电磁场",
+          "en": "A region around a magnet or electric current where magnetic and electric forces exist."
         },
         {
-          "pos": "adj.",
-          "zh": "面临危险的",
-          "en": "In danger of harm or destruction."
+          "pos": "n.",
+          "zh": "电磁场",
+          "en": "The physical field produced by electrically charged objects that influences other charged objects."
         }
       ],
       "examples": [
         {
-          "en": "Many species of animals are endangered due to habitat loss.",
-          "zh": "由于栖息地的丧失，许多动物物种濒临灭绝。"
+          "en": "The Earth has its own electromagnetic field that protects us from solar radiation.",
+          "zh": "地球有自己的电磁场，可以保护我们免受太阳辐射的影响。"
         },
         {
-          "en": "Conservation efforts are crucial for protecting endangered plants.",
-          "zh": "保护努力对保护濒危植物至关重要。"
+          "en": "Scientists study electromagnetic fields to improve communication technology.",
+          "zh": "科学家研究电磁场以改进通信技术。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'endanger' as being at the 'end' of existence."
+        "association": "Think of 'electromagnetic' as a combination of electricity and magnetism, both of which create fields."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=endangered&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=electromagnetic%20field&type=2"
     },
     {
-      "id": "w00980",
-      "word": "sewage",
-      "type": "single",
-      "chapterIndex": 20,
-      "globalIndex": 980,
-      "chapter": "ch049",
-      "chapterName": "核心词汇 环境保护 Unit 4",
-      "pronunciation": {
-        "us": "/ˈsuːɪdʒ/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "污水",
-          "en": "Sewage is waste water and excrement that is removed from homes and businesses."
-        },
-        {
-          "pos": "n.",
-          "zh": "污物",
-          "en": "Sewage can also refer to the solid waste material that is carried away by water."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The city is investing in a new sewage treatment plant to reduce pollution.",
-          "zh": "这个城市正在投资新的污水处理厂，以减少污染。"
-        },
-        {
-          "en": "Improper sewage disposal can lead to serious health problems for local residents.",
-          "zh": "不当的污水处理可能会导致当地居民严重的健康问题。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sewage&type=2"
-    },
-    {
-      "id": "w00988",
-      "word": "treatment",
-      "type": "single",
-      "chapterIndex": 8,
-      "globalIndex": 988,
-      "chapter": "ch050",
-      "chapterName": "核心词汇 环境保护 Unit 5",
-      "pronunciation": {
-        "us": "/ˈtriːt.mənt/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "治疗",
-          "en": "The way to help someone who is sick or has a problem."
-        },
-        {
-          "pos": "n.",
-          "zh": "对待",
-          "en": "The way someone behaves towards another person."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The treatment for the disease was effective and improved her health.",
-          "zh": "这种疾病的治疗方法很有效，改善了她的健康。"
-        },
-        {
-          "en": "His treatment of the staff was kind and respectful at all times.",
-          "zh": "他对员工的对待始终友好且尊重。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=treatment&type=2"
-    },
-    {
-      "id": "w00242",
-      "word": "cultivation",
+      "id": "w01562",
+      "word": "media",
       "type": "single",
       "chapterIndex": 2,
-      "globalIndex": 242,
-      "chapter": "ch013",
-      "chapterName": "基本词汇 名词200 Unit 3",
+      "globalIndex": 1562,
+      "chapter": "ch079",
+      "chapterName": "核心词汇 民主与权利 Unit 4",
       "pronunciation": {
-        "us": "/ˈkʌltɪˌveɪʃən/"
+        "us": "/ˈmiːdiə/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "耕作；栽培",
-          "en": "The act of growing plants or crops."
+          "zh": "媒体",
+          "en": "The means of communication, such as television, newspapers, and the internet."
         },
         {
           "pos": "n.",
-          "zh": "培养",
-          "en": "The process of developing or improving skills or qualities."
+          "zh": "媒介",
+          "en": "A way to convey information or culture, often through various channels."
         }
       ],
       "examples": [
         {
-          "en": "The cultivation of vegetables is essential for a healthy diet.",
-          "zh": "蔬菜的栽培对健康饮食至关重要。"
+          "en": "Social media has changed how we connect with each other.",
+          "zh": "社交媒体改变了我们彼此联系的方式。"
         },
         {
-          "en": "Cultivation of good habits can lead to personal success.",
-          "zh": "培养良好的习惯可以带来个人成功。"
+          "en": "The news media plays a crucial role in informing the public.",
+          "zh": "新闻媒体在通知公众方面发挥着关键作用。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'cultivation' comes from the Latin 'cultura', meaning 'to till or to nurture'."
+        "association": "Think of 'media' as a bridge that connects information to people."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cultivation&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=media&type=2"
     },
     {
-      "id": "w00092",
-      "word": "deserve",
-      "type": "single",
-      "chapterIndex": 12,
-      "globalIndex": 92,
-      "chapter": "ch005",
-      "chapterName": "基本词汇 动词200 Unit 5",
+      "id": "w02563",
+      "word": "tidal wave",
+      "type": "phrase",
+      "chapterIndex": 35,
+      "globalIndex": 2563,
+      "chapter": "ch103",
+      "chapterName": "认知词汇 自然分类 \"厄尔尼诺\"现象",
       "pronunciation": {
-        "us": "/dɪˈzɜrv/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "应得",
-          "en": "to have earned something because of your actions or qualities."
-        },
-        {
-          "pos": "v.",
-          "zh": "值得",
-          "en": "to be worthy of something, such as praise or reward."
-        }
-      ],
-      "examples": [
-        {
-          "en": "She deserves recognition for her hard work and dedication.",
-          "zh": "她因辛勤工作和奉献精神而值得被认可。"
-        },
-        {
-          "en": "After all his efforts, he truly deserves a break.",
-          "zh": "经过他所有的努力，他确实值得休息一下。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'deserve' as 'de-serve', meaning you have served well enough to earn something."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=deserve&type=2"
-    },
-    {
-      "id": "w00223",
-      "word": "catastrophe",
-      "type": "single",
-      "chapterIndex": 3,
-      "globalIndex": 223,
-      "chapter": "ch012",
-      "chapterName": "基本词汇 名词200 Unit 2",
-      "pronunciation": {
-        "us": "/kəˈtæs.trə.fi/"
+        "us": "/ˈtaɪdəl weɪv/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "灾难",
-          "en": "A sudden event that causes great damage or suffering."
+          "zh": "海啸",
+          "en": "A large ocean wave caused by underwater earthquakes or volcanic eruptions."
         },
         {
           "pos": "n.",
-          "zh": "惨败",
-          "en": "A complete failure or disaster."
+          "zh": "潮流",
+          "en": "A strong and powerful surge of water, often affecting coastal areas."
         }
       ],
       "examples": [
         {
-          "en": "The earthquake was a catastrophe that affected thousands of people.",
-          "zh": "这次地震是一次灾难，影响了数千人。"
+          "en": "The tidal wave destroyed many homes along the coast.",
+          "zh": "海啸摧毁了沿海的许多房屋。"
         },
         {
-          "en": "The company's financial crisis was a catastrophe for its employees.",
-          "zh": "公司的财务危机对员工来说是一次灾难。"
+          "en": "Scientists study tidal waves to predict future natural disasters.",
+          "zh": "科学家研究海啸以预测未来的自然灾害。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'catastrophe' comes from the Greek word 'katastrophē', meaning 'overturning' or 'sudden turn'."
+        "association": "Think of the word 'tidal' as related to tides, and 'wave' as a large wave, which helps remember its meaning."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=catastrophe&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=tidal%20wave&type=2"
     },
     {
-      "id": "w00759",
-      "word": "timely",
-      "type": "single",
-      "chapterIndex": 19,
-      "globalIndex": 759,
-      "chapter": "ch038",
-      "chapterName": "基本词汇 形容词和副词400 Unit 18",
-      "pronunciation": {
-        "us": "/ˈtaɪmli/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "及时的",
-          "en": "Happening at the right time; not late."
-        },
-        {
-          "pos": "adj.",
-          "zh": "适时的",
-          "en": "Suitable for the time; appropriate."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The timely arrival of help saved many lives during the disaster.",
-          "zh": "救援的及时到达拯救了许多生命。"
-        },
-        {
-          "en": "Her timely advice made a significant difference in my decision-making.",
-          "zh": "她的及时建议在我的决策中产生了重大影响。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'time' in 'timely' to remember it means something that is on time."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=timely&type=2"
-    },
-    {
-      "id": "w00240",
-      "word": "crisis",
-      "type": "single",
-      "chapterIndex": 20,
-      "globalIndex": 240,
-      "chapter": "ch012",
-      "chapterName": "基本词汇 名词200 Unit 2",
-      "pronunciation": {
-        "us": "/ˈkraɪsɪs/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "危机",
-          "en": "A time of intense difficulty or danger."
-        },
-        {
-          "pos": "n.",
-          "zh": "关键时刻",
-          "en": "A turning point or decisive moment in a situation."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The country faced a severe economic crisis last year.",
-          "zh": "该国去年面临严重的经济危机。"
-        },
-        {
-          "en": "During a crisis, strong leadership is essential for recovery.",
-          "zh": "在危机期间，强有力的领导对于恢复至关重要。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'crisis' comes from the Greek 'krisis', meaning 'decision' or 'judgment'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=crisis&type=2"
-    },
-    {
-      "id": "w00927",
-      "word": "devastation",
-      "type": "single",
-      "chapterIndex": 7,
-      "globalIndex": 927,
-      "chapter": "ch047",
-      "chapterName": "核心词汇 环境保护 Unit 2",
-      "pronunciation": {
-        "us": "/ˌdɛvəˈsteɪʃən/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "毁灭，破坏",
-          "en": "The act of causing great destruction or damage."
-        },
-        {
-          "pos": "n.",
-          "zh": "悲痛，痛苦",
-          "en": "Severe emotional pain or distress."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The devastation caused by the hurricane was unprecedented in recent history.",
-          "zh": "飓风造成的毁灭在最近的历史中是前所未有的。"
-        },
-        {
-          "en": "She felt a sense of devastation after losing her beloved pet.",
-          "zh": "失去心爱的宠物后，她感到一种悲痛。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'devastation' as a 'devastating situation' where everything is destroyed."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=devastation&type=2"
-    },
-    {
-      "id": "w00354",
-      "word": "strength",
+      "id": "w01654",
+      "word": "illiteracy",
       "type": "single",
       "chapterIndex": 14,
-      "globalIndex": 354,
-      "chapter": "ch018",
-      "chapterName": "基本词汇 名词200 Unit 8",
+      "globalIndex": 1654,
+      "chapter": "ch083",
+      "chapterName": "核心词汇 工作与生活 Unit 3",
       "pronunciation": {
-        "us": "/strɛŋθ/"
+        "us": "/ɪˈlɪtərəsi/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "力量",
-          "en": "The quality of being strong; the ability to endure or resist."
+          "zh": "文盲，识字率低",
+          "en": "The state of being unable to read or write."
         },
         {
           "pos": "n.",
-          "zh": "优势",
-          "en": "A strong point or advantage in a person or situation."
+          "zh": "缺乏教育，缺乏知识",
+          "en": "A lack of knowledge in a specific area due to insufficient education."
         }
       ],
       "examples": [
         {
-          "en": "Her strength helped her overcome many challenges in life.",
-          "zh": "她的力量帮助她克服了生活中的许多挑战。"
+          "en": "Illiteracy remains a significant challenge in many developing countries.",
+          "zh": "文盲在许多发展中国家仍然是一个重大挑战。"
         },
         {
-          "en": "The team's strength lies in their ability to work together.",
-          "zh": "这个团队的优势在于他们的合作能力。"
+          "en": "Programs to reduce illiteracy can improve community development.",
+          "zh": "减少文盲的项目可以改善社区发展。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'strength' as the 'string' that holds things together, symbolizing support and stability."
+        "association": "Think of 'illiteracy' as 'ill' (sick) literacy; if you are illiterate, your reading skills are sick."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=strength&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=illiteracy&type=2"
+    },
+    {
+      "id": "w02012",
+      "word": "overgraze",
+      "type": "single",
+      "chapterIndex": 112,
+      "globalIndex": 2012,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/ˌoʊvərˈɡreɪz/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "过度放牧",
+          "en": "To allow animals to eat too much grass in an area, harming the land."
+        },
+        {
+          "pos": "v.",
+          "zh": "损坏土地",
+          "en": "To damage land by letting animals eat all the vegetation."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Farmers must prevent overgrazing to protect their land's health.",
+          "zh": "农民必须防止过度放牧以保护土地的健康。"
+        },
+        {
+          "en": "Overgrazing can lead to soil erosion and loss of nutrients.",
+          "zh": "过度放牧会导致土壤侵蚀和养分流失。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'over' as too much and 'graze' as animals eating grass. Together, they mean animals eating too much grass."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=overgraze&type=2"
+    },
+    {
+      "id": "w02011",
+      "word": "olfactory",
+      "type": "single",
+      "chapterIndex": 111,
+      "globalIndex": 2011,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/ɒlˈfæk.tər.i/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "嗅觉的",
+          "en": "Relating to the sense of smell."
+        },
+        {
+          "pos": "n.",
+          "zh": "嗅觉神经",
+          "en": "A term used to describe the sensory system responsible for the sense of smell."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The olfactory system helps us identify different scents in our environment.",
+          "zh": "嗅觉系统帮助我们识别环境中的不同气味。"
+        },
+        {
+          "en": "Certain memories can be triggered by olfactory cues, like the smell of fresh bread.",
+          "zh": "某些记忆可以通过嗅觉提示被唤起，比如新鲜面包的气味。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'olfactory' as relating to 'olfaction', which is the process of smelling. You can visualize a nose detecting scents."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=olfactory&type=2"
     }
   ]
 }

@@ -1,67 +1,69 @@
 {
-  "generated": "2025-12-15T22:08:29.049Z",
+  "generated": "2025-12-16T22:08:14.829Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "treatment",
-      "pronunciation": "/ˈtriːt.mənt/",
+      "word": "world-weary",
+      "pronunciation": "/ˈwɜrldˌwɪri/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "治疗",
-          "en": "The way to help someone who is sick or has a problem."
+          "pos": "adj.",
+          "zh": "厌世的",
+          "en": "Feeling tired and unhappy with life, often due to too many difficulties."
         },
         {
-          "pos": "n.",
-          "zh": "对待",
-          "en": "The way someone behaves towards another person."
+          "pos": "adj.",
+          "zh": "世事烦扰的",
+          "en": "Having a sense of having seen too much of the world, leading to a loss of enthusiasm."
         }
       ],
       "examples": [
         {
-          "en": "The treatment for the disease was effective and improved her health.",
-          "zh": "这种疾病的治疗方法很有效，改善了她的健康。"
+          "en": "After years of travel, he felt quite world-weary and longed for home.",
+          "zh": "经过多年的旅行，他感到非常厌世，渴望回家。"
         },
         {
-          "en": "His treatment of the staff was kind and respectful at all times.",
-          "zh": "他对员工的对待始终友好且尊重。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=treatment&type=2",
-      "chapter": "核心词汇 环境保护 Unit 5"
-    },
-    {
-      "word": "cultivation",
-      "pronunciation": "/ˈkʌltɪˌveɪʃən/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "耕作；栽培",
-          "en": "The act of growing plants or crops."
-        },
-        {
-          "pos": "n.",
-          "zh": "培养",
-          "en": "The process of developing or improving skills or qualities."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The cultivation of vegetables is essential for a healthy diet.",
-          "zh": "蔬菜的栽培对健康饮食至关重要。"
-        },
-        {
-          "en": "Cultivation of good habits can lead to personal success.",
-          "zh": "培养良好的习惯可以带来个人成功。"
+          "en": "Her world-weary attitude made it hard for her to enjoy new experiences.",
+          "zh": "她厌世的态度使得她很难享受新体验。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'cultivation' comes from the Latin 'cultura', meaning 'to till or to nurture'."
+        "association": "Think of the phrase 'weary of the world' to remember the feeling of tiredness and disillusionment."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cultivation&type=2",
-      "chapter": "基本词汇 名词200 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=world-weary&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 10"
+    },
+    {
+      "word": "slothful",
+      "pronunciation": "/ˈsloʊθ.fəl/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "懒惰的",
+          "en": "Having a tendency to be lazy or inactive."
+        },
+        {
+          "pos": "adj.",
+          "zh": "迟缓的",
+          "en": "Moving slowly or lacking energy."
+        }
+      ],
+      "examples": [
+        {
+          "en": "His slothful attitude towards studying led to poor exam results.",
+          "zh": "他对学习的懒惰态度导致了糟糕的考试成绩。"
+        },
+        {
+          "en": "The slothful pace of the project frustrated the team members.",
+          "zh": "项目的缓慢进展让团队成员感到沮丧。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a 'sloth', which is known for being slow and lazy, to remember 'slothful'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=slothful&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 9"
     }
   ]
 }
