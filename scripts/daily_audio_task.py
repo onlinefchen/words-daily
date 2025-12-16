@@ -2,6 +2,7 @@ import os
 import json
 import requests
 import wave
+from datetime import datetime
 from google import genai
 from google.genai import types
 
@@ -29,9 +30,7 @@ def send_telegram(text, audio_file):
         # For now, let's try plain text to avoid parse errors, or minimal formatting.
         payload = {
             'chat_id': TELEGRAM_CHAT_ID,
-            'text': f"📅 Daily Story
-
-{text}"
+            'text': f"📅 Daily Story\n\n{text}"
         }
         r = requests.post(url_msg, data=payload)
         if r.status_code != 200:
@@ -162,5 +161,4 @@ def main():
         print(f"❌ Error generating audio: {e}")
 
 if __name__ == "__main__":
-    from datetime import datetime
     main()
