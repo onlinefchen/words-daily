@@ -30,6 +30,22 @@ jobs:
       - name: Generate daily words
         run: node scripts/generate-daily-words.js
 
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          
+      - name: Install Python dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Generate Story and Audio
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python scripts/daily_audio_task.py
+
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
