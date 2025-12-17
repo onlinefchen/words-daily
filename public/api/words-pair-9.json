@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-16T22:08:14.830Z",
+  "generated": "2025-12-17T22:08:09.453Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "tidal wave",
-      "pronunciation": "/ˈtaɪdəl weɪv/",
+      "word": "embarrassed",
+      "pronunciation": "/ɪmˈbærəst/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "海啸",
-          "en": "A large ocean wave caused by underwater earthquakes or volcanic eruptions."
+          "pos": "adj.",
+          "zh": "尴尬的",
+          "en": "Feeling self-conscious or ashamed in a social situation."
         },
         {
-          "pos": "n.",
-          "zh": "潮流",
-          "en": "A strong and powerful surge of water, often affecting coastal areas."
+          "pos": "adj.",
+          "zh": "困窘的",
+          "en": "Feeling awkward or uncomfortable due to a mistake or misunderstanding."
         }
       ],
       "examples": [
         {
-          "en": "The tidal wave destroyed many homes along the coast.",
-          "zh": "海啸摧毁了沿海的许多房屋。"
+          "en": "I felt embarrassed when I forgot my friend's name during the party.",
+          "zh": "在派对上我忘记了我朋友的名字，感到很尴尬。"
         },
         {
-          "en": "Scientists study tidal waves to predict future natural disasters.",
-          "zh": "科学家研究海啸以预测未来的自然灾害。"
+          "en": "She was embarrassed after tripping on the stage while presenting.",
+          "zh": "她在台上演讲时摔倒后感到很困窘。"
         }
       ],
       "memoryTips": {
-        "association": "Think of the word 'tidal' as related to tides, and 'wave' as a large wave, which helps remember its meaning."
+        "association": "Think of 'embarrassed' as being 'bare' in front of others, feeling exposed."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=tidal%20wave&type=2",
-      "chapter": "认知词汇 自然分类 \"厄尔尼诺\"现象"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=embarrassed&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 7"
     },
     {
-      "word": "illiteracy",
-      "pronunciation": "/ɪˈlɪtərəsi/",
+      "word": "extremism",
+      "pronunciation": "/ɪkˈstriː.mɪ.zəm/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "文盲，识字率低",
-          "en": "The state of being unable to read or write."
+          "zh": "极端主义",
+          "en": "The belief in extreme measures or actions, often for political or religious purposes."
         },
         {
           "pos": "n.",
-          "zh": "缺乏教育，缺乏知识",
-          "en": "A lack of knowledge in a specific area due to insufficient education."
+          "zh": "激进主义",
+          "en": "A view or behavior that promotes extreme ideas and actions, rejecting moderate approaches."
         }
       ],
       "examples": [
         {
-          "en": "Illiteracy remains a significant challenge in many developing countries.",
-          "zh": "文盲在许多发展中国家仍然是一个重大挑战。"
+          "en": "Many governments are working to combat religious extremism in their countries.",
+          "zh": "许多政府正在努力打击其国内的宗教极端主义。"
         },
         {
-          "en": "Programs to reduce illiteracy can improve community development.",
-          "zh": "减少文盲的项目可以改善社区发展。"
+          "en": "Extremism can lead to violence and disrupt social harmony in communities.",
+          "zh": "极端主义可能导致暴力并破坏社区的社会和谐。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'illiteracy' as 'ill' (sick) literacy; if you are illiterate, your reading skills are sick."
+        "etymology": "The word 'extremism' comes from 'extreme,' which means 'the furthest point' or 'very severe.' It adds the suffix '-ism,' indicating a belief system."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=illiteracy&type=2",
-      "chapter": "核心词汇 工作与生活 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=extremism&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 3"
     }
   ]
 }

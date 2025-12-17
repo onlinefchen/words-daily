@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-16T22:08:14.829Z",
+  "generated": "2025-12-17T22:08:09.453Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "world-weary",
-      "pronunciation": "/ˈwɜrldˌwɪri/",
+      "word": "impetuous",
+      "pronunciation": "/ɪmˈpɛtʃuəs/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "厌世的",
-          "en": "Feeling tired and unhappy with life, often due to too many difficulties."
+          "zh": "冲动的，急躁的",
+          "en": "Acting quickly and without thinking about the consequences."
         },
         {
           "pos": "adj.",
-          "zh": "世事烦扰的",
-          "en": "Having a sense of having seen too much of the world, leading to a loss of enthusiasm."
+          "zh": "猛烈的，强烈的",
+          "en": "Having a strong and sudden energy or force."
         }
       ],
       "examples": [
         {
-          "en": "After years of travel, he felt quite world-weary and longed for home.",
-          "zh": "经过多年的旅行，他感到非常厌世，渴望回家。"
+          "en": "Her impetuous decision led to unexpected problems later on.",
+          "zh": "她冲动的决定导致了后来的意外问题。"
         },
         {
-          "en": "Her world-weary attitude made it hard for her to enjoy new experiences.",
-          "zh": "她厌世的态度使得她很难享受新体验。"
+          "en": "The impetuous waves crashed against the rocky shore.",
+          "zh": "猛烈的海浪冲击着崎岖的海岸。"
         }
       ],
       "memoryTips": {
-        "association": "Think of the phrase 'weary of the world' to remember the feeling of tiredness and disillusionment."
+        "association": "Think of 'impetuous' as someone who 'impulsively' jumps into action without thinking."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=world-weary&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 10"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=impetuous&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 5"
     },
     {
-      "word": "slothful",
-      "pronunciation": "/ˈsloʊθ.fəl/",
+      "word": "slavish",
+      "pronunciation": "/ˈsleɪvɪʃ/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "懒惰的",
-          "en": "Having a tendency to be lazy or inactive."
+          "zh": "奴隶般的；盲从的",
+          "en": "Relating to being a slave or someone who is too obedient."
         },
         {
           "pos": "adj.",
-          "zh": "迟缓的",
-          "en": "Moving slowly or lacking energy."
+          "zh": "缺乏独立性",
+          "en": "Lacking independence or originality; overly submissive."
         }
       ],
       "examples": [
         {
-          "en": "His slothful attitude towards studying led to poor exam results.",
-          "zh": "他对学习的懒惰态度导致了糟糕的考试成绩。"
+          "en": "His slavish devotion to the company impressed everyone around him.",
+          "zh": "他对公司的盲目忠诚给周围的每个人留下了深刻印象。"
         },
         {
-          "en": "The slothful pace of the project frustrated the team members.",
-          "zh": "项目的缓慢进展让团队成员感到沮丧。"
+          "en": "She followed the slavish rules without questioning their fairness.",
+          "zh": "她毫无疑问地遵循了那些奴隶般的规则。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'sloth', which is known for being slow and lazy, to remember 'slothful'."
+        "association": "Think of 'slave' in 'slavish' to remember its meaning related to obedience."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=slothful&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 9"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=slavish&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 17"
     }
   ]
 }

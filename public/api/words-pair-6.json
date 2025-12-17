@@ -1,69 +1,70 @@
 {
-  "generated": "2025-12-16T22:08:14.829Z",
+  "generated": "2025-12-17T22:08:09.453Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "electrical resistivity",
-      "pronunciation": "/ɪˈlɛktrɪkəl rɪˈzɪstɪviːti/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "电阻率",
-          "en": "A measure of how strongly a material resists the flow of electric current."
-        },
-        {
-          "pos": "n.",
-          "zh": "电气电阻特性",
-          "en": "The property of a substance that indicates its ability to conduct electricity."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Copper has low electrical resistivity, making it ideal for wiring.",
-          "zh": "铜的电阻率低，非常适合用作电线。"
-        },
-        {
-          "en": "The electrical resistivity of materials varies with temperature and composition.",
-          "zh": "材料的电阻率随温度和成分而变化。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'resist' in resistivity as resisting the flow of electricity, like a dam holding back water."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=electrical%20resistivity&type=2",
-      "chapter": "认知词汇 自然分类 地震"
-    },
-    {
-      "word": "downstream",
-      "pronunciation": "/ˈdaʊnˌstriːm/",
+      "word": "seismic",
+      "pronunciation": "/ˈsaɪzmɪk/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "下游的",
-          "en": "Located in the direction of the current of a river."
+          "zh": "地震的",
+          "en": "Related to or caused by an earthquake."
         },
         {
-          "pos": "adv.",
-          "zh": "在下游",
-          "en": "Towards or at a lower point in a river or stream."
+          "pos": "adj.",
+          "zh": "重大的，剧烈的",
+          "en": "Significant or having a great impact."
         }
       ],
       "examples": [
         {
-          "en": "The factory is located downstream from the river's source.",
-          "zh": "工厂位于河流源头的下游。"
+          "en": "The seismic activity in the region has increased recently.",
+          "zh": "该地区的地震活动最近有所增加。"
         },
         {
-          "en": "Pollution flows downstream, affecting many communities.",
-          "zh": "污染流向下游，影响了许多社区。"
+          "en": "Their seismic changes in policy affected many people's lives.",
+          "zh": "他们政策上的重大变化影响了许多人的生活。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a river flowing down from the mountains to the sea, where everything downstream is affected by what happens upstream."
+        "etymology": "The word 'seismic' comes from the Greek word 'seismos' meaning 'earthquake'.",
+        "association": "Think of 'seismic' as relating to 'seas' and 'waves', since earthquakes create waves in the ground."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=downstream&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=seismic&type=2",
+      "chapter": "认知词汇 自然分类 地震"
+    },
+    {
+      "word": "recognisable",
+      "pronunciation": "/ˈrɛkəɡˌnaɪzəbl/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "可识别的",
+          "en": "Able to be recognized or identified."
+        },
+        {
+          "pos": "adj.",
+          "zh": "公认的",
+          "en": "Known or accepted by many people."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The logo is easily recognisable from a distance.",
+          "zh": "这个标志从远处很容易被识别。"
+        },
+        {
+          "en": "Her style is unique but still recognisable.",
+          "zh": "她的风格很独特，但仍然可以识别。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'recognise' as 're-cognise', meaning to know again. This helps remember that something recognisable is known or identified."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=recognisable&type=2",
+      "chapter": "认知词汇 动物分类 动物智力与语言习得"
     }
   ]
 }

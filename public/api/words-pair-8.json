@@ -1,69 +1,67 @@
 {
-  "generated": "2025-12-16T22:08:14.830Z",
+  "generated": "2025-12-17T22:08:09.453Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "electromagnetic field",
-      "pronunciation": "/ˌiːlɛkˈtrɒmæɡnɛtɪk fiːld/",
+      "word": "distinctive",
+      "pronunciation": "/dɪˈstɪŋktɪv/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "电磁场",
-          "en": "A region around a magnet or electric current where magnetic and electric forces exist."
+          "pos": "adj.",
+          "zh": "独特的",
+          "en": "Something that is unique and easily recognized."
         },
         {
-          "pos": "n.",
-          "zh": "电磁场",
-          "en": "The physical field produced by electrically charged objects that influences other charged objects."
+          "pos": "adj.",
+          "zh": "显著的",
+          "en": "Having a quality that makes it stand out from others."
         }
       ],
       "examples": [
         {
-          "en": "The Earth has its own electromagnetic field that protects us from solar radiation.",
-          "zh": "地球有自己的电磁场，可以保护我们免受太阳辐射的影响。"
+          "en": "The artist has a distinctive style that everyone admires.",
+          "zh": "这位艺术家有一种人人钦佩的独特风格。"
         },
         {
-          "en": "Scientists study electromagnetic fields to improve communication technology.",
-          "zh": "科学家研究电磁场以改进通信技术。"
+          "en": "Her voice is distinctive and can be recognized immediately.",
+          "zh": "她的声音很独特，可以立即被识别。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'electromagnetic' as a combination of electricity and magnetism, both of which create fields."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=electromagnetic%20field&type=2",
-      "chapter": "认知词汇 自然分类 地震"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=distinctive&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 6"
     },
     {
-      "word": "media",
-      "pronunciation": "/ˈmiːdiə/",
+      "word": "withdraw",
+      "pronunciation": "/wɪðˈdrɔ/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "媒体",
-          "en": "The means of communication, such as television, newspapers, and the internet."
+          "pos": "v.",
+          "zh": "撤回，取回",
+          "en": "To take back or remove something that was given or said."
         },
         {
-          "pos": "n.",
-          "zh": "媒介",
-          "en": "A way to convey information or culture, often through various channels."
+          "pos": "v.",
+          "zh": "撤退，退出",
+          "en": "To leave a place or situation, often for safety or strategy."
         }
       ],
       "examples": [
         {
-          "en": "Social media has changed how we connect with each other.",
-          "zh": "社交媒体改变了我们彼此联系的方式。"
+          "en": "She decided to withdraw her application after the interview.",
+          "zh": "面试后，她决定撤回她的申请。"
         },
         {
-          "en": "The news media plays a crucial role in informing the public.",
-          "zh": "新闻媒体在通知公众方面发挥着关键作用。"
+          "en": "The army had to withdraw from the battlefield to regroup.",
+          "zh": "军队不得不从战场撤退以重新集结。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'media' as a bridge that connects information to people."
+        "association": "Think of 'withdraw' as 'with-draw', like drawing back from something."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=media&type=2",
-      "chapter": "核心词汇 民主与权利 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=withdraw&type=2",
+      "chapter": "基本词汇 动词200 Unit 10"
     }
   ]
 }

@@ -1,65 +1,69 @@
 {
-  "generated": "2025-12-16T22:08:14.829Z",
+  "generated": "2025-12-17T22:08:09.453Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "offensive",
-      "pronunciation": "/əˈfɛn.sɪv/",
+      "word": "elimination",
+      "pronunciation": "/ɪˌlɪməˈneɪʃən/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "消除",
+          "en": "The act of removing something completely."
+        },
+        {
+          "pos": "n.",
+          "zh": "淘汰",
+          "en": "The process of getting rid of something that is no longer needed."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The elimination of waste is crucial for a cleaner environment.",
+          "zh": "消除废物对更清洁的环境至关重要。"
+        },
+        {
+          "en": "Their elimination from the competition surprised everyone last year.",
+          "zh": "他们去年在比赛中的淘汰让所有人感到惊讶。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'elimination' comes from the Latin 'eliminare', meaning 'to remove' or 'to turn out.'"
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=elimination&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 3"
+    },
+    {
+      "word": "essential",
+      "pronunciation": "/ɪˈsɛnʃəl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "冒犯的",
-          "en": "Causing anger or hurt feelings."
+          "zh": "必要的",
+          "en": "Very important and necessary for something."
         },
         {
           "pos": "n.",
-          "zh": "进攻",
-          "en": "A military attack or an aggressive action."
+          "zh": "基本要素",
+          "en": "A basic part or element of something."
         }
       ],
       "examples": [
         {
-          "en": "His comments were considered offensive by many in the audience.",
-          "zh": "他的评论被许多观众视为冒犯。"
+          "en": "Water is essential for all forms of life on Earth.",
+          "zh": "水对地球上所有生命形式都是必要的。"
         },
         {
-          "en": "The country launched an offensive against its neighboring rival.",
-          "zh": "该国对其邻国对手发起了进攻。"
+          "en": "Good communication skills are essential in any job.",
+          "zh": "良好的沟通技巧在任何工作中都是必要的。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=offensive&type=2",
-      "chapter": "核心词汇 法制与犯罪 Unit 3"
-    },
-    {
-      "word": "synthetic voice",
-      "pronunciation": "/sɪnˈθɛtɪk vɔɪs/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "合成语音",
-          "en": "A computer-generated voice that can mimic human speech."
-        },
-        {
-          "pos": "n.",
-          "zh": "虚拟声音",
-          "en": "An artificial voice used in technology for communication."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Many apps now use synthetic voice for reading text aloud.",
-          "zh": "现在许多应用程序使用合成语音来朗读文本。"
-        },
-        {
-          "en": "The synthetic voice technology has improved significantly over the years.",
-          "zh": "合成语音技术在这些年中有了显著的改善。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=synthetic%20voice&type=2",
-      "chapter": "认知词汇 动物分类 动物智力与语言习得"
+      "memoryTips": {
+        "association": "Think of 'essential' as 'essence', meaning the core or most important part."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=essential&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 8"
     }
   ]
 }

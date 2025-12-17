@@ -1,69 +1,64 @@
 {
-  "generated": "2025-12-16T22:08:14.829Z",
+  "generated": "2025-12-17T22:08:09.452Z",
   "pair": 1,
   "count": 2,
   "words": [
     {
-      "word": "digital television",
-      "pronunciation": "/ˈdɪdʒɪtəl ˌtɛlɪˈvɪʒən/",
+      "word": "poor command of English",
+      "pronunciation": "/pʊr kəˈmænd əv ˈɪŋɡlɪʃ/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "数字电视",
-          "en": "A television system that uses digital signals for broadcasting."
-        },
-        {
-          "pos": "n.",
-          "zh": "数字电视",
-          "en": "A type of television that offers better quality than analog TV."
+          "pos": "adj.",
+          "zh": "英语水平差",
+          "en": "Having a limited ability to understand or use English."
         }
       ],
       "examples": [
         {
-          "en": "Many households have switched to digital television for clearer images.",
-          "zh": "许多家庭已转向数字电视以获得更清晰的图像。"
+          "en": "Many students struggle with a poor command of English.",
+          "zh": "许多学生在英语能力差方面挣扎。"
         },
         {
-          "en": "Digital television provides a wider range of channels and better sound quality.",
-          "zh": "数字电视提供更广泛的频道和更好的音质。"
+          "en": "His poor command of English affects his job opportunities.",
+          "zh": "他英语水平差影响了他的就业机会。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'digital' as 'clear' and 'television' as 'viewing' — clearer viewing experience."
+        "association": "Think of 'poor command' as having weak control over a language, similar to being unable to steer a ship properly."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=digital%20television&type=2",
-      "chapter": "阅读真题认知词汇 短信互动电视"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=poor%20command%20of%20English&type=2",
+      "chapter": "认知词汇 教育分类 双语教育"
     },
     {
-      "word": "plagiarise",
-      "pronunciation": "/ˈpleɪdʒəˌraɪz/",
+      "word": "distasteful",
+      "pronunciation": "/dɪsˈteɪstfəl/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "抄袭",
-          "en": "To copy someone else's work or ideas and present them as your own."
+          "pos": "adj.",
+          "zh": "令人反感的",
+          "en": "Something that is unpleasant or offensive."
         },
         {
-          "pos": "v.",
-          "zh": "剽窃",
-          "en": "To take credit for another person's writing or intellectual property."
+          "pos": "adj.",
+          "zh": "不合口味的",
+          "en": "Referring to something that is not to one's liking."
         }
       ],
       "examples": [
         {
-          "en": "The student was accused of plagiarising an online article for his essay.",
-          "zh": "这名学生被指控在他的文章中抄袭了一篇在线文章。"
+          "en": "Many found the movie's graphic scenes to be quite distasteful.",
+          "zh": "许多人觉得电影的血腥场景非常令人反感。"
         },
         {
-          "en": "Plagiarising work can lead to serious academic consequences and penalties.",
-          "zh": "抄袭工作可能导致严重的学术后果和惩罚。"
+          "en": "The distasteful remarks during the meeting upset everyone present.",
+          "zh": "会议中的不当言论让在场的每个人都感到不快。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'plagiarise' as 'play' with 'a rise' in creativity, meaning you should create your own ideas instead of copying."
+        "association": "Think of 'distasteful' as 'distant taste'; something far from your taste or preference."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=plagiarise&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 8"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=distasteful&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 6"
     }
   ]
 }

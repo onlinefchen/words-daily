@@ -1,67 +1,70 @@
 {
-  "generated": "2025-12-16T22:08:14.829Z",
+  "generated": "2025-12-17T22:08:09.453Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "fluctuation",
-      "pronunciation": "/ˌflʌk.tʃuˈeɪ.ʃən/",
+      "word": "sensational",
+      "pronunciation": "/sɛnˈseɪʃənl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "波动",
-          "en": "A change or variation in something, often in a regular pattern."
+          "pos": "adj.",
+          "zh": "轰动的",
+          "en": "Very exciting or surprising, often in a way that attracts a lot of attention."
         },
         {
-          "pos": "n.",
-          "zh": "起伏",
-          "en": "An irregular change in level or amount, especially in prices or temperatures."
+          "pos": "adj.",
+          "zh": "极好的",
+          "en": "Extremely good or impressive, usually in a way that stands out."
         }
       ],
       "examples": [
         {
-          "en": "There was a fluctuation in the stock market last week.",
-          "zh": "上周股市出现了波动。"
+          "en": "The movie received sensational reviews from critics and audiences alike.",
+          "zh": "这部电影得到了评论家和观众的轰动评价。"
         },
         {
-          "en": "The temperature showed significant fluctuation during the day.",
-          "zh": "白天气温出现了显著的起伏。"
+          "en": "Her sensational performance in the competition amazed everyone present.",
+          "zh": "她在比赛中的精彩表现让在场的每个人都惊叹不已。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'fluctuation' as 'flux', which means flow or change, like waves in water."
+        "etymology": "The word 'sensational' comes from 'sensation', which relates to feelings and perceptions.",
+        "association": "Think of 'sensation' like a thrilling news headline that grabs your attention."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=fluctuation&type=2",
-      "chapter": "认知词汇 自然分类 北极的恶劣气候"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sensational&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 17"
     },
     {
-      "word": "dog salmon",
-      "pronunciation": "/dɔg ˈsælmən/",
+      "word": "pressure",
+      "pronunciation": "/ˈprɛʃər/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "狗鲑鱼",
-          "en": "A type of fish that is commonly used for dog food."
+          "zh": "压力",
+          "en": "The force that pushes on something or the feeling of being stressed."
         },
         {
-          "pos": "n.",
-          "zh": "狗鲑鱼",
-          "en": "A fish known for its high nutritional value, often fed to dogs."
+          "pos": "v.",
+          "zh": "施加压力",
+          "en": "To try to make someone do something by using force or influence."
         }
       ],
       "examples": [
         {
-          "en": "Dog salmon is a great source of protein for pets.",
-          "zh": "狗鲑鱼是宠物的优质蛋白质来源。"
+          "en": "The pressure of exams can lead to anxiety for many students.",
+          "zh": "考试的压力可能会导致许多学生感到焦虑。"
         },
         {
-          "en": "Many dog food brands include dog salmon for added nutrition.",
-          "zh": "许多狗粮品牌添加狗鲑鱼以增加营养。"
+          "en": "He felt the pressure to perform well in his job.",
+          "zh": "他感到在工作中表现出色的压力。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dog%20salmon&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "memoryTips": {
+        "etymology": "The word 'pressure' comes from the Latin 'pressura', meaning 'a pressing'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pressure&type=2",
+      "chapter": "核心词汇 法制与犯罪 Unit 4"
     }
   ]
 }

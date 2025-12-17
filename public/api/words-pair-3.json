@@ -1,64 +1,67 @@
 {
-  "generated": "2025-12-16T22:08:14.829Z",
+  "generated": "2025-12-17T22:08:09.453Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "epic journey from stream to sea",
-      "pronunciation": "/ˈɛpɪk ˈdʒɜrni frʌm strim tu si/",
+      "word": "disposal",
+      "pronunciation": "/dɪsˈpoʊ.zəl/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "史诗般的旅程",
-          "en": "A long and adventurous journey that is significant and memorable."
+          "zh": "处理，处置",
+          "en": "The act of getting rid of something."
+        },
+        {
+          "pos": "n.",
+          "zh": "处置权，支配权",
+          "en": "The power to make decisions about something."
         }
       ],
       "examples": [
         {
-          "en": "The epic journey from stream to sea inspired many great stories.",
-          "zh": "从小溪到大海的史诗般旅程激发了许多伟大的故事。"
+          "en": "The disposal of waste is essential for a clean environment.",
+          "zh": "废物的处理对保持环境清洁至关重要。"
         },
         {
-          "en": "Explorers often recount their epic journeys from stream to sea.",
-          "zh": "探险者们常常讲述他们从小溪到大海的史诗般旅程。"
+          "en": "She has the disposal of her funds as she sees fit.",
+          "zh": "她可以随心所欲地支配她的资金。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of a hero's adventure, where they start small by a stream and grow into something grand by reaching the sea."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=epic%20journey%20from%20stream%20to%20sea&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disposal&type=2",
+      "chapter": "核心词汇 环境保护 Unit 2"
     },
     {
-      "word": "punishment",
-      "pronunciation": "/ˈpʌnɪʃmənt/",
+      "word": "tranquil",
+      "pronunciation": "/ˈtræŋ.kwɪl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "惩罚",
-          "en": "A penalty given for doing something wrong."
+          "pos": "adj.",
+          "zh": "宁静的",
+          "en": "Calm and peaceful, without any disturbance."
         },
         {
-          "pos": "n.",
-          "zh": "刑罚",
-          "en": "A consequence imposed on someone as a result of their actions."
+          "pos": "adj.",
+          "zh": "安静的",
+          "en": "A state of quietness and serenity."
         }
       ],
       "examples": [
         {
-          "en": "The teacher decided on a punishment for the misbehaving students.",
-          "zh": "老师决定对不守规矩的学生施加惩罚。"
+          "en": "The tranquil lake reflected the clear blue sky perfectly.",
+          "zh": "宁静的湖泊完美地映照出湛蓝的天空。"
         },
         {
-          "en": "Many believe that punishment should aim to correct behavior, not just to harm.",
-          "zh": "许多人认为惩罚应该旨在纠正行为，而不仅仅是造成伤害。"
+          "en": "She found a tranquil spot in the garden to read her book.",
+          "zh": "她在花园里找到了一个宁静的地方阅读她的书。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'punish' as a parent scolding a child, linking punishment to discipline."
+        "association": "Think of a tranquil scene, like a calm lake or a peaceful forest, to remember the word."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=punishment&type=2",
-      "chapter": "核心词汇 法制与犯罪 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=tranquil&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 19"
     }
   ]
 }
