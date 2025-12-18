@@ -1,760 +1,751 @@
 {
-  "generated": "2025-12-17T22:08:09.451Z",
-  "date": "2025-12-17",
+  "generated": "2025-12-18T22:08:09.174Z",
+  "date": "2025-12-18",
   "totalWords": 20,
   "words": [
     {
-      "id": "w04208",
-      "word": "poor command of English",
+      "id": "w04995",
+      "word": "high-calorie food",
       "type": "phrase",
-      "chapterIndex": 30,
-      "globalIndex": 4208,
-      "chapter": "ch133",
-      "chapterName": "认知词汇 教育分类 双语教育",
+      "chapterIndex": 13,
+      "globalIndex": 4995,
+      "chapter": "ch155",
+      "chapterName": "阅读真题认知词汇 美国肥胖问题",
       "pronunciation": {
-        "us": "/pʊr kəˈmænd əv ˈɪŋɡlɪʃ/"
+        "us": "/haɪ ˈkæl.ə.ri fud/"
       },
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "英语水平差",
-          "en": "Having a limited ability to understand or use English."
+          "pos": "n.",
+          "zh": "高热量食物",
+          "en": "Food that contains a lot of calories, which can lead to weight gain."
         }
       ],
       "examples": [
         {
-          "en": "Many students struggle with a poor command of English.",
-          "zh": "许多学生在英语能力差方面挣扎。"
+          "en": "Eating high-calorie food regularly can increase your body weight significantly.",
+          "zh": "经常吃高热量食物会显著增加你的体重。"
         },
         {
-          "en": "His poor command of English affects his job opportunities.",
-          "zh": "他英语水平差影响了他的就业机会。"
+          "en": "Many people avoid high-calorie food to maintain a healthy diet.",
+          "zh": "许多人避免高热量食物以保持健康饮食。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=high-calorie%20food&type=2"
+    },
+    {
+      "id": "w01145",
+      "word": "heartless",
+      "type": "single",
+      "chapterIndex": 5,
+      "globalIndex": 1145,
+      "chapter": "ch058",
+      "chapterName": "核心词汇 伦理与道德 Unit 3",
+      "pronunciation": {
+        "us": "/ˈhɑrtləs/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "无情的",
+          "en": "Showing no kindness or compassion."
+        },
+        {
+          "pos": "adj.",
+          "zh": "冷酷的",
+          "en": "Cruel and insensitive to the feelings of others."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The heartless decision left many families in distress.",
+          "zh": "这个无情的决定让许多家庭陷入困境。"
+        },
+        {
+          "en": "He was heartless enough to ignore her pleas for help.",
+          "zh": "他无情到无视她求助的请求。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'poor command' as having weak control over a language, similar to being unable to steer a ship properly."
+        "association": "Think of 'heart' as kindness; removing 'less' makes it heartless, or lacking kindness."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=poor%20command%20of%20English&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=heartless&type=2"
     },
     {
-      "id": "w00519",
-      "word": "distasteful",
+      "id": "w02014",
+      "word": "rainbow trout",
+      "type": "phrase",
+      "chapterIndex": 114,
+      "globalIndex": 2014,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/ˈreɪn.boʊ traʊt/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "彩虹鳟鱼",
+          "en": "A type of fish known for its colorful skin and good taste."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The rainbow trout is popular for fishing and cooking.",
+          "zh": "彩虹鳟鱼在钓鱼和烹饪中很受欢迎。"
+        },
+        {
+          "en": "Many people enjoy the bright colors of the rainbow trout.",
+          "zh": "许多人喜欢彩虹鳟鱼鲜艳的颜色。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a rainbow in the sky and imagine a colorful fish swimming under it."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=rainbow%20trout&type=2"
+    },
+    {
+      "id": "w00759",
+      "word": "timely",
       "type": "single",
       "chapterIndex": 19,
-      "globalIndex": 519,
-      "chapter": "ch026",
-      "chapterName": "基本词汇 形容词和副词400 Unit 6",
+      "globalIndex": 759,
+      "chapter": "ch038",
+      "chapterName": "基本词汇 形容词和副词400 Unit 18",
       "pronunciation": {
-        "us": "/dɪsˈteɪstfəl/"
+        "us": "/ˈtaɪmli/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "令人反感的",
-          "en": "Something that is unpleasant or offensive."
+          "zh": "及时的",
+          "en": "Happening at the right time; not late."
         },
         {
           "pos": "adj.",
-          "zh": "不合口味的",
-          "en": "Referring to something that is not to one's liking."
+          "zh": "适时的",
+          "en": "Suitable for the time; appropriate."
         }
       ],
       "examples": [
         {
-          "en": "Many found the movie's graphic scenes to be quite distasteful.",
-          "zh": "许多人觉得电影的血腥场景非常令人反感。"
+          "en": "The timely arrival of help saved many lives during the disaster.",
+          "zh": "救援的及时到达拯救了许多生命。"
         },
         {
-          "en": "The distasteful remarks during the meeting upset everyone present.",
-          "zh": "会议中的不当言论让在场的每个人都感到不快。"
+          "en": "Her timely advice made a significant difference in my decision-making.",
+          "zh": "她的及时建议在我的决策中产生了重大影响。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'distasteful' as 'distant taste'; something far from your taste or preference."
+        "association": "Think of 'time' in 'timely' to remember it means something that is on time."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=distasteful&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=timely&type=2"
     },
     {
-      "id": "w01442",
-      "word": "elimination",
+      "id": "w01617",
+      "word": "commute",
+      "type": "single",
+      "chapterIndex": 17,
+      "globalIndex": 1617,
+      "chapter": "ch081",
+      "chapterName": "核心词汇 工作与生活 Unit 1",
+      "pronunciation": {
+        "us": "/kəˈmjuːt/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "通勤",
+          "en": "To travel regularly to work or school."
+        },
+        {
+          "pos": "n.",
+          "zh": "通勤",
+          "en": "The journey made regularly to and from work or school."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many people commute to the city for their jobs every day.",
+          "zh": "许多人每天都去城市上班。"
+        },
+        {
+          "en": "Her daily commute takes over an hour each way.",
+          "zh": "她每天的通勤单程超过一个小时。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=commute&type=2"
+    },
+    {
+      "id": "w02368",
+      "word": "inheritance",
+      "type": "single",
+      "chapterIndex": 10,
+      "globalIndex": 2368,
+      "chapter": "ch099",
+      "chapterName": "认知词汇 动物分类 动物行为",
+      "pronunciation": {
+        "us": "/ɪnˈhɛrɪtəns/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "遗产",
+          "en": "The money or property received from someone after they die."
+        },
+        {
+          "pos": "n.",
+          "zh": "继承",
+          "en": "The act of receiving something from a predecessor."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She received a large inheritance after her grandmother passed away.",
+          "zh": "她在祖母去世后继承了一笔巨额遗产。"
+        },
+        {
+          "en": "Inheritance can sometimes lead to family disputes over assets.",
+          "zh": "遗产有时会导致家庭在资产上的争执。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word comes from the Latin 'inhaerentia', meaning 'to stick to' or 'to adhere'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=inheritance&type=2"
+    },
+    {
+      "id": "w01323",
+      "word": "mature",
+      "type": "single",
+      "chapterIndex": 3,
+      "globalIndex": 1323,
+      "chapter": "ch067",
+      "chapterName": "核心词汇 青少年教育 Unit 7",
+      "pronunciation": {
+        "us": "/məˈtʃʊr/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "成熟的",
+          "en": "Fully developed and grown, not young or immature."
+        },
+        {
+          "pos": "v.",
+          "zh": "成熟",
+          "en": "To become fully developed or grown."
+        }
+      ],
+      "examples": [
+        {
+          "en": "As she matured, her views on life became more thoughtful.",
+          "zh": "随着她的成熟，她对生活的看法变得更加深思熟虑。"
+        },
+        {
+          "en": "The fruit will mature and be ready to eat in a few weeks.",
+          "zh": "这些水果将在几周内成熟，准备好食用。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'mature' comes from the Latin word 'maturus', meaning 'ripe' or 'ready'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=mature&type=2"
+    },
+    {
+      "id": "w02022",
+      "word": "sardine",
+      "type": "single",
+      "chapterIndex": 122,
+      "globalIndex": 2022,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/sɑrˈdin/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "沙丁鱼",
+          "en": "A small fish that is often packed in a can."
+        },
+        {
+          "pos": "v.",
+          "zh": "将...挤在一起",
+          "en": "To pack people or things tightly together in a small space."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The restaurant served a delicious sardine salad with fresh vegetables.",
+          "zh": "这家餐厅提供了美味的沙丁鱼沙拉，配有新鲜的蔬菜。"
+        },
+        {
+          "en": "They were sardined into the subway during rush hour.",
+          "zh": "在高峰时段，他们被挤进了地铁。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of sardines as small fish packed tightly in a can, like people in a crowded subway."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sardine&type=2"
+    },
+    {
+      "id": "w01097",
+      "word": "vernacular",
+      "type": "single",
+      "chapterIndex": 17,
+      "globalIndex": 1097,
+      "chapter": "ch055",
+      "chapterName": "核心词汇 文化与传统 Unit 5",
+      "pronunciation": {
+        "us": "/vərˈnækjələr/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "方言的",
+          "en": "Relating to the language or dialect spoken by ordinary people in a particular region."
+        },
+        {
+          "pos": "n.",
+          "zh": "方言",
+          "en": "The language or dialect that is specific to a particular group or region."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The book was written in the vernacular to reach more readers.",
+          "zh": "这本书用方言写成，以吸引更多读者。"
+        },
+        {
+          "en": "Her speech was filled with vernacular expressions from her hometown.",
+          "zh": "她的演讲中充满了家乡的方言表达。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'vernacular' comes from the Latin 'vernaculus', meaning 'native' or 'domestic'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vernacular&type=2"
+    },
+    {
+      "id": "w01622",
+      "word": "conservative",
       "type": "single",
       "chapterIndex": 2,
-      "globalIndex": 1442,
-      "chapter": "ch073",
-      "chapterName": "核心词汇 动物权益与保护 Unit 3",
+      "globalIndex": 1622,
+      "chapter": "ch082",
+      "chapterName": "核心词汇 工作与生活 Unit 2",
       "pronunciation": {
-        "us": "/ɪˌlɪməˈneɪʃən/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "消除",
-          "en": "The act of removing something completely."
-        },
-        {
-          "pos": "n.",
-          "zh": "淘汰",
-          "en": "The process of getting rid of something that is no longer needed."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The elimination of waste is crucial for a cleaner environment.",
-          "zh": "消除废物对更清洁的环境至关重要。"
-        },
-        {
-          "en": "Their elimination from the competition surprised everyone last year.",
-          "zh": "他们去年在比赛中的淘汰让所有人感到惊讶。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'elimination' comes from the Latin 'eliminare', meaning 'to remove' or 'to turn out.'"
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=elimination&type=2"
-    },
-    {
-      "id": "w00548",
-      "word": "essential",
-      "type": "single",
-      "chapterIndex": 8,
-      "globalIndex": 548,
-      "chapter": "ch028",
-      "chapterName": "基本词汇 形容词和副词400 Unit 8",
-      "pronunciation": {
-        "us": "/ɪˈsɛnʃəl/"
+        "us": "/kənˈsɜːrvətɪv/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "必要的",
-          "en": "Very important and necessary for something."
+          "zh": "保守的",
+          "en": "Holding traditional views and not wanting change."
         },
         {
           "pos": "n.",
-          "zh": "基本要素",
-          "en": "A basic part or element of something."
+          "zh": "保守派人士",
+          "en": "A person who prefers traditional values and is cautious about change."
         }
       ],
       "examples": [
         {
-          "en": "Water is essential for all forms of life on Earth.",
-          "zh": "水对地球上所有生命形式都是必要的。"
+          "en": "Many conservative politicians oppose rapid social changes.",
+          "zh": "许多保守派政治家反对快速的社会变革。"
         },
         {
-          "en": "Good communication skills are essential in any job.",
-          "zh": "良好的沟通技巧在任何工作中都是必要的。"
+          "en": "Her conservative views often clash with modern ideas.",
+          "zh": "她的保守观点常常与现代观念发生冲突。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'essential' as 'essence', meaning the core or most important part."
+        "association": "Think of 'conserve' to remember that conservatives want to maintain traditional values."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=essential&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=conservative&type=2"
     },
     {
-      "id": "w00932",
-      "word": "disposal",
+      "id": "w00673",
+      "word": "pessimistic",
       "type": "single",
-      "chapterIndex": 12,
-      "globalIndex": 932,
-      "chapter": "ch047",
-      "chapterName": "核心词汇 环境保护 Unit 2",
+      "chapterIndex": 13,
+      "globalIndex": 673,
+      "chapter": "ch034",
+      "chapterName": "基本词汇 形容词和副词400 Unit 14",
       "pronunciation": {
-        "us": "/dɪsˈpoʊ.zəl/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "处理，处置",
-          "en": "The act of getting rid of something."
-        },
-        {
-          "pos": "n.",
-          "zh": "处置权，支配权",
-          "en": "The power to make decisions about something."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The disposal of waste is essential for a clean environment.",
-          "zh": "废物的处理对保持环境清洁至关重要。"
-        },
-        {
-          "en": "She has the disposal of her funds as she sees fit.",
-          "zh": "她可以随心所欲地支配她的资金。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disposal&type=2"
-    },
-    {
-      "id": "w00764",
-      "word": "tranquil",
-      "type": "single",
-      "chapterIndex": 4,
-      "globalIndex": 764,
-      "chapter": "ch039",
-      "chapterName": "基本词汇 形容词和副词400 Unit 19",
-      "pronunciation": {
-        "us": "/ˈtræŋ.kwɪl/"
+        "us": "/ˌpɛsɪˈmɪstɪk/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "宁静的",
-          "en": "Calm and peaceful, without any disturbance."
+          "zh": "悲观的",
+          "en": "Having a negative outlook on life or expecting bad outcomes."
         },
         {
           "pos": "adj.",
-          "zh": "安静的",
-          "en": "A state of quietness and serenity."
+          "zh": "消极的",
+          "en": "Believing that the worst will happen or that things will not improve."
         }
       ],
       "examples": [
         {
-          "en": "The tranquil lake reflected the clear blue sky perfectly.",
-          "zh": "宁静的湖泊完美地映照出湛蓝的天空。"
+          "en": "Her pessimistic view made it hard to see any positive changes.",
+          "zh": "她悲观的观点使人难以看到任何积极的变化。"
         },
         {
-          "en": "She found a tranquil spot in the garden to read her book.",
-          "zh": "她在花园里找到了一个宁静的地方阅读她的书。"
+          "en": "Despite the challenges, he tried not to be pessimistic about the future.",
+          "zh": "尽管面临挑战，他试图对未来保持乐观。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a tranquil scene, like a calm lake or a peaceful forest, to remember the word."
+        "association": "Think of 'pessimistic' as 'pess' (like 'press') which can make you feel heavy and down."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=tranquil&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pessimistic&type=2"
     },
     {
-      "id": "w00722",
-      "word": "sensational",
+      "id": "w01106",
+      "word": "atrocity",
       "type": "single",
-      "chapterIndex": 2,
-      "globalIndex": 722,
-      "chapter": "ch037",
-      "chapterName": "基本词汇 形容词和副词400 Unit 17",
+      "chapterIndex": 6,
+      "globalIndex": 1106,
+      "chapter": "ch056",
+      "chapterName": "核心词汇 伦理与道德 Unit 1",
       "pronunciation": {
-        "us": "/sɛnˈseɪʃənl/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "轰动的",
-          "en": "Very exciting or surprising, often in a way that attracts a lot of attention."
-        },
-        {
-          "pos": "adj.",
-          "zh": "极好的",
-          "en": "Extremely good or impressive, usually in a way that stands out."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The movie received sensational reviews from critics and audiences alike.",
-          "zh": "这部电影得到了评论家和观众的轰动评价。"
-        },
-        {
-          "en": "Her sensational performance in the competition amazed everyone present.",
-          "zh": "她在比赛中的精彩表现让在场的每个人都惊叹不已。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'sensational' comes from 'sensation', which relates to feelings and perceptions.",
-        "association": "Think of 'sensation' like a thrilling news headline that grabs your attention."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sensational&type=2"
-    },
-    {
-      "id": "w01767",
-      "word": "pressure",
-      "type": "single",
-      "chapterIndex": 7,
-      "globalIndex": 1767,
-      "chapter": "ch089",
-      "chapterName": "核心词汇 法制与犯罪 Unit 4",
-      "pronunciation": {
-        "us": "/ˈprɛʃər/"
+        "us": "/əˈtrɑːsɪti/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "压力",
-          "en": "The force that pushes on something or the feeling of being stressed."
-        },
-        {
-          "pos": "v.",
-          "zh": "施加压力",
-          "en": "To try to make someone do something by using force or influence."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The pressure of exams can lead to anxiety for many students.",
-          "zh": "考试的压力可能会导致许多学生感到焦虑。"
-        },
-        {
-          "en": "He felt the pressure to perform well in his job.",
-          "zh": "他感到在工作中表现出色的压力。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'pressure' comes from the Latin 'pressura', meaning 'a pressing'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pressure&type=2"
-    },
-    {
-      "id": "w01447",
-      "word": "evolve",
-      "type": "single",
-      "chapterIndex": 7,
-      "globalIndex": 1447,
-      "chapter": "ch073",
-      "chapterName": "核心词汇 动物权益与保护 Unit 3",
-      "pronunciation": {
-        "us": "/ɪˈvɑlv/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "进化; 演变",
-          "en": "To develop gradually over time."
-        },
-        {
-          "pos": "v.",
-          "zh": "演变; 逐步变化",
-          "en": "To change or adapt in response to new conditions."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Species must evolve to survive in changing environments.",
-          "zh": "物种必须进化以在变化的环境中生存。"
-        },
-        {
-          "en": "Technology continues to evolve, improving our daily lives.",
-          "zh": "科技不断演变，改善我们的日常生活。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'evolve' comes from the Latin 'evolvere', which means 'to unroll' or 'to unfold'.",
-        "association": "Think of 'evolve' as 'evolving from a caterpillar to a butterfly', representing gradual change."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=evolve&type=2"
-    },
-    {
-      "id": "w00272",
-      "word": "extinction",
-      "type": "single",
-      "chapterIndex": 12,
-      "globalIndex": 272,
-      "chapter": "ch014",
-      "chapterName": "基本词汇 名词200 Unit 4",
-      "pronunciation": {
-        "us": "/ɪkˈstɪŋkʃən/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "灭绝",
-          "en": "The state of a species no longer existing."
+          "zh": "暴行",
+          "en": "An extremely cruel or terrible act."
         },
         {
           "pos": "n.",
-          "zh": "消亡",
-          "en": "The process of something coming to an end."
+          "zh": "残忍行为",
+          "en": "A shocking act that causes great suffering."
         }
       ],
       "examples": [
         {
-          "en": "Many species are facing extinction due to climate change.",
-          "zh": "许多物种因气候变化而面临灭绝。"
+          "en": "The war crimes committed during the conflict were labeled as atrocities.",
+          "zh": "冲突期间犯下的战争罪被称为暴行。"
         },
         {
-          "en": "Efforts are being made to prevent the extinction of endangered animals.",
-          "zh": "正在努力防止濒危动物的灭绝。"
+          "en": "Witnesses reported the atrocity of the attacks on innocent civilians.",
+          "zh": "目击者报告了对无辜平民袭击的残忍行为。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'extinction' comes from the Latin 'extinctio', meaning 'to extinguish'.",
-        "association": "Think of 'extinct' as something that has been 'extinguished' or 'put out', like a fire."
+        "etymology": "The word 'atrocity' comes from the Latin 'atrox', meaning cruel or fierce."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=extinction&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=atrocity&type=2"
     },
     {
-      "id": "w02507",
-      "word": "seismic",
+      "id": "w02397",
+      "word": "deduce",
       "type": "single",
-      "chapterIndex": 60,
-      "globalIndex": 2507,
-      "chapter": "ch102",
-      "chapterName": "认知词汇 自然分类 地震",
-      "pronunciation": {
-        "us": "/ˈsaɪzmɪk/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "地震的",
-          "en": "Related to or caused by an earthquake."
-        },
-        {
-          "pos": "adj.",
-          "zh": "重大的，剧烈的",
-          "en": "Significant or having a great impact."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The seismic activity in the region has increased recently.",
-          "zh": "该地区的地震活动最近有所增加。"
-        },
-        {
-          "en": "Their seismic changes in policy affected many people's lives.",
-          "zh": "他们政策上的重大变化影响了许多人的生活。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'seismic' comes from the Greek word 'seismos' meaning 'earthquake'.",
-        "association": "Think of 'seismic' as relating to 'seas' and 'waves', since earthquakes create waves in the ground."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=seismic&type=2"
-    },
-    {
-      "id": "w02422",
-      "word": "recognisable",
-      "type": "single",
-      "chapterIndex": 40,
-      "globalIndex": 2422,
+      "chapterIndex": 15,
+      "globalIndex": 2397,
       "chapter": "ch100",
       "chapterName": "认知词汇 动物分类 动物智力与语言习得",
       "pronunciation": {
-        "us": "/ˈrɛkəɡˌnaɪzəbl/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "可识别的",
-          "en": "Able to be recognized or identified."
-        },
-        {
-          "pos": "adj.",
-          "zh": "公认的",
-          "en": "Known or accepted by many people."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The logo is easily recognisable from a distance.",
-          "zh": "这个标志从远处很容易被识别。"
-        },
-        {
-          "en": "Her style is unique but still recognisable.",
-          "zh": "她的风格很独特，但仍然可以识别。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'recognise' as 're-cognise', meaning to know again. This helps remember that something recognisable is known or identified."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=recognisable&type=2"
-    },
-    {
-      "id": "w01298",
-      "word": "impetuous",
-      "type": "single",
-      "chapterIndex": 18,
-      "globalIndex": 1298,
-      "chapter": "ch065",
-      "chapterName": "核心词汇 青少年教育 Unit 5",
-      "pronunciation": {
-        "us": "/ɪmˈpɛtʃuəs/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "冲动的，急躁的",
-          "en": "Acting quickly and without thinking about the consequences."
-        },
-        {
-          "pos": "adj.",
-          "zh": "猛烈的，强烈的",
-          "en": "Having a strong and sudden energy or force."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Her impetuous decision led to unexpected problems later on.",
-          "zh": "她冲动的决定导致了后来的意外问题。"
-        },
-        {
-          "en": "The impetuous waves crashed against the rocky shore.",
-          "zh": "猛烈的海浪冲击着崎岖的海岸。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'impetuous' as someone who 'impulsively' jumps into action without thinking."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=impetuous&type=2"
-    },
-    {
-      "id": "w00728",
-      "word": "slavish",
-      "type": "single",
-      "chapterIndex": 8,
-      "globalIndex": 728,
-      "chapter": "ch037",
-      "chapterName": "基本词汇 形容词和副词400 Unit 17",
-      "pronunciation": {
-        "us": "/ˈsleɪvɪʃ/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "奴隶般的；盲从的",
-          "en": "Relating to being a slave or someone who is too obedient."
-        },
-        {
-          "pos": "adj.",
-          "zh": "缺乏独立性",
-          "en": "Lacking independence or originality; overly submissive."
-        }
-      ],
-      "examples": [
-        {
-          "en": "His slavish devotion to the company impressed everyone around him.",
-          "zh": "他对公司的盲目忠诚给周围的每个人留下了深刻印象。"
-        },
-        {
-          "en": "She followed the slavish rules without questioning their fairness.",
-          "zh": "她毫无疑问地遵循了那些奴隶般的规则。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'slave' in 'slavish' to remember its meaning related to obedience."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=slavish&type=2"
-    },
-    {
-      "id": "w00520",
-      "word": "distinctive",
-      "type": "single",
-      "chapterIndex": 20,
-      "globalIndex": 520,
-      "chapter": "ch026",
-      "chapterName": "基本词汇 形容词和副词400 Unit 6",
-      "pronunciation": {
-        "us": "/dɪˈstɪŋktɪv/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "独特的",
-          "en": "Something that is unique and easily recognized."
-        },
-        {
-          "pos": "adj.",
-          "zh": "显著的",
-          "en": "Having a quality that makes it stand out from others."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The artist has a distinctive style that everyone admires.",
-          "zh": "这位艺术家有一种人人钦佩的独特风格。"
-        },
-        {
-          "en": "Her voice is distinctive and can be recognized immediately.",
-          "zh": "她的声音很独特，可以立即被识别。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=distinctive&type=2"
-    },
-    {
-      "id": "w00200",
-      "word": "withdraw",
-      "type": "single",
-      "chapterIndex": 20,
-      "globalIndex": 200,
-      "chapter": "ch010",
-      "chapterName": "基本词汇 动词200 Unit 10",
-      "pronunciation": {
-        "us": "/wɪðˈdrɔ/"
+        "us": "/dɪˈdjuːs/"
       },
       "meanings": [
         {
           "pos": "v.",
-          "zh": "撤回，取回",
-          "en": "To take back or remove something that was given or said."
+          "zh": "推断",
+          "en": "To come to a conclusion based on reasoning or evidence."
         },
         {
           "pos": "v.",
-          "zh": "撤退，退出",
-          "en": "To leave a place or situation, often for safety or strategy."
+          "zh": "推理",
+          "en": "To infer something from the information available."
         }
       ],
       "examples": [
         {
-          "en": "She decided to withdraw her application after the interview.",
-          "zh": "面试后，她决定撤回她的申请。"
+          "en": "From the evidence presented, we can deduce the suspect's motive.",
+          "zh": "根据提供的证据，我们可以推断出嫌疑犯的动机。"
         },
         {
-          "en": "The army had to withdraw from the battlefield to regroup.",
-          "zh": "军队不得不从战场撤退以重新集结。"
+          "en": "She deduced that he was lying based on his nervous behavior.",
+          "zh": "她根据他的紧张行为推断出他在撒谎。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'withdraw' as 'with-draw', like drawing back from something."
+        "association": "Think of 'deduce' as 'de-duce,' where 'de-' is to remove and 'duce' is like 'produce.' Removing the unclear information helps you produce a clear conclusion."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=withdraw&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=deduce&type=2"
     },
     {
-      "id": "w00538",
-      "word": "embarrassed",
+      "id": "w01252",
+      "word": "disobey",
       "type": "single",
-      "chapterIndex": 18,
-      "globalIndex": 538,
-      "chapter": "ch027",
-      "chapterName": "基本词汇 形容词和副词400 Unit 7",
+      "chapterIndex": 12,
+      "globalIndex": 1252,
+      "chapter": "ch063",
+      "chapterName": "核心词汇 青少年教育 Unit 3",
       "pronunciation": {
-        "us": "/ɪmˈbærəst/"
+        "us": "/ˌdɪs.əˈbeɪ/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "违反，违抗",
+          "en": "To refuse to follow rules or instructions."
+        },
+        {
+          "pos": "v.",
+          "zh": "不服从",
+          "en": "To act contrary to what someone has asked or commanded."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Children who disobey their parents may face consequences.",
+          "zh": "不服从父母的孩子可能会面临后果。"
+        },
+        {
+          "en": "He decided to disobey the school rules during the trip.",
+          "zh": "他决定在旅行中违反学校的规定。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'disobey' as 'not obeying', which can help you remember its meaning."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disobey&type=2"
+    },
+    {
+      "id": "w01513",
+      "word": "compulsory",
+      "type": "single",
+      "chapterIndex": 13,
+      "globalIndex": 1513,
+      "chapter": "ch076",
+      "chapterName": "核心词汇 民主与权利 Unit 1",
+      "pronunciation": {
+        "us": "/kəmˈpʌlsəri/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "尴尬的",
-          "en": "Feeling self-conscious or ashamed in a social situation."
+          "zh": "强制的",
+          "en": "Required by law or a rule; mandatory."
         },
         {
           "pos": "adj.",
-          "zh": "困窘的",
-          "en": "Feeling awkward or uncomfortable due to a mistake or misunderstanding."
+          "zh": "必修的",
+          "en": "Something that must be done; not optional."
         }
       ],
       "examples": [
         {
-          "en": "I felt embarrassed when I forgot my friend's name during the party.",
-          "zh": "在派对上我忘记了我朋友的名字，感到很尴尬。"
+          "en": "In many countries, education is compulsory for children.",
+          "zh": "在许多国家，教育对儿童是强制性的。"
         },
         {
-          "en": "She was embarrassed after tripping on the stage while presenting.",
-          "zh": "她在台上演讲时摔倒后感到很困窘。"
+          "en": "The school has compulsory uniforms for all students.",
+          "zh": "这所学校要求所有学生穿校服。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'embarrassed' as being 'bare' in front of others, feeling exposed."
+        "association": "Think of 'compulsory' as 'compelled to do something', which sounds similar."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=embarrassed&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compulsory&type=2"
     },
     {
-      "id": "w01451",
-      "word": "extremism",
+      "id": "w02044",
+      "word": "billfish",
       "type": "single",
-      "chapterIndex": 11,
-      "globalIndex": 1451,
-      "chapter": "ch073",
-      "chapterName": "核心词汇 动物权益与保护 Unit 3",
+      "chapterIndex": 144,
+      "globalIndex": 2044,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
       "pronunciation": {
-        "us": "/ɪkˈstriː.mɪ.zəm/"
+        "us": "/ˈbɪlˌfɪʃ/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "极端主义",
-          "en": "The belief in extreme measures or actions, often for political or religious purposes."
+          "zh": "旗鱼",
+          "en": "A type of large fish known for its long bill and speed."
         },
         {
           "pos": "n.",
-          "zh": "激进主义",
-          "en": "A view or behavior that promotes extreme ideas and actions, rejecting moderate approaches."
+          "zh": "一种运动钓鱼的鱼",
+          "en": "A fish that is popular in sports fishing due to its size and fighting ability."
         }
       ],
       "examples": [
         {
-          "en": "Many governments are working to combat religious extremism in their countries.",
-          "zh": "许多政府正在努力打击其国内的宗教极端主义。"
+          "en": "The billfish is famous among anglers for its incredible strength.",
+          "zh": "旗鱼因其惊人的力量而在钓鱼者中闻名。"
         },
         {
-          "en": "Extremism can lead to violence and disrupt social harmony in communities.",
-          "zh": "极端主义可能导致暴力并破坏社区的社会和谐。"
+          "en": "Many billfish species are endangered due to overfishing.",
+          "zh": "由于过度捕捞，许多旗鱼种类正面临灭绝。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'extremism' comes from 'extreme,' which means 'the furthest point' or 'very severe.' It adds the suffix '-ism,' indicating a belief system."
+        "association": "Think of 'bill' as the fish's long bill and 'fish' as its aquatic nature."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=extremism&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=billfish&type=2"
     },
     {
-      "id": "w02559",
-      "word": "oscillation",
+      "id": "w01219",
+      "word": "bewilder",
       "type": "single",
-      "chapterIndex": 31,
-      "globalIndex": 2559,
-      "chapter": "ch103",
-      "chapterName": "认知词汇 自然分类 \"厄尔尼诺\"现象",
+      "chapterIndex": 19,
+      "globalIndex": 1219,
+      "chapter": "ch061",
+      "chapterName": "核心词汇 青少年教育 Unit 1",
       "pronunciation": {
-        "us": "/ˌɒs.ɪˈleɪ.ʃən/"
+        "us": "/bɪˈwɪl.dɚ/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "使困惑",
+          "en": "To make someone confused or perplexed."
+        },
+        {
+          "pos": "v.",
+          "zh": "迷失方向",
+          "en": "To cause someone to feel lost or unsure about something."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The complex instructions bewildered the students during the exam.",
+          "zh": "复杂的说明让学生在考试中感到困惑。"
+        },
+        {
+          "en": "The sudden change in plans bewildered everyone in the meeting.",
+          "zh": "计划的突然变化让会议上的每个人都感到迷惑。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'be wild' as when someone is so wild they confuse you."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=bewilder&type=2"
+    },
+    {
+      "id": "w01257",
+      "word": "dropout",
+      "type": "single",
+      "chapterIndex": 17,
+      "globalIndex": 1257,
+      "chapter": "ch063",
+      "chapterName": "核心词汇 青少年教育 Unit 3",
+      "pronunciation": {
+        "us": "/ˈdrɔːp.aʊt/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "震荡，摆动",
-          "en": "The act of moving back and forth in a regular pattern."
+          "zh": "辍学生",
+          "en": "A person who leaves school or college without finishing their studies."
         },
         {
-          "pos": "n.",
-          "zh": "波动",
-          "en": "A variation or change in a certain quantity over time."
+          "pos": "v.",
+          "zh": "辍学",
+          "en": "To stop attending school or college before completing the course."
         }
       ],
       "examples": [
         {
-          "en": "The oscillation of the pendulum creates a rhythmic sound.",
-          "zh": "摆的震荡产生了有节奏的声音。"
+          "en": "Many students become dropouts because they struggle with their studies.",
+          "zh": "许多学生因为学业困难而辍学。"
         },
         {
-          "en": "The scientist studied the oscillation of sound waves in the air.",
-          "zh": "科学家研究了空气中声波的波动。"
+          "en": "The high dropout rate in this area is a serious concern for educators.",
+          "zh": "该地区的高辍学率是教育工作者严重关切的问题。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'oscillation' as a swing that moves back and forth, just like the motion it describes."
+        "association": "Think of 'drop' as dropping out of school, emphasizing leaving behind education."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=oscillation&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dropout&type=2"
     },
     {
-      "id": "w01481",
-      "word": "predator",
+      "id": "w01206",
+      "word": "adolescence",
       "type": "single",
-      "chapterIndex": 1,
-      "globalIndex": 1481,
-      "chapter": "ch075",
-      "chapterName": "核心词汇 动物权益与保护 Unit 5",
+      "chapterIndex": 6,
+      "globalIndex": 1206,
+      "chapter": "ch061",
+      "chapterName": "核心词汇 青少年教育 Unit 1",
       "pronunciation": {
-        "us": "/ˈprɛd.ə.tɚ/"
+        "us": "/ˌæd.əˈlɛs.əns/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "捕食者",
-          "en": "An animal that hunts and eats other animals."
+          "zh": "青春期",
+          "en": "The period of life when a person develops from a child into an adult."
         },
         {
           "pos": "n.",
-          "zh": "掠夺者",
-          "en": "A person or entity that exploits others for their benefit."
+          "zh": "成长阶段",
+          "en": "The stage of development characterized by physical and emotional changes."
         }
       ],
       "examples": [
         {
-          "en": "The lion is a top predator in the African savanna ecosystem.",
-          "zh": "狮子是非洲草原生态系统中的顶级捕食者。"
+          "en": "During adolescence, many people experience significant emotional changes.",
+          "zh": "在青春期，许多人经历重大情感变化。"
         },
         {
-          "en": "In the business world, some companies act as predators, taking advantage of weaker rivals.",
-          "zh": "在商业世界中，一些公司像掠夺者一样利用较弱的竞争对手。"
+          "en": "Adolescence is a crucial time for building social skills and friendships.",
+          "zh": "青春期是建立社交技能和友谊的关键时期。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'predator' as someone who 'preys' on others, just like a hunting animal."
+        "association": "Think of 'adolescence' as the 'add-a-less' phase where kids are adding more independence but still less than adults."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=predator&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=adolescence&type=2"
+    },
+    {
+      "id": "w02230",
+      "word": "intruder",
+      "type": "single",
+      "chapterIndex": 330,
+      "globalIndex": 2230,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/ɪnˈtruːdər/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "入侵者",
+          "en": "A person who enters a place without permission."
+        },
+        {
+          "pos": "n.",
+          "zh": "侵扰者",
+          "en": "Someone who disrupts a situation or activity."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The intruder was caught by the security cameras at night.",
+          "zh": "入侵者在夜间被监控摄像头捕捉到。"
+        },
+        {
+          "en": "She felt like an intruder in the close-knit community.",
+          "zh": "她感觉自己在这个紧密团结的社区中像个入侵者。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of an 'intruder' as someone who 'intrudes' into your space or privacy."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=intruder&type=2"
     }
   ]
 }

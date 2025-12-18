@@ -1,70 +1,69 @@
 {
-  "generated": "2025-12-17T22:08:09.453Z",
+  "generated": "2025-12-18T22:08:09.176Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "seismic",
-      "pronunciation": "/ˈsaɪzmɪk/",
+      "word": "pessimistic",
+      "pronunciation": "/ˌpɛsɪˈmɪstɪk/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "地震的",
-          "en": "Related to or caused by an earthquake."
+          "zh": "悲观的",
+          "en": "Having a negative outlook on life or expecting bad outcomes."
         },
         {
           "pos": "adj.",
-          "zh": "重大的，剧烈的",
-          "en": "Significant or having a great impact."
+          "zh": "消极的",
+          "en": "Believing that the worst will happen or that things will not improve."
         }
       ],
       "examples": [
         {
-          "en": "The seismic activity in the region has increased recently.",
-          "zh": "该地区的地震活动最近有所增加。"
+          "en": "Her pessimistic view made it hard to see any positive changes.",
+          "zh": "她悲观的观点使人难以看到任何积极的变化。"
         },
         {
-          "en": "Their seismic changes in policy affected many people's lives.",
-          "zh": "他们政策上的重大变化影响了许多人的生活。"
+          "en": "Despite the challenges, he tried not to be pessimistic about the future.",
+          "zh": "尽管面临挑战，他试图对未来保持乐观。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'seismic' comes from the Greek word 'seismos' meaning 'earthquake'.",
-        "association": "Think of 'seismic' as relating to 'seas' and 'waves', since earthquakes create waves in the ground."
+        "association": "Think of 'pessimistic' as 'pess' (like 'press') which can make you feel heavy and down."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=seismic&type=2",
-      "chapter": "认知词汇 自然分类 地震"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pessimistic&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 14"
     },
     {
-      "word": "recognisable",
-      "pronunciation": "/ˈrɛkəɡˌnaɪzəbl/",
+      "word": "atrocity",
+      "pronunciation": "/əˈtrɑːsɪti/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "可识别的",
-          "en": "Able to be recognized or identified."
+          "pos": "n.",
+          "zh": "暴行",
+          "en": "An extremely cruel or terrible act."
         },
         {
-          "pos": "adj.",
-          "zh": "公认的",
-          "en": "Known or accepted by many people."
+          "pos": "n.",
+          "zh": "残忍行为",
+          "en": "A shocking act that causes great suffering."
         }
       ],
       "examples": [
         {
-          "en": "The logo is easily recognisable from a distance.",
-          "zh": "这个标志从远处很容易被识别。"
+          "en": "The war crimes committed during the conflict were labeled as atrocities.",
+          "zh": "冲突期间犯下的战争罪被称为暴行。"
         },
         {
-          "en": "Her style is unique but still recognisable.",
-          "zh": "她的风格很独特，但仍然可以识别。"
+          "en": "Witnesses reported the atrocity of the attacks on innocent civilians.",
+          "zh": "目击者报告了对无辜平民袭击的残忍行为。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'recognise' as 're-cognise', meaning to know again. This helps remember that something recognisable is known or identified."
+        "etymology": "The word 'atrocity' comes from the Latin 'atrox', meaning cruel or fierce."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=recognisable&type=2",
-      "chapter": "认知词汇 动物分类 动物智力与语言习得"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=atrocity&type=2",
+      "chapter": "核心词汇 伦理与道德 Unit 1"
     }
   ]
 }

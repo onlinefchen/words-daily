@@ -1,71 +1,69 @@
 {
-  "generated": "2025-12-17T22:08:09.453Z",
+  "generated": "2025-12-18T22:08:09.176Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "evolve",
-      "pronunciation": "/ɪˈvɑlv/",
+      "word": "vernacular",
+      "pronunciation": "/vərˈnækjələr/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "进化; 演变",
-          "en": "To develop gradually over time."
+          "pos": "adj.",
+          "zh": "方言的",
+          "en": "Relating to the language or dialect spoken by ordinary people in a particular region."
         },
         {
-          "pos": "v.",
-          "zh": "演变; 逐步变化",
-          "en": "To change or adapt in response to new conditions."
+          "pos": "n.",
+          "zh": "方言",
+          "en": "The language or dialect that is specific to a particular group or region."
         }
       ],
       "examples": [
         {
-          "en": "Species must evolve to survive in changing environments.",
-          "zh": "物种必须进化以在变化的环境中生存。"
+          "en": "The book was written in the vernacular to reach more readers.",
+          "zh": "这本书用方言写成，以吸引更多读者。"
         },
         {
-          "en": "Technology continues to evolve, improving our daily lives.",
-          "zh": "科技不断演变，改善我们的日常生活。"
+          "en": "Her speech was filled with vernacular expressions from her hometown.",
+          "zh": "她的演讲中充满了家乡的方言表达。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'evolve' comes from the Latin 'evolvere', which means 'to unroll' or 'to unfold'.",
-        "association": "Think of 'evolve' as 'evolving from a caterpillar to a butterfly', representing gradual change."
+        "etymology": "The word 'vernacular' comes from the Latin 'vernaculus', meaning 'native' or 'domestic'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=evolve&type=2",
-      "chapter": "核心词汇 动物权益与保护 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vernacular&type=2",
+      "chapter": "核心词汇 文化与传统 Unit 5"
     },
     {
-      "word": "extinction",
-      "pronunciation": "/ɪkˈstɪŋkʃən/",
+      "word": "conservative",
+      "pronunciation": "/kənˈsɜːrvətɪv/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "灭绝",
-          "en": "The state of a species no longer existing."
+          "pos": "adj.",
+          "zh": "保守的",
+          "en": "Holding traditional views and not wanting change."
         },
         {
           "pos": "n.",
-          "zh": "消亡",
-          "en": "The process of something coming to an end."
+          "zh": "保守派人士",
+          "en": "A person who prefers traditional values and is cautious about change."
         }
       ],
       "examples": [
         {
-          "en": "Many species are facing extinction due to climate change.",
-          "zh": "许多物种因气候变化而面临灭绝。"
+          "en": "Many conservative politicians oppose rapid social changes.",
+          "zh": "许多保守派政治家反对快速的社会变革。"
         },
         {
-          "en": "Efforts are being made to prevent the extinction of endangered animals.",
-          "zh": "正在努力防止濒危动物的灭绝。"
+          "en": "Her conservative views often clash with modern ideas.",
+          "zh": "她的保守观点常常与现代观念发生冲突。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'extinction' comes from the Latin 'extinctio', meaning 'to extinguish'.",
-        "association": "Think of 'extinct' as something that has been 'extinguished' or 'put out', like a fire."
+        "association": "Think of 'conserve' to remember that conservatives want to maintain traditional values."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=extinction&type=2",
-      "chapter": "基本词汇 名词200 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=conservative&type=2",
+      "chapter": "核心词汇 工作与生活 Unit 2"
     }
   ]
 }

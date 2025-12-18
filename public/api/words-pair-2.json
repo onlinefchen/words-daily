@@ -1,69 +1,64 @@
 {
-  "generated": "2025-12-17T22:08:09.453Z",
+  "generated": "2025-12-18T22:08:09.176Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "elimination",
-      "pronunciation": "/ɪˌlɪməˈneɪʃən/",
+      "word": "rainbow trout",
+      "pronunciation": "/ˈreɪn.boʊ traʊt/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "消除",
-          "en": "The act of removing something completely."
-        },
-        {
-          "pos": "n.",
-          "zh": "淘汰",
-          "en": "The process of getting rid of something that is no longer needed."
+          "zh": "彩虹鳟鱼",
+          "en": "A type of fish known for its colorful skin and good taste."
         }
       ],
       "examples": [
         {
-          "en": "The elimination of waste is crucial for a cleaner environment.",
-          "zh": "消除废物对更清洁的环境至关重要。"
+          "en": "The rainbow trout is popular for fishing and cooking.",
+          "zh": "彩虹鳟鱼在钓鱼和烹饪中很受欢迎。"
         },
         {
-          "en": "Their elimination from the competition surprised everyone last year.",
-          "zh": "他们去年在比赛中的淘汰让所有人感到惊讶。"
+          "en": "Many people enjoy the bright colors of the rainbow trout.",
+          "zh": "许多人喜欢彩虹鳟鱼鲜艳的颜色。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'elimination' comes from the Latin 'eliminare', meaning 'to remove' or 'to turn out.'"
+        "association": "Think of a rainbow in the sky and imagine a colorful fish swimming under it."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=elimination&type=2",
-      "chapter": "核心词汇 动物权益与保护 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=rainbow%20trout&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "essential",
-      "pronunciation": "/ɪˈsɛnʃəl/",
+      "word": "timely",
+      "pronunciation": "/ˈtaɪmli/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "必要的",
-          "en": "Very important and necessary for something."
+          "zh": "及时的",
+          "en": "Happening at the right time; not late."
         },
         {
-          "pos": "n.",
-          "zh": "基本要素",
-          "en": "A basic part or element of something."
+          "pos": "adj.",
+          "zh": "适时的",
+          "en": "Suitable for the time; appropriate."
         }
       ],
       "examples": [
         {
-          "en": "Water is essential for all forms of life on Earth.",
-          "zh": "水对地球上所有生命形式都是必要的。"
+          "en": "The timely arrival of help saved many lives during the disaster.",
+          "zh": "救援的及时到达拯救了许多生命。"
         },
         {
-          "en": "Good communication skills are essential in any job.",
-          "zh": "良好的沟通技巧在任何工作中都是必要的。"
+          "en": "Her timely advice made a significant difference in my decision-making.",
+          "zh": "她的及时建议在我的决策中产生了重大影响。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'essential' as 'essence', meaning the core or most important part."
+        "association": "Think of 'time' in 'timely' to remember it means something that is on time."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=essential&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 8"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=timely&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 18"
     }
   ]
 }

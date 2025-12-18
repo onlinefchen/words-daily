@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-17T22:08:09.453Z",
+  "generated": "2025-12-18T22:08:09.176Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "oscillation",
-      "pronunciation": "/ˌɒs.ɪˈleɪ.ʃən/",
+      "word": "adolescence",
+      "pronunciation": "/ˌæd.əˈlɛs.əns/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "震荡，摆动",
-          "en": "The act of moving back and forth in a regular pattern."
+          "zh": "青春期",
+          "en": "The period of life when a person develops from a child into an adult."
         },
         {
           "pos": "n.",
-          "zh": "波动",
-          "en": "A variation or change in a certain quantity over time."
+          "zh": "成长阶段",
+          "en": "The stage of development characterized by physical and emotional changes."
         }
       ],
       "examples": [
         {
-          "en": "The oscillation of the pendulum creates a rhythmic sound.",
-          "zh": "摆的震荡产生了有节奏的声音。"
+          "en": "During adolescence, many people experience significant emotional changes.",
+          "zh": "在青春期，许多人经历重大情感变化。"
         },
         {
-          "en": "The scientist studied the oscillation of sound waves in the air.",
-          "zh": "科学家研究了空气中声波的波动。"
+          "en": "Adolescence is a crucial time for building social skills and friendships.",
+          "zh": "青春期是建立社交技能和友谊的关键时期。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'oscillation' as a swing that moves back and forth, just like the motion it describes."
+        "association": "Think of 'adolescence' as the 'add-a-less' phase where kids are adding more independence but still less than adults."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=oscillation&type=2",
-      "chapter": "认知词汇 自然分类 \"厄尔尼诺\"现象"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=adolescence&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 1"
     },
     {
-      "word": "predator",
-      "pronunciation": "/ˈprɛd.ə.tɚ/",
+      "word": "intruder",
+      "pronunciation": "/ɪnˈtruːdər/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "捕食者",
-          "en": "An animal that hunts and eats other animals."
+          "zh": "入侵者",
+          "en": "A person who enters a place without permission."
         },
         {
           "pos": "n.",
-          "zh": "掠夺者",
-          "en": "A person or entity that exploits others for their benefit."
+          "zh": "侵扰者",
+          "en": "Someone who disrupts a situation or activity."
         }
       ],
       "examples": [
         {
-          "en": "The lion is a top predator in the African savanna ecosystem.",
-          "zh": "狮子是非洲草原生态系统中的顶级捕食者。"
+          "en": "The intruder was caught by the security cameras at night.",
+          "zh": "入侵者在夜间被监控摄像头捕捉到。"
         },
         {
-          "en": "In the business world, some companies act as predators, taking advantage of weaker rivals.",
-          "zh": "在商业世界中，一些公司像掠夺者一样利用较弱的竞争对手。"
+          "en": "She felt like an intruder in the close-knit community.",
+          "zh": "她感觉自己在这个紧密团结的社区中像个入侵者。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'predator' as someone who 'preys' on others, just like a hunting animal."
+        "association": "Think of an 'intruder' as someone who 'intrudes' into your space or privacy."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=predator&type=2",
-      "chapter": "核心词汇 动物权益与保护 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=intruder&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

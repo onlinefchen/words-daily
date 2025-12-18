@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-17T22:08:09.453Z",
+  "generated": "2025-12-18T22:08:09.176Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "embarrassed",
-      "pronunciation": "/ɪmˈbærəst/",
+      "word": "bewilder",
+      "pronunciation": "/bɪˈwɪl.dɚ/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "尴尬的",
-          "en": "Feeling self-conscious or ashamed in a social situation."
+          "pos": "v.",
+          "zh": "使困惑",
+          "en": "To make someone confused or perplexed."
         },
         {
-          "pos": "adj.",
-          "zh": "困窘的",
-          "en": "Feeling awkward or uncomfortable due to a mistake or misunderstanding."
+          "pos": "v.",
+          "zh": "迷失方向",
+          "en": "To cause someone to feel lost or unsure about something."
         }
       ],
       "examples": [
         {
-          "en": "I felt embarrassed when I forgot my friend's name during the party.",
-          "zh": "在派对上我忘记了我朋友的名字，感到很尴尬。"
+          "en": "The complex instructions bewildered the students during the exam.",
+          "zh": "复杂的说明让学生在考试中感到困惑。"
         },
         {
-          "en": "She was embarrassed after tripping on the stage while presenting.",
-          "zh": "她在台上演讲时摔倒后感到很困窘。"
+          "en": "The sudden change in plans bewildered everyone in the meeting.",
+          "zh": "计划的突然变化让会议上的每个人都感到迷惑。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'embarrassed' as being 'bare' in front of others, feeling exposed."
+        "association": "Think of 'be wild' as when someone is so wild they confuse you."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=embarrassed&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 7"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=bewilder&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 1"
     },
     {
-      "word": "extremism",
-      "pronunciation": "/ɪkˈstriː.mɪ.zəm/",
+      "word": "dropout",
+      "pronunciation": "/ˈdrɔːp.aʊt/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "极端主义",
-          "en": "The belief in extreme measures or actions, often for political or religious purposes."
+          "zh": "辍学生",
+          "en": "A person who leaves school or college without finishing their studies."
         },
         {
-          "pos": "n.",
-          "zh": "激进主义",
-          "en": "A view or behavior that promotes extreme ideas and actions, rejecting moderate approaches."
+          "pos": "v.",
+          "zh": "辍学",
+          "en": "To stop attending school or college before completing the course."
         }
       ],
       "examples": [
         {
-          "en": "Many governments are working to combat religious extremism in their countries.",
-          "zh": "许多政府正在努力打击其国内的宗教极端主义。"
+          "en": "Many students become dropouts because they struggle with their studies.",
+          "zh": "许多学生因为学业困难而辍学。"
         },
         {
-          "en": "Extremism can lead to violence and disrupt social harmony in communities.",
-          "zh": "极端主义可能导致暴力并破坏社区的社会和谐。"
+          "en": "The high dropout rate in this area is a serious concern for educators.",
+          "zh": "该地区的高辍学率是教育工作者严重关切的问题。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'extremism' comes from 'extreme,' which means 'the furthest point' or 'very severe.' It adds the suffix '-ism,' indicating a belief system."
+        "association": "Think of 'drop' as dropping out of school, emphasizing leaving behind education."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=extremism&type=2",
-      "chapter": "核心词汇 动物权益与保护 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dropout&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 3"
     }
   ]
 }

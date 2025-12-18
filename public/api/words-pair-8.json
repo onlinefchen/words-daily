@@ -1,67 +1,69 @@
 {
-  "generated": "2025-12-17T22:08:09.453Z",
+  "generated": "2025-12-18T22:08:09.176Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "distinctive",
-      "pronunciation": "/dɪˈstɪŋktɪv/",
+      "word": "compulsory",
+      "pronunciation": "/kəmˈpʌlsəri/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "独特的",
-          "en": "Something that is unique and easily recognized."
+          "zh": "强制的",
+          "en": "Required by law or a rule; mandatory."
         },
         {
           "pos": "adj.",
-          "zh": "显著的",
-          "en": "Having a quality that makes it stand out from others."
+          "zh": "必修的",
+          "en": "Something that must be done; not optional."
         }
       ],
       "examples": [
         {
-          "en": "The artist has a distinctive style that everyone admires.",
-          "zh": "这位艺术家有一种人人钦佩的独特风格。"
+          "en": "In many countries, education is compulsory for children.",
+          "zh": "在许多国家，教育对儿童是强制性的。"
         },
         {
-          "en": "Her voice is distinctive and can be recognized immediately.",
-          "zh": "她的声音很独特，可以立即被识别。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=distinctive&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 6"
-    },
-    {
-      "word": "withdraw",
-      "pronunciation": "/wɪðˈdrɔ/",
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "撤回，取回",
-          "en": "To take back or remove something that was given or said."
-        },
-        {
-          "pos": "v.",
-          "zh": "撤退，退出",
-          "en": "To leave a place or situation, often for safety or strategy."
-        }
-      ],
-      "examples": [
-        {
-          "en": "She decided to withdraw her application after the interview.",
-          "zh": "面试后，她决定撤回她的申请。"
-        },
-        {
-          "en": "The army had to withdraw from the battlefield to regroup.",
-          "zh": "军队不得不从战场撤退以重新集结。"
+          "en": "The school has compulsory uniforms for all students.",
+          "zh": "这所学校要求所有学生穿校服。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'withdraw' as 'with-draw', like drawing back from something."
+        "association": "Think of 'compulsory' as 'compelled to do something', which sounds similar."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=withdraw&type=2",
-      "chapter": "基本词汇 动词200 Unit 10"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compulsory&type=2",
+      "chapter": "核心词汇 民主与权利 Unit 1"
+    },
+    {
+      "word": "billfish",
+      "pronunciation": "/ˈbɪlˌfɪʃ/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "旗鱼",
+          "en": "A type of large fish known for its long bill and speed."
+        },
+        {
+          "pos": "n.",
+          "zh": "一种运动钓鱼的鱼",
+          "en": "A fish that is popular in sports fishing due to its size and fighting ability."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The billfish is famous among anglers for its incredible strength.",
+          "zh": "旗鱼因其惊人的力量而在钓鱼者中闻名。"
+        },
+        {
+          "en": "Many billfish species are endangered due to overfishing.",
+          "zh": "由于过度捕捞，许多旗鱼种类正面临灭绝。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'bill' as the fish's long bill and 'fish' as its aquatic nature."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=billfish&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

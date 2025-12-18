@@ -1,67 +1,67 @@
 {
-  "generated": "2025-12-17T22:08:09.453Z",
+  "generated": "2025-12-18T22:08:09.176Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "disposal",
-      "pronunciation": "/dɪsˈpoʊ.zəl/",
+      "word": "commute",
+      "pronunciation": "/kəˈmjuːt/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "处理，处置",
-          "en": "The act of getting rid of something."
+          "pos": "v.",
+          "zh": "通勤",
+          "en": "To travel regularly to work or school."
         },
         {
           "pos": "n.",
-          "zh": "处置权，支配权",
-          "en": "The power to make decisions about something."
+          "zh": "通勤",
+          "en": "The journey made regularly to and from work or school."
         }
       ],
       "examples": [
         {
-          "en": "The disposal of waste is essential for a clean environment.",
-          "zh": "废物的处理对保持环境清洁至关重要。"
+          "en": "Many people commute to the city for their jobs every day.",
+          "zh": "许多人每天都去城市上班。"
         },
         {
-          "en": "She has the disposal of her funds as she sees fit.",
-          "zh": "她可以随心所欲地支配她的资金。"
+          "en": "Her daily commute takes over an hour each way.",
+          "zh": "她每天的通勤单程超过一个小时。"
         }
       ],
       "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disposal&type=2",
-      "chapter": "核心词汇 环境保护 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=commute&type=2",
+      "chapter": "核心词汇 工作与生活 Unit 1"
     },
     {
-      "word": "tranquil",
-      "pronunciation": "/ˈtræŋ.kwɪl/",
+      "word": "inheritance",
+      "pronunciation": "/ɪnˈhɛrɪtəns/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "宁静的",
-          "en": "Calm and peaceful, without any disturbance."
+          "pos": "n.",
+          "zh": "遗产",
+          "en": "The money or property received from someone after they die."
         },
         {
-          "pos": "adj.",
-          "zh": "安静的",
-          "en": "A state of quietness and serenity."
+          "pos": "n.",
+          "zh": "继承",
+          "en": "The act of receiving something from a predecessor."
         }
       ],
       "examples": [
         {
-          "en": "The tranquil lake reflected the clear blue sky perfectly.",
-          "zh": "宁静的湖泊完美地映照出湛蓝的天空。"
+          "en": "She received a large inheritance after her grandmother passed away.",
+          "zh": "她在祖母去世后继承了一笔巨额遗产。"
         },
         {
-          "en": "She found a tranquil spot in the garden to read her book.",
-          "zh": "她在花园里找到了一个宁静的地方阅读她的书。"
+          "en": "Inheritance can sometimes lead to family disputes over assets.",
+          "zh": "遗产有时会导致家庭在资产上的争执。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a tranquil scene, like a calm lake or a peaceful forest, to remember the word."
+        "etymology": "The word comes from the Latin 'inhaerentia', meaning 'to stick to' or 'to adhere'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=tranquil&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 19"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=inheritance&type=2",
+      "chapter": "认知词汇 动物分类 动物行为"
     }
   ]
 }
