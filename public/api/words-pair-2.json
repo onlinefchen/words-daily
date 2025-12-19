@@ -1,64 +1,69 @@
 {
-  "generated": "2025-12-18T22:08:09.176Z",
+  "generated": "2025-12-19T22:08:31.376Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "rainbow trout",
-      "pronunciation": "/ˈreɪn.boʊ traʊt/",
+      "word": "circulatory system",
+      "pronunciation": "/ˌsɜːr.kjəˈleɪ.tɔːr.i ˈsɪs.təm/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "彩虹鳟鱼",
-          "en": "A type of fish known for its colorful skin and good taste."
+          "zh": "循环系统",
+          "en": "The system in the body that moves blood and nutrients."
+        },
+        {
+          "pos": "n.",
+          "zh": "循环系统",
+          "en": "A network of organs and vessels that supports circulation."
         }
       ],
       "examples": [
         {
-          "en": "The rainbow trout is popular for fishing and cooking.",
-          "zh": "彩虹鳟鱼在钓鱼和烹饪中很受欢迎。"
+          "en": "The circulatory system is essential for transporting oxygen throughout the body.",
+          "zh": "循环系统对于在全身运输氧气是必不可少的。"
         },
         {
-          "en": "Many people enjoy the bright colors of the rainbow trout.",
-          "zh": "许多人喜欢彩虹鳟鱼鲜艳的颜色。"
+          "en": "Understanding the circulatory system helps us maintain good health.",
+          "zh": "了解循环系统有助于我们保持良好的健康。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a rainbow in the sky and imagine a colorful fish swimming under it."
+        "association": "Think of a 'circle' for circulation and 'system' as the organized way it works."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=rainbow%20trout&type=2",
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=circulatory%20system&type=2",
       "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "timely",
-      "pronunciation": "/ˈtaɪmli/",
+      "word": "physical",
+      "pronunciation": "/ˈfɪz.ɪ.kəl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "及时的",
-          "en": "Happening at the right time; not late."
+          "zh": "身体的",
+          "en": "Related to the body or material things."
         },
         {
           "pos": "adj.",
-          "zh": "适时的",
-          "en": "Suitable for the time; appropriate."
+          "zh": "物理的",
+          "en": "Relating to the science of matter and energy."
         }
       ],
       "examples": [
         {
-          "en": "The timely arrival of help saved many lives during the disaster.",
-          "zh": "救援的及时到达拯救了许多生命。"
+          "en": "She enjoys physical activities like running and swimming.",
+          "zh": "她喜欢跑步和游泳等身体活动。"
         },
         {
-          "en": "Her timely advice made a significant difference in my decision-making.",
-          "zh": "她的及时建议在我的决策中产生了重大影响。"
+          "en": "The teacher explained the physical laws of motion to the class.",
+          "zh": "老师向班级讲解了运动的物理定律。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'time' in 'timely' to remember it means something that is on time."
+        "association": "Think of 'physical' as relating to the 'body' or 'physical world', which is tangible and can be touched."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=timely&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 18"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=physical&type=2",
+      "chapter": "核心词汇 健康话题 Unit 4"
     }
   ]
 }

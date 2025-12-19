@@ -1,69 +1,64 @@
 {
-  "generated": "2025-12-18T22:08:09.176Z",
+  "generated": "2025-12-19T22:08:31.376Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "deduce",
-      "pronunciation": "/dɪˈdjuːs/",
+      "word": "stability",
+      "pronunciation": "/stəˈbɪləti/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "推断",
-          "en": "To come to a conclusion based on reasoning or evidence."
+          "pos": "n.",
+          "zh": "稳定性",
+          "en": "The quality of being steady and not changing."
         },
         {
-          "pos": "v.",
-          "zh": "推理",
-          "en": "To infer something from the information available."
+          "pos": "n.",
+          "zh": "稳定状态",
+          "en": "The state of being secure and not likely to fall or change."
         }
       ],
       "examples": [
         {
-          "en": "From the evidence presented, we can deduce the suspect's motive.",
-          "zh": "根据提供的证据，我们可以推断出嫌疑犯的动机。"
+          "en": "The stability of the economy is crucial for long-term growth.",
+          "zh": "经济的稳定性对长期增长至关重要。"
         },
         {
-          "en": "She deduced that he was lying based on his nervous behavior.",
-          "zh": "她根据他的紧张行为推断出他在撒谎。"
+          "en": "She values the stability of her job above all else.",
+          "zh": "她最看重的是工作的稳定性。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'deduce' as 'de-duce,' where 'de-' is to remove and 'duce' is like 'produce.' Removing the unclear information helps you produce a clear conclusion."
+        "association": "Think of a stable table that doesn't wobble; it stays steady."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=deduce&type=2",
-      "chapter": "认知词汇 动物分类 动物智力与语言习得"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=stability&type=2",
+      "chapter": "核心词汇 民主与权利 Unit 5"
     },
     {
-      "word": "disobey",
-      "pronunciation": "/ˌdɪs.əˈbeɪ/",
+      "word": "anticoagulant",
+      "pronunciation": "/ˌæntiˈkoʊ.ə.ɡə.lənt/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "违反，违抗",
-          "en": "To refuse to follow rules or instructions."
-        },
-        {
-          "pos": "v.",
-          "zh": "不服从",
-          "en": "To act contrary to what someone has asked or commanded."
+          "pos": "n.",
+          "zh": "抗凝剂",
+          "en": "A substance that prevents blood from clotting."
         }
       ],
       "examples": [
         {
-          "en": "Children who disobey their parents may face consequences.",
-          "zh": "不服从父母的孩子可能会面临后果。"
+          "en": "Doctors often prescribe anticoagulants to reduce the risk of strokes.",
+          "zh": "医生常常开抗凝剂来降低中风风险。"
         },
         {
-          "en": "He decided to disobey the school rules during the trip.",
-          "zh": "他决定在旅行中违反学校的规定。"
+          "en": "Taking anticoagulants requires careful monitoring of blood levels.",
+          "zh": "服用抗凝剂需要仔细监测血液水平。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'disobey' as 'not obeying', which can help you remember its meaning."
+        "association": "Think of 'anti' as against, and 'coagulant' as something that clots. So, anticoagulant is something that works against clotting."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disobey&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=anticoagulant&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

@@ -1,67 +1,69 @@
 {
-  "generated": "2025-12-18T22:08:09.176Z",
+  "generated": "2025-12-19T22:08:31.376Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "commute",
-      "pronunciation": "/kəˈmjuːt/",
+      "word": "hornet",
+      "pronunciation": "/ˈhɔrnɪt/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "通勤",
-          "en": "To travel regularly to work or school."
+          "pos": "n.",
+          "zh": "黄蜂",
+          "en": "A large, aggressive wasp known for its painful sting."
         },
         {
           "pos": "n.",
-          "zh": "通勤",
-          "en": "The journey made regularly to and from work or school."
+          "zh": "激烈的竞争者",
+          "en": "A person or thing that is aggressive and challenging."
         }
       ],
       "examples": [
         {
-          "en": "Many people commute to the city for their jobs every day.",
-          "zh": "许多人每天都去城市上班。"
+          "en": "A hornet can deliver a very painful sting if provoked.",
+          "zh": "如果受到挑衅，黄蜂可以造成非常痛苦的蜇伤。"
         },
         {
-          "en": "Her daily commute takes over an hour each way.",
-          "zh": "她每天的通勤单程超过一个小时。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=commute&type=2",
-      "chapter": "核心词汇 工作与生活 Unit 1"
-    },
-    {
-      "word": "inheritance",
-      "pronunciation": "/ɪnˈhɛrɪtəns/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "遗产",
-          "en": "The money or property received from someone after they die."
-        },
-        {
-          "pos": "n.",
-          "zh": "继承",
-          "en": "The act of receiving something from a predecessor."
-        }
-      ],
-      "examples": [
-        {
-          "en": "She received a large inheritance after her grandmother passed away.",
-          "zh": "她在祖母去世后继承了一笔巨额遗产。"
-        },
-        {
-          "en": "Inheritance can sometimes lead to family disputes over assets.",
-          "zh": "遗产有时会导致家庭在资产上的争执。"
+          "en": "The athlete was a hornet on the field, fiercely competing with others.",
+          "zh": "这位运动员在场上如同黄蜂一样，激烈地与他人竞争。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word comes from the Latin 'inhaerentia', meaning 'to stick to' or 'to adhere'."
+        "association": "Think of a hornet as a 'horned' creature that stings, making it memorable due to its aggressive nature."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=inheritance&type=2",
-      "chapter": "认知词汇 动物分类 动物行为"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=hornet&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
+    },
+    {
+      "word": "erosion",
+      "pronunciation": "/ɪˈroʊ.ʒən/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "侵蚀",
+          "en": "The process of being worn away by wind, water, or other natural forces."
+        },
+        {
+          "pos": "v.",
+          "zh": "侵蚀",
+          "en": "To gradually destroy or wear away something."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The erosion of the coastline is a serious environmental issue.",
+          "zh": "海岸线的侵蚀是一个严重的环境问题。"
+        },
+        {
+          "en": "Heavy rains can cause soil erosion, leading to land degradation.",
+          "zh": "大雨可能导致土壤侵蚀，从而导致土地退化。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'erosion' comes from the Latin 'erosio', meaning 'a rubbing away'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=erosion&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

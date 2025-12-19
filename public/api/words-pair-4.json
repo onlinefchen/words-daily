@@ -1,68 +1,68 @@
 {
-  "generated": "2025-12-18T22:08:09.176Z",
+  "generated": "2025-12-19T22:08:31.376Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "mature",
-      "pronunciation": "/məˈtʃʊr/",
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "成熟的",
-          "en": "Fully developed and grown, not young or immature."
-        },
-        {
-          "pos": "v.",
-          "zh": "成熟",
-          "en": "To become fully developed or grown."
-        }
-      ],
-      "examples": [
-        {
-          "en": "As she matured, her views on life became more thoughtful.",
-          "zh": "随着她的成熟，她对生活的看法变得更加深思熟虑。"
-        },
-        {
-          "en": "The fruit will mature and be ready to eat in a few weeks.",
-          "zh": "这些水果将在几周内成熟，准备好食用。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'mature' comes from the Latin word 'maturus', meaning 'ripe' or 'ready'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=mature&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 7"
-    },
-    {
-      "word": "sardine",
-      "pronunciation": "/sɑrˈdin/",
+      "word": "trout",
+      "pronunciation": "/traʊt/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "沙丁鱼",
-          "en": "A small fish that is often packed in a can."
+          "zh": "鳟鱼",
+          "en": "A type of fish that lives in fresh water."
         },
         {
           "pos": "v.",
-          "zh": "将...挤在一起",
-          "en": "To pack people or things tightly together in a small space."
+          "zh": "追逐，猎捕",
+          "en": "To hunt or pursue something."
         }
       ],
       "examples": [
         {
-          "en": "The restaurant served a delicious sardine salad with fresh vegetables.",
-          "zh": "这家餐厅提供了美味的沙丁鱼沙拉，配有新鲜的蔬菜。"
+          "en": "He caught a large trout while fishing in the river.",
+          "zh": "他在河里钓到了一条大鳟鱼。"
         },
         {
-          "en": "They were sardined into the subway during rush hour.",
-          "zh": "在高峰时段，他们被挤进了地铁。"
+          "en": "Many anglers enjoy trout fishing during the summer months.",
+          "zh": "许多钓鱼爱好者在夏季喜欢钓鳟鱼。"
         }
       ],
       "memoryTips": {
-        "association": "Think of sardines as small fish packed tightly in a can, like people in a crowded subway."
+        "association": "Think of 'trout' as 'trout in the water', which helps visualize its habitat."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sardine&type=2",
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=trout&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
+    },
+    {
+      "word": "propeller",
+      "pronunciation": "/prəˈpɛlər/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "螺旋桨",
+          "en": "A device with blades that spins to propel a vehicle, like a boat or plane."
+        },
+        {
+          "pos": "v.",
+          "zh": "推动",
+          "en": "To push or drive something forward, especially in terms of movement."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The airplane's propeller started spinning faster as it took off.",
+          "zh": "飞机的螺旋桨在起飞时开始加速旋转。"
+        },
+        {
+          "en": "To move forward, the boat relies on its powerful propeller.",
+          "zh": "为了向前移动，船依靠其强大的螺旋桨。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a 'propelling' force that pushes you forward in a boat or plane."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=propeller&type=2",
       "chapter": "认知词汇 动物分类 常考生物"
     }
   ]

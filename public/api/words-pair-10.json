@@ -1,68 +1,68 @@
 {
-  "generated": "2025-12-18T22:08:09.176Z",
+  "generated": "2025-12-19T22:08:31.377Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "adolescence",
-      "pronunciation": "/ˌæd.əˈlɛs.əns/",
+      "word": "blue whale",
+      "pronunciation": "/bluː weɪl/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "青春期",
-          "en": "The period of life when a person develops from a child into an adult."
+          "zh": "蓝鲸",
+          "en": "The blue whale is the largest animal on Earth, known for its immense size."
         },
         {
           "pos": "n.",
-          "zh": "成长阶段",
-          "en": "The stage of development characterized by physical and emotional changes."
+          "zh": "蓝鲸",
+          "en": "Blue whales are marine mammals that live in oceans and feed on small shrimp-like animals called krill."
         }
       ],
       "examples": [
         {
-          "en": "During adolescence, many people experience significant emotional changes.",
-          "zh": "在青春期，许多人经历重大情感变化。"
+          "en": "The blue whale can grow up to 100 feet long and weigh over 200 tons.",
+          "zh": "蓝鲸可以长到100英尺，体重超过200吨。"
         },
         {
-          "en": "Adolescence is a crucial time for building social skills and friendships.",
-          "zh": "青春期是建立社交技能和友谊的关键时期。"
+          "en": "Scientists study blue whales to understand their migration patterns and feeding habits.",
+          "zh": "科学家研究蓝鲸以了解它们的迁徙模式和觅食习惯。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'adolescence' as the 'add-a-less' phase where kids are adding more independence but still less than adults."
+        "association": "Think of the color blue representing the ocean, where blue whales live, and their large size as a symbol of strength and majesty."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=adolescence&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=blue%20whale&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "intruder",
-      "pronunciation": "/ɪnˈtruːdər/",
+      "word": "victim",
+      "pronunciation": "/ˈvɪktɪm/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "入侵者",
-          "en": "A person who enters a place without permission."
+          "zh": "受害者",
+          "en": "A person who suffers harm or injury."
         },
         {
           "pos": "n.",
-          "zh": "侵扰者",
-          "en": "Someone who disrupts a situation or activity."
+          "zh": "牺牲品",
+          "en": "Someone who is tricked or deceived."
         }
       ],
       "examples": [
         {
-          "en": "The intruder was caught by the security cameras at night.",
-          "zh": "入侵者在夜间被监控摄像头捕捉到。"
+          "en": "The victim of the accident was taken to the hospital immediately.",
+          "zh": "事故的受害者被立即送往医院。"
         },
         {
-          "en": "She felt like an intruder in the close-knit community.",
-          "zh": "她感觉自己在这个紧密团结的社区中像个入侵者。"
+          "en": "She felt like a victim after being cheated by her friend.",
+          "zh": "她在被朋友欺骗后感到自己像个受害者。"
         }
       ],
       "memoryTips": {
-        "association": "Think of an 'intruder' as someone who 'intrudes' into your space or privacy."
+        "association": "Think of a 'victim' as someone who has fallen into a trap, like a mouse in a victim's cage."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=intruder&type=2",
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=victim&type=2",
       "chapter": "认知词汇 动物分类 常考生物"
     }
   ]

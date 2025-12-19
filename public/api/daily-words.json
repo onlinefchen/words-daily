@@ -1,447 +1,42 @@
 {
-  "generated": "2025-12-18T22:08:09.174Z",
-  "date": "2025-12-18",
+  "generated": "2025-12-19T22:08:31.375Z",
+  "date": "2025-12-19",
   "totalWords": 20,
   "words": [
     {
-      "id": "w04995",
-      "word": "high-calorie food",
-      "type": "phrase",
-      "chapterIndex": 13,
-      "globalIndex": 4995,
-      "chapter": "ch155",
-      "chapterName": "阅读真题认知词汇 美国肥胖问题",
+      "id": "w05162",
+      "word": "mechanism",
+      "type": "single",
+      "chapterIndex": 4,
+      "globalIndex": 5162,
+      "chapter": "ch161",
+      "chapterName": "阅读真题认知词汇 电脑化的交通工具",
       "pronunciation": {
-        "us": "/haɪ ˈkæl.ə.ri fud/"
+        "us": "/ˈmɛkənɪzəm/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "高热量食物",
-          "en": "Food that contains a lot of calories, which can lead to weight gain."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Eating high-calorie food regularly can increase your body weight significantly.",
-          "zh": "经常吃高热量食物会显著增加你的体重。"
-        },
-        {
-          "en": "Many people avoid high-calorie food to maintain a healthy diet.",
-          "zh": "许多人避免高热量食物以保持健康饮食。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=high-calorie%20food&type=2"
-    },
-    {
-      "id": "w01145",
-      "word": "heartless",
-      "type": "single",
-      "chapterIndex": 5,
-      "globalIndex": 1145,
-      "chapter": "ch058",
-      "chapterName": "核心词汇 伦理与道德 Unit 3",
-      "pronunciation": {
-        "us": "/ˈhɑrtləs/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "无情的",
-          "en": "Showing no kindness or compassion."
-        },
-        {
-          "pos": "adj.",
-          "zh": "冷酷的",
-          "en": "Cruel and insensitive to the feelings of others."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The heartless decision left many families in distress.",
-          "zh": "这个无情的决定让许多家庭陷入困境。"
-        },
-        {
-          "en": "He was heartless enough to ignore her pleas for help.",
-          "zh": "他无情到无视她求助的请求。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'heart' as kindness; removing 'less' makes it heartless, or lacking kindness."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=heartless&type=2"
-    },
-    {
-      "id": "w02014",
-      "word": "rainbow trout",
-      "type": "phrase",
-      "chapterIndex": 114,
-      "globalIndex": 2014,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/ˈreɪn.boʊ traʊt/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "彩虹鳟鱼",
-          "en": "A type of fish known for its colorful skin and good taste."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The rainbow trout is popular for fishing and cooking.",
-          "zh": "彩虹鳟鱼在钓鱼和烹饪中很受欢迎。"
-        },
-        {
-          "en": "Many people enjoy the bright colors of the rainbow trout.",
-          "zh": "许多人喜欢彩虹鳟鱼鲜艳的颜色。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of a rainbow in the sky and imagine a colorful fish swimming under it."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=rainbow%20trout&type=2"
-    },
-    {
-      "id": "w00759",
-      "word": "timely",
-      "type": "single",
-      "chapterIndex": 19,
-      "globalIndex": 759,
-      "chapter": "ch038",
-      "chapterName": "基本词汇 形容词和副词400 Unit 18",
-      "pronunciation": {
-        "us": "/ˈtaɪmli/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "及时的",
-          "en": "Happening at the right time; not late."
-        },
-        {
-          "pos": "adj.",
-          "zh": "适时的",
-          "en": "Suitable for the time; appropriate."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The timely arrival of help saved many lives during the disaster.",
-          "zh": "救援的及时到达拯救了许多生命。"
-        },
-        {
-          "en": "Her timely advice made a significant difference in my decision-making.",
-          "zh": "她的及时建议在我的决策中产生了重大影响。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'time' in 'timely' to remember it means something that is on time."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=timely&type=2"
-    },
-    {
-      "id": "w01617",
-      "word": "commute",
-      "type": "single",
-      "chapterIndex": 17,
-      "globalIndex": 1617,
-      "chapter": "ch081",
-      "chapterName": "核心词汇 工作与生活 Unit 1",
-      "pronunciation": {
-        "us": "/kəˈmjuːt/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "通勤",
-          "en": "To travel regularly to work or school."
+          "zh": "机制",
+          "en": "A system or method that operates in a particular way."
         },
         {
           "pos": "n.",
-          "zh": "通勤",
-          "en": "The journey made regularly to and from work or school."
+          "zh": "机械装置",
+          "en": "The parts or processes that work together in a machine."
         }
       ],
       "examples": [
         {
-          "en": "Many people commute to the city for their jobs every day.",
-          "zh": "许多人每天都去城市上班。"
+          "en": "The mechanism of the clock was complicated and required careful assembly.",
+          "zh": "这座钟的机制很复杂，需要仔细组装。"
         },
         {
-          "en": "Her daily commute takes over an hour each way.",
-          "zh": "她每天的通勤单程超过一个小时。"
+          "en": "Understanding the mechanism behind climate change is essential for effective solutions.",
+          "zh": "理解气候变化背后的机制对有效解决问题至关重要。"
         }
       ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=commute&type=2"
-    },
-    {
-      "id": "w02368",
-      "word": "inheritance",
-      "type": "single",
-      "chapterIndex": 10,
-      "globalIndex": 2368,
-      "chapter": "ch099",
-      "chapterName": "认知词汇 动物分类 动物行为",
-      "pronunciation": {
-        "us": "/ɪnˈhɛrɪtəns/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "遗产",
-          "en": "The money or property received from someone after they die."
-        },
-        {
-          "pos": "n.",
-          "zh": "继承",
-          "en": "The act of receiving something from a predecessor."
-        }
-      ],
-      "examples": [
-        {
-          "en": "She received a large inheritance after her grandmother passed away.",
-          "zh": "她在祖母去世后继承了一笔巨额遗产。"
-        },
-        {
-          "en": "Inheritance can sometimes lead to family disputes over assets.",
-          "zh": "遗产有时会导致家庭在资产上的争执。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word comes from the Latin 'inhaerentia', meaning 'to stick to' or 'to adhere'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=inheritance&type=2"
-    },
-    {
-      "id": "w01323",
-      "word": "mature",
-      "type": "single",
-      "chapterIndex": 3,
-      "globalIndex": 1323,
-      "chapter": "ch067",
-      "chapterName": "核心词汇 青少年教育 Unit 7",
-      "pronunciation": {
-        "us": "/məˈtʃʊr/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "成熟的",
-          "en": "Fully developed and grown, not young or immature."
-        },
-        {
-          "pos": "v.",
-          "zh": "成熟",
-          "en": "To become fully developed or grown."
-        }
-      ],
-      "examples": [
-        {
-          "en": "As she matured, her views on life became more thoughtful.",
-          "zh": "随着她的成熟，她对生活的看法变得更加深思熟虑。"
-        },
-        {
-          "en": "The fruit will mature and be ready to eat in a few weeks.",
-          "zh": "这些水果将在几周内成熟，准备好食用。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'mature' comes from the Latin word 'maturus', meaning 'ripe' or 'ready'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=mature&type=2"
-    },
-    {
-      "id": "w02022",
-      "word": "sardine",
-      "type": "single",
-      "chapterIndex": 122,
-      "globalIndex": 2022,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/sɑrˈdin/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "沙丁鱼",
-          "en": "A small fish that is often packed in a can."
-        },
-        {
-          "pos": "v.",
-          "zh": "将...挤在一起",
-          "en": "To pack people or things tightly together in a small space."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The restaurant served a delicious sardine salad with fresh vegetables.",
-          "zh": "这家餐厅提供了美味的沙丁鱼沙拉，配有新鲜的蔬菜。"
-        },
-        {
-          "en": "They were sardined into the subway during rush hour.",
-          "zh": "在高峰时段，他们被挤进了地铁。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of sardines as small fish packed tightly in a can, like people in a crowded subway."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sardine&type=2"
-    },
-    {
-      "id": "w01097",
-      "word": "vernacular",
-      "type": "single",
-      "chapterIndex": 17,
-      "globalIndex": 1097,
-      "chapter": "ch055",
-      "chapterName": "核心词汇 文化与传统 Unit 5",
-      "pronunciation": {
-        "us": "/vərˈnækjələr/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "方言的",
-          "en": "Relating to the language or dialect spoken by ordinary people in a particular region."
-        },
-        {
-          "pos": "n.",
-          "zh": "方言",
-          "en": "The language or dialect that is specific to a particular group or region."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The book was written in the vernacular to reach more readers.",
-          "zh": "这本书用方言写成，以吸引更多读者。"
-        },
-        {
-          "en": "Her speech was filled with vernacular expressions from her hometown.",
-          "zh": "她的演讲中充满了家乡的方言表达。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'vernacular' comes from the Latin 'vernaculus', meaning 'native' or 'domestic'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vernacular&type=2"
-    },
-    {
-      "id": "w01622",
-      "word": "conservative",
-      "type": "single",
-      "chapterIndex": 2,
-      "globalIndex": 1622,
-      "chapter": "ch082",
-      "chapterName": "核心词汇 工作与生活 Unit 2",
-      "pronunciation": {
-        "us": "/kənˈsɜːrvətɪv/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "保守的",
-          "en": "Holding traditional views and not wanting change."
-        },
-        {
-          "pos": "n.",
-          "zh": "保守派人士",
-          "en": "A person who prefers traditional values and is cautious about change."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Many conservative politicians oppose rapid social changes.",
-          "zh": "许多保守派政治家反对快速的社会变革。"
-        },
-        {
-          "en": "Her conservative views often clash with modern ideas.",
-          "zh": "她的保守观点常常与现代观念发生冲突。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'conserve' to remember that conservatives want to maintain traditional values."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=conservative&type=2"
-    },
-    {
-      "id": "w00673",
-      "word": "pessimistic",
-      "type": "single",
-      "chapterIndex": 13,
-      "globalIndex": 673,
-      "chapter": "ch034",
-      "chapterName": "基本词汇 形容词和副词400 Unit 14",
-      "pronunciation": {
-        "us": "/ˌpɛsɪˈmɪstɪk/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "悲观的",
-          "en": "Having a negative outlook on life or expecting bad outcomes."
-        },
-        {
-          "pos": "adj.",
-          "zh": "消极的",
-          "en": "Believing that the worst will happen or that things will not improve."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Her pessimistic view made it hard to see any positive changes.",
-          "zh": "她悲观的观点使人难以看到任何积极的变化。"
-        },
-        {
-          "en": "Despite the challenges, he tried not to be pessimistic about the future.",
-          "zh": "尽管面临挑战，他试图对未来保持乐观。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'pessimistic' as 'pess' (like 'press') which can make you feel heavy and down."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pessimistic&type=2"
-    },
-    {
-      "id": "w01106",
-      "word": "atrocity",
-      "type": "single",
-      "chapterIndex": 6,
-      "globalIndex": 1106,
-      "chapter": "ch056",
-      "chapterName": "核心词汇 伦理与道德 Unit 1",
-      "pronunciation": {
-        "us": "/əˈtrɑːsɪti/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "暴行",
-          "en": "An extremely cruel or terrible act."
-        },
-        {
-          "pos": "n.",
-          "zh": "残忍行为",
-          "en": "A shocking act that causes great suffering."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The war crimes committed during the conflict were labeled as atrocities.",
-          "zh": "冲突期间犯下的战争罪被称为暴行。"
-        },
-        {
-          "en": "Witnesses reported the atrocity of the attacks on innocent civilians.",
-          "zh": "目击者报告了对无辜平民袭击的残忍行为。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'atrocity' comes from the Latin 'atrox', meaning cruel or fierce."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=atrocity&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=mechanism&type=2"
     },
     {
       "id": "w02397",
@@ -482,270 +77,684 @@
       "audioUrl": "https://dict.youdao.com/dictvoice?audio=deduce&type=2"
     },
     {
-      "id": "w01252",
-      "word": "disobey",
-      "type": "single",
-      "chapterIndex": 12,
-      "globalIndex": 1252,
-      "chapter": "ch063",
-      "chapterName": "核心词汇 青少年教育 Unit 3",
+      "id": "w02210",
+      "word": "circulatory system",
+      "type": "phrase",
+      "chapterIndex": 310,
+      "globalIndex": 2210,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
       "pronunciation": {
-        "us": "/ˌdɪs.əˈbeɪ/"
+        "us": "/ˌsɜːr.kjəˈleɪ.tɔːr.i ˈsɪs.təm/"
       },
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "违反，违抗",
-          "en": "To refuse to follow rules or instructions."
+          "pos": "n.",
+          "zh": "循环系统",
+          "en": "The system in the body that moves blood and nutrients."
         },
         {
-          "pos": "v.",
-          "zh": "不服从",
-          "en": "To act contrary to what someone has asked or commanded."
+          "pos": "n.",
+          "zh": "循环系统",
+          "en": "A network of organs and vessels that supports circulation."
         }
       ],
       "examples": [
         {
-          "en": "Children who disobey their parents may face consequences.",
-          "zh": "不服从父母的孩子可能会面临后果。"
+          "en": "The circulatory system is essential for transporting oxygen throughout the body.",
+          "zh": "循环系统对于在全身运输氧气是必不可少的。"
         },
         {
-          "en": "He decided to disobey the school rules during the trip.",
-          "zh": "他决定在旅行中违反学校的规定。"
+          "en": "Understanding the circulatory system helps us maintain good health.",
+          "zh": "了解循环系统有助于我们保持良好的健康。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'disobey' as 'not obeying', which can help you remember its meaning."
+        "association": "Think of a 'circle' for circulation and 'system' as the organized way it works."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disobey&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=circulatory%20system&type=2"
     },
     {
-      "id": "w01513",
-      "word": "compulsory",
+      "id": "w01874",
+      "word": "physical",
+      "type": "single",
+      "chapterIndex": 14,
+      "globalIndex": 1874,
+      "chapter": "ch094",
+      "chapterName": "核心词汇 健康话题 Unit 4",
+      "pronunciation": {
+        "us": "/ˈfɪz.ɪ.kəl/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "身体的",
+          "en": "Related to the body or material things."
+        },
+        {
+          "pos": "adj.",
+          "zh": "物理的",
+          "en": "Relating to the science of matter and energy."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She enjoys physical activities like running and swimming.",
+          "zh": "她喜欢跑步和游泳等身体活动。"
+        },
+        {
+          "en": "The teacher explained the physical laws of motion to the class.",
+          "zh": "老师向班级讲解了运动的物理定律。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'physical' as relating to the 'body' or 'physical world', which is tangible and can be touched."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=physical&type=2"
+    },
+    {
+      "id": "w02228",
+      "word": "hornet",
+      "type": "single",
+      "chapterIndex": 328,
+      "globalIndex": 2228,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/ˈhɔrnɪt/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "黄蜂",
+          "en": "A large, aggressive wasp known for its painful sting."
+        },
+        {
+          "pos": "n.",
+          "zh": "激烈的竞争者",
+          "en": "A person or thing that is aggressive and challenging."
+        }
+      ],
+      "examples": [
+        {
+          "en": "A hornet can deliver a very painful sting if provoked.",
+          "zh": "如果受到挑衅，黄蜂可以造成非常痛苦的蜇伤。"
+        },
+        {
+          "en": "The athlete was a hornet on the field, fiercely competing with others.",
+          "zh": "这位运动员在场上如同黄蜂一样，激烈地与他人竞争。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a hornet as a 'horned' creature that stings, making it memorable due to its aggressive nature."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=hornet&type=2"
+    },
+    {
+      "id": "w01914",
+      "word": "erosion",
+      "type": "single",
+      "chapterIndex": 14,
+      "globalIndex": 1914,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/ɪˈroʊ.ʒən/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "侵蚀",
+          "en": "The process of being worn away by wind, water, or other natural forces."
+        },
+        {
+          "pos": "v.",
+          "zh": "侵蚀",
+          "en": "To gradually destroy or wear away something."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The erosion of the coastline is a serious environmental issue.",
+          "zh": "海岸线的侵蚀是一个严重的环境问题。"
+        },
+        {
+          "en": "Heavy rains can cause soil erosion, leading to land degradation.",
+          "zh": "大雨可能导致土壤侵蚀，从而导致土地退化。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'erosion' comes from the Latin 'erosio', meaning 'a rubbing away'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=erosion&type=2"
+    },
+    {
+      "id": "w02032",
+      "word": "trout",
+      "type": "single",
+      "chapterIndex": 132,
+      "globalIndex": 2032,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/traʊt/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "鳟鱼",
+          "en": "A type of fish that lives in fresh water."
+        },
+        {
+          "pos": "v.",
+          "zh": "追逐，猎捕",
+          "en": "To hunt or pursue something."
+        }
+      ],
+      "examples": [
+        {
+          "en": "He caught a large trout while fishing in the river.",
+          "zh": "他在河里钓到了一条大鳟鱼。"
+        },
+        {
+          "en": "Many anglers enjoy trout fishing during the summer months.",
+          "zh": "许多钓鱼爱好者在夏季喜欢钓鳟鱼。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'trout' as 'trout in the water', which helps visualize its habitat."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=trout&type=2"
+    },
+    {
+      "id": "w02193",
+      "word": "propeller",
+      "type": "single",
+      "chapterIndex": 293,
+      "globalIndex": 2193,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/prəˈpɛlər/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "螺旋桨",
+          "en": "A device with blades that spins to propel a vehicle, like a boat or plane."
+        },
+        {
+          "pos": "v.",
+          "zh": "推动",
+          "en": "To push or drive something forward, especially in terms of movement."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The airplane's propeller started spinning faster as it took off.",
+          "zh": "飞机的螺旋桨在起飞时开始加速旋转。"
+        },
+        {
+          "en": "To move forward, the boat relies on its powerful propeller.",
+          "zh": "为了向前移动，船依靠其强大的螺旋桨。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a 'propelling' force that pushes you forward in a boat or plane."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=propeller&type=2"
+    },
+    {
+      "id": "w01898",
+      "word": "therapy",
+      "type": "single",
+      "chapterIndex": 18,
+      "globalIndex": 1898,
+      "chapter": "ch095",
+      "chapterName": "核心词汇 健康话题 Unit 5",
+      "pronunciation": {
+        "us": "/ˈθɛrəpi/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "治疗",
+          "en": "A treatment to help improve mental or physical health."
+        },
+        {
+          "pos": "n.",
+          "zh": "疗法",
+          "en": "A method used to treat a particular condition or illness."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many people find therapy helpful for managing stress and anxiety.",
+          "zh": "许多人发现治疗对管理压力和焦虑很有帮助。"
+        },
+        {
+          "en": "Cognitive behavioral therapy can change negative thought patterns.",
+          "zh": "认知行为疗法可以改变消极的思维模式。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'therapy' comes from the Greek word 'therapeia', meaning 'healing' or 'treatment'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=therapy&type=2"
+    },
+    {
+      "id": "w01771",
+      "word": "protest",
+      "type": "single",
+      "chapterIndex": 11,
+      "globalIndex": 1771,
+      "chapter": "ch089",
+      "chapterName": "核心词汇 法制与犯罪 Unit 4",
+      "pronunciation": {
+        "us": "/ˈproʊ.tɛst/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "抗议",
+          "en": "To express strong disagreement about something."
+        },
+        {
+          "pos": "n.",
+          "zh": "抗议活动",
+          "en": "An event where people show their disagreement publicly."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many students decided to protest against the new school rules.",
+          "zh": "许多学生决定抗议新的校规。"
+        },
+        {
+          "en": "The protest attracted thousands of people from all backgrounds.",
+          "zh": "这场抗议吸引了来自各行各业的数千人。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'protest' comes from Latin 'protestari', meaning 'to testify publicly'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=protest&type=2"
+    },
+    {
+      "id": "w02321",
+      "word": "mammal",
+      "type": "single",
+      "chapterIndex": 24,
+      "globalIndex": 2321,
+      "chapter": "ch097",
+      "chapterName": "认知词汇 动物分类 动物航行能力",
+      "pronunciation": {
+        "us": "/ˈmæm.əl/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "哺乳动物",
+          "en": "A mammal is an animal that gives birth to live young and feeds them with milk."
+        },
+        {
+          "pos": "n.",
+          "zh": "哺乳动物类",
+          "en": "Mammals are a class of animals characterized by having fur or hair."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Dolphins are intelligent mammals that live in the ocean.",
+          "zh": "海豚是生活在海洋中的聪明哺乳动物。"
+        },
+        {
+          "en": "Humans are the most advanced mammals on Earth.",
+          "zh": "人类是地球上最先进的哺乳动物。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'mammal' comes from the Latin 'mamma', meaning 'breast', referring to their ability to nurse young."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=mammal&type=2"
+    },
+    {
+      "id": "w01591",
+      "word": "surveillance",
+      "type": "single",
+      "chapterIndex": 11,
+      "globalIndex": 1591,
+      "chapter": "ch080",
+      "chapterName": "核心词汇 民主与权利 Unit 5",
+      "pronunciation": {
+        "us": "/sərˈveɪləns/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "监视，监控",
+          "en": "The action of closely watching someone or something, often for security."
+        },
+        {
+          "pos": "n.",
+          "zh": "监督，查看",
+          "en": "The act of overseeing a process or situation to ensure compliance or safety."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The government increased surveillance to improve national security.",
+          "zh": "政府增加了监视以提高国家安全。"
+        },
+        {
+          "en": "CCTV cameras are commonly used for public surveillance in cities.",
+          "zh": "监控摄像头在城市中普遍用于公共监视。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'surveillance' comes from the French term 'surveiller', meaning 'to watch over'.",
+        "association": "Think of 'surveillance' as 'over-watching', like a guardian keeping an eye on things."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=surveillance&type=2"
+    },
+    {
+      "id": "w01588",
+      "word": "stability",
+      "type": "single",
+      "chapterIndex": 8,
+      "globalIndex": 1588,
+      "chapter": "ch080",
+      "chapterName": "核心词汇 民主与权利 Unit 5",
+      "pronunciation": {
+        "us": "/stəˈbɪləti/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "稳定性",
+          "en": "The quality of being steady and not changing."
+        },
+        {
+          "pos": "n.",
+          "zh": "稳定状态",
+          "en": "The state of being secure and not likely to fall or change."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The stability of the economy is crucial for long-term growth.",
+          "zh": "经济的稳定性对长期增长至关重要。"
+        },
+        {
+          "en": "She values the stability of her job above all else.",
+          "zh": "她最看重的是工作的稳定性。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a stable table that doesn't wobble; it stays steady."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=stability&type=2"
+    },
+    {
+      "id": "w02253",
+      "word": "anticoagulant",
+      "type": "single",
+      "chapterIndex": 353,
+      "globalIndex": 2253,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/ˌæntiˈkoʊ.ə.ɡə.lənt/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "抗凝剂",
+          "en": "A substance that prevents blood from clotting."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Doctors often prescribe anticoagulants to reduce the risk of strokes.",
+          "zh": "医生常常开抗凝剂来降低中风风险。"
+        },
+        {
+          "en": "Taking anticoagulants requires careful monitoring of blood levels.",
+          "zh": "服用抗凝剂需要仔细监测血液水平。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'anti' as against, and 'coagulant' as something that clots. So, anticoagulant is something that works against clotting."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=anticoagulant&type=2"
+    },
+    {
+      "id": "w01673",
+      "word": "pension",
       "type": "single",
       "chapterIndex": 13,
-      "globalIndex": 1513,
-      "chapter": "ch076",
-      "chapterName": "核心词汇 民主与权利 Unit 1",
+      "globalIndex": 1673,
+      "chapter": "ch084",
+      "chapterName": "核心词汇 工作与生活 Unit 4",
       "pronunciation": {
-        "us": "/kəmˈpʌlsəri/"
+        "us": "/ˈpɛnʃən/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "养老金",
+          "en": "A regular payment made to a person after they retire from work."
+        },
+        {
+          "pos": "n.",
+          "zh": "退休金",
+          "en": "Money given to someone by the government or a company when they stop working."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many people rely on their pension for financial security after retirement.",
+          "zh": "许多人依靠养老金在退休后获得经济保障。"
+        },
+        {
+          "en": "The government provides a state pension for eligible citizens over a certain age.",
+          "zh": "政府为符合条件的公民提供国家养老金，年龄超过一定限制。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'pension' as 'pence' (small coins) saved for a future 'son' (your family), emphasizing saving for retirement."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pension&type=2"
+    },
+    {
+      "id": "w02090",
+      "word": "polar bear",
+      "type": "phrase",
+      "chapterIndex": 190,
+      "globalIndex": 2090,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/ˈpoʊlər bɛr/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "北极熊",
+          "en": "A large white bear that lives in the Arctic."
+        },
+        {
+          "pos": "n.",
+          "zh": "极地环境中的动物",
+          "en": "An animal found in cold, icy regions, especially in the North."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Polar bears are excellent swimmers, often traveling long distances.",
+          "zh": "北极熊是优秀的游泳者，通常能游很远的距离。"
+        },
+        {
+          "en": "Due to climate change, polar bears are losing their natural habitat.",
+          "zh": "由于气候变化，北极熊正在失去它们的自然栖息地。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of the word 'polar' as related to the poles (North and South) and 'bear' as the animal. Imagine the polar bear living at the North Pole."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=polar%20bear&type=2"
+    },
+    {
+      "id": "w01429",
+      "word": "cosmetic",
+      "type": "single",
+      "chapterIndex": 9,
+      "globalIndex": 1429,
+      "chapter": "ch072",
+      "chapterName": "核心词汇 动物权益与保护 Unit 2",
+      "pronunciation": {
+        "us": "/kəˈzmɛtɪk/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "强制的",
-          "en": "Required by law or a rule; mandatory."
+          "zh": "化妆品的",
+          "en": "Relating to beauty products used to improve appearance."
         },
         {
-          "pos": "adj.",
-          "zh": "必修的",
-          "en": "Something that must be done; not optional."
+          "pos": "n.",
+          "zh": "化妆品",
+          "en": "Products applied to the body to enhance beauty."
         }
       ],
       "examples": [
         {
-          "en": "In many countries, education is compulsory for children.",
-          "zh": "在许多国家，教育对儿童是强制性的。"
+          "en": "Many people use cosmetic products to enhance their natural beauty.",
+          "zh": "许多人使用化妆品来提升他们的自然美。"
         },
         {
-          "en": "The school has compulsory uniforms for all students.",
-          "zh": "这所学校要求所有学生穿校服。"
+          "en": "Cosmetic surgery has become increasingly popular in recent years.",
+          "zh": "近年来，整形手术变得越来越流行。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'compulsory' as 'compelled to do something', which sounds similar."
+        "etymology": "The word 'cosmetic' comes from the Greek 'kosmetikos', meaning 'skilled in adornment'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compulsory&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cosmetic&type=2"
     },
     {
-      "id": "w02044",
-      "word": "billfish",
+      "id": "w01425",
+      "word": "compassion",
       "type": "single",
-      "chapterIndex": 144,
-      "globalIndex": 2044,
+      "chapterIndex": 5,
+      "globalIndex": 1425,
+      "chapter": "ch072",
+      "chapterName": "核心词汇 动物权益与保护 Unit 2",
+      "pronunciation": {
+        "us": "/kəmˈpæʃ.ən/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "同情，怜悯",
+          "en": "A feeling of deep sympathy for someone who is suffering."
+        },
+        {
+          "pos": "n.",
+          "zh": "怜悯之心",
+          "en": "The ability to understand and share the feelings of others."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She showed great compassion to the victims of the disaster.",
+          "zh": "她对灾难的受害者表现出极大的同情。"
+        },
+        {
+          "en": "His compassion for animals led him to become a veterinarian.",
+          "zh": "他对动物的怜悯促使他成为了一名兽医。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'compassion' as 'com-passion', meaning to share in someone's suffering."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compassion&type=2"
+    },
+    {
+      "id": "w02047",
+      "word": "blue whale",
+      "type": "phrase",
+      "chapterIndex": 147,
+      "globalIndex": 2047,
       "chapter": "ch096",
       "chapterName": "认知词汇 动物分类 常考生物",
       "pronunciation": {
-        "us": "/ˈbɪlˌfɪʃ/"
+        "us": "/bluː weɪl/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "旗鱼",
-          "en": "A type of large fish known for its long bill and speed."
+          "zh": "蓝鲸",
+          "en": "The blue whale is the largest animal on Earth, known for its immense size."
         },
         {
           "pos": "n.",
-          "zh": "一种运动钓鱼的鱼",
-          "en": "A fish that is popular in sports fishing due to its size and fighting ability."
+          "zh": "蓝鲸",
+          "en": "Blue whales are marine mammals that live in oceans and feed on small shrimp-like animals called krill."
         }
       ],
       "examples": [
         {
-          "en": "The billfish is famous among anglers for its incredible strength.",
-          "zh": "旗鱼因其惊人的力量而在钓鱼者中闻名。"
+          "en": "The blue whale can grow up to 100 feet long and weigh over 200 tons.",
+          "zh": "蓝鲸可以长到100英尺，体重超过200吨。"
         },
         {
-          "en": "Many billfish species are endangered due to overfishing.",
-          "zh": "由于过度捕捞，许多旗鱼种类正面临灭绝。"
+          "en": "Scientists study blue whales to understand their migration patterns and feeding habits.",
+          "zh": "科学家研究蓝鲸以了解它们的迁徙模式和觅食习惯。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'bill' as the fish's long bill and 'fish' as its aquatic nature."
+        "association": "Think of the color blue representing the ocean, where blue whales live, and their large size as a symbol of strength and majesty."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=billfish&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=blue%20whale&type=2"
     },
     {
-      "id": "w01219",
-      "word": "bewilder",
+      "id": "w02296",
+      "word": "victim",
       "type": "single",
-      "chapterIndex": 19,
-      "globalIndex": 1219,
-      "chapter": "ch061",
-      "chapterName": "核心词汇 青少年教育 Unit 1",
-      "pronunciation": {
-        "us": "/bɪˈwɪl.dɚ/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "使困惑",
-          "en": "To make someone confused or perplexed."
-        },
-        {
-          "pos": "v.",
-          "zh": "迷失方向",
-          "en": "To cause someone to feel lost or unsure about something."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The complex instructions bewildered the students during the exam.",
-          "zh": "复杂的说明让学生在考试中感到困惑。"
-        },
-        {
-          "en": "The sudden change in plans bewildered everyone in the meeting.",
-          "zh": "计划的突然变化让会议上的每个人都感到迷惑。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'be wild' as when someone is so wild they confuse you."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=bewilder&type=2"
-    },
-    {
-      "id": "w01257",
-      "word": "dropout",
-      "type": "single",
-      "chapterIndex": 17,
-      "globalIndex": 1257,
-      "chapter": "ch063",
-      "chapterName": "核心词汇 青少年教育 Unit 3",
-      "pronunciation": {
-        "us": "/ˈdrɔːp.aʊt/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "辍学生",
-          "en": "A person who leaves school or college without finishing their studies."
-        },
-        {
-          "pos": "v.",
-          "zh": "辍学",
-          "en": "To stop attending school or college before completing the course."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Many students become dropouts because they struggle with their studies.",
-          "zh": "许多学生因为学业困难而辍学。"
-        },
-        {
-          "en": "The high dropout rate in this area is a serious concern for educators.",
-          "zh": "该地区的高辍学率是教育工作者严重关切的问题。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'drop' as dropping out of school, emphasizing leaving behind education."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dropout&type=2"
-    },
-    {
-      "id": "w01206",
-      "word": "adolescence",
-      "type": "single",
-      "chapterIndex": 6,
-      "globalIndex": 1206,
-      "chapter": "ch061",
-      "chapterName": "核心词汇 青少年教育 Unit 1",
-      "pronunciation": {
-        "us": "/ˌæd.əˈlɛs.əns/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "青春期",
-          "en": "The period of life when a person develops from a child into an adult."
-        },
-        {
-          "pos": "n.",
-          "zh": "成长阶段",
-          "en": "The stage of development characterized by physical and emotional changes."
-        }
-      ],
-      "examples": [
-        {
-          "en": "During adolescence, many people experience significant emotional changes.",
-          "zh": "在青春期，许多人经历重大情感变化。"
-        },
-        {
-          "en": "Adolescence is a crucial time for building social skills and friendships.",
-          "zh": "青春期是建立社交技能和友谊的关键时期。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'adolescence' as the 'add-a-less' phase where kids are adding more independence but still less than adults."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=adolescence&type=2"
-    },
-    {
-      "id": "w02230",
-      "word": "intruder",
-      "type": "single",
-      "chapterIndex": 330,
-      "globalIndex": 2230,
+      "chapterIndex": 396,
+      "globalIndex": 2296,
       "chapter": "ch096",
       "chapterName": "认知词汇 动物分类 常考生物",
       "pronunciation": {
-        "us": "/ɪnˈtruːdər/"
+        "us": "/ˈvɪktɪm/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "入侵者",
-          "en": "A person who enters a place without permission."
+          "zh": "受害者",
+          "en": "A person who suffers harm or injury."
         },
         {
           "pos": "n.",
-          "zh": "侵扰者",
-          "en": "Someone who disrupts a situation or activity."
+          "zh": "牺牲品",
+          "en": "Someone who is tricked or deceived."
         }
       ],
       "examples": [
         {
-          "en": "The intruder was caught by the security cameras at night.",
-          "zh": "入侵者在夜间被监控摄像头捕捉到。"
+          "en": "The victim of the accident was taken to the hospital immediately.",
+          "zh": "事故的受害者被立即送往医院。"
         },
         {
-          "en": "She felt like an intruder in the close-knit community.",
-          "zh": "她感觉自己在这个紧密团结的社区中像个入侵者。"
+          "en": "She felt like a victim after being cheated by her friend.",
+          "zh": "她在被朋友欺骗后感到自己像个受害者。"
         }
       ],
       "memoryTips": {
-        "association": "Think of an 'intruder' as someone who 'intrudes' into your space or privacy."
+        "association": "Think of a 'victim' as someone who has fallen into a trap, like a mouse in a victim's cage."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=intruder&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=victim&type=2"
     }
   ]
 }

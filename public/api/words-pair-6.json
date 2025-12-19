@@ -1,69 +1,70 @@
 {
-  "generated": "2025-12-18T22:08:09.176Z",
+  "generated": "2025-12-19T22:08:31.376Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "pessimistic",
-      "pronunciation": "/ˌpɛsɪˈmɪstɪk/",
+      "word": "mammal",
+      "pronunciation": "/ˈmæm.əl/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "悲观的",
-          "en": "Having a negative outlook on life or expecting bad outcomes."
+          "pos": "n.",
+          "zh": "哺乳动物",
+          "en": "A mammal is an animal that gives birth to live young and feeds them with milk."
         },
         {
-          "pos": "adj.",
-          "zh": "消极的",
-          "en": "Believing that the worst will happen or that things will not improve."
+          "pos": "n.",
+          "zh": "哺乳动物类",
+          "en": "Mammals are a class of animals characterized by having fur or hair."
         }
       ],
       "examples": [
         {
-          "en": "Her pessimistic view made it hard to see any positive changes.",
-          "zh": "她悲观的观点使人难以看到任何积极的变化。"
+          "en": "Dolphins are intelligent mammals that live in the ocean.",
+          "zh": "海豚是生活在海洋中的聪明哺乳动物。"
         },
         {
-          "en": "Despite the challenges, he tried not to be pessimistic about the future.",
-          "zh": "尽管面临挑战，他试图对未来保持乐观。"
+          "en": "Humans are the most advanced mammals on Earth.",
+          "zh": "人类是地球上最先进的哺乳动物。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'pessimistic' as 'pess' (like 'press') which can make you feel heavy and down."
+        "etymology": "The word 'mammal' comes from the Latin 'mamma', meaning 'breast', referring to their ability to nurse young."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pessimistic&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 14"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=mammal&type=2",
+      "chapter": "认知词汇 动物分类 动物航行能力"
     },
     {
-      "word": "atrocity",
-      "pronunciation": "/əˈtrɑːsɪti/",
+      "word": "surveillance",
+      "pronunciation": "/sərˈveɪləns/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "暴行",
-          "en": "An extremely cruel or terrible act."
+          "zh": "监视，监控",
+          "en": "The action of closely watching someone or something, often for security."
         },
         {
           "pos": "n.",
-          "zh": "残忍行为",
-          "en": "A shocking act that causes great suffering."
+          "zh": "监督，查看",
+          "en": "The act of overseeing a process or situation to ensure compliance or safety."
         }
       ],
       "examples": [
         {
-          "en": "The war crimes committed during the conflict were labeled as atrocities.",
-          "zh": "冲突期间犯下的战争罪被称为暴行。"
+          "en": "The government increased surveillance to improve national security.",
+          "zh": "政府增加了监视以提高国家安全。"
         },
         {
-          "en": "Witnesses reported the atrocity of the attacks on innocent civilians.",
-          "zh": "目击者报告了对无辜平民袭击的残忍行为。"
+          "en": "CCTV cameras are commonly used for public surveillance in cities.",
+          "zh": "监控摄像头在城市中普遍用于公共监视。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'atrocity' comes from the Latin 'atrox', meaning cruel or fierce."
+        "etymology": "The word 'surveillance' comes from the French term 'surveiller', meaning 'to watch over'.",
+        "association": "Think of 'surveillance' as 'over-watching', like a guardian keeping an eye on things."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=atrocity&type=2",
-      "chapter": "核心词汇 伦理与道德 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=surveillance&type=2",
+      "chapter": "核心词汇 民主与权利 Unit 5"
     }
   ]
 }

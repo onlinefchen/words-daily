@@ -1,61 +1,66 @@
 {
-  "generated": "2025-12-18T22:08:09.175Z",
+  "generated": "2025-12-19T22:08:31.375Z",
   "count": 2,
   "words": [
     {
-      "word": "high-calorie food",
-      "pronunciation": "/haɪ ˈkæl.ə.ri fud/",
+      "word": "mechanism",
+      "pronunciation": "/ˈmɛkənɪzəm/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "高热量食物",
-          "en": "Food that contains a lot of calories, which can lead to weight gain."
+          "zh": "机制",
+          "en": "A system or method that operates in a particular way."
+        },
+        {
+          "pos": "n.",
+          "zh": "机械装置",
+          "en": "The parts or processes that work together in a machine."
         }
       ],
       "examples": [
         {
-          "en": "Eating high-calorie food regularly can increase your body weight significantly.",
-          "zh": "经常吃高热量食物会显著增加你的体重。"
+          "en": "The mechanism of the clock was complicated and required careful assembly.",
+          "zh": "这座钟的机制很复杂，需要仔细组装。"
         },
         {
-          "en": "Many people avoid high-calorie food to maintain a healthy diet.",
-          "zh": "许多人避免高热量食物以保持健康饮食。"
+          "en": "Understanding the mechanism behind climate change is essential for effective solutions.",
+          "zh": "理解气候变化背后的机制对有效解决问题至关重要。"
         }
       ],
       "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=high-calorie%20food&type=2",
-      "chapter": "阅读真题认知词汇 美国肥胖问题"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=mechanism&type=2",
+      "chapter": "阅读真题认知词汇 电脑化的交通工具"
     },
     {
-      "word": "heartless",
-      "pronunciation": "/ˈhɑrtləs/",
+      "word": "deduce",
+      "pronunciation": "/dɪˈdjuːs/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "无情的",
-          "en": "Showing no kindness or compassion."
+          "pos": "v.",
+          "zh": "推断",
+          "en": "To come to a conclusion based on reasoning or evidence."
         },
         {
-          "pos": "adj.",
-          "zh": "冷酷的",
-          "en": "Cruel and insensitive to the feelings of others."
+          "pos": "v.",
+          "zh": "推理",
+          "en": "To infer something from the information available."
         }
       ],
       "examples": [
         {
-          "en": "The heartless decision left many families in distress.",
-          "zh": "这个无情的决定让许多家庭陷入困境。"
+          "en": "From the evidence presented, we can deduce the suspect's motive.",
+          "zh": "根据提供的证据，我们可以推断出嫌疑犯的动机。"
         },
         {
-          "en": "He was heartless enough to ignore her pleas for help.",
-          "zh": "他无情到无视她求助的请求。"
+          "en": "She deduced that he was lying based on his nervous behavior.",
+          "zh": "她根据他的紧张行为推断出他在撒谎。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'heart' as kindness; removing 'less' makes it heartless, or lacking kindness."
+        "association": "Think of 'deduce' as 'de-duce,' where 'de-' is to remove and 'duce' is like 'produce.' Removing the unclear information helps you produce a clear conclusion."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=heartless&type=2",
-      "chapter": "核心词汇 伦理与道德 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=deduce&type=2",
+      "chapter": "认知词汇 动物分类 动物智力与语言习得"
     }
   ]
 }

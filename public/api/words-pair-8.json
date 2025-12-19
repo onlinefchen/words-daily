@@ -1,68 +1,68 @@
 {
-  "generated": "2025-12-18T22:08:09.176Z",
+  "generated": "2025-12-19T22:08:31.376Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "compulsory",
-      "pronunciation": "/kəmˈpʌlsəri/",
+      "word": "pension",
+      "pronunciation": "/ˈpɛnʃən/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "强制的",
-          "en": "Required by law or a rule; mandatory."
+          "pos": "n.",
+          "zh": "养老金",
+          "en": "A regular payment made to a person after they retire from work."
         },
         {
-          "pos": "adj.",
-          "zh": "必修的",
-          "en": "Something that must be done; not optional."
+          "pos": "n.",
+          "zh": "退休金",
+          "en": "Money given to someone by the government or a company when they stop working."
         }
       ],
       "examples": [
         {
-          "en": "In many countries, education is compulsory for children.",
-          "zh": "在许多国家，教育对儿童是强制性的。"
+          "en": "Many people rely on their pension for financial security after retirement.",
+          "zh": "许多人依靠养老金在退休后获得经济保障。"
         },
         {
-          "en": "The school has compulsory uniforms for all students.",
-          "zh": "这所学校要求所有学生穿校服。"
+          "en": "The government provides a state pension for eligible citizens over a certain age.",
+          "zh": "政府为符合条件的公民提供国家养老金，年龄超过一定限制。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'compulsory' as 'compelled to do something', which sounds similar."
+        "association": "Think of 'pension' as 'pence' (small coins) saved for a future 'son' (your family), emphasizing saving for retirement."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compulsory&type=2",
-      "chapter": "核心词汇 民主与权利 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pension&type=2",
+      "chapter": "核心词汇 工作与生活 Unit 4"
     },
     {
-      "word": "billfish",
-      "pronunciation": "/ˈbɪlˌfɪʃ/",
+      "word": "polar bear",
+      "pronunciation": "/ˈpoʊlər bɛr/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "旗鱼",
-          "en": "A type of large fish known for its long bill and speed."
+          "zh": "北极熊",
+          "en": "A large white bear that lives in the Arctic."
         },
         {
           "pos": "n.",
-          "zh": "一种运动钓鱼的鱼",
-          "en": "A fish that is popular in sports fishing due to its size and fighting ability."
+          "zh": "极地环境中的动物",
+          "en": "An animal found in cold, icy regions, especially in the North."
         }
       ],
       "examples": [
         {
-          "en": "The billfish is famous among anglers for its incredible strength.",
-          "zh": "旗鱼因其惊人的力量而在钓鱼者中闻名。"
+          "en": "Polar bears are excellent swimmers, often traveling long distances.",
+          "zh": "北极熊是优秀的游泳者，通常能游很远的距离。"
         },
         {
-          "en": "Many billfish species are endangered due to overfishing.",
-          "zh": "由于过度捕捞，许多旗鱼种类正面临灭绝。"
+          "en": "Due to climate change, polar bears are losing their natural habitat.",
+          "zh": "由于气候变化，北极熊正在失去它们的自然栖息地。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'bill' as the fish's long bill and 'fish' as its aquatic nature."
+        "association": "Think of the word 'polar' as related to the poles (North and South) and 'bear' as the animal. Imagine the polar bear living at the North Pole."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=billfish&type=2",
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=polar%20bear&type=2",
       "chapter": "认知词汇 动物分类 常考生物"
     }
   ]

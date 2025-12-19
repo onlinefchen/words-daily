@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-18T22:08:09.176Z",
+  "generated": "2025-12-19T22:08:31.376Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "bewilder",
-      "pronunciation": "/bɪˈwɪl.dɚ/",
+      "word": "cosmetic",
+      "pronunciation": "/kəˈzmɛtɪk/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "使困惑",
-          "en": "To make someone confused or perplexed."
+          "pos": "adj.",
+          "zh": "化妆品的",
+          "en": "Relating to beauty products used to improve appearance."
         },
         {
-          "pos": "v.",
-          "zh": "迷失方向",
-          "en": "To cause someone to feel lost or unsure about something."
+          "pos": "n.",
+          "zh": "化妆品",
+          "en": "Products applied to the body to enhance beauty."
         }
       ],
       "examples": [
         {
-          "en": "The complex instructions bewildered the students during the exam.",
-          "zh": "复杂的说明让学生在考试中感到困惑。"
+          "en": "Many people use cosmetic products to enhance their natural beauty.",
+          "zh": "许多人使用化妆品来提升他们的自然美。"
         },
         {
-          "en": "The sudden change in plans bewildered everyone in the meeting.",
-          "zh": "计划的突然变化让会议上的每个人都感到迷惑。"
+          "en": "Cosmetic surgery has become increasingly popular in recent years.",
+          "zh": "近年来，整形手术变得越来越流行。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'be wild' as when someone is so wild they confuse you."
+        "etymology": "The word 'cosmetic' comes from the Greek 'kosmetikos', meaning 'skilled in adornment'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=bewilder&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cosmetic&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 2"
     },
     {
-      "word": "dropout",
-      "pronunciation": "/ˈdrɔːp.aʊt/",
+      "word": "compassion",
+      "pronunciation": "/kəmˈpæʃ.ən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "辍学生",
-          "en": "A person who leaves school or college without finishing their studies."
+          "zh": "同情，怜悯",
+          "en": "A feeling of deep sympathy for someone who is suffering."
         },
         {
-          "pos": "v.",
-          "zh": "辍学",
-          "en": "To stop attending school or college before completing the course."
+          "pos": "n.",
+          "zh": "怜悯之心",
+          "en": "The ability to understand and share the feelings of others."
         }
       ],
       "examples": [
         {
-          "en": "Many students become dropouts because they struggle with their studies.",
-          "zh": "许多学生因为学业困难而辍学。"
+          "en": "She showed great compassion to the victims of the disaster.",
+          "zh": "她对灾难的受害者表现出极大的同情。"
         },
         {
-          "en": "The high dropout rate in this area is a serious concern for educators.",
-          "zh": "该地区的高辍学率是教育工作者严重关切的问题。"
+          "en": "His compassion for animals led him to become a veterinarian.",
+          "zh": "他对动物的怜悯促使他成为了一名兽医。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'drop' as dropping out of school, emphasizing leaving behind education."
+        "association": "Think of 'compassion' as 'com-passion', meaning to share in someone's suffering."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dropout&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compassion&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 2"
     }
   ]
 }
