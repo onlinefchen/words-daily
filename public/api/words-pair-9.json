@@ -1,69 +1,67 @@
 {
-  "generated": "2025-12-19T22:08:31.376Z",
+  "generated": "2025-12-20T22:07:16.932Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "cosmetic",
-      "pronunciation": "/kəˈzmɛtɪk/",
+      "word": "disposal",
+      "pronunciation": "/dɪsˈpoʊ.zəl/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "化妆品的",
-          "en": "Relating to beauty products used to improve appearance."
+          "pos": "n.",
+          "zh": "处理，处置",
+          "en": "The act of getting rid of something."
         },
         {
           "pos": "n.",
-          "zh": "化妆品",
-          "en": "Products applied to the body to enhance beauty."
+          "zh": "处置权，支配权",
+          "en": "The power to make decisions about something."
         }
       ],
       "examples": [
         {
-          "en": "Many people use cosmetic products to enhance their natural beauty.",
-          "zh": "许多人使用化妆品来提升他们的自然美。"
+          "en": "The disposal of waste is essential for a clean environment.",
+          "zh": "废物的处理对保持环境清洁至关重要。"
         },
         {
-          "en": "Cosmetic surgery has become increasingly popular in recent years.",
-          "zh": "近年来，整形手术变得越来越流行。"
+          "en": "She has the disposal of her funds as she sees fit.",
+          "zh": "她可以随心所欲地支配她的资金。"
         }
       ],
-      "memoryTips": {
-        "etymology": "The word 'cosmetic' comes from the Greek 'kosmetikos', meaning 'skilled in adornment'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cosmetic&type=2",
-      "chapter": "核心词汇 动物权益与保护 Unit 2"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disposal&type=2",
+      "chapter": "核心词汇 环境保护 Unit 2"
     },
     {
-      "word": "compassion",
-      "pronunciation": "/kəmˈpæʃ.ən/",
+      "word": "sardine",
+      "pronunciation": "/sɑrˈdin/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "同情，怜悯",
-          "en": "A feeling of deep sympathy for someone who is suffering."
+          "zh": "沙丁鱼",
+          "en": "A small fish that is often packed in a can."
         },
         {
-          "pos": "n.",
-          "zh": "怜悯之心",
-          "en": "The ability to understand and share the feelings of others."
+          "pos": "v.",
+          "zh": "将...挤在一起",
+          "en": "To pack people or things tightly together in a small space."
         }
       ],
       "examples": [
         {
-          "en": "She showed great compassion to the victims of the disaster.",
-          "zh": "她对灾难的受害者表现出极大的同情。"
+          "en": "The restaurant served a delicious sardine salad with fresh vegetables.",
+          "zh": "这家餐厅提供了美味的沙丁鱼沙拉，配有新鲜的蔬菜。"
         },
         {
-          "en": "His compassion for animals led him to become a veterinarian.",
-          "zh": "他对动物的怜悯促使他成为了一名兽医。"
+          "en": "They were sardined into the subway during rush hour.",
+          "zh": "在高峰时段，他们被挤进了地铁。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'compassion' as 'com-passion', meaning to share in someone's suffering."
+        "association": "Think of sardines as small fish packed tightly in a can, like people in a crowded subway."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compassion&type=2",
-      "chapter": "核心词汇 动物权益与保护 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sardine&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

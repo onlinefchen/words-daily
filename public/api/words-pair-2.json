@@ -1,69 +1,70 @@
 {
-  "generated": "2025-12-19T22:08:31.376Z",
+  "generated": "2025-12-20T22:07:16.931Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "circulatory system",
-      "pronunciation": "/ˌsɜːr.kjəˈleɪ.tɔːr.i ˈsɪs.təm/",
+      "word": "shortage",
+      "pronunciation": "/ˈʃɔːrtɪdʒ/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "循环系统",
-          "en": "The system in the body that moves blood and nutrients."
+          "zh": "短缺",
+          "en": "A lack of something that is needed."
         },
         {
           "pos": "n.",
-          "zh": "循环系统",
-          "en": "A network of organs and vessels that supports circulation."
+          "zh": "不足",
+          "en": "An insufficient amount of a resource or supply."
         }
       ],
       "examples": [
         {
-          "en": "The circulatory system is essential for transporting oxygen throughout the body.",
-          "zh": "循环系统对于在全身运输氧气是必不可少的。"
+          "en": "The region is facing a severe water shortage this summer.",
+          "zh": "这个地区今年夏天面临严重的水资源短缺。"
         },
         {
-          "en": "Understanding the circulatory system helps us maintain good health.",
-          "zh": "了解循环系统有助于我们保持良好的健康。"
+          "en": "Many families are struggling due to the shortage of affordable housing.",
+          "zh": "由于负担得起的住房短缺，许多家庭正面临困难。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'circle' for circulation and 'system' as the organized way it works."
+        "association": "Think of 'shortage' as having a 'short' supply of something, like a 'short' amount of water."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=circulatory%20system&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=shortage&type=2",
+      "chapter": "基本词汇 名词200 Unit 8"
     },
     {
-      "word": "physical",
-      "pronunciation": "/ˈfɪz.ɪ.kəl/",
+      "word": "aspirant",
+      "pronunciation": "/əˈspaɪrənt/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "身体的",
-          "en": "Related to the body or material things."
+          "pos": "n.",
+          "zh": "有抱负的人",
+          "en": "A person who aspires to achieve something, especially a career."
         },
         {
           "pos": "adj.",
-          "zh": "物理的",
-          "en": "Relating to the science of matter and energy."
+          "zh": "有抱负的",
+          "en": "Having ambitions or strong desires to succeed."
         }
       ],
       "examples": [
         {
-          "en": "She enjoys physical activities like running and swimming.",
-          "zh": "她喜欢跑步和游泳等身体活动。"
+          "en": "The university is known for attracting talented aspirants each year.",
+          "zh": "这所大学以每年吸引有才华的有抱负者而闻名。"
         },
         {
-          "en": "The teacher explained the physical laws of motion to the class.",
-          "zh": "老师向班级讲解了运动的物理定律。"
+          "en": "As an aspirant writer, she dedicates time to improve her skills.",
+          "zh": "作为一名有抱负的作家，她花时间提高自己的技能。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'physical' as relating to the 'body' or 'physical world', which is tangible and can be touched."
+        "etymology": "The word 'aspirant' comes from the Latin 'aspirare', meaning 'to breathe upon' or 'to strive for'.",
+        "association": "Think of 'aspirant' as someone who is 'aspiring' to reach a goal, like climbing a ladder to success."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=physical&type=2",
-      "chapter": "核心词汇 健康话题 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aspirant&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 2"
     }
   ]
 }

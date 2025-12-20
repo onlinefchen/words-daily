@@ -1,66 +1,69 @@
 {
-  "generated": "2025-12-19T22:08:31.375Z",
+  "generated": "2025-12-20T22:07:16.930Z",
   "count": 2,
   "words": [
     {
-      "word": "mechanism",
-      "pronunciation": "/ˈmɛkənɪzəm/",
+      "word": "dissolve",
+      "pronunciation": "/dɪˈzɒlv/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "机制",
-          "en": "A system or method that operates in a particular way."
+          "pos": "v.",
+          "zh": "溶解",
+          "en": "To become part of a liquid or to cause something to do this."
         },
         {
-          "pos": "n.",
-          "zh": "机械装置",
-          "en": "The parts or processes that work together in a machine."
+          "pos": "v.",
+          "zh": "解散",
+          "en": "To officially end a group or organization."
         }
       ],
       "examples": [
         {
-          "en": "The mechanism of the clock was complicated and required careful assembly.",
-          "zh": "这座钟的机制很复杂，需要仔细组装。"
+          "en": "The sugar will dissolve quickly in hot water.",
+          "zh": "糖会很快在热水中溶解。"
         },
         {
-          "en": "Understanding the mechanism behind climate change is essential for effective solutions.",
-          "zh": "理解气候变化背后的机制对有效解决问题至关重要。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=mechanism&type=2",
-      "chapter": "阅读真题认知词汇 电脑化的交通工具"
-    },
-    {
-      "word": "deduce",
-      "pronunciation": "/dɪˈdjuːs/",
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "推断",
-          "en": "To come to a conclusion based on reasoning or evidence."
-        },
-        {
-          "pos": "v.",
-          "zh": "推理",
-          "en": "To infer something from the information available."
-        }
-      ],
-      "examples": [
-        {
-          "en": "From the evidence presented, we can deduce the suspect's motive.",
-          "zh": "根据提供的证据，我们可以推断出嫌疑犯的动机。"
-        },
-        {
-          "en": "She deduced that he was lying based on his nervous behavior.",
-          "zh": "她根据他的紧张行为推断出他在撒谎。"
+          "en": "The committee decided to dissolve after the project finished.",
+          "zh": "委员会决定在项目结束后解散。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'deduce' as 'de-duce,' where 'de-' is to remove and 'duce' is like 'produce.' Removing the unclear information helps you produce a clear conclusion."
+        "association": "Think of 'dissolving' as 'disappearing' into a liquid, like magic."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=deduce&type=2",
-      "chapter": "认知词汇 动物分类 动物智力与语言习得"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dissolve&type=2",
+      "chapter": "认知词汇 科技分类 探索太空生物"
+    },
+    {
+      "word": "reject",
+      "pronunciation": "/rɪˈdʒɛkt/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "拒绝",
+          "en": "To refuse to accept or agree with something."
+        },
+        {
+          "pos": "v.",
+          "zh": "退回",
+          "en": "To send something away because it is not wanted."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The committee decided to reject the proposal for funding.",
+          "zh": "委员会决定拒绝资助提案。"
+        },
+        {
+          "en": "He felt hurt when she chose to reject his invitation.",
+          "zh": "当她选择拒绝他的邀请时，他感到受伤。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'reject' comes from the Latin 'reicere', meaning 'to throw back'.",
+        "association": "Think of a 'rejection letter' that you throw away because you don't want it."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=reject&type=2",
+      "chapter": "基本词汇 动词200 Unit 10"
     }
   ]
 }

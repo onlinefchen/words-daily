@@ -1,70 +1,67 @@
 {
-  "generated": "2025-12-19T22:08:31.376Z",
+  "generated": "2025-12-20T22:07:16.931Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "mammal",
-      "pronunciation": "/ˈmæm.əl/",
+      "word": "tuna",
+      "pronunciation": "/ˈtuː.nə/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "哺乳动物",
-          "en": "A mammal is an animal that gives birth to live young and feeds them with milk."
+          "zh": "金枪鱼",
+          "en": "A large fish that is commonly eaten and is known for its strong flavor."
         },
         {
           "pos": "n.",
-          "zh": "哺乳动物类",
-          "en": "Mammals are a class of animals characterized by having fur or hair."
+          "zh": "一种罐头食品",
+          "en": "Food made from tuna fish, often found in cans."
         }
       ],
       "examples": [
         {
-          "en": "Dolphins are intelligent mammals that live in the ocean.",
-          "zh": "海豚是生活在海洋中的聪明哺乳动物。"
+          "en": "Many people enjoy a salad topped with tuna for lunch.",
+          "zh": "许多人喜欢用金枪鱼做午餐沙拉。"
         },
         {
-          "en": "Humans are the most advanced mammals on Earth.",
-          "zh": "人类是地球上最先进的哺乳动物。"
+          "en": "Canned tuna is a convenient and nutritious meal option.",
+          "zh": "罐装金枪鱼是一种方便且营养丰富的餐食选择。"
         }
       ],
-      "memoryTips": {
-        "etymology": "The word 'mammal' comes from the Latin 'mamma', meaning 'breast', referring to their ability to nurse young."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=mammal&type=2",
-      "chapter": "认知词汇 动物分类 动物航行能力"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=tuna&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "surveillance",
-      "pronunciation": "/sərˈveɪləns/",
+      "word": "entomologist",
+      "pronunciation": "/ˌɛntəˈmɒlədʒɪst/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "监视，监控",
-          "en": "The action of closely watching someone or something, often for security."
+          "zh": "昆虫学家",
+          "en": "A scientist who studies insects."
         },
         {
           "pos": "n.",
-          "zh": "监督，查看",
-          "en": "The act of overseeing a process or situation to ensure compliance or safety."
+          "zh": "昆虫专家",
+          "en": "An expert in the field of entomology."
         }
       ],
       "examples": [
         {
-          "en": "The government increased surveillance to improve national security.",
-          "zh": "政府增加了监视以提高国家安全。"
+          "en": "The entomologist discovered a new species of butterfly.",
+          "zh": "昆虫学家发现了一种新的蝴蝶物种。"
         },
         {
-          "en": "CCTV cameras are commonly used for public surveillance in cities.",
-          "zh": "监控摄像头在城市中普遍用于公共监视。"
+          "en": "Many entomologists work to protect endangered insect species.",
+          "zh": "许多昆虫学家致力于保护濒危的昆虫物种。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'surveillance' comes from the French term 'surveiller', meaning 'to watch over'.",
-        "association": "Think of 'surveillance' as 'over-watching', like a guardian keeping an eye on things."
+        "association": "Think of 'entomo-' like 'insect' and '-ologist' as 'a person who studies'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=surveillance&type=2",
-      "chapter": "核心词汇 民主与权利 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=entomologist&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

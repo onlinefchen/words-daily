@@ -1,63 +1,68 @@
 {
-  "generated": "2025-12-19T22:08:31.376Z",
+  "generated": "2025-12-20T22:07:16.931Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "stability",
-      "pronunciation": "/stəˈbɪləti/",
+      "word": "aquatic life",
+      "pronunciation": "/əˈkwætɪk laɪf/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "稳定性",
-          "en": "The quality of being steady and not changing."
+          "zh": "水生生物",
+          "en": "Living organisms that live in water."
         },
         {
           "pos": "n.",
-          "zh": "稳定状态",
-          "en": "The state of being secure and not likely to fall or change."
+          "zh": "水域生态",
+          "en": "The ecosystem of plants and animals in aquatic environments."
         }
       ],
       "examples": [
         {
-          "en": "The stability of the economy is crucial for long-term growth.",
-          "zh": "经济的稳定性对长期增长至关重要。"
+          "en": "Coral reefs support a diverse range of aquatic life.",
+          "zh": "珊瑚礁支持着多样的水生生物。"
         },
         {
-          "en": "She values the stability of her job above all else.",
-          "zh": "她最看重的是工作的稳定性。"
+          "en": "Pollution can severely harm aquatic life in rivers.",
+          "zh": "污染会严重危害河流中的水生生物。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a stable table that doesn't wobble; it stays steady."
+        "association": "Think of 'aqua' (water) to remember that aquatic life refers to water-dwelling organisms."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=stability&type=2",
-      "chapter": "核心词汇 民主与权利 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aquatic%20life&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "anticoagulant",
-      "pronunciation": "/ˌæntiˈkoʊ.ə.ɡə.lənt/",
+      "word": "spawn",
+      "pronunciation": "/spɔːn/",
       "meanings": [
         {
+          "pos": "v.",
+          "zh": "产生",
+          "en": "To produce or create something, especially in large numbers."
+        },
+        {
           "pos": "n.",
-          "zh": "抗凝剂",
-          "en": "A substance that prevents blood from clotting."
+          "zh": "鱼卵",
+          "en": "The eggs of fish or other aquatic animals."
         }
       ],
       "examples": [
         {
-          "en": "Doctors often prescribe anticoagulants to reduce the risk of strokes.",
-          "zh": "医生常常开抗凝剂来降低中风风险。"
+          "en": "The river is known to spawn thousands of fish every spring.",
+          "zh": "这条河每年春天都能产出成千上万的鱼。"
         },
         {
-          "en": "Taking anticoagulants requires careful monitoring of blood levels.",
-          "zh": "服用抗凝剂需要仔细监测血液水平。"
+          "en": "The scientist studied how pollution affects fish spawn in the ocean.",
+          "zh": "科学家研究了污染如何影响海洋中的鱼卵。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'anti' as against, and 'coagulant' as something that clots. So, anticoagulant is something that works against clotting."
+        "association": "Think of 'spawn' like 'sowing' seeds; both involve creating new life."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=anticoagulant&type=2",
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=spawn&type=2",
       "chapter": "认知词汇 动物分类 常考生物"
     }
   ]

@@ -1,69 +1,65 @@
 {
-  "generated": "2025-12-19T22:08:31.376Z",
+  "generated": "2025-12-20T22:07:16.931Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "therapy",
-      "pronunciation": "/ˈθɛrəpi/",
+      "word": "disposal",
+      "pronunciation": "/dɪˈspoʊ.zəl/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "治疗",
-          "en": "A treatment to help improve mental or physical health."
+          "zh": "处理，处置",
+          "en": "The action of getting rid of something."
         },
-        {
-          "pos": "n.",
-          "zh": "疗法",
-          "en": "A method used to treat a particular condition or illness."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Many people find therapy helpful for managing stress and anxiety.",
-          "zh": "许多人发现治疗对管理压力和焦虑很有帮助。"
-        },
-        {
-          "en": "Cognitive behavioral therapy can change negative thought patterns.",
-          "zh": "认知行为疗法可以改变消极的思维模式。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'therapy' comes from the Greek word 'therapeia', meaning 'healing' or 'treatment'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=therapy&type=2",
-      "chapter": "核心词汇 健康话题 Unit 5"
-    },
-    {
-      "word": "protest",
-      "pronunciation": "/ˈproʊ.tɛst/",
-      "meanings": [
         {
           "pos": "v.",
-          "zh": "抗议",
-          "en": "To express strong disagreement about something."
-        },
-        {
-          "pos": "n.",
-          "zh": "抗议活动",
-          "en": "An event where people show their disagreement publicly."
+          "zh": "处理，处置",
+          "en": "To arrange for something to be taken away or disposed of."
         }
       ],
       "examples": [
         {
-          "en": "Many students decided to protest against the new school rules.",
-          "zh": "许多学生决定抗议新的校规。"
+          "en": "The disposal of waste is crucial for environmental health.",
+          "zh": "废物的处理对环境健康至关重要。"
         },
         {
-          "en": "The protest attracted thousands of people from all backgrounds.",
-          "zh": "这场抗议吸引了来自各行各业的数千人。"
+          "en": "They arranged for the disposal of old furniture last week.",
+          "zh": "他们上周安排了旧家具的处理。"
         }
       ],
-      "memoryTips": {
-        "etymology": "The word 'protest' comes from Latin 'protestari', meaning 'to testify publicly'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=protest&type=2",
-      "chapter": "核心词汇 法制与犯罪 Unit 4"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disposal&type=2",
+      "chapter": "核心词汇 科技发展 Unit 2"
+    },
+    {
+      "word": "humpback whale",
+      "pronunciation": "/ˈhʌmpˌbæk weɪl/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "座头鲸",
+          "en": "A large marine mammal known for its distinctive hump and long pectoral fins."
+        },
+        {
+          "pos": "n.",
+          "zh": "一种鲸鱼",
+          "en": "A type of whale famous for its songs and acrobatic displays."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The humpback whale is known for its beautiful songs during mating season.",
+          "zh": "座头鲸在交配季节以其美妙的歌声而闻名。"
+        },
+        {
+          "en": "Many tourists flock to see humpback whales breaching in the ocean.",
+          "zh": "许多游客涌向海洋观看座头鲸跃出水面。"
+        }
+      ],
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=humpback%20whale&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

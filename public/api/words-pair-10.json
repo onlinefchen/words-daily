@@ -1,69 +1,68 @@
 {
-  "generated": "2025-12-19T22:08:31.377Z",
+  "generated": "2025-12-20T22:07:16.932Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "blue whale",
-      "pronunciation": "/bluː weɪl/",
+      "word": "bait",
+      "pronunciation": "/beɪt/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "蓝鲸",
-          "en": "The blue whale is the largest animal on Earth, known for its immense size."
+          "zh": "诱饵",
+          "en": "Bait is something used to attract fish or animals."
         },
         {
-          "pos": "n.",
-          "zh": "蓝鲸",
-          "en": "Blue whales are marine mammals that live in oceans and feed on small shrimp-like animals called krill."
+          "pos": "v.",
+          "zh": "引诱",
+          "en": "To bait means to entice someone into doing something."
         }
       ],
       "examples": [
         {
-          "en": "The blue whale can grow up to 100 feet long and weigh over 200 tons.",
-          "zh": "蓝鲸可以长到100英尺，体重超过200吨。"
+          "en": "He used worms as bait to catch fish in the lake.",
+          "zh": "他用虫子作为诱饵在湖里钓鱼。"
         },
         {
-          "en": "Scientists study blue whales to understand their migration patterns and feeding habits.",
-          "zh": "科学家研究蓝鲸以了解它们的迁徙模式和觅食习惯。"
+          "en": "She tried to bait him into an argument by making rude comments.",
+          "zh": "她试图通过做粗鲁的评论来引诱他争论。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of the color blue representing the ocean, where blue whales live, and their large size as a symbol of strength and majesty."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=blue%20whale&type=2",
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=bait&type=2",
       "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "victim",
-      "pronunciation": "/ˈvɪktɪm/",
+      "word": "primate",
+      "pronunciation": "/ˈpraɪˌmeɪt/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "受害者",
-          "en": "A person who suffers harm or injury."
+          "zh": "灵长类动物",
+          "en": "A group of mammals that includes humans, monkeys, and apes."
         },
         {
           "pos": "n.",
-          "zh": "牺牲品",
-          "en": "Someone who is tricked or deceived."
+          "zh": "首要人物",
+          "en": "A person who holds a leading or important position."
         }
       ],
       "examples": [
         {
-          "en": "The victim of the accident was taken to the hospital immediately.",
-          "zh": "事故的受害者被立即送往医院。"
+          "en": "Monkeys are fascinating primates that exhibit complex social behaviors.",
+          "zh": "猴子是迷人的灵长类动物，表现出复杂的社会行为。"
         },
         {
-          "en": "She felt like a victim after being cheated by her friend.",
-          "zh": "她在被朋友欺骗后感到自己像个受害者。"
+          "en": "In many cultures, the primate symbolizes intelligence and adaptability.",
+          "zh": "在许多文化中，灵长类动物象征着智慧和适应能力。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'victim' as someone who has fallen into a trap, like a mouse in a victim's cage."
+        "etymology": "The word 'primate' comes from the Latin 'primat-', meaning 'first' or 'chief'.",
+        "association": "Think of 'prime' in 'primate' to remember it includes leading animals like monkeys and apes."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=victim&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=primate&type=2",
+      "chapter": "认知词汇 动物分类 动物思维"
     }
   ]
 }

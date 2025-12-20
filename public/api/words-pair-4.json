@@ -1,68 +1,68 @@
 {
-  "generated": "2025-12-19T22:08:31.376Z",
+  "generated": "2025-12-20T22:07:16.931Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "trout",
-      "pronunciation": "/traʊt/",
+      "word": "block",
+      "pronunciation": "/blɑk/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "鳟鱼",
-          "en": "A type of fish that lives in fresh water."
+          "zh": "块；障碍",
+          "en": "A solid piece of material with flat surfaces."
         },
         {
           "pos": "v.",
-          "zh": "追逐，猎捕",
-          "en": "To hunt or pursue something."
+          "zh": "阻止；封锁",
+          "en": "To prevent movement or progress."
         }
       ],
       "examples": [
         {
-          "en": "He caught a large trout while fishing in the river.",
-          "zh": "他在河里钓到了一条大鳟鱼。"
+          "en": "He used a block of wood to hold the door open.",
+          "zh": "他用一块木头把门撑开。"
         },
         {
-          "en": "Many anglers enjoy trout fishing during the summer months.",
-          "zh": "许多钓鱼爱好者在夏季喜欢钓鳟鱼。"
+          "en": "They need to block the road for maintenance work.",
+          "zh": "他们需要封锁道路进行维修工作。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'trout' as 'trout in the water', which helps visualize its habitat."
+        "association": "Think of a 'block' as something that stops or holds back, like a block in a game."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=trout&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=block&type=2",
+      "chapter": "基本词汇 动词200 Unit 3"
     },
     {
-      "word": "propeller",
-      "pronunciation": "/prəˈpɛlər/",
+      "word": "larva",
+      "pronunciation": "/ˈlɑːrvə/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "螺旋桨",
-          "en": "A device with blades that spins to propel a vehicle, like a boat or plane."
+          "zh": "幼虫",
+          "en": "A young form of an insect that has not yet developed into an adult."
         },
         {
-          "pos": "v.",
-          "zh": "推动",
-          "en": "To push or drive something forward, especially in terms of movement."
+          "pos": "n.",
+          "zh": "虫态",
+          "en": "The early stage in the life cycle of certain animals, before they change into their adult form."
         }
       ],
       "examples": [
         {
-          "en": "The airplane's propeller started spinning faster as it took off.",
-          "zh": "飞机的螺旋桨在起飞时开始加速旋转。"
+          "en": "The larva of the butterfly is often found in the garden.",
+          "zh": "蝴蝶的幼虫常常在花园里被发现。"
         },
         {
-          "en": "To move forward, the boat relies on its powerful propeller.",
-          "zh": "为了向前移动，船依靠其强大的螺旋桨。"
+          "en": "After several weeks, the larva transforms into a pupa.",
+          "zh": "几周后，幼虫会变成蛹。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'propelling' force that pushes you forward in a boat or plane."
+        "association": "Think of 'larva' as 'larvae' (plural) which sounds like 'lava,' representing something that transforms, like lava turning into rock."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=propeller&type=2",
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=larva&type=2",
       "chapter": "认知词汇 动物分类 常考生物"
     }
   ]

@@ -1,68 +1,61 @@
 {
-  "generated": "2025-12-19T22:08:31.376Z",
+  "generated": "2025-12-20T22:07:16.932Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "pension",
-      "pronunciation": "/ˈpɛnʃən/",
+      "word": "volcanic landform",
+      "pronunciation": "/vɒlˈkænɪk ˈlændfɔrm/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "养老金",
-          "en": "A regular payment made to a person after they retire from work."
-        },
-        {
-          "pos": "n.",
-          "zh": "退休金",
-          "en": "Money given to someone by the government or a company when they stop working."
+          "zh": "火山地貌",
+          "en": "A landform created by volcanic activity, like mountains or craters."
         }
       ],
       "examples": [
         {
-          "en": "Many people rely on their pension for financial security after retirement.",
-          "zh": "许多人依靠养老金在退休后获得经济保障。"
+          "en": "The volcanic landform created a stunning landscape in the national park.",
+          "zh": "火山地貌在国家公园中创造了令人惊叹的风景。"
         },
         {
-          "en": "The government provides a state pension for eligible citizens over a certain age.",
-          "zh": "政府为符合条件的公民提供国家养老金，年龄超过一定限制。"
+          "en": "Scientists study volcanic landforms to understand Earth's geological history.",
+          "zh": "科学家研究火山地貌以理解地球的地质历史。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'pension' as 'pence' (small coins) saved for a future 'son' (your family), emphasizing saving for retirement."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pension&type=2",
-      "chapter": "核心词汇 工作与生活 Unit 4"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=volcanic%20landform&type=2",
+      "chapter": "认知词汇 自然分类 火山"
     },
     {
-      "word": "polar bear",
-      "pronunciation": "/ˈpoʊlər bɛr/",
+      "word": "nervous system",
+      "pronunciation": "/ˈnɜrvəs ˈsɪstəm/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "北极熊",
-          "en": "A large white bear that lives in the Arctic."
+          "zh": "神经系统",
+          "en": "The network of nerves and cells that transmit signals between different parts of the body."
         },
         {
           "pos": "n.",
-          "zh": "极地环境中的动物",
-          "en": "An animal found in cold, icy regions, especially in the North."
+          "zh": "神经系统",
+          "en": "The system in the body that controls how we feel and move."
         }
       ],
       "examples": [
         {
-          "en": "Polar bears are excellent swimmers, often traveling long distances.",
-          "zh": "北极熊是优秀的游泳者，通常能游很远的距离。"
+          "en": "The nervous system controls all our body movements and reactions.",
+          "zh": "神经系统控制我们所有的身体动作和反应。"
         },
         {
-          "en": "Due to climate change, polar bears are losing their natural habitat.",
-          "zh": "由于气候变化，北极熊正在失去它们的自然栖息地。"
+          "en": "Understanding the nervous system helps us treat many medical conditions.",
+          "zh": "了解神经系统有助于我们治疗许多医疗状况。"
         }
       ],
       "memoryTips": {
-        "association": "Think of the word 'polar' as related to the poles (North and South) and 'bear' as the animal. Imagine the polar bear living at the North Pole."
+        "association": "Think of 'nervous' as related to feelings and 'system' as a complex network, together they form how we feel and react."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=polar%20bear&type=2",
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=nervous%20system&type=2",
       "chapter": "认知词汇 动物分类 常考生物"
     }
   ]

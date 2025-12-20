@@ -1,69 +1,70 @@
 {
-  "generated": "2025-12-19T22:08:31.376Z",
+  "generated": "2025-12-20T22:07:16.931Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "hornet",
-      "pronunciation": "/ˈhɔrnɪt/",
+      "word": "alter",
+      "pronunciation": "/ˈɔːltər/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "黄蜂",
-          "en": "A large, aggressive wasp known for its painful sting."
-        },
-        {
-          "pos": "n.",
-          "zh": "激烈的竞争者",
-          "en": "A person or thing that is aggressive and challenging."
-        }
-      ],
-      "examples": [
-        {
-          "en": "A hornet can deliver a very painful sting if provoked.",
-          "zh": "如果受到挑衅，黄蜂可以造成非常痛苦的蜇伤。"
-        },
-        {
-          "en": "The athlete was a hornet on the field, fiercely competing with others.",
-          "zh": "这位运动员在场上如同黄蜂一样，激烈地与他人竞争。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of a hornet as a 'horned' creature that stings, making it memorable due to its aggressive nature."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=hornet&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
-    },
-    {
-      "word": "erosion",
-      "pronunciation": "/ɪˈroʊ.ʒən/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "侵蚀",
-          "en": "The process of being worn away by wind, water, or other natural forces."
+          "pos": "v.",
+          "zh": "改变",
+          "en": "To change something, usually slightly."
         },
         {
           "pos": "v.",
-          "zh": "侵蚀",
-          "en": "To gradually destroy or wear away something."
+          "zh": "修改",
+          "en": "To make a change to something, especially a document or plan."
         }
       ],
       "examples": [
         {
-          "en": "The erosion of the coastline is a serious environmental issue.",
-          "zh": "海岸线的侵蚀是一个严重的环境问题。"
+          "en": "She decided to alter her dress for the upcoming party.",
+          "zh": "她决定为即将到来的聚会修改她的裙子。"
         },
         {
-          "en": "Heavy rains can cause soil erosion, leading to land degradation.",
-          "zh": "大雨可能导致土壤侵蚀，从而导致土地退化。"
+          "en": "The teacher asked me to alter my essay to improve its clarity.",
+          "zh": "老师让我修改我的论文以提高其清晰度。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'erosion' comes from the Latin 'erosio', meaning 'a rubbing away'."
+        "association": "Think of 'alter' as 'altar' where changes or sacrifices are made.",
+        "mnemonic": "Alter sounds like 'altar', where changes are often made for devotion."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=erosion&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=alter&type=2",
+      "chapter": "基本词汇 动词200 Unit 2"
+    },
+    {
+      "word": "foster",
+      "pronunciation": "/ˈfɔːstər/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "培养，促进",
+          "en": "To encourage or promote the development of something."
+        },
+        {
+          "pos": "n.",
+          "zh": "养育者，抚养者",
+          "en": "A person who takes care of a child not biologically their own."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The school aims to foster creativity in its students.",
+          "zh": "学校的目标是培养学生的创造力。"
+        },
+        {
+          "en": "They decided to foster a child in need of a loving home.",
+          "zh": "他们决定收养一个需要温暖家庭的孩子。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'foster' as 'fostering' a plant; you help it grow and thrive."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=foster&type=2",
+      "chapter": "基本词汇 动词200 Unit 7"
     }
   ]
 }
