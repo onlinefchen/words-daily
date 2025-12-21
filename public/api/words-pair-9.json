@@ -1,66 +1,68 @@
 {
-  "generated": "2025-12-20T22:07:16.932Z",
+  "generated": "2025-12-21T22:07:48.724Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "disposal",
-      "pronunciation": "/dɪsˈpoʊ.zəl/",
+      "word": "maltreat",
+      "pronunciation": "/mælˈtrit/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "处理，处置",
-          "en": "The act of getting rid of something."
-        },
-        {
-          "pos": "n.",
-          "zh": "处置权，支配权",
-          "en": "The power to make decisions about something."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The disposal of waste is essential for a clean environment.",
-          "zh": "废物的处理对保持环境清洁至关重要。"
-        },
-        {
-          "en": "She has the disposal of her funds as she sees fit.",
-          "zh": "她可以随心所欲地支配她的资金。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disposal&type=2",
-      "chapter": "核心词汇 环境保护 Unit 2"
-    },
-    {
-      "word": "sardine",
-      "pronunciation": "/sɑrˈdin/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "沙丁鱼",
-          "en": "A small fish that is often packed in a can."
+          "pos": "v.",
+          "zh": "虐待",
+          "en": "To treat someone badly or cruelly."
         },
         {
           "pos": "v.",
-          "zh": "将...挤在一起",
-          "en": "To pack people or things tightly together in a small space."
+          "zh": "滥用",
+          "en": "To misuse something in a harmful way."
         }
       ],
       "examples": [
         {
-          "en": "The restaurant served a delicious sardine salad with fresh vegetables.",
-          "zh": "这家餐厅提供了美味的沙丁鱼沙拉，配有新鲜的蔬菜。"
+          "en": "The organization fights against those who maltreat animals.",
+          "zh": "该组织致力于打击虐待动物的行为。"
         },
         {
-          "en": "They were sardined into the subway during rush hour.",
-          "zh": "在高峰时段，他们被挤进了地铁。"
+          "en": "It is illegal to maltreat children in any circumstance.",
+          "zh": "在任何情况下虐待儿童都是违法的。"
         }
       ],
       "memoryTips": {
-        "association": "Think of sardines as small fish packed tightly in a can, like people in a crowded subway."
+        "association": "Think of 'maltreat' as treating someone like 'mal' (bad)."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sardine&type=2",
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=maltreat&type=2",
+      "chapter": "核心词汇 工作与生活 Unit 4"
+    },
+    {
+      "word": "pelt",
+      "pronunciation": "/pɛlt/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "投掷",
+          "en": "To throw something with force."
+        },
+        {
+          "pos": "n.",
+          "zh": "大量的雨或雪",
+          "en": "A heavy fall of rain or snow."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The children pelted each other with snowballs during the winter.",
+          "zh": "冬天，孩子们互相投掷雪球。"
+        },
+        {
+          "en": "Heavy rain began to pelt down, soaking everyone outside.",
+          "zh": "大雨开始倾泻而下，淋湿了外面所有人。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'pelt' as 'pelting' something like a snowball or rain, which is a strong, forceful action."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pelt&type=2",
       "chapter": "认知词汇 动物分类 常考生物"
     }
   ]

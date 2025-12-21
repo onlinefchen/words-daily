@@ -1,69 +1,68 @@
 {
-  "generated": "2025-12-20T22:07:16.930Z",
+  "generated": "2025-12-21T22:07:48.723Z",
   "count": 2,
   "words": [
     {
-      "word": "dissolve",
-      "pronunciation": "/dɪˈzɒlv/",
+      "word": "conceive",
+      "pronunciation": "/kənˈsiːv/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "溶解",
-          "en": "To become part of a liquid or to cause something to do this."
+          "zh": "构思",
+          "en": "To form or develop an idea in the mind."
         },
         {
           "pos": "v.",
-          "zh": "解散",
-          "en": "To officially end a group or organization."
+          "zh": "怀孕",
+          "en": "To become pregnant with a child."
         }
       ],
       "examples": [
         {
-          "en": "The sugar will dissolve quickly in hot water.",
-          "zh": "糖会很快在热水中溶解。"
+          "en": "She could not conceive of a life without music.",
+          "zh": "她无法想象没有音乐的生活。"
         },
         {
-          "en": "The committee decided to dissolve after the project finished.",
-          "zh": "委员会决定在项目结束后解散。"
+          "en": "They conceived a plan to improve the community.",
+          "zh": "他们构思了一个改善社区的计划。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'dissolving' as 'disappearing' into a liquid, like magic."
+        "association": "Think of 'conceive' as 'con- (with) + ceive (receive)', meaning to receive an idea."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dissolve&type=2",
-      "chapter": "认知词汇 科技分类 探索太空生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=conceive&type=2",
+      "chapter": "认知词汇 环境分类 欧洲森林保护"
     },
     {
-      "word": "reject",
-      "pronunciation": "/rɪˈdʒɛkt/",
+      "word": "ridiculous",
+      "pronunciation": "/rɪˈdɪkjələs/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "拒绝",
-          "en": "To refuse to accept or agree with something."
+          "pos": "adj.",
+          "zh": "荒谬的",
+          "en": "Something that is very silly or unreasonable."
         },
         {
-          "pos": "v.",
-          "zh": "退回",
-          "en": "To send something away because it is not wanted."
+          "pos": "adj.",
+          "zh": "可笑的",
+          "en": "Something that causes laughter because it is absurd."
         }
       ],
       "examples": [
         {
-          "en": "The committee decided to reject the proposal for funding.",
-          "zh": "委员会决定拒绝资助提案。"
+          "en": "It’s ridiculous to think that we can finish this project in one day.",
+          "zh": "认为我们能在一天内完成这个项目是荒谬的。"
         },
         {
-          "en": "He felt hurt when she chose to reject his invitation.",
-          "zh": "当她选择拒绝他的邀请时，他感到受伤。"
+          "en": "His excuses for being late were so ridiculous that everyone laughed.",
+          "zh": "他迟到的借口如此可笑，以至于大家都笑了。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'reject' comes from the Latin 'reicere', meaning 'to throw back'.",
-        "association": "Think of a 'rejection letter' that you throw away because you don't want it."
+        "association": "Think of 'ridiculous' as 'rid' (to laugh) and 'culous' (like 'foolish'), so it relates to foolish laughter."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=reject&type=2",
-      "chapter": "基本词汇 动词200 Unit 10"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ridiculous&type=2",
+      "chapter": "核心词汇 伦理与道德 Unit 4"
     }
   ]
 }

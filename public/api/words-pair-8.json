@@ -1,62 +1,67 @@
 {
-  "generated": "2025-12-20T22:07:16.932Z",
+  "generated": "2025-12-21T22:07:48.724Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "volcanic landform",
-      "pronunciation": "/vɒlˈkænɪk ˈlændfɔrm/",
+      "word": "gum tree",
+      "pronunciation": "/ɡʌm tri/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "火山地貌",
-          "en": "A landform created by volcanic activity, like mountains or craters."
+          "zh": "胶树",
+          "en": "A type of tree that produces a sticky substance called gum."
+        },
+        {
+          "pos": "n.",
+          "zh": "尤加利树",
+          "en": "A tree of the eucalyptus family, often found in Australia."
         }
       ],
       "examples": [
         {
-          "en": "The volcanic landform created a stunning landscape in the national park.",
-          "zh": "火山地貌在国家公园中创造了令人惊叹的风景。"
+          "en": "The gum tree provides a habitat for many native animals.",
+          "zh": "胶树为许多本土动物提供栖息地。"
         },
         {
-          "en": "Scientists study volcanic landforms to understand Earth's geological history.",
-          "zh": "科学家研究火山地貌以理解地球的地质历史。"
+          "en": "In Australia, the gum tree is a symbol of the landscape.",
+          "zh": "在澳大利亚，胶树是自然风景的象征。"
         }
       ],
       "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=volcanic%20landform&type=2",
-      "chapter": "认知词汇 自然分类 火山"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=gum%20tree&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "nervous system",
-      "pronunciation": "/ˈnɜrvəs ˈsɪstəm/",
+      "word": "environment",
+      "pronunciation": "/ɪnˈvaɪrənmənt/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "神经系统",
-          "en": "The network of nerves and cells that transmit signals between different parts of the body."
+          "zh": "环境",
+          "en": "The natural world around us, including land, air, and water."
         },
         {
           "pos": "n.",
-          "zh": "神经系统",
-          "en": "The system in the body that controls how we feel and move."
+          "zh": "环境",
+          "en": "The conditions or influences affecting the growth and development of someone or something."
         }
       ],
       "examples": [
         {
-          "en": "The nervous system controls all our body movements and reactions.",
-          "zh": "神经系统控制我们所有的身体动作和反应。"
+          "en": "Protecting the environment is essential for future generations.",
+          "zh": "保护环境对未来几代人至关重要。"
         },
         {
-          "en": "Understanding the nervous system helps us treat many medical conditions.",
-          "zh": "了解神经系统有助于我们治疗许多医疗状况。"
+          "en": "Many species are endangered due to changes in their environment.",
+          "zh": "许多物种因其环境的变化而濒临灭绝。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'nervous' as related to feelings and 'system' as a complex network, together they form how we feel and react."
+        "association": "Think of 'environment' as 'the surroundings that nurture life', like a garden."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=nervous%20system&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=environment&type=2",
+      "chapter": "基本词汇 名词200 Unit 4"
     }
   ]
 }

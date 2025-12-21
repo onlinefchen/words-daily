@@ -1,68 +1,69 @@
 {
-  "generated": "2025-12-20T22:07:16.932Z",
+  "generated": "2025-12-21T22:07:48.724Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "bait",
-      "pronunciation": "/beɪt/",
+      "word": "edifying",
+      "pronunciation": "/ˈɛdɪfaɪɪŋ/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "诱饵",
-          "en": "Bait is something used to attract fish or animals."
+          "pos": "adj.",
+          "zh": "启发性的",
+          "en": "Providing moral or intellectual instruction."
         },
         {
-          "pos": "v.",
-          "zh": "引诱",
-          "en": "To bait means to entice someone into doing something."
+          "pos": "adj.",
+          "zh": "有益的",
+          "en": "Useful for personal growth or knowledge."
         }
       ],
       "examples": [
         {
-          "en": "He used worms as bait to catch fish in the lake.",
-          "zh": "他用虫子作为诱饵在湖里钓鱼。"
+          "en": "The documentary was both entertaining and edifying for the viewers.",
+          "zh": "这部纪录片对观众来说既有趣又具有启发性。"
         },
         {
-          "en": "She tried to bait him into an argument by making rude comments.",
-          "zh": "她试图通过做粗鲁的评论来引诱他争论。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=bait&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
-    },
-    {
-      "word": "primate",
-      "pronunciation": "/ˈpraɪˌmeɪt/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "灵长类动物",
-          "en": "A group of mammals that includes humans, monkeys, and apes."
-        },
-        {
-          "pos": "n.",
-          "zh": "首要人物",
-          "en": "A person who holds a leading or important position."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Monkeys are fascinating primates that exhibit complex social behaviors.",
-          "zh": "猴子是迷人的灵长类动物，表现出复杂的社会行为。"
-        },
-        {
-          "en": "In many cultures, the primate symbolizes intelligence and adaptability.",
-          "zh": "在许多文化中，灵长类动物象征着智慧和适应能力。"
+          "en": "Reading classics can be an edifying experience for young minds.",
+          "zh": "阅读经典作品对年轻人的思想是一种有益的体验。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'primate' comes from the Latin 'primat-', meaning 'first' or 'chief'.",
-        "association": "Think of 'prime' in 'primate' to remember it includes leading animals like monkeys and apes."
+        "association": "Think of 'edifying' as 'educating'—both words relate to learning and growth."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=primate&type=2",
-      "chapter": "认知词汇 动物分类 动物思维"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=edifying&type=2",
+      "chapter": "核心词汇 伦理与道德 Unit 2"
+    },
+    {
+      "word": "poverty",
+      "pronunciation": "/ˈpɑːvərti/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "贫困",
+          "en": "The state of having little or no money and few resources."
+        },
+        {
+          "pos": "n.",
+          "zh": "贫穷",
+          "en": "A condition where people lack basic needs for a decent life."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many families live in poverty, struggling to meet their daily needs.",
+          "zh": "许多家庭生活在贫困中，努力满足他们的日常需求。"
+        },
+        {
+          "en": "Poverty can lead to various social and health issues in communities.",
+          "zh": "贫困可能导致社区中的各种社会和健康问题。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'poverty' as 'poor' + 'city', where many people struggle."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=poverty&type=2",
+      "chapter": "核心词汇 法制与犯罪 Unit 4"
     }
   ]
 }

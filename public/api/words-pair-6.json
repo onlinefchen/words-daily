@@ -1,67 +1,70 @@
 {
-  "generated": "2025-12-20T22:07:16.931Z",
+  "generated": "2025-12-21T22:07:48.723Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "tuna",
-      "pronunciation": "/ˈtuː.nə/",
+      "word": "food",
+      "pronunciation": "/fuːd/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "金枪鱼",
-          "en": "A large fish that is commonly eaten and is known for its strong flavor."
+          "zh": "食物",
+          "en": "Any substance that people or animals eat or drink."
         },
         {
-          "pos": "n.",
-          "zh": "一种罐头食品",
-          "en": "Food made from tuna fish, often found in cans."
+          "pos": "v.",
+          "zh": "喂养",
+          "en": "To provide someone or something with nourishment."
         }
       ],
       "examples": [
         {
-          "en": "Many people enjoy a salad topped with tuna for lunch.",
-          "zh": "许多人喜欢用金枪鱼做午餐沙拉。"
+          "en": "I enjoy trying different types of food from various cultures.",
+          "zh": "我喜欢尝试来自不同文化的各种食物。"
         },
         {
-          "en": "Canned tuna is a convenient and nutritious meal option.",
-          "zh": "罐装金枪鱼是一种方便且营养丰富的餐食选择。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=tuna&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
-    },
-    {
-      "word": "entomologist",
-      "pronunciation": "/ˌɛntəˈmɒlədʒɪst/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "昆虫学家",
-          "en": "A scientist who studies insects."
-        },
-        {
-          "pos": "n.",
-          "zh": "昆虫专家",
-          "en": "An expert in the field of entomology."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The entomologist discovered a new species of butterfly.",
-          "zh": "昆虫学家发现了一种新的蝴蝶物种。"
-        },
-        {
-          "en": "Many entomologists work to protect endangered insect species.",
-          "zh": "许多昆虫学家致力于保护濒危的昆虫物种。"
+          "en": "It is important to food your pets with healthy meals.",
+          "zh": "给你的宠物提供健康饮食是很重要的。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'entomo-' like 'insect' and '-ologist' as 'a person who studies'."
+        "association": "Think of 'food' as 'fuel' for your body, similar to what cars need to run."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=entomologist&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=food&type=2",
+      "chapter": "核心词汇 健康话题 Unit 3"
+    },
+    {
+      "word": "computer",
+      "pronunciation": "/kəmˈpjuːtər/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "计算机",
+          "en": "A device that can process data and perform tasks according to instructions."
+        },
+        {
+          "pos": "v.",
+          "zh": "计算机编程",
+          "en": "To use a computer to create software or perform calculations."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She uses her computer to complete her assignments efficiently.",
+          "zh": "她使用计算机高效地完成作业。"
+        },
+        {
+          "en": "Learning to program a computer can open many career opportunities.",
+          "zh": "学习编程可以带来许多职业机会。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'computer' comes from the Latin 'computare', meaning 'to calculate'.",
+        "association": "Think of a 'computer' as a 'compute-er' that helps you solve problems."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=computer&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 2"
     }
   ]
 }

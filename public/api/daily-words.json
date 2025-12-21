@@ -1,748 +1,750 @@
 {
-  "generated": "2025-12-20T22:07:16.930Z",
-  "date": "2025-12-20",
+  "generated": "2025-12-21T22:07:48.722Z",
+  "date": "2025-12-21",
   "totalWords": 20,
   "words": [
     {
-      "id": "w03585",
-      "word": "dissolve",
+      "id": "w02980",
+      "word": "conceive",
       "type": "single",
-      "chapterIndex": 18,
-      "globalIndex": 3585,
-      "chapter": "ch123",
-      "chapterName": "认知词汇 科技分类 探索太空生物",
+      "chapterIndex": 8,
+      "globalIndex": 2980,
+      "chapter": "ch113",
+      "chapterName": "认知词汇 环境分类 欧洲森林保护",
       "pronunciation": {
-        "us": "/dɪˈzɒlv/"
+        "us": "/kənˈsiːv/"
       },
       "meanings": [
         {
           "pos": "v.",
-          "zh": "溶解",
-          "en": "To become part of a liquid or to cause something to do this."
+          "zh": "构思",
+          "en": "To form or develop an idea in the mind."
         },
         {
           "pos": "v.",
-          "zh": "解散",
-          "en": "To officially end a group or organization."
+          "zh": "怀孕",
+          "en": "To become pregnant with a child."
         }
       ],
       "examples": [
         {
-          "en": "The sugar will dissolve quickly in hot water.",
-          "zh": "糖会很快在热水中溶解。"
+          "en": "She could not conceive of a life without music.",
+          "zh": "她无法想象没有音乐的生活。"
         },
         {
-          "en": "The committee decided to dissolve after the project finished.",
-          "zh": "委员会决定在项目结束后解散。"
+          "en": "They conceived a plan to improve the community.",
+          "zh": "他们构思了一个改善社区的计划。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'dissolving' as 'disappearing' into a liquid, like magic."
+        "association": "Think of 'conceive' as 'con- (with) + ceive (receive)', meaning to receive an idea."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dissolve&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=conceive&type=2"
     },
     {
-      "id": "w00183",
-      "word": "reject",
+      "id": "w01175",
+      "word": "ridiculous",
       "type": "single",
-      "chapterIndex": 3,
-      "globalIndex": 183,
-      "chapter": "ch010",
-      "chapterName": "基本词汇 动词200 Unit 10",
+      "chapterIndex": 15,
+      "globalIndex": 1175,
+      "chapter": "ch059",
+      "chapterName": "核心词汇 伦理与道德 Unit 4",
       "pronunciation": {
-        "us": "/rɪˈdʒɛkt/"
+        "us": "/rɪˈdɪkjələs/"
       },
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "拒绝",
-          "en": "To refuse to accept or agree with something."
-        },
-        {
-          "pos": "v.",
-          "zh": "退回",
-          "en": "To send something away because it is not wanted."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The committee decided to reject the proposal for funding.",
-          "zh": "委员会决定拒绝资助提案。"
-        },
-        {
-          "en": "He felt hurt when she chose to reject his invitation.",
-          "zh": "当她选择拒绝他的邀请时，他感到受伤。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'reject' comes from the Latin 'reicere', meaning 'to throw back'.",
-        "association": "Think of a 'rejection letter' that you throw away because you don't want it."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=reject&type=2"
-    },
-    {
-      "id": "w00345",
-      "word": "shortage",
-      "type": "single",
-      "chapterIndex": 5,
-      "globalIndex": 345,
-      "chapter": "ch018",
-      "chapterName": "基本词汇 名词200 Unit 8",
-      "pronunciation": {
-        "us": "/ˈʃɔːrtɪdʒ/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "短缺",
-          "en": "A lack of something that is needed."
-        },
-        {
-          "pos": "n.",
-          "zh": "不足",
-          "en": "An insufficient amount of a resource or supply."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The region is facing a severe water shortage this summer.",
-          "zh": "这个地区今年夏天面临严重的水资源短缺。"
-        },
-        {
-          "en": "Many families are struggling due to the shortage of affordable housing.",
-          "zh": "由于负担得起的住房短缺，许多家庭正面临困难。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'shortage' as having a 'short' supply of something, like a 'short' amount of water."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=shortage&type=2"
-    },
-    {
-      "id": "w00438",
-      "word": "aspirant",
-      "type": "single",
-      "chapterIndex": 18,
-      "globalIndex": 438,
-      "chapter": "ch022",
-      "chapterName": "基本词汇 形容词和副词400 Unit 2",
-      "pronunciation": {
-        "us": "/əˈspaɪrənt/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "有抱负的人",
-          "en": "A person who aspires to achieve something, especially a career."
+          "pos": "adj.",
+          "zh": "荒谬的",
+          "en": "Something that is very silly or unreasonable."
         },
         {
           "pos": "adj.",
-          "zh": "有抱负的",
-          "en": "Having ambitions or strong desires to succeed."
+          "zh": "可笑的",
+          "en": "Something that causes laughter because it is absurd."
         }
       ],
       "examples": [
         {
-          "en": "The university is known for attracting talented aspirants each year.",
-          "zh": "这所大学以每年吸引有才华的有抱负者而闻名。"
+          "en": "It’s ridiculous to think that we can finish this project in one day.",
+          "zh": "认为我们能在一天内完成这个项目是荒谬的。"
         },
         {
-          "en": "As an aspirant writer, she dedicates time to improve her skills.",
-          "zh": "作为一名有抱负的作家，她花时间提高自己的技能。"
+          "en": "His excuses for being late were so ridiculous that everyone laughed.",
+          "zh": "他迟到的借口如此可笑，以至于大家都笑了。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'aspirant' comes from the Latin 'aspirare', meaning 'to breathe upon' or 'to strive for'.",
-        "association": "Think of 'aspirant' as someone who is 'aspiring' to reach a goal, like climbing a ladder to success."
+        "association": "Think of 'ridiculous' as 'rid' (to laugh) and 'culous' (like 'foolish'), so it relates to foolish laughter."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aspirant&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ridiculous&type=2"
     },
     {
-      "id": "w00021",
-      "word": "alter",
-      "type": "single",
-      "chapterIndex": 1,
-      "globalIndex": 21,
-      "chapter": "ch002",
-      "chapterName": "基本词汇 动词200 Unit 2",
-      "pronunciation": {
-        "us": "/ˈɔːltər/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "改变",
-          "en": "To change something, usually slightly."
-        },
-        {
-          "pos": "v.",
-          "zh": "修改",
-          "en": "To make a change to something, especially a document or plan."
-        }
-      ],
-      "examples": [
-        {
-          "en": "She decided to alter her dress for the upcoming party.",
-          "zh": "她决定为即将到来的聚会修改她的裙子。"
-        },
-        {
-          "en": "The teacher asked me to alter my essay to improve its clarity.",
-          "zh": "老师让我修改我的论文以提高其清晰度。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'alter' as 'altar' where changes or sacrifices are made.",
-        "mnemonic": "Alter sounds like 'altar', where changes are often made for devotion."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=alter&type=2"
-    },
-    {
-      "id": "w00134",
-      "word": "foster",
-      "type": "single",
-      "chapterIndex": 14,
-      "globalIndex": 134,
-      "chapter": "ch007",
-      "chapterName": "基本词汇 动词200 Unit 7",
-      "pronunciation": {
-        "us": "/ˈfɔːstər/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "培养，促进",
-          "en": "To encourage or promote the development of something."
-        },
-        {
-          "pos": "n.",
-          "zh": "养育者，抚养者",
-          "en": "A person who takes care of a child not biologically their own."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The school aims to foster creativity in its students.",
-          "zh": "学校的目标是培养学生的创造力。"
-        },
-        {
-          "en": "They decided to foster a child in need of a loving home.",
-          "zh": "他们决定收养一个需要温暖家庭的孩子。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'foster' as 'fostering' a plant; you help it grow and thrive."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=foster&type=2"
-    },
-    {
-      "id": "w00043",
-      "word": "block",
+      "id": "w01523",
+      "word": "dignity",
       "type": "single",
       "chapterIndex": 3,
-      "globalIndex": 43,
-      "chapter": "ch003",
-      "chapterName": "基本词汇 动词200 Unit 3",
+      "globalIndex": 1523,
+      "chapter": "ch077",
+      "chapterName": "核心词汇 民主与权利 Unit 2",
       "pronunciation": {
-        "us": "/blɑk/"
+        "us": "/ˈdɪɡnɪti/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "块；障碍",
-          "en": "A solid piece of material with flat surfaces."
+          "zh": "尊严",
+          "en": "The quality of being worthy of respect and honor."
         },
         {
-          "pos": "v.",
-          "zh": "阻止；封锁",
-          "en": "To prevent movement or progress."
+          "pos": "n.",
+          "zh": "体面",
+          "en": "A state of being calm and composed in difficult situations."
         }
       ],
       "examples": [
         {
-          "en": "He used a block of wood to hold the door open.",
-          "zh": "他用一块木头把门撑开。"
+          "en": "She maintained her dignity even in the face of criticism.",
+          "zh": "即使面对批评，她仍然保持了尊严。"
         },
         {
-          "en": "They need to block the road for maintenance work.",
-          "zh": "他们需要封锁道路进行维修工作。"
+          "en": "Everyone deserves to be treated with dignity and respect.",
+          "zh": "每个人都应该受到尊严和尊重的对待。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'block' as something that stops or holds back, like a block in a game."
+        "association": "Think of 'dignity' as 'digging deep' to find your self-respect."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=block&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dignity&type=2"
     },
     {
-      "id": "w02231",
-      "word": "larva",
-      "type": "single",
-      "chapterIndex": 331,
-      "globalIndex": 2231,
+      "id": "w02483",
+      "word": "ground motion",
+      "type": "phrase",
+      "chapterIndex": 36,
+      "globalIndex": 2483,
+      "chapter": "ch102",
+      "chapterName": "认知词汇 自然分类 地震",
+      "pronunciation": {
+        "us": "/ɡraʊnd ˈmoʊʃən/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "地面运动",
+          "en": "The movement of the ground caused by seismic waves during an earthquake."
+        },
+        {
+          "pos": "n.",
+          "zh": "地面震动",
+          "en": "Any vibrations or oscillations of the Earth's surface."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Ground motion can cause serious damage to buildings during earthquakes.",
+          "zh": "地面运动在地震期间可能对建筑物造成严重损害。"
+        },
+        {
+          "en": "Engineers study ground motion to improve earthquake-resistant structures.",
+          "zh": "工程师研究地面运动，以改善抗震结构。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ground%20motion&type=2"
+    },
+    {
+      "id": "w01975",
+      "word": "commercial fishery",
+      "type": "phrase",
+      "chapterIndex": 75,
+      "globalIndex": 1975,
       "chapter": "ch096",
       "chapterName": "认知词汇 动物分类 常考生物",
       "pronunciation": {
-        "us": "/ˈlɑːrvə/"
+        "us": "/kəˈmɜːrʃəl ˈfɪʃəri/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "幼虫",
-          "en": "A young form of an insect that has not yet developed into an adult."
+          "zh": "商业渔业",
+          "en": "A type of fishing that is done for profit and sale."
         },
         {
           "pos": "n.",
-          "zh": "虫态",
-          "en": "The early stage in the life cycle of certain animals, before they change into their adult form."
+          "zh": "商业捕鱼场",
+          "en": "A place where fish are caught and sold for business."
         }
       ],
       "examples": [
         {
-          "en": "The larva of the butterfly is often found in the garden.",
-          "zh": "蝴蝶的幼虫常常在花园里被发现。"
+          "en": "The commercial fishery industry plays a vital role in the economy.",
+          "zh": "商业渔业在经济中扮演着重要角色。"
         },
         {
-          "en": "After several weeks, the larva transforms into a pupa.",
-          "zh": "几周后，幼虫会变成蛹。"
+          "en": "Sustainable practices are essential for the future of commercial fisheries.",
+          "zh": "可持续的做法对商业渔业的未来至关重要。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=commercial%20fishery&type=2"
+    },
+    {
+      "id": "w01827",
+      "word": "contamination",
+      "type": "single",
+      "chapterIndex": 7,
+      "globalIndex": 1827,
+      "chapter": "ch092",
+      "chapterName": "核心词汇 健康话题 Unit 2",
+      "pronunciation": {
+        "us": "/kənˌtæmɪˈneɪʃən/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "污染",
+          "en": "The presence of harmful substances in the environment."
+        },
+        {
+          "pos": "n.",
+          "zh": "污染物",
+          "en": "Something that causes pollution or makes something impure."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Water contamination can lead to serious health problems for communities.",
+          "zh": "水污染可能会给社区带来严重的健康问题。"
+        },
+        {
+          "en": "The factory was fined for causing air contamination in the area.",
+          "zh": "该工厂因在该地区造成空气污染而被罚款。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'larva' as 'larvae' (plural) which sounds like 'lava,' representing something that transforms, like lava turning into rock."
+        "etymology": "The word 'contamination' comes from the Latin 'contaminare', which means 'to make unclean'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=larva&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=contamination&type=2"
     },
     {
-      "id": "w00824",
-      "word": "disposal",
+      "id": "w01384",
+      "word": "unrealistic",
       "type": "single",
       "chapterIndex": 4,
-      "globalIndex": 824,
-      "chapter": "ch042",
-      "chapterName": "核心词汇 科技发展 Unit 2",
+      "globalIndex": 1384,
+      "chapter": "ch070",
+      "chapterName": "核心词汇 青少年教育 Unit 10",
       "pronunciation": {
-        "us": "/dɪˈspoʊ.zəl/"
+        "us": "/ʌnˈrɪəlɪstɪk/"
       },
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "处理，处置",
-          "en": "The action of getting rid of something."
+          "pos": "adj.",
+          "zh": "不切实际的",
+          "en": "Not based on reality; not practical or possible."
+        },
+        {
+          "pos": "adj.",
+          "zh": "不现实的",
+          "en": "Something that cannot be achieved or is not sensible."
+        }
+      ],
+      "examples": [
+        {
+          "en": "His expectations for the project were completely unrealistic and unattainable.",
+          "zh": "他对这个项目的期望完全不切实际，无法实现。"
+        },
+        {
+          "en": "Setting an unrealistically high goal can lead to disappointment and stress.",
+          "zh": "设定一个不切实际的高目标可能会导致失望和压力。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'unreal' as something beyond reality, which helps remember 'unrealistic'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=unrealistic&type=2"
+    },
+    {
+      "id": "w01979",
+      "word": "downstream",
+      "type": "single",
+      "chapterIndex": 79,
+      "globalIndex": 1979,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/ˈdaʊnˌstriːm/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "下游的",
+          "en": "Located in the direction of the current of a river."
+        },
+        {
+          "pos": "adv.",
+          "zh": "在下游",
+          "en": "Towards or at a lower point in a river or stream."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The factory is located downstream from the river's source.",
+          "zh": "工厂位于河流源头的下游。"
+        },
+        {
+          "en": "Pollution flows downstream, affecting many communities.",
+          "zh": "污染流向下游，影响了许多社区。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a river flowing down from the mountains to the sea, where everything downstream is affected by what happens upstream."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=downstream&type=2"
+    },
+    {
+      "id": "w01355",
+      "word": "promote",
+      "type": "single",
+      "chapterIndex": 15,
+      "globalIndex": 1355,
+      "chapter": "ch068",
+      "chapterName": "核心词汇 青少年教育 Unit 8",
+      "pronunciation": {
+        "us": "/prəˈmoʊt/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "促进",
+          "en": "To help something grow or develop."
         },
         {
           "pos": "v.",
-          "zh": "处理，处置",
-          "en": "To arrange for something to be taken away or disposed of."
+          "zh": "推销",
+          "en": "To advertise or sell a product or service."
         }
       ],
       "examples": [
         {
-          "en": "The disposal of waste is crucial for environmental health.",
-          "zh": "废物的处理对环境健康至关重要。"
+          "en": "The organization aims to promote healthy eating habits among children.",
+          "zh": "该组织旨在促进儿童健康饮食习惯。"
         },
         {
-          "en": "They arranged for the disposal of old furniture last week.",
-          "zh": "他们上周安排了旧家具的处理。"
+          "en": "The company will promote the new product through social media campaigns.",
+          "zh": "该公司将通过社交媒体活动推广新产品。"
         }
       ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disposal&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=promote&type=2"
     },
     {
-      "id": "w02074",
-      "word": "humpback whale",
-      "type": "phrase",
-      "chapterIndex": 174,
-      "globalIndex": 2074,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/ˈhʌmpˌbæk weɪl/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "座头鲸",
-          "en": "A large marine mammal known for its distinctive hump and long pectoral fins."
-        },
-        {
-          "pos": "n.",
-          "zh": "一种鲸鱼",
-          "en": "A type of whale famous for its songs and acrobatic displays."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The humpback whale is known for its beautiful songs during mating season.",
-          "zh": "座头鲸在交配季节以其美妙的歌声而闻名。"
-        },
-        {
-          "en": "Many tourists flock to see humpback whales breaching in the ocean.",
-          "zh": "许多游客涌向海洋观看座头鲸跃出水面。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=humpback%20whale&type=2"
-    },
-    {
-      "id": "w02111",
-      "word": "tuna",
+      "id": "w01378",
+      "word": "thrift",
       "type": "single",
-      "chapterIndex": 211,
-      "globalIndex": 2111,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
+      "chapterIndex": 18,
+      "globalIndex": 1378,
+      "chapter": "ch069",
+      "chapterName": "核心词汇 青少年教育 Unit 9",
       "pronunciation": {
-        "us": "/ˈtuː.nə/"
+        "us": "/θrɪft/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "金枪鱼",
-          "en": "A large fish that is commonly eaten and is known for its strong flavor."
+          "zh": "节俭",
+          "en": "The quality of using money and resources carefully."
         },
         {
-          "pos": "n.",
-          "zh": "一种罐头食品",
-          "en": "Food made from tuna fish, often found in cans."
+          "pos": "v.",
+          "zh": "节省",
+          "en": "To save money or resources by being careful."
         }
       ],
       "examples": [
         {
-          "en": "Many people enjoy a salad topped with tuna for lunch.",
-          "zh": "许多人喜欢用金枪鱼做午餐沙拉。"
+          "en": "Many people practice thrift to save money for the future.",
+          "zh": "许多人通过节俭来为未来存钱。"
         },
         {
-          "en": "Canned tuna is a convenient and nutritious meal option.",
-          "zh": "罐装金枪鱼是一种方便且营养丰富的餐食选择。"
+          "en": "Thrift can lead to financial security and independence.",
+          "zh": "节俭可以带来财务安全和独立。"
         }
       ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=tuna&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=thrift&type=2"
     },
     {
-      "id": "w02126",
-      "word": "entomologist",
+      "id": "w01846",
+      "word": "food",
       "type": "single",
-      "chapterIndex": 226,
-      "globalIndex": 2126,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
+      "chapterIndex": 6,
+      "globalIndex": 1846,
+      "chapter": "ch093",
+      "chapterName": "核心词汇 健康话题 Unit 3",
       "pronunciation": {
-        "us": "/ˌɛntəˈmɒlədʒɪst/"
+        "us": "/fuːd/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "昆虫学家",
-          "en": "A scientist who studies insects."
+          "zh": "食物",
+          "en": "Any substance that people or animals eat or drink."
         },
         {
-          "pos": "n.",
-          "zh": "昆虫专家",
-          "en": "An expert in the field of entomology."
+          "pos": "v.",
+          "zh": "喂养",
+          "en": "To provide someone or something with nourishment."
         }
       ],
       "examples": [
         {
-          "en": "The entomologist discovered a new species of butterfly.",
-          "zh": "昆虫学家发现了一种新的蝴蝶物种。"
+          "en": "I enjoy trying different types of food from various cultures.",
+          "zh": "我喜欢尝试来自不同文化的各种食物。"
         },
         {
-          "en": "Many entomologists work to protect endangered insect species.",
-          "zh": "许多昆虫学家致力于保护濒危的昆虫物种。"
+          "en": "It is important to food your pets with healthy meals.",
+          "zh": "给你的宠物提供健康饮食是很重要的。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'entomo-' like 'insect' and '-ologist' as 'a person who studies'."
+        "association": "Think of 'food' as 'fuel' for your body, similar to what cars need to run."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=entomologist&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=food&type=2"
     },
     {
-      "id": "w02039",
-      "word": "aquatic life",
-      "type": "phrase",
-      "chapterIndex": 139,
-      "globalIndex": 2039,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
+      "id": "w01426",
+      "word": "computer",
+      "type": "single",
+      "chapterIndex": 6,
+      "globalIndex": 1426,
+      "chapter": "ch072",
+      "chapterName": "核心词汇 动物权益与保护 Unit 2",
       "pronunciation": {
-        "us": "/əˈkwætɪk laɪf/"
+        "us": "/kəmˈpjuːtər/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "水生生物",
-          "en": "Living organisms that live in water."
+          "zh": "计算机",
+          "en": "A device that can process data and perform tasks according to instructions."
         },
         {
-          "pos": "n.",
-          "zh": "水域生态",
-          "en": "The ecosystem of plants and animals in aquatic environments."
+          "pos": "v.",
+          "zh": "计算机编程",
+          "en": "To use a computer to create software or perform calculations."
         }
       ],
       "examples": [
         {
-          "en": "Coral reefs support a diverse range of aquatic life.",
-          "zh": "珊瑚礁支持着多样的水生生物。"
+          "en": "She uses her computer to complete her assignments efficiently.",
+          "zh": "她使用计算机高效地完成作业。"
         },
         {
-          "en": "Pollution can severely harm aquatic life in rivers.",
-          "zh": "污染会严重危害河流中的水生生物。"
+          "en": "Learning to program a computer can open many career opportunities.",
+          "zh": "学习编程可以带来许多职业机会。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'aqua' (water) to remember that aquatic life refers to water-dwelling organisms."
+        "etymology": "The word 'computer' comes from the Latin 'computare', meaning 'to calculate'.",
+        "association": "Think of a 'computer' as a 'compute-er' that helps you solve problems."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aquatic%20life&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=computer&type=2"
     },
     {
-      "id": "w02026",
-      "word": "spawn",
-      "type": "single",
-      "chapterIndex": 126,
-      "globalIndex": 2026,
+      "id": "w01904",
+      "word": "breeding season",
+      "type": "phrase",
+      "chapterIndex": 4,
+      "globalIndex": 1904,
       "chapter": "ch096",
       "chapterName": "认知词汇 动物分类 常考生物",
       "pronunciation": {
-        "us": "/spɔːn/"
+        "us": "/ˈbridɪŋ ˈsiːzən/"
       },
       "meanings": [
+        {
+          "pos": "n.",
+          "zh": "繁殖季节",
+          "en": "The time of year when animals mate and produce offspring."
+        },
+        {
+          "pos": "n.",
+          "zh": "生长季节",
+          "en": "A specific period when certain plants or animals grow and reproduce."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many birds have a specific breeding season each spring.",
+          "zh": "许多鸟类在每年春天有特定的繁殖季节。"
+        },
+        {
+          "en": "The breeding season for fish can vary depending on the species.",
+          "zh": "鱼类的繁殖季节可能因物种而异。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=breeding%20season&type=2"
+    },
+    {
+      "id": "w00844",
+      "word": "incur",
+      "type": "single",
+      "chapterIndex": 4,
+      "globalIndex": 844,
+      "chapter": "ch043",
+      "chapterName": "核心词汇 科技发展 Unit 3",
+      "pronunciation": {
+        "us": "/ɪnˈkɜr/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "招致",
+          "en": "To bring something upon oneself, often an unwanted consequence."
+        },
         {
           "pos": "v.",
           "zh": "产生",
-          "en": "To produce or create something, especially in large numbers."
-        },
-        {
-          "pos": "n.",
-          "zh": "鱼卵",
-          "en": "The eggs of fish or other aquatic animals."
+          "en": "To become subject to something, typically a cost or liability."
         }
       ],
       "examples": [
         {
-          "en": "The river is known to spawn thousands of fish every spring.",
-          "zh": "这条河每年春天都能产出成千上万的鱼。"
+          "en": "The company may incur additional costs during the project.",
+          "zh": "公司在项目中可能会产生额外费用。"
         },
         {
-          "en": "The scientist studied how pollution affects fish spawn in the ocean.",
-          "zh": "科学家研究了污染如何影响海洋中的鱼卵。"
+          "en": "If you are late, you will incur a penalty fee.",
+          "zh": "如果你迟到，你将会产生罚款。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'spawn' like 'sowing' seeds; both involve creating new life."
+        "association": "Think of 'in' as bringing something 'cur' (cure) upon yourself, but in a negative way, like an unwanted cost."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=spawn&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=incur&type=2"
     },
     {
-      "id": "w02653",
-      "word": "volcanic landform",
+      "id": "w01927",
+      "word": "gum tree",
       "type": "phrase",
-      "chapterIndex": 68,
-      "globalIndex": 2653,
-      "chapter": "ch105",
-      "chapterName": "认知词汇 自然分类 火山",
-      "pronunciation": {
-        "us": "/vɒlˈkænɪk ˈlændfɔrm/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "火山地貌",
-          "en": "A landform created by volcanic activity, like mountains or craters."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The volcanic landform created a stunning landscape in the national park.",
-          "zh": "火山地貌在国家公园中创造了令人惊叹的风景。"
-        },
-        {
-          "en": "Scientists study volcanic landforms to understand Earth's geological history.",
-          "zh": "科学家研究火山地貌以理解地球的地质历史。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=volcanic%20landform&type=2"
-    },
-    {
-      "id": "w02140",
-      "word": "nervous system",
-      "type": "phrase",
-      "chapterIndex": 240,
-      "globalIndex": 2140,
+      "chapterIndex": 27,
+      "globalIndex": 1927,
       "chapter": "ch096",
       "chapterName": "认知词汇 动物分类 常考生物",
       "pronunciation": {
-        "us": "/ˈnɜrvəs ˈsɪstəm/"
+        "us": "/ɡʌm tri/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "神经系统",
-          "en": "The network of nerves and cells that transmit signals between different parts of the body."
+          "zh": "胶树",
+          "en": "A type of tree that produces a sticky substance called gum."
         },
         {
           "pos": "n.",
-          "zh": "神经系统",
-          "en": "The system in the body that controls how we feel and move."
+          "zh": "尤加利树",
+          "en": "A tree of the eucalyptus family, often found in Australia."
         }
       ],
       "examples": [
         {
-          "en": "The nervous system controls all our body movements and reactions.",
-          "zh": "神经系统控制我们所有的身体动作和反应。"
+          "en": "The gum tree provides a habitat for many native animals.",
+          "zh": "胶树为许多本土动物提供栖息地。"
         },
         {
-          "en": "Understanding the nervous system helps us treat many medical conditions.",
-          "zh": "了解神经系统有助于我们治疗许多医疗状况。"
+          "en": "In Australia, the gum tree is a symbol of the landscape.",
+          "zh": "在澳大利亚，胶树是自然风景的象征。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=gum%20tree&type=2"
+    },
+    {
+      "id": "w00267",
+      "word": "environment",
+      "type": "single",
+      "chapterIndex": 7,
+      "globalIndex": 267,
+      "chapter": "ch014",
+      "chapterName": "基本词汇 名词200 Unit 4",
+      "pronunciation": {
+        "us": "/ɪnˈvaɪrənmənt/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "环境",
+          "en": "The natural world around us, including land, air, and water."
+        },
+        {
+          "pos": "n.",
+          "zh": "环境",
+          "en": "The conditions or influences affecting the growth and development of someone or something."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Protecting the environment is essential for future generations.",
+          "zh": "保护环境对未来几代人至关重要。"
+        },
+        {
+          "en": "Many species are endangered due to changes in their environment.",
+          "zh": "许多物种因其环境的变化而濒临灭绝。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'nervous' as related to feelings and 'system' as a complex network, together they form how we feel and react."
+        "association": "Think of 'environment' as 'the surroundings that nurture life', like a garden."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=nervous%20system&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=environment&type=2"
     },
     {
-      "id": "w00932",
-      "word": "disposal",
+      "id": "w01662",
+      "word": "maltreat",
       "type": "single",
-      "chapterIndex": 12,
-      "globalIndex": 932,
-      "chapter": "ch047",
-      "chapterName": "核心词汇 环境保护 Unit 2",
+      "chapterIndex": 2,
+      "globalIndex": 1662,
+      "chapter": "ch084",
+      "chapterName": "核心词汇 工作与生活 Unit 4",
       "pronunciation": {
-        "us": "/dɪsˈpoʊ.zəl/"
+        "us": "/mælˈtrit/"
       },
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "处理，处置",
-          "en": "The act of getting rid of something."
-        },
-        {
-          "pos": "n.",
-          "zh": "处置权，支配权",
-          "en": "The power to make decisions about something."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The disposal of waste is essential for a clean environment.",
-          "zh": "废物的处理对保持环境清洁至关重要。"
-        },
-        {
-          "en": "She has the disposal of her funds as she sees fit.",
-          "zh": "她可以随心所欲地支配她的资金。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disposal&type=2"
-    },
-    {
-      "id": "w02022",
-      "word": "sardine",
-      "type": "single",
-      "chapterIndex": 122,
-      "globalIndex": 2022,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/sɑrˈdin/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "沙丁鱼",
-          "en": "A small fish that is often packed in a can."
+          "pos": "v.",
+          "zh": "虐待",
+          "en": "To treat someone badly or cruelly."
         },
         {
           "pos": "v.",
-          "zh": "将...挤在一起",
-          "en": "To pack people or things tightly together in a small space."
+          "zh": "滥用",
+          "en": "To misuse something in a harmful way."
         }
       ],
       "examples": [
         {
-          "en": "The restaurant served a delicious sardine salad with fresh vegetables.",
-          "zh": "这家餐厅提供了美味的沙丁鱼沙拉，配有新鲜的蔬菜。"
+          "en": "The organization fights against those who maltreat animals.",
+          "zh": "该组织致力于打击虐待动物的行为。"
         },
         {
-          "en": "They were sardined into the subway during rush hour.",
-          "zh": "在高峰时段，他们被挤进了地铁。"
+          "en": "It is illegal to maltreat children in any circumstance.",
+          "zh": "在任何情况下虐待儿童都是违法的。"
         }
       ],
       "memoryTips": {
-        "association": "Think of sardines as small fish packed tightly in a can, like people in a crowded subway."
+        "association": "Think of 'maltreat' as treating someone like 'mal' (bad)."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sardine&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=maltreat&type=2"
     },
     {
-      "id": "w02042",
-      "word": "bait",
+      "id": "w01944",
+      "word": "pelt",
       "type": "single",
-      "chapterIndex": 142,
-      "globalIndex": 2042,
+      "chapterIndex": 44,
+      "globalIndex": 1944,
       "chapter": "ch096",
       "chapterName": "认知词汇 动物分类 常考生物",
       "pronunciation": {
-        "us": "/beɪt/"
+        "us": "/pɛlt/"
       },
       "meanings": [
-        {
-          "pos": "n.",
-          "zh": "诱饵",
-          "en": "Bait is something used to attract fish or animals."
-        },
         {
           "pos": "v.",
-          "zh": "引诱",
-          "en": "To bait means to entice someone into doing something."
+          "zh": "投掷",
+          "en": "To throw something with force."
+        },
+        {
+          "pos": "n.",
+          "zh": "大量的雨或雪",
+          "en": "A heavy fall of rain or snow."
         }
       ],
       "examples": [
         {
-          "en": "He used worms as bait to catch fish in the lake.",
-          "zh": "他用虫子作为诱饵在湖里钓鱼。"
+          "en": "The children pelted each other with snowballs during the winter.",
+          "zh": "冬天，孩子们互相投掷雪球。"
         },
         {
-          "en": "She tried to bait him into an argument by making rude comments.",
-          "zh": "她试图通过做粗鲁的评论来引诱他争论。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=bait&type=2"
-    },
-    {
-      "id": "w02353",
-      "word": "primate",
-      "type": "single",
-      "chapterIndex": 15,
-      "globalIndex": 2353,
-      "chapter": "ch098",
-      "chapterName": "认知词汇 动物分类 动物思维",
-      "pronunciation": {
-        "us": "/ˈpraɪˌmeɪt/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "灵长类动物",
-          "en": "A group of mammals that includes humans, monkeys, and apes."
-        },
-        {
-          "pos": "n.",
-          "zh": "首要人物",
-          "en": "A person who holds a leading or important position."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Monkeys are fascinating primates that exhibit complex social behaviors.",
-          "zh": "猴子是迷人的灵长类动物，表现出复杂的社会行为。"
-        },
-        {
-          "en": "In many cultures, the primate symbolizes intelligence and adaptability.",
-          "zh": "在许多文化中，灵长类动物象征着智慧和适应能力。"
+          "en": "Heavy rain began to pelt down, soaking everyone outside.",
+          "zh": "大雨开始倾泻而下，淋湿了外面所有人。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'primate' comes from the Latin 'primat-', meaning 'first' or 'chief'.",
-        "association": "Think of 'prime' in 'primate' to remember it includes leading animals like monkeys and apes."
+        "association": "Think of 'pelt' as 'pelting' something like a snowball or rain, which is a strong, forceful action."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=primate&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pelt&type=2"
+    },
+    {
+      "id": "w01130",
+      "word": "edifying",
+      "type": "single",
+      "chapterIndex": 10,
+      "globalIndex": 1130,
+      "chapter": "ch057",
+      "chapterName": "核心词汇 伦理与道德 Unit 2",
+      "pronunciation": {
+        "us": "/ˈɛdɪfaɪɪŋ/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "启发性的",
+          "en": "Providing moral or intellectual instruction."
+        },
+        {
+          "pos": "adj.",
+          "zh": "有益的",
+          "en": "Useful for personal growth or knowledge."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The documentary was both entertaining and edifying for the viewers.",
+          "zh": "这部纪录片对观众来说既有趣又具有启发性。"
+        },
+        {
+          "en": "Reading classics can be an edifying experience for young minds.",
+          "zh": "阅读经典作品对年轻人的思想是一种有益的体验。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'edifying' as 'educating'—both words relate to learning and growth."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=edifying&type=2"
+    },
+    {
+      "id": "w01765",
+      "word": "poverty",
+      "type": "single",
+      "chapterIndex": 5,
+      "globalIndex": 1765,
+      "chapter": "ch089",
+      "chapterName": "核心词汇 法制与犯罪 Unit 4",
+      "pronunciation": {
+        "us": "/ˈpɑːvərti/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "贫困",
+          "en": "The state of having little or no money and few resources."
+        },
+        {
+          "pos": "n.",
+          "zh": "贫穷",
+          "en": "A condition where people lack basic needs for a decent life."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many families live in poverty, struggling to meet their daily needs.",
+          "zh": "许多家庭生活在贫困中，努力满足他们的日常需求。"
+        },
+        {
+          "en": "Poverty can lead to various social and health issues in communities.",
+          "zh": "贫困可能导致社区中的各种社会和健康问题。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'poverty' as 'poor' + 'city', where many people struggle."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=poverty&type=2"
     }
   ]
 }

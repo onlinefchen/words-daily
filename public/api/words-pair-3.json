@@ -1,70 +1,67 @@
 {
-  "generated": "2025-12-20T22:07:16.931Z",
+  "generated": "2025-12-21T22:07:48.723Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "alter",
-      "pronunciation": "/ˈɔːltər/",
+      "word": "commercial fishery",
+      "pronunciation": "/kəˈmɜːrʃəl ˈfɪʃəri/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "改变",
-          "en": "To change something, usually slightly."
-        },
-        {
-          "pos": "v.",
-          "zh": "修改",
-          "en": "To make a change to something, especially a document or plan."
-        }
-      ],
-      "examples": [
-        {
-          "en": "She decided to alter her dress for the upcoming party.",
-          "zh": "她决定为即将到来的聚会修改她的裙子。"
-        },
-        {
-          "en": "The teacher asked me to alter my essay to improve its clarity.",
-          "zh": "老师让我修改我的论文以提高其清晰度。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'alter' as 'altar' where changes or sacrifices are made.",
-        "mnemonic": "Alter sounds like 'altar', where changes are often made for devotion."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=alter&type=2",
-      "chapter": "基本词汇 动词200 Unit 2"
-    },
-    {
-      "word": "foster",
-      "pronunciation": "/ˈfɔːstər/",
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "培养，促进",
-          "en": "To encourage or promote the development of something."
+          "pos": "n.",
+          "zh": "商业渔业",
+          "en": "A type of fishing that is done for profit and sale."
         },
         {
           "pos": "n.",
-          "zh": "养育者，抚养者",
-          "en": "A person who takes care of a child not biologically their own."
+          "zh": "商业捕鱼场",
+          "en": "A place where fish are caught and sold for business."
         }
       ],
       "examples": [
         {
-          "en": "The school aims to foster creativity in its students.",
-          "zh": "学校的目标是培养学生的创造力。"
+          "en": "The commercial fishery industry plays a vital role in the economy.",
+          "zh": "商业渔业在经济中扮演着重要角色。"
         },
         {
-          "en": "They decided to foster a child in need of a loving home.",
-          "zh": "他们决定收养一个需要温暖家庭的孩子。"
+          "en": "Sustainable practices are essential for the future of commercial fisheries.",
+          "zh": "可持续的做法对商业渔业的未来至关重要。"
+        }
+      ],
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=commercial%20fishery&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
+    },
+    {
+      "word": "contamination",
+      "pronunciation": "/kənˌtæmɪˈneɪʃən/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "污染",
+          "en": "The presence of harmful substances in the environment."
+        },
+        {
+          "pos": "n.",
+          "zh": "污染物",
+          "en": "Something that causes pollution or makes something impure."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Water contamination can lead to serious health problems for communities.",
+          "zh": "水污染可能会给社区带来严重的健康问题。"
+        },
+        {
+          "en": "The factory was fined for causing air contamination in the area.",
+          "zh": "该工厂因在该地区造成空气污染而被罚款。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'foster' as 'fostering' a plant; you help it grow and thrive."
+        "etymology": "The word 'contamination' comes from the Latin 'contaminare', which means 'to make unclean'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=foster&type=2",
-      "chapter": "基本词汇 动词200 Unit 7"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=contamination&type=2",
+      "chapter": "核心词汇 健康话题 Unit 2"
     }
   ]
 }

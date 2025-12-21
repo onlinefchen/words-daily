@@ -1,65 +1,65 @@
 {
-  "generated": "2025-12-20T22:07:16.931Z",
+  "generated": "2025-12-21T22:07:48.723Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "disposal",
-      "pronunciation": "/dɪˈspoʊ.zəl/",
+      "word": "promote",
+      "pronunciation": "/prəˈmoʊt/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "处理，处置",
-          "en": "The action of getting rid of something."
+          "pos": "v.",
+          "zh": "促进",
+          "en": "To help something grow or develop."
         },
         {
           "pos": "v.",
-          "zh": "处理，处置",
-          "en": "To arrange for something to be taken away or disposed of."
+          "zh": "推销",
+          "en": "To advertise or sell a product or service."
         }
       ],
       "examples": [
         {
-          "en": "The disposal of waste is crucial for environmental health.",
-          "zh": "废物的处理对环境健康至关重要。"
+          "en": "The organization aims to promote healthy eating habits among children.",
+          "zh": "该组织旨在促进儿童健康饮食习惯。"
         },
         {
-          "en": "They arranged for the disposal of old furniture last week.",
-          "zh": "他们上周安排了旧家具的处理。"
+          "en": "The company will promote the new product through social media campaigns.",
+          "zh": "该公司将通过社交媒体活动推广新产品。"
         }
       ],
       "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disposal&type=2",
-      "chapter": "核心词汇 科技发展 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=promote&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 8"
     },
     {
-      "word": "humpback whale",
-      "pronunciation": "/ˈhʌmpˌbæk weɪl/",
+      "word": "thrift",
+      "pronunciation": "/θrɪft/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "座头鲸",
-          "en": "A large marine mammal known for its distinctive hump and long pectoral fins."
+          "zh": "节俭",
+          "en": "The quality of using money and resources carefully."
         },
         {
-          "pos": "n.",
-          "zh": "一种鲸鱼",
-          "en": "A type of whale famous for its songs and acrobatic displays."
+          "pos": "v.",
+          "zh": "节省",
+          "en": "To save money or resources by being careful."
         }
       ],
       "examples": [
         {
-          "en": "The humpback whale is known for its beautiful songs during mating season.",
-          "zh": "座头鲸在交配季节以其美妙的歌声而闻名。"
+          "en": "Many people practice thrift to save money for the future.",
+          "zh": "许多人通过节俭来为未来存钱。"
         },
         {
-          "en": "Many tourists flock to see humpback whales breaching in the ocean.",
-          "zh": "许多游客涌向海洋观看座头鲸跃出水面。"
+          "en": "Thrift can lead to financial security and independence.",
+          "zh": "节俭可以带来财务安全和独立。"
         }
       ],
       "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=humpback%20whale&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=thrift&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 9"
     }
   ]
 }

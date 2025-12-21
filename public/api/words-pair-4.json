@@ -1,68 +1,68 @@
 {
-  "generated": "2025-12-20T22:07:16.931Z",
+  "generated": "2025-12-21T22:07:48.723Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "block",
-      "pronunciation": "/blɑk/",
+      "word": "unrealistic",
+      "pronunciation": "/ʌnˈrɪəlɪstɪk/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "块；障碍",
-          "en": "A solid piece of material with flat surfaces."
+          "pos": "adj.",
+          "zh": "不切实际的",
+          "en": "Not based on reality; not practical or possible."
         },
         {
-          "pos": "v.",
-          "zh": "阻止；封锁",
-          "en": "To prevent movement or progress."
+          "pos": "adj.",
+          "zh": "不现实的",
+          "en": "Something that cannot be achieved or is not sensible."
         }
       ],
       "examples": [
         {
-          "en": "He used a block of wood to hold the door open.",
-          "zh": "他用一块木头把门撑开。"
+          "en": "His expectations for the project were completely unrealistic and unattainable.",
+          "zh": "他对这个项目的期望完全不切实际，无法实现。"
         },
         {
-          "en": "They need to block the road for maintenance work.",
-          "zh": "他们需要封锁道路进行维修工作。"
+          "en": "Setting an unrealistically high goal can lead to disappointment and stress.",
+          "zh": "设定一个不切实际的高目标可能会导致失望和压力。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'block' as something that stops or holds back, like a block in a game."
+        "association": "Think of 'unreal' as something beyond reality, which helps remember 'unrealistic'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=block&type=2",
-      "chapter": "基本词汇 动词200 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=unrealistic&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 10"
     },
     {
-      "word": "larva",
-      "pronunciation": "/ˈlɑːrvə/",
+      "word": "downstream",
+      "pronunciation": "/ˈdaʊnˌstriːm/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "幼虫",
-          "en": "A young form of an insect that has not yet developed into an adult."
+          "pos": "adj.",
+          "zh": "下游的",
+          "en": "Located in the direction of the current of a river."
         },
         {
-          "pos": "n.",
-          "zh": "虫态",
-          "en": "The early stage in the life cycle of certain animals, before they change into their adult form."
+          "pos": "adv.",
+          "zh": "在下游",
+          "en": "Towards or at a lower point in a river or stream."
         }
       ],
       "examples": [
         {
-          "en": "The larva of the butterfly is often found in the garden.",
-          "zh": "蝴蝶的幼虫常常在花园里被发现。"
+          "en": "The factory is located downstream from the river's source.",
+          "zh": "工厂位于河流源头的下游。"
         },
         {
-          "en": "After several weeks, the larva transforms into a pupa.",
-          "zh": "几周后，幼虫会变成蛹。"
+          "en": "Pollution flows downstream, affecting many communities.",
+          "zh": "污染流向下游，影响了许多社区。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'larva' as 'larvae' (plural) which sounds like 'lava,' representing something that transforms, like lava turning into rock."
+        "association": "Think of a river flowing down from the mountains to the sea, where everything downstream is affected by what happens upstream."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=larva&type=2",
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=downstream&type=2",
       "chapter": "认知词汇 动物分类 常考生物"
     }
   ]

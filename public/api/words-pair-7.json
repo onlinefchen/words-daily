@@ -1,69 +1,67 @@
 {
-  "generated": "2025-12-20T22:07:16.931Z",
+  "generated": "2025-12-21T22:07:48.723Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "aquatic life",
-      "pronunciation": "/əˈkwætɪk laɪf/",
+      "word": "breeding season",
+      "pronunciation": "/ˈbridɪŋ ˈsiːzən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "水生生物",
-          "en": "Living organisms that live in water."
+          "zh": "繁殖季节",
+          "en": "The time of year when animals mate and produce offspring."
         },
         {
           "pos": "n.",
-          "zh": "水域生态",
-          "en": "The ecosystem of plants and animals in aquatic environments."
+          "zh": "生长季节",
+          "en": "A specific period when certain plants or animals grow and reproduce."
         }
       ],
       "examples": [
         {
-          "en": "Coral reefs support a diverse range of aquatic life.",
-          "zh": "珊瑚礁支持着多样的水生生物。"
+          "en": "Many birds have a specific breeding season each spring.",
+          "zh": "许多鸟类在每年春天有特定的繁殖季节。"
         },
         {
-          "en": "Pollution can severely harm aquatic life in rivers.",
-          "zh": "污染会严重危害河流中的水生生物。"
+          "en": "The breeding season for fish can vary depending on the species.",
+          "zh": "鱼类的繁殖季节可能因物种而异。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'aqua' (water) to remember that aquatic life refers to water-dwelling organisms."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aquatic%20life&type=2",
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=breeding%20season&type=2",
       "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "spawn",
-      "pronunciation": "/spɔːn/",
+      "word": "incur",
+      "pronunciation": "/ɪnˈkɜr/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "产生",
-          "en": "To produce or create something, especially in large numbers."
+          "zh": "招致",
+          "en": "To bring something upon oneself, often an unwanted consequence."
         },
         {
-          "pos": "n.",
-          "zh": "鱼卵",
-          "en": "The eggs of fish or other aquatic animals."
+          "pos": "v.",
+          "zh": "产生",
+          "en": "To become subject to something, typically a cost or liability."
         }
       ],
       "examples": [
         {
-          "en": "The river is known to spawn thousands of fish every spring.",
-          "zh": "这条河每年春天都能产出成千上万的鱼。"
+          "en": "The company may incur additional costs during the project.",
+          "zh": "公司在项目中可能会产生额外费用。"
         },
         {
-          "en": "The scientist studied how pollution affects fish spawn in the ocean.",
-          "zh": "科学家研究了污染如何影响海洋中的鱼卵。"
+          "en": "If you are late, you will incur a penalty fee.",
+          "zh": "如果你迟到，你将会产生罚款。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'spawn' like 'sowing' seeds; both involve creating new life."
+        "association": "Think of 'in' as bringing something 'cur' (cure) upon yourself, but in a negative way, like an unwanted cost."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=spawn&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=incur&type=2",
+      "chapter": "核心词汇 科技发展 Unit 3"
     }
   ]
 }

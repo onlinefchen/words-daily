@@ -1,70 +1,67 @@
 {
-  "generated": "2025-12-20T22:07:16.931Z",
+  "generated": "2025-12-21T22:07:48.723Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "shortage",
-      "pronunciation": "/ˈʃɔːrtɪdʒ/",
+      "word": "dignity",
+      "pronunciation": "/ˈdɪɡnɪti/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "短缺",
-          "en": "A lack of something that is needed."
+          "zh": "尊严",
+          "en": "The quality of being worthy of respect and honor."
         },
         {
           "pos": "n.",
-          "zh": "不足",
-          "en": "An insufficient amount of a resource or supply."
+          "zh": "体面",
+          "en": "A state of being calm and composed in difficult situations."
         }
       ],
       "examples": [
         {
-          "en": "The region is facing a severe water shortage this summer.",
-          "zh": "这个地区今年夏天面临严重的水资源短缺。"
+          "en": "She maintained her dignity even in the face of criticism.",
+          "zh": "即使面对批评，她仍然保持了尊严。"
         },
         {
-          "en": "Many families are struggling due to the shortage of affordable housing.",
-          "zh": "由于负担得起的住房短缺，许多家庭正面临困难。"
+          "en": "Everyone deserves to be treated with dignity and respect.",
+          "zh": "每个人都应该受到尊严和尊重的对待。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'shortage' as having a 'short' supply of something, like a 'short' amount of water."
+        "association": "Think of 'dignity' as 'digging deep' to find your self-respect."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=shortage&type=2",
-      "chapter": "基本词汇 名词200 Unit 8"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dignity&type=2",
+      "chapter": "核心词汇 民主与权利 Unit 2"
     },
     {
-      "word": "aspirant",
-      "pronunciation": "/əˈspaɪrənt/",
+      "word": "ground motion",
+      "pronunciation": "/ɡraʊnd ˈmoʊʃən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "有抱负的人",
-          "en": "A person who aspires to achieve something, especially a career."
+          "zh": "地面运动",
+          "en": "The movement of the ground caused by seismic waves during an earthquake."
         },
         {
-          "pos": "adj.",
-          "zh": "有抱负的",
-          "en": "Having ambitions or strong desires to succeed."
+          "pos": "n.",
+          "zh": "地面震动",
+          "en": "Any vibrations or oscillations of the Earth's surface."
         }
       ],
       "examples": [
         {
-          "en": "The university is known for attracting talented aspirants each year.",
-          "zh": "这所大学以每年吸引有才华的有抱负者而闻名。"
+          "en": "Ground motion can cause serious damage to buildings during earthquakes.",
+          "zh": "地面运动在地震期间可能对建筑物造成严重损害。"
         },
         {
-          "en": "As an aspirant writer, she dedicates time to improve her skills.",
-          "zh": "作为一名有抱负的作家，她花时间提高自己的技能。"
+          "en": "Engineers study ground motion to improve earthquake-resistant structures.",
+          "zh": "工程师研究地面运动，以改善抗震结构。"
         }
       ],
-      "memoryTips": {
-        "etymology": "The word 'aspirant' comes from the Latin 'aspirare', meaning 'to breathe upon' or 'to strive for'.",
-        "association": "Think of 'aspirant' as someone who is 'aspiring' to reach a goal, like climbing a ladder to success."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aspirant&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 2"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ground%20motion&type=2",
+      "chapter": "认知词汇 自然分类 地震"
     }
   ]
 }
