@@ -1,68 +1,68 @@
 {
-  "generated": "2025-12-21T22:07:48.724Z",
+  "generated": "2025-12-22T22:08:19.637Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "edifying",
-      "pronunciation": "/ˈɛdɪfaɪɪŋ/",
+      "word": "revolution",
+      "pronunciation": "/ˌrɛvəˈluːʃən/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "启发性的",
-          "en": "Providing moral or intellectual instruction."
+          "pos": "n.",
+          "zh": "革命",
+          "en": "A significant change in political power or organizational structures."
         },
         {
-          "pos": "adj.",
-          "zh": "有益的",
-          "en": "Useful for personal growth or knowledge."
+          "pos": "n.",
+          "zh": "旋转",
+          "en": "The act of moving in a circular or spiral path around a central point."
         }
       ],
       "examples": [
         {
-          "en": "The documentary was both entertaining and edifying for the viewers.",
-          "zh": "这部纪录片对观众来说既有趣又具有启发性。"
+          "en": "The American Revolution led to the independence of the United States.",
+          "zh": "美国革命导致了美国的独立。"
         },
         {
-          "en": "Reading classics can be an edifying experience for young minds.",
-          "zh": "阅读经典作品对年轻人的思想是一种有益的体验。"
+          "en": "The revolution of the Earth around the Sun takes one year.",
+          "zh": "地球绕太阳的旋转需要一年时间。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'edifying' as 'educating'—both words relate to learning and growth."
+        "etymology": "The word 'revolution' comes from the Latin 'revolutio', meaning 'a turning over'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=edifying&type=2",
-      "chapter": "核心词汇 伦理与道德 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=revolution&type=2",
+      "chapter": "核心词汇 工作与生活 Unit 4"
     },
     {
-      "word": "poverty",
-      "pronunciation": "/ˈpɑːvərti/",
+      "word": "punishment",
+      "pronunciation": "/ˈpʌnɪʃmənt/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "贫困",
-          "en": "The state of having little or no money and few resources."
+          "zh": "惩罚",
+          "en": "A penalty given for doing something wrong."
         },
         {
           "pos": "n.",
-          "zh": "贫穷",
-          "en": "A condition where people lack basic needs for a decent life."
+          "zh": "刑罚",
+          "en": "A consequence imposed on someone as a result of their actions."
         }
       ],
       "examples": [
         {
-          "en": "Many families live in poverty, struggling to meet their daily needs.",
-          "zh": "许多家庭生活在贫困中，努力满足他们的日常需求。"
+          "en": "The teacher decided on a punishment for the misbehaving students.",
+          "zh": "老师决定对不守规矩的学生施加惩罚。"
         },
         {
-          "en": "Poverty can lead to various social and health issues in communities.",
-          "zh": "贫困可能导致社区中的各种社会和健康问题。"
+          "en": "Many believe that punishment should aim to correct behavior, not just to harm.",
+          "zh": "许多人认为惩罚应该旨在纠正行为，而不仅仅是造成伤害。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'poverty' as 'poor' + 'city', where many people struggle."
+        "association": "Think of 'punish' as a parent scolding a child, linking punishment to discipline."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=poverty&type=2",
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=punishment&type=2",
       "chapter": "核心词汇 法制与犯罪 Unit 4"
     }
   ]

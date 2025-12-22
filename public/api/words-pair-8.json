@@ -1,67 +1,69 @@
 {
-  "generated": "2025-12-21T22:07:48.724Z",
+  "generated": "2025-12-22T22:08:19.636Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "gum tree",
-      "pronunciation": "/ɡʌm tri/",
+      "word": "deplete",
+      "pronunciation": "/dɪˈpliːt/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "胶树",
-          "en": "A type of tree that produces a sticky substance called gum."
+          "pos": "v.",
+          "zh": "耗尽",
+          "en": "To use up the supply of something."
         },
         {
-          "pos": "n.",
-          "zh": "尤加利树",
-          "en": "A tree of the eucalyptus family, often found in Australia."
+          "pos": "v.",
+          "zh": "减少",
+          "en": "To reduce something in quantity or amount."
         }
       ],
       "examples": [
         {
-          "en": "The gum tree provides a habitat for many native animals.",
-          "zh": "胶树为许多本土动物提供栖息地。"
+          "en": "Overfishing can deplete the ocean's fish populations significantly.",
+          "zh": "过度捕捞会显著减少海洋中的鱼类数量。"
         },
         {
-          "en": "In Australia, the gum tree is a symbol of the landscape.",
-          "zh": "在澳大利亚，胶树是自然风景的象征。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=gum%20tree&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
-    },
-    {
-      "word": "environment",
-      "pronunciation": "/ɪnˈvaɪrənmənt/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "环境",
-          "en": "The natural world around us, including land, air, and water."
-        },
-        {
-          "pos": "n.",
-          "zh": "环境",
-          "en": "The conditions or influences affecting the growth and development of someone or something."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Protecting the environment is essential for future generations.",
-          "zh": "保护环境对未来几代人至关重要。"
-        },
-        {
-          "en": "Many species are endangered due to changes in their environment.",
-          "zh": "许多物种因其环境的变化而濒临灭绝。"
+          "en": "The prolonged drought has depleted our water resources.",
+          "zh": "持续的干旱已耗尽我们的水资源。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'environment' as 'the surroundings that nurture life', like a garden."
+        "association": "Think of 'deplete' as 'deplete your energy' when doing a tiring task."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=environment&type=2",
-      "chapter": "基本词汇 名词200 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=deplete&type=2",
+      "chapter": "核心词汇 科技发展 Unit 1"
+    },
+    {
+      "word": "block",
+      "pronunciation": "/blɑk/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "块；障碍",
+          "en": "A solid piece of material with flat surfaces."
+        },
+        {
+          "pos": "v.",
+          "zh": "阻止；封锁",
+          "en": "To prevent movement or progress."
+        }
+      ],
+      "examples": [
+        {
+          "en": "He used a block of wood to hold the door open.",
+          "zh": "他用一块木头把门撑开。"
+        },
+        {
+          "en": "They need to block the road for maintenance work.",
+          "zh": "他们需要封锁道路进行维修工作。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a 'block' as something that stops or holds back, like a block in a game."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=block&type=2",
+      "chapter": "基本词汇 动词200 Unit 3"
     }
   ]
 }

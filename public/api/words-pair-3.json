@@ -1,67 +1,69 @@
 {
-  "generated": "2025-12-21T22:07:48.723Z",
+  "generated": "2025-12-22T22:08:19.636Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "commercial fishery",
-      "pronunciation": "/kəˈmɜːrʃəl ˈfɪʃəri/",
+      "word": "adapt",
+      "pronunciation": "/əˈdæpt/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "商业渔业",
-          "en": "A type of fishing that is done for profit and sale."
+          "pos": "v.",
+          "zh": "适应",
+          "en": "To change in order to fit or work better in a new situation."
         },
         {
-          "pos": "n.",
-          "zh": "商业捕鱼场",
-          "en": "A place where fish are caught and sold for business."
+          "pos": "v.",
+          "zh": "改编",
+          "en": "To modify something to suit a new purpose or condition."
         }
       ],
       "examples": [
         {
-          "en": "The commercial fishery industry plays a vital role in the economy.",
-          "zh": "商业渔业在经济中扮演着重要角色。"
+          "en": "Animals must adapt to their environment to survive.",
+          "zh": "动物必须适应它们的环境才能生存。"
         },
         {
-          "en": "Sustainable practices are essential for the future of commercial fisheries.",
-          "zh": "可持续的做法对商业渔业的未来至关重要。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=commercial%20fishery&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
-    },
-    {
-      "word": "contamination",
-      "pronunciation": "/kənˌtæmɪˈneɪʃən/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "污染",
-          "en": "The presence of harmful substances in the environment."
-        },
-        {
-          "pos": "n.",
-          "zh": "污染物",
-          "en": "Something that causes pollution or makes something impure."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Water contamination can lead to serious health problems for communities.",
-          "zh": "水污染可能会给社区带来严重的健康问题。"
-        },
-        {
-          "en": "The factory was fined for causing air contamination in the area.",
-          "zh": "该工厂因在该地区造成空气污染而被罚款。"
+          "en": "The author decided to adapt the novel into a screenplay.",
+          "zh": "作者决定将小说改编为剧本。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'contamination' comes from the Latin 'contaminare', which means 'to make unclean'."
+        "association": "Think of 'adapt' as 'a-dapt,' where you 'a' (adjust) to 'dapt' (fit) your surroundings."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=contamination&type=2",
-      "chapter": "核心词汇 健康话题 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=adapt&type=2",
+      "chapter": "基本词汇 动词200 Unit 1"
+    },
+    {
+      "word": "truly",
+      "pronunciation": "/ˈtruːli/",
+      "meanings": [
+        {
+          "pos": "adv.",
+          "zh": "真正地",
+          "en": "In a way that is sincere or genuine."
+        },
+        {
+          "pos": "adv.",
+          "zh": "确实地",
+          "en": "Used to emphasize the truth of a statement."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She truly believes that honesty is the best policy.",
+          "zh": "她真的相信诚实是最好的原则。"
+        },
+        {
+          "en": "I am truly grateful for all your help and support.",
+          "zh": "我真的很感激你所有的帮助和支持。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'truly' as 'true' + 'ly', where 'true' signifies sincerity."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=truly&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 19"
     }
   ]
 }

@@ -1,70 +1,69 @@
 {
-  "generated": "2025-12-21T22:07:48.723Z",
+  "generated": "2025-12-22T22:08:19.636Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "food",
-      "pronunciation": "/fuːd/",
+      "word": "cultural",
+      "pronunciation": "/ˈkʌltʃərəl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "食物",
-          "en": "Any substance that people or animals eat or drink."
+          "pos": "adj.",
+          "zh": "文化的",
+          "en": "Relating to the ideas, customs, and social behavior of a group."
         },
         {
-          "pos": "v.",
-          "zh": "喂养",
-          "en": "To provide someone or something with nourishment."
+          "pos": "adj.",
+          "zh": "文化的",
+          "en": "Connected with the arts, beliefs, and practices of a society."
         }
       ],
       "examples": [
         {
-          "en": "I enjoy trying different types of food from various cultures.",
-          "zh": "我喜欢尝试来自不同文化的各种食物。"
+          "en": "The festival showcased the cultural diversity of the community.",
+          "zh": "这个节日展示了社区的文化多样性。"
         },
         {
-          "en": "It is important to food your pets with healthy meals.",
-          "zh": "给你的宠物提供健康饮食是很重要的。"
+          "en": "Cultural exchanges can enhance international understanding.",
+          "zh": "文化交流可以增强国际理解。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'food' as 'fuel' for your body, similar to what cars need to run."
+        "association": "Think of 'culture' when you hear 'cultural' since both words share similar meanings and roots."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=food&type=2",
-      "chapter": "核心词汇 健康话题 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cultural&type=2",
+      "chapter": "核心词汇 科技发展 Unit 1"
     },
     {
-      "word": "computer",
-      "pronunciation": "/kəmˈpjuːtər/",
+      "word": "apterous",
+      "pronunciation": "/ˈæp.tər.əs/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "计算机",
-          "en": "A device that can process data and perform tasks according to instructions."
+          "pos": "adj.",
+          "zh": "无翅的",
+          "en": "Describing an insect or animal that lacks wings."
         },
         {
-          "pos": "v.",
-          "zh": "计算机编程",
-          "en": "To use a computer to create software or perform calculations."
+          "pos": "adj.",
+          "zh": "不适合的",
+          "en": "Not suitable or not adapted for a particular purpose."
         }
       ],
       "examples": [
         {
-          "en": "She uses her computer to complete her assignments efficiently.",
-          "zh": "她使用计算机高效地完成作业。"
+          "en": "The apterous insects are often found in dark, damp habitats.",
+          "zh": "无翅昆虫常常出现在阴暗潮湿的栖息地。"
         },
         {
-          "en": "Learning to program a computer can open many career opportunities.",
-          "zh": "学习编程可以带来许多职业机会。"
+          "en": "Some species are apterous, making them less vulnerable to predators.",
+          "zh": "一些物种是无翅的，这使它们不那么容易受到捕食者的攻击。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'computer' comes from the Latin 'computare', meaning 'to calculate'.",
-        "association": "Think of a 'computer' as a 'compute-er' that helps you solve problems."
+        "etymology": "The word 'apterous' comes from the Greek 'apteros', meaning 'without wings' ('a-' meaning 'without' and 'pteron' meaning 'wing')."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=computer&type=2",
-      "chapter": "核心词汇 动物权益与保护 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=apterous&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

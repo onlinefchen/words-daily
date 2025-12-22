@@ -1,67 +1,69 @@
 {
-  "generated": "2025-12-21T22:07:48.723Z",
+  "generated": "2025-12-22T22:08:19.636Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "dignity",
-      "pronunciation": "/ˈdɪɡnɪti/",
+      "word": "use up",
+      "pronunciation": "/juːz ʌp/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "尊严",
-          "en": "The quality of being worthy of respect and honor."
+          "pos": "v.",
+          "zh": "用尽",
+          "en": "To completely finish a supply of something."
         },
         {
-          "pos": "n.",
-          "zh": "体面",
-          "en": "A state of being calm and composed in difficult situations."
+          "pos": "phr.",
+          "zh": "耗尽",
+          "en": "To deplete resources or energy."
         }
       ],
       "examples": [
         {
-          "en": "She maintained her dignity even in the face of criticism.",
-          "zh": "即使面对批评，她仍然保持了尊严。"
+          "en": "I used up all my savings to pay for university fees.",
+          "zh": "我花光了所有的积蓄来支付大学学费。"
         },
         {
-          "en": "Everyone deserves to be treated with dignity and respect.",
-          "zh": "每个人都应该受到尊严和尊重的对待。"
+          "en": "We need to buy more food because we have used up everything.",
+          "zh": "我们需要买更多的食物，因为我们已经用光了所有的东西。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'dignity' as 'digging deep' to find your self-respect."
+        "association": "Think of 'using up' as 'using until nothing is left.'"
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dignity&type=2",
-      "chapter": "核心词汇 民主与权利 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=use%20up&type=2",
+      "chapter": "核心词汇 环境保护 Unit 5"
     },
     {
-      "word": "ground motion",
-      "pronunciation": "/ɡraʊnd ˈmoʊʃən/",
+      "word": "larva",
+      "pronunciation": "/ˈlɑːrvə/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "地面运动",
-          "en": "The movement of the ground caused by seismic waves during an earthquake."
+          "zh": "幼虫",
+          "en": "A young form of an insect that has not yet developed into an adult."
         },
         {
           "pos": "n.",
-          "zh": "地面震动",
-          "en": "Any vibrations or oscillations of the Earth's surface."
+          "zh": "虫态",
+          "en": "The early stage in the life cycle of certain animals, before they change into their adult form."
         }
       ],
       "examples": [
         {
-          "en": "Ground motion can cause serious damage to buildings during earthquakes.",
-          "zh": "地面运动在地震期间可能对建筑物造成严重损害。"
+          "en": "The larva of the butterfly is often found in the garden.",
+          "zh": "蝴蝶的幼虫常常在花园里被发现。"
         },
         {
-          "en": "Engineers study ground motion to improve earthquake-resistant structures.",
-          "zh": "工程师研究地面运动，以改善抗震结构。"
+          "en": "After several weeks, the larva transforms into a pupa.",
+          "zh": "几周后，幼虫会变成蛹。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ground%20motion&type=2",
-      "chapter": "认知词汇 自然分类 地震"
+      "memoryTips": {
+        "association": "Think of 'larva' as 'larvae' (plural) which sounds like 'lava,' representing something that transforms, like lava turning into rock."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=larva&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

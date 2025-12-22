@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-21T22:07:48.723Z",
+  "generated": "2025-12-22T22:08:19.636Z",
   "pair": 1,
   "count": 2,
   "words": [
     {
-      "word": "conceive",
-      "pronunciation": "/kənˈsiːv/",
+      "word": "circulatory",
+      "pronunciation": "/ˌsɜr.kjʊˈleɪ.tɔːr.i/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "构思",
-          "en": "To form or develop an idea in the mind."
+          "pos": "adj.",
+          "zh": "循环的",
+          "en": "Related to the system that moves blood through the body."
         },
         {
-          "pos": "v.",
-          "zh": "怀孕",
-          "en": "To become pregnant with a child."
+          "pos": "adj.",
+          "zh": "血液循环的",
+          "en": "Pertaining to the circulation of blood in the body."
         }
       ],
       "examples": [
         {
-          "en": "She could not conceive of a life without music.",
-          "zh": "她无法想象没有音乐的生活。"
+          "en": "The circulatory system helps to deliver oxygen to all cells.",
+          "zh": "循环系统帮助将氧气输送到所有细胞。"
         },
         {
-          "en": "They conceived a plan to improve the community.",
-          "zh": "他们构思了一个改善社区的计划。"
+          "en": "Exercise improves your circulatory health and overall well-being.",
+          "zh": "锻炼改善你的循环健康和整体健康。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'conceive' as 'con- (with) + ceive (receive)', meaning to receive an idea."
+        "association": "Think of 'circle' in 'circulatory', as blood flows in a circular path."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=conceive&type=2",
-      "chapter": "认知词汇 环境分类 欧洲森林保护"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=circulatory&type=2",
+      "chapter": "核心词汇 健康话题 Unit 2"
     },
     {
-      "word": "ridiculous",
-      "pronunciation": "/rɪˈdɪkjələs/",
+      "word": "fern",
+      "pronunciation": "/fɜrn/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "荒谬的",
-          "en": "Something that is very silly or unreasonable."
+          "pos": "n.",
+          "zh": "蕨类植物",
+          "en": "A fern is a type of plant that has leaves shaped like feathers."
         },
         {
-          "pos": "adj.",
-          "zh": "可笑的",
-          "en": "Something that causes laughter because it is absurd."
+          "pos": "n.",
+          "zh": "蕨类植物的叶子",
+          "en": "The leaves of a fern are usually green and have a unique structure."
         }
       ],
       "examples": [
         {
-          "en": "It’s ridiculous to think that we can finish this project in one day.",
-          "zh": "认为我们能在一天内完成这个项目是荒谬的。"
+          "en": "The garden was filled with beautiful ferns and colorful flowers.",
+          "zh": "花园里满是美丽的蕨类植物和五彩缤纷的花朵。"
         },
         {
-          "en": "His excuses for being late were so ridiculous that everyone laughed.",
-          "zh": "他迟到的借口如此可笑，以至于大家都笑了。"
+          "en": "Ferns thrive in moist, shaded environments, making them popular in gardens.",
+          "zh": "蕨类植物在潮湿、阴暗的环境中生长良好，因此在花园中很受欢迎。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'ridiculous' as 'rid' (to laugh) and 'culous' (like 'foolish'), so it relates to foolish laughter."
+        "association": "Think of ferns as 'feather-like' plants, as their leaves resemble feathers."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ridiculous&type=2",
-      "chapter": "核心词汇 伦理与道德 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=fern&type=2",
+      "chapter": "认知词汇 自然分类 热带雨林"
     }
   ]
 }

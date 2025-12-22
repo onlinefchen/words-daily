@@ -1,65 +1,69 @@
 {
-  "generated": "2025-12-21T22:07:48.723Z",
+  "generated": "2025-12-22T22:08:19.636Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "promote",
-      "pronunciation": "/prəˈmoʊt/",
+      "word": "fertile soil",
+      "pronunciation": "/ˈfɜr.təl sɔɪl/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "促进",
-          "en": "To help something grow or develop."
+          "pos": "adj.",
+          "zh": "肥沃的土壤",
+          "en": "Soil that is rich in nutrients, suitable for growing plants."
         },
-        {
-          "pos": "v.",
-          "zh": "推销",
-          "en": "To advertise or sell a product or service."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The organization aims to promote healthy eating habits among children.",
-          "zh": "该组织旨在促进儿童健康饮食习惯。"
-        },
-        {
-          "en": "The company will promote the new product through social media campaigns.",
-          "zh": "该公司将通过社交媒体活动推广新产品。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=promote&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 8"
-    },
-    {
-      "word": "thrift",
-      "pronunciation": "/θrɪft/",
-      "meanings": [
         {
           "pos": "n.",
-          "zh": "节俭",
-          "en": "The quality of using money and resources carefully."
-        },
-        {
-          "pos": "v.",
-          "zh": "节省",
-          "en": "To save money or resources by being careful."
+          "zh": "肥沃的土壤",
+          "en": "Land that can produce a lot of crops due to its quality."
         }
       ],
       "examples": [
         {
-          "en": "Many people practice thrift to save money for the future.",
-          "zh": "许多人通过节俭来为未来存钱。"
+          "en": "Farmers prefer to plant crops in fertile soil for better yields.",
+          "zh": "农民更喜欢在肥沃的土壤中种植作物以获得更好的产量。"
         },
         {
-          "en": "Thrift can lead to financial security and independence.",
-          "zh": "节俭可以带来财务安全和独立。"
+          "en": "The region is known for its fertile soil, ideal for agriculture.",
+          "zh": "该地区以其肥沃的土壤而闻名，非常适合农业。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=thrift&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 9"
+      "memoryTips": {
+        "association": "Think of 'fertile' as 'fertilizer' which helps plants grow, linking it to rich soil."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=fertile%20soil&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
+    },
+    {
+      "word": "unable",
+      "pronunciation": "/ˈʌnˈeɪbəl/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "无能的，不能的",
+          "en": "Not having the ability to do something."
+        },
+        {
+          "pos": "adj.",
+          "zh": "无法的",
+          "en": "Not able to perform or achieve something."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She was unable to attend the meeting due to illness.",
+          "zh": "由于生病，她无法参加会议。"
+        },
+        {
+          "en": "They are unable to solve the problem without help.",
+          "zh": "没有帮助，他们无法解决这个问题。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'unable' as 'un' (not) + 'able' (capable). If you are unable, you are not able to do something."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=unable&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 19"
     }
   ]
 }

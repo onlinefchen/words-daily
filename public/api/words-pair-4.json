@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-21T22:07:48.723Z",
+  "generated": "2025-12-22T22:08:19.636Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "unrealistic",
-      "pronunciation": "/ʌnˈrɪəlɪstɪk/",
+      "word": "inviolable",
+      "pronunciation": "/ɪnˈvaɪ.lə.bəl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "不切实际的",
-          "en": "Not based on reality; not practical or possible."
+          "zh": "不可侵犯的",
+          "en": "Something that cannot be violated or harmed."
         },
         {
           "pos": "adj.",
-          "zh": "不现实的",
-          "en": "Something that cannot be achieved or is not sensible."
+          "zh": "神圣的",
+          "en": "Something that is sacred and must be respected."
         }
       ],
       "examples": [
         {
-          "en": "His expectations for the project were completely unrealistic and unattainable.",
-          "zh": "他对这个项目的期望完全不切实际，无法实现。"
+          "en": "The constitution guarantees certain inviolable rights for all citizens.",
+          "zh": "宪法保障所有公民享有某些不可侵犯的权利。"
         },
         {
-          "en": "Setting an unrealistically high goal can lead to disappointment and stress.",
-          "zh": "设定一个不切实际的高目标可能会导致失望和压力。"
+          "en": "Freedom of speech is considered an inviolable principle in democratic societies.",
+          "zh": "言论自由被视为民主社会中的一个不可侵犯的原则。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'unreal' as something beyond reality, which helps remember 'unrealistic'."
+        "etymology": "The word 'inviolable' comes from Latin 'inviolabilis', meaning 'not to be violated'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=unrealistic&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 10"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=inviolable&type=2",
+      "chapter": "核心词汇 民主与权利 Unit 3"
     },
     {
-      "word": "downstream",
-      "pronunciation": "/ˈdaʊnˌstriːm/",
+      "word": "electronic",
+      "pronunciation": "/ɪˈlɛktrɪk/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "下游的",
-          "en": "Located in the direction of the current of a river."
+          "zh": "电子的",
+          "en": "Related to devices that use electricity."
         },
         {
-          "pos": "adv.",
-          "zh": "在下游",
-          "en": "Towards or at a lower point in a river or stream."
+          "pos": "n.",
+          "zh": "电子设备",
+          "en": "A term for gadgets or equipment that operate with electrical power."
         }
       ],
       "examples": [
         {
-          "en": "The factory is located downstream from the river's source.",
-          "zh": "工厂位于河流源头的下游。"
+          "en": "Many electronic devices have made our lives much easier today.",
+          "zh": "许多电子设备使我们的生活今天变得更简单。"
         },
         {
-          "en": "Pollution flows downstream, affecting many communities.",
-          "zh": "污染流向下游，影响了许多社区。"
+          "en": "The electronic book is becoming increasingly popular among students.",
+          "zh": "电子书在学生中越来越受欢迎。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a river flowing down from the mountains to the sea, where everything downstream is affected by what happens upstream."
+        "association": "Think of 'electronic' as involving 'electricity' and 'technology' together."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=downstream&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=electronic&type=2",
+      "chapter": "核心词汇 科技发展 Unit 2"
     }
   ]
 }

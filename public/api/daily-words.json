@@ -1,750 +1,764 @@
 {
-  "generated": "2025-12-21T22:07:48.722Z",
-  "date": "2025-12-21",
+  "generated": "2025-12-22T22:08:19.635Z",
+  "date": "2025-12-22",
   "totalWords": 20,
   "words": [
     {
-      "id": "w02980",
-      "word": "conceive",
+      "id": "w01822",
+      "word": "circulatory",
       "type": "single",
-      "chapterIndex": 8,
-      "globalIndex": 2980,
-      "chapter": "ch113",
-      "chapterName": "认知词汇 环境分类 欧洲森林保护",
-      "pronunciation": {
-        "us": "/kənˈsiːv/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "构思",
-          "en": "To form or develop an idea in the mind."
-        },
-        {
-          "pos": "v.",
-          "zh": "怀孕",
-          "en": "To become pregnant with a child."
-        }
-      ],
-      "examples": [
-        {
-          "en": "She could not conceive of a life without music.",
-          "zh": "她无法想象没有音乐的生活。"
-        },
-        {
-          "en": "They conceived a plan to improve the community.",
-          "zh": "他们构思了一个改善社区的计划。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'conceive' as 'con- (with) + ceive (receive)', meaning to receive an idea."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=conceive&type=2"
-    },
-    {
-      "id": "w01175",
-      "word": "ridiculous",
-      "type": "single",
-      "chapterIndex": 15,
-      "globalIndex": 1175,
-      "chapter": "ch059",
-      "chapterName": "核心词汇 伦理与道德 Unit 4",
-      "pronunciation": {
-        "us": "/rɪˈdɪkjələs/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "荒谬的",
-          "en": "Something that is very silly or unreasonable."
-        },
-        {
-          "pos": "adj.",
-          "zh": "可笑的",
-          "en": "Something that causes laughter because it is absurd."
-        }
-      ],
-      "examples": [
-        {
-          "en": "It’s ridiculous to think that we can finish this project in one day.",
-          "zh": "认为我们能在一天内完成这个项目是荒谬的。"
-        },
-        {
-          "en": "His excuses for being late were so ridiculous that everyone laughed.",
-          "zh": "他迟到的借口如此可笑，以至于大家都笑了。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'ridiculous' as 'rid' (to laugh) and 'culous' (like 'foolish'), so it relates to foolish laughter."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ridiculous&type=2"
-    },
-    {
-      "id": "w01523",
-      "word": "dignity",
-      "type": "single",
-      "chapterIndex": 3,
-      "globalIndex": 1523,
-      "chapter": "ch077",
-      "chapterName": "核心词汇 民主与权利 Unit 2",
-      "pronunciation": {
-        "us": "/ˈdɪɡnɪti/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "尊严",
-          "en": "The quality of being worthy of respect and honor."
-        },
-        {
-          "pos": "n.",
-          "zh": "体面",
-          "en": "A state of being calm and composed in difficult situations."
-        }
-      ],
-      "examples": [
-        {
-          "en": "She maintained her dignity even in the face of criticism.",
-          "zh": "即使面对批评，她仍然保持了尊严。"
-        },
-        {
-          "en": "Everyone deserves to be treated with dignity and respect.",
-          "zh": "每个人都应该受到尊严和尊重的对待。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'dignity' as 'digging deep' to find your self-respect."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dignity&type=2"
-    },
-    {
-      "id": "w02483",
-      "word": "ground motion",
-      "type": "phrase",
-      "chapterIndex": 36,
-      "globalIndex": 2483,
-      "chapter": "ch102",
-      "chapterName": "认知词汇 自然分类 地震",
-      "pronunciation": {
-        "us": "/ɡraʊnd ˈmoʊʃən/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "地面运动",
-          "en": "The movement of the ground caused by seismic waves during an earthquake."
-        },
-        {
-          "pos": "n.",
-          "zh": "地面震动",
-          "en": "Any vibrations or oscillations of the Earth's surface."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Ground motion can cause serious damage to buildings during earthquakes.",
-          "zh": "地面运动在地震期间可能对建筑物造成严重损害。"
-        },
-        {
-          "en": "Engineers study ground motion to improve earthquake-resistant structures.",
-          "zh": "工程师研究地面运动，以改善抗震结构。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ground%20motion&type=2"
-    },
-    {
-      "id": "w01975",
-      "word": "commercial fishery",
-      "type": "phrase",
-      "chapterIndex": 75,
-      "globalIndex": 1975,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/kəˈmɜːrʃəl ˈfɪʃəri/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "商业渔业",
-          "en": "A type of fishing that is done for profit and sale."
-        },
-        {
-          "pos": "n.",
-          "zh": "商业捕鱼场",
-          "en": "A place where fish are caught and sold for business."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The commercial fishery industry plays a vital role in the economy.",
-          "zh": "商业渔业在经济中扮演着重要角色。"
-        },
-        {
-          "en": "Sustainable practices are essential for the future of commercial fisheries.",
-          "zh": "可持续的做法对商业渔业的未来至关重要。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=commercial%20fishery&type=2"
-    },
-    {
-      "id": "w01827",
-      "word": "contamination",
-      "type": "single",
-      "chapterIndex": 7,
-      "globalIndex": 1827,
+      "chapterIndex": 2,
+      "globalIndex": 1822,
       "chapter": "ch092",
       "chapterName": "核心词汇 健康话题 Unit 2",
       "pronunciation": {
-        "us": "/kənˌtæmɪˈneɪʃən/"
+        "us": "/ˌsɜr.kjʊˈleɪ.tɔːr.i/"
       },
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "污染",
-          "en": "The presence of harmful substances in the environment."
+          "pos": "adj.",
+          "zh": "循环的",
+          "en": "Related to the system that moves blood through the body."
         },
         {
-          "pos": "n.",
-          "zh": "污染物",
-          "en": "Something that causes pollution or makes something impure."
+          "pos": "adj.",
+          "zh": "血液循环的",
+          "en": "Pertaining to the circulation of blood in the body."
         }
       ],
       "examples": [
         {
-          "en": "Water contamination can lead to serious health problems for communities.",
-          "zh": "水污染可能会给社区带来严重的健康问题。"
+          "en": "The circulatory system helps to deliver oxygen to all cells.",
+          "zh": "循环系统帮助将氧气输送到所有细胞。"
         },
         {
-          "en": "The factory was fined for causing air contamination in the area.",
-          "zh": "该工厂因在该地区造成空气污染而被罚款。"
+          "en": "Exercise improves your circulatory health and overall well-being.",
+          "zh": "锻炼改善你的循环健康和整体健康。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'contamination' comes from the Latin 'contaminare', which means 'to make unclean'."
+        "association": "Think of 'circle' in 'circulatory', as blood flows in a circular path."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=contamination&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=circulatory&type=2"
     },
     {
-      "id": "w01384",
-      "word": "unrealistic",
+      "id": "w02721",
+      "word": "fern",
       "type": "single",
-      "chapterIndex": 4,
-      "globalIndex": 1384,
-      "chapter": "ch070",
-      "chapterName": "核心词汇 青少年教育 Unit 10",
+      "chapterIndex": 13,
+      "globalIndex": 2721,
+      "chapter": "ch107",
+      "chapterName": "认知词汇 自然分类 热带雨林",
       "pronunciation": {
-        "us": "/ʌnˈrɪəlɪstɪk/"
+        "us": "/fɜrn/"
       },
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "不切实际的",
-          "en": "Not based on reality; not practical or possible."
+          "pos": "n.",
+          "zh": "蕨类植物",
+          "en": "A fern is a type of plant that has leaves shaped like feathers."
         },
         {
-          "pos": "adj.",
-          "zh": "不现实的",
-          "en": "Something that cannot be achieved or is not sensible."
+          "pos": "n.",
+          "zh": "蕨类植物的叶子",
+          "en": "The leaves of a fern are usually green and have a unique structure."
         }
       ],
       "examples": [
         {
-          "en": "His expectations for the project were completely unrealistic and unattainable.",
-          "zh": "他对这个项目的期望完全不切实际，无法实现。"
+          "en": "The garden was filled with beautiful ferns and colorful flowers.",
+          "zh": "花园里满是美丽的蕨类植物和五彩缤纷的花朵。"
         },
         {
-          "en": "Setting an unrealistically high goal can lead to disappointment and stress.",
-          "zh": "设定一个不切实际的高目标可能会导致失望和压力。"
+          "en": "Ferns thrive in moist, shaded environments, making them popular in gardens.",
+          "zh": "蕨类植物在潮湿、阴暗的环境中生长良好，因此在花园中很受欢迎。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'unreal' as something beyond reality, which helps remember 'unrealistic'."
+        "association": "Think of ferns as 'feather-like' plants, as their leaves resemble feathers."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=unrealistic&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=fern&type=2"
     },
     {
-      "id": "w01979",
-      "word": "downstream",
+      "id": "w00991",
+      "word": "use up",
+      "type": "phrase",
+      "chapterIndex": 11,
+      "globalIndex": 991,
+      "chapter": "ch050",
+      "chapterName": "核心词汇 环境保护 Unit 5",
+      "pronunciation": {
+        "us": "/juːz ʌp/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "用尽",
+          "en": "To completely finish a supply of something."
+        },
+        {
+          "pos": "phr.",
+          "zh": "耗尽",
+          "en": "To deplete resources or energy."
+        }
+      ],
+      "examples": [
+        {
+          "en": "I used up all my savings to pay for university fees.",
+          "zh": "我花光了所有的积蓄来支付大学学费。"
+        },
+        {
+          "en": "We need to buy more food because we have used up everything.",
+          "zh": "我们需要买更多的食物，因为我们已经用光了所有的东西。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'using up' as 'using until nothing is left.'"
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=use%20up&type=2"
+    },
+    {
+      "id": "w02231",
+      "word": "larva",
       "type": "single",
-      "chapterIndex": 79,
-      "globalIndex": 1979,
+      "chapterIndex": 331,
+      "globalIndex": 2231,
       "chapter": "ch096",
       "chapterName": "认知词汇 动物分类 常考生物",
       "pronunciation": {
-        "us": "/ˈdaʊnˌstriːm/"
+        "us": "/ˈlɑːrvə/"
       },
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "下游的",
-          "en": "Located in the direction of the current of a river."
+          "pos": "n.",
+          "zh": "幼虫",
+          "en": "A young form of an insect that has not yet developed into an adult."
+        },
+        {
+          "pos": "n.",
+          "zh": "虫态",
+          "en": "The early stage in the life cycle of certain animals, before they change into their adult form."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The larva of the butterfly is often found in the garden.",
+          "zh": "蝴蝶的幼虫常常在花园里被发现。"
+        },
+        {
+          "en": "After several weeks, the larva transforms into a pupa.",
+          "zh": "几周后，幼虫会变成蛹。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'larva' as 'larvae' (plural) which sounds like 'lava,' representing something that transforms, like lava turning into rock."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=larva&type=2"
+    },
+    {
+      "id": "w00011",
+      "word": "adapt",
+      "type": "single",
+      "chapterIndex": 11,
+      "globalIndex": 11,
+      "chapter": "ch001",
+      "chapterName": "基本词汇 动词200 Unit 1",
+      "pronunciation": {
+        "us": "/əˈdæpt/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "适应",
+          "en": "To change in order to fit or work better in a new situation."
+        },
+        {
+          "pos": "v.",
+          "zh": "改编",
+          "en": "To modify something to suit a new purpose or condition."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Animals must adapt to their environment to survive.",
+          "zh": "动物必须适应它们的环境才能生存。"
+        },
+        {
+          "en": "The author decided to adapt the novel into a screenplay.",
+          "zh": "作者决定将小说改编为剧本。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'adapt' as 'a-dapt,' where you 'a' (adjust) to 'dapt' (fit) your surroundings."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=adapt&type=2"
+    },
+    {
+      "id": "w00767",
+      "word": "truly",
+      "type": "single",
+      "chapterIndex": 7,
+      "globalIndex": 767,
+      "chapter": "ch039",
+      "chapterName": "基本词汇 形容词和副词400 Unit 19",
+      "pronunciation": {
+        "us": "/ˈtruːli/"
+      },
+      "meanings": [
+        {
+          "pos": "adv.",
+          "zh": "真正地",
+          "en": "In a way that is sincere or genuine."
         },
         {
           "pos": "adv.",
-          "zh": "在下游",
-          "en": "Towards or at a lower point in a river or stream."
+          "zh": "确实地",
+          "en": "Used to emphasize the truth of a statement."
         }
       ],
       "examples": [
         {
-          "en": "The factory is located downstream from the river's source.",
-          "zh": "工厂位于河流源头的下游。"
+          "en": "She truly believes that honesty is the best policy.",
+          "zh": "她真的相信诚实是最好的原则。"
         },
         {
-          "en": "Pollution flows downstream, affecting many communities.",
-          "zh": "污染流向下游，影响了许多社区。"
+          "en": "I am truly grateful for all your help and support.",
+          "zh": "我真的很感激你所有的帮助和支持。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a river flowing down from the mountains to the sea, where everything downstream is affected by what happens upstream."
+        "association": "Think of 'truly' as 'true' + 'ly', where 'true' signifies sincerity."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=downstream&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=truly&type=2"
     },
     {
-      "id": "w01355",
-      "word": "promote",
-      "type": "single",
-      "chapterIndex": 15,
-      "globalIndex": 1355,
-      "chapter": "ch068",
-      "chapterName": "核心词汇 青少年教育 Unit 8",
-      "pronunciation": {
-        "us": "/prəˈmoʊt/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "促进",
-          "en": "To help something grow or develop."
-        },
-        {
-          "pos": "v.",
-          "zh": "推销",
-          "en": "To advertise or sell a product or service."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The organization aims to promote healthy eating habits among children.",
-          "zh": "该组织旨在促进儿童健康饮食习惯。"
-        },
-        {
-          "en": "The company will promote the new product through social media campaigns.",
-          "zh": "该公司将通过社交媒体活动推广新产品。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=promote&type=2"
-    },
-    {
-      "id": "w01378",
-      "word": "thrift",
-      "type": "single",
-      "chapterIndex": 18,
-      "globalIndex": 1378,
-      "chapter": "ch069",
-      "chapterName": "核心词汇 青少年教育 Unit 9",
-      "pronunciation": {
-        "us": "/θrɪft/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "节俭",
-          "en": "The quality of using money and resources carefully."
-        },
-        {
-          "pos": "v.",
-          "zh": "节省",
-          "en": "To save money or resources by being careful."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Many people practice thrift to save money for the future.",
-          "zh": "许多人通过节俭来为未来存钱。"
-        },
-        {
-          "en": "Thrift can lead to financial security and independence.",
-          "zh": "节俭可以带来财务安全和独立。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=thrift&type=2"
-    },
-    {
-      "id": "w01846",
-      "word": "food",
-      "type": "single",
-      "chapterIndex": 6,
-      "globalIndex": 1846,
-      "chapter": "ch093",
-      "chapterName": "核心词汇 健康话题 Unit 3",
-      "pronunciation": {
-        "us": "/fuːd/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "食物",
-          "en": "Any substance that people or animals eat or drink."
-        },
-        {
-          "pos": "v.",
-          "zh": "喂养",
-          "en": "To provide someone or something with nourishment."
-        }
-      ],
-      "examples": [
-        {
-          "en": "I enjoy trying different types of food from various cultures.",
-          "zh": "我喜欢尝试来自不同文化的各种食物。"
-        },
-        {
-          "en": "It is important to food your pets with healthy meals.",
-          "zh": "给你的宠物提供健康饮食是很重要的。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'food' as 'fuel' for your body, similar to what cars need to run."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=food&type=2"
-    },
-    {
-      "id": "w01426",
-      "word": "computer",
-      "type": "single",
-      "chapterIndex": 6,
-      "globalIndex": 1426,
-      "chapter": "ch072",
-      "chapterName": "核心词汇 动物权益与保护 Unit 2",
-      "pronunciation": {
-        "us": "/kəmˈpjuːtər/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "计算机",
-          "en": "A device that can process data and perform tasks according to instructions."
-        },
-        {
-          "pos": "v.",
-          "zh": "计算机编程",
-          "en": "To use a computer to create software or perform calculations."
-        }
-      ],
-      "examples": [
-        {
-          "en": "She uses her computer to complete her assignments efficiently.",
-          "zh": "她使用计算机高效地完成作业。"
-        },
-        {
-          "en": "Learning to program a computer can open many career opportunities.",
-          "zh": "学习编程可以带来许多职业机会。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'computer' comes from the Latin 'computare', meaning 'to calculate'.",
-        "association": "Think of a 'computer' as a 'compute-er' that helps you solve problems."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=computer&type=2"
-    },
-    {
-      "id": "w01904",
-      "word": "breeding season",
-      "type": "phrase",
-      "chapterIndex": 4,
-      "globalIndex": 1904,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/ˈbridɪŋ ˈsiːzən/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "繁殖季节",
-          "en": "The time of year when animals mate and produce offspring."
-        },
-        {
-          "pos": "n.",
-          "zh": "生长季节",
-          "en": "A specific period when certain plants or animals grow and reproduce."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Many birds have a specific breeding season each spring.",
-          "zh": "许多鸟类在每年春天有特定的繁殖季节。"
-        },
-        {
-          "en": "The breeding season for fish can vary depending on the species.",
-          "zh": "鱼类的繁殖季节可能因物种而异。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=breeding%20season&type=2"
-    },
-    {
-      "id": "w00844",
-      "word": "incur",
-      "type": "single",
-      "chapterIndex": 4,
-      "globalIndex": 844,
-      "chapter": "ch043",
-      "chapterName": "核心词汇 科技发展 Unit 3",
-      "pronunciation": {
-        "us": "/ɪnˈkɜr/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "招致",
-          "en": "To bring something upon oneself, often an unwanted consequence."
-        },
-        {
-          "pos": "v.",
-          "zh": "产生",
-          "en": "To become subject to something, typically a cost or liability."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The company may incur additional costs during the project.",
-          "zh": "公司在项目中可能会产生额外费用。"
-        },
-        {
-          "en": "If you are late, you will incur a penalty fee.",
-          "zh": "如果你迟到，你将会产生罚款。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'in' as bringing something 'cur' (cure) upon yourself, but in a negative way, like an unwanted cost."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=incur&type=2"
-    },
-    {
-      "id": "w01927",
-      "word": "gum tree",
-      "type": "phrase",
-      "chapterIndex": 27,
-      "globalIndex": 1927,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/ɡʌm tri/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "胶树",
-          "en": "A type of tree that produces a sticky substance called gum."
-        },
-        {
-          "pos": "n.",
-          "zh": "尤加利树",
-          "en": "A tree of the eucalyptus family, often found in Australia."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The gum tree provides a habitat for many native animals.",
-          "zh": "胶树为许多本土动物提供栖息地。"
-        },
-        {
-          "en": "In Australia, the gum tree is a symbol of the landscape.",
-          "zh": "在澳大利亚，胶树是自然风景的象征。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=gum%20tree&type=2"
-    },
-    {
-      "id": "w00267",
-      "word": "environment",
+      "id": "w01547",
+      "word": "inviolable",
       "type": "single",
       "chapterIndex": 7,
-      "globalIndex": 267,
-      "chapter": "ch014",
-      "chapterName": "基本词汇 名词200 Unit 4",
+      "globalIndex": 1547,
+      "chapter": "ch078",
+      "chapterName": "核心词汇 民主与权利 Unit 3",
       "pronunciation": {
-        "us": "/ɪnˈvaɪrənmənt/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "环境",
-          "en": "The natural world around us, including land, air, and water."
-        },
-        {
-          "pos": "n.",
-          "zh": "环境",
-          "en": "The conditions or influences affecting the growth and development of someone or something."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Protecting the environment is essential for future generations.",
-          "zh": "保护环境对未来几代人至关重要。"
-        },
-        {
-          "en": "Many species are endangered due to changes in their environment.",
-          "zh": "许多物种因其环境的变化而濒临灭绝。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'environment' as 'the surroundings that nurture life', like a garden."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=environment&type=2"
-    },
-    {
-      "id": "w01662",
-      "word": "maltreat",
-      "type": "single",
-      "chapterIndex": 2,
-      "globalIndex": 1662,
-      "chapter": "ch084",
-      "chapterName": "核心词汇 工作与生活 Unit 4",
-      "pronunciation": {
-        "us": "/mælˈtrit/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "虐待",
-          "en": "To treat someone badly or cruelly."
-        },
-        {
-          "pos": "v.",
-          "zh": "滥用",
-          "en": "To misuse something in a harmful way."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The organization fights against those who maltreat animals.",
-          "zh": "该组织致力于打击虐待动物的行为。"
-        },
-        {
-          "en": "It is illegal to maltreat children in any circumstance.",
-          "zh": "在任何情况下虐待儿童都是违法的。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'maltreat' as treating someone like 'mal' (bad)."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=maltreat&type=2"
-    },
-    {
-      "id": "w01944",
-      "word": "pelt",
-      "type": "single",
-      "chapterIndex": 44,
-      "globalIndex": 1944,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/pɛlt/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "投掷",
-          "en": "To throw something with force."
-        },
-        {
-          "pos": "n.",
-          "zh": "大量的雨或雪",
-          "en": "A heavy fall of rain or snow."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The children pelted each other with snowballs during the winter.",
-          "zh": "冬天，孩子们互相投掷雪球。"
-        },
-        {
-          "en": "Heavy rain began to pelt down, soaking everyone outside.",
-          "zh": "大雨开始倾泻而下，淋湿了外面所有人。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'pelt' as 'pelting' something like a snowball or rain, which is a strong, forceful action."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pelt&type=2"
-    },
-    {
-      "id": "w01130",
-      "word": "edifying",
-      "type": "single",
-      "chapterIndex": 10,
-      "globalIndex": 1130,
-      "chapter": "ch057",
-      "chapterName": "核心词汇 伦理与道德 Unit 2",
-      "pronunciation": {
-        "us": "/ˈɛdɪfaɪɪŋ/"
+        "us": "/ɪnˈvaɪ.lə.bəl/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "启发性的",
-          "en": "Providing moral or intellectual instruction."
+          "zh": "不可侵犯的",
+          "en": "Something that cannot be violated or harmed."
         },
+        {
+          "pos": "adj.",
+          "zh": "神圣的",
+          "en": "Something that is sacred and must be respected."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The constitution guarantees certain inviolable rights for all citizens.",
+          "zh": "宪法保障所有公民享有某些不可侵犯的权利。"
+        },
+        {
+          "en": "Freedom of speech is considered an inviolable principle in democratic societies.",
+          "zh": "言论自由被视为民主社会中的一个不可侵犯的原则。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'inviolable' comes from Latin 'inviolabilis', meaning 'not to be violated'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=inviolable&type=2"
+    },
+    {
+      "id": "w00828",
+      "word": "electronic",
+      "type": "single",
+      "chapterIndex": 8,
+      "globalIndex": 828,
+      "chapter": "ch042",
+      "chapterName": "核心词汇 科技发展 Unit 2",
+      "pronunciation": {
+        "us": "/ɪˈlɛktrɪk/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "电子的",
+          "en": "Related to devices that use electricity."
+        },
+        {
+          "pos": "n.",
+          "zh": "电子设备",
+          "en": "A term for gadgets or equipment that operate with electrical power."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many electronic devices have made our lives much easier today.",
+          "zh": "许多电子设备使我们的生活今天变得更简单。"
+        },
+        {
+          "en": "The electronic book is becoming increasingly popular among students.",
+          "zh": "电子书在学生中越来越受欢迎。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'electronic' as involving 'electricity' and 'technology' together."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=electronic&type=2"
+    },
+    {
+      "id": "w01918",
+      "word": "fertile soil",
+      "type": "phrase",
+      "chapterIndex": 18,
+      "globalIndex": 1918,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/ˈfɜr.təl sɔɪl/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "肥沃的土壤",
+          "en": "Soil that is rich in nutrients, suitable for growing plants."
+        },
+        {
+          "pos": "n.",
+          "zh": "肥沃的土壤",
+          "en": "Land that can produce a lot of crops due to its quality."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Farmers prefer to plant crops in fertile soil for better yields.",
+          "zh": "农民更喜欢在肥沃的土壤中种植作物以获得更好的产量。"
+        },
+        {
+          "en": "The region is known for its fertile soil, ideal for agriculture.",
+          "zh": "该地区以其肥沃的土壤而闻名，非常适合农业。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'fertile' as 'fertilizer' which helps plants grow, linking it to rich soil."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=fertile%20soil&type=2"
+    },
+    {
+      "id": "w00772",
+      "word": "unable",
+      "type": "single",
+      "chapterIndex": 12,
+      "globalIndex": 772,
+      "chapter": "ch039",
+      "chapterName": "基本词汇 形容词和副词400 Unit 19",
+      "pronunciation": {
+        "us": "/ˈʌnˈeɪbəl/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "无能的，不能的",
+          "en": "Not having the ability to do something."
+        },
+        {
+          "pos": "adj.",
+          "zh": "无法的",
+          "en": "Not able to perform or achieve something."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She was unable to attend the meeting due to illness.",
+          "zh": "由于生病，她无法参加会议。"
+        },
+        {
+          "en": "They are unable to solve the problem without help.",
+          "zh": "没有帮助，他们无法解决这个问题。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'unable' as 'un' (not) + 'able' (capable). If you are unable, you are not able to do something."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=unable&type=2"
+    },
+    {
+      "id": "w00812",
+      "word": "cultural",
+      "type": "single",
+      "chapterIndex": 12,
+      "globalIndex": 812,
+      "chapter": "ch041",
+      "chapterName": "核心词汇 科技发展 Unit 1",
+      "pronunciation": {
+        "us": "/ˈkʌltʃərəl/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "文化的",
+          "en": "Relating to the ideas, customs, and social behavior of a group."
+        },
+        {
+          "pos": "adj.",
+          "zh": "文化的",
+          "en": "Connected with the arts, beliefs, and practices of a society."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The festival showcased the cultural diversity of the community.",
+          "zh": "这个节日展示了社区的文化多样性。"
+        },
+        {
+          "en": "Cultural exchanges can enhance international understanding.",
+          "zh": "文化交流可以增强国际理解。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'culture' when you hear 'cultural' since both words share similar meanings and roots."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cultural&type=2"
+    },
+    {
+      "id": "w02160",
+      "word": "apterous",
+      "type": "single",
+      "chapterIndex": 260,
+      "globalIndex": 2160,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/ˈæp.tər.əs/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "无翅的",
+          "en": "Describing an insect or animal that lacks wings."
+        },
+        {
+          "pos": "adj.",
+          "zh": "不适合的",
+          "en": "Not suitable or not adapted for a particular purpose."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The apterous insects are often found in dark, damp habitats.",
+          "zh": "无翅昆虫常常出现在阴暗潮湿的栖息地。"
+        },
+        {
+          "en": "Some species are apterous, making them less vulnerable to predators.",
+          "zh": "一些物种是无翅的，这使它们不那么容易受到捕食者的攻击。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'apterous' comes from the Greek 'apteros', meaning 'without wings' ('a-' meaning 'without' and 'pteron' meaning 'wing')."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=apterous&type=2"
+    },
+    {
+      "id": "w00452",
+      "word": "beneficial",
+      "type": "single",
+      "chapterIndex": 12,
+      "globalIndex": 452,
+      "chapter": "ch023",
+      "chapterName": "基本词汇 形容词和副词400 Unit 3",
+      "pronunciation": {
+        "us": "/ˌbɛnɪˈfɪʃəl/"
+      },
+      "meanings": [
         {
           "pos": "adj.",
           "zh": "有益的",
-          "en": "Useful for personal growth or knowledge."
+          "en": "Having a positive effect or helping to improve something."
+        },
+        {
+          "pos": "adj.",
+          "zh": "有利的",
+          "en": "Providing an advantage or benefit."
         }
       ],
       "examples": [
         {
-          "en": "The documentary was both entertaining and edifying for the viewers.",
-          "zh": "这部纪录片对观众来说既有趣又具有启发性。"
+          "en": "Regular exercise is beneficial for both physical and mental health.",
+          "zh": "定期锻炼对身体和心理健康都是有益的。"
         },
         {
-          "en": "Reading classics can be an edifying experience for young minds.",
-          "zh": "阅读经典作品对年轻人的思想是一种有益的体验。"
+          "en": "Eating fruits and vegetables is beneficial for maintaining a balanced diet.",
+          "zh": "吃水果和蔬菜有助于保持均衡饮食。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'edifying' as 'educating'—both words relate to learning and growth."
+        "association": "Think of 'beneficial' as 'benefit' + 'icial'. Benefits are always good for you."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=edifying&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=beneficial&type=2"
     },
     {
-      "id": "w01765",
-      "word": "poverty",
+      "id": "w00806",
+      "word": "catastrophe",
       "type": "single",
-      "chapterIndex": 5,
-      "globalIndex": 1765,
-      "chapter": "ch089",
-      "chapterName": "核心词汇 法制与犯罪 Unit 4",
+      "chapterIndex": 6,
+      "globalIndex": 806,
+      "chapter": "ch041",
+      "chapterName": "核心词汇 科技发展 Unit 1",
       "pronunciation": {
-        "us": "/ˈpɑːvərti/"
+        "us": "/kəˈtæs.trə.fi/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "贫困",
-          "en": "The state of having little or no money and few resources."
+          "zh": "灾难",
+          "en": "A sudden event that causes great damage or suffering."
         },
         {
           "pos": "n.",
-          "zh": "贫穷",
-          "en": "A condition where people lack basic needs for a decent life."
+          "zh": "大失败",
+          "en": "A complete failure or disaster in a situation."
         }
       ],
       "examples": [
         {
-          "en": "Many families live in poverty, struggling to meet their daily needs.",
-          "zh": "许多家庭生活在贫困中，努力满足他们的日常需求。"
+          "en": "The earthquake resulted in a catastrophe for the entire region.",
+          "zh": "这场地震导致了整个地区的灾难。"
         },
         {
-          "en": "Poverty can lead to various social and health issues in communities.",
-          "zh": "贫困可能导致社区中的各种社会和健康问题。"
+          "en": "Her project turned into a catastrophe due to poor planning.",
+          "zh": "由于计划不周，她的项目变成了一个大失败。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'poverty' as 'poor' + 'city', where many people struggle."
+        "association": "Think of 'cat' and 'astro' (related to stars) to remember that a catastrophe is something that can be as shocking as a cat falling from the sky."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=poverty&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=catastrophe&type=2"
+    },
+    {
+      "id": "w00817",
+      "word": "deplete",
+      "type": "single",
+      "chapterIndex": 17,
+      "globalIndex": 817,
+      "chapter": "ch041",
+      "chapterName": "核心词汇 科技发展 Unit 1",
+      "pronunciation": {
+        "us": "/dɪˈpliːt/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "耗尽",
+          "en": "To use up the supply of something."
+        },
+        {
+          "pos": "v.",
+          "zh": "减少",
+          "en": "To reduce something in quantity or amount."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Overfishing can deplete the ocean's fish populations significantly.",
+          "zh": "过度捕捞会显著减少海洋中的鱼类数量。"
+        },
+        {
+          "en": "The prolonged drought has depleted our water resources.",
+          "zh": "持续的干旱已耗尽我们的水资源。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'deplete' as 'deplete your energy' when doing a tiring task."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=deplete&type=2"
+    },
+    {
+      "id": "w00043",
+      "word": "block",
+      "type": "single",
+      "chapterIndex": 3,
+      "globalIndex": 43,
+      "chapter": "ch003",
+      "chapterName": "基本词汇 动词200 Unit 3",
+      "pronunciation": {
+        "us": "/blɑk/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "块；障碍",
+          "en": "A solid piece of material with flat surfaces."
+        },
+        {
+          "pos": "v.",
+          "zh": "阻止；封锁",
+          "en": "To prevent movement or progress."
+        }
+      ],
+      "examples": [
+        {
+          "en": "He used a block of wood to hold the door open.",
+          "zh": "他用一块木头把门撑开。"
+        },
+        {
+          "en": "They need to block the road for maintenance work.",
+          "zh": "他们需要封锁道路进行维修工作。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a 'block' as something that stops or holds back, like a block in a game."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=block&type=2"
+    },
+    {
+      "id": "w02074",
+      "word": "humpback whale",
+      "type": "phrase",
+      "chapterIndex": 174,
+      "globalIndex": 2074,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/ˈhʌmpˌbæk weɪl/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "座头鲸",
+          "en": "A large marine mammal known for its distinctive hump and long pectoral fins."
+        },
+        {
+          "pos": "n.",
+          "zh": "一种鲸鱼",
+          "en": "A type of whale famous for its songs and acrobatic displays."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The humpback whale is known for its beautiful songs during mating season.",
+          "zh": "座头鲸在交配季节以其美妙的歌声而闻名。"
+        },
+        {
+          "en": "Many tourists flock to see humpback whales breaching in the ocean.",
+          "zh": "许多游客涌向海洋观看座头鲸跃出水面。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=humpback%20whale&type=2"
+    },
+    {
+      "id": "w00074",
+      "word": "copy",
+      "type": "single",
+      "chapterIndex": 14,
+      "globalIndex": 74,
+      "chapter": "ch004",
+      "chapterName": "基本词汇 动词200 Unit 4",
+      "pronunciation": {
+        "us": "/ˈkɑː.pi/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "复制",
+          "en": "To make an exact copy of something."
+        },
+        {
+          "pos": "n.",
+          "zh": "副本",
+          "en": "A reproduction of something, such as a document."
+        }
+      ],
+      "examples": [
+        {
+          "en": "I need to copy this document before I submit it.",
+          "zh": "我需要在提交之前复制这份文件。"
+        },
+        {
+          "en": "She made a copy of the report for her colleague.",
+          "zh": "她为她的同事做了一份报告的副本。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'copy' as 'copying someone else's homework' to remember its meaning."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=copy&type=2"
+    },
+    {
+      "id": "w01680",
+      "word": "revolution",
+      "type": "single",
+      "chapterIndex": 20,
+      "globalIndex": 1680,
+      "chapter": "ch084",
+      "chapterName": "核心词汇 工作与生活 Unit 4",
+      "pronunciation": {
+        "us": "/ˌrɛvəˈluːʃən/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "革命",
+          "en": "A significant change in political power or organizational structures."
+        },
+        {
+          "pos": "n.",
+          "zh": "旋转",
+          "en": "The act of moving in a circular or spiral path around a central point."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The American Revolution led to the independence of the United States.",
+          "zh": "美国革命导致了美国的独立。"
+        },
+        {
+          "en": "The revolution of the Earth around the Sun takes one year.",
+          "zh": "地球绕太阳的旋转需要一年时间。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'revolution' comes from the Latin 'revolutio', meaning 'a turning over'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=revolution&type=2"
+    },
+    {
+      "id": "w01772",
+      "word": "punishment",
+      "type": "single",
+      "chapterIndex": 12,
+      "globalIndex": 1772,
+      "chapter": "ch089",
+      "chapterName": "核心词汇 法制与犯罪 Unit 4",
+      "pronunciation": {
+        "us": "/ˈpʌnɪʃmənt/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "惩罚",
+          "en": "A penalty given for doing something wrong."
+        },
+        {
+          "pos": "n.",
+          "zh": "刑罚",
+          "en": "A consequence imposed on someone as a result of their actions."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The teacher decided on a punishment for the misbehaving students.",
+          "zh": "老师决定对不守规矩的学生施加惩罚。"
+        },
+        {
+          "en": "Many believe that punishment should aim to correct behavior, not just to harm.",
+          "zh": "许多人认为惩罚应该旨在纠正行为，而不仅仅是造成伤害。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'punish' as a parent scolding a child, linking punishment to discipline."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=punishment&type=2"
     }
   ]
 }

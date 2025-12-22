@@ -1,67 +1,69 @@
 {
-  "generated": "2025-12-21T22:07:48.723Z",
+  "generated": "2025-12-22T22:08:19.636Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "breeding season",
-      "pronunciation": "/ˈbridɪŋ ˈsiːzən/",
+      "word": "beneficial",
+      "pronunciation": "/ˌbɛnɪˈfɪʃəl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "繁殖季节",
-          "en": "The time of year when animals mate and produce offspring."
+          "pos": "adj.",
+          "zh": "有益的",
+          "en": "Having a positive effect or helping to improve something."
         },
         {
-          "pos": "n.",
-          "zh": "生长季节",
-          "en": "A specific period when certain plants or animals grow and reproduce."
+          "pos": "adj.",
+          "zh": "有利的",
+          "en": "Providing an advantage or benefit."
         }
       ],
       "examples": [
         {
-          "en": "Many birds have a specific breeding season each spring.",
-          "zh": "许多鸟类在每年春天有特定的繁殖季节。"
+          "en": "Regular exercise is beneficial for both physical and mental health.",
+          "zh": "定期锻炼对身体和心理健康都是有益的。"
         },
         {
-          "en": "The breeding season for fish can vary depending on the species.",
-          "zh": "鱼类的繁殖季节可能因物种而异。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=breeding%20season&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
-    },
-    {
-      "word": "incur",
-      "pronunciation": "/ɪnˈkɜr/",
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "招致",
-          "en": "To bring something upon oneself, often an unwanted consequence."
-        },
-        {
-          "pos": "v.",
-          "zh": "产生",
-          "en": "To become subject to something, typically a cost or liability."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The company may incur additional costs during the project.",
-          "zh": "公司在项目中可能会产生额外费用。"
-        },
-        {
-          "en": "If you are late, you will incur a penalty fee.",
-          "zh": "如果你迟到，你将会产生罚款。"
+          "en": "Eating fruits and vegetables is beneficial for maintaining a balanced diet.",
+          "zh": "吃水果和蔬菜有助于保持均衡饮食。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'in' as bringing something 'cur' (cure) upon yourself, but in a negative way, like an unwanted cost."
+        "association": "Think of 'beneficial' as 'benefit' + 'icial'. Benefits are always good for you."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=incur&type=2",
-      "chapter": "核心词汇 科技发展 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=beneficial&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 3"
+    },
+    {
+      "word": "catastrophe",
+      "pronunciation": "/kəˈtæs.trə.fi/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "灾难",
+          "en": "A sudden event that causes great damage or suffering."
+        },
+        {
+          "pos": "n.",
+          "zh": "大失败",
+          "en": "A complete failure or disaster in a situation."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The earthquake resulted in a catastrophe for the entire region.",
+          "zh": "这场地震导致了整个地区的灾难。"
+        },
+        {
+          "en": "Her project turned into a catastrophe due to poor planning.",
+          "zh": "由于计划不周，她的项目变成了一个大失败。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'cat' and 'astro' (related to stars) to remember that a catastrophe is something that can be as shocking as a cat falling from the sky."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=catastrophe&type=2",
+      "chapter": "核心词汇 科技发展 Unit 1"
     }
   ]
 }
