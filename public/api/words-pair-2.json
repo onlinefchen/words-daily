@@ -1,69 +1,62 @@
 {
-  "generated": "2025-12-22T22:08:19.636Z",
+  "generated": "2025-12-23T22:08:25.990Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "use up",
-      "pronunciation": "/juːz ʌp/",
+      "word": "natural food chain",
+      "pronunciation": "/ˈnæʧərəl fuːd tʃeɪn/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "用尽",
-          "en": "To completely finish a supply of something."
-        },
-        {
-          "pos": "phr.",
-          "zh": "耗尽",
-          "en": "To deplete resources or energy."
+          "pos": "n.",
+          "zh": "自然食物链",
+          "en": "A sequence of organisms in nature where each one is eaten by the next."
         }
       ],
       "examples": [
         {
-          "en": "I used up all my savings to pay for university fees.",
-          "zh": "我花光了所有的积蓄来支付大学学费。"
+          "en": "The natural food chain is essential for maintaining ecological balance.",
+          "zh": "自然食物链对于维持生态平衡至关重要。"
         },
         {
-          "en": "We need to buy more food because we have used up everything.",
-          "zh": "我们需要买更多的食物，因为我们已经用光了所有的东西。"
+          "en": "Humans are at the top of the natural food chain in many ecosystems.",
+          "zh": "在许多生态系统中，人类位于自然食物链的顶端。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'using up' as 'using until nothing is left.'"
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=use%20up&type=2",
-      "chapter": "核心词汇 环境保护 Unit 5"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=natural%20food%20chain&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "larva",
-      "pronunciation": "/ˈlɑːrvə/",
+      "word": "endangered",
+      "pronunciation": "/ɪnˈdeɪndʒərd/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "幼虫",
-          "en": "A young form of an insect that has not yet developed into an adult."
+          "pos": "adj.",
+          "zh": "濒危的",
+          "en": "At risk of becoming extinct or disappearing."
         },
         {
-          "pos": "n.",
-          "zh": "虫态",
-          "en": "The early stage in the life cycle of certain animals, before they change into their adult form."
+          "pos": "adj.",
+          "zh": "面临危险的",
+          "en": "In danger of harm or destruction."
         }
       ],
       "examples": [
         {
-          "en": "The larva of the butterfly is often found in the garden.",
-          "zh": "蝴蝶的幼虫常常在花园里被发现。"
+          "en": "Many species of animals are endangered due to habitat loss.",
+          "zh": "由于栖息地的丧失，许多动物物种濒临灭绝。"
         },
         {
-          "en": "After several weeks, the larva transforms into a pupa.",
-          "zh": "几周后，幼虫会变成蛹。"
+          "en": "Conservation efforts are crucial for protecting endangered plants.",
+          "zh": "保护努力对保护濒危植物至关重要。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'larva' as 'larvae' (plural) which sounds like 'lava,' representing something that transforms, like lava turning into rock."
+        "association": "Think of 'endanger' as being at the 'end' of existence."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=larva&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=endangered&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 7"
     }
   ]
 }

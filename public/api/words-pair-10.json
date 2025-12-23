@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-22T22:08:19.637Z",
+  "generated": "2025-12-23T22:08:25.991Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "revolution",
-      "pronunciation": "/ˌrɛvəˈluːʃən/",
+      "word": "defy",
+      "pronunciation": "/dɪˈfaɪ/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "革命",
-          "en": "A significant change in political power or organizational structures."
+          "pos": "v.",
+          "zh": "反抗，违抗",
+          "en": "To refuse to obey someone or something."
         },
         {
-          "pos": "n.",
-          "zh": "旋转",
-          "en": "The act of moving in a circular or spiral path around a central point."
+          "pos": "v.",
+          "zh": "挑战",
+          "en": "To challenge someone to do something; to confront."
         }
       ],
       "examples": [
         {
-          "en": "The American Revolution led to the independence of the United States.",
-          "zh": "美国革命导致了美国的独立。"
+          "en": "She decided to defy the rules and speak her mind.",
+          "zh": "她决定违抗规则，直言不讳。"
         },
         {
-          "en": "The revolution of the Earth around the Sun takes one year.",
-          "zh": "地球绕太阳的旋转需要一年时间。"
+          "en": "The athlete chose to defy expectations and win the race.",
+          "zh": "这位运动员选择挑战预期并赢得了比赛。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'revolution' comes from the Latin 'revolutio', meaning 'a turning over'."
+        "association": "Think of 'defy' as 'defending your right' to do something against opposition."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=revolution&type=2",
-      "chapter": "核心词汇 工作与生活 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=defy&type=2",
+      "chapter": "基本词汇 动词200 Unit 5"
     },
     {
-      "word": "punishment",
-      "pronunciation": "/ˈpʌnɪʃmənt/",
+      "word": "infectious",
+      "pronunciation": "/ɪnˈfɛkʃəs/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "惩罚",
-          "en": "A penalty given for doing something wrong."
+          "pos": "adj.",
+          "zh": "传染性的",
+          "en": "Capable of being spread from one person to another."
         },
         {
-          "pos": "n.",
-          "zh": "刑罚",
-          "en": "A consequence imposed on someone as a result of their actions."
+          "pos": "adj.",
+          "zh": "有感染力的",
+          "en": "Having the ability to cause a strong emotional response."
         }
       ],
       "examples": [
         {
-          "en": "The teacher decided on a punishment for the misbehaving students.",
-          "zh": "老师决定对不守规矩的学生施加惩罚。"
+          "en": "The infectious disease spread quickly among the population.",
+          "zh": "这种传染病在居民中迅速蔓延。"
         },
         {
-          "en": "Many believe that punishment should aim to correct behavior, not just to harm.",
-          "zh": "许多人认为惩罚应该旨在纠正行为，而不仅仅是造成伤害。"
+          "en": "Her laughter was infectious, making everyone around her smile.",
+          "zh": "她的笑声具有感染力，让周围的每个人都微笑。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'punish' as a parent scolding a child, linking punishment to discipline."
+        "association": "Think of 'infectious' as something that can 'infect' both physically and emotionally, linking it to the idea of spreading."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=punishment&type=2",
-      "chapter": "核心词汇 法制与犯罪 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=infectious&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 10"
     }
   ]
 }

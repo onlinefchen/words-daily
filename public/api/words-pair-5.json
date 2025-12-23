@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-22T22:08:19.636Z",
+  "generated": "2025-12-23T22:08:25.991Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "fertile soil",
-      "pronunciation": "/ˈfɜr.təl sɔɪl/",
+      "word": "promote",
+      "pronunciation": "/prəˈmoʊt/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "肥沃的土壤",
-          "en": "Soil that is rich in nutrients, suitable for growing plants."
+          "pos": "v.",
+          "zh": "促进，推动",
+          "en": "To help something to develop or increase."
         },
         {
-          "pos": "n.",
-          "zh": "肥沃的土壤",
-          "en": "Land that can produce a lot of crops due to its quality."
+          "pos": "v.",
+          "zh": "晋升，提升",
+          "en": "To raise someone to a higher rank or position."
         }
       ],
       "examples": [
         {
-          "en": "Farmers prefer to plant crops in fertile soil for better yields.",
-          "zh": "农民更喜欢在肥沃的土壤中种植作物以获得更好的产量。"
+          "en": "The company aims to promote its new product next month.",
+          "zh": "公司计划下个月推广新产品。"
         },
         {
-          "en": "The region is known for its fertile soil, ideal for agriculture.",
-          "zh": "该地区以其肥沃的土壤而闻名，非常适合农业。"
+          "en": "She was promoted to manager due to her hard work.",
+          "zh": "由于她的努力工作，她被提升为经理。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'fertile' as 'fertilizer' which helps plants grow, linking it to rich soil."
+        "association": "Think of 'promote' as 'pro' (for) + 'mote' (motion), meaning to move something forward."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=fertile%20soil&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=promote&type=2",
+      "chapter": "基本词汇 动词200 Unit 9"
     },
     {
-      "word": "unable",
-      "pronunciation": "/ˈʌnˈeɪbəl/",
+      "word": "agile",
+      "pronunciation": "/ˈædʒaɪl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "无能的，不能的",
-          "en": "Not having the ability to do something."
+          "zh": "灵活的",
+          "en": "Able to move quickly and easily."
         },
         {
           "pos": "adj.",
-          "zh": "无法的",
-          "en": "Not able to perform or achieve something."
+          "zh": "机敏的",
+          "en": "Able to think and understand quickly."
         }
       ],
       "examples": [
         {
-          "en": "She was unable to attend the meeting due to illness.",
-          "zh": "由于生病，她无法参加会议。"
+          "en": "The agile dancer moved gracefully across the stage.",
+          "zh": "灵活的舞者优雅地在舞台上移动。"
         },
         {
-          "en": "They are unable to solve the problem without help.",
-          "zh": "没有帮助，他们无法解决这个问题。"
+          "en": "Start-ups need an agile approach to adapt to market changes.",
+          "zh": "初创公司需要灵活的方法来适应市场变化。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'unable' as 'un' (not) + 'able' (capable). If you are unable, you are not able to do something."
+        "association": "Think of an agile athlete who can quickly change direction."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=unable&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 19"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=agile&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 2"
     }
   ]
 }

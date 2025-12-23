@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-22T22:08:19.636Z",
+  "generated": "2025-12-23T22:08:25.991Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "adapt",
-      "pronunciation": "/əˈdæpt/",
+      "word": "classify",
+      "pronunciation": "/ˈklæs.ɪ.faɪ/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "适应",
-          "en": "To change in order to fit or work better in a new situation."
+          "zh": "分类",
+          "en": "To arrange people or things into groups based on shared qualities or characteristics."
         },
         {
           "pos": "v.",
-          "zh": "改编",
-          "en": "To modify something to suit a new purpose or condition."
+          "zh": "确定类别",
+          "en": "To determine the category or type of something."
         }
       ],
       "examples": [
         {
-          "en": "Animals must adapt to their environment to survive.",
-          "zh": "动物必须适应它们的环境才能生存。"
+          "en": "Scientists classify animals based on their physical characteristics.",
+          "zh": "科学家根据动物的物理特征进行分类。"
         },
         {
-          "en": "The author decided to adapt the novel into a screenplay.",
-          "zh": "作者决定将小说改编为剧本。"
+          "en": "The librarian will classify the new books in the correct section.",
+          "zh": "图书管理员会将新书归类到正确的区域。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'adapt' as 'a-dapt,' where you 'a' (adjust) to 'dapt' (fit) your surroundings."
+        "etymology": "The word 'classify' comes from the Latin 'classis', meaning 'class' or 'category'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=adapt&type=2",
-      "chapter": "基本词汇 动词200 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=classify&type=2",
+      "chapter": "基本词汇 动词200 Unit 3"
     },
     {
-      "word": "truly",
-      "pronunciation": "/ˈtruːli/",
+      "word": "jeopardy",
+      "pronunciation": "/ˈdʒɛpərdi/",
       "meanings": [
         {
-          "pos": "adv.",
-          "zh": "真正地",
-          "en": "In a way that is sincere or genuine."
+          "pos": "n.",
+          "zh": "危险，危机",
+          "en": "A situation where there is a risk of loss or harm."
         },
         {
-          "pos": "adv.",
-          "zh": "确实地",
-          "en": "Used to emphasize the truth of a statement."
+          "pos": "n.",
+          "zh": "法律上的风险",
+          "en": "In law, the danger of being punished or losing a case."
         }
       ],
       "examples": [
         {
-          "en": "She truly believes that honesty is the best policy.",
-          "zh": "她真的相信诚实是最好的原则。"
+          "en": "The hikers found themselves in serious jeopardy during the storm.",
+          "zh": "在暴风雨中，远足者发现自己处于严重的危险中。"
         },
         {
-          "en": "I am truly grateful for all your help and support.",
-          "zh": "我真的很感激你所有的帮助和支持。"
+          "en": "The defendant's actions put his freedom in jeopardy.",
+          "zh": "被告的行为使他的自由处于危险之中。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'truly' as 'true' + 'ly', where 'true' signifies sincerity."
+        "association": "Think of 'jeopardy' as a 'jeopardy game' where wrong answers can lead to losing points or risk."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=truly&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 19"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=jeopardy&type=2",
+      "chapter": "基本词汇 名词200 Unit 6"
     }
   ]
 }

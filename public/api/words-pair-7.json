@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-22T22:08:19.636Z",
+  "generated": "2025-12-23T22:08:25.991Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "beneficial",
-      "pronunciation": "/ˌbɛnɪˈfɪʃəl/",
+      "word": "definite",
+      "pronunciation": "/ˈdɛf.ɪ.nɪt/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "有益的",
-          "en": "Having a positive effect or helping to improve something."
+          "zh": "明确的",
+          "en": "Clearly defined or determined; not vague."
         },
         {
           "pos": "adj.",
-          "zh": "有利的",
-          "en": "Providing an advantage or benefit."
+          "zh": "肯定的",
+          "en": "Certain or sure about something."
         }
       ],
       "examples": [
         {
-          "en": "Regular exercise is beneficial for both physical and mental health.",
-          "zh": "定期锻炼对身体和心理健康都是有益的。"
+          "en": "She gave a definite answer to the question asked in class.",
+          "zh": "她对课堂上提出的问题给出了明确的回答。"
         },
         {
-          "en": "Eating fruits and vegetables is beneficial for maintaining a balanced diet.",
-          "zh": "吃水果和蔬菜有助于保持均衡饮食。"
+          "en": "There is a definite plan for the project's completion next month.",
+          "zh": "下个月有一个明确的计划来完成这个项目。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'beneficial' as 'benefit' + 'icial'. Benefits are always good for you."
+        "association": "Think of 'definite' as having 'defense' against uncertainty, making things clear."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=beneficial&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=definite&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 5"
     },
     {
-      "word": "catastrophe",
-      "pronunciation": "/kəˈtæs.trə.fi/",
+      "word": "barren",
+      "pronunciation": "/ˈbær.ən/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "灾难",
-          "en": "A sudden event that causes great damage or suffering."
+          "pos": "adj.",
+          "zh": "贫瘠的",
+          "en": "Land that cannot produce crops or is not fertile."
         },
         {
-          "pos": "n.",
-          "zh": "大失败",
-          "en": "A complete failure or disaster in a situation."
+          "pos": "adj.",
+          "zh": "无效的",
+          "en": "Something that is not productive or lacks useful results."
         }
       ],
       "examples": [
         {
-          "en": "The earthquake resulted in a catastrophe for the entire region.",
-          "zh": "这场地震导致了整个地区的灾难。"
+          "en": "The barren land made it difficult to grow any plants.",
+          "zh": "贫瘠的土地使得种植任何植物都很困难。"
         },
         {
-          "en": "Her project turned into a catastrophe due to poor planning.",
-          "zh": "由于计划不周，她的项目变成了一个大失败。"
+          "en": "Her ideas seemed barren and failed to inspire anyone.",
+          "zh": "她的想法似乎毫无生气，未能激励任何人。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'cat' and 'astro' (related to stars) to remember that a catastrophe is something that can be as shocking as a cat falling from the sky."
+        "association": "Think of 'barren' as 'bare' or 'empty', both suggesting a lack of life or productivity."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=catastrophe&type=2",
-      "chapter": "核心词汇 科技发展 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=barren&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 3"
     }
   ]
 }

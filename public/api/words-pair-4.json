@@ -1,69 +1,67 @@
 {
-  "generated": "2025-12-22T22:08:19.636Z",
+  "generated": "2025-12-23T22:08:25.991Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "inviolable",
-      "pronunciation": "/ɪnˈvaɪ.lə.bəl/",
+      "word": "share",
+      "pronunciation": "/ʃɛr/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "不可侵犯的",
-          "en": "Something that cannot be violated or harmed."
-        },
-        {
-          "pos": "adj.",
-          "zh": "神圣的",
-          "en": "Something that is sacred and must be respected."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The constitution guarantees certain inviolable rights for all citizens.",
-          "zh": "宪法保障所有公民享有某些不可侵犯的权利。"
-        },
-        {
-          "en": "Freedom of speech is considered an inviolable principle in democratic societies.",
-          "zh": "言论自由被视为民主社会中的一个不可侵犯的原则。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'inviolable' comes from Latin 'inviolabilis', meaning 'not to be violated'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=inviolable&type=2",
-      "chapter": "核心词汇 民主与权利 Unit 3"
-    },
-    {
-      "word": "electronic",
-      "pronunciation": "/ɪˈlɛktrɪk/",
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "电子的",
-          "en": "Related to devices that use electricity."
+          "pos": "v.",
+          "zh": "分享",
+          "en": "To give a part of something to others."
         },
         {
           "pos": "n.",
-          "zh": "电子设备",
-          "en": "A term for gadgets or equipment that operate with electrical power."
+          "zh": "份额",
+          "en": "A portion of something that is divided among people."
         }
       ],
       "examples": [
         {
-          "en": "Many electronic devices have made our lives much easier today.",
-          "zh": "许多电子设备使我们的生活今天变得更简单。"
+          "en": "We should share our resources to help each other succeed.",
+          "zh": "我们应该分享我们的资源，以互相帮助成功。"
         },
         {
-          "en": "The electronic book is becoming increasingly popular among students.",
-          "zh": "电子书在学生中越来越受欢迎。"
+          "en": "He received a large share of the company’s profits this year.",
+          "zh": "他今年获得了公司利润的很大一部分。"
+        }
+      ],
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=share&type=2",
+      "chapter": "基本词汇 动词200 Unit 10"
+    },
+    {
+      "word": "distribute",
+      "pronunciation": "/dɪsˈtrɪb.juːt/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "分配",
+          "en": "To give out something to several people or places."
+        },
+        {
+          "pos": "v.",
+          "zh": "传播",
+          "en": "To spread or share something widely."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The teacher will distribute the textbooks to the students tomorrow.",
+          "zh": "老师明天会把教科书分发给学生。"
+        },
+        {
+          "en": "They plan to distribute food to the needy in their community.",
+          "zh": "他们计划向社区中的贫困者分发食物。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'electronic' as involving 'electricity' and 'technology' together."
+        "association": "Think of 'distribute' as 'distant tribute,' where you send something far away to others."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=electronic&type=2",
-      "chapter": "核心词汇 科技发展 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=distribute&type=2",
+      "chapter": "基本词汇 动词200 Unit 6"
     }
   ]
 }

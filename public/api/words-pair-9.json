@@ -1,67 +1,67 @@
 {
-  "generated": "2025-12-22T22:08:19.636Z",
+  "generated": "2025-12-23T22:08:25.991Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "humpback whale",
-      "pronunciation": "/ˈhʌmpˌbæk weɪl/",
+      "word": "breakthrough",
+      "pronunciation": "/ˈbreɪkˌθru/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "座头鲸",
-          "en": "A large marine mammal known for its distinctive hump and long pectoral fins."
+          "zh": "突破，重大进展",
+          "en": "An important discovery or achievement that helps to improve a situation."
         },
         {
-          "pos": "n.",
-          "zh": "一种鲸鱼",
-          "en": "A type of whale famous for its songs and acrobatic displays."
+          "pos": "v.",
+          "zh": "突破，克服",
+          "en": "To make a sudden advance or progress, especially in a difficult situation."
         }
       ],
       "examples": [
         {
-          "en": "The humpback whale is known for its beautiful songs during mating season.",
-          "zh": "座头鲸在交配季节以其美妙的歌声而闻名。"
+          "en": "The scientist made a breakthrough in cancer research last year.",
+          "zh": "这位科学家在去年的癌症研究中取得了突破。"
         },
         {
-          "en": "Many tourists flock to see humpback whales breaching in the ocean.",
-          "zh": "许多游客涌向海洋观看座头鲸跃出水面。"
+          "en": "They hope to break through the barriers to renewable energy use.",
+          "zh": "他们希望突破可再生能源使用的障碍。"
         }
       ],
       "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=humpback%20whale&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=breakthrough&type=2",
+      "chapter": "基本词汇 名词200 Unit 1"
     },
     {
-      "word": "copy",
-      "pronunciation": "/ˈkɑː.pi/",
+      "word": "affect",
+      "pronunciation": "/əˈfɛkt/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "复制",
-          "en": "To make an exact copy of something."
+          "zh": "影响",
+          "en": "To have an influence on someone or something."
         },
         {
           "pos": "n.",
-          "zh": "副本",
-          "en": "A reproduction of something, such as a document."
+          "zh": "情感",
+          "en": "A feeling or emotion."
         }
       ],
       "examples": [
         {
-          "en": "I need to copy this document before I submit it.",
-          "zh": "我需要在提交之前复制这份文件。"
+          "en": "The weather can greatly affect your mood throughout the day.",
+          "zh": "天气会极大影响你一天的情绪。"
         },
         {
-          "en": "She made a copy of the report for her colleague.",
-          "zh": "她为她的同事做了一份报告的副本。"
+          "en": "His speech had a profound affect on the audience’s beliefs.",
+          "zh": "他的演讲对观众的信仰产生了深远的影响。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'copy' as 'copying someone else's homework' to remember its meaning."
+        "association": "Think of 'affect' as 'affecting emotions', which connects the word to feelings."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=copy&type=2",
-      "chapter": "基本词汇 动词200 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=affect&type=2",
+      "chapter": "基本词汇 动词200 Unit 1"
     }
   ]
 }

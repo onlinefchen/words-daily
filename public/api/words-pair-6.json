@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-22T22:08:19.636Z",
+  "generated": "2025-12-23T22:08:25.991Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "cultural",
-      "pronunciation": "/ˈkʌltʃərəl/",
+      "word": "balance",
+      "pronunciation": "/ˈbæl.əns/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "文化的",
-          "en": "Relating to the ideas, customs, and social behavior of a group."
+          "pos": "n.",
+          "zh": "平衡",
+          "en": "A state where different things are equal or in the correct proportions."
         },
         {
-          "pos": "adj.",
-          "zh": "文化的",
-          "en": "Connected with the arts, beliefs, and practices of a society."
+          "pos": "v.",
+          "zh": "使平衡",
+          "en": "To make something steady or equal by adjusting different parts."
         }
       ],
       "examples": [
         {
-          "en": "The festival showcased the cultural diversity of the community.",
-          "zh": "这个节日展示了社区的文化多样性。"
+          "en": "Maintaining a balance between work and leisure is essential for health.",
+          "zh": "在工作和休闲之间保持平衡对健康至关重要。"
         },
         {
-          "en": "Cultural exchanges can enhance international understanding.",
-          "zh": "文化交流可以增强国际理解。"
+          "en": "The teacher helped the students balance their academic and social lives.",
+          "zh": "老师帮助学生平衡他们的学业和社交生活。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'culture' when you hear 'cultural' since both words share similar meanings and roots."
+        "association": "Think of a tightrope walker who needs to balance to avoid falling."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cultural&type=2",
-      "chapter": "核心词汇 科技发展 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=balance&type=2",
+      "chapter": "基本词汇 动词200 Unit 2"
     },
     {
-      "word": "apterous",
-      "pronunciation": "/ˈæp.tər.əs/",
+      "word": "dominate",
+      "pronunciation": "/ˈdɑː.mɪ.neɪt/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "无翅的",
-          "en": "Describing an insect or animal that lacks wings."
+          "pos": "v.",
+          "zh": "支配，统治",
+          "en": "To have control over something or someone."
         },
         {
-          "pos": "adj.",
-          "zh": "不适合的",
-          "en": "Not suitable or not adapted for a particular purpose."
+          "pos": "v.",
+          "zh": "主导，影响",
+          "en": "To be the most powerful or important element."
         }
       ],
       "examples": [
         {
-          "en": "The apterous insects are often found in dark, damp habitats.",
-          "zh": "无翅昆虫常常出现在阴暗潮湿的栖息地。"
+          "en": "Large corporations often dominate the market with their products.",
+          "zh": "大型企业通常通过其产品主导市场。"
         },
         {
-          "en": "Some species are apterous, making them less vulnerable to predators.",
-          "zh": "一些物种是无翅的，这使它们不那么容易受到捕食者的攻击。"
+          "en": "In many sports, one team can dominate the game completely.",
+          "zh": "在许多运动中，一支队伍可以完全主导比赛。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'apterous' comes from the Greek 'apteros', meaning 'without wings' ('a-' meaning 'without' and 'pteron' meaning 'wing')."
+        "association": "Think of a 'dominator' as someone who takes control, like a king in a castle."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=apterous&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dominate&type=2",
+      "chapter": "基本词汇 动词200 Unit 6"
     }
   ]
 }

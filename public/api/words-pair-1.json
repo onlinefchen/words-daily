@@ -1,69 +1,70 @@
 {
-  "generated": "2025-12-22T22:08:19.636Z",
+  "generated": "2025-12-23T22:08:25.990Z",
   "pair": 1,
   "count": 2,
   "words": [
     {
-      "word": "circulatory",
-      "pronunciation": "/ˌsɜr.kjʊˈleɪ.tɔːr.i/",
+      "word": "incubation",
+      "pronunciation": "/ˌɪŋkjʊˈbeɪʃən/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "循环的",
-          "en": "Related to the system that moves blood through the body."
+          "pos": "n.",
+          "zh": "孵化",
+          "en": "The process of keeping eggs warm until they hatch."
         },
         {
-          "pos": "adj.",
-          "zh": "血液循环的",
-          "en": "Pertaining to the circulation of blood in the body."
+          "pos": "n.",
+          "zh": "培养",
+          "en": "The act of developing or nurturing something, such as ideas or skills."
         }
       ],
       "examples": [
         {
-          "en": "The circulatory system helps to deliver oxygen to all cells.",
-          "zh": "循环系统帮助将氧气输送到所有细胞。"
+          "en": "The incubation period for chicken eggs is about 21 days.",
+          "zh": "鸡蛋的孵化期大约是21天。"
         },
         {
-          "en": "Exercise improves your circulatory health and overall well-being.",
-          "zh": "锻炼改善你的循环健康和整体健康。"
+          "en": "Incubation of new ideas can lead to innovative solutions.",
+          "zh": "对新想法的培养可以带来创新的解决方案。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'circle' in 'circulatory', as blood flows in a circular path."
+        "etymology": "The word comes from the Latin 'incubare', meaning 'to lie upon' or 'to brood'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=circulatory&type=2",
-      "chapter": "核心词汇 健康话题 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=incubation&type=2",
+      "chapter": "认知词汇 科技分类 探索太空生物"
     },
     {
-      "word": "fern",
-      "pronunciation": "/fɜrn/",
+      "word": "unreasonable",
+      "pronunciation": "/ʌnˈrizənəbl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "蕨类植物",
-          "en": "A fern is a type of plant that has leaves shaped like feathers."
+          "pos": "adj.",
+          "zh": "不合理的",
+          "en": "Not based on good reason or logic."
         },
         {
-          "pos": "n.",
-          "zh": "蕨类植物的叶子",
-          "en": "The leaves of a fern are usually green and have a unique structure."
+          "pos": "adj.",
+          "zh": "过分的",
+          "en": "Exceeding reasonable limits; excessive."
         }
       ],
       "examples": [
         {
-          "en": "The garden was filled with beautiful ferns and colorful flowers.",
-          "zh": "花园里满是美丽的蕨类植物和五彩缤纷的花朵。"
+          "en": "His demands were completely unreasonable and impossible to meet.",
+          "zh": "他的要求完全不合理，无法满足。"
         },
         {
-          "en": "Ferns thrive in moist, shaded environments, making them popular in gardens.",
-          "zh": "蕨类植物在潮湿、阴暗的环境中生长良好，因此在花园中很受欢迎。"
+          "en": "It is unreasonable to expect everyone to agree on everything.",
+          "zh": "期望每个人在所有问题上达成一致是不合理的。"
         }
       ],
       "memoryTips": {
-        "association": "Think of ferns as 'feather-like' plants, as their leaves resemble feathers."
+        "association": "Think of 'unreasonable' as 'un-reasonable', meaning it lacks reason.",
+        "mnemonic": "The word 'unreasonable' starts with 'un', like 'unfair', which also suggests something is not right."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=fern&type=2",
-      "chapter": "认知词汇 自然分类 热带雨林"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=unreasonable&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 20"
     }
   ]
 }

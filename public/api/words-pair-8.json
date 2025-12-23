@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-22T22:08:19.636Z",
+  "generated": "2025-12-23T22:08:25.991Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "deplete",
-      "pronunciation": "/dɪˈpliːt/",
+      "word": "accommodate",
+      "pronunciation": "/əˈkɒmədeɪt/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "耗尽",
-          "en": "To use up the supply of something."
+          "zh": "容纳",
+          "en": "To provide space for someone or something."
         },
         {
           "pos": "v.",
-          "zh": "减少",
-          "en": "To reduce something in quantity or amount."
+          "zh": "适应",
+          "en": "To adjust or adapt to new conditions."
         }
       ],
       "examples": [
         {
-          "en": "Overfishing can deplete the ocean's fish populations significantly.",
-          "zh": "过度捕捞会显著减少海洋中的鱼类数量。"
+          "en": "The hotel can accommodate up to 200 guests comfortably.",
+          "zh": "这家酒店可以舒适地容纳多达200位客人。"
         },
         {
-          "en": "The prolonged drought has depleted our water resources.",
-          "zh": "持续的干旱已耗尽我们的水资源。"
+          "en": "She had to accommodate her schedule to meet the new deadlines.",
+          "zh": "她不得不调整自己的日程以符合新的截止日期。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'deplete' as 'deplete your energy' when doing a tiring task."
+        "association": "Think of 'accommodate' as 'a common date,' where you make room for someone special."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=deplete&type=2",
-      "chapter": "核心词汇 科技发展 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=accommodate&type=2",
+      "chapter": "基本词汇 动词200 Unit 1"
     },
     {
-      "word": "block",
-      "pronunciation": "/blɑk/",
+      "word": "violate",
+      "pronunciation": "/ˈvaɪ.ə.leɪt/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "块；障碍",
-          "en": "A solid piece of material with flat surfaces."
+          "pos": "v.",
+          "zh": "违反",
+          "en": "To break a rule or law."
         },
         {
           "pos": "v.",
-          "zh": "阻止；封锁",
-          "en": "To prevent movement or progress."
+          "zh": "侵犯",
+          "en": "To treat someone’s rights or privacy in a disrespectful way."
         }
       ],
       "examples": [
         {
-          "en": "He used a block of wood to hold the door open.",
-          "zh": "他用一块木头把门撑开。"
+          "en": "He decided to violate the school's rules by cheating on the exam.",
+          "zh": "他决定通过在考试中作弊来违反学校的规则。"
         },
         {
-          "en": "They need to block the road for maintenance work.",
-          "zh": "他们需要封锁道路进行维修工作。"
+          "en": "The company's actions may violate the privacy of its customers.",
+          "zh": "公司的行为可能会侵犯客户的隐私。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'block' as something that stops or holds back, like a block in a game."
+        "etymology": "The word 'violate' comes from the Latin 'violare', which means 'to use force' or 'to break'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=block&type=2",
-      "chapter": "基本词汇 动词200 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=violate&type=2",
+      "chapter": "基本词汇 动词200 Unit 10"
     }
   ]
 }
