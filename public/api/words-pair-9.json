@@ -1,67 +1,70 @@
 {
-  "generated": "2025-12-23T22:08:25.991Z",
+  "generated": "2025-12-24T22:08:22.199Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "breakthrough",
-      "pronunciation": "/ˈbreɪkˌθru/",
+      "word": "exert",
+      "pronunciation": "/ɪɡˈzɜrt/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "突破，重大进展",
-          "en": "An important discovery or achievement that helps to improve a situation."
+          "pos": "v.",
+          "zh": "施加（影响）",
+          "en": "To apply or use force, influence, or effort."
         },
         {
           "pos": "v.",
-          "zh": "突破，克服",
-          "en": "To make a sudden advance or progress, especially in a difficult situation."
+          "zh": "努力（做某事）",
+          "en": "To make an effort to achieve something."
         }
       ],
       "examples": [
         {
-          "en": "The scientist made a breakthrough in cancer research last year.",
-          "zh": "这位科学家在去年的癌症研究中取得了突破。"
+          "en": "She will exert her influence to help the project succeed.",
+          "zh": "她将施加她的影响力来帮助项目成功。"
         },
         {
-          "en": "They hope to break through the barriers to renewable energy use.",
-          "zh": "他们希望突破可再生能源使用的障碍。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=breakthrough&type=2",
-      "chapter": "基本词汇 名词200 Unit 1"
-    },
-    {
-      "word": "affect",
-      "pronunciation": "/əˈfɛkt/",
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "影响",
-          "en": "To have an influence on someone or something."
-        },
-        {
-          "pos": "n.",
-          "zh": "情感",
-          "en": "A feeling or emotion."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The weather can greatly affect your mood throughout the day.",
-          "zh": "天气会极大影响你一天的情绪。"
-        },
-        {
-          "en": "His speech had a profound affect on the audience’s beliefs.",
-          "zh": "他的演讲对观众的信仰产生了深远的影响。"
+          "en": "He needs to exert more effort in his studies to improve his grades.",
+          "zh": "他需要在学习上付出更多努力，以提高成绩。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'affect' as 'affecting emotions', which connects the word to feelings."
+        "association": "Think of 'exert' as 'exerting energy' when you push or pull something."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=affect&type=2",
-      "chapter": "基本词汇 动词200 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=exert&type=2",
+      "chapter": "基本词汇 动词200 Unit 7"
+    },
+    {
+      "word": "sole",
+      "pronunciation": "/soʊl/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "唯一的",
+          "en": "The only one; not shared with anyone else."
+        },
+        {
+          "pos": "n.",
+          "zh": "鞋底",
+          "en": "The bottom part of a shoe that touches the ground."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She is the sole owner of the restaurant in our town.",
+          "zh": "她是我们镇上餐厅的唯一拥有者。"
+        },
+        {
+          "en": "The sole of my shoe has a big hole in it.",
+          "zh": "我鞋子的鞋底上有一个大洞。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'sole' as 'soul'—the sole part of a shoe is like the soul of your walk.",
+        "mnemonic": "Imagine walking on a 'sole' path, reminding you that it's the only way."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sole&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

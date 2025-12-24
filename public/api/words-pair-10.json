@@ -1,69 +1,67 @@
 {
-  "generated": "2025-12-23T22:08:25.991Z",
+  "generated": "2025-12-24T22:08:22.199Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "defy",
-      "pronunciation": "/dɪˈfaɪ/",
+      "word": "domestic",
+      "pronunciation": "/dəˈmɛstɪk/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "反抗，违抗",
-          "en": "To refuse to obey someone or something."
+          "pos": "adj.",
+          "zh": "国内的",
+          "en": "Related to the home or family."
         },
         {
-          "pos": "v.",
-          "zh": "挑战",
-          "en": "To challenge someone to do something; to confront."
+          "pos": "n.",
+          "zh": "国内事务",
+          "en": "Things that happen within a country, not involving other countries."
         }
       ],
       "examples": [
         {
-          "en": "She decided to defy the rules and speak her mind.",
-          "zh": "她决定违抗规则，直言不讳。"
+          "en": "The domestic market is growing rapidly in many countries.",
+          "zh": "许多国家的国内市场正在快速增长。"
         },
         {
-          "en": "The athlete chose to defy expectations and win the race.",
-          "zh": "这位运动员选择挑战预期并赢得了比赛。"
+          "en": "She prefers domestic travel over international trips.",
+          "zh": "她更喜欢国内旅行而不是国际旅行。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'defy' as 'defending your right' to do something against opposition."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=defy&type=2",
-      "chapter": "基本词汇 动词200 Unit 5"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=domestic&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 7"
     },
     {
-      "word": "infectious",
-      "pronunciation": "/ɪnˈfɛkʃəs/",
+      "word": "condemn",
+      "pronunciation": "/kənˈdɛm/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "传染性的",
-          "en": "Capable of being spread from one person to another."
+          "pos": "v.",
+          "zh": "谴责",
+          "en": "To express strong disapproval of something or someone."
         },
         {
-          "pos": "adj.",
-          "zh": "有感染力的",
-          "en": "Having the ability to cause a strong emotional response."
+          "pos": "v.",
+          "zh": "定罪",
+          "en": "To declare someone guilty of a crime."
         }
       ],
       "examples": [
         {
-          "en": "The infectious disease spread quickly among the population.",
-          "zh": "这种传染病在居民中迅速蔓延。"
+          "en": "The judge decided to condemn the criminal to ten years in prison.",
+          "zh": "法官决定判处罪犯十年监禁。"
         },
         {
-          "en": "Her laughter was infectious, making everyone around her smile.",
-          "zh": "她的笑声具有感染力，让周围的每个人都微笑。"
+          "en": "Many people condemn the use of plastic bags for environmental reasons.",
+          "zh": "许多人因环保原因谴责使用塑料袋。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'infectious' as something that can 'infect' both physically and emotionally, linking it to the idea of spreading."
+        "association": "Think of 'condemn' as 'con' (against) + 'demn' (from Latin 'damnare' meaning to damn). So, to condemn is to go against something considered wrong."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=infectious&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 10"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=condemn&type=2",
+      "chapter": "核心词汇 民主与权利 Unit 1"
     }
   ]
 }

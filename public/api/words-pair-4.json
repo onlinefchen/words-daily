@@ -1,67 +1,67 @@
 {
-  "generated": "2025-12-23T22:08:25.991Z",
+  "generated": "2025-12-24T22:08:22.198Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "share",
-      "pronunciation": "/ʃɛr/",
+      "word": "ban",
+      "pronunciation": "/bæn/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "分享",
-          "en": "To give a part of something to others."
+          "zh": "禁止",
+          "en": "To officially make something not allowed."
         },
         {
           "pos": "n.",
-          "zh": "份额",
-          "en": "A portion of something that is divided among people."
+          "zh": "禁令",
+          "en": "A rule that says something is not allowed."
         }
       ],
       "examples": [
         {
-          "en": "We should share our resources to help each other succeed.",
-          "zh": "我们应该分享我们的资源，以互相帮助成功。"
+          "en": "The government decided to ban smoking in public places.",
+          "zh": "政府决定禁止在公共场所吸烟。"
         },
         {
-          "en": "He received a large share of the company’s profits this year.",
-          "zh": "他今年获得了公司利润的很大一部分。"
+          "en": "There is a ban on the sale of alcohol to minors.",
+          "zh": "禁止向未成年人销售酒精。"
         }
       ],
       "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=share&type=2",
-      "chapter": "基本词汇 动词200 Unit 10"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ban&type=2",
+      "chapter": "基本词汇 名词200 Unit 1"
     },
     {
-      "word": "distribute",
-      "pronunciation": "/dɪsˈtrɪb.juːt/",
+      "word": "heroin",
+      "pronunciation": "/ˈhɛroʊɪn/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "分配",
-          "en": "To give out something to several people or places."
+          "pos": "n.",
+          "zh": "海洛因",
+          "en": "A powerful and illegal drug made from morphine."
         },
         {
-          "pos": "v.",
-          "zh": "传播",
-          "en": "To spread or share something widely."
+          "pos": "n.",
+          "zh": "女性英雄",
+          "en": "A female hero or a courageous woman."
         }
       ],
       "examples": [
         {
-          "en": "The teacher will distribute the textbooks to the students tomorrow.",
-          "zh": "老师明天会把教科书分发给学生。"
+          "en": "Many people struggle with heroin addiction and seek help.",
+          "zh": "许多人与海洛因成瘾作斗争，并寻求帮助。"
         },
         {
-          "en": "They plan to distribute food to the needy in their community.",
-          "zh": "他们计划向社区中的贫困者分发食物。"
+          "en": "The novel features a heroin who saves her community from danger.",
+          "zh": "这部小说的女主角拯救了她的社区免受危险。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'distribute' as 'distant tribute,' where you send something far away to others."
+        "association": "Think of 'hero' in 'heroin' to remember the female hero meaning."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=distribute&type=2",
-      "chapter": "基本词汇 动词200 Unit 6"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=heroin&type=2",
+      "chapter": "核心词汇 健康话题 Unit 3"
     }
   ]
 }

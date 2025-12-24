@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-23T22:08:25.991Z",
+  "generated": "2025-12-24T22:08:22.199Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "accommodate",
-      "pronunciation": "/əˈkɒmədeɪt/",
+      "word": "fossil",
+      "pronunciation": "/ˈfɑː.səl/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "容纳",
-          "en": "To provide space for someone or something."
+          "pos": "n.",
+          "zh": "化石",
+          "en": "The remains or impression of a plant or animal from a past geological age."
         },
         {
-          "pos": "v.",
-          "zh": "适应",
-          "en": "To adjust or adapt to new conditions."
+          "pos": "n.",
+          "zh": "旧事物",
+          "en": "Something that is outdated or no longer relevant in modern times."
         }
       ],
       "examples": [
         {
-          "en": "The hotel can accommodate up to 200 guests comfortably.",
-          "zh": "这家酒店可以舒适地容纳多达200位客人。"
+          "en": "The fossil was discovered deep in the mountains by scientists.",
+          "zh": "科学家在山区深处发现了这块化石。"
         },
         {
-          "en": "She had to accommodate her schedule to meet the new deadlines.",
-          "zh": "她不得不调整自己的日程以符合新的截止日期。"
+          "en": "Many fossils help us understand how life evolved on Earth.",
+          "zh": "许多化石帮助我们理解生命是如何在地球上演化的。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'accommodate' as 'a common date,' where you make room for someone special."
+        "association": "Think of 'fossil' as 'fossilized history' that tells us about the past."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=accommodate&type=2",
-      "chapter": "基本词汇 动词200 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=fossil&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "violate",
-      "pronunciation": "/ˈvaɪ.ə.leɪt/",
+      "word": "shrub",
+      "pronunciation": "/ʃrʌb/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "违反",
-          "en": "To break a rule or law."
+          "pos": "n.",
+          "zh": "灌木",
+          "en": "A shrub is a small to medium-sized plant with woody stems."
         },
         {
-          "pos": "v.",
-          "zh": "侵犯",
-          "en": "To treat someone’s rights or privacy in a disrespectful way."
+          "pos": "n.",
+          "zh": "灌木丛",
+          "en": "A shrub can also refer to a group of these plants growing together."
         }
       ],
       "examples": [
         {
-          "en": "He decided to violate the school's rules by cheating on the exam.",
-          "zh": "他决定通过在考试中作弊来违反学校的规则。"
+          "en": "The garden was filled with colorful shrubs and flowers.",
+          "zh": "花园里满是五彩缤纷的灌木和花朵。"
         },
         {
-          "en": "The company's actions may violate the privacy of its customers.",
-          "zh": "公司的行为可能会侵犯客户的隐私。"
+          "en": "He trimmed the shrubs to keep them looking neat and tidy.",
+          "zh": "他修剪了灌木，使它们看起来整洁有序。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'violate' comes from the Latin 'violare', which means 'to use force' or 'to break'."
+        "association": "Think of 'shrub' as 'shrubbery', which refers to a collection of shrubs."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=violate&type=2",
-      "chapter": "基本词汇 动词200 Unit 10"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=shrub&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

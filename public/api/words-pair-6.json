@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-23T22:08:25.991Z",
+  "generated": "2025-12-24T22:08:22.198Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "balance",
-      "pronunciation": "/ˈbæl.əns/",
+      "word": "ethical",
+      "pronunciation": "/ˈɛθɪkəl/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "伦理的",
+          "en": "Relating to what is right or wrong in behavior."
+        },
+        {
+          "pos": "adj.",
+          "zh": "道德的",
+          "en": "Concerned with moral principles and values."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many companies are now adopting more ethical business practices.",
+          "zh": "许多公司现在正在采用更具伦理的商业实践。"
+        },
+        {
+          "en": "It is important to consider the ethical implications of your decisions.",
+          "zh": "考虑你决定的伦理影响是很重要的。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'ethics' as a guide for right and wrong actions."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ethical&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 8"
+    },
+    {
+      "word": "pleuron",
+      "pronunciation": "/ˈplʊərɒn/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "平衡",
-          "en": "A state where different things are equal or in the correct proportions."
+          "zh": "侧体",
+          "en": "The side part of an animal's body."
         },
         {
-          "pos": "v.",
-          "zh": "使平衡",
-          "en": "To make something steady or equal by adjusting different parts."
+          "pos": "n.",
+          "zh": "肋部",
+          "en": "A specific area of a crustacean or insect's exoskeleton."
         }
       ],
       "examples": [
         {
-          "en": "Maintaining a balance between work and leisure is essential for health.",
-          "zh": "在工作和休闲之间保持平衡对健康至关重要。"
+          "en": "The pleuron of the crab is important for its movement.",
+          "zh": "蟹的侧体对其运动非常重要。"
         },
         {
-          "en": "The teacher helped the students balance their academic and social lives.",
-          "zh": "老师帮助学生平衡他们的学业和社交生活。"
+          "en": "Researchers study the pleuron to understand insect anatomy better.",
+          "zh": "研究人员研究肋部以更好地理解昆虫解剖。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a tightrope walker who needs to balance to avoid falling."
+        "association": "Think of 'pleuron' as the 'plume' or side of a bird, emphasizing its lateral aspect."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=balance&type=2",
-      "chapter": "基本词汇 动词200 Unit 2"
-    },
-    {
-      "word": "dominate",
-      "pronunciation": "/ˈdɑː.mɪ.neɪt/",
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "支配，统治",
-          "en": "To have control over something or someone."
-        },
-        {
-          "pos": "v.",
-          "zh": "主导，影响",
-          "en": "To be the most powerful or important element."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Large corporations often dominate the market with their products.",
-          "zh": "大型企业通常通过其产品主导市场。"
-        },
-        {
-          "en": "In many sports, one team can dominate the game completely.",
-          "zh": "在许多运动中，一支队伍可以完全主导比赛。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of a 'dominator' as someone who takes control, like a king in a castle."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dominate&type=2",
-      "chapter": "基本词汇 动词200 Unit 6"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pleuron&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

@@ -1,69 +1,68 @@
 {
-  "generated": "2025-12-23T22:08:25.990Z",
+  "generated": "2025-12-24T22:08:22.198Z",
   "count": 2,
   "words": [
     {
-      "word": "incubation",
-      "pronunciation": "/ˌɪŋkjʊˈbeɪʃən/",
+      "word": "dissolved gas",
+      "pronunciation": "/dɪˈzɒlvd ɡæs/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "孵化",
-          "en": "The process of keeping eggs warm until they hatch."
+          "zh": "溶解气体",
+          "en": "A gas that is mixed with a liquid and is not visible."
         },
         {
-          "pos": "n.",
-          "zh": "培养",
-          "en": "The act of developing or nurturing something, such as ideas or skills."
+          "pos": "v.",
+          "zh": "使气体溶解",
+          "en": "To cause a gas to mix into a liquid."
         }
       ],
       "examples": [
         {
-          "en": "The incubation period for chicken eggs is about 21 days.",
-          "zh": "鸡蛋的孵化期大约是21天。"
+          "en": "Carbon dioxide is a common dissolved gas in soft drinks.",
+          "zh": "二氧化碳是软饮料中常见的溶解气体。"
         },
         {
-          "en": "Incubation of new ideas can lead to innovative solutions.",
-          "zh": "对新想法的培养可以带来创新的解决方案。"
+          "en": "Fish rely on dissolved gases in water for their survival.",
+          "zh": "鱼类依靠水中的溶解气体生存。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word comes from the Latin 'incubare', meaning 'to lie upon' or 'to brood'."
+        "association": "Think of 'dissolved gas' as a gas that has 'disappeared' into a liquid, making it hard to see."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=incubation&type=2",
-      "chapter": "认知词汇 科技分类 探索太空生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dissolved%20gas&type=2",
+      "chapter": "认知词汇 自然分类 火山"
     },
     {
-      "word": "unreasonable",
-      "pronunciation": "/ʌnˈrizənəbl/",
+      "word": "bullion",
+      "pronunciation": "/ˈbʊljən/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "不合理的",
-          "en": "Not based on good reason or logic."
+          "pos": "n.",
+          "zh": "金条",
+          "en": "Bullion refers to gold or silver in bulk form, usually melted into bars."
         },
         {
-          "pos": "adj.",
-          "zh": "过分的",
-          "en": "Exceeding reasonable limits; excessive."
+          "pos": "n.",
+          "zh": "贵金属",
+          "en": "Bullion also means precious metals that are valued for investment."
         }
       ],
       "examples": [
         {
-          "en": "His demands were completely unreasonable and impossible to meet.",
-          "zh": "他的要求完全不合理，无法满足。"
+          "en": "Investing in bullion can be a secure way to protect wealth.",
+          "zh": "投资金条可以是保护财富的安全方式。"
         },
         {
-          "en": "It is unreasonable to expect everyone to agree on everything.",
-          "zh": "期望每个人在所有问题上达成一致是不合理的。"
+          "en": "Countries often hold bullion reserves to stabilize their economies.",
+          "zh": "国家通常持有金条储备以稳定经济。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'unreasonable' as 'un-reasonable', meaning it lacks reason.",
-        "mnemonic": "The word 'unreasonable' starts with 'un', like 'unfair', which also suggests something is not right."
+        "association": "Think of 'bullion' as 'bullion bars' which are large and solid, representing wealth."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=unreasonable&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 20"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=bullion&type=2",
+      "chapter": "认知词汇 历史分类 钱币发展史"
     }
   ]
 }

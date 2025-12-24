@@ -1,123 +1,130 @@
 {
-  "generated": "2025-12-23T22:08:25.989Z",
-  "date": "2025-12-23",
+  "generated": "2025-12-24T22:08:22.197Z",
+  "date": "2025-12-24",
   "totalWords": 20,
   "words": [
     {
-      "id": "w03604",
-      "word": "incubation",
-      "type": "single",
-      "chapterIndex": 37,
-      "globalIndex": 3604,
-      "chapter": "ch123",
-      "chapterName": "认知词汇 科技分类 探索太空生物",
-      "pronunciation": {
-        "us": "/ˌɪŋkjʊˈbeɪʃən/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "孵化",
-          "en": "The process of keeping eggs warm until they hatch."
-        },
-        {
-          "pos": "n.",
-          "zh": "培养",
-          "en": "The act of developing or nurturing something, such as ideas or skills."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The incubation period for chicken eggs is about 21 days.",
-          "zh": "鸡蛋的孵化期大约是21天。"
-        },
-        {
-          "en": "Incubation of new ideas can lead to innovative solutions.",
-          "zh": "对新想法的培养可以带来创新的解决方案。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word comes from the Latin 'incubare', meaning 'to lie upon' or 'to brood'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=incubation&type=2"
-    },
-    {
-      "id": "w00783",
-      "word": "unreasonable",
-      "type": "single",
-      "chapterIndex": 3,
-      "globalIndex": 783,
-      "chapter": "ch040",
-      "chapterName": "基本词汇 形容词和副词400 Unit 20",
-      "pronunciation": {
-        "us": "/ʌnˈrizənəbl/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "不合理的",
-          "en": "Not based on good reason or logic."
-        },
-        {
-          "pos": "adj.",
-          "zh": "过分的",
-          "en": "Exceeding reasonable limits; excessive."
-        }
-      ],
-      "examples": [
-        {
-          "en": "His demands were completely unreasonable and impossible to meet.",
-          "zh": "他的要求完全不合理，无法满足。"
-        },
-        {
-          "en": "It is unreasonable to expect everyone to agree on everything.",
-          "zh": "期望每个人在所有问题上达成一致是不合理的。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'unreasonable' as 'un-reasonable', meaning it lacks reason.",
-        "mnemonic": "The word 'unreasonable' starts with 'un', like 'unfair', which also suggests something is not right."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=unreasonable&type=2"
-    },
-    {
-      "id": "w02082",
-      "word": "natural food chain",
+      "id": "w02605",
+      "word": "dissolved gas",
       "type": "phrase",
-      "chapterIndex": 182,
-      "globalIndex": 2082,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
+      "chapterIndex": 20,
+      "globalIndex": 2605,
+      "chapter": "ch105",
+      "chapterName": "认知词汇 自然分类 火山",
       "pronunciation": {
-        "us": "/ˈnæʧərəl fuːd tʃeɪn/"
+        "us": "/dɪˈzɒlvd ɡæs/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "自然食物链",
-          "en": "A sequence of organisms in nature where each one is eaten by the next."
+          "zh": "溶解气体",
+          "en": "A gas that is mixed with a liquid and is not visible."
+        },
+        {
+          "pos": "v.",
+          "zh": "使气体溶解",
+          "en": "To cause a gas to mix into a liquid."
         }
       ],
       "examples": [
         {
-          "en": "The natural food chain is essential for maintaining ecological balance.",
-          "zh": "自然食物链对于维持生态平衡至关重要。"
+          "en": "Carbon dioxide is a common dissolved gas in soft drinks.",
+          "zh": "二氧化碳是软饮料中常见的溶解气体。"
         },
         {
-          "en": "Humans are at the top of the natural food chain in many ecosystems.",
-          "zh": "在许多生态系统中，人类位于自然食物链的顶端。"
+          "en": "Fish rely on dissolved gases in water for their survival.",
+          "zh": "鱼类依靠水中的溶解气体生存。"
         }
       ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=natural%20food%20chain&type=2"
+      "memoryTips": {
+        "association": "Think of 'dissolved gas' as a gas that has 'disappeared' into a liquid, making it hard to see."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dissolved%20gas&type=2"
     },
     {
-      "id": "w00540",
+      "id": "w03944",
+      "word": "bullion",
+      "type": "single",
+      "chapterIndex": 15,
+      "globalIndex": 3944,
+      "chapter": "ch128",
+      "chapterName": "认知词汇 历史分类 钱币发展史",
+      "pronunciation": {
+        "us": "/ˈbʊljən/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "金条",
+          "en": "Bullion refers to gold or silver in bulk form, usually melted into bars."
+        },
+        {
+          "pos": "n.",
+          "zh": "贵金属",
+          "en": "Bullion also means precious metals that are valued for investment."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Investing in bullion can be a secure way to protect wealth.",
+          "zh": "投资金条可以是保护财富的安全方式。"
+        },
+        {
+          "en": "Countries often hold bullion reserves to stabilize their economies.",
+          "zh": "国家通常持有金条储备以稳定经济。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'bullion' as 'bullion bars' which are large and solid, representing wealth."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=bullion&type=2"
+    },
+    {
+      "id": "w01538",
+      "word": "impinge",
+      "type": "single",
+      "chapterIndex": 18,
+      "globalIndex": 1538,
+      "chapter": "ch077",
+      "chapterName": "核心词汇 民主与权利 Unit 2",
+      "pronunciation": {
+        "us": "/ɪmˈpɪndʒ/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "影响",
+          "en": "To have an effect on something, especially in a way that limits or restricts."
+        },
+        {
+          "pos": "v.",
+          "zh": "冲突",
+          "en": "To intrude or infringe upon someone’s space or rights."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The new regulations might impinge on local businesses and their operations.",
+          "zh": "新的规定可能会影响当地企业及其运营。"
+        },
+        {
+          "en": "His loud music impinges on my ability to concentrate while studying.",
+          "zh": "他的大声音乐影响了我学习时的专注力。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'impinge' as 'infringe' – both deal with limits and boundaries."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=impinge&type=2"
+    },
+    {
+      "id": "w00939",
       "word": "endangered",
       "type": "single",
-      "chapterIndex": 20,
-      "globalIndex": 540,
-      "chapter": "ch027",
-      "chapterName": "基本词汇 形容词和副词400 Unit 7",
+      "chapterIndex": 19,
+      "globalIndex": 939,
+      "chapter": "ch047",
+      "chapterName": "核心词汇 环境保护 Unit 2",
       "pronunciation": {
         "us": "/ɪnˈdeɪndʒərd/"
       },
@@ -125,630 +132,626 @@
         {
           "pos": "adj.",
           "zh": "濒危的",
-          "en": "At risk of becoming extinct or disappearing."
+          "en": "In danger of becoming extinct or disappearing."
         },
         {
           "pos": "adj.",
-          "zh": "面临危险的",
-          "en": "In danger of harm or destruction."
+          "zh": "受到威胁的",
+          "en": "Threatened by human activities or environmental changes."
         }
       ],
       "examples": [
         {
-          "en": "Many species of animals are endangered due to habitat loss.",
-          "zh": "由于栖息地的丧失，许多动物物种濒临灭绝。"
+          "en": "Many species are endangered due to habitat destruction.",
+          "zh": "许多物种因栖息地破坏而濒危。"
         },
         {
-          "en": "Conservation efforts are crucial for protecting endangered plants.",
-          "zh": "保护努力对保护濒危植物至关重要。"
+          "en": "Conservation efforts aim to protect endangered animals.",
+          "zh": "保护工作旨在保护濒危动物。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'endanger' as being at the 'end' of existence."
+        "association": "Think of 'endangered' as 'in danger'. Both words share the idea of risk."
       },
       "audioUrl": "https://dict.youdao.com/dictvoice?audio=endangered&type=2"
     },
     {
-      "id": "w00051",
-      "word": "classify",
+      "id": "w00423",
+      "word": "aggravating",
       "type": "single",
-      "chapterIndex": 11,
-      "globalIndex": 51,
-      "chapter": "ch003",
-      "chapterName": "基本词汇 动词200 Unit 3",
-      "pronunciation": {
-        "us": "/ˈklæs.ɪ.faɪ/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "分类",
-          "en": "To arrange people or things into groups based on shared qualities or characteristics."
-        },
-        {
-          "pos": "v.",
-          "zh": "确定类别",
-          "en": "To determine the category or type of something."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Scientists classify animals based on their physical characteristics.",
-          "zh": "科学家根据动物的物理特征进行分类。"
-        },
-        {
-          "en": "The librarian will classify the new books in the correct section.",
-          "zh": "图书管理员会将新书归类到正确的区域。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'classify' comes from the Latin 'classis', meaning 'class' or 'category'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=classify&type=2"
-    },
-    {
-      "id": "w00301",
-      "word": "jeopardy",
-      "type": "single",
-      "chapterIndex": 1,
-      "globalIndex": 301,
-      "chapter": "ch016",
-      "chapterName": "基本词汇 名词200 Unit 6",
-      "pronunciation": {
-        "us": "/ˈdʒɛpərdi/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "危险，危机",
-          "en": "A situation where there is a risk of loss or harm."
-        },
-        {
-          "pos": "n.",
-          "zh": "法律上的风险",
-          "en": "In law, the danger of being punished or losing a case."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The hikers found themselves in serious jeopardy during the storm.",
-          "zh": "在暴风雨中，远足者发现自己处于严重的危险中。"
-        },
-        {
-          "en": "The defendant's actions put his freedom in jeopardy.",
-          "zh": "被告的行为使他的自由处于危险之中。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'jeopardy' as a 'jeopardy game' where wrong answers can lead to losing points or risk."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=jeopardy&type=2"
-    },
-    {
-      "id": "w00191",
-      "word": "share",
-      "type": "single",
-      "chapterIndex": 11,
-      "globalIndex": 191,
-      "chapter": "ch010",
-      "chapterName": "基本词汇 动词200 Unit 10",
-      "pronunciation": {
-        "us": "/ʃɛr/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "分享",
-          "en": "To give a part of something to others."
-        },
-        {
-          "pos": "n.",
-          "zh": "份额",
-          "en": "A portion of something that is divided among people."
-        }
-      ],
-      "examples": [
-        {
-          "en": "We should share our resources to help each other succeed.",
-          "zh": "我们应该分享我们的资源，以互相帮助成功。"
-        },
-        {
-          "en": "He received a large share of the company’s profits this year.",
-          "zh": "他今年获得了公司利润的很大一部分。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=share&type=2"
-    },
-    {
-      "id": "w00105",
-      "word": "distribute",
-      "type": "single",
-      "chapterIndex": 5,
-      "globalIndex": 105,
-      "chapter": "ch006",
-      "chapterName": "基本词汇 动词200 Unit 6",
-      "pronunciation": {
-        "us": "/dɪsˈtrɪb.juːt/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "分配",
-          "en": "To give out something to several people or places."
-        },
-        {
-          "pos": "v.",
-          "zh": "传播",
-          "en": "To spread or share something widely."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The teacher will distribute the textbooks to the students tomorrow.",
-          "zh": "老师明天会把教科书分发给学生。"
-        },
-        {
-          "en": "They plan to distribute food to the needy in their community.",
-          "zh": "他们计划向社区中的贫困者分发食物。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'distribute' as 'distant tribute,' where you send something far away to others."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=distribute&type=2"
-    },
-    {
-      "id": "w00172",
-      "word": "promote",
-      "type": "single",
-      "chapterIndex": 12,
-      "globalIndex": 172,
-      "chapter": "ch009",
-      "chapterName": "基本词汇 动词200 Unit 9",
-      "pronunciation": {
-        "us": "/prəˈmoʊt/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "促进，推动",
-          "en": "To help something to develop or increase."
-        },
-        {
-          "pos": "v.",
-          "zh": "晋升，提升",
-          "en": "To raise someone to a higher rank or position."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The company aims to promote its new product next month.",
-          "zh": "公司计划下个月推广新产品。"
-        },
-        {
-          "en": "She was promoted to manager due to her hard work.",
-          "zh": "由于她的努力工作，她被提升为经理。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'promote' as 'pro' (for) + 'mote' (motion), meaning to move something forward."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=promote&type=2"
-    },
-    {
-      "id": "w00425",
-      "word": "agile",
-      "type": "single",
-      "chapterIndex": 5,
-      "globalIndex": 425,
+      "chapterIndex": 3,
+      "globalIndex": 423,
       "chapter": "ch022",
       "chapterName": "基本词汇 形容词和副词400 Unit 2",
       "pronunciation": {
-        "us": "/ˈædʒaɪl/"
+        "us": "/ˈæɡrəˌveɪtɪŋ/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "灵活的",
-          "en": "Able to move quickly and easily."
+          "zh": "令人烦恼的",
+          "en": "Causing annoyance or irritation."
         },
         {
-          "pos": "adj.",
-          "zh": "机敏的",
-          "en": "Able to think and understand quickly."
+          "pos": "v.",
+          "zh": "加重",
+          "en": "To make a problem or situation worse."
         }
       ],
       "examples": [
         {
-          "en": "The agile dancer moved gracefully across the stage.",
-          "zh": "灵活的舞者优雅地在舞台上移动。"
+          "en": "His constant interruptions were aggravating everyone in the meeting.",
+          "zh": "他不断的打断让会议上的每个人都感到烦恼。"
         },
         {
-          "en": "Start-ups need an agile approach to adapt to market changes.",
-          "zh": "初创公司需要灵活的方法来适应市场变化。"
+          "en": "The delay in the project is aggravating our clients' concerns.",
+          "zh": "项目的延误加重了客户的担忧。"
         }
       ],
       "memoryTips": {
-        "association": "Think of an agile athlete who can quickly change direction."
+        "association": "Think of 'aggravating' as 'aggravate' + 'irritating', which both suggest making something worse."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=agile&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aggravating&type=2"
     },
     {
-      "id": "w00036",
-      "word": "balance",
-      "type": "single",
-      "chapterIndex": 16,
-      "globalIndex": 36,
-      "chapter": "ch002",
-      "chapterName": "基本词汇 动词200 Unit 2",
+      "id": "w01982",
+      "word": "epic journey from stream to sea",
+      "type": "phrase",
+      "chapterIndex": 82,
+      "globalIndex": 1982,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
       "pronunciation": {
-        "us": "/ˈbæl.əns/"
+        "us": "/ˈɛpɪk ˈdʒɜrni frʌm strim tu si/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "平衡",
-          "en": "A state where different things are equal or in the correct proportions."
-        },
-        {
-          "pos": "v.",
-          "zh": "使平衡",
-          "en": "To make something steady or equal by adjusting different parts."
+          "zh": "史诗般的旅程",
+          "en": "A long and adventurous journey that is significant and memorable."
         }
       ],
       "examples": [
         {
-          "en": "Maintaining a balance between work and leisure is essential for health.",
-          "zh": "在工作和休闲之间保持平衡对健康至关重要。"
+          "en": "The epic journey from stream to sea inspired many great stories.",
+          "zh": "从小溪到大海的史诗般旅程激发了许多伟大的故事。"
         },
         {
-          "en": "The teacher helped the students balance their academic and social lives.",
-          "zh": "老师帮助学生平衡他们的学业和社交生活。"
+          "en": "Explorers often recount their epic journeys from stream to sea.",
+          "zh": "探险者们常常讲述他们从小溪到大海的史诗般旅程。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a tightrope walker who needs to balance to avoid falling."
+        "association": "Think of a hero's adventure, where they start small by a stream and grow into something grand by reaching the sea."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=balance&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=epic%20journey%20from%20stream%20to%20sea&type=2"
     },
     {
-      "id": "w00107",
-      "word": "dominate",
+      "id": "w00216",
+      "word": "ban",
       "type": "single",
-      "chapterIndex": 7,
-      "globalIndex": 107,
-      "chapter": "ch006",
-      "chapterName": "基本词汇 动词200 Unit 6",
-      "pronunciation": {
-        "us": "/ˈdɑː.mɪ.neɪt/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "支配，统治",
-          "en": "To have control over something or someone."
-        },
-        {
-          "pos": "v.",
-          "zh": "主导，影响",
-          "en": "To be the most powerful or important element."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Large corporations often dominate the market with their products.",
-          "zh": "大型企业通常通过其产品主导市场。"
-        },
-        {
-          "en": "In many sports, one team can dominate the game completely.",
-          "zh": "在许多运动中，一支队伍可以完全主导比赛。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of a 'dominator' as someone who takes control, like a king in a castle."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dominate&type=2"
-    },
-    {
-      "id": "w00492",
-      "word": "definite",
-      "type": "single",
-      "chapterIndex": 12,
-      "globalIndex": 492,
-      "chapter": "ch025",
-      "chapterName": "基本词汇 形容词和副词400 Unit 5",
-      "pronunciation": {
-        "us": "/ˈdɛf.ɪ.nɪt/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "明确的",
-          "en": "Clearly defined or determined; not vague."
-        },
-        {
-          "pos": "adj.",
-          "zh": "肯定的",
-          "en": "Certain or sure about something."
-        }
-      ],
-      "examples": [
-        {
-          "en": "She gave a definite answer to the question asked in class.",
-          "zh": "她对课堂上提出的问题给出了明确的回答。"
-        },
-        {
-          "en": "There is a definite plan for the project's completion next month.",
-          "zh": "下个月有一个明确的计划来完成这个项目。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'definite' as having 'defense' against uncertainty, making things clear."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=definite&type=2"
-    },
-    {
-      "id": "w00450",
-      "word": "barren",
-      "type": "single",
-      "chapterIndex": 10,
-      "globalIndex": 450,
-      "chapter": "ch023",
-      "chapterName": "基本词汇 形容词和副词400 Unit 3",
-      "pronunciation": {
-        "us": "/ˈbær.ən/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "贫瘠的",
-          "en": "Land that cannot produce crops or is not fertile."
-        },
-        {
-          "pos": "adj.",
-          "zh": "无效的",
-          "en": "Something that is not productive or lacks useful results."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The barren land made it difficult to grow any plants.",
-          "zh": "贫瘠的土地使得种植任何植物都很困难。"
-        },
-        {
-          "en": "Her ideas seemed barren and failed to inspire anyone.",
-          "zh": "她的想法似乎毫无生气，未能激励任何人。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'barren' as 'bare' or 'empty', both suggesting a lack of life or productivity."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=barren&type=2"
-    },
-    {
-      "id": "w00007",
-      "word": "accommodate",
-      "type": "single",
-      "chapterIndex": 7,
-      "globalIndex": 7,
-      "chapter": "ch001",
-      "chapterName": "基本词汇 动词200 Unit 1",
-      "pronunciation": {
-        "us": "/əˈkɒmədeɪt/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "容纳",
-          "en": "To provide space for someone or something."
-        },
-        {
-          "pos": "v.",
-          "zh": "适应",
-          "en": "To adjust or adapt to new conditions."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The hotel can accommodate up to 200 guests comfortably.",
-          "zh": "这家酒店可以舒适地容纳多达200位客人。"
-        },
-        {
-          "en": "She had to accommodate her schedule to meet the new deadlines.",
-          "zh": "她不得不调整自己的日程以符合新的截止日期。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'accommodate' as 'a common date,' where you make room for someone special."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=accommodate&type=2"
-    },
-    {
-      "id": "w00198",
-      "word": "violate",
-      "type": "single",
-      "chapterIndex": 18,
-      "globalIndex": 198,
-      "chapter": "ch010",
-      "chapterName": "基本词汇 动词200 Unit 10",
-      "pronunciation": {
-        "us": "/ˈvaɪ.ə.leɪt/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "违反",
-          "en": "To break a rule or law."
-        },
-        {
-          "pos": "v.",
-          "zh": "侵犯",
-          "en": "To treat someone’s rights or privacy in a disrespectful way."
-        }
-      ],
-      "examples": [
-        {
-          "en": "He decided to violate the school's rules by cheating on the exam.",
-          "zh": "他决定通过在考试中作弊来违反学校的规则。"
-        },
-        {
-          "en": "The company's actions may violate the privacy of its customers.",
-          "zh": "公司的行为可能会侵犯客户的隐私。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'violate' comes from the Latin 'violare', which means 'to use force' or 'to break'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=violate&type=2"
-    },
-    {
-      "id": "w00218",
-      "word": "breakthrough",
-      "type": "single",
-      "chapterIndex": 18,
-      "globalIndex": 218,
+      "chapterIndex": 16,
+      "globalIndex": 216,
       "chapter": "ch011",
       "chapterName": "基本词汇 名词200 Unit 1",
       "pronunciation": {
-        "us": "/ˈbreɪkˌθru/"
+        "us": "/bæn/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "禁止",
+          "en": "To officially make something not allowed."
+        },
+        {
+          "pos": "n.",
+          "zh": "禁令",
+          "en": "A rule that says something is not allowed."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The government decided to ban smoking in public places.",
+          "zh": "政府决定禁止在公共场所吸烟。"
+        },
+        {
+          "en": "There is a ban on the sale of alcohol to minors.",
+          "zh": "禁止向未成年人销售酒精。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ban&type=2"
+    },
+    {
+      "id": "w01850",
+      "word": "heroin",
+      "type": "single",
+      "chapterIndex": 10,
+      "globalIndex": 1850,
+      "chapter": "ch093",
+      "chapterName": "核心词汇 健康话题 Unit 3",
+      "pronunciation": {
+        "us": "/ˈhɛroʊɪn/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "突破，重大进展",
-          "en": "An important discovery or achievement that helps to improve a situation."
-        },
-        {
-          "pos": "v.",
-          "zh": "突破，克服",
-          "en": "To make a sudden advance or progress, especially in a difficult situation."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The scientist made a breakthrough in cancer research last year.",
-          "zh": "这位科学家在去年的癌症研究中取得了突破。"
-        },
-        {
-          "en": "They hope to break through the barriers to renewable energy use.",
-          "zh": "他们希望突破可再生能源使用的障碍。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=breakthrough&type=2"
-    },
-    {
-      "id": "w00018",
-      "word": "affect",
-      "type": "single",
-      "chapterIndex": 18,
-      "globalIndex": 18,
-      "chapter": "ch001",
-      "chapterName": "基本词汇 动词200 Unit 1",
-      "pronunciation": {
-        "us": "/əˈfɛkt/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "影响",
-          "en": "To have an influence on someone or something."
+          "zh": "海洛因",
+          "en": "A powerful and illegal drug made from morphine."
         },
         {
           "pos": "n.",
-          "zh": "情感",
-          "en": "A feeling or emotion."
+          "zh": "女性英雄",
+          "en": "A female hero or a courageous woman."
         }
       ],
       "examples": [
         {
-          "en": "The weather can greatly affect your mood throughout the day.",
-          "zh": "天气会极大影响你一天的情绪。"
+          "en": "Many people struggle with heroin addiction and seek help.",
+          "zh": "许多人与海洛因成瘾作斗争，并寻求帮助。"
         },
         {
-          "en": "His speech had a profound affect on the audience’s beliefs.",
-          "zh": "他的演讲对观众的信仰产生了深远的影响。"
+          "en": "The novel features a heroin who saves her community from danger.",
+          "zh": "这部小说的女主角拯救了她的社区免受危险。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'affect' as 'affecting emotions', which connects the word to feelings."
+        "association": "Think of 'hero' in 'heroin' to remember the female hero meaning."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=affect&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=heroin&type=2"
     },
     {
-      "id": "w00085",
-      "word": "defy",
+      "id": "w01654",
+      "word": "illiteracy",
       "type": "single",
-      "chapterIndex": 5,
-      "globalIndex": 85,
-      "chapter": "ch005",
-      "chapterName": "基本词汇 动词200 Unit 5",
+      "chapterIndex": 14,
+      "globalIndex": 1654,
+      "chapter": "ch083",
+      "chapterName": "核心词汇 工作与生活 Unit 3",
       "pronunciation": {
-        "us": "/dɪˈfaɪ/"
+        "us": "/ɪˈlɪtərəsi/"
       },
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "反抗，违抗",
-          "en": "To refuse to obey someone or something."
+          "pos": "n.",
+          "zh": "文盲，识字率低",
+          "en": "The state of being unable to read or write."
         },
         {
-          "pos": "v.",
-          "zh": "挑战",
-          "en": "To challenge someone to do something; to confront."
+          "pos": "n.",
+          "zh": "缺乏教育，缺乏知识",
+          "en": "A lack of knowledge in a specific area due to insufficient education."
         }
       ],
       "examples": [
         {
-          "en": "She decided to defy the rules and speak her mind.",
-          "zh": "她决定违抗规则，直言不讳。"
+          "en": "Illiteracy remains a significant challenge in many developing countries.",
+          "zh": "文盲在许多发展中国家仍然是一个重大挑战。"
         },
         {
-          "en": "The athlete chose to defy expectations and win the race.",
-          "zh": "这位运动员选择挑战预期并赢得了比赛。"
+          "en": "Programs to reduce illiteracy can improve community development.",
+          "zh": "减少文盲的项目可以改善社区发展。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'defy' as 'defending your right' to do something against opposition."
+        "association": "Think of 'illiteracy' as 'ill' (sick) literacy; if you are illiterate, your reading skills are sick."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=defy&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=illiteracy&type=2"
     },
     {
-      "id": "w00596",
-      "word": "infectious",
+      "id": "w00516",
+      "word": "disobedient",
       "type": "single",
       "chapterIndex": 16,
-      "globalIndex": 596,
-      "chapter": "ch030",
-      "chapterName": "基本词汇 形容词和副词400 Unit 10",
+      "globalIndex": 516,
+      "chapter": "ch026",
+      "chapterName": "基本词汇 形容词和副词400 Unit 6",
       "pronunciation": {
-        "us": "/ɪnˈfɛkʃəs/"
+        "us": "/ˌdɪsəˈbiːdiənt/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "传染性的",
-          "en": "Capable of being spread from one person to another."
+          "zh": "不服从的",
+          "en": "Not following rules or instructions."
         },
         {
           "pos": "adj.",
-          "zh": "有感染力的",
-          "en": "Having the ability to cause a strong emotional response."
+          "zh": "不听话的",
+          "en": "Refusing to obey authority or a command."
         }
       ],
       "examples": [
         {
-          "en": "The infectious disease spread quickly among the population.",
-          "zh": "这种传染病在居民中迅速蔓延。"
+          "en": "The disobedient child refused to listen to his teacher.",
+          "zh": "那个不听话的孩子拒绝听老师的话。"
         },
         {
-          "en": "Her laughter was infectious, making everyone around her smile.",
-          "zh": "她的笑声具有感染力，让周围的每个人都微笑。"
+          "en": "Her disobedient behavior led to serious consequences at school.",
+          "zh": "她的不服从行为在学校导致了严重的后果。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'infectious' as something that can 'infect' both physically and emotionally, linking it to the idea of spreading."
+        "association": "Think of 'disobedient' as someone who 'disobeys' orders, which helps to remember its meaning."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=infectious&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disobedient&type=2"
+    },
+    {
+      "id": "w00549",
+      "word": "ethical",
+      "type": "single",
+      "chapterIndex": 9,
+      "globalIndex": 549,
+      "chapter": "ch028",
+      "chapterName": "基本词汇 形容词和副词400 Unit 8",
+      "pronunciation": {
+        "us": "/ˈɛθɪkəl/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "伦理的",
+          "en": "Relating to what is right or wrong in behavior."
+        },
+        {
+          "pos": "adj.",
+          "zh": "道德的",
+          "en": "Concerned with moral principles and values."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many companies are now adopting more ethical business practices.",
+          "zh": "许多公司现在正在采用更具伦理的商业实践。"
+        },
+        {
+          "en": "It is important to consider the ethical implications of your decisions.",
+          "zh": "考虑你决定的伦理影响是很重要的。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'ethics' as a guide for right and wrong actions."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ethical&type=2"
+    },
+    {
+      "id": "w02192",
+      "word": "pleuron",
+      "type": "single",
+      "chapterIndex": 292,
+      "globalIndex": 2192,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/ˈplʊərɒn/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "侧体",
+          "en": "The side part of an animal's body."
+        },
+        {
+          "pos": "n.",
+          "zh": "肋部",
+          "en": "A specific area of a crustacean or insect's exoskeleton."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The pleuron of the crab is important for its movement.",
+          "zh": "蟹的侧体对其运动非常重要。"
+        },
+        {
+          "en": "Researchers study the pleuron to understand insect anatomy better.",
+          "zh": "研究人员研究肋部以更好地理解昆虫解剖。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'pleuron' as the 'plume' or side of a bird, emphasizing its lateral aspect."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pleuron&type=2"
+    },
+    {
+      "id": "w01894",
+      "word": "suffering",
+      "type": "single",
+      "chapterIndex": 14,
+      "globalIndex": 1894,
+      "chapter": "ch095",
+      "chapterName": "核心词汇 健康话题 Unit 5",
+      "pronunciation": {
+        "us": "/ˈsʌfərɪŋ/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "痛苦; 苦难",
+          "en": "The state of experiencing pain or distress."
+        },
+        {
+          "pos": "v.",
+          "zh": "遭受; 经历",
+          "en": "To experience something unpleasant."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many people are suffering from mental health issues today.",
+          "zh": "今天，许多人都在遭受心理健康问题。"
+        },
+        {
+          "en": "She dedicated her life to helping those who are suffering.",
+          "zh": "她把一生奉献给帮助那些受苦的人。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'suffering' as 'suffocating' from pain, connecting the two concepts."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=suffering&type=2"
+    },
+    {
+      "id": "w00560",
+      "word": "extensive",
+      "type": "single",
+      "chapterIndex": 20,
+      "globalIndex": 560,
+      "chapter": "ch028",
+      "chapterName": "基本词汇 形容词和副词400 Unit 8",
+      "pronunciation": {
+        "us": "/ɪkˈstɛnsɪv/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "广泛的",
+          "en": "Covering a large area; having a wide range."
+        },
+        {
+          "pos": "adj.",
+          "zh": "大量的",
+          "en": "Involving a lot of details or information."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The university offers an extensive range of courses for students.",
+          "zh": "这所大学为学生提供广泛的课程选择。"
+        },
+        {
+          "en": "She has extensive experience in international business.",
+          "zh": "她在国际商务方面有丰富的经验。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'extensive' comes from the Latin root 'extendere', meaning 'to stretch out'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=extensive&type=2"
+    },
+    {
+      "id": "w01923",
+      "word": "fossil",
+      "type": "single",
+      "chapterIndex": 23,
+      "globalIndex": 1923,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/ˈfɑː.səl/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "化石",
+          "en": "The remains or impression of a plant or animal from a past geological age."
+        },
+        {
+          "pos": "n.",
+          "zh": "旧事物",
+          "en": "Something that is outdated or no longer relevant in modern times."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The fossil was discovered deep in the mountains by scientists.",
+          "zh": "科学家在山区深处发现了这块化石。"
+        },
+        {
+          "en": "Many fossils help us understand how life evolved on Earth.",
+          "zh": "许多化石帮助我们理解生命是如何在地球上演化的。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'fossil' as 'fossilized history' that tells us about the past."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=fossil&type=2"
+    },
+    {
+      "id": "w02149",
+      "word": "shrub",
+      "type": "single",
+      "chapterIndex": 249,
+      "globalIndex": 2149,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/ʃrʌb/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "灌木",
+          "en": "A shrub is a small to medium-sized plant with woody stems."
+        },
+        {
+          "pos": "n.",
+          "zh": "灌木丛",
+          "en": "A shrub can also refer to a group of these plants growing together."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The garden was filled with colorful shrubs and flowers.",
+          "zh": "花园里满是五彩缤纷的灌木和花朵。"
+        },
+        {
+          "en": "He trimmed the shrubs to keep them looking neat and tidy.",
+          "zh": "他修剪了灌木，使它们看起来整洁有序。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'shrub' as 'shrubbery', which refers to a collection of shrubs."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=shrub&type=2"
+    },
+    {
+      "id": "w00124",
+      "word": "exert",
+      "type": "single",
+      "chapterIndex": 4,
+      "globalIndex": 124,
+      "chapter": "ch007",
+      "chapterName": "基本词汇 动词200 Unit 7",
+      "pronunciation": {
+        "us": "/ɪɡˈzɜrt/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "施加（影响）",
+          "en": "To apply or use force, influence, or effort."
+        },
+        {
+          "pos": "v.",
+          "zh": "努力（做某事）",
+          "en": "To make an effort to achieve something."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She will exert her influence to help the project succeed.",
+          "zh": "她将施加她的影响力来帮助项目成功。"
+        },
+        {
+          "en": "He needs to exert more effort in his studies to improve his grades.",
+          "zh": "他需要在学习上付出更多努力，以提高成绩。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'exert' as 'exerting energy' when you push or pull something."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=exert&type=2"
+    },
+    {
+      "id": "w02100",
+      "word": "sole",
+      "type": "single",
+      "chapterIndex": 200,
+      "globalIndex": 2100,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/soʊl/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "唯一的",
+          "en": "The only one; not shared with anyone else."
+        },
+        {
+          "pos": "n.",
+          "zh": "鞋底",
+          "en": "The bottom part of a shoe that touches the ground."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She is the sole owner of the restaurant in our town.",
+          "zh": "她是我们镇上餐厅的唯一拥有者。"
+        },
+        {
+          "en": "The sole of my shoe has a big hole in it.",
+          "zh": "我鞋子的鞋底上有一个大洞。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'sole' as 'soul'—the sole part of a shoe is like the soul of your walk.",
+        "mnemonic": "Imagine walking on a 'sole' path, reminding you that it's the only way."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sole&type=2"
+    },
+    {
+      "id": "w00525",
+      "word": "domestic",
+      "type": "single",
+      "chapterIndex": 5,
+      "globalIndex": 525,
+      "chapter": "ch027",
+      "chapterName": "基本词汇 形容词和副词400 Unit 7",
+      "pronunciation": {
+        "us": "/dəˈmɛstɪk/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "国内的",
+          "en": "Related to the home or family."
+        },
+        {
+          "pos": "n.",
+          "zh": "国内事务",
+          "en": "Things that happen within a country, not involving other countries."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The domestic market is growing rapidly in many countries.",
+          "zh": "许多国家的国内市场正在快速增长。"
+        },
+        {
+          "en": "She prefers domestic travel over international trips.",
+          "zh": "她更喜欢国内旅行而不是国际旅行。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=domestic&type=2"
+    },
+    {
+      "id": "w01514",
+      "word": "condemn",
+      "type": "single",
+      "chapterIndex": 14,
+      "globalIndex": 1514,
+      "chapter": "ch076",
+      "chapterName": "核心词汇 民主与权利 Unit 1",
+      "pronunciation": {
+        "us": "/kənˈdɛm/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "谴责",
+          "en": "To express strong disapproval of something or someone."
+        },
+        {
+          "pos": "v.",
+          "zh": "定罪",
+          "en": "To declare someone guilty of a crime."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The judge decided to condemn the criminal to ten years in prison.",
+          "zh": "法官决定判处罪犯十年监禁。"
+        },
+        {
+          "en": "Many people condemn the use of plastic bags for environmental reasons.",
+          "zh": "许多人因环保原因谴责使用塑料袋。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'condemn' as 'con' (against) + 'demn' (from Latin 'damnare' meaning to damn). So, to condemn is to go against something considered wrong."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=condemn&type=2"
     }
   ]
 }

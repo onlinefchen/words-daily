@@ -1,31 +1,38 @@
 {
-  "generated": "2025-12-23T22:08:25.990Z",
+  "generated": "2025-12-24T22:08:22.198Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "natural food chain",
-      "pronunciation": "/ˈnæʧərəl fuːd tʃeɪn/",
+      "word": "impinge",
+      "pronunciation": "/ɪmˈpɪndʒ/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "自然食物链",
-          "en": "A sequence of organisms in nature where each one is eaten by the next."
+          "pos": "v.",
+          "zh": "影响",
+          "en": "To have an effect on something, especially in a way that limits or restricts."
+        },
+        {
+          "pos": "v.",
+          "zh": "冲突",
+          "en": "To intrude or infringe upon someone’s space or rights."
         }
       ],
       "examples": [
         {
-          "en": "The natural food chain is essential for maintaining ecological balance.",
-          "zh": "自然食物链对于维持生态平衡至关重要。"
+          "en": "The new regulations might impinge on local businesses and their operations.",
+          "zh": "新的规定可能会影响当地企业及其运营。"
         },
         {
-          "en": "Humans are at the top of the natural food chain in many ecosystems.",
-          "zh": "在许多生态系统中，人类位于自然食物链的顶端。"
+          "en": "His loud music impinges on my ability to concentrate while studying.",
+          "zh": "他的大声音乐影响了我学习时的专注力。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=natural%20food%20chain&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "memoryTips": {
+        "association": "Think of 'impinge' as 'infringe' – both deal with limits and boundaries."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=impinge&type=2",
+      "chapter": "核心词汇 民主与权利 Unit 2"
     },
     {
       "word": "endangered",
@@ -34,29 +41,29 @@
         {
           "pos": "adj.",
           "zh": "濒危的",
-          "en": "At risk of becoming extinct or disappearing."
+          "en": "In danger of becoming extinct or disappearing."
         },
         {
           "pos": "adj.",
-          "zh": "面临危险的",
-          "en": "In danger of harm or destruction."
+          "zh": "受到威胁的",
+          "en": "Threatened by human activities or environmental changes."
         }
       ],
       "examples": [
         {
-          "en": "Many species of animals are endangered due to habitat loss.",
-          "zh": "由于栖息地的丧失，许多动物物种濒临灭绝。"
+          "en": "Many species are endangered due to habitat destruction.",
+          "zh": "许多物种因栖息地破坏而濒危。"
         },
         {
-          "en": "Conservation efforts are crucial for protecting endangered plants.",
-          "zh": "保护努力对保护濒危植物至关重要。"
+          "en": "Conservation efforts aim to protect endangered animals.",
+          "zh": "保护工作旨在保护濒危动物。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'endanger' as being at the 'end' of existence."
+        "association": "Think of 'endangered' as 'in danger'. Both words share the idea of risk."
       },
       "audioUrl": "https://dict.youdao.com/dictvoice?audio=endangered&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 7"
+      "chapter": "核心词汇 环境保护 Unit 2"
     }
   ]
 }

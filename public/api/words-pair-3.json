@@ -1,69 +1,64 @@
 {
-  "generated": "2025-12-23T22:08:25.991Z",
+  "generated": "2025-12-24T22:08:22.198Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "classify",
-      "pronunciation": "/ˈklæs.ɪ.faɪ/",
+      "word": "aggravating",
+      "pronunciation": "/ˈæɡrəˌveɪtɪŋ/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "分类",
-          "en": "To arrange people or things into groups based on shared qualities or characteristics."
+          "pos": "adj.",
+          "zh": "令人烦恼的",
+          "en": "Causing annoyance or irritation."
         },
         {
           "pos": "v.",
-          "zh": "确定类别",
-          "en": "To determine the category or type of something."
+          "zh": "加重",
+          "en": "To make a problem or situation worse."
         }
       ],
       "examples": [
         {
-          "en": "Scientists classify animals based on their physical characteristics.",
-          "zh": "科学家根据动物的物理特征进行分类。"
+          "en": "His constant interruptions were aggravating everyone in the meeting.",
+          "zh": "他不断的打断让会议上的每个人都感到烦恼。"
         },
         {
-          "en": "The librarian will classify the new books in the correct section.",
-          "zh": "图书管理员会将新书归类到正确的区域。"
+          "en": "The delay in the project is aggravating our clients' concerns.",
+          "zh": "项目的延误加重了客户的担忧。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'classify' comes from the Latin 'classis', meaning 'class' or 'category'."
+        "association": "Think of 'aggravating' as 'aggravate' + 'irritating', which both suggest making something worse."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=classify&type=2",
-      "chapter": "基本词汇 动词200 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aggravating&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 2"
     },
     {
-      "word": "jeopardy",
-      "pronunciation": "/ˈdʒɛpərdi/",
+      "word": "epic journey from stream to sea",
+      "pronunciation": "/ˈɛpɪk ˈdʒɜrni frʌm strim tu si/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "危险，危机",
-          "en": "A situation where there is a risk of loss or harm."
-        },
-        {
-          "pos": "n.",
-          "zh": "法律上的风险",
-          "en": "In law, the danger of being punished or losing a case."
+          "zh": "史诗般的旅程",
+          "en": "A long and adventurous journey that is significant and memorable."
         }
       ],
       "examples": [
         {
-          "en": "The hikers found themselves in serious jeopardy during the storm.",
-          "zh": "在暴风雨中，远足者发现自己处于严重的危险中。"
+          "en": "The epic journey from stream to sea inspired many great stories.",
+          "zh": "从小溪到大海的史诗般旅程激发了许多伟大的故事。"
         },
         {
-          "en": "The defendant's actions put his freedom in jeopardy.",
-          "zh": "被告的行为使他的自由处于危险之中。"
+          "en": "Explorers often recount their epic journeys from stream to sea.",
+          "zh": "探险者们常常讲述他们从小溪到大海的史诗般旅程。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'jeopardy' as a 'jeopardy game' where wrong answers can lead to losing points or risk."
+        "association": "Think of a hero's adventure, where they start small by a stream and grow into something grand by reaching the sea."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=jeopardy&type=2",
-      "chapter": "基本词汇 名词200 Unit 6"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=epic%20journey%20from%20stream%20to%20sea&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

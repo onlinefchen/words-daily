@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-23T22:08:25.991Z",
+  "generated": "2025-12-24T22:08:22.198Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "promote",
-      "pronunciation": "/prəˈmoʊt/",
+      "word": "illiteracy",
+      "pronunciation": "/ɪˈlɪtərəsi/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "促进，推动",
-          "en": "To help something to develop or increase."
+          "pos": "n.",
+          "zh": "文盲，识字率低",
+          "en": "The state of being unable to read or write."
         },
         {
-          "pos": "v.",
-          "zh": "晋升，提升",
-          "en": "To raise someone to a higher rank or position."
+          "pos": "n.",
+          "zh": "缺乏教育，缺乏知识",
+          "en": "A lack of knowledge in a specific area due to insufficient education."
         }
       ],
       "examples": [
         {
-          "en": "The company aims to promote its new product next month.",
-          "zh": "公司计划下个月推广新产品。"
+          "en": "Illiteracy remains a significant challenge in many developing countries.",
+          "zh": "文盲在许多发展中国家仍然是一个重大挑战。"
         },
         {
-          "en": "She was promoted to manager due to her hard work.",
-          "zh": "由于她的努力工作，她被提升为经理。"
+          "en": "Programs to reduce illiteracy can improve community development.",
+          "zh": "减少文盲的项目可以改善社区发展。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'promote' as 'pro' (for) + 'mote' (motion), meaning to move something forward."
+        "association": "Think of 'illiteracy' as 'ill' (sick) literacy; if you are illiterate, your reading skills are sick."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=promote&type=2",
-      "chapter": "基本词汇 动词200 Unit 9"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=illiteracy&type=2",
+      "chapter": "核心词汇 工作与生活 Unit 3"
     },
     {
-      "word": "agile",
-      "pronunciation": "/ˈædʒaɪl/",
+      "word": "disobedient",
+      "pronunciation": "/ˌdɪsəˈbiːdiənt/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "灵活的",
-          "en": "Able to move quickly and easily."
+          "zh": "不服从的",
+          "en": "Not following rules or instructions."
         },
         {
           "pos": "adj.",
-          "zh": "机敏的",
-          "en": "Able to think and understand quickly."
+          "zh": "不听话的",
+          "en": "Refusing to obey authority or a command."
         }
       ],
       "examples": [
         {
-          "en": "The agile dancer moved gracefully across the stage.",
-          "zh": "灵活的舞者优雅地在舞台上移动。"
+          "en": "The disobedient child refused to listen to his teacher.",
+          "zh": "那个不听话的孩子拒绝听老师的话。"
         },
         {
-          "en": "Start-ups need an agile approach to adapt to market changes.",
-          "zh": "初创公司需要灵活的方法来适应市场变化。"
+          "en": "Her disobedient behavior led to serious consequences at school.",
+          "zh": "她的不服从行为在学校导致了严重的后果。"
         }
       ],
       "memoryTips": {
-        "association": "Think of an agile athlete who can quickly change direction."
+        "association": "Think of 'disobedient' as someone who 'disobeys' orders, which helps to remember its meaning."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=agile&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disobedient&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 6"
     }
   ]
 }

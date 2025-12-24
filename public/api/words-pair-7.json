@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-23T22:08:25.991Z",
+  "generated": "2025-12-24T22:08:22.198Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "definite",
-      "pronunciation": "/ˈdɛf.ɪ.nɪt/",
+      "word": "suffering",
+      "pronunciation": "/ˈsʌfərɪŋ/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "明确的",
-          "en": "Clearly defined or determined; not vague."
+          "pos": "n.",
+          "zh": "痛苦; 苦难",
+          "en": "The state of experiencing pain or distress."
         },
         {
-          "pos": "adj.",
-          "zh": "肯定的",
-          "en": "Certain or sure about something."
+          "pos": "v.",
+          "zh": "遭受; 经历",
+          "en": "To experience something unpleasant."
         }
       ],
       "examples": [
         {
-          "en": "She gave a definite answer to the question asked in class.",
-          "zh": "她对课堂上提出的问题给出了明确的回答。"
+          "en": "Many people are suffering from mental health issues today.",
+          "zh": "今天，许多人都在遭受心理健康问题。"
         },
         {
-          "en": "There is a definite plan for the project's completion next month.",
-          "zh": "下个月有一个明确的计划来完成这个项目。"
+          "en": "She dedicated her life to helping those who are suffering.",
+          "zh": "她把一生奉献给帮助那些受苦的人。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'definite' as having 'defense' against uncertainty, making things clear."
+        "association": "Think of 'suffering' as 'suffocating' from pain, connecting the two concepts."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=definite&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=suffering&type=2",
+      "chapter": "核心词汇 健康话题 Unit 5"
     },
     {
-      "word": "barren",
-      "pronunciation": "/ˈbær.ən/",
+      "word": "extensive",
+      "pronunciation": "/ɪkˈstɛnsɪv/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "贫瘠的",
-          "en": "Land that cannot produce crops or is not fertile."
+          "zh": "广泛的",
+          "en": "Covering a large area; having a wide range."
         },
         {
           "pos": "adj.",
-          "zh": "无效的",
-          "en": "Something that is not productive or lacks useful results."
+          "zh": "大量的",
+          "en": "Involving a lot of details or information."
         }
       ],
       "examples": [
         {
-          "en": "The barren land made it difficult to grow any plants.",
-          "zh": "贫瘠的土地使得种植任何植物都很困难。"
+          "en": "The university offers an extensive range of courses for students.",
+          "zh": "这所大学为学生提供广泛的课程选择。"
         },
         {
-          "en": "Her ideas seemed barren and failed to inspire anyone.",
-          "zh": "她的想法似乎毫无生气，未能激励任何人。"
+          "en": "She has extensive experience in international business.",
+          "zh": "她在国际商务方面有丰富的经验。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'barren' as 'bare' or 'empty', both suggesting a lack of life or productivity."
+        "etymology": "The word 'extensive' comes from the Latin root 'extendere', meaning 'to stretch out'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=barren&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=extensive&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 8"
     }
   ]
 }
