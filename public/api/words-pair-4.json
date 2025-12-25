@@ -1,67 +1,67 @@
 {
-  "generated": "2025-12-24T22:08:22.198Z",
+  "generated": "2025-12-25T22:08:03.965Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "ban",
-      "pronunciation": "/bæn/",
+      "word": "circadian rhythm",
+      "pronunciation": "/sɜrˈkeɪdiən ˈrɪðəm/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "禁止",
-          "en": "To officially make something not allowed."
+          "pos": "n.",
+          "zh": "昼夜节律",
+          "en": "A natural, internal process that regulates the sleep-wake cycle."
         },
         {
           "pos": "n.",
-          "zh": "禁令",
-          "en": "A rule that says something is not allowed."
+          "zh": "生物钟",
+          "en": "The biological clock that influences physical and mental functions over a 24-hour period."
         }
       ],
       "examples": [
         {
-          "en": "The government decided to ban smoking in public places.",
-          "zh": "政府决定禁止在公共场所吸烟。"
+          "en": "Maintaining a regular sleep schedule helps stabilize your circadian rhythm.",
+          "zh": "保持规律的睡眠时间有助于稳定你的昼夜节律。"
         },
         {
-          "en": "There is a ban on the sale of alcohol to minors.",
-          "zh": "禁止向未成年人销售酒精。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ban&type=2",
-      "chapter": "基本词汇 名词200 Unit 1"
-    },
-    {
-      "word": "heroin",
-      "pronunciation": "/ˈhɛroʊɪn/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "海洛因",
-          "en": "A powerful and illegal drug made from morphine."
-        },
-        {
-          "pos": "n.",
-          "zh": "女性英雄",
-          "en": "A female hero or a courageous woman."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Many people struggle with heroin addiction and seek help.",
-          "zh": "许多人与海洛因成瘾作斗争，并寻求帮助。"
-        },
-        {
-          "en": "The novel features a heroin who saves her community from danger.",
-          "zh": "这部小说的女主角拯救了她的社区免受危险。"
+          "en": "Disruptions to circadian rhythm can lead to health problems like insomnia.",
+          "zh": "昼夜节律的干扰可能导致失眠等健康问题。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'hero' in 'heroin' to remember the female hero meaning."
+        "association": "Think of 'circa' meaning 'around' in Latin, and 'diem' meaning 'day', to remember it relates to daily cycles."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=heroin&type=2",
-      "chapter": "核心词汇 健康话题 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=circadian%20rhythm&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
+    },
+    {
+      "word": "bait",
+      "pronunciation": "/beɪt/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "诱饵",
+          "en": "Bait is something used to attract fish or animals."
+        },
+        {
+          "pos": "v.",
+          "zh": "引诱",
+          "en": "To bait means to entice someone into doing something."
+        }
+      ],
+      "examples": [
+        {
+          "en": "He used worms as bait to catch fish in the lake.",
+          "zh": "他用虫子作为诱饵在湖里钓鱼。"
+        },
+        {
+          "en": "She tried to bait him into an argument by making rude comments.",
+          "zh": "她试图通过做粗鲁的评论来引诱他争论。"
+        }
+      ],
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=bait&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

@@ -1,70 +1,69 @@
 {
-  "generated": "2025-12-24T22:08:22.199Z",
+  "generated": "2025-12-25T22:08:03.966Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "exert",
-      "pronunciation": "/ɪɡˈzɜrt/",
+      "word": "ovary",
+      "pronunciation": "/ˈoʊ.vər.i/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "施加（影响）",
-          "en": "To apply or use force, influence, or effort."
-        },
-        {
-          "pos": "v.",
-          "zh": "努力（做某事）",
-          "en": "To make an effort to achieve something."
-        }
-      ],
-      "examples": [
-        {
-          "en": "She will exert her influence to help the project succeed.",
-          "zh": "她将施加她的影响力来帮助项目成功。"
-        },
-        {
-          "en": "He needs to exert more effort in his studies to improve his grades.",
-          "zh": "他需要在学习上付出更多努力，以提高成绩。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'exert' as 'exerting energy' when you push or pull something."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=exert&type=2",
-      "chapter": "基本词汇 动词200 Unit 7"
-    },
-    {
-      "word": "sole",
-      "pronunciation": "/soʊl/",
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "唯一的",
-          "en": "The only one; not shared with anyone else."
+          "pos": "n.",
+          "zh": "卵巢",
+          "en": "The organ in female animals that produces eggs."
         },
         {
           "pos": "n.",
-          "zh": "鞋底",
-          "en": "The bottom part of a shoe that touches the ground."
+          "zh": "卵巢的功能",
+          "en": "The part of the reproductive system that helps in reproduction."
         }
       ],
       "examples": [
         {
-          "en": "She is the sole owner of the restaurant in our town.",
-          "zh": "她是我们镇上餐厅的唯一拥有者。"
+          "en": "The ovary is crucial for producing eggs in female mammals.",
+          "zh": "卵巢对雌性哺乳动物产生卵子至关重要。"
         },
         {
-          "en": "The sole of my shoe has a big hole in it.",
-          "zh": "我鞋子的鞋底上有一个大洞。"
+          "en": "Doctors often examine the ovary for any abnormalities.",
+          "zh": "医生通常会检查卵巢是否有任何异常。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'sole' as 'soul'—the sole part of a shoe is like the soul of your walk.",
-        "mnemonic": "Imagine walking on a 'sole' path, reminding you that it's the only way."
+        "association": "Think of 'ovary' as related to 'ovum' (egg), both are involved in reproduction."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sole&type=2",
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ovary&type=2",
       "chapter": "认知词汇 动物分类 常考生物"
+    },
+    {
+      "word": "sense",
+      "pronunciation": "/sɛns/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "感觉",
+          "en": "The ability to perceive or feel something through the body."
+        },
+        {
+          "pos": "v.",
+          "zh": "意识到",
+          "en": "To become aware of something through the senses."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She has a strong sense of responsibility towards her family.",
+          "zh": "她对家庭有很强的责任感。"
+        },
+        {
+          "en": "The teacher sensed that the students were confused about the topic.",
+          "zh": "老师意识到学生们对这个主题感到困惑。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'sense' as related to your five senses: sight, hearing, touch, taste, and smell."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sense&type=2",
+      "chapter": "核心词汇 工作与生活 Unit 5"
     }
   ]
 }

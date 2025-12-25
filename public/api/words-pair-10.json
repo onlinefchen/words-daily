@@ -1,67 +1,64 @@
 {
-  "generated": "2025-12-24T22:08:22.199Z",
+  "generated": "2025-12-25T22:08:03.966Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "domestic",
-      "pronunciation": "/dəˈmɛstɪk/",
+      "word": "liberation",
+      "pronunciation": "/ˌlɪbəˈreɪʃən/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "国内的",
-          "en": "Related to the home or family."
+          "pos": "n.",
+          "zh": "解放",
+          "en": "The act of setting someone free from restrictions."
         },
         {
           "pos": "n.",
-          "zh": "国内事务",
-          "en": "Things that happen within a country, not involving other countries."
+          "zh": "自主",
+          "en": "The state of being free and independent."
         }
       ],
       "examples": [
         {
-          "en": "The domestic market is growing rapidly in many countries.",
-          "zh": "许多国家的国内市场正在快速增长。"
+          "en": "The liberation of the country was celebrated with great joy.",
+          "zh": "国家的解放得到了热烈的庆祝。"
         },
         {
-          "en": "She prefers domestic travel over international trips.",
-          "zh": "她更喜欢国内旅行而不是国际旅行。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=domestic&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 7"
-    },
-    {
-      "word": "condemn",
-      "pronunciation": "/kənˈdɛm/",
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "谴责",
-          "en": "To express strong disapproval of something or someone."
-        },
-        {
-          "pos": "v.",
-          "zh": "定罪",
-          "en": "To declare someone guilty of a crime."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The judge decided to condemn the criminal to ten years in prison.",
-          "zh": "法官决定判处罪犯十年监禁。"
-        },
-        {
-          "en": "Many people condemn the use of plastic bags for environmental reasons.",
-          "zh": "许多人因环保原因谴责使用塑料袋。"
+          "en": "She felt a sense of liberation after leaving her job.",
+          "zh": "她在离开工作后感到一种解放感。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'condemn' as 'con' (against) + 'demn' (from Latin 'damnare' meaning to damn). So, to condemn is to go against something considered wrong."
+        "etymology": "The word 'liberation' comes from the Latin 'liberatio', which means 'to free'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=condemn&type=2",
-      "chapter": "核心词汇 民主与权利 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=liberation&type=2",
+      "chapter": "核心词汇 民主与权利 Unit 3"
+    },
+    {
+      "word": "navigational ability",
+      "pronunciation": "/ˈnæv.ɪˌɡeɪ.ʃən.əl əˈbɪl.ɪ.ti/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "导航能力",
+          "en": "The skill to find your way or direct others."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Good navigational ability is essential for pilots and sailors.",
+          "zh": "良好的导航能力对飞行员和水手至关重要。"
+        },
+        {
+          "en": "Children often develop navigational ability through outdoor play.",
+          "zh": "孩子们常常通过户外游戏发展导航能力。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a navigator using a map to find their way, emphasizing the importance of direction."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=navigational%20ability&type=2",
+      "chapter": "认知词汇 动物分类 动物智力与语言习得"
     }
   ]
 }

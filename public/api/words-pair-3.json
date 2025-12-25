@@ -1,63 +1,68 @@
 {
-  "generated": "2025-12-24T22:08:22.198Z",
+  "generated": "2025-12-25T22:08:03.965Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "aggravating",
-      "pronunciation": "/ˈæɡrəˌveɪtɪŋ/",
+      "word": "negative",
+      "pronunciation": "/ˈnɛɡətɪv/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "令人烦恼的",
-          "en": "Causing annoyance or irritation."
+          "zh": "消极的",
+          "en": "Describing something that is not hopeful or positive."
         },
         {
-          "pos": "v.",
-          "zh": "加重",
-          "en": "To make a problem or situation worse."
+          "pos": "n.",
+          "zh": "负面",
+          "en": "A term used to describe an unfavorable or pessimistic view."
         }
       ],
       "examples": [
         {
-          "en": "His constant interruptions were aggravating everyone in the meeting.",
-          "zh": "他不断的打断让会议上的每个人都感到烦恼。"
+          "en": "She always focuses on the negative aspects of any situation.",
+          "zh": "她总是专注于任何情况的消极方面。"
         },
         {
-          "en": "The delay in the project is aggravating our clients' concerns.",
-          "zh": "项目的延误加重了客户的担忧。"
+          "en": "His negative attitude affected the whole team's morale.",
+          "zh": "他的消极态度影响了整个团队的士气。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'aggravating' as 'aggravate' + 'irritating', which both suggest making something worse."
+        "association": "Think of 'negative' as 'no' or 'not', which helps to remember its pessimistic meaning."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aggravating&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=negative&type=2",
+      "chapter": "核心词汇 法制与犯罪 Unit 3"
     },
     {
-      "word": "epic journey from stream to sea",
-      "pronunciation": "/ˈɛpɪk ˈdʒɜrni frʌm strim tu si/",
+      "word": "scout bee",
+      "pronunciation": "/skaʊt bi/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "史诗般的旅程",
-          "en": "A long and adventurous journey that is significant and memorable."
+          "zh": "侦查蜂",
+          "en": "A bee that searches for food sources and leads others to them."
+        },
+        {
+          "pos": "n.",
+          "zh": "侦察者",
+          "en": "A person or animal that explores an area to gather information."
         }
       ],
       "examples": [
         {
-          "en": "The epic journey from stream to sea inspired many great stories.",
-          "zh": "从小溪到大海的史诗般旅程激发了许多伟大的故事。"
+          "en": "The scout bee found a new flower patch for the hive.",
+          "zh": "侦查蜂找到了一个新的花丛供蜂巢使用。"
         },
         {
-          "en": "Explorers often recount their epic journeys from stream to sea.",
-          "zh": "探险者们常常讲述他们从小溪到大海的史诗般旅程。"
+          "en": "Scouts often lead their teams to the best locations.",
+          "zh": "侦察者通常会引导他们的团队到最佳地点。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a hero's adventure, where they start small by a stream and grow into something grand by reaching the sea."
+        "association": "Think of a 'scout' as someone who explores, similar to how a bee explores for food."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=epic%20journey%20from%20stream%20to%20sea&type=2",
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=scout%20bee&type=2",
       "chapter": "认知词汇 动物分类 常考生物"
     }
   ]

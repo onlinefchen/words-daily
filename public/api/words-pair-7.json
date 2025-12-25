@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-24T22:08:22.198Z",
+  "generated": "2025-12-25T22:08:03.966Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "suffering",
-      "pronunciation": "/ˈsʌfərɪŋ/",
+      "word": "evolution",
+      "pronunciation": "/ˌiː.vəˈluː.ʃən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "痛苦; 苦难",
-          "en": "The state of experiencing pain or distress."
+          "zh": "演变，进化",
+          "en": "The process by which living things change over time."
         },
         {
-          "pos": "v.",
-          "zh": "遭受; 经历",
-          "en": "To experience something unpleasant."
+          "pos": "n.",
+          "zh": "发展，进展",
+          "en": "A gradual development or change in something."
         }
       ],
       "examples": [
         {
-          "en": "Many people are suffering from mental health issues today.",
-          "zh": "今天，许多人都在遭受心理健康问题。"
+          "en": "The evolution of technology has changed how we communicate.",
+          "zh": "技术的演变改变了我们的沟通方式。"
         },
         {
-          "en": "She dedicated her life to helping those who are suffering.",
-          "zh": "她把一生奉献给帮助那些受苦的人。"
+          "en": "Darwin's theory explains the evolution of species over millions of years.",
+          "zh": "达尔文的理论解释了物种在数百万年间的演变。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'suffering' as 'suffocating' from pain, connecting the two concepts."
+        "etymology": "The word 'evolution' comes from the Latin 'evolutio', meaning 'unrolling' or 'opening out'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=suffering&type=2",
-      "chapter": "核心词汇 健康话题 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=evolution&type=2",
+      "chapter": "认知词汇 动物分类 动物行为"
     },
     {
-      "word": "extensive",
-      "pronunciation": "/ɪkˈstɛnsɪv/",
+      "word": "unlawful",
+      "pronunciation": "/ˌʌnˈlɔː.fəl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "广泛的",
-          "en": "Covering a large area; having a wide range."
+          "zh": "非法的",
+          "en": "Not allowed by law; illegal."
         },
         {
           "pos": "adj.",
-          "zh": "大量的",
-          "en": "Involving a lot of details or information."
+          "zh": "不正当的",
+          "en": "Not acceptable according to the rules or standards."
         }
       ],
       "examples": [
         {
-          "en": "The university offers an extensive range of courses for students.",
-          "zh": "这所大学为学生提供广泛的课程选择。"
+          "en": "The unlawful activities were reported to the police immediately.",
+          "zh": "这些非法活动立即被报告给了警察。"
         },
         {
-          "en": "She has extensive experience in international business.",
-          "zh": "她在国际商务方面有丰富的经验。"
+          "en": "He faced serious consequences for his unlawful actions.",
+          "zh": "他因非法行为面临严重后果。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'extensive' comes from the Latin root 'extendere', meaning 'to stretch out'."
+        "association": "Think of 'unlawful' as 'not lawful', which emphasizes its illegal nature."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=extensive&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 8"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=unlawful&type=2",
+      "chapter": "核心词汇 民主与权利 Unit 5"
     }
   ]
 }

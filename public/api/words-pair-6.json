@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-24T22:08:22.198Z",
+  "generated": "2025-12-25T22:08:03.965Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "ethical",
-      "pronunciation": "/ˈɛθɪkəl/",
+      "word": "electromagnetic field",
+      "pronunciation": "/ˌiːlɛkˈtrɒmæɡnɛtɪk fiːld/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "伦理的",
-          "en": "Relating to what is right or wrong in behavior."
+          "pos": "n.",
+          "zh": "电磁场",
+          "en": "A region around a magnet or electric current where magnetic and electric forces exist."
         },
         {
-          "pos": "adj.",
-          "zh": "道德的",
-          "en": "Concerned with moral principles and values."
+          "pos": "n.",
+          "zh": "电磁场",
+          "en": "The physical field produced by electrically charged objects that influences other charged objects."
         }
       ],
       "examples": [
         {
-          "en": "Many companies are now adopting more ethical business practices.",
-          "zh": "许多公司现在正在采用更具伦理的商业实践。"
+          "en": "The Earth has its own electromagnetic field that protects us from solar radiation.",
+          "zh": "地球有自己的电磁场，可以保护我们免受太阳辐射的影响。"
         },
         {
-          "en": "It is important to consider the ethical implications of your decisions.",
-          "zh": "考虑你决定的伦理影响是很重要的。"
+          "en": "Scientists study electromagnetic fields to improve communication technology.",
+          "zh": "科学家研究电磁场以改进通信技术。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'ethics' as a guide for right and wrong actions."
+        "association": "Think of 'electromagnetic' as a combination of electricity and magnetism, both of which create fields."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ethical&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 8"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=electromagnetic%20field&type=2",
+      "chapter": "认知词汇 自然分类 地震"
     },
     {
-      "word": "pleuron",
-      "pronunciation": "/ˈplʊərɒn/",
+      "word": "family",
+      "pronunciation": "/ˈfæmɪli/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "侧体",
-          "en": "The side part of an animal's body."
+          "zh": "家庭",
+          "en": "A group of people related by blood or marriage."
         },
         {
           "pos": "n.",
-          "zh": "肋部",
-          "en": "A specific area of a crustacean or insect's exoskeleton."
+          "zh": "家族",
+          "en": "All the descendants of a common ancestor."
         }
       ],
       "examples": [
         {
-          "en": "The pleuron of the crab is important for its movement.",
-          "zh": "蟹的侧体对其运动非常重要。"
+          "en": "My family always gathers for dinner every Sunday evening.",
+          "zh": "我的家人总是在每个星期天晚上聚餐。"
         },
         {
-          "en": "Researchers study the pleuron to understand insect anatomy better.",
-          "zh": "研究人员研究肋部以更好地理解昆虫解剖。"
+          "en": "Family support is essential for overcoming difficult times.",
+          "zh": "家庭的支持对于克服困难时期至关重要。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'pleuron' as the 'plume' or side of a bird, emphasizing its lateral aspect."
+        "association": "Think of family as a 'familiar' group of people you trust."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pleuron&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=family&type=2",
+      "chapter": "核心词汇 工作与生活 Unit 3"
     }
   ]
 }

@@ -1,757 +1,749 @@
 {
-  "generated": "2025-12-24T22:08:22.197Z",
-  "date": "2025-12-24",
+  "generated": "2025-12-25T22:08:03.964Z",
+  "date": "2025-12-25",
   "totalWords": 20,
   "words": [
     {
-      "id": "w02605",
-      "word": "dissolved gas",
+      "id": "w01975",
+      "word": "commercial fishery",
       "type": "phrase",
-      "chapterIndex": 20,
-      "globalIndex": 2605,
+      "chapterIndex": 75,
+      "globalIndex": 1975,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/kəˈmɜːrʃəl ˈfɪʃəri/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "商业渔业",
+          "en": "A type of fishing that is done for profit and sale."
+        },
+        {
+          "pos": "n.",
+          "zh": "商业捕鱼场",
+          "en": "A place where fish are caught and sold for business."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The commercial fishery industry plays a vital role in the economy.",
+          "zh": "商业渔业在经济中扮演着重要角色。"
+        },
+        {
+          "en": "Sustainable practices are essential for the future of commercial fisheries.",
+          "zh": "可持续的做法对商业渔业的未来至关重要。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=commercial%20fishery&type=2"
+    },
+    {
+      "id": "w04559",
+      "word": "enforce control over advertising",
+      "type": "phrase",
+      "chapterIndex": 17,
+      "globalIndex": 4559,
+      "chapter": "ch143",
+      "chapterName": "认知词汇 社会与生活分类 医生与药品推销",
+      "pronunciation": {
+        "us": "/ɪnˈfɔrs kənˈtroʊl ˈoʊvər ˌædərˈtaɪzɪŋ/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "执行，强制",
+          "en": "To make sure rules or laws are followed."
+        },
+        {
+          "pos": "n.",
+          "zh": "控制，管理",
+          "en": "The act of managing or directing something."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Governments need to enforce control over advertising to protect consumers.",
+          "zh": "政府需要对广告进行管理，以保护消费者。"
+        },
+        {
+          "en": "Effective advertising requires enforceable control by regulatory bodies.",
+          "zh": "有效的广告需要监管机构的强制管理。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'enforce' as 'to force' and 'control' as directing something, making it easier to remember their meanings."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=enforce%20control%20over%20advertising&type=2"
+    },
+    {
+      "id": "w02624",
+      "word": "lava dome",
+      "type": "phrase",
+      "chapterIndex": 39,
+      "globalIndex": 2624,
       "chapter": "ch105",
       "chapterName": "认知词汇 自然分类 火山",
       "pronunciation": {
-        "us": "/dɪˈzɒlvd ɡæs/"
+        "us": "/ˈlɑː.və doʊm/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "溶解气体",
-          "en": "A gas that is mixed with a liquid and is not visible."
-        },
-        {
-          "pos": "v.",
-          "zh": "使气体溶解",
-          "en": "To cause a gas to mix into a liquid."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Carbon dioxide is a common dissolved gas in soft drinks.",
-          "zh": "二氧化碳是软饮料中常见的溶解气体。"
-        },
-        {
-          "en": "Fish rely on dissolved gases in water for their survival.",
-          "zh": "鱼类依靠水中的溶解气体生存。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'dissolved gas' as a gas that has 'disappeared' into a liquid, making it hard to see."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dissolved%20gas&type=2"
-    },
-    {
-      "id": "w03944",
-      "word": "bullion",
-      "type": "single",
-      "chapterIndex": 15,
-      "globalIndex": 3944,
-      "chapter": "ch128",
-      "chapterName": "认知词汇 历史分类 钱币发展史",
-      "pronunciation": {
-        "us": "/ˈbʊljən/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "金条",
-          "en": "Bullion refers to gold or silver in bulk form, usually melted into bars."
+          "zh": "熔岩穹丘",
+          "en": "A dome-shaped mountain formed by the slow extrusion of lava."
         },
         {
           "pos": "n.",
-          "zh": "贵金属",
-          "en": "Bullion also means precious metals that are valued for investment."
+          "zh": "熔岩丘",
+          "en": "A raised area on the Earth's surface created by volcanic activity."
         }
       ],
       "examples": [
         {
-          "en": "Investing in bullion can be a secure way to protect wealth.",
-          "zh": "投资金条可以是保护财富的安全方式。"
+          "en": "The lava dome grew significantly after the recent volcanic eruption.",
+          "zh": "在最近的火山爆发后，熔岩穹丘显著增长。"
         },
         {
-          "en": "Countries often hold bullion reserves to stabilize their economies.",
-          "zh": "国家通常持有金条储备以稳定经济。"
+          "en": "Scientists monitor lava domes to predict potential volcanic hazards.",
+          "zh": "科学家监测熔岩穹丘以预测潜在的火山危险。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'bullion' as 'bullion bars' which are large and solid, representing wealth."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=bullion&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=lava%20dome&type=2"
     },
     {
-      "id": "w01538",
-      "word": "impinge",
+      "id": "w02157",
+      "word": "analogous",
       "type": "single",
-      "chapterIndex": 18,
-      "globalIndex": 1538,
-      "chapter": "ch077",
-      "chapterName": "核心词汇 民主与权利 Unit 2",
-      "pronunciation": {
-        "us": "/ɪmˈpɪndʒ/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "影响",
-          "en": "To have an effect on something, especially in a way that limits or restricts."
-        },
-        {
-          "pos": "v.",
-          "zh": "冲突",
-          "en": "To intrude or infringe upon someone’s space or rights."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The new regulations might impinge on local businesses and their operations.",
-          "zh": "新的规定可能会影响当地企业及其运营。"
-        },
-        {
-          "en": "His loud music impinges on my ability to concentrate while studying.",
-          "zh": "他的大声音乐影响了我学习时的专注力。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'impinge' as 'infringe' – both deal with limits and boundaries."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=impinge&type=2"
-    },
-    {
-      "id": "w00939",
-      "word": "endangered",
-      "type": "single",
-      "chapterIndex": 19,
-      "globalIndex": 939,
-      "chapter": "ch047",
-      "chapterName": "核心词汇 环境保护 Unit 2",
-      "pronunciation": {
-        "us": "/ɪnˈdeɪndʒərd/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "濒危的",
-          "en": "In danger of becoming extinct or disappearing."
-        },
-        {
-          "pos": "adj.",
-          "zh": "受到威胁的",
-          "en": "Threatened by human activities or environmental changes."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Many species are endangered due to habitat destruction.",
-          "zh": "许多物种因栖息地破坏而濒危。"
-        },
-        {
-          "en": "Conservation efforts aim to protect endangered animals.",
-          "zh": "保护工作旨在保护濒危动物。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'endangered' as 'in danger'. Both words share the idea of risk."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=endangered&type=2"
-    },
-    {
-      "id": "w00423",
-      "word": "aggravating",
-      "type": "single",
-      "chapterIndex": 3,
-      "globalIndex": 423,
-      "chapter": "ch022",
-      "chapterName": "基本词汇 形容词和副词400 Unit 2",
-      "pronunciation": {
-        "us": "/ˈæɡrəˌveɪtɪŋ/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "令人烦恼的",
-          "en": "Causing annoyance or irritation."
-        },
-        {
-          "pos": "v.",
-          "zh": "加重",
-          "en": "To make a problem or situation worse."
-        }
-      ],
-      "examples": [
-        {
-          "en": "His constant interruptions were aggravating everyone in the meeting.",
-          "zh": "他不断的打断让会议上的每个人都感到烦恼。"
-        },
-        {
-          "en": "The delay in the project is aggravating our clients' concerns.",
-          "zh": "项目的延误加重了客户的担忧。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'aggravating' as 'aggravate' + 'irritating', which both suggest making something worse."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aggravating&type=2"
-    },
-    {
-      "id": "w01982",
-      "word": "epic journey from stream to sea",
-      "type": "phrase",
-      "chapterIndex": 82,
-      "globalIndex": 1982,
+      "chapterIndex": 257,
+      "globalIndex": 2157,
       "chapter": "ch096",
       "chapterName": "认知词汇 动物分类 常考生物",
       "pronunciation": {
-        "us": "/ˈɛpɪk ˈdʒɜrni frʌm strim tu si/"
+        "us": "/əˈnæl.ə.ɡəs/"
       },
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "史诗般的旅程",
-          "en": "A long and adventurous journey that is significant and memorable."
+          "pos": "adj.",
+          "zh": "类似的",
+          "en": "Similar in some way to something else."
+        },
+        {
+          "pos": "adj.",
+          "zh": "可以类比的",
+          "en": "Able to be compared to another thing."
         }
       ],
       "examples": [
         {
-          "en": "The epic journey from stream to sea inspired many great stories.",
-          "zh": "从小溪到大海的史诗般旅程激发了许多伟大的故事。"
+          "en": "The structures of the two languages are analogous in many aspects.",
+          "zh": "这两种语言的结构在许多方面是类似的。"
         },
         {
-          "en": "Explorers often recount their epic journeys from stream to sea.",
-          "zh": "探险者们常常讲述他们从小溪到大海的史诗般旅程。"
+          "en": "Her situation is analogous to that of a famous historical figure.",
+          "zh": "她的情况与一位著名历史人物的情况类似。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a hero's adventure, where they start small by a stream and grow into something grand by reaching the sea."
+        "etymology": "The word 'analogous' comes from the Greek 'analogos,' meaning 'proportionate' or 'according to a ratio.'"
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=epic%20journey%20from%20stream%20to%20sea&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=analogous&type=2"
     },
     {
-      "id": "w00216",
-      "word": "ban",
+      "id": "w01749",
+      "word": "negative",
       "type": "single",
-      "chapterIndex": 16,
-      "globalIndex": 216,
-      "chapter": "ch011",
-      "chapterName": "基本词汇 名词200 Unit 1",
+      "chapterIndex": 9,
+      "globalIndex": 1749,
+      "chapter": "ch088",
+      "chapterName": "核心词汇 法制与犯罪 Unit 3",
       "pronunciation": {
-        "us": "/bæn/"
+        "us": "/ˈnɛɡətɪv/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "消极的",
+          "en": "Describing something that is not hopeful or positive."
+        },
+        {
+          "pos": "n.",
+          "zh": "负面",
+          "en": "A term used to describe an unfavorable or pessimistic view."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She always focuses on the negative aspects of any situation.",
+          "zh": "她总是专注于任何情况的消极方面。"
+        },
+        {
+          "en": "His negative attitude affected the whole team's morale.",
+          "zh": "他的消极态度影响了整个团队的士气。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'negative' as 'no' or 'not', which helps to remember its pessimistic meaning."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=negative&type=2"
+    },
+    {
+      "id": "w02242",
+      "word": "scout bee",
+      "type": "phrase",
+      "chapterIndex": 342,
+      "globalIndex": 2242,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/skaʊt bi/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "侦查蜂",
+          "en": "A bee that searches for food sources and leads others to them."
+        },
+        {
+          "pos": "n.",
+          "zh": "侦察者",
+          "en": "A person or animal that explores an area to gather information."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The scout bee found a new flower patch for the hive.",
+          "zh": "侦查蜂找到了一个新的花丛供蜂巢使用。"
+        },
+        {
+          "en": "Scouts often lead their teams to the best locations.",
+          "zh": "侦察者通常会引导他们的团队到最佳地点。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a 'scout' as someone who explores, similar to how a bee explores for food."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=scout%20bee&type=2"
+    },
+    {
+      "id": "w02118",
+      "word": "circadian rhythm",
+      "type": "phrase",
+      "chapterIndex": 218,
+      "globalIndex": 2118,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/sɜrˈkeɪdiən ˈrɪðəm/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "昼夜节律",
+          "en": "A natural, internal process that regulates the sleep-wake cycle."
+        },
+        {
+          "pos": "n.",
+          "zh": "生物钟",
+          "en": "The biological clock that influences physical and mental functions over a 24-hour period."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Maintaining a regular sleep schedule helps stabilize your circadian rhythm.",
+          "zh": "保持规律的睡眠时间有助于稳定你的昼夜节律。"
+        },
+        {
+          "en": "Disruptions to circadian rhythm can lead to health problems like insomnia.",
+          "zh": "昼夜节律的干扰可能导致失眠等健康问题。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'circa' meaning 'around' in Latin, and 'diem' meaning 'day', to remember it relates to daily cycles."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=circadian%20rhythm&type=2"
+    },
+    {
+      "id": "w02042",
+      "word": "bait",
+      "type": "single",
+      "chapterIndex": 142,
+      "globalIndex": 2042,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/beɪt/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "诱饵",
+          "en": "Bait is something used to attract fish or animals."
+        },
+        {
+          "pos": "v.",
+          "zh": "引诱",
+          "en": "To bait means to entice someone into doing something."
+        }
+      ],
+      "examples": [
+        {
+          "en": "He used worms as bait to catch fish in the lake.",
+          "zh": "他用虫子作为诱饵在湖里钓鱼。"
+        },
+        {
+          "en": "She tried to bait him into an argument by making rude comments.",
+          "zh": "她试图通过做粗鲁的评论来引诱他争论。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=bait&type=2"
+    },
+    {
+      "id": "w01564",
+      "word": "misuse",
+      "type": "single",
+      "chapterIndex": 4,
+      "globalIndex": 1564,
+      "chapter": "ch079",
+      "chapterName": "核心词汇 民主与权利 Unit 4",
+      "pronunciation": {
+        "us": "/ˈmɪsˌjuːs/"
       },
       "meanings": [
         {
           "pos": "v.",
-          "zh": "禁止",
-          "en": "To officially make something not allowed."
+          "zh": "误用",
+          "en": "To use something in the wrong way or for the wrong purpose."
         },
         {
           "pos": "n.",
-          "zh": "禁令",
-          "en": "A rule that says something is not allowed."
+          "zh": "错误使用",
+          "en": "The act of using something improperly or incorrectly."
         }
       ],
       "examples": [
         {
-          "en": "The government decided to ban smoking in public places.",
-          "zh": "政府决定禁止在公共场所吸烟。"
+          "en": "He was accused of misusing company funds for personal expenses.",
+          "zh": "他被指控错误使用公司资金用于个人开支。"
         },
         {
-          "en": "There is a ban on the sale of alcohol to minors.",
-          "zh": "禁止向未成年人销售酒精。"
+          "en": "Misuse of information can lead to serious consequences.",
+          "zh": "错误使用信息可能导致严重后果。"
         }
       ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ban&type=2"
+      "memoryTips": {
+        "association": "Think of 'misuse' as 'miss using' something, indicating the wrong usage."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=misuse&type=2"
     },
     {
-      "id": "w01850",
-      "word": "heroin",
+      "id": "w01584",
+      "word": "sacrifice",
       "type": "single",
-      "chapterIndex": 10,
-      "globalIndex": 1850,
-      "chapter": "ch093",
-      "chapterName": "核心词汇 健康话题 Unit 3",
+      "chapterIndex": 4,
+      "globalIndex": 1584,
+      "chapter": "ch080",
+      "chapterName": "核心词汇 民主与权利 Unit 5",
       "pronunciation": {
-        "us": "/ˈhɛroʊɪn/"
+        "us": "/ˈsækrɪfaɪs/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "牺牲",
+          "en": "To give up something important for a purpose or to help someone."
+        },
+        {
+          "pos": "n.",
+          "zh": "牺牲",
+          "en": "An act of giving up something valuable for the sake of others."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many soldiers sacrifice their lives to protect their country.",
+          "zh": "许多士兵牺牲生命来保护他们的国家。"
+        },
+        {
+          "en": "She made a sacrifice by working long hours for her family.",
+          "zh": "她通过为家庭长时间工作而做出了牺牲。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'sacrifice' comes from the Latin 'sacrificium', where 'sacer' means 'sacred' and 'facere' means 'to make'.",
+        "association": "Think of 'sacrifice' as 'sacred act of giving', linking the idea of giving up something precious."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sacrifice&type=2"
+    },
+    {
+      "id": "w02467",
+      "word": "electromagnetic field",
+      "type": "phrase",
+      "chapterIndex": 20,
+      "globalIndex": 2467,
+      "chapter": "ch102",
+      "chapterName": "认知词汇 自然分类 地震",
+      "pronunciation": {
+        "us": "/ˌiːlɛkˈtrɒmæɡnɛtɪk fiːld/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "海洛因",
-          "en": "A powerful and illegal drug made from morphine."
+          "zh": "电磁场",
+          "en": "A region around a magnet or electric current where magnetic and electric forces exist."
         },
         {
           "pos": "n.",
-          "zh": "女性英雄",
-          "en": "A female hero or a courageous woman."
+          "zh": "电磁场",
+          "en": "The physical field produced by electrically charged objects that influences other charged objects."
         }
       ],
       "examples": [
         {
-          "en": "Many people struggle with heroin addiction and seek help.",
-          "zh": "许多人与海洛因成瘾作斗争，并寻求帮助。"
+          "en": "The Earth has its own electromagnetic field that protects us from solar radiation.",
+          "zh": "地球有自己的电磁场，可以保护我们免受太阳辐射的影响。"
         },
         {
-          "en": "The novel features a heroin who saves her community from danger.",
-          "zh": "这部小说的女主角拯救了她的社区免受危险。"
+          "en": "Scientists study electromagnetic fields to improve communication technology.",
+          "zh": "科学家研究电磁场以改进通信技术。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'hero' in 'heroin' to remember the female hero meaning."
+        "association": "Think of 'electromagnetic' as a combination of electricity and magnetism, both of which create fields."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=heroin&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=electromagnetic%20field&type=2"
     },
     {
-      "id": "w01654",
-      "word": "illiteracy",
+      "id": "w01642",
+      "word": "family",
       "type": "single",
-      "chapterIndex": 14,
-      "globalIndex": 1654,
+      "chapterIndex": 2,
+      "globalIndex": 1642,
       "chapter": "ch083",
       "chapterName": "核心词汇 工作与生活 Unit 3",
       "pronunciation": {
-        "us": "/ɪˈlɪtərəsi/"
+        "us": "/ˈfæmɪli/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "文盲，识字率低",
-          "en": "The state of being unable to read or write."
+          "zh": "家庭",
+          "en": "A group of people related by blood or marriage."
         },
         {
           "pos": "n.",
-          "zh": "缺乏教育，缺乏知识",
-          "en": "A lack of knowledge in a specific area due to insufficient education."
+          "zh": "家族",
+          "en": "All the descendants of a common ancestor."
         }
       ],
       "examples": [
         {
-          "en": "Illiteracy remains a significant challenge in many developing countries.",
-          "zh": "文盲在许多发展中国家仍然是一个重大挑战。"
+          "en": "My family always gathers for dinner every Sunday evening.",
+          "zh": "我的家人总是在每个星期天晚上聚餐。"
         },
         {
-          "en": "Programs to reduce illiteracy can improve community development.",
-          "zh": "减少文盲的项目可以改善社区发展。"
+          "en": "Family support is essential for overcoming difficult times.",
+          "zh": "家庭的支持对于克服困难时期至关重要。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'illiteracy' as 'ill' (sick) literacy; if you are illiterate, your reading skills are sick."
+        "association": "Think of family as a 'familiar' group of people you trust."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=illiteracy&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=family&type=2"
     },
     {
-      "id": "w00516",
-      "word": "disobedient",
-      "type": "single",
-      "chapterIndex": 16,
-      "globalIndex": 516,
-      "chapter": "ch026",
-      "chapterName": "基本词汇 形容词和副词400 Unit 6",
-      "pronunciation": {
-        "us": "/ˌdɪsəˈbiːdiənt/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "不服从的",
-          "en": "Not following rules or instructions."
-        },
-        {
-          "pos": "adj.",
-          "zh": "不听话的",
-          "en": "Refusing to obey authority or a command."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The disobedient child refused to listen to his teacher.",
-          "zh": "那个不听话的孩子拒绝听老师的话。"
-        },
-        {
-          "en": "Her disobedient behavior led to serious consequences at school.",
-          "zh": "她的不服从行为在学校导致了严重的后果。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'disobedient' as someone who 'disobeys' orders, which helps to remember its meaning."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disobedient&type=2"
-    },
-    {
-      "id": "w00549",
-      "word": "ethical",
-      "type": "single",
-      "chapterIndex": 9,
-      "globalIndex": 549,
-      "chapter": "ch028",
-      "chapterName": "基本词汇 形容词和副词400 Unit 8",
-      "pronunciation": {
-        "us": "/ˈɛθɪkəl/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "伦理的",
-          "en": "Relating to what is right or wrong in behavior."
-        },
-        {
-          "pos": "adj.",
-          "zh": "道德的",
-          "en": "Concerned with moral principles and values."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Many companies are now adopting more ethical business practices.",
-          "zh": "许多公司现在正在采用更具伦理的商业实践。"
-        },
-        {
-          "en": "It is important to consider the ethical implications of your decisions.",
-          "zh": "考虑你决定的伦理影响是很重要的。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'ethics' as a guide for right and wrong actions."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ethical&type=2"
-    },
-    {
-      "id": "w02192",
-      "word": "pleuron",
-      "type": "single",
-      "chapterIndex": 292,
-      "globalIndex": 2192,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/ˈplʊərɒn/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "侧体",
-          "en": "The side part of an animal's body."
-        },
-        {
-          "pos": "n.",
-          "zh": "肋部",
-          "en": "A specific area of a crustacean or insect's exoskeleton."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The pleuron of the crab is important for its movement.",
-          "zh": "蟹的侧体对其运动非常重要。"
-        },
-        {
-          "en": "Researchers study the pleuron to understand insect anatomy better.",
-          "zh": "研究人员研究肋部以更好地理解昆虫解剖。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'pleuron' as the 'plume' or side of a bird, emphasizing its lateral aspect."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pleuron&type=2"
-    },
-    {
-      "id": "w01894",
-      "word": "suffering",
-      "type": "single",
-      "chapterIndex": 14,
-      "globalIndex": 1894,
-      "chapter": "ch095",
-      "chapterName": "核心词汇 健康话题 Unit 5",
-      "pronunciation": {
-        "us": "/ˈsʌfərɪŋ/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "痛苦; 苦难",
-          "en": "The state of experiencing pain or distress."
-        },
-        {
-          "pos": "v.",
-          "zh": "遭受; 经历",
-          "en": "To experience something unpleasant."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Many people are suffering from mental health issues today.",
-          "zh": "今天，许多人都在遭受心理健康问题。"
-        },
-        {
-          "en": "She dedicated her life to helping those who are suffering.",
-          "zh": "她把一生奉献给帮助那些受苦的人。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'suffering' as 'suffocating' from pain, connecting the two concepts."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=suffering&type=2"
-    },
-    {
-      "id": "w00560",
-      "word": "extensive",
-      "type": "single",
-      "chapterIndex": 20,
-      "globalIndex": 560,
-      "chapter": "ch028",
-      "chapterName": "基本词汇 形容词和副词400 Unit 8",
-      "pronunciation": {
-        "us": "/ɪkˈstɛnsɪv/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "广泛的",
-          "en": "Covering a large area; having a wide range."
-        },
-        {
-          "pos": "adj.",
-          "zh": "大量的",
-          "en": "Involving a lot of details or information."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The university offers an extensive range of courses for students.",
-          "zh": "这所大学为学生提供广泛的课程选择。"
-        },
-        {
-          "en": "She has extensive experience in international business.",
-          "zh": "她在国际商务方面有丰富的经验。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'extensive' comes from the Latin root 'extendere', meaning 'to stretch out'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=extensive&type=2"
-    },
-    {
-      "id": "w01923",
-      "word": "fossil",
-      "type": "single",
-      "chapterIndex": 23,
-      "globalIndex": 1923,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/ˈfɑː.səl/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "化石",
-          "en": "The remains or impression of a plant or animal from a past geological age."
-        },
-        {
-          "pos": "n.",
-          "zh": "旧事物",
-          "en": "Something that is outdated or no longer relevant in modern times."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The fossil was discovered deep in the mountains by scientists.",
-          "zh": "科学家在山区深处发现了这块化石。"
-        },
-        {
-          "en": "Many fossils help us understand how life evolved on Earth.",
-          "zh": "许多化石帮助我们理解生命是如何在地球上演化的。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'fossil' as 'fossilized history' that tells us about the past."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=fossil&type=2"
-    },
-    {
-      "id": "w02149",
-      "word": "shrub",
-      "type": "single",
-      "chapterIndex": 249,
-      "globalIndex": 2149,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/ʃrʌb/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "灌木",
-          "en": "A shrub is a small to medium-sized plant with woody stems."
-        },
-        {
-          "pos": "n.",
-          "zh": "灌木丛",
-          "en": "A shrub can also refer to a group of these plants growing together."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The garden was filled with colorful shrubs and flowers.",
-          "zh": "花园里满是五彩缤纷的灌木和花朵。"
-        },
-        {
-          "en": "He trimmed the shrubs to keep them looking neat and tidy.",
-          "zh": "他修剪了灌木，使它们看起来整洁有序。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'shrub' as 'shrubbery', which refers to a collection of shrubs."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=shrub&type=2"
-    },
-    {
-      "id": "w00124",
-      "word": "exert",
+      "id": "w02362",
+      "word": "evolution",
       "type": "single",
       "chapterIndex": 4,
-      "globalIndex": 124,
-      "chapter": "ch007",
-      "chapterName": "基本词汇 动词200 Unit 7",
+      "globalIndex": 2362,
+      "chapter": "ch099",
+      "chapterName": "认知词汇 动物分类 动物行为",
       "pronunciation": {
-        "us": "/ɪɡˈzɜrt/"
+        "us": "/ˌiː.vəˈluː.ʃən/"
       },
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "施加（影响）",
-          "en": "To apply or use force, influence, or effort."
+          "pos": "n.",
+          "zh": "演变，进化",
+          "en": "The process by which living things change over time."
         },
         {
-          "pos": "v.",
-          "zh": "努力（做某事）",
-          "en": "To make an effort to achieve something."
+          "pos": "n.",
+          "zh": "发展，进展",
+          "en": "A gradual development or change in something."
         }
       ],
       "examples": [
         {
-          "en": "She will exert her influence to help the project succeed.",
-          "zh": "她将施加她的影响力来帮助项目成功。"
+          "en": "The evolution of technology has changed how we communicate.",
+          "zh": "技术的演变改变了我们的沟通方式。"
         },
         {
-          "en": "He needs to exert more effort in his studies to improve his grades.",
-          "zh": "他需要在学习上付出更多努力，以提高成绩。"
+          "en": "Darwin's theory explains the evolution of species over millions of years.",
+          "zh": "达尔文的理论解释了物种在数百万年间的演变。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'exert' as 'exerting energy' when you push or pull something."
+        "etymology": "The word 'evolution' comes from the Latin 'evolutio', meaning 'unrolling' or 'opening out'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=exert&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=evolution&type=2"
     },
     {
-      "id": "w02100",
-      "word": "sole",
+      "id": "w01594",
+      "word": "unlawful",
       "type": "single",
-      "chapterIndex": 200,
-      "globalIndex": 2100,
+      "chapterIndex": 14,
+      "globalIndex": 1594,
+      "chapter": "ch080",
+      "chapterName": "核心词汇 民主与权利 Unit 5",
+      "pronunciation": {
+        "us": "/ˌʌnˈlɔː.fəl/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "非法的",
+          "en": "Not allowed by law; illegal."
+        },
+        {
+          "pos": "adj.",
+          "zh": "不正当的",
+          "en": "Not acceptable according to the rules or standards."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The unlawful activities were reported to the police immediately.",
+          "zh": "这些非法活动立即被报告给了警察。"
+        },
+        {
+          "en": "He faced serious consequences for his unlawful actions.",
+          "zh": "他因非法行为面临严重后果。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'unlawful' as 'not lawful', which emphasizes its illegal nature."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=unlawful&type=2"
+    },
+    {
+      "id": "w02125",
+      "word": "dormant",
+      "type": "single",
+      "chapterIndex": 225,
+      "globalIndex": 2125,
       "chapter": "ch096",
       "chapterName": "认知词汇 动物分类 常考生物",
       "pronunciation": {
-        "us": "/soʊl/"
+        "us": "/ˈdɔːrmənt/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "唯一的",
-          "en": "The only one; not shared with anyone else."
+          "zh": "休眠的",
+          "en": "In a state of rest or inactivity."
         },
-        {
-          "pos": "n.",
-          "zh": "鞋底",
-          "en": "The bottom part of a shoe that touches the ground."
-        }
-      ],
-      "examples": [
-        {
-          "en": "She is the sole owner of the restaurant in our town.",
-          "zh": "她是我们镇上餐厅的唯一拥有者。"
-        },
-        {
-          "en": "The sole of my shoe has a big hole in it.",
-          "zh": "我鞋子的鞋底上有一个大洞。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'sole' as 'soul'—the sole part of a shoe is like the soul of your walk.",
-        "mnemonic": "Imagine walking on a 'sole' path, reminding you that it's the only way."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sole&type=2"
-    },
-    {
-      "id": "w00525",
-      "word": "domestic",
-      "type": "single",
-      "chapterIndex": 5,
-      "globalIndex": 525,
-      "chapter": "ch027",
-      "chapterName": "基本词汇 形容词和副词400 Unit 7",
-      "pronunciation": {
-        "us": "/dəˈmɛstɪk/"
-      },
-      "meanings": [
         {
           "pos": "adj.",
-          "zh": "国内的",
-          "en": "Related to the home or family."
-        },
-        {
-          "pos": "n.",
-          "zh": "国内事务",
-          "en": "Things that happen within a country, not involving other countries."
+          "zh": "暂时未激活的",
+          "en": "Not active or not developing at the moment."
         }
       ],
       "examples": [
         {
-          "en": "The domestic market is growing rapidly in many countries.",
-          "zh": "许多国家的国内市场正在快速增长。"
+          "en": "The volcano has been dormant for many years without any eruptions.",
+          "zh": "这座火山已经休眠多年，没有任何喷发。"
         },
         {
-          "en": "She prefers domestic travel over international trips.",
-          "zh": "她更喜欢国内旅行而不是国际旅行。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=domestic&type=2"
-    },
-    {
-      "id": "w01514",
-      "word": "condemn",
-      "type": "single",
-      "chapterIndex": 14,
-      "globalIndex": 1514,
-      "chapter": "ch076",
-      "chapterName": "核心词汇 民主与权利 Unit 1",
-      "pronunciation": {
-        "us": "/kənˈdɛm/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "谴责",
-          "en": "To express strong disapproval of something or someone."
-        },
-        {
-          "pos": "v.",
-          "zh": "定罪",
-          "en": "To declare someone guilty of a crime."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The judge decided to condemn the criminal to ten years in prison.",
-          "zh": "法官决定判处罪犯十年监禁。"
-        },
-        {
-          "en": "Many people condemn the use of plastic bags for environmental reasons.",
-          "zh": "许多人因环保原因谴责使用塑料袋。"
+          "en": "Some plants remain dormant during the winter months to survive.",
+          "zh": "一些植物在冬季保持休眠以度过寒冷。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'condemn' as 'con' (against) + 'demn' (from Latin 'damnare' meaning to damn). So, to condemn is to go against something considered wrong."
+        "association": "Think of a 'dorm' where students sleep and rest; similarly, 'dormant' means something is not active but can wake up."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=condemn&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dormant&type=2"
+    },
+    {
+      "id": "w01926",
+      "word": "goanna",
+      "type": "single",
+      "chapterIndex": 26,
+      "globalIndex": 1926,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/ɡəˈnɑː/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "一种大型蜥蜴",
+          "en": "A large lizard native to Australia, known for its long body."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The goanna climbed the tree quickly to escape danger.",
+          "zh": "巨蜥迅速爬上树以躲避危险。"
+        },
+        {
+          "en": "In Australia, many people enjoy watching goannas in the wild.",
+          "zh": "在澳大利亚，许多人喜欢在野外观察巨蜥。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'goanna' as 'going' to see a large lizard in Australia."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=goanna&type=2"
+    },
+    {
+      "id": "w02233",
+      "word": "ovary",
+      "type": "single",
+      "chapterIndex": 333,
+      "globalIndex": 2233,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/ˈoʊ.vər.i/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "卵巢",
+          "en": "The organ in female animals that produces eggs."
+        },
+        {
+          "pos": "n.",
+          "zh": "卵巢的功能",
+          "en": "The part of the reproductive system that helps in reproduction."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The ovary is crucial for producing eggs in female mammals.",
+          "zh": "卵巢对雌性哺乳动物产生卵子至关重要。"
+        },
+        {
+          "en": "Doctors often examine the ovary for any abnormalities.",
+          "zh": "医生通常会检查卵巢是否有任何异常。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'ovary' as related to 'ovum' (egg), both are involved in reproduction."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ovary&type=2"
+    },
+    {
+      "id": "w01682",
+      "word": "sense",
+      "type": "single",
+      "chapterIndex": 2,
+      "globalIndex": 1682,
+      "chapter": "ch085",
+      "chapterName": "核心词汇 工作与生活 Unit 5",
+      "pronunciation": {
+        "us": "/sɛns/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "感觉",
+          "en": "The ability to perceive or feel something through the body."
+        },
+        {
+          "pos": "v.",
+          "zh": "意识到",
+          "en": "To become aware of something through the senses."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She has a strong sense of responsibility towards her family.",
+          "zh": "她对家庭有很强的责任感。"
+        },
+        {
+          "en": "The teacher sensed that the students were confused about the topic.",
+          "zh": "老师意识到学生们对这个主题感到困惑。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'sense' as related to your five senses: sight, hearing, touch, taste, and smell."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sense&type=2"
+    },
+    {
+      "id": "w01558",
+      "word": "liberation",
+      "type": "single",
+      "chapterIndex": 18,
+      "globalIndex": 1558,
+      "chapter": "ch078",
+      "chapterName": "核心词汇 民主与权利 Unit 3",
+      "pronunciation": {
+        "us": "/ˌlɪbəˈreɪʃən/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "解放",
+          "en": "The act of setting someone free from restrictions."
+        },
+        {
+          "pos": "n.",
+          "zh": "自主",
+          "en": "The state of being free and independent."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The liberation of the country was celebrated with great joy.",
+          "zh": "国家的解放得到了热烈的庆祝。"
+        },
+        {
+          "en": "She felt a sense of liberation after leaving her job.",
+          "zh": "她在离开工作后感到一种解放感。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'liberation' comes from the Latin 'liberatio', which means 'to free'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=liberation&type=2"
+    },
+    {
+      "id": "w02411",
+      "word": "navigational ability",
+      "type": "phrase",
+      "chapterIndex": 29,
+      "globalIndex": 2411,
+      "chapter": "ch100",
+      "chapterName": "认知词汇 动物分类 动物智力与语言习得",
+      "pronunciation": {
+        "us": "/ˈnæv.ɪˌɡeɪ.ʃən.əl əˈbɪl.ɪ.ti/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "导航能力",
+          "en": "The skill to find your way or direct others."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Good navigational ability is essential for pilots and sailors.",
+          "zh": "良好的导航能力对飞行员和水手至关重要。"
+        },
+        {
+          "en": "Children often develop navigational ability through outdoor play.",
+          "zh": "孩子们常常通过户外游戏发展导航能力。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a navigator using a map to find their way, emphasizing the importance of direction."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=navigational%20ability&type=2"
     }
   ]
 }

@@ -1,69 +1,67 @@
 {
-  "generated": "2025-12-24T22:08:22.198Z",
+  "generated": "2025-12-25T22:08:03.965Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "impinge",
-      "pronunciation": "/ɪmˈpɪndʒ/",
+      "word": "lava dome",
+      "pronunciation": "/ˈlɑː.və doʊm/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "影响",
-          "en": "To have an effect on something, especially in a way that limits or restricts."
+          "pos": "n.",
+          "zh": "熔岩穹丘",
+          "en": "A dome-shaped mountain formed by the slow extrusion of lava."
         },
         {
-          "pos": "v.",
-          "zh": "冲突",
-          "en": "To intrude or infringe upon someone’s space or rights."
+          "pos": "n.",
+          "zh": "熔岩丘",
+          "en": "A raised area on the Earth's surface created by volcanic activity."
         }
       ],
       "examples": [
         {
-          "en": "The new regulations might impinge on local businesses and their operations.",
-          "zh": "新的规定可能会影响当地企业及其运营。"
+          "en": "The lava dome grew significantly after the recent volcanic eruption.",
+          "zh": "在最近的火山爆发后，熔岩穹丘显著增长。"
         },
         {
-          "en": "His loud music impinges on my ability to concentrate while studying.",
-          "zh": "他的大声音乐影响了我学习时的专注力。"
+          "en": "Scientists monitor lava domes to predict potential volcanic hazards.",
+          "zh": "科学家监测熔岩穹丘以预测潜在的火山危险。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'impinge' as 'infringe' – both deal with limits and boundaries."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=impinge&type=2",
-      "chapter": "核心词汇 民主与权利 Unit 2"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=lava%20dome&type=2",
+      "chapter": "认知词汇 自然分类 火山"
     },
     {
-      "word": "endangered",
-      "pronunciation": "/ɪnˈdeɪndʒərd/",
+      "word": "analogous",
+      "pronunciation": "/əˈnæl.ə.ɡəs/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "濒危的",
-          "en": "In danger of becoming extinct or disappearing."
+          "zh": "类似的",
+          "en": "Similar in some way to something else."
         },
         {
           "pos": "adj.",
-          "zh": "受到威胁的",
-          "en": "Threatened by human activities or environmental changes."
+          "zh": "可以类比的",
+          "en": "Able to be compared to another thing."
         }
       ],
       "examples": [
         {
-          "en": "Many species are endangered due to habitat destruction.",
-          "zh": "许多物种因栖息地破坏而濒危。"
+          "en": "The structures of the two languages are analogous in many aspects.",
+          "zh": "这两种语言的结构在许多方面是类似的。"
         },
         {
-          "en": "Conservation efforts aim to protect endangered animals.",
-          "zh": "保护工作旨在保护濒危动物。"
+          "en": "Her situation is analogous to that of a famous historical figure.",
+          "zh": "她的情况与一位著名历史人物的情况类似。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'endangered' as 'in danger'. Both words share the idea of risk."
+        "etymology": "The word 'analogous' comes from the Greek 'analogos,' meaning 'proportionate' or 'according to a ratio.'"
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=endangered&type=2",
-      "chapter": "核心词汇 环境保护 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=analogous&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

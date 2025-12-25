@@ -1,68 +1,66 @@
 {
-  "generated": "2025-12-24T22:08:22.198Z",
+  "generated": "2025-12-25T22:08:03.965Z",
   "count": 2,
   "words": [
     {
-      "word": "dissolved gas",
-      "pronunciation": "/dɪˈzɒlvd ɡæs/",
+      "word": "commercial fishery",
+      "pronunciation": "/kəˈmɜːrʃəl ˈfɪʃəri/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "溶解气体",
-          "en": "A gas that is mixed with a liquid and is not visible."
+          "zh": "商业渔业",
+          "en": "A type of fishing that is done for profit and sale."
         },
         {
-          "pos": "v.",
-          "zh": "使气体溶解",
-          "en": "To cause a gas to mix into a liquid."
+          "pos": "n.",
+          "zh": "商业捕鱼场",
+          "en": "A place where fish are caught and sold for business."
         }
       ],
       "examples": [
         {
-          "en": "Carbon dioxide is a common dissolved gas in soft drinks.",
-          "zh": "二氧化碳是软饮料中常见的溶解气体。"
+          "en": "The commercial fishery industry plays a vital role in the economy.",
+          "zh": "商业渔业在经济中扮演着重要角色。"
         },
         {
-          "en": "Fish rely on dissolved gases in water for their survival.",
-          "zh": "鱼类依靠水中的溶解气体生存。"
+          "en": "Sustainable practices are essential for the future of commercial fisheries.",
+          "zh": "可持续的做法对商业渔业的未来至关重要。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'dissolved gas' as a gas that has 'disappeared' into a liquid, making it hard to see."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dissolved%20gas&type=2",
-      "chapter": "认知词汇 自然分类 火山"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=commercial%20fishery&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "bullion",
-      "pronunciation": "/ˈbʊljən/",
+      "word": "enforce control over advertising",
+      "pronunciation": "/ɪnˈfɔrs kənˈtroʊl ˈoʊvər ˌædərˈtaɪzɪŋ/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "金条",
-          "en": "Bullion refers to gold or silver in bulk form, usually melted into bars."
+          "pos": "v.",
+          "zh": "执行，强制",
+          "en": "To make sure rules or laws are followed."
         },
         {
           "pos": "n.",
-          "zh": "贵金属",
-          "en": "Bullion also means precious metals that are valued for investment."
+          "zh": "控制，管理",
+          "en": "The act of managing or directing something."
         }
       ],
       "examples": [
         {
-          "en": "Investing in bullion can be a secure way to protect wealth.",
-          "zh": "投资金条可以是保护财富的安全方式。"
+          "en": "Governments need to enforce control over advertising to protect consumers.",
+          "zh": "政府需要对广告进行管理，以保护消费者。"
         },
         {
-          "en": "Countries often hold bullion reserves to stabilize their economies.",
-          "zh": "国家通常持有金条储备以稳定经济。"
+          "en": "Effective advertising requires enforceable control by regulatory bodies.",
+          "zh": "有效的广告需要监管机构的强制管理。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'bullion' as 'bullion bars' which are large and solid, representing wealth."
+        "association": "Think of 'enforce' as 'to force' and 'control' as directing something, making it easier to remember their meanings."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=bullion&type=2",
-      "chapter": "认知词汇 历史分类 钱币发展史"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=enforce%20control%20over%20advertising&type=2",
+      "chapter": "认知词汇 社会与生活分类 医生与药品推销"
     }
   ]
 }

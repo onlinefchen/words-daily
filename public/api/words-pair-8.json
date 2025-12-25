@@ -1,68 +1,63 @@
 {
-  "generated": "2025-12-24T22:08:22.199Z",
+  "generated": "2025-12-25T22:08:03.966Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "fossil",
-      "pronunciation": "/ˈfɑː.səl/",
+      "word": "dormant",
+      "pronunciation": "/ˈdɔːrmənt/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "化石",
-          "en": "The remains or impression of a plant or animal from a past geological age."
+          "pos": "adj.",
+          "zh": "休眠的",
+          "en": "In a state of rest or inactivity."
         },
         {
-          "pos": "n.",
-          "zh": "旧事物",
-          "en": "Something that is outdated or no longer relevant in modern times."
+          "pos": "adj.",
+          "zh": "暂时未激活的",
+          "en": "Not active or not developing at the moment."
         }
       ],
       "examples": [
         {
-          "en": "The fossil was discovered deep in the mountains by scientists.",
-          "zh": "科学家在山区深处发现了这块化石。"
+          "en": "The volcano has been dormant for many years without any eruptions.",
+          "zh": "这座火山已经休眠多年，没有任何喷发。"
         },
         {
-          "en": "Many fossils help us understand how life evolved on Earth.",
-          "zh": "许多化石帮助我们理解生命是如何在地球上演化的。"
+          "en": "Some plants remain dormant during the winter months to survive.",
+          "zh": "一些植物在冬季保持休眠以度过寒冷。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'fossil' as 'fossilized history' that tells us about the past."
+        "association": "Think of a 'dorm' where students sleep and rest; similarly, 'dormant' means something is not active but can wake up."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=fossil&type=2",
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dormant&type=2",
       "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "shrub",
-      "pronunciation": "/ʃrʌb/",
+      "word": "goanna",
+      "pronunciation": "/ɡəˈnɑː/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "灌木",
-          "en": "A shrub is a small to medium-sized plant with woody stems."
-        },
-        {
-          "pos": "n.",
-          "zh": "灌木丛",
-          "en": "A shrub can also refer to a group of these plants growing together."
+          "zh": "一种大型蜥蜴",
+          "en": "A large lizard native to Australia, known for its long body."
         }
       ],
       "examples": [
         {
-          "en": "The garden was filled with colorful shrubs and flowers.",
-          "zh": "花园里满是五彩缤纷的灌木和花朵。"
+          "en": "The goanna climbed the tree quickly to escape danger.",
+          "zh": "巨蜥迅速爬上树以躲避危险。"
         },
         {
-          "en": "He trimmed the shrubs to keep them looking neat and tidy.",
-          "zh": "他修剪了灌木，使它们看起来整洁有序。"
+          "en": "In Australia, many people enjoy watching goannas in the wild.",
+          "zh": "在澳大利亚，许多人喜欢在野外观察巨蜥。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'shrub' as 'shrubbery', which refers to a collection of shrubs."
+        "association": "Think of 'goanna' as 'going' to see a large lizard in Australia."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=shrub&type=2",
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=goanna&type=2",
       "chapter": "认知词汇 动物分类 常考生物"
     }
   ]

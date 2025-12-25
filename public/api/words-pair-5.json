@@ -1,69 +1,70 @@
 {
-  "generated": "2025-12-24T22:08:22.198Z",
+  "generated": "2025-12-25T22:08:03.965Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "illiteracy",
-      "pronunciation": "/ɪˈlɪtərəsi/",
+      "word": "misuse",
+      "pronunciation": "/ˈmɪsˌjuːs/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "文盲，识字率低",
-          "en": "The state of being unable to read or write."
+          "pos": "v.",
+          "zh": "误用",
+          "en": "To use something in the wrong way or for the wrong purpose."
         },
         {
           "pos": "n.",
-          "zh": "缺乏教育，缺乏知识",
-          "en": "A lack of knowledge in a specific area due to insufficient education."
+          "zh": "错误使用",
+          "en": "The act of using something improperly or incorrectly."
         }
       ],
       "examples": [
         {
-          "en": "Illiteracy remains a significant challenge in many developing countries.",
-          "zh": "文盲在许多发展中国家仍然是一个重大挑战。"
+          "en": "He was accused of misusing company funds for personal expenses.",
+          "zh": "他被指控错误使用公司资金用于个人开支。"
         },
         {
-          "en": "Programs to reduce illiteracy can improve community development.",
-          "zh": "减少文盲的项目可以改善社区发展。"
+          "en": "Misuse of information can lead to serious consequences.",
+          "zh": "错误使用信息可能导致严重后果。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'illiteracy' as 'ill' (sick) literacy; if you are illiterate, your reading skills are sick."
+        "association": "Think of 'misuse' as 'miss using' something, indicating the wrong usage."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=illiteracy&type=2",
-      "chapter": "核心词汇 工作与生活 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=misuse&type=2",
+      "chapter": "核心词汇 民主与权利 Unit 4"
     },
     {
-      "word": "disobedient",
-      "pronunciation": "/ˌdɪsəˈbiːdiənt/",
+      "word": "sacrifice",
+      "pronunciation": "/ˈsækrɪfaɪs/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "不服从的",
-          "en": "Not following rules or instructions."
+          "pos": "v.",
+          "zh": "牺牲",
+          "en": "To give up something important for a purpose or to help someone."
         },
         {
-          "pos": "adj.",
-          "zh": "不听话的",
-          "en": "Refusing to obey authority or a command."
+          "pos": "n.",
+          "zh": "牺牲",
+          "en": "An act of giving up something valuable for the sake of others."
         }
       ],
       "examples": [
         {
-          "en": "The disobedient child refused to listen to his teacher.",
-          "zh": "那个不听话的孩子拒绝听老师的话。"
+          "en": "Many soldiers sacrifice their lives to protect their country.",
+          "zh": "许多士兵牺牲生命来保护他们的国家。"
         },
         {
-          "en": "Her disobedient behavior led to serious consequences at school.",
-          "zh": "她的不服从行为在学校导致了严重的后果。"
+          "en": "She made a sacrifice by working long hours for her family.",
+          "zh": "她通过为家庭长时间工作而做出了牺牲。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'disobedient' as someone who 'disobeys' orders, which helps to remember its meaning."
+        "etymology": "The word 'sacrifice' comes from the Latin 'sacrificium', where 'sacer' means 'sacred' and 'facere' means 'to make'.",
+        "association": "Think of 'sacrifice' as 'sacred act of giving', linking the idea of giving up something precious."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disobedient&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 6"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sacrifice&type=2",
+      "chapter": "核心词汇 民主与权利 Unit 5"
     }
   ]
 }
