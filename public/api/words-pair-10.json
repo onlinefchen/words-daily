@@ -1,64 +1,70 @@
 {
-  "generated": "2025-12-25T22:08:03.966Z",
+  "generated": "2025-12-26T22:08:13.922Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "liberation",
-      "pronunciation": "/ˌlɪbəˈreɪʃən/",
+      "word": "discontented",
+      "pronunciation": "/ˌdɪs.kənˈtɛn.tɪd/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "解放",
-          "en": "The act of setting someone free from restrictions."
+          "pos": "adj.",
+          "zh": "不满的， dissatisfied",
+          "en": "Feeling unhappy or dissatisfied with the current situation."
         },
         {
           "pos": "n.",
-          "zh": "自主",
-          "en": "The state of being free and independent."
+          "zh": "不满， dissatisfaction",
+          "en": "A feeling of unhappiness or dissatisfaction."
         }
       ],
       "examples": [
         {
-          "en": "The liberation of the country was celebrated with great joy.",
-          "zh": "国家的解放得到了热烈的庆祝。"
+          "en": "Many employees are discontented with their working conditions.",
+          "zh": "许多员工对他们的工作条件感到不满。"
         },
         {
-          "en": "She felt a sense of liberation after leaving her job.",
-          "zh": "她在离开工作后感到一种解放感。"
+          "en": "The citizens expressed their discontented views during the meeting.",
+          "zh": "市民在会议上表达了他们的不满意见。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'liberation' comes from the Latin 'liberatio', which means 'to free'."
+        "etymology": "The word 'discontented' comes from the prefix 'dis-' meaning 'not' and 'contented' which means 'satisfied'.",
+        "association": "Think of 'discontented' as 'not content', which helps remember its meaning of dissatisfaction."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=liberation&type=2",
-      "chapter": "核心词汇 民主与权利 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=discontented&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 6"
     },
     {
-      "word": "navigational ability",
-      "pronunciation": "/ˈnæv.ɪˌɡeɪ.ʃən.əl əˈbɪl.ɪ.ti/",
+      "word": "vision",
+      "pronunciation": "/ˈvɪʒ.ən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "导航能力",
-          "en": "The skill to find your way or direct others."
+          "zh": "视力；愿景",
+          "en": "The ability to see or a plan for the future."
+        },
+        {
+          "pos": "v.",
+          "zh": "想象；设想",
+          "en": "To imagine or conceive something in the mind."
         }
       ],
       "examples": [
         {
-          "en": "Good navigational ability is essential for pilots and sailors.",
-          "zh": "良好的导航能力对飞行员和水手至关重要。"
+          "en": "Her vision for the project inspired everyone on the team.",
+          "zh": "她对项目的愿景激励了团队中的每一个人。"
         },
         {
-          "en": "Children often develop navigational ability through outdoor play.",
-          "zh": "孩子们常常通过户外游戏发展导航能力。"
+          "en": "He has a clear vision of what he wants to achieve in life.",
+          "zh": "他对自己想要在生活中实现的目标有清晰的愿景。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a navigator using a map to find their way, emphasizing the importance of direction."
+        "etymology": "The word 'vision' comes from the Latin 'visio', meaning 'sight' or 'to see'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=navigational%20ability&type=2",
-      "chapter": "认知词汇 动物分类 动物智力与语言习得"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vision&type=2",
+      "chapter": "基本词汇 名词200 Unit 10"
     }
   ]
 }

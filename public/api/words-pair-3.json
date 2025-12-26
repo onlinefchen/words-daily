@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-25T22:08:03.965Z",
+  "generated": "2025-12-26T22:08:13.922Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "negative",
-      "pronunciation": "/ˈnɛɡətɪv/",
+      "word": "heredity",
+      "pronunciation": "/həˈrɛdəti/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "消极的",
-          "en": "Describing something that is not hopeful or positive."
+          "pos": "n.",
+          "zh": "遗传",
+          "en": "The passing of traits from parents to their children."
         },
         {
           "pos": "n.",
-          "zh": "负面",
-          "en": "A term used to describe an unfavorable or pessimistic view."
+          "zh": "遗传特征",
+          "en": "The characteristics that are inherited from one's ancestors."
         }
       ],
       "examples": [
         {
-          "en": "She always focuses on the negative aspects of any situation.",
-          "zh": "她总是专注于任何情况的消极方面。"
+          "en": "Heredity plays a significant role in determining physical traits.",
+          "zh": "遗传在决定身体特征中起着重要作用。"
         },
         {
-          "en": "His negative attitude affected the whole team's morale.",
-          "zh": "他的消极态度影响了整个团队的士气。"
+          "en": "Many diseases can be linked to heredity and genetic factors.",
+          "zh": "许多疾病可以与遗传和遗传因素相关联。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'negative' as 'no' or 'not', which helps to remember its pessimistic meaning."
+        "etymology": "The word 'heredity' comes from the Latin 'hereditas', meaning 'inheritance'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=negative&type=2",
-      "chapter": "核心词汇 法制与犯罪 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=heredity&type=2",
+      "chapter": "核心词汇 健康话题 Unit 3"
     },
     {
-      "word": "scout bee",
-      "pronunciation": "/skaʊt bi/",
+      "word": "infection",
+      "pronunciation": "/ɪnˈfɛkʃən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "侦查蜂",
-          "en": "A bee that searches for food sources and leads others to them."
+          "zh": "感染",
+          "en": "The invasion of the body by harmful organisms that cause illness."
         },
         {
           "pos": "n.",
-          "zh": "侦察者",
-          "en": "A person or animal that explores an area to gather information."
+          "zh": "传染病",
+          "en": "A disease that can be spread from one person to another."
         }
       ],
       "examples": [
         {
-          "en": "The scout bee found a new flower patch for the hive.",
-          "zh": "侦查蜂找到了一个新的花丛供蜂巢使用。"
+          "en": "He contracted a serious infection after the surgery.",
+          "zh": "他在手术后感染了严重的感染。"
         },
         {
-          "en": "Scouts often lead their teams to the best locations.",
-          "zh": "侦察者通常会引导他们的团队到最佳地点。"
+          "en": "Vaccination helps prevent the spread of infectious diseases.",
+          "zh": "疫苗接种有助于防止传染病的传播。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'scout' as someone who explores, similar to how a bee explores for food."
+        "etymology": "The word 'infection' comes from the Latin 'infectio', meaning 'to taint or dye'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=scout%20bee&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=infection&type=2",
+      "chapter": "核心词汇 健康话题 Unit 3"
     }
   ]
 }

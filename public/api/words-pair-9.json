@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-25T22:08:03.966Z",
+  "generated": "2025-12-26T22:08:13.922Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "ovary",
-      "pronunciation": "/ˈoʊ.vər.i/",
+      "word": "rainfall",
+      "pronunciation": "/ˈreɪnˌfɔl/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "卵巢",
-          "en": "The organ in female animals that produces eggs."
+          "zh": "降雨量",
+          "en": "The amount of rain that falls in a specific area."
         },
         {
           "pos": "n.",
-          "zh": "卵巢的功能",
-          "en": "The part of the reproductive system that helps in reproduction."
+          "zh": "降雨",
+          "en": "The act of rain falling from the sky."
         }
       ],
       "examples": [
         {
-          "en": "The ovary is crucial for producing eggs in female mammals.",
-          "zh": "卵巢对雌性哺乳动物产生卵子至关重要。"
+          "en": "Heavy rainfall can lead to flooding in low-lying areas.",
+          "zh": "大雨可能导致低洼地区洪水泛滥。"
         },
         {
-          "en": "Doctors often examine the ovary for any abnormalities.",
-          "zh": "医生通常会检查卵巢是否有任何异常。"
+          "en": "The rainfall this year is higher than the average for the region.",
+          "zh": "今年的降雨量高于该地区的平均水平。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'ovary' as related to 'ovum' (egg), both are involved in reproduction."
+        "association": "Think of 'rain' falling from the sky and 'fall' as it descends."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ovary&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=rainfall&type=2",
+      "chapter": "核心词汇 环境保护 Unit 4"
     },
     {
-      "word": "sense",
-      "pronunciation": "/sɛns/",
+      "word": "lack",
+      "pronunciation": "/læk/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "感觉",
-          "en": "The ability to perceive or feel something through the body."
+          "pos": "v.",
+          "zh": "缺乏",
+          "en": "To not have enough of something."
         },
         {
-          "pos": "v.",
-          "zh": "意识到",
-          "en": "To become aware of something through the senses."
+          "pos": "n.",
+          "zh": "缺乏",
+          "en": "The state of not having enough of something."
         }
       ],
       "examples": [
         {
-          "en": "She has a strong sense of responsibility towards her family.",
-          "zh": "她对家庭有很强的责任感。"
+          "en": "Many children suffer from a lack of proper nutrition.",
+          "zh": "许多孩子缺乏适当的营养。"
         },
         {
-          "en": "The teacher sensed that the students were confused about the topic.",
-          "zh": "老师意识到学生们对这个主题感到困惑。"
+          "en": "The project failed due to a lack of funding and support.",
+          "zh": "该项目由于缺乏资金和支持而失败。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'sense' as related to your five senses: sight, hearing, touch, taste, and smell."
+        "association": "Think of 'lack' as 'lacking' something important in your life."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sense&type=2",
-      "chapter": "核心词汇 工作与生活 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=lack&type=2",
+      "chapter": "基本词汇 名词200 Unit 6"
     }
   ]
 }

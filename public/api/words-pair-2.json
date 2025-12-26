@@ -1,66 +1,66 @@
 {
-  "generated": "2025-12-25T22:08:03.965Z",
+  "generated": "2025-12-26T22:08:13.922Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "lava dome",
-      "pronunciation": "/ˈlɑː.və doʊm/",
+      "word": "timid",
+      "pronunciation": "/ˈtɪmɪd/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "熔岩穹丘",
-          "en": "A dome-shaped mountain formed by the slow extrusion of lava."
+          "pos": "adj.",
+          "zh": "胆怯的",
+          "en": "Feeling shy or lacking confidence."
         },
         {
-          "pos": "n.",
-          "zh": "熔岩丘",
-          "en": "A raised area on the Earth's surface created by volcanic activity."
+          "pos": "adj.",
+          "zh": "胆小的",
+          "en": "Easily frightened or not brave."
         }
       ],
       "examples": [
         {
-          "en": "The lava dome grew significantly after the recent volcanic eruption.",
-          "zh": "在最近的火山爆发后，熔岩穹丘显著增长。"
+          "en": "The timid child hesitated to speak in front of the class.",
+          "zh": "那个胆怯的孩子在班上犹豫着不敢发言。"
         },
         {
-          "en": "Scientists monitor lava domes to predict potential volcanic hazards.",
-          "zh": "科学家监测熔岩穹丘以预测潜在的火山危险。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=lava%20dome&type=2",
-      "chapter": "认知词汇 自然分类 火山"
-    },
-    {
-      "word": "analogous",
-      "pronunciation": "/əˈnæl.ə.ɡəs/",
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "类似的",
-          "en": "Similar in some way to something else."
-        },
-        {
-          "pos": "adj.",
-          "zh": "可以类比的",
-          "en": "Able to be compared to another thing."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The structures of the two languages are analogous in many aspects.",
-          "zh": "这两种语言的结构在许多方面是类似的。"
-        },
-        {
-          "en": "Her situation is analogous to that of a famous historical figure.",
-          "zh": "她的情况与一位著名历史人物的情况类似。"
+          "en": "She gave a timid smile when she met new people.",
+          "zh": "她见到新朋友时露出了一个胆怯的微笑。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'analogous' comes from the Greek 'analogos,' meaning 'proportionate' or 'according to a ratio.'"
+        "association": "Think of a timid mouse hiding away, too scared to come out."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=analogous&type=2",
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=timid&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 18"
+    },
+    {
+      "word": "commercial fishery",
+      "pronunciation": "/kəˈmɜːrʃəl ˈfɪʃəri/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "商业渔业",
+          "en": "A type of fishing that is done for profit and sale."
+        },
+        {
+          "pos": "n.",
+          "zh": "商业捕鱼场",
+          "en": "A place where fish are caught and sold for business."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The commercial fishery industry plays a vital role in the economy.",
+          "zh": "商业渔业在经济中扮演着重要角色。"
+        },
+        {
+          "en": "Sustainable practices are essential for the future of commercial fisheries.",
+          "zh": "可持续的做法对商业渔业的未来至关重要。"
+        }
+      ],
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=commercial%20fishery&type=2",
       "chapter": "认知词汇 动物分类 常考生物"
     }
   ]

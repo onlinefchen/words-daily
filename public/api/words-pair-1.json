@@ -1,67 +1,69 @@
 {
-  "generated": "2025-12-25T22:08:03.965Z",
+  "generated": "2025-12-26T22:08:13.921Z",
   "pair": 1,
   "count": 2,
   "words": [
     {
-      "word": "commercial fishery",
-      "pronunciation": "/kəˈmɜːrʃəl ˈfɪʃəri/",
+      "word": "glacier",
+      "pronunciation": "/ˈɡleɪʃər/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "商业渔业",
-          "en": "A type of fishing that is done for profit and sale."
+          "zh": "冰川",
+          "en": "A large, slow-moving mass of ice that forms from compacted snow."
         },
         {
           "pos": "n.",
-          "zh": "商业捕鱼场",
-          "en": "A place where fish are caught and sold for business."
+          "zh": "冰川",
+          "en": "A persistent body of dense ice that covers the land and moves under its own weight."
         }
       ],
       "examples": [
         {
-          "en": "The commercial fishery industry plays a vital role in the economy.",
-          "zh": "商业渔业在经济中扮演着重要角色。"
+          "en": "The glacier slowly melted due to rising global temperatures.",
+          "zh": "由于全球气温上升，冰川缓慢融化。"
         },
         {
-          "en": "Sustainable practices are essential for the future of commercial fisheries.",
-          "zh": "可持续的做法对商业渔业的未来至关重要。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=commercial%20fishery&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
-    },
-    {
-      "word": "enforce control over advertising",
-      "pronunciation": "/ɪnˈfɔrs kənˈtroʊl ˈoʊvər ˌædərˈtaɪzɪŋ/",
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "执行，强制",
-          "en": "To make sure rules or laws are followed."
-        },
-        {
-          "pos": "n.",
-          "zh": "控制，管理",
-          "en": "The act of managing or directing something."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Governments need to enforce control over advertising to protect consumers.",
-          "zh": "政府需要对广告进行管理，以保护消费者。"
-        },
-        {
-          "en": "Effective advertising requires enforceable control by regulatory bodies.",
-          "zh": "有效的广告需要监管机构的强制管理。"
+          "en": "Scientists study glaciers to understand climate change better.",
+          "zh": "科学家研究冰川以更好地了解气候变化。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'enforce' as 'to force' and 'control' as directing something, making it easier to remember their meanings."
+        "association": "Think of 'glacier' as 'glassy' ice moving slowly down a mountain."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=enforce%20control%20over%20advertising&type=2",
-      "chapter": "认知词汇 社会与生活分类 医生与药品推销"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=glacier&type=2",
+      "chapter": "认知词汇 自然分类 \"厄尔尼诺\"现象"
+    },
+    {
+      "word": "forest clearing",
+      "pronunciation": "/ˈfɔːrɪst ˈklɪərɪŋ/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "森林空地",
+          "en": "An open area in a forest where there are no trees."
+        },
+        {
+          "pos": "n.",
+          "zh": "森林开垦",
+          "en": "The act of clearing trees from a part of a forest."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The deer grazed peacefully in the forest clearing.",
+          "zh": "鹿在森林空地上安静地吃草。"
+        },
+        {
+          "en": "The forest clearing was perfect for our picnic.",
+          "zh": "森林空地非常适合我们的野餐。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a 'clear' space in a 'forest' where you can see the sky."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=forest%20clearing&type=2",
+      "chapter": "认知词汇 自然分类 热带雨林"
     }
   ]
 }

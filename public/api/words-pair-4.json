@@ -1,67 +1,69 @@
 {
-  "generated": "2025-12-25T22:08:03.965Z",
+  "generated": "2025-12-26T22:08:13.922Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "circadian rhythm",
-      "pronunciation": "/sɜrˈkeɪdiən ˈrɪðəm/",
+      "word": "demonstrate",
+      "pronunciation": "/ˈdɛmənˌstreɪt/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "昼夜节律",
-          "en": "A natural, internal process that regulates the sleep-wake cycle."
-        },
-        {
-          "pos": "n.",
-          "zh": "生物钟",
-          "en": "The biological clock that influences physical and mental functions over a 24-hour period."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Maintaining a regular sleep schedule helps stabilize your circadian rhythm.",
-          "zh": "保持规律的睡眠时间有助于稳定你的昼夜节律。"
-        },
-        {
-          "en": "Disruptions to circadian rhythm can lead to health problems like insomnia.",
-          "zh": "昼夜节律的干扰可能导致失眠等健康问题。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'circa' meaning 'around' in Latin, and 'diem' meaning 'day', to remember it relates to daily cycles."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=circadian%20rhythm&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
-    },
-    {
-      "word": "bait",
-      "pronunciation": "/beɪt/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "诱饵",
-          "en": "Bait is something used to attract fish or animals."
+          "pos": "v.",
+          "zh": "展示",
+          "en": "To show clearly or prove something."
         },
         {
           "pos": "v.",
-          "zh": "引诱",
-          "en": "To bait means to entice someone into doing something."
+          "zh": "演示",
+          "en": "To explain how something works by showing it."
         }
       ],
       "examples": [
         {
-          "en": "He used worms as bait to catch fish in the lake.",
-          "zh": "他用虫子作为诱饵在湖里钓鱼。"
+          "en": "The teacher will demonstrate the experiment to the class.",
+          "zh": "老师将向班级展示这个实验。"
         },
         {
-          "en": "She tried to bait him into an argument by making rude comments.",
-          "zh": "她试图通过做粗鲁的评论来引诱他争论。"
+          "en": "The results clearly demonstrate the effectiveness of the new method.",
+          "zh": "结果清楚地展示了新方法的有效性。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=bait&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "memoryTips": {
+        "association": "Think of 'demonstrate' as 'demo' + 'strate', where 'demo' is a common way to show or explain."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=demonstrate&type=2",
+      "chapter": "基本词汇 动词200 Unit 5"
+    },
+    {
+      "word": "warning",
+      "pronunciation": "/ˈwɔrnɪŋ/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "警告",
+          "en": "A statement that something bad may happen."
+        },
+        {
+          "pos": "v.",
+          "zh": "警告",
+          "en": "To tell someone that something bad might happen."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The warning about the storm was announced on the radio.",
+          "zh": "关于风暴的警告在广播中宣布。"
+        },
+        {
+          "en": "She gave him a warning before he made a big mistake.",
+          "zh": "在他犯大错之前，她给了他一个警告。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a 'warning' sign that alerts you to danger, like a stop sign."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=warning&type=2",
+      "chapter": "基本词汇 名词200 Unit 10"
     }
   ]
 }

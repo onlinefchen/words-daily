@@ -1,70 +1,69 @@
 {
-  "generated": "2025-12-25T22:08:03.965Z",
+  "generated": "2025-12-26T22:08:13.922Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "misuse",
-      "pronunciation": "/ˈmɪsˌjuːs/",
+      "word": "desirable",
+      "pronunciation": "/dɪˈzaɪərəbəl/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "误用",
-          "en": "To use something in the wrong way or for the wrong purpose."
+          "pos": "adj.",
+          "zh": "令人向往的",
+          "en": "Something that is wanted or wished for."
         },
         {
-          "pos": "n.",
-          "zh": "错误使用",
-          "en": "The act of using something improperly or incorrectly."
+          "pos": "adj.",
+          "zh": "值得拥有的",
+          "en": "Something that is attractive or appealing."
         }
       ],
       "examples": [
         {
-          "en": "He was accused of misusing company funds for personal expenses.",
-          "zh": "他被指控错误使用公司资金用于个人开支。"
+          "en": "A desirable job often offers great benefits and opportunities.",
+          "zh": "一个理想的工作通常提供很好的福利和机会。"
         },
         {
-          "en": "Misuse of information can lead to serious consequences.",
-          "zh": "错误使用信息可能导致严重后果。"
+          "en": "Living in a safe neighborhood is considered very desirable.",
+          "zh": "居住在安全的社区被认为是非常理想的。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'misuse' as 'miss using' something, indicating the wrong usage."
+        "association": "Think of 'desire' in 'desirable', as it relates to wanting something."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=misuse&type=2",
-      "chapter": "核心词汇 民主与权利 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=desirable&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 5"
     },
     {
-      "word": "sacrifice",
-      "pronunciation": "/ˈsækrɪfaɪs/",
+      "word": "strain",
+      "pronunciation": "/streɪn/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "牺牲",
-          "en": "To give up something important for a purpose or to help someone."
+          "zh": "使紧绷",
+          "en": "To make something tight or tense."
         },
         {
           "pos": "n.",
-          "zh": "牺牲",
-          "en": "An act of giving up something valuable for the sake of others."
+          "zh": "压力",
+          "en": "A feeling of worry or pressure."
         }
       ],
       "examples": [
         {
-          "en": "Many soldiers sacrifice their lives to protect their country.",
-          "zh": "许多士兵牺牲生命来保护他们的国家。"
+          "en": "She felt a strain in her back after lifting the heavy box.",
+          "zh": "她在抬起重箱子后感到背部有压力。"
         },
         {
-          "en": "She made a sacrifice by working long hours for her family.",
-          "zh": "她通过为家庭长时间工作而做出了牺牲。"
+          "en": "The strain of the exam caused him a lot of anxiety.",
+          "zh": "考试的压力让他感到非常焦虑。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'sacrifice' comes from the Latin 'sacrificium', where 'sacer' means 'sacred' and 'facere' means 'to make'.",
-        "association": "Think of 'sacrifice' as 'sacred act of giving', linking the idea of giving up something precious."
+        "association": "Think of 'strain' as stretching a rubber band, which can become tight or break under too much pressure."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sacrifice&type=2",
-      "chapter": "核心词汇 民主与权利 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=strain&type=2",
+      "chapter": "核心词汇 健康话题 Unit 5"
     }
   ]
 }

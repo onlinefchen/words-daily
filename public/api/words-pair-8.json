@@ -1,64 +1,67 @@
 {
-  "generated": "2025-12-25T22:08:03.966Z",
+  "generated": "2025-12-26T22:08:13.922Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "dormant",
-      "pronunciation": "/ˈdɔːrmənt/",
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "休眠的",
-          "en": "In a state of rest or inactivity."
-        },
-        {
-          "pos": "adj.",
-          "zh": "暂时未激活的",
-          "en": "Not active or not developing at the moment."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The volcano has been dormant for many years without any eruptions.",
-          "zh": "这座火山已经休眠多年，没有任何喷发。"
-        },
-        {
-          "en": "Some plants remain dormant during the winter months to survive.",
-          "zh": "一些植物在冬季保持休眠以度过寒冷。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of a 'dorm' where students sleep and rest; similarly, 'dormant' means something is not active but can wake up."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dormant&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
-    },
-    {
-      "word": "goanna",
-      "pronunciation": "/ɡəˈnɑː/",
+      "word": "confidence",
+      "pronunciation": "/ˈkɒnfɪdəns/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "一种大型蜥蜴",
-          "en": "A large lizard native to Australia, known for its long body."
+          "zh": "信心，自信",
+          "en": "A feeling of trust in one's abilities or qualities."
+        },
+        {
+          "pos": "n.",
+          "zh": "信任，依赖",
+          "en": "The belief that someone or something is reliable."
         }
       ],
       "examples": [
         {
-          "en": "The goanna climbed the tree quickly to escape danger.",
-          "zh": "巨蜥迅速爬上树以躲避危险。"
+          "en": "She spoke with confidence during her presentation to the class.",
+          "zh": "她在课堂上的演讲中充满自信。"
         },
         {
-          "en": "In Australia, many people enjoy watching goannas in the wild.",
-          "zh": "在澳大利亚，许多人喜欢在野外观察巨蜥。"
+          "en": "Building confidence is essential for success in any field.",
+          "zh": "建立自信对任何领域的成功至关重要。"
+        }
+      ],
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=confidence&type=2",
+      "chapter": "核心词汇 法制与犯罪 Unit 1"
+    },
+    {
+      "word": "peer",
+      "pronunciation": "/pɪr/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "同龄人，同行",
+          "en": "A person who is of similar age or status as another."
+        },
+        {
+          "pos": "v.",
+          "zh": "凝视，审视",
+          "en": "To look closely or carefully at something."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many teenagers feel pressured to fit in with their peers.",
+          "zh": "许多青少年感到被同龄人所施加的压力，想要融入其中。"
+        },
+        {
+          "en": "She decided to peer through the window to see what was happening.",
+          "zh": "她决定透过窗户仔细查看发生了什么。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'goanna' as 'going' to see a large lizard in Australia."
+        "association": "Think of 'peer' as 'pair', referring to people who are alike, like a pair of friends."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=goanna&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=peer&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 8"
     }
   ]
 }

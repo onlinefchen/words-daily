@@ -1,69 +1,67 @@
 {
-  "generated": "2025-12-25T22:08:03.966Z",
+  "generated": "2025-12-26T22:08:13.922Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "evolution",
-      "pronunciation": "/ˌiː.vəˈluː.ʃən/",
+      "word": "vigour",
+      "pronunciation": "/ˈvɪɡər/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "演变，进化",
-          "en": "The process by which living things change over time."
+          "zh": "活力；精力",
+          "en": "The physical strength and energy to do something."
         },
         {
           "pos": "n.",
-          "zh": "发展，进展",
-          "en": "A gradual development or change in something."
+          "zh": "力量；强度",
+          "en": "The intensity or force of something."
         }
       ],
       "examples": [
         {
-          "en": "The evolution of technology has changed how we communicate.",
-          "zh": "技术的演变改变了我们的沟通方式。"
+          "en": "She approached the challenge with great vigour and determination.",
+          "zh": "她以极大的活力和决心面对这个挑战。"
         },
         {
-          "en": "Darwin's theory explains the evolution of species over millions of years.",
-          "zh": "达尔文的理论解释了物种在数百万年间的演变。"
+          "en": "The team played with vigour, showcasing their skills on the field.",
+          "zh": "球队表现出活力，展示了他们在场上的技能。"
         }
       ],
-      "memoryTips": {
-        "etymology": "The word 'evolution' comes from the Latin 'evolutio', meaning 'unrolling' or 'opening out'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=evolution&type=2",
-      "chapter": "认知词汇 动物分类 动物行为"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vigour&type=2",
+      "chapter": "核心词汇 工作与生活 Unit 5"
     },
     {
-      "word": "unlawful",
-      "pronunciation": "/ˌʌnˈlɔː.fəl/",
+      "word": "vice",
+      "pronunciation": "/vaɪs/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "非法的",
-          "en": "Not allowed by law; illegal."
+          "pos": "n.",
+          "zh": "恶习",
+          "en": "A bad habit or immoral behavior."
         },
         {
-          "pos": "adj.",
-          "zh": "不正当的",
-          "en": "Not acceptable according to the rules or standards."
+          "pos": "n.",
+          "zh": "副手",
+          "en": "A person who acts as a substitute or assistant."
         }
       ],
       "examples": [
         {
-          "en": "The unlawful activities were reported to the police immediately.",
-          "zh": "这些非法活动立即被报告给了警察。"
+          "en": "His vice of gambling caused many problems in his life.",
+          "zh": "他赌博的恶习给他的生活带来了很多问题。"
         },
         {
-          "en": "He faced serious consequences for his unlawful actions.",
-          "zh": "他因非法行为面临严重后果。"
+          "en": "The vice president will attend the meeting tomorrow.",
+          "zh": "副总统明天将参加会议。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'unlawful' as 'not lawful', which emphasizes its illegal nature."
+        "etymology": "The word 'vice' comes from the Latin 'vitium', meaning 'fault' or 'defect'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=unlawful&type=2",
-      "chapter": "核心词汇 民主与权利 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vice&type=2",
+      "chapter": "核心词汇 工作与生活 Unit 5"
     }
   ]
 }
