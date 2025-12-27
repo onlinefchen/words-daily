@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-26T22:08:13.922Z",
+  "generated": "2025-12-27T22:07:50.241Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "demonstrate",
-      "pronunciation": "/ˈdɛmənˌstreɪt/",
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "展示",
-          "en": "To show clearly or prove something."
-        },
-        {
-          "pos": "v.",
-          "zh": "演示",
-          "en": "To explain how something works by showing it."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The teacher will demonstrate the experiment to the class.",
-          "zh": "老师将向班级展示这个实验。"
-        },
-        {
-          "en": "The results clearly demonstrate the effectiveness of the new method.",
-          "zh": "结果清楚地展示了新方法的有效性。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'demonstrate' as 'demo' + 'strate', where 'demo' is a common way to show or explain."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=demonstrate&type=2",
-      "chapter": "基本词汇 动词200 Unit 5"
-    },
-    {
-      "word": "warning",
-      "pronunciation": "/ˈwɔrnɪŋ/",
+      "word": "enthusiasm",
+      "pronunciation": "/ɪnˈθuːziæzəm/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "警告",
-          "en": "A statement that something bad may happen."
+          "zh": "热情",
+          "en": "A strong feeling of excitement and eagerness."
         },
         {
-          "pos": "v.",
-          "zh": "警告",
-          "en": "To tell someone that something bad might happen."
+          "pos": "n.",
+          "zh": "热爱",
+          "en": "Great interest in or enjoyment of a particular activity."
         }
       ],
       "examples": [
         {
-          "en": "The warning about the storm was announced on the radio.",
-          "zh": "关于风暴的警告在广播中宣布。"
+          "en": "Her enthusiasm for learning languages is truly inspiring.",
+          "zh": "她对学习语言的热情确实令人鼓舞。"
         },
         {
-          "en": "She gave him a warning before he made a big mistake.",
-          "zh": "在他犯大错之前，她给了他一个警告。"
+          "en": "The team's enthusiasm helped them win the championship.",
+          "zh": "团队的热情帮助他们赢得了冠军。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'warning' sign that alerts you to danger, like a stop sign."
+        "association": "Think of 'enthusiasm' as 'in the spirit of the moment,' where you feel excited and eager."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=warning&type=2",
-      "chapter": "基本词汇 名词200 Unit 10"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=enthusiasm&type=2",
+      "chapter": "基本词汇 名词200 Unit 4"
+    },
+    {
+      "word": "peer",
+      "pronunciation": "/pɪr/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "同龄人",
+          "en": "A person who is equal to another in age, status, or ability."
+        },
+        {
+          "pos": "v.",
+          "zh": "仔细看",
+          "en": "To look closely or carefully at something."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Students often feel pressure to fit in with their peers.",
+          "zh": "学生常常感受到与同龄人融入的压力。"
+        },
+        {
+          "en": "She peered through the window to see what was happening outside.",
+          "zh": "她透过窗户仔细观察外面发生了什么。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'peer' as 'peer into' something, like looking closely."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=peer&type=2",
+      "chapter": "基本词汇 名词200 Unit 6"
     }
   ]
 }

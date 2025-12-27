@@ -1,69 +1,70 @@
 {
-  "generated": "2025-12-26T22:08:13.922Z",
+  "generated": "2025-12-27T22:07:50.241Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "desirable",
-      "pronunciation": "/dɪˈzaɪərəbəl/",
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "令人向往的",
-          "en": "Something that is wanted or wished for."
-        },
-        {
-          "pos": "adj.",
-          "zh": "值得拥有的",
-          "en": "Something that is attractive or appealing."
-        }
-      ],
-      "examples": [
-        {
-          "en": "A desirable job often offers great benefits and opportunities.",
-          "zh": "一个理想的工作通常提供很好的福利和机会。"
-        },
-        {
-          "en": "Living in a safe neighborhood is considered very desirable.",
-          "zh": "居住在安全的社区被认为是非常理想的。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'desire' in 'desirable', as it relates to wanting something."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=desirable&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 5"
-    },
-    {
-      "word": "strain",
-      "pronunciation": "/streɪn/",
+      "word": "promote",
+      "pronunciation": "/prəˈmoʊt/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "使紧绷",
-          "en": "To make something tight or tense."
+          "zh": "促进，提升",
+          "en": "To help something grow or develop."
         },
         {
-          "pos": "n.",
-          "zh": "压力",
-          "en": "A feeling of worry or pressure."
+          "pos": "v.",
+          "zh": "推销，宣传",
+          "en": "To advertise or publicize something to increase its visibility."
         }
       ],
       "examples": [
         {
-          "en": "She felt a strain in her back after lifting the heavy box.",
-          "zh": "她在抬起重箱子后感到背部有压力。"
+          "en": "The campaign aims to promote healthy eating among children.",
+          "zh": "该活动旨在促进儿童健康饮食。"
         },
         {
-          "en": "The strain of the exam caused him a lot of anxiety.",
-          "zh": "考试的压力让他感到非常焦虑。"
+          "en": "The company wants to promote its new product through social media.",
+          "zh": "该公司希望通过社交媒体宣传其新产品。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'strain' as stretching a rubber band, which can become tight or break under too much pressure."
+        "association": "Think of 'promote' as 'pro' (for) + 'mote' (motion) - to move something forward."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=strain&type=2",
-      "chapter": "核心词汇 健康话题 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=promote&type=2",
+      "chapter": "核心词汇 文化与传统 Unit 4"
+    },
+    {
+      "word": "relic",
+      "pronunciation": "/ˈrɛlɪk/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "遗物",
+          "en": "An object or item that has historical or cultural significance."
+        },
+        {
+          "pos": "n.",
+          "zh": "遗迹",
+          "en": "Something that remains from the past and is often of interest."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The museum displayed a relic from an ancient civilization.",
+          "zh": "博物馆展出了一个古代文明的遗物。"
+        },
+        {
+          "en": "Archaeologists uncovered a relic buried deep in the ground.",
+          "zh": "考古学家在地下深处发现了一个遗迹。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'relic' comes from the Latin 'reliquiae', meaning 'remains' or 'things left behind'.",
+        "association": "Think of 'relic' as something that 'relies' on the past for its significance."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=relic&type=2",
+      "chapter": "核心词汇 文化与传统 Unit 4"
     }
   ]
 }

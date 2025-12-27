@@ -1,70 +1,69 @@
 {
-  "generated": "2025-12-26T22:08:13.922Z",
+  "generated": "2025-12-27T22:07:50.241Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "addiction",
-      "pronunciation": "/əˈdɪkʃən/",
+      "word": "devoid",
+      "pronunciation": "/dɪˈvɔɪd/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "上瘾，成瘾",
-          "en": "A strong need to do something regularly."
+          "pos": "adj.",
+          "zh": "缺乏的",
+          "en": "Completely lacking something."
         },
         {
-          "pos": "n.",
-          "zh": "嗜好，沉迷",
-          "en": "A habit that is hard to control and affects life."
+          "pos": "v.",
+          "zh": "使缺乏",
+          "en": "To remove or take away something."
         }
       ],
       "examples": [
         {
-          "en": "His addiction to video games affected his school performance.",
-          "zh": "他对视频游戏的上瘾影响了他的学业表现。"
+          "en": "The room was devoid of any furniture or decoration.",
+          "zh": "这个房间缺乏任何家具或装饰。"
         },
         {
-          "en": "Many people struggle with addiction to cigarettes or alcohol.",
-          "zh": "许多人在与香烟或酒精的成瘾斗争。"
+          "en": "She felt devoid of energy after the long meeting.",
+          "zh": "长时间的会议后，她感到精力匮乏。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'addiction' comes from Latin 'addictio', meaning a surrender or dedication.",
-        "association": "Think of 'addict' as someone who is 'addicted' to something they can't live without."
+        "association": "Think of 'devoid' as 'de void' meaning 'empty space'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=addiction&type=2",
-      "chapter": "核心词汇 法制与犯罪 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=devoid&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 6"
     },
     {
-      "word": "arboreal",
-      "pronunciation": "/ɑːrˈbɔːr.i.əl/",
+      "word": "stylish",
+      "pronunciation": "/ˈstaɪlɪʃ/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "树栖的",
-          "en": "Relating to trees; living in trees."
+          "zh": "时尚的",
+          "en": "Having a fashionable or elegant appearance."
         },
         {
           "pos": "adj.",
-          "zh": "树木生长的",
-          "en": "Describing animals that primarily inhabit or move through trees."
+          "zh": "有风格的",
+          "en": "Characterized by a distinctive or attractive style."
         }
       ],
       "examples": [
         {
-          "en": "Monkeys are often classified as arboreal animals due to their tree-dwelling habits.",
-          "zh": "猴子通常被归类为树栖动物，因为它们的栖息习惯在树上。"
+          "en": "She wore a stylish dress that caught everyone's attention.",
+          "zh": "她穿了一件时尚的裙子，吸引了所有人的注意。"
         },
         {
-          "en": "The arboreal lifestyle of sloths makes them unique among mammals.",
-          "zh": "树栖生活方式使树懒在哺乳动物中独树一帜。"
+          "en": "The café has a stylish interior that makes it very popular.",
+          "zh": "这家咖啡馆有一个时尚的内部装修，使它非常受欢迎。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'arbor', which means tree, to remember 'arboreal' relates to trees."
+        "association": "Think of 'style' in 'stylish' as a way to remember that stylish means having good style."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=arboreal&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=stylish&type=2",
+      "chapter": "核心词汇 文化与传统 Unit 5"
     }
   ]
 }

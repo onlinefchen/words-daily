@@ -1,70 +1,67 @@
 {
-  "generated": "2025-12-26T22:08:13.922Z",
+  "generated": "2025-12-27T22:07:50.242Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "discontented",
-      "pronunciation": "/ˌdɪs.kənˈtɛn.tɪd/",
+      "word": "sinister",
+      "pronunciation": "/ˈsɪn.ɪ.stər/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "不满的， dissatisfied",
-          "en": "Feeling unhappy or dissatisfied with the current situation."
+          "zh": "阴险的",
+          "en": "Something that suggests evil or harm."
         },
         {
-          "pos": "n.",
-          "zh": "不满， dissatisfaction",
-          "en": "A feeling of unhappiness or dissatisfaction."
+          "pos": "adj.",
+          "zh": "不详的",
+          "en": "Something that gives a feeling of danger or bad luck."
         }
       ],
       "examples": [
         {
-          "en": "Many employees are discontented with their working conditions.",
-          "zh": "许多员工对他们的工作条件感到不满。"
+          "en": "The dark clouds gave the scene a sinister feeling.",
+          "zh": "乌云给这个场景带来了阴险的感觉。"
         },
         {
-          "en": "The citizens expressed their discontented views during the meeting.",
-          "zh": "市民在会议上表达了他们的不满意见。"
+          "en": "He had a sinister smile that made her uneasy.",
+          "zh": "他那阴险的微笑让她感到不安。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'discontented' comes from the prefix 'dis-' meaning 'not' and 'contented' which means 'satisfied'.",
-        "association": "Think of 'discontented' as 'not content', which helps remember its meaning of dissatisfaction."
+        "association": "Think of 'sinister' as 'sin' which relates to evil, helping you remember its dark meaning."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=discontented&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 6"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sinister&type=2",
+      "chapter": "核心词汇 伦理与道德 Unit 5"
     },
     {
-      "word": "vision",
-      "pronunciation": "/ˈvɪʒ.ən/",
+      "word": "cherish",
+      "pronunciation": "/ˈtʃɛrɪʃ/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "视力；愿景",
-          "en": "The ability to see or a plan for the future."
+          "pos": "v.",
+          "zh": "珍惜，珍爱",
+          "en": "To hold something dear or to value it greatly."
         },
         {
           "pos": "v.",
-          "zh": "想象；设想",
-          "en": "To imagine or conceive something in the mind."
+          "zh": "怀念，怀有",
+          "en": "To remember fondly or keep in one's heart."
         }
       ],
       "examples": [
         {
-          "en": "Her vision for the project inspired everyone on the team.",
-          "zh": "她对项目的愿景激励了团队中的每一个人。"
+          "en": "I cherish the moments spent with my family during holidays.",
+          "zh": "我珍惜与家人共度的假期时光。"
         },
         {
-          "en": "He has a clear vision of what he wants to achieve in life.",
-          "zh": "他对自己想要在生活中实现的目标有清晰的愿景。"
+          "en": "She cherishes her childhood memories and often reflects on them.",
+          "zh": "她珍视自己的童年记忆，常常回忆起那些时光。"
         }
       ],
-      "memoryTips": {
-        "etymology": "The word 'vision' comes from the Latin 'visio', meaning 'sight' or 'to see'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vision&type=2",
-      "chapter": "基本词汇 名词200 Unit 10"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cherish&type=2",
+      "chapter": "核心词汇 文化与传统 Unit 1"
     }
   ]
 }

@@ -1,67 +1,69 @@
 {
-  "generated": "2025-12-26T22:08:13.922Z",
+  "generated": "2025-12-27T22:07:50.241Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "timid",
-      "pronunciation": "/ˈtɪmɪd/",
+      "word": "classify",
+      "pronunciation": "/ˈklæs.ɪ.faɪ/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "胆怯的",
-          "en": "Feeling shy or lacking confidence."
+          "pos": "v.",
+          "zh": "分类",
+          "en": "To arrange people or things into groups based on shared qualities or characteristics."
         },
         {
-          "pos": "adj.",
-          "zh": "胆小的",
-          "en": "Easily frightened or not brave."
+          "pos": "v.",
+          "zh": "确定类别",
+          "en": "To determine the category or type of something."
         }
       ],
       "examples": [
         {
-          "en": "The timid child hesitated to speak in front of the class.",
-          "zh": "那个胆怯的孩子在班上犹豫着不敢发言。"
+          "en": "Scientists classify animals based on their physical characteristics.",
+          "zh": "科学家根据动物的物理特征进行分类。"
         },
         {
-          "en": "She gave a timid smile when she met new people.",
-          "zh": "她见到新朋友时露出了一个胆怯的微笑。"
+          "en": "The librarian will classify the new books in the correct section.",
+          "zh": "图书管理员会将新书归类到正确的区域。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a timid mouse hiding away, too scared to come out."
+        "etymology": "The word 'classify' comes from the Latin 'classis', meaning 'class' or 'category'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=timid&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 18"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=classify&type=2",
+      "chapter": "基本词汇 动词200 Unit 3"
     },
     {
-      "word": "commercial fishery",
-      "pronunciation": "/kəˈmɜːrʃəl ˈfɪʃəri/",
+      "word": "corporal",
+      "pronunciation": "/ˈkɔːr.pɚ.əl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "商业渔业",
-          "en": "A type of fishing that is done for profit and sale."
+          "pos": "adj.",
+          "zh": "肉体的",
+          "en": "Relating to the body; physical."
         },
         {
           "pos": "n.",
-          "zh": "商业捕鱼场",
-          "en": "A place where fish are caught and sold for business."
+          "zh": "军衔中士",
+          "en": "A rank of officer in the military, below sergeant."
         }
       ],
       "examples": [
         {
-          "en": "The commercial fishery industry plays a vital role in the economy.",
-          "zh": "商业渔业在经济中扮演着重要角色。"
+          "en": "The corporal trained the new recruits every morning.",
+          "zh": "中士每天早晨训练新兵。"
         },
         {
-          "en": "Sustainable practices are essential for the future of commercial fisheries.",
-          "zh": "可持续的做法对商业渔业的未来至关重要。"
+          "en": "Corporal punishment is banned in many schools today.",
+          "zh": "许多学校现在禁止体罚。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=commercial%20fishery&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "memoryTips": {
+        "etymology": "The word 'corporal' comes from the Latin 'corpus', meaning 'body'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=corporal&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 2"
     }
   ]
 }

@@ -1,760 +1,754 @@
 {
-  "generated": "2025-12-26T22:08:13.920Z",
-  "date": "2025-12-26",
+  "generated": "2025-12-27T22:07:50.240Z",
+  "date": "2025-12-27",
   "totalWords": 20,
   "words": [
     {
-      "id": "w02544",
-      "word": "glacier",
+      "id": "w02247",
+      "word": "wax",
       "type": "single",
-      "chapterIndex": 16,
-      "globalIndex": 2544,
-      "chapter": "ch103",
-      "chapterName": "认知词汇 自然分类 \"厄尔尼诺\"现象",
-      "pronunciation": {
-        "us": "/ˈɡleɪʃər/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "冰川",
-          "en": "A large, slow-moving mass of ice that forms from compacted snow."
-        },
-        {
-          "pos": "n.",
-          "zh": "冰川",
-          "en": "A persistent body of dense ice that covers the land and moves under its own weight."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The glacier slowly melted due to rising global temperatures.",
-          "zh": "由于全球气温上升，冰川缓慢融化。"
-        },
-        {
-          "en": "Scientists study glaciers to understand climate change better.",
-          "zh": "科学家研究冰川以更好地了解气候变化。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'glacier' as 'glassy' ice moving slowly down a mountain."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=glacier&type=2"
-    },
-    {
-      "id": "w02724",
-      "word": "forest clearing",
-      "type": "phrase",
-      "chapterIndex": 16,
-      "globalIndex": 2724,
-      "chapter": "ch107",
-      "chapterName": "认知词汇 自然分类 热带雨林",
-      "pronunciation": {
-        "us": "/ˈfɔːrɪst ˈklɪərɪŋ/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "森林空地",
-          "en": "An open area in a forest where there are no trees."
-        },
-        {
-          "pos": "n.",
-          "zh": "森林开垦",
-          "en": "The act of clearing trees from a part of a forest."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The deer grazed peacefully in the forest clearing.",
-          "zh": "鹿在森林空地上安静地吃草。"
-        },
-        {
-          "en": "The forest clearing was perfect for our picnic.",
-          "zh": "森林空地非常适合我们的野餐。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of a 'clear' space in a 'forest' where you can see the sky."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=forest%20clearing&type=2"
-    },
-    {
-      "id": "w00760",
-      "word": "timid",
-      "type": "single",
-      "chapterIndex": 20,
-      "globalIndex": 760,
-      "chapter": "ch038",
-      "chapterName": "基本词汇 形容词和副词400 Unit 18",
-      "pronunciation": {
-        "us": "/ˈtɪmɪd/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "胆怯的",
-          "en": "Feeling shy or lacking confidence."
-        },
-        {
-          "pos": "adj.",
-          "zh": "胆小的",
-          "en": "Easily frightened or not brave."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The timid child hesitated to speak in front of the class.",
-          "zh": "那个胆怯的孩子在班上犹豫着不敢发言。"
-        },
-        {
-          "en": "She gave a timid smile when she met new people.",
-          "zh": "她见到新朋友时露出了一个胆怯的微笑。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of a timid mouse hiding away, too scared to come out."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=timid&type=2"
-    },
-    {
-      "id": "w01975",
-      "word": "commercial fishery",
-      "type": "phrase",
-      "chapterIndex": 75,
-      "globalIndex": 1975,
+      "chapterIndex": 347,
+      "globalIndex": 2247,
       "chapter": "ch096",
       "chapterName": "认知词汇 动物分类 常考生物",
       "pronunciation": {
-        "us": "/kəˈmɜːrʃəl ˈfɪʃəri/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "商业渔业",
-          "en": "A type of fishing that is done for profit and sale."
-        },
-        {
-          "pos": "n.",
-          "zh": "商业捕鱼场",
-          "en": "A place where fish are caught and sold for business."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The commercial fishery industry plays a vital role in the economy.",
-          "zh": "商业渔业在经济中扮演着重要角色。"
-        },
-        {
-          "en": "Sustainable practices are essential for the future of commercial fisheries.",
-          "zh": "可持续的做法对商业渔业的未来至关重要。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=commercial%20fishery&type=2"
-    },
-    {
-      "id": "w01849",
-      "word": "heredity",
-      "type": "single",
-      "chapterIndex": 9,
-      "globalIndex": 1849,
-      "chapter": "ch093",
-      "chapterName": "核心词汇 健康话题 Unit 3",
-      "pronunciation": {
-        "us": "/həˈrɛdəti/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "遗传",
-          "en": "The passing of traits from parents to their children."
-        },
-        {
-          "pos": "n.",
-          "zh": "遗传特征",
-          "en": "The characteristics that are inherited from one's ancestors."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Heredity plays a significant role in determining physical traits.",
-          "zh": "遗传在决定身体特征中起着重要作用。"
-        },
-        {
-          "en": "Many diseases can be linked to heredity and genetic factors.",
-          "zh": "许多疾病可以与遗传和遗传因素相关联。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'heredity' comes from the Latin 'hereditas', meaning 'inheritance'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=heredity&type=2"
-    },
-    {
-      "id": "w01858",
-      "word": "infection",
-      "type": "single",
-      "chapterIndex": 18,
-      "globalIndex": 1858,
-      "chapter": "ch093",
-      "chapterName": "核心词汇 健康话题 Unit 3",
-      "pronunciation": {
-        "us": "/ɪnˈfɛkʃən/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "感染",
-          "en": "The invasion of the body by harmful organisms that cause illness."
-        },
-        {
-          "pos": "n.",
-          "zh": "传染病",
-          "en": "A disease that can be spread from one person to another."
-        }
-      ],
-      "examples": [
-        {
-          "en": "He contracted a serious infection after the surgery.",
-          "zh": "他在手术后感染了严重的感染。"
-        },
-        {
-          "en": "Vaccination helps prevent the spread of infectious diseases.",
-          "zh": "疫苗接种有助于防止传染病的传播。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'infection' comes from the Latin 'infectio', meaning 'to taint or dye'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=infection&type=2"
-    },
-    {
-      "id": "w00088",
-      "word": "demonstrate",
-      "type": "single",
-      "chapterIndex": 8,
-      "globalIndex": 88,
-      "chapter": "ch005",
-      "chapterName": "基本词汇 动词200 Unit 5",
-      "pronunciation": {
-        "us": "/ˈdɛmənˌstreɪt/"
+        "us": "/wæks/"
       },
       "meanings": [
         {
           "pos": "v.",
-          "zh": "展示",
-          "en": "To show clearly or prove something."
+          "zh": "给...上蜡",
+          "en": "To apply a layer of wax on a surface to protect it."
         },
         {
-          "pos": "v.",
-          "zh": "演示",
-          "en": "To explain how something works by showing it."
+          "pos": "n.",
+          "zh": "蜡",
+          "en": "A substance that is solid at room temperature and is used for making candles or coating surfaces."
         }
       ],
       "examples": [
         {
-          "en": "The teacher will demonstrate the experiment to the class.",
-          "zh": "老师将向班级展示这个实验。"
+          "en": "She decided to wax her car to keep it shiny and protected.",
+          "zh": "她决定给汽车上蜡，以保持光亮和保护。"
         },
         {
-          "en": "The results clearly demonstrate the effectiveness of the new method.",
-          "zh": "结果清楚地展示了新方法的有效性。"
+          "en": "The artist used wax to create detailed sculptures and models.",
+          "zh": "艺术家使用蜡来创作精细的雕塑和模型。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'demonstrate' as 'demo' + 'strate', where 'demo' is a common way to show or explain."
+        "association": "Think of 'waxing' as making something shine, like waxing a floor for a glossy finish."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=demonstrate&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=wax&type=2"
     },
     {
-      "id": "w00394",
-      "word": "warning",
+      "id": "w01081",
+      "word": "revitalisation",
       "type": "single",
-      "chapterIndex": 14,
-      "globalIndex": 394,
-      "chapter": "ch020",
-      "chapterName": "基本词汇 名词200 Unit 10",
+      "chapterIndex": 1,
+      "globalIndex": 1081,
+      "chapter": "ch055",
+      "chapterName": "核心词汇 文化与传统 Unit 5",
       "pronunciation": {
-        "us": "/ˈwɔrnɪŋ/"
+        "us": "/ˌriːˌvaɪtəlaɪˈzeɪʃən/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "警告",
-          "en": "A statement that something bad may happen."
+          "zh": "复兴，振兴",
+          "en": "The process of making something strong, healthy, or active again."
         },
         {
-          "pos": "v.",
-          "zh": "警告",
-          "en": "To tell someone that something bad might happen."
+          "pos": "n.",
+          "zh": "恢复，复苏",
+          "en": "A renewal or improvement of something that has become weak or inactive."
         }
       ],
       "examples": [
         {
-          "en": "The warning about the storm was announced on the radio.",
-          "zh": "关于风暴的警告在广播中宣布。"
+          "en": "The revitalisation of the town has attracted many new businesses.",
+          "zh": "这个城镇的复兴吸引了许多新企业。"
         },
         {
-          "en": "She gave him a warning before he made a big mistake.",
-          "zh": "在他犯大错之前，她给了他一个警告。"
+          "en": "The government plans a revitalisation project for the local economy.",
+          "zh": "政府计划对当地经济进行振兴项目。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'warning' sign that alerts you to danger, like a stop sign."
+        "etymology": "The word comes from the Latin 'vita', meaning life, indicating bringing life back to something."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=warning&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=revitalisation&type=2"
     },
     {
-      "id": "w00500",
-      "word": "desirable",
+      "id": "w00051",
+      "word": "classify",
       "type": "single",
-      "chapterIndex": 20,
-      "globalIndex": 500,
-      "chapter": "ch025",
-      "chapterName": "基本词汇 形容词和副词400 Unit 5",
+      "chapterIndex": 11,
+      "globalIndex": 51,
+      "chapter": "ch003",
+      "chapterName": "基本词汇 动词200 Unit 3",
       "pronunciation": {
-        "us": "/dɪˈzaɪərəbəl/"
+        "us": "/ˈklæs.ɪ.faɪ/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "分类",
+          "en": "To arrange people or things into groups based on shared qualities or characteristics."
+        },
+        {
+          "pos": "v.",
+          "zh": "确定类别",
+          "en": "To determine the category or type of something."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Scientists classify animals based on their physical characteristics.",
+          "zh": "科学家根据动物的物理特征进行分类。"
+        },
+        {
+          "en": "The librarian will classify the new books in the correct section.",
+          "zh": "图书管理员会将新书归类到正确的区域。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'classify' comes from the Latin 'classis', meaning 'class' or 'category'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=classify&type=2"
+    },
+    {
+      "id": "w01233",
+      "word": "corporal",
+      "type": "single",
+      "chapterIndex": 13,
+      "globalIndex": 1233,
+      "chapter": "ch062",
+      "chapterName": "核心词汇 青少年教育 Unit 2",
+      "pronunciation": {
+        "us": "/ˈkɔːr.pɚ.əl/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "令人向往的",
-          "en": "Something that is wanted or wished for."
-        },
-        {
-          "pos": "adj.",
-          "zh": "值得拥有的",
-          "en": "Something that is attractive or appealing."
-        }
-      ],
-      "examples": [
-        {
-          "en": "A desirable job often offers great benefits and opportunities.",
-          "zh": "一个理想的工作通常提供很好的福利和机会。"
-        },
-        {
-          "en": "Living in a safe neighborhood is considered very desirable.",
-          "zh": "居住在安全的社区被认为是非常理想的。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'desire' in 'desirable', as it relates to wanting something."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=desirable&type=2"
-    },
-    {
-      "id": "w01889",
-      "word": "strain",
-      "type": "single",
-      "chapterIndex": 9,
-      "globalIndex": 1889,
-      "chapter": "ch095",
-      "chapterName": "核心词汇 健康话题 Unit 5",
-      "pronunciation": {
-        "us": "/streɪn/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "使紧绷",
-          "en": "To make something tight or tense."
+          "zh": "肉体的",
+          "en": "Relating to the body; physical."
         },
         {
           "pos": "n.",
-          "zh": "压力",
-          "en": "A feeling of worry or pressure."
+          "zh": "军衔中士",
+          "en": "A rank of officer in the military, below sergeant."
         }
       ],
       "examples": [
         {
-          "en": "She felt a strain in her back after lifting the heavy box.",
-          "zh": "她在抬起重箱子后感到背部有压力。"
+          "en": "The corporal trained the new recruits every morning.",
+          "zh": "中士每天早晨训练新兵。"
         },
         {
-          "en": "The strain of the exam caused him a lot of anxiety.",
-          "zh": "考试的压力让他感到非常焦虑。"
+          "en": "Corporal punishment is banned in many schools today.",
+          "zh": "许多学校现在禁止体罚。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'strain' as stretching a rubber band, which can become tight or break under too much pressure."
+        "etymology": "The word 'corporal' comes from the Latin 'corpus', meaning 'body'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=strain&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=corporal&type=2"
     },
     {
-      "id": "w01702",
-      "word": "addiction",
+      "id": "w01222",
+      "word": "caning",
       "type": "single",
       "chapterIndex": 2,
-      "globalIndex": 1702,
-      "chapter": "ch086",
-      "chapterName": "核心词汇 法制与犯罪 Unit 1",
+      "globalIndex": 1222,
+      "chapter": "ch062",
+      "chapterName": "核心词汇 青少年教育 Unit 2",
       "pronunciation": {
-        "us": "/əˈdɪkʃən/"
+        "us": "/ˈkeɪnɪŋ/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "上瘾，成瘾",
-          "en": "A strong need to do something regularly."
+          "zh": "鞭打",
+          "en": "The act of hitting someone with a cane as a punishment."
         },
         {
-          "pos": "n.",
-          "zh": "嗜好，沉迷",
-          "en": "A habit that is hard to control and affects life."
+          "pos": "v.",
+          "zh": "用藤条打",
+          "en": "To punish someone by hitting them with a cane."
         }
       ],
       "examples": [
         {
-          "en": "His addiction to video games affected his school performance.",
-          "zh": "他对视频游戏的上瘾影响了他的学业表现。"
+          "en": "The school implemented caning as a form of discipline for serious offenses.",
+          "zh": "学校实施了鞭打作为对严重违规行为的惩罚。"
         },
         {
-          "en": "Many people struggle with addiction to cigarettes or alcohol.",
-          "zh": "许多人在与香烟或酒精的成瘾斗争。"
+          "en": "Many countries have banned caning due to its harsh nature.",
+          "zh": "许多国家已禁止鞭打，因为其性质过于严厉。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'addiction' comes from Latin 'addictio', meaning a surrender or dedication.",
-        "association": "Think of 'addict' as someone who is 'addicted' to something they can't live without."
+        "association": "Think of 'cane' as both the tool used for caning and a walking stick, which can evoke a strong visual connection."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=addiction&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=caning&type=2"
     },
     {
-      "id": "w01903",
-      "word": "arboreal",
+      "id": "w01184",
+      "word": "sluttish",
       "type": "single",
-      "chapterIndex": 3,
-      "globalIndex": 1903,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
+      "chapterIndex": 4,
+      "globalIndex": 1184,
+      "chapter": "ch060",
+      "chapterName": "核心词汇 伦理与道德 Unit 5",
       "pronunciation": {
-        "us": "/ɑːrˈbɔːr.i.əl/"
+        "us": "/ˈslʌtɪʃ/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "树栖的",
-          "en": "Relating to trees; living in trees."
+          "zh": "邋遢的，懒散的",
+          "en": "Having a dirty or untidy appearance; careless."
         },
         {
           "pos": "adj.",
-          "zh": "树木生长的",
-          "en": "Describing animals that primarily inhabit or move through trees."
+          "zh": "不修边幅的，放荡的",
+          "en": "Indicating a lack of care in appearance or behavior."
         }
       ],
       "examples": [
         {
-          "en": "Monkeys are often classified as arboreal animals due to their tree-dwelling habits.",
-          "zh": "猴子通常被归类为树栖动物，因为它们的栖息习惯在树上。"
+          "en": "Her sluttish appearance made it difficult to take her seriously.",
+          "zh": "她邋遢的外表让人很难认真对待她。"
         },
         {
-          "en": "The arboreal lifestyle of sloths makes them unique among mammals.",
-          "zh": "树栖生活方式使树懒在哺乳动物中独树一帜。"
+          "en": "His sluttish behavior at the party surprised everyone.",
+          "zh": "他在聚会上的放荡行为让所有人都感到惊讶。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'arbor', which means tree, to remember 'arboreal' relates to trees."
+        "association": "Think of 'slut' in 'sluttish' as a link to being careless about appearance."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=arboreal&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sluttish&type=2"
     },
     {
-      "id": "w01695",
-      "word": "vigour",
+      "id": "w00266",
+      "word": "enthusiasm",
       "type": "single",
-      "chapterIndex": 15,
-      "globalIndex": 1695,
-      "chapter": "ch085",
-      "chapterName": "核心词汇 工作与生活 Unit 5",
+      "chapterIndex": 6,
+      "globalIndex": 266,
+      "chapter": "ch014",
+      "chapterName": "基本词汇 名词200 Unit 4",
       "pronunciation": {
-        "us": "/ˈvɪɡər/"
+        "us": "/ɪnˈθuːziæzəm/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "活力；精力",
-          "en": "The physical strength and energy to do something."
+          "zh": "热情",
+          "en": "A strong feeling of excitement and eagerness."
         },
         {
           "pos": "n.",
-          "zh": "力量；强度",
-          "en": "The intensity or force of something."
+          "zh": "热爱",
+          "en": "Great interest in or enjoyment of a particular activity."
         }
       ],
       "examples": [
         {
-          "en": "She approached the challenge with great vigour and determination.",
-          "zh": "她以极大的活力和决心面对这个挑战。"
+          "en": "Her enthusiasm for learning languages is truly inspiring.",
+          "zh": "她对学习语言的热情确实令人鼓舞。"
         },
         {
-          "en": "The team played with vigour, showcasing their skills on the field.",
-          "zh": "球队表现出活力，展示了他们在场上的技能。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vigour&type=2"
-    },
-    {
-      "id": "w01694",
-      "word": "vice",
-      "type": "single",
-      "chapterIndex": 14,
-      "globalIndex": 1694,
-      "chapter": "ch085",
-      "chapterName": "核心词汇 工作与生活 Unit 5",
-      "pronunciation": {
-        "us": "/vaɪs/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "恶习",
-          "en": "A bad habit or immoral behavior."
-        },
-        {
-          "pos": "n.",
-          "zh": "副手",
-          "en": "A person who acts as a substitute or assistant."
-        }
-      ],
-      "examples": [
-        {
-          "en": "His vice of gambling caused many problems in his life.",
-          "zh": "他赌博的恶习给他的生活带来了很多问题。"
-        },
-        {
-          "en": "The vice president will attend the meeting tomorrow.",
-          "zh": "副总统明天将参加会议。"
+          "en": "The team's enthusiasm helped them win the championship.",
+          "zh": "团队的热情帮助他们赢得了冠军。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'vice' comes from the Latin 'vitium', meaning 'fault' or 'defect'."
+        "association": "Think of 'enthusiasm' as 'in the spirit of the moment,' where you feel excited and eager."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vice&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=enthusiasm&type=2"
     },
     {
-      "id": "w01715",
-      "word": "confidence",
-      "type": "single",
-      "chapterIndex": 15,
-      "globalIndex": 1715,
-      "chapter": "ch086",
-      "chapterName": "核心词汇 法制与犯罪 Unit 1",
-      "pronunciation": {
-        "us": "/ˈkɒnfɪdəns/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "信心，自信",
-          "en": "A feeling of trust in one's abilities or qualities."
-        },
-        {
-          "pos": "n.",
-          "zh": "信任，依赖",
-          "en": "The belief that someone or something is reliable."
-        }
-      ],
-      "examples": [
-        {
-          "en": "She spoke with confidence during her presentation to the class.",
-          "zh": "她在课堂上的演讲中充满自信。"
-        },
-        {
-          "en": "Building confidence is essential for success in any field.",
-          "zh": "建立自信对任何领域的成功至关重要。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=confidence&type=2"
-    },
-    {
-      "id": "w01343",
+      "id": "w00314",
       "word": "peer",
       "type": "single",
-      "chapterIndex": 3,
-      "globalIndex": 1343,
-      "chapter": "ch068",
-      "chapterName": "核心词汇 青少年教育 Unit 8",
+      "chapterIndex": 14,
+      "globalIndex": 314,
+      "chapter": "ch016",
+      "chapterName": "基本词汇 名词200 Unit 6",
       "pronunciation": {
         "us": "/pɪr/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "同龄人，同行",
-          "en": "A person who is of similar age or status as another."
+          "zh": "同龄人",
+          "en": "A person who is equal to another in age, status, or ability."
         },
         {
           "pos": "v.",
-          "zh": "凝视，审视",
+          "zh": "仔细看",
           "en": "To look closely or carefully at something."
         }
       ],
       "examples": [
         {
-          "en": "Many teenagers feel pressured to fit in with their peers.",
-          "zh": "许多青少年感到被同龄人所施加的压力，想要融入其中。"
+          "en": "Students often feel pressure to fit in with their peers.",
+          "zh": "学生常常感受到与同龄人融入的压力。"
         },
         {
-          "en": "She decided to peer through the window to see what was happening.",
-          "zh": "她决定透过窗户仔细查看发生了什么。"
+          "en": "She peered through the window to see what was happening outside.",
+          "zh": "她透过窗户仔细观察外面发生了什么。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'peer' as 'pair', referring to people who are alike, like a pair of friends."
+        "association": "Think of 'peer' as 'peer into' something, like looking closely."
       },
       "audioUrl": "https://dict.youdao.com/dictvoice?audio=peer&type=2"
     },
     {
-      "id": "w00973",
-      "word": "rainfall",
+      "id": "w01074",
+      "word": "promote",
       "type": "single",
-      "chapterIndex": 13,
-      "globalIndex": 973,
-      "chapter": "ch049",
-      "chapterName": "核心词汇 环境保护 Unit 4",
+      "chapterIndex": 14,
+      "globalIndex": 1074,
+      "chapter": "ch054",
+      "chapterName": "核心词汇 文化与传统 Unit 4",
       "pronunciation": {
-        "us": "/ˈreɪnˌfɔl/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "降雨量",
-          "en": "The amount of rain that falls in a specific area."
-        },
-        {
-          "pos": "n.",
-          "zh": "降雨",
-          "en": "The act of rain falling from the sky."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Heavy rainfall can lead to flooding in low-lying areas.",
-          "zh": "大雨可能导致低洼地区洪水泛滥。"
-        },
-        {
-          "en": "The rainfall this year is higher than the average for the region.",
-          "zh": "今年的降雨量高于该地区的平均水平。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'rain' falling from the sky and 'fall' as it descends."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=rainfall&type=2"
-    },
-    {
-      "id": "w00302",
-      "word": "lack",
-      "type": "single",
-      "chapterIndex": 2,
-      "globalIndex": 302,
-      "chapter": "ch016",
-      "chapterName": "基本词汇 名词200 Unit 6",
-      "pronunciation": {
-        "us": "/læk/"
+        "us": "/prəˈmoʊt/"
       },
       "meanings": [
         {
           "pos": "v.",
-          "zh": "缺乏",
-          "en": "To not have enough of something."
+          "zh": "促进，提升",
+          "en": "To help something grow or develop."
         },
         {
-          "pos": "n.",
-          "zh": "缺乏",
-          "en": "The state of not having enough of something."
+          "pos": "v.",
+          "zh": "推销，宣传",
+          "en": "To advertise or publicize something to increase its visibility."
         }
       ],
       "examples": [
         {
-          "en": "Many children suffer from a lack of proper nutrition.",
-          "zh": "许多孩子缺乏适当的营养。"
+          "en": "The campaign aims to promote healthy eating among children.",
+          "zh": "该活动旨在促进儿童健康饮食。"
         },
         {
-          "en": "The project failed due to a lack of funding and support.",
-          "zh": "该项目由于缺乏资金和支持而失败。"
+          "en": "The company wants to promote its new product through social media.",
+          "zh": "该公司希望通过社交媒体宣传其新产品。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'lack' as 'lacking' something important in your life."
+        "association": "Think of 'promote' as 'pro' (for) + 'mote' (motion) - to move something forward."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=lack&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=promote&type=2"
     },
     {
-      "id": "w00512",
-      "word": "discontented",
+      "id": "w01078",
+      "word": "relic",
       "type": "single",
-      "chapterIndex": 12,
-      "globalIndex": 512,
+      "chapterIndex": 18,
+      "globalIndex": 1078,
+      "chapter": "ch054",
+      "chapterName": "核心词汇 文化与传统 Unit 4",
+      "pronunciation": {
+        "us": "/ˈrɛlɪk/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "遗物",
+          "en": "An object or item that has historical or cultural significance."
+        },
+        {
+          "pos": "n.",
+          "zh": "遗迹",
+          "en": "Something that remains from the past and is often of interest."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The museum displayed a relic from an ancient civilization.",
+          "zh": "博物馆展出了一个古代文明的遗物。"
+        },
+        {
+          "en": "Archaeologists uncovered a relic buried deep in the ground.",
+          "zh": "考古学家在地下深处发现了一个遗迹。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'relic' comes from the Latin 'reliquiae', meaning 'remains' or 'things left behind'.",
+        "association": "Think of 'relic' as something that 'relies' on the past for its significance."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=relic&type=2"
+    },
+    {
+      "id": "w00505",
+      "word": "devoid",
+      "type": "single",
+      "chapterIndex": 5,
+      "globalIndex": 505,
       "chapter": "ch026",
       "chapterName": "基本词汇 形容词和副词400 Unit 6",
       "pronunciation": {
-        "us": "/ˌdɪs.kənˈtɛn.tɪd/"
+        "us": "/dɪˈvɔɪd/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "不满的， dissatisfied",
-          "en": "Feeling unhappy or dissatisfied with the current situation."
+          "zh": "缺乏的",
+          "en": "Completely lacking something."
         },
         {
-          "pos": "n.",
-          "zh": "不满， dissatisfaction",
-          "en": "A feeling of unhappiness or dissatisfaction."
+          "pos": "v.",
+          "zh": "使缺乏",
+          "en": "To remove or take away something."
         }
       ],
       "examples": [
         {
-          "en": "Many employees are discontented with their working conditions.",
-          "zh": "许多员工对他们的工作条件感到不满。"
+          "en": "The room was devoid of any furniture or decoration.",
+          "zh": "这个房间缺乏任何家具或装饰。"
         },
         {
-          "en": "The citizens expressed their discontented views during the meeting.",
-          "zh": "市民在会议上表达了他们的不满意见。"
+          "en": "She felt devoid of energy after the long meeting.",
+          "zh": "长时间的会议后，她感到精力匮乏。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'discontented' comes from the prefix 'dis-' meaning 'not' and 'contented' which means 'satisfied'.",
-        "association": "Think of 'discontented' as 'not content', which helps remember its meaning of dissatisfaction."
+        "association": "Think of 'devoid' as 'de void' meaning 'empty space'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=discontented&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=devoid&type=2"
     },
     {
-      "id": "w00392",
-      "word": "vision",
+      "id": "w01086",
+      "word": "stylish",
+      "type": "single",
+      "chapterIndex": 6,
+      "globalIndex": 1086,
+      "chapter": "ch055",
+      "chapterName": "核心词汇 文化与传统 Unit 5",
+      "pronunciation": {
+        "us": "/ˈstaɪlɪʃ/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "时尚的",
+          "en": "Having a fashionable or elegant appearance."
+        },
+        {
+          "pos": "adj.",
+          "zh": "有风格的",
+          "en": "Characterized by a distinctive or attractive style."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She wore a stylish dress that caught everyone's attention.",
+          "zh": "她穿了一件时尚的裙子，吸引了所有人的注意。"
+        },
+        {
+          "en": "The café has a stylish interior that makes it very popular.",
+          "zh": "这家咖啡馆有一个时尚的内部装修，使它非常受欢迎。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'style' in 'stylish' as a way to remember that stylish means having good style."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=stylish&type=2"
+    },
+    {
+      "id": "w00432",
+      "word": "appalling",
       "type": "single",
       "chapterIndex": 12,
-      "globalIndex": 392,
-      "chapter": "ch020",
-      "chapterName": "基本词汇 名词200 Unit 10",
+      "globalIndex": 432,
+      "chapter": "ch022",
+      "chapterName": "基本词汇 形容词和副词400 Unit 2",
       "pronunciation": {
-        "us": "/ˈvɪʒ.ən/"
+        "us": "/əˈpɔːlɪŋ/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "令人震惊的",
+          "en": "Very bad or shocking; causing horror."
+        },
+        {
+          "pos": "adj.",
+          "zh": "可怕的",
+          "en": "Extremely unpleasant or unacceptable."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The conditions in the refugee camp were appalling and unacceptable.",
+          "zh": "难民营的条件令人震惊，无法接受。"
+        },
+        {
+          "en": "She received appalling treatment from her colleagues at work.",
+          "zh": "她在工作中遭受同事令人震惊的对待。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=appalling&type=2"
+    },
+    {
+      "id": "w00342",
+      "word": "scandal",
+      "type": "single",
+      "chapterIndex": 2,
+      "globalIndex": 342,
+      "chapter": "ch018",
+      "chapterName": "基本词汇 名词200 Unit 8",
+      "pronunciation": {
+        "us": "/ˈskændl/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "视力；愿景",
-          "en": "The ability to see or a plan for the future."
+          "zh": "丑闻",
+          "en": "A scandal is an action or event that causes public outrage or shock."
         },
         {
-          "pos": "v.",
-          "zh": "想象；设想",
-          "en": "To imagine or conceive something in the mind."
+          "pos": "n.",
+          "zh": "丑闻",
+          "en": "A scandal can also refer to a widely publicized incident that damages someone's reputation."
         }
       ],
       "examples": [
         {
-          "en": "Her vision for the project inspired everyone on the team.",
-          "zh": "她对项目的愿景激励了团队中的每一个人。"
+          "en": "The politician resigned after the financial scandal was revealed.",
+          "zh": "这位政治家在财务丑闻曝光后辞职了。"
         },
         {
-          "en": "He has a clear vision of what he wants to achieve in life.",
-          "zh": "他对自己想要在生活中实现的目标有清晰的愿景。"
+          "en": "The celebrity's scandal dominated the news for weeks.",
+          "zh": "这位名人的丑闻主导了新闻报道几周。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'vision' comes from the Latin 'visio', meaning 'sight' or 'to see'."
+        "association": "Think of 'scandal' as a 'scary candle' that lights up dark secrets."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vision&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=scandal&type=2"
+    },
+    {
+      "id": "w00352",
+      "word": "strain",
+      "type": "single",
+      "chapterIndex": 12,
+      "globalIndex": 352,
+      "chapter": "ch018",
+      "chapterName": "基本词汇 名词200 Unit 8",
+      "pronunciation": {
+        "us": "/streɪn/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "施加压力",
+          "en": "To exert pressure or force on something."
+        },
+        {
+          "pos": "n.",
+          "zh": "压力",
+          "en": "A state of tension or stress."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The constant strain of work led to his health problems.",
+          "zh": "持续的工作压力导致了他的健康问题。"
+        },
+        {
+          "en": "She felt a strain in her back after lifting the heavy box.",
+          "zh": "搬动重箱子后，她感到背部有些紧张。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'strain' as a string being pulled tight; it represents tension."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=strain&type=2"
+    },
+    {
+      "id": "w00177",
+      "word": "raise",
+      "type": "single",
+      "chapterIndex": 17,
+      "globalIndex": 177,
+      "chapter": "ch009",
+      "chapterName": "基本词汇 动词200 Unit 9",
+      "pronunciation": {
+        "us": "/reɪz/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "提高",
+          "en": "To lift something to a higher position or level."
+        },
+        {
+          "pos": "v.",
+          "zh": "增加",
+          "en": "To increase the amount, level, or intensity of something."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The government plans to raise taxes next year to improve public services.",
+          "zh": "政府计划明年提高税收以改善公共服务。"
+        },
+        {
+          "en": "She wants to raise awareness about environmental issues in her community.",
+          "zh": "她想提高社区对环境问题的意识。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=raise&type=2"
+    },
+    {
+      "id": "w00410",
+      "word": "accountable",
+      "type": "single",
+      "chapterIndex": 10,
+      "globalIndex": 410,
+      "chapter": "ch021",
+      "chapterName": "基本词汇 形容词和副词400 Unit 1",
+      "pronunciation": {
+        "us": "/əˈkaʊntəbl/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "负有责任的",
+          "en": "Being responsible for something or someone."
+        },
+        {
+          "pos": "adj.",
+          "zh": "可解释的",
+          "en": "Able to explain one's actions or decisions."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The manager is accountable for the team's performance.",
+          "zh": "经理对团队的表现负有责任。"
+        },
+        {
+          "en": "Students must be accountable for their own learning.",
+          "zh": "学生必须对自己的学习负责。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'accountable' comes from the root 'account', which means to explain or justify."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=accountable&type=2"
+    },
+    {
+      "id": "w01251",
+      "word": "dishonest",
+      "type": "single",
+      "chapterIndex": 11,
+      "globalIndex": 1251,
+      "chapter": "ch063",
+      "chapterName": "核心词汇 青少年教育 Unit 3",
+      "pronunciation": {
+        "us": "/dɪsˈhɒn.ɪst/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "不诚实的",
+          "en": "Not telling the truth; likely to cheat or deceive."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The dishonest salesman tricked many customers into buying faulty products.",
+          "zh": "这个不诚实的销售员欺骗了许多顾客购买有缺陷的产品。"
+        },
+        {
+          "en": "It is important to avoid dishonest behavior in all situations.",
+          "zh": "在任何情况下都要避免不诚实的行为是很重要的。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'dishonest' as 'not honest', which can help you remember its meaning."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dishonest&type=2"
+    },
+    {
+      "id": "w01181",
+      "word": "sinister",
+      "type": "single",
+      "chapterIndex": 1,
+      "globalIndex": 1181,
+      "chapter": "ch060",
+      "chapterName": "核心词汇 伦理与道德 Unit 5",
+      "pronunciation": {
+        "us": "/ˈsɪn.ɪ.stər/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "阴险的",
+          "en": "Something that suggests evil or harm."
+        },
+        {
+          "pos": "adj.",
+          "zh": "不详的",
+          "en": "Something that gives a feeling of danger or bad luck."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The dark clouds gave the scene a sinister feeling.",
+          "zh": "乌云给这个场景带来了阴险的感觉。"
+        },
+        {
+          "en": "He had a sinister smile that made her uneasy.",
+          "zh": "他那阴险的微笑让她感到不安。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'sinister' as 'sin' which relates to evil, helping you remember its dark meaning."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sinister&type=2"
+    },
+    {
+      "id": "w01017",
+      "word": "cherish",
+      "type": "single",
+      "chapterIndex": 17,
+      "globalIndex": 1017,
+      "chapter": "ch051",
+      "chapterName": "核心词汇 文化与传统 Unit 1",
+      "pronunciation": {
+        "us": "/ˈtʃɛrɪʃ/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "珍惜，珍爱",
+          "en": "To hold something dear or to value it greatly."
+        },
+        {
+          "pos": "v.",
+          "zh": "怀念，怀有",
+          "en": "To remember fondly or keep in one's heart."
+        }
+      ],
+      "examples": [
+        {
+          "en": "I cherish the moments spent with my family during holidays.",
+          "zh": "我珍惜与家人共度的假期时光。"
+        },
+        {
+          "en": "She cherishes her childhood memories and often reflects on them.",
+          "zh": "她珍视自己的童年记忆，常常回忆起那些时光。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cherish&type=2"
     }
   ]
 }

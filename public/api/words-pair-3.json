@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-26T22:08:13.922Z",
+  "generated": "2025-12-27T22:07:50.241Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "heredity",
-      "pronunciation": "/həˈrɛdəti/",
+      "word": "caning",
+      "pronunciation": "/ˈkeɪnɪŋ/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "遗传",
-          "en": "The passing of traits from parents to their children."
+          "zh": "鞭打",
+          "en": "The act of hitting someone with a cane as a punishment."
         },
         {
-          "pos": "n.",
-          "zh": "遗传特征",
-          "en": "The characteristics that are inherited from one's ancestors."
+          "pos": "v.",
+          "zh": "用藤条打",
+          "en": "To punish someone by hitting them with a cane."
         }
       ],
       "examples": [
         {
-          "en": "Heredity plays a significant role in determining physical traits.",
-          "zh": "遗传在决定身体特征中起着重要作用。"
+          "en": "The school implemented caning as a form of discipline for serious offenses.",
+          "zh": "学校实施了鞭打作为对严重违规行为的惩罚。"
         },
         {
-          "en": "Many diseases can be linked to heredity and genetic factors.",
-          "zh": "许多疾病可以与遗传和遗传因素相关联。"
+          "en": "Many countries have banned caning due to its harsh nature.",
+          "zh": "许多国家已禁止鞭打，因为其性质过于严厉。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'heredity' comes from the Latin 'hereditas', meaning 'inheritance'."
+        "association": "Think of 'cane' as both the tool used for caning and a walking stick, which can evoke a strong visual connection."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=heredity&type=2",
-      "chapter": "核心词汇 健康话题 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=caning&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 2"
     },
     {
-      "word": "infection",
-      "pronunciation": "/ɪnˈfɛkʃən/",
+      "word": "sluttish",
+      "pronunciation": "/ˈslʌtɪʃ/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "感染",
-          "en": "The invasion of the body by harmful organisms that cause illness."
+          "pos": "adj.",
+          "zh": "邋遢的，懒散的",
+          "en": "Having a dirty or untidy appearance; careless."
         },
         {
-          "pos": "n.",
-          "zh": "传染病",
-          "en": "A disease that can be spread from one person to another."
+          "pos": "adj.",
+          "zh": "不修边幅的，放荡的",
+          "en": "Indicating a lack of care in appearance or behavior."
         }
       ],
       "examples": [
         {
-          "en": "He contracted a serious infection after the surgery.",
-          "zh": "他在手术后感染了严重的感染。"
+          "en": "Her sluttish appearance made it difficult to take her seriously.",
+          "zh": "她邋遢的外表让人很难认真对待她。"
         },
         {
-          "en": "Vaccination helps prevent the spread of infectious diseases.",
-          "zh": "疫苗接种有助于防止传染病的传播。"
+          "en": "His sluttish behavior at the party surprised everyone.",
+          "zh": "他在聚会上的放荡行为让所有人都感到惊讶。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'infection' comes from the Latin 'infectio', meaning 'to taint or dye'."
+        "association": "Think of 'slut' in 'sluttish' as a link to being careless about appearance."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=infection&type=2",
-      "chapter": "核心词汇 健康话题 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sluttish&type=2",
+      "chapter": "核心词汇 伦理与道德 Unit 5"
     }
   ]
 }

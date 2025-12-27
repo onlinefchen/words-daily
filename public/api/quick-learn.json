@@ -1,68 +1,68 @@
 {
-  "generated": "2025-12-26T22:08:13.921Z",
+  "generated": "2025-12-27T22:07:50.240Z",
   "count": 2,
   "words": [
     {
-      "word": "glacier",
-      "pronunciation": "/ˈɡleɪʃər/",
+      "word": "wax",
+      "pronunciation": "/wæks/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "冰川",
-          "en": "A large, slow-moving mass of ice that forms from compacted snow."
+          "pos": "v.",
+          "zh": "给...上蜡",
+          "en": "To apply a layer of wax on a surface to protect it."
         },
         {
           "pos": "n.",
-          "zh": "冰川",
-          "en": "A persistent body of dense ice that covers the land and moves under its own weight."
+          "zh": "蜡",
+          "en": "A substance that is solid at room temperature and is used for making candles or coating surfaces."
         }
       ],
       "examples": [
         {
-          "en": "The glacier slowly melted due to rising global temperatures.",
-          "zh": "由于全球气温上升，冰川缓慢融化。"
+          "en": "She decided to wax her car to keep it shiny and protected.",
+          "zh": "她决定给汽车上蜡，以保持光亮和保护。"
         },
         {
-          "en": "Scientists study glaciers to understand climate change better.",
-          "zh": "科学家研究冰川以更好地了解气候变化。"
+          "en": "The artist used wax to create detailed sculptures and models.",
+          "zh": "艺术家使用蜡来创作精细的雕塑和模型。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'glacier' as 'glassy' ice moving slowly down a mountain."
+        "association": "Think of 'waxing' as making something shine, like waxing a floor for a glossy finish."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=glacier&type=2",
-      "chapter": "认知词汇 自然分类 \"厄尔尼诺\"现象"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=wax&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "forest clearing",
-      "pronunciation": "/ˈfɔːrɪst ˈklɪərɪŋ/",
+      "word": "revitalisation",
+      "pronunciation": "/ˌriːˌvaɪtəlaɪˈzeɪʃən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "森林空地",
-          "en": "An open area in a forest where there are no trees."
+          "zh": "复兴，振兴",
+          "en": "The process of making something strong, healthy, or active again."
         },
         {
           "pos": "n.",
-          "zh": "森林开垦",
-          "en": "The act of clearing trees from a part of a forest."
+          "zh": "恢复，复苏",
+          "en": "A renewal or improvement of something that has become weak or inactive."
         }
       ],
       "examples": [
         {
-          "en": "The deer grazed peacefully in the forest clearing.",
-          "zh": "鹿在森林空地上安静地吃草。"
+          "en": "The revitalisation of the town has attracted many new businesses.",
+          "zh": "这个城镇的复兴吸引了许多新企业。"
         },
         {
-          "en": "The forest clearing was perfect for our picnic.",
-          "zh": "森林空地非常适合我们的野餐。"
+          "en": "The government plans a revitalisation project for the local economy.",
+          "zh": "政府计划对当地经济进行振兴项目。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'clear' space in a 'forest' where you can see the sky."
+        "etymology": "The word comes from the Latin 'vita', meaning life, indicating bringing life back to something."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=forest%20clearing&type=2",
-      "chapter": "认知词汇 自然分类 热带雨林"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=revitalisation&type=2",
+      "chapter": "核心词汇 文化与传统 Unit 5"
     }
   ]
 }

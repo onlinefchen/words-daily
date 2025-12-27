@@ -1,67 +1,67 @@
 {
-  "generated": "2025-12-26T22:08:13.922Z",
+  "generated": "2025-12-27T22:07:50.242Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "confidence",
-      "pronunciation": "/ˈkɒnfɪdəns/",
+      "word": "strain",
+      "pronunciation": "/streɪn/",
       "meanings": [
-        {
-          "pos": "n.",
-          "zh": "信心，自信",
-          "en": "A feeling of trust in one's abilities or qualities."
-        },
-        {
-          "pos": "n.",
-          "zh": "信任，依赖",
-          "en": "The belief that someone or something is reliable."
-        }
-      ],
-      "examples": [
-        {
-          "en": "She spoke with confidence during her presentation to the class.",
-          "zh": "她在课堂上的演讲中充满自信。"
-        },
-        {
-          "en": "Building confidence is essential for success in any field.",
-          "zh": "建立自信对任何领域的成功至关重要。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=confidence&type=2",
-      "chapter": "核心词汇 法制与犯罪 Unit 1"
-    },
-    {
-      "word": "peer",
-      "pronunciation": "/pɪr/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "同龄人，同行",
-          "en": "A person who is of similar age or status as another."
-        },
         {
           "pos": "v.",
-          "zh": "凝视，审视",
-          "en": "To look closely or carefully at something."
+          "zh": "施加压力",
+          "en": "To exert pressure or force on something."
+        },
+        {
+          "pos": "n.",
+          "zh": "压力",
+          "en": "A state of tension or stress."
         }
       ],
       "examples": [
         {
-          "en": "Many teenagers feel pressured to fit in with their peers.",
-          "zh": "许多青少年感到被同龄人所施加的压力，想要融入其中。"
+          "en": "The constant strain of work led to his health problems.",
+          "zh": "持续的工作压力导致了他的健康问题。"
         },
         {
-          "en": "She decided to peer through the window to see what was happening.",
-          "zh": "她决定透过窗户仔细查看发生了什么。"
+          "en": "She felt a strain in her back after lifting the heavy box.",
+          "zh": "搬动重箱子后，她感到背部有些紧张。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'peer' as 'pair', referring to people who are alike, like a pair of friends."
+        "association": "Think of 'strain' as a string being pulled tight; it represents tension."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=peer&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 8"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=strain&type=2",
+      "chapter": "基本词汇 名词200 Unit 8"
+    },
+    {
+      "word": "raise",
+      "pronunciation": "/reɪz/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "提高",
+          "en": "To lift something to a higher position or level."
+        },
+        {
+          "pos": "v.",
+          "zh": "增加",
+          "en": "To increase the amount, level, or intensity of something."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The government plans to raise taxes next year to improve public services.",
+          "zh": "政府计划明年提高税收以改善公共服务。"
+        },
+        {
+          "en": "She wants to raise awareness about environmental issues in her community.",
+          "zh": "她想提高社区对环境问题的意识。"
+        }
+      ],
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=raise&type=2",
+      "chapter": "基本词汇 动词200 Unit 9"
     }
   ]
 }

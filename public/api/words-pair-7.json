@@ -1,67 +1,67 @@
 {
-  "generated": "2025-12-26T22:08:13.922Z",
+  "generated": "2025-12-27T22:07:50.241Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "vigour",
-      "pronunciation": "/ˈvɪɡər/",
+      "word": "appalling",
+      "pronunciation": "/əˈpɔːlɪŋ/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "活力；精力",
-          "en": "The physical strength and energy to do something."
+          "pos": "adj.",
+          "zh": "令人震惊的",
+          "en": "Very bad or shocking; causing horror."
         },
         {
-          "pos": "n.",
-          "zh": "力量；强度",
-          "en": "The intensity or force of something."
+          "pos": "adj.",
+          "zh": "可怕的",
+          "en": "Extremely unpleasant or unacceptable."
         }
       ],
       "examples": [
         {
-          "en": "She approached the challenge with great vigour and determination.",
-          "zh": "她以极大的活力和决心面对这个挑战。"
+          "en": "The conditions in the refugee camp were appalling and unacceptable.",
+          "zh": "难民营的条件令人震惊，无法接受。"
         },
         {
-          "en": "The team played with vigour, showcasing their skills on the field.",
-          "zh": "球队表现出活力，展示了他们在场上的技能。"
+          "en": "She received appalling treatment from her colleagues at work.",
+          "zh": "她在工作中遭受同事令人震惊的对待。"
         }
       ],
       "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vigour&type=2",
-      "chapter": "核心词汇 工作与生活 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=appalling&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 2"
     },
     {
-      "word": "vice",
-      "pronunciation": "/vaɪs/",
+      "word": "scandal",
+      "pronunciation": "/ˈskændl/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "恶习",
-          "en": "A bad habit or immoral behavior."
+          "zh": "丑闻",
+          "en": "A scandal is an action or event that causes public outrage or shock."
         },
         {
           "pos": "n.",
-          "zh": "副手",
-          "en": "A person who acts as a substitute or assistant."
+          "zh": "丑闻",
+          "en": "A scandal can also refer to a widely publicized incident that damages someone's reputation."
         }
       ],
       "examples": [
         {
-          "en": "His vice of gambling caused many problems in his life.",
-          "zh": "他赌博的恶习给他的生活带来了很多问题。"
+          "en": "The politician resigned after the financial scandal was revealed.",
+          "zh": "这位政治家在财务丑闻曝光后辞职了。"
         },
         {
-          "en": "The vice president will attend the meeting tomorrow.",
-          "zh": "副总统明天将参加会议。"
+          "en": "The celebrity's scandal dominated the news for weeks.",
+          "zh": "这位名人的丑闻主导了新闻报道几周。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'vice' comes from the Latin 'vitium', meaning 'fault' or 'defect'."
+        "association": "Think of 'scandal' as a 'scary candle' that lights up dark secrets."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vice&type=2",
-      "chapter": "核心词汇 工作与生活 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=scandal&type=2",
+      "chapter": "基本词汇 名词200 Unit 8"
     }
   ]
 }
