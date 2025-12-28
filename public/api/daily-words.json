@@ -1,754 +1,751 @@
 {
-  "generated": "2025-12-27T22:07:50.240Z",
-  "date": "2025-12-27",
+  "generated": "2025-12-28T22:08:04.465Z",
+  "date": "2025-12-28",
   "totalWords": 20,
   "words": [
     {
-      "id": "w02247",
-      "word": "wax",
+      "id": "w01674",
+      "word": "pessimism",
       "type": "single",
-      "chapterIndex": 347,
-      "globalIndex": 2247,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
+      "chapterIndex": 14,
+      "globalIndex": 1674,
+      "chapter": "ch084",
+      "chapterName": "核心词汇 工作与生活 Unit 4",
       "pronunciation": {
-        "us": "/wæks/"
+        "us": "/ˈpɛsɪˌmɪzəm/"
       },
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "给...上蜡",
-          "en": "To apply a layer of wax on a surface to protect it."
+          "pos": "n.",
+          "zh": "悲观主义",
+          "en": "A tendency to see the worst aspect of things or believe that the worst will happen."
         },
         {
           "pos": "n.",
-          "zh": "蜡",
-          "en": "A substance that is solid at room temperature and is used for making candles or coating surfaces."
+          "zh": "消极情绪",
+          "en": "A feeling of negativity or lack of hope about future events."
         }
       ],
       "examples": [
         {
-          "en": "She decided to wax her car to keep it shiny and protected.",
-          "zh": "她决定给汽车上蜡，以保持光亮和保护。"
+          "en": "Her pessimism about the project discouraged the team from trying their best.",
+          "zh": "她对这个项目的悲观态度使团队失去了最佳表现的动力。"
         },
         {
-          "en": "The artist used wax to create detailed sculptures and models.",
-          "zh": "艺术家使用蜡来创作精细的雕塑和模型。"
+          "en": "Despite the challenges, his optimism overcame her pessimism about the future.",
+          "zh": "尽管面临挑战，他的乐观战胜了她对未来的悲观。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'waxing' as making something shine, like waxing a floor for a glossy finish."
+        "association": "Think of 'pessimist' as someone who always sees the glass as half empty."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=wax&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pessimism&type=2"
     },
     {
-      "id": "w01081",
-      "word": "revitalisation",
+      "id": "w03110",
+      "word": "gaseous contaminant",
+      "type": "phrase",
+      "chapterIndex": 29,
+      "globalIndex": 3110,
+      "chapter": "ch115",
+      "chapterName": "认知词汇 健康分类 室内空气综合征",
+      "pronunciation": {
+        "us": "/ˈɡeɪ.zi.əs kənˈtæmɪnənt/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "气体污染物",
+          "en": "A substance in the air that can harm health or the environment."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Gaseous contaminants can lead to respiratory problems in humans.",
+          "zh": "气体污染物可能导致人类呼吸问题。"
+        },
+        {
+          "en": "Reducing gaseous contaminants is essential for cleaner air.",
+          "zh": "减少气体污染物对清洁空气至关重要。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=gaseous%20contaminant&type=2"
+    },
+    {
+      "id": "w05172",
+      "word": "freeway",
       "type": "single",
+      "chapterIndex": 14,
+      "globalIndex": 5172,
+      "chapter": "ch161",
+      "chapterName": "阅读真题认知词汇 电脑化的交通工具",
+      "pronunciation": {
+        "us": "/ˈfriːˌweɪ/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "高速公路",
+          "en": "A major road designed for fast traffic, often with multiple lanes."
+        },
+        {
+          "pos": "n.",
+          "zh": "快速道路",
+          "en": "A large road that allows vehicles to travel quickly between cities."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Driving on the freeway allows you to reach your destination faster.",
+          "zh": "在高速公路上驾驶可以更快到达目的地。"
+        },
+        {
+          "en": "Many people prefer to take the freeway for longer trips.",
+          "zh": "许多人在长途旅行中更喜欢走高速公路。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of the word 'free' as in 'freedom' to drive fast without many stops."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=freeway&type=2"
+    },
+    {
+      "id": "w03845",
+      "word": "mechanical watch",
+      "type": "phrase",
       "chapterIndex": 1,
-      "globalIndex": 1081,
-      "chapter": "ch055",
-      "chapterName": "核心词汇 文化与传统 Unit 5",
+      "globalIndex": 3845,
+      "chapter": "ch127",
+      "chapterName": "认知词汇 历史分类 记时器发展史",
       "pronunciation": {
-        "us": "/ˌriːˌvaɪtəlaɪˈzeɪʃən/"
+        "us": "/məˈkænɪkəl wɑtʃ/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "复兴，振兴",
-          "en": "The process of making something strong, healthy, or active again."
+          "zh": "机械手表",
+          "en": "A watch that uses gears and springs to keep time."
         },
         {
           "pos": "n.",
-          "zh": "恢复，复苏",
-          "en": "A renewal or improvement of something that has become weak or inactive."
+          "zh": "机械表",
+          "en": "A traditional type of watch, as opposed to a digital one."
         }
       ],
       "examples": [
         {
-          "en": "The revitalisation of the town has attracted many new businesses.",
-          "zh": "这个城镇的复兴吸引了许多新企业。"
+          "en": "Many people prefer a mechanical watch for its craftsmanship and style.",
+          "zh": "许多人更喜欢机械手表，因为它的工艺和风格。"
         },
         {
-          "en": "The government plans a revitalisation project for the local economy.",
-          "zh": "政府计划对当地经济进行振兴项目。"
+          "en": "A mechanical watch can last for many years with proper care.",
+          "zh": "机械手表如果得到妥善保养，可以使用很多年。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word comes from the Latin 'vita', meaning life, indicating bringing life back to something."
+        "association": "Think of 'mechanical' as relating to machines and 'watch' as something that tells time. Together, they create a classic, timeless beauty."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=revitalisation&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=mechanical%20watch&type=2"
     },
     {
-      "id": "w00051",
-      "word": "classify",
-      "type": "single",
-      "chapterIndex": 11,
-      "globalIndex": 51,
-      "chapter": "ch003",
-      "chapterName": "基本词汇 动词200 Unit 3",
-      "pronunciation": {
-        "us": "/ˈklæs.ɪ.faɪ/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "分类",
-          "en": "To arrange people or things into groups based on shared qualities or characteristics."
-        },
-        {
-          "pos": "v.",
-          "zh": "确定类别",
-          "en": "To determine the category or type of something."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Scientists classify animals based on their physical characteristics.",
-          "zh": "科学家根据动物的物理特征进行分类。"
-        },
-        {
-          "en": "The librarian will classify the new books in the correct section.",
-          "zh": "图书管理员会将新书归类到正确的区域。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'classify' comes from the Latin 'classis', meaning 'class' or 'category'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=classify&type=2"
-    },
-    {
-      "id": "w01233",
-      "word": "corporal",
-      "type": "single",
-      "chapterIndex": 13,
-      "globalIndex": 1233,
-      "chapter": "ch062",
-      "chapterName": "核心词汇 青少年教育 Unit 2",
-      "pronunciation": {
-        "us": "/ˈkɔːr.pɚ.əl/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "肉体的",
-          "en": "Relating to the body; physical."
-        },
-        {
-          "pos": "n.",
-          "zh": "军衔中士",
-          "en": "A rank of officer in the military, below sergeant."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The corporal trained the new recruits every morning.",
-          "zh": "中士每天早晨训练新兵。"
-        },
-        {
-          "en": "Corporal punishment is banned in many schools today.",
-          "zh": "许多学校现在禁止体罚。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'corporal' comes from the Latin 'corpus', meaning 'body'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=corporal&type=2"
-    },
-    {
-      "id": "w01222",
-      "word": "caning",
+      "id": "w01142",
+      "word": "greed",
       "type": "single",
       "chapterIndex": 2,
-      "globalIndex": 1222,
-      "chapter": "ch062",
-      "chapterName": "核心词汇 青少年教育 Unit 2",
+      "globalIndex": 1142,
+      "chapter": "ch058",
+      "chapterName": "核心词汇 伦理与道德 Unit 3",
       "pronunciation": {
-        "us": "/ˈkeɪnɪŋ/"
+        "us": "/ɡriːd/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "鞭打",
-          "en": "The act of hitting someone with a cane as a punishment."
+          "zh": "贪婪",
+          "en": "A strong desire for more than you need, especially wealth."
         },
         {
-          "pos": "v.",
-          "zh": "用藤条打",
-          "en": "To punish someone by hitting them with a cane."
+          "pos": "n.",
+          "zh": "贪心",
+          "en": "An excessive wish to acquire more possessions or power."
         }
       ],
       "examples": [
         {
-          "en": "The school implemented caning as a form of discipline for serious offenses.",
-          "zh": "学校实施了鞭打作为对严重违规行为的惩罚。"
+          "en": "His greed for money led him to make unethical decisions.",
+          "zh": "他对金钱的贪婪使他做出了不道德的决定。"
         },
         {
-          "en": "Many countries have banned caning due to its harsh nature.",
-          "zh": "许多国家已禁止鞭打，因为其性质过于严厉。"
+          "en": "Greed can destroy relationships and lead to unhappiness.",
+          "zh": "贪婪会破坏人际关系，导致不快乐。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'cane' as both the tool used for caning and a walking stick, which can evoke a strong visual connection."
+        "association": "Think of a person greedily grabbing all the food at a buffet, unable to stop."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=caning&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=greed&type=2"
     },
     {
-      "id": "w01184",
-      "word": "sluttish",
-      "type": "single",
-      "chapterIndex": 4,
-      "globalIndex": 1184,
-      "chapter": "ch060",
-      "chapterName": "核心词汇 伦理与道德 Unit 5",
+      "id": "w03159",
+      "word": "World Health Organisation",
+      "type": "phrase",
+      "chapterIndex": 78,
+      "globalIndex": 3159,
+      "chapter": "ch115",
+      "chapterName": "认知词汇 健康分类 室内空气综合征",
       "pronunciation": {
-        "us": "/ˈslʌtɪʃ/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "邋遢的，懒散的",
-          "en": "Having a dirty or untidy appearance; careless."
-        },
-        {
-          "pos": "adj.",
-          "zh": "不修边幅的，放荡的",
-          "en": "Indicating a lack of care in appearance or behavior."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Her sluttish appearance made it difficult to take her seriously.",
-          "zh": "她邋遢的外表让人很难认真对待她。"
-        },
-        {
-          "en": "His sluttish behavior at the party surprised everyone.",
-          "zh": "他在聚会上的放荡行为让所有人都感到惊讶。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'slut' in 'sluttish' as a link to being careless about appearance."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sluttish&type=2"
-    },
-    {
-      "id": "w00266",
-      "word": "enthusiasm",
-      "type": "single",
-      "chapterIndex": 6,
-      "globalIndex": 266,
-      "chapter": "ch014",
-      "chapterName": "基本词汇 名词200 Unit 4",
-      "pronunciation": {
-        "us": "/ɪnˈθuːziæzəm/"
+        "us": "/wɜrld hɛlθ ˌɔrɡənaɪˈzeɪʃən/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "热情",
-          "en": "A strong feeling of excitement and eagerness."
+          "zh": "世界卫生组织",
+          "en": "An international organization working to promote health and prevent diseases worldwide."
         },
         {
           "pos": "n.",
-          "zh": "热爱",
-          "en": "Great interest in or enjoyment of a particular activity."
+          "zh": "全球健康标准制定者",
+          "en": "A global authority that sets health standards and guidelines for countries."
         }
       ],
       "examples": [
         {
-          "en": "Her enthusiasm for learning languages is truly inspiring.",
-          "zh": "她对学习语言的热情确实令人鼓舞。"
+          "en": "The World Health Organisation plays a crucial role in fighting pandemics.",
+          "zh": "世界卫生组织在抗击疫情中发挥着至关重要的作用。"
         },
         {
-          "en": "The team's enthusiasm helped them win the championship.",
-          "zh": "团队的热情帮助他们赢得了冠军。"
+          "en": "Many countries rely on the World Health Organisation for health advice.",
+          "zh": "许多国家依赖世界卫生组织提供健康建议。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'enthusiasm' as 'in the spirit of the moment,' where you feel excited and eager."
+        "association": "Think of the WHO as a 'worldly helper' for global health."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=enthusiasm&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=World%20Health%20Organisation&type=2"
     },
     {
-      "id": "w00314",
-      "word": "peer",
+      "id": "w00467",
+      "word": "cheating",
       "type": "single",
-      "chapterIndex": 14,
-      "globalIndex": 314,
-      "chapter": "ch016",
-      "chapterName": "基本词汇 名词200 Unit 6",
+      "chapterIndex": 7,
+      "globalIndex": 467,
+      "chapter": "ch024",
+      "chapterName": "基本词汇 形容词和副词400 Unit 4",
       "pronunciation": {
-        "us": "/pɪr/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "同龄人",
-          "en": "A person who is equal to another in age, status, or ability."
-        },
-        {
-          "pos": "v.",
-          "zh": "仔细看",
-          "en": "To look closely or carefully at something."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Students often feel pressure to fit in with their peers.",
-          "zh": "学生常常感受到与同龄人融入的压力。"
-        },
-        {
-          "en": "She peered through the window to see what was happening outside.",
-          "zh": "她透过窗户仔细观察外面发生了什么。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'peer' as 'peer into' something, like looking closely."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=peer&type=2"
-    },
-    {
-      "id": "w01074",
-      "word": "promote",
-      "type": "single",
-      "chapterIndex": 14,
-      "globalIndex": 1074,
-      "chapter": "ch054",
-      "chapterName": "核心词汇 文化与传统 Unit 4",
-      "pronunciation": {
-        "us": "/prəˈmoʊt/"
+        "us": "/ˈtʃiːtɪŋ/"
       },
       "meanings": [
         {
           "pos": "v.",
-          "zh": "促进，提升",
-          "en": "To help something grow or develop."
-        },
-        {
-          "pos": "v.",
-          "zh": "推销，宣传",
-          "en": "To advertise or publicize something to increase its visibility."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The campaign aims to promote healthy eating among children.",
-          "zh": "该活动旨在促进儿童健康饮食。"
-        },
-        {
-          "en": "The company wants to promote its new product through social media.",
-          "zh": "该公司希望通过社交媒体宣传其新产品。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'promote' as 'pro' (for) + 'mote' (motion) - to move something forward."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=promote&type=2"
-    },
-    {
-      "id": "w01078",
-      "word": "relic",
-      "type": "single",
-      "chapterIndex": 18,
-      "globalIndex": 1078,
-      "chapter": "ch054",
-      "chapterName": "核心词汇 文化与传统 Unit 4",
-      "pronunciation": {
-        "us": "/ˈrɛlɪk/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "遗物",
-          "en": "An object or item that has historical or cultural significance."
+          "zh": "作弊",
+          "en": "To act dishonestly to gain an advantage, especially in a test or game."
         },
         {
           "pos": "n.",
-          "zh": "遗迹",
-          "en": "Something that remains from the past and is often of interest."
+          "zh": "作弊行为",
+          "en": "The act of deceiving or breaking rules to achieve unfair success."
         }
       ],
       "examples": [
         {
-          "en": "The museum displayed a relic from an ancient civilization.",
-          "zh": "博物馆展出了一个古代文明的遗物。"
+          "en": "Many students resort to cheating during exams to pass.",
+          "zh": "许多学生在考试中作弊以及格。"
         },
         {
-          "en": "Archaeologists uncovered a relic buried deep in the ground.",
-          "zh": "考古学家在地下深处发现了一个遗迹。"
+          "en": "Cheating undermines the integrity of academic institutions.",
+          "zh": "作弊破坏了学术机构的诚信。"
         }
       ],
-      "memoryTips": {
-        "etymology": "The word 'relic' comes from the Latin 'reliquiae', meaning 'remains' or 'things left behind'.",
-        "association": "Think of 'relic' as something that 'relies' on the past for its significance."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=relic&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cheating&type=2"
     },
     {
-      "id": "w00505",
-      "word": "devoid",
-      "type": "single",
-      "chapterIndex": 5,
-      "globalIndex": 505,
-      "chapter": "ch026",
-      "chapterName": "基本词汇 形容词和副词400 Unit 6",
-      "pronunciation": {
-        "us": "/dɪˈvɔɪd/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "缺乏的",
-          "en": "Completely lacking something."
-        },
-        {
-          "pos": "v.",
-          "zh": "使缺乏",
-          "en": "To remove or take away something."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The room was devoid of any furniture or decoration.",
-          "zh": "这个房间缺乏任何家具或装饰。"
-        },
-        {
-          "en": "She felt devoid of energy after the long meeting.",
-          "zh": "长时间的会议后，她感到精力匮乏。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'devoid' as 'de void' meaning 'empty space'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=devoid&type=2"
-    },
-    {
-      "id": "w01086",
-      "word": "stylish",
-      "type": "single",
-      "chapterIndex": 6,
-      "globalIndex": 1086,
-      "chapter": "ch055",
-      "chapterName": "核心词汇 文化与传统 Unit 5",
-      "pronunciation": {
-        "us": "/ˈstaɪlɪʃ/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "时尚的",
-          "en": "Having a fashionable or elegant appearance."
-        },
-        {
-          "pos": "adj.",
-          "zh": "有风格的",
-          "en": "Characterized by a distinctive or attractive style."
-        }
-      ],
-      "examples": [
-        {
-          "en": "She wore a stylish dress that caught everyone's attention.",
-          "zh": "她穿了一件时尚的裙子，吸引了所有人的注意。"
-        },
-        {
-          "en": "The café has a stylish interior that makes it very popular.",
-          "zh": "这家咖啡馆有一个时尚的内部装修，使它非常受欢迎。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'style' in 'stylish' as a way to remember that stylish means having good style."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=stylish&type=2"
-    },
-    {
-      "id": "w00432",
-      "word": "appalling",
-      "type": "single",
-      "chapterIndex": 12,
-      "globalIndex": 432,
-      "chapter": "ch022",
-      "chapterName": "基本词汇 形容词和副词400 Unit 2",
-      "pronunciation": {
-        "us": "/əˈpɔːlɪŋ/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "令人震惊的",
-          "en": "Very bad or shocking; causing horror."
-        },
-        {
-          "pos": "adj.",
-          "zh": "可怕的",
-          "en": "Extremely unpleasant or unacceptable."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The conditions in the refugee camp were appalling and unacceptable.",
-          "zh": "难民营的条件令人震惊，无法接受。"
-        },
-        {
-          "en": "She received appalling treatment from her colleagues at work.",
-          "zh": "她在工作中遭受同事令人震惊的对待。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=appalling&type=2"
-    },
-    {
-      "id": "w00342",
-      "word": "scandal",
+      "id": "w00202",
+      "word": "absorption",
       "type": "single",
       "chapterIndex": 2,
-      "globalIndex": 342,
-      "chapter": "ch018",
-      "chapterName": "基本词汇 名词200 Unit 8",
+      "globalIndex": 202,
+      "chapter": "ch011",
+      "chapterName": "基本词汇 名词200 Unit 1",
       "pronunciation": {
-        "us": "/ˈskændl/"
+        "us": "/əbˈzɔːrpʃən/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "丑闻",
-          "en": "A scandal is an action or event that causes public outrage or shock."
+          "zh": "吸收",
+          "en": "The process of taking in substances, like nutrients or energy."
         },
         {
           "pos": "n.",
-          "zh": "丑闻",
-          "en": "A scandal can also refer to a widely publicized incident that damages someone's reputation."
+          "zh": "理解",
+          "en": "The ability to understand and retain information."
         }
       ],
       "examples": [
         {
-          "en": "The politician resigned after the financial scandal was revealed.",
-          "zh": "这位政治家在财务丑闻曝光后辞职了。"
+          "en": "The plant's absorption of sunlight is crucial for photosynthesis.",
+          "zh": "植物对阳光的吸收对光合作用至关重要。"
         },
         {
-          "en": "The celebrity's scandal dominated the news for weeks.",
-          "zh": "这位名人的丑闻主导了新闻报道几周。"
+          "en": "Her quick absorption of new concepts impressed the teacher.",
+          "zh": "她快速理解新概念让老师印象深刻。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'scandal' as a 'scary candle' that lights up dark secrets."
+        "etymology": "The word 'absorption' comes from the Latin 'ab-,' meaning 'away from,' and 'sorbere,' meaning 'to suck.'"
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=scandal&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=absorption&type=2"
     },
     {
-      "id": "w00352",
-      "word": "strain",
+      "id": "w00169",
+      "word": "preserve",
       "type": "single",
-      "chapterIndex": 12,
-      "globalIndex": 352,
-      "chapter": "ch018",
-      "chapterName": "基本词汇 名词200 Unit 8",
-      "pronunciation": {
-        "us": "/streɪn/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "施加压力",
-          "en": "To exert pressure or force on something."
-        },
-        {
-          "pos": "n.",
-          "zh": "压力",
-          "en": "A state of tension or stress."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The constant strain of work led to his health problems.",
-          "zh": "持续的工作压力导致了他的健康问题。"
-        },
-        {
-          "en": "She felt a strain in her back after lifting the heavy box.",
-          "zh": "搬动重箱子后，她感到背部有些紧张。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'strain' as a string being pulled tight; it represents tension."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=strain&type=2"
-    },
-    {
-      "id": "w00177",
-      "word": "raise",
-      "type": "single",
-      "chapterIndex": 17,
-      "globalIndex": 177,
+      "chapterIndex": 9,
+      "globalIndex": 169,
       "chapter": "ch009",
       "chapterName": "基本词汇 动词200 Unit 9",
       "pronunciation": {
-        "us": "/reɪz/"
+        "us": "/prɪˈzɜrv/"
       },
       "meanings": [
         {
           "pos": "v.",
-          "zh": "提高",
-          "en": "To lift something to a higher position or level."
+          "zh": "保护，保存",
+          "en": "To keep something in its original state or condition."
         },
         {
-          "pos": "v.",
-          "zh": "增加",
-          "en": "To increase the amount, level, or intensity of something."
+          "pos": "n.",
+          "zh": "保护措施",
+          "en": "The act of maintaining something, especially to prevent it from being damaged."
         }
       ],
       "examples": [
         {
-          "en": "The government plans to raise taxes next year to improve public services.",
-          "zh": "政府计划明年提高税收以改善公共服务。"
+          "en": "It is important to preserve wildlife for future generations.",
+          "zh": "保护野生动物对未来世代很重要。"
         },
         {
-          "en": "She wants to raise awareness about environmental issues in her community.",
-          "zh": "她想提高社区对环境问题的意识。"
+          "en": "They will preserve the historical documents in a secure location.",
+          "zh": "他们会把历史文件保存在一个安全的地方。"
         }
       ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=raise&type=2"
+      "memoryTips": {
+        "association": "Think of 'preserve' as keeping something safe, like jam is preserved in a jar."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=preserve&type=2"
     },
     {
-      "id": "w00410",
-      "word": "accountable",
+      "id": "w03173",
+      "word": "chronic",
       "type": "single",
-      "chapterIndex": 10,
-      "globalIndex": 410,
-      "chapter": "ch021",
-      "chapterName": "基本词汇 形容词和副词400 Unit 1",
+      "chapterIndex": 14,
+      "globalIndex": 3173,
+      "chapter": "ch116",
+      "chapterName": "认知词汇 健康分类 吸烟与被动吸烟",
       "pronunciation": {
-        "us": "/əˈkaʊntəbl/"
+        "us": "/ˈkrɒnɪk/"
       },
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "负有责任的",
-          "en": "Being responsible for something or someone."
+          "zh": "慢性的",
+          "en": "Describing something that persists over a long time, especially a disease."
         },
         {
           "pos": "adj.",
-          "zh": "可解释的",
-          "en": "Able to explain one's actions or decisions."
+          "zh": "长期的",
+          "en": "Referring to problems or situations that are ongoing and difficult to resolve."
         }
       ],
       "examples": [
         {
-          "en": "The manager is accountable for the team's performance.",
-          "zh": "经理对团队的表现负有责任。"
+          "en": "He suffers from chronic pain that affects his daily life.",
+          "zh": "他遭受慢性疼痛，影响了他的日常生活。"
         },
         {
-          "en": "Students must be accountable for their own learning.",
-          "zh": "学生必须对自己的学习负责。"
+          "en": "Chronic stress can lead to serious health issues over time.",
+          "zh": "长期压力会导致严重的健康问题。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'accountable' comes from the root 'account', which means to explain or justify."
+        "etymology": "The word 'chronic' comes from the Greek word 'khronikos', meaning 'time'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=accountable&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=chronic&type=2"
     },
     {
-      "id": "w01251",
-      "word": "dishonest",
+      "id": "w00295",
+      "word": "instinct",
       "type": "single",
-      "chapterIndex": 11,
-      "globalIndex": 1251,
-      "chapter": "ch063",
-      "chapterName": "核心词汇 青少年教育 Unit 3",
+      "chapterIndex": 15,
+      "globalIndex": 295,
+      "chapter": "ch015",
+      "chapterName": "基本词汇 名词200 Unit 5",
       "pronunciation": {
-        "us": "/dɪsˈhɒn.ɪst/"
+        "us": "/ˈɪn.stɪŋkt/"
       },
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "不诚实的",
-          "en": "Not telling the truth; likely to cheat or deceive."
+          "pos": "n.",
+          "zh": "本能",
+          "en": "A natural tendency to behave in a certain way."
+        },
+        {
+          "pos": "n.",
+          "zh": "直觉",
+          "en": "A feeling that guides your decisions without logical reasoning."
         }
       ],
       "examples": [
         {
-          "en": "The dishonest salesman tricked many customers into buying faulty products.",
-          "zh": "这个不诚实的销售员欺骗了许多顾客购买有缺陷的产品。"
+          "en": "Her instinct told her to avoid the dark alley.",
+          "zh": "她的直觉告诉她要避开那条黑暗的小巷。"
         },
         {
-          "en": "It is important to avoid dishonest behavior in all situations.",
-          "zh": "在任何情况下都要避免不诚实的行为是很重要的。"
+          "en": "Babies have an instinct to cry when they are hungry.",
+          "zh": "婴儿有饥饿时哭泣的本能。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'dishonest' as 'not honest', which can help you remember its meaning."
+        "association": "Think of 'instinct' as 'in-stinct'—like being 'in sync' with your natural feelings."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dishonest&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=instinct&type=2"
     },
     {
-      "id": "w01181",
-      "word": "sinister",
+      "id": "w03818",
+      "word": "opera",
+      "type": "single",
+      "chapterIndex": 39,
+      "globalIndex": 3818,
+      "chapter": "ch126",
+      "chapterName": "认知词汇 历史分类 电影发展史",
+      "pronunciation": {
+        "us": "/ˈɒp.ə.rə/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "歌剧",
+          "en": "A dramatic work set to music, usually sung."
+        },
+        {
+          "pos": "n.",
+          "zh": "歌剧院",
+          "en": "A building where opera performances take place."
+        }
+      ],
+      "examples": [
+        {
+          "en": "I enjoy watching opera because of the beautiful music and stories.",
+          "zh": "我喜欢看歌剧，因为美妙的音乐和故事。"
+        },
+        {
+          "en": "The opera house was filled with an excited audience last night.",
+          "zh": "昨晚，歌剧院里坐满了兴奋的观众。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'opera' as 'opulent drama' because operas are often grand and luxurious."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=opera&type=2"
+    },
+    {
+      "id": "w00261",
+      "word": "elimination",
       "type": "single",
       "chapterIndex": 1,
-      "globalIndex": 1181,
-      "chapter": "ch060",
-      "chapterName": "核心词汇 伦理与道德 Unit 5",
+      "globalIndex": 261,
+      "chapter": "ch014",
+      "chapterName": "基本词汇 名词200 Unit 4",
       "pronunciation": {
-        "us": "/ˈsɪn.ɪ.stər/"
+        "us": "/ɪˌlɪməˈneɪʃən/"
       },
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "阴险的",
-          "en": "Something that suggests evil or harm."
+          "pos": "n.",
+          "zh": "消除，剔除",
+          "en": "The act of removing something completely."
         },
         {
-          "pos": "adj.",
-          "zh": "不详的",
-          "en": "Something that gives a feeling of danger or bad luck."
+          "pos": "n.",
+          "zh": "淘汰",
+          "en": "The process of getting rid of something that is not needed or useful."
         }
       ],
       "examples": [
         {
-          "en": "The dark clouds gave the scene a sinister feeling.",
-          "zh": "乌云给这个场景带来了阴险的感觉。"
+          "en": "The elimination of waste is crucial for a cleaner environment.",
+          "zh": "消除废物对一个更清洁的环境至关重要。"
         },
         {
-          "en": "He had a sinister smile that made her uneasy.",
-          "zh": "他那阴险的微笑让她感到不安。"
+          "en": "They focused on the elimination of errors in the final report.",
+          "zh": "他们专注于消除最终报告中的错误。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'sinister' as 'sin' which relates to evil, helping you remember its dark meaning."
+        "etymology": "Derived from the Latin word 'eliminare', meaning 'to remove' or 'to turn out'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sinister&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=elimination&type=2"
     },
     {
-      "id": "w01017",
-      "word": "cherish",
+      "id": "w00260",
+      "word": "ecology",
       "type": "single",
-      "chapterIndex": 17,
-      "globalIndex": 1017,
-      "chapter": "ch051",
-      "chapterName": "核心词汇 文化与传统 Unit 1",
+      "chapterIndex": 20,
+      "globalIndex": 260,
+      "chapter": "ch013",
+      "chapterName": "基本词汇 名词200 Unit 3",
       "pronunciation": {
-        "us": "/ˈtʃɛrɪʃ/"
+        "us": "/ɪˈkɑːlədʒi/"
       },
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "珍惜，珍爱",
-          "en": "To hold something dear or to value it greatly."
+          "pos": "n.",
+          "zh": "生态学",
+          "en": "The study of living things and their environment."
         },
         {
-          "pos": "v.",
-          "zh": "怀念，怀有",
-          "en": "To remember fondly or keep in one's heart."
+          "pos": "n.",
+          "zh": "生态",
+          "en": "The relationship between living organisms and their surroundings."
         }
       ],
       "examples": [
         {
-          "en": "I cherish the moments spent with my family during holidays.",
-          "zh": "我珍惜与家人共度的假期时光。"
+          "en": "Ecology helps us understand how species interact with each other.",
+          "zh": "生态学帮助我们理解物种之间是如何相互作用的。"
         },
         {
-          "en": "She cherishes her childhood memories and often reflects on them.",
-          "zh": "她珍视自己的童年记忆，常常回忆起那些时光。"
+          "en": "Protecting ecology is essential for the survival of our planet.",
+          "zh": "保护生态对我们星球的生存至关重要。"
         }
       ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cherish&type=2"
+      "memoryTips": {
+        "etymology": "The word 'ecology' comes from the Greek 'oikos' meaning 'house' and 'logos' meaning 'study'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ecology&type=2"
+    },
+    {
+      "id": "w00186",
+      "word": "remove",
+      "type": "single",
+      "chapterIndex": 6,
+      "globalIndex": 186,
+      "chapter": "ch010",
+      "chapterName": "基本词汇 动词200 Unit 10",
+      "pronunciation": {
+        "us": "/rɪˈmuːv/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "移除",
+          "en": "To take something away from a place."
+        },
+        {
+          "pos": "v.",
+          "zh": "解除",
+          "en": "To eliminate or get rid of something."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Please remove your shoes before entering the house.",
+          "zh": "请在进屋前脱掉鞋子。"
+        },
+        {
+          "en": "He decided to remove the old paint from the walls.",
+          "zh": "他决定把墙上的旧油漆去掉。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'remove' as 're-move' or moving something away again."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=remove&type=2"
+    },
+    {
+      "id": "w00138",
+      "word": "guarantee",
+      "type": "single",
+      "chapterIndex": 18,
+      "globalIndex": 138,
+      "chapter": "ch007",
+      "chapterName": "基本词汇 动词200 Unit 7",
+      "pronunciation": {
+        "us": "/ˌɡærənˈti/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "保证",
+          "en": "To promise that something will happen or be done."
+        },
+        {
+          "pos": "n.",
+          "zh": "保证",
+          "en": "A formal assurance that certain conditions will be fulfilled."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The company guarantees that the product will last for five years.",
+          "zh": "公司保证该产品将使用五年。"
+        },
+        {
+          "en": "She received a guarantee for her new car's warranty.",
+          "zh": "她收到了新车质保的保证。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'guarantee' as a 'guard' that ensures something will happen."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=guarantee&type=2"
+    },
+    {
+      "id": "w03176",
+      "word": "coronary heart disease",
+      "type": "phrase",
+      "chapterIndex": 17,
+      "globalIndex": 3176,
+      "chapter": "ch116",
+      "chapterName": "认知词汇 健康分类 吸烟与被动吸烟",
+      "pronunciation": {
+        "us": "/ˈkɔr.ə.nɛr.i hɑrt dɪˌziːz/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "冠心病",
+          "en": "A heart condition caused by narrowed coronary arteries."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Coronary heart disease is a leading cause of death worldwide.",
+          "zh": "冠心病是全球主要的死亡原因之一。"
+        },
+        {
+          "en": "Lifestyle changes can help reduce the risk of coronary heart disease.",
+          "zh": "生活方式的改变可以帮助降低冠心病的风险。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'coronary' as 'crown' arteries that supply the heart, emphasizing their importance."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=coronary%20heart%20disease&type=2"
+    },
+    {
+      "id": "w00126",
+      "word": "experience",
+      "type": "single",
+      "chapterIndex": 6,
+      "globalIndex": 126,
+      "chapter": "ch007",
+      "chapterName": "基本词汇 动词200 Unit 7",
+      "pronunciation": {
+        "us": "/ɪkˈspɪə.ri.əns/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "经历",
+          "en": "The knowledge or skill gained through doing something."
+        },
+        {
+          "pos": "v.",
+          "zh": "经历，体验",
+          "en": "To go through or live through an event."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She has a lot of experience working in international relations.",
+          "zh": "她在国际关系方面有很多经验。"
+        },
+        {
+          "en": "I experienced a wonderful trip to Japan last summer.",
+          "zh": "我去年夏天经历了一次美妙的日本之旅。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'experience' as 'ex-perience', where 'ex' means something that is out of the ordinary, and 'perience' relates to perception or trying something new."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=experience&type=2"
+    },
+    {
+      "id": "w03006",
+      "word": "increment",
+      "type": "single",
+      "chapterIndex": 34,
+      "globalIndex": 3006,
+      "chapter": "ch113",
+      "chapterName": "认知词汇 环境分类 欧洲森林保护",
+      "pronunciation": {
+        "us": "/ˈɪŋkrəmənt/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "增加",
+          "en": "An increase or addition, especially in amount or value."
+        },
+        {
+          "pos": "v.",
+          "zh": "逐渐增加",
+          "en": "To make something greater in size, amount, or value."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The company announced a small increment in salaries for all employees.",
+          "zh": "公司宣布所有员工的薪资将小幅增加。"
+        },
+        {
+          "en": "You can expect an increment in your grades with consistent study.",
+          "zh": "你可以期待通过持续学习来提升你的成绩。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'increment' as 'increasing' something step by step."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=increment&type=2"
+    },
+    {
+      "id": "w00319",
+      "word": "popularisation",
+      "type": "single",
+      "chapterIndex": 19,
+      "globalIndex": 319,
+      "chapter": "ch016",
+      "chapterName": "基本词汇 名词200 Unit 6",
+      "pronunciation": {
+        "us": "/ˌpɑːp.jə.ləˈzeɪ.ʃən/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "普及，推广",
+          "en": "The act of making something widely known or accepted."
+        },
+        {
+          "pos": "n.",
+          "zh": "流行化，通俗化",
+          "en": "The process of making something popular or well-liked."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The popularisation of technology has changed our daily lives significantly.",
+          "zh": "技术的普及显著改变了我们的日常生活。"
+        },
+        {
+          "en": "The popularisation of healthy eating has influenced many people's diets.",
+          "zh": "健康饮食的普及影响了许多人的饮食习惯。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'popularisation' comes from the Latin 'popularis', meaning 'of the people', combined with the suffix '-ation' to indicate a process."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=popularisation&type=2"
     }
   ]
 }

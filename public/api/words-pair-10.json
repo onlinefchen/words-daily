@@ -1,67 +1,69 @@
 {
-  "generated": "2025-12-27T22:07:50.242Z",
+  "generated": "2025-12-28T22:08:04.466Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "sinister",
-      "pronunciation": "/ˈsɪn.ɪ.stər/",
+      "word": "increment",
+      "pronunciation": "/ˈɪŋkrəmənt/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "阴险的",
-          "en": "Something that suggests evil or harm."
+          "pos": "n.",
+          "zh": "增加",
+          "en": "An increase or addition, especially in amount or value."
         },
         {
-          "pos": "adj.",
-          "zh": "不详的",
-          "en": "Something that gives a feeling of danger or bad luck."
+          "pos": "v.",
+          "zh": "逐渐增加",
+          "en": "To make something greater in size, amount, or value."
         }
       ],
       "examples": [
         {
-          "en": "The dark clouds gave the scene a sinister feeling.",
-          "zh": "乌云给这个场景带来了阴险的感觉。"
+          "en": "The company announced a small increment in salaries for all employees.",
+          "zh": "公司宣布所有员工的薪资将小幅增加。"
         },
         {
-          "en": "He had a sinister smile that made her uneasy.",
-          "zh": "他那阴险的微笑让她感到不安。"
+          "en": "You can expect an increment in your grades with consistent study.",
+          "zh": "你可以期待通过持续学习来提升你的成绩。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'sinister' as 'sin' which relates to evil, helping you remember its dark meaning."
+        "association": "Think of 'increment' as 'increasing' something step by step."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sinister&type=2",
-      "chapter": "核心词汇 伦理与道德 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=increment&type=2",
+      "chapter": "认知词汇 环境分类 欧洲森林保护"
     },
     {
-      "word": "cherish",
-      "pronunciation": "/ˈtʃɛrɪʃ/",
+      "word": "popularisation",
+      "pronunciation": "/ˌpɑːp.jə.ləˈzeɪ.ʃən/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "珍惜，珍爱",
-          "en": "To hold something dear or to value it greatly."
+          "pos": "n.",
+          "zh": "普及，推广",
+          "en": "The act of making something widely known or accepted."
         },
         {
-          "pos": "v.",
-          "zh": "怀念，怀有",
-          "en": "To remember fondly or keep in one's heart."
+          "pos": "n.",
+          "zh": "流行化，通俗化",
+          "en": "The process of making something popular or well-liked."
         }
       ],
       "examples": [
         {
-          "en": "I cherish the moments spent with my family during holidays.",
-          "zh": "我珍惜与家人共度的假期时光。"
+          "en": "The popularisation of technology has changed our daily lives significantly.",
+          "zh": "技术的普及显著改变了我们的日常生活。"
         },
         {
-          "en": "She cherishes her childhood memories and often reflects on them.",
-          "zh": "她珍视自己的童年记忆，常常回忆起那些时光。"
+          "en": "The popularisation of healthy eating has influenced many people's diets.",
+          "zh": "健康饮食的普及影响了许多人的饮食习惯。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cherish&type=2",
-      "chapter": "核心词汇 文化与传统 Unit 1"
+      "memoryTips": {
+        "etymology": "The word 'popularisation' comes from the Latin 'popularis', meaning 'of the people', combined with the suffix '-ation' to indicate a process."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=popularisation&type=2",
+      "chapter": "基本词汇 名词200 Unit 6"
     }
   ]
 }

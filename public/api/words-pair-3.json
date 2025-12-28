@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-27T22:07:50.241Z",
+  "generated": "2025-12-28T22:08:04.466Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "caning",
-      "pronunciation": "/ˈkeɪnɪŋ/",
+      "word": "greed",
+      "pronunciation": "/ɡriːd/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "鞭打",
-          "en": "The act of hitting someone with a cane as a punishment."
+          "zh": "贪婪",
+          "en": "A strong desire for more than you need, especially wealth."
         },
         {
-          "pos": "v.",
-          "zh": "用藤条打",
-          "en": "To punish someone by hitting them with a cane."
+          "pos": "n.",
+          "zh": "贪心",
+          "en": "An excessive wish to acquire more possessions or power."
         }
       ],
       "examples": [
         {
-          "en": "The school implemented caning as a form of discipline for serious offenses.",
-          "zh": "学校实施了鞭打作为对严重违规行为的惩罚。"
+          "en": "His greed for money led him to make unethical decisions.",
+          "zh": "他对金钱的贪婪使他做出了不道德的决定。"
         },
         {
-          "en": "Many countries have banned caning due to its harsh nature.",
-          "zh": "许多国家已禁止鞭打，因为其性质过于严厉。"
+          "en": "Greed can destroy relationships and lead to unhappiness.",
+          "zh": "贪婪会破坏人际关系，导致不快乐。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'cane' as both the tool used for caning and a walking stick, which can evoke a strong visual connection."
+        "association": "Think of a person greedily grabbing all the food at a buffet, unable to stop."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=caning&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=greed&type=2",
+      "chapter": "核心词汇 伦理与道德 Unit 3"
     },
     {
-      "word": "sluttish",
-      "pronunciation": "/ˈslʌtɪʃ/",
+      "word": "World Health Organisation",
+      "pronunciation": "/wɜrld hɛlθ ˌɔrɡənaɪˈzeɪʃən/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "邋遢的，懒散的",
-          "en": "Having a dirty or untidy appearance; careless."
+          "pos": "n.",
+          "zh": "世界卫生组织",
+          "en": "An international organization working to promote health and prevent diseases worldwide."
         },
         {
-          "pos": "adj.",
-          "zh": "不修边幅的，放荡的",
-          "en": "Indicating a lack of care in appearance or behavior."
+          "pos": "n.",
+          "zh": "全球健康标准制定者",
+          "en": "A global authority that sets health standards and guidelines for countries."
         }
       ],
       "examples": [
         {
-          "en": "Her sluttish appearance made it difficult to take her seriously.",
-          "zh": "她邋遢的外表让人很难认真对待她。"
+          "en": "The World Health Organisation plays a crucial role in fighting pandemics.",
+          "zh": "世界卫生组织在抗击疫情中发挥着至关重要的作用。"
         },
         {
-          "en": "His sluttish behavior at the party surprised everyone.",
-          "zh": "他在聚会上的放荡行为让所有人都感到惊讶。"
+          "en": "Many countries rely on the World Health Organisation for health advice.",
+          "zh": "许多国家依赖世界卫生组织提供健康建议。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'slut' in 'sluttish' as a link to being careless about appearance."
+        "association": "Think of the WHO as a 'worldly helper' for global health."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sluttish&type=2",
-      "chapter": "核心词汇 伦理与道德 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=World%20Health%20Organisation&type=2",
+      "chapter": "认知词汇 健康分类 室内空气综合征"
     }
   ]
 }

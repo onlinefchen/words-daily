@@ -1,64 +1,64 @@
 {
-  "generated": "2025-12-27T22:07:50.242Z",
+  "generated": "2025-12-28T22:08:04.466Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "accountable",
-      "pronunciation": "/əˈkaʊntəbl/",
+      "word": "coronary heart disease",
+      "pronunciation": "/ˈkɔr.ə.nɛr.i hɑrt dɪˌziːz/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "负有责任的",
-          "en": "Being responsible for something or someone."
-        },
-        {
-          "pos": "adj.",
-          "zh": "可解释的",
-          "en": "Able to explain one's actions or decisions."
+          "pos": "n.",
+          "zh": "冠心病",
+          "en": "A heart condition caused by narrowed coronary arteries."
         }
       ],
       "examples": [
         {
-          "en": "The manager is accountable for the team's performance.",
-          "zh": "经理对团队的表现负有责任。"
+          "en": "Coronary heart disease is a leading cause of death worldwide.",
+          "zh": "冠心病是全球主要的死亡原因之一。"
         },
         {
-          "en": "Students must be accountable for their own learning.",
-          "zh": "学生必须对自己的学习负责。"
+          "en": "Lifestyle changes can help reduce the risk of coronary heart disease.",
+          "zh": "生活方式的改变可以帮助降低冠心病的风险。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'accountable' comes from the root 'account', which means to explain or justify."
+        "association": "Think of 'coronary' as 'crown' arteries that supply the heart, emphasizing their importance."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=accountable&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=coronary%20heart%20disease&type=2",
+      "chapter": "认知词汇 健康分类 吸烟与被动吸烟"
     },
     {
-      "word": "dishonest",
-      "pronunciation": "/dɪsˈhɒn.ɪst/",
+      "word": "experience",
+      "pronunciation": "/ɪkˈspɪə.ri.əns/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "不诚实的",
-          "en": "Not telling the truth; likely to cheat or deceive."
+          "pos": "n.",
+          "zh": "经历",
+          "en": "The knowledge or skill gained through doing something."
+        },
+        {
+          "pos": "v.",
+          "zh": "经历，体验",
+          "en": "To go through or live through an event."
         }
       ],
       "examples": [
         {
-          "en": "The dishonest salesman tricked many customers into buying faulty products.",
-          "zh": "这个不诚实的销售员欺骗了许多顾客购买有缺陷的产品。"
+          "en": "She has a lot of experience working in international relations.",
+          "zh": "她在国际关系方面有很多经验。"
         },
         {
-          "en": "It is important to avoid dishonest behavior in all situations.",
-          "zh": "在任何情况下都要避免不诚实的行为是很重要的。"
+          "en": "I experienced a wonderful trip to Japan last summer.",
+          "zh": "我去年夏天经历了一次美妙的日本之旅。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'dishonest' as 'not honest', which can help you remember its meaning."
+        "association": "Think of 'experience' as 'ex-perience', where 'ex' means something that is out of the ordinary, and 'perience' relates to perception or trying something new."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dishonest&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=experience&type=2",
+      "chapter": "基本词汇 动词200 Unit 7"
     }
   ]
 }

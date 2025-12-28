@@ -1,69 +1,62 @@
 {
-  "generated": "2025-12-27T22:07:50.241Z",
+  "generated": "2025-12-28T22:08:04.466Z",
   "pair": 1,
   "count": 2,
   "words": [
     {
-      "word": "wax",
-      "pronunciation": "/wæks/",
+      "word": "pessimism",
+      "pronunciation": "/ˈpɛsɪˌmɪzəm/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "给...上蜡",
-          "en": "To apply a layer of wax on a surface to protect it."
+          "pos": "n.",
+          "zh": "悲观主义",
+          "en": "A tendency to see the worst aspect of things or believe that the worst will happen."
         },
         {
           "pos": "n.",
-          "zh": "蜡",
-          "en": "A substance that is solid at room temperature and is used for making candles or coating surfaces."
+          "zh": "消极情绪",
+          "en": "A feeling of negativity or lack of hope about future events."
         }
       ],
       "examples": [
         {
-          "en": "She decided to wax her car to keep it shiny and protected.",
-          "zh": "她决定给汽车上蜡，以保持光亮和保护。"
+          "en": "Her pessimism about the project discouraged the team from trying their best.",
+          "zh": "她对这个项目的悲观态度使团队失去了最佳表现的动力。"
         },
         {
-          "en": "The artist used wax to create detailed sculptures and models.",
-          "zh": "艺术家使用蜡来创作精细的雕塑和模型。"
+          "en": "Despite the challenges, his optimism overcame her pessimism about the future.",
+          "zh": "尽管面临挑战，他的乐观战胜了她对未来的悲观。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'waxing' as making something shine, like waxing a floor for a glossy finish."
+        "association": "Think of 'pessimist' as someone who always sees the glass as half empty."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=wax&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pessimism&type=2",
+      "chapter": "核心词汇 工作与生活 Unit 4"
     },
     {
-      "word": "revitalisation",
-      "pronunciation": "/ˌriːˌvaɪtəlaɪˈzeɪʃən/",
+      "word": "gaseous contaminant",
+      "pronunciation": "/ˈɡeɪ.zi.əs kənˈtæmɪnənt/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "复兴，振兴",
-          "en": "The process of making something strong, healthy, or active again."
-        },
-        {
-          "pos": "n.",
-          "zh": "恢复，复苏",
-          "en": "A renewal or improvement of something that has become weak or inactive."
+          "zh": "气体污染物",
+          "en": "A substance in the air that can harm health or the environment."
         }
       ],
       "examples": [
         {
-          "en": "The revitalisation of the town has attracted many new businesses.",
-          "zh": "这个城镇的复兴吸引了许多新企业。"
+          "en": "Gaseous contaminants can lead to respiratory problems in humans.",
+          "zh": "气体污染物可能导致人类呼吸问题。"
         },
         {
-          "en": "The government plans a revitalisation project for the local economy.",
-          "zh": "政府计划对当地经济进行振兴项目。"
+          "en": "Reducing gaseous contaminants is essential for cleaner air.",
+          "zh": "减少气体污染物对清洁空气至关重要。"
         }
       ],
-      "memoryTips": {
-        "etymology": "The word comes from the Latin 'vita', meaning life, indicating bringing life back to something."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=revitalisation&type=2",
-      "chapter": "核心词汇 文化与传统 Unit 5"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=gaseous%20contaminant&type=2",
+      "chapter": "认知词汇 健康分类 室内空气综合征"
     }
   ]
 }

@@ -1,67 +1,69 @@
 {
-  "generated": "2025-12-27T22:07:50.242Z",
+  "generated": "2025-12-28T22:08:04.466Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "strain",
-      "pronunciation": "/streɪn/",
+      "word": "remove",
+      "pronunciation": "/rɪˈmuːv/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "施加压力",
-          "en": "To exert pressure or force on something."
+          "zh": "移除",
+          "en": "To take something away from a place."
         },
         {
-          "pos": "n.",
-          "zh": "压力",
-          "en": "A state of tension or stress."
+          "pos": "v.",
+          "zh": "解除",
+          "en": "To eliminate or get rid of something."
         }
       ],
       "examples": [
         {
-          "en": "The constant strain of work led to his health problems.",
-          "zh": "持续的工作压力导致了他的健康问题。"
+          "en": "Please remove your shoes before entering the house.",
+          "zh": "请在进屋前脱掉鞋子。"
         },
         {
-          "en": "She felt a strain in her back after lifting the heavy box.",
-          "zh": "搬动重箱子后，她感到背部有些紧张。"
+          "en": "He decided to remove the old paint from the walls.",
+          "zh": "他决定把墙上的旧油漆去掉。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'strain' as a string being pulled tight; it represents tension."
+        "association": "Think of 'remove' as 're-move' or moving something away again."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=strain&type=2",
-      "chapter": "基本词汇 名词200 Unit 8"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=remove&type=2",
+      "chapter": "基本词汇 动词200 Unit 10"
     },
     {
-      "word": "raise",
-      "pronunciation": "/reɪz/",
+      "word": "guarantee",
+      "pronunciation": "/ˌɡærənˈti/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "提高",
-          "en": "To lift something to a higher position or level."
+          "zh": "保证",
+          "en": "To promise that something will happen or be done."
         },
         {
-          "pos": "v.",
-          "zh": "增加",
-          "en": "To increase the amount, level, or intensity of something."
+          "pos": "n.",
+          "zh": "保证",
+          "en": "A formal assurance that certain conditions will be fulfilled."
         }
       ],
       "examples": [
         {
-          "en": "The government plans to raise taxes next year to improve public services.",
-          "zh": "政府计划明年提高税收以改善公共服务。"
+          "en": "The company guarantees that the product will last for five years.",
+          "zh": "公司保证该产品将使用五年。"
         },
         {
-          "en": "She wants to raise awareness about environmental issues in her community.",
-          "zh": "她想提高社区对环境问题的意识。"
+          "en": "She received a guarantee for her new car's warranty.",
+          "zh": "她收到了新车质保的保证。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=raise&type=2",
-      "chapter": "基本词汇 动词200 Unit 9"
+      "memoryTips": {
+        "association": "Think of 'guarantee' as a 'guard' that ensures something will happen."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=guarantee&type=2",
+      "chapter": "基本词汇 动词200 Unit 7"
     }
   ]
 }

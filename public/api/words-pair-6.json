@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-27T22:07:50.241Z",
+  "generated": "2025-12-28T22:08:04.466Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "devoid",
-      "pronunciation": "/dɪˈvɔɪd/",
+      "word": "instinct",
+      "pronunciation": "/ˈɪn.stɪŋkt/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "缺乏的",
-          "en": "Completely lacking something."
+          "pos": "n.",
+          "zh": "本能",
+          "en": "A natural tendency to behave in a certain way."
         },
         {
-          "pos": "v.",
-          "zh": "使缺乏",
-          "en": "To remove or take away something."
+          "pos": "n.",
+          "zh": "直觉",
+          "en": "A feeling that guides your decisions without logical reasoning."
         }
       ],
       "examples": [
         {
-          "en": "The room was devoid of any furniture or decoration.",
-          "zh": "这个房间缺乏任何家具或装饰。"
+          "en": "Her instinct told her to avoid the dark alley.",
+          "zh": "她的直觉告诉她要避开那条黑暗的小巷。"
         },
         {
-          "en": "She felt devoid of energy after the long meeting.",
-          "zh": "长时间的会议后，她感到精力匮乏。"
+          "en": "Babies have an instinct to cry when they are hungry.",
+          "zh": "婴儿有饥饿时哭泣的本能。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'devoid' as 'de void' meaning 'empty space'."
+        "association": "Think of 'instinct' as 'in-stinct'—like being 'in sync' with your natural feelings."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=devoid&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 6"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=instinct&type=2",
+      "chapter": "基本词汇 名词200 Unit 5"
     },
     {
-      "word": "stylish",
-      "pronunciation": "/ˈstaɪlɪʃ/",
+      "word": "opera",
+      "pronunciation": "/ˈɒp.ə.rə/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "时尚的",
-          "en": "Having a fashionable or elegant appearance."
+          "pos": "n.",
+          "zh": "歌剧",
+          "en": "A dramatic work set to music, usually sung."
         },
         {
-          "pos": "adj.",
-          "zh": "有风格的",
-          "en": "Characterized by a distinctive or attractive style."
+          "pos": "n.",
+          "zh": "歌剧院",
+          "en": "A building where opera performances take place."
         }
       ],
       "examples": [
         {
-          "en": "She wore a stylish dress that caught everyone's attention.",
-          "zh": "她穿了一件时尚的裙子，吸引了所有人的注意。"
+          "en": "I enjoy watching opera because of the beautiful music and stories.",
+          "zh": "我喜欢看歌剧，因为美妙的音乐和故事。"
         },
         {
-          "en": "The café has a stylish interior that makes it very popular.",
-          "zh": "这家咖啡馆有一个时尚的内部装修，使它非常受欢迎。"
+          "en": "The opera house was filled with an excited audience last night.",
+          "zh": "昨晚，歌剧院里坐满了兴奋的观众。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'style' in 'stylish' as a way to remember that stylish means having good style."
+        "association": "Think of 'opera' as 'opulent drama' because operas are often grand and luxurious."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=stylish&type=2",
-      "chapter": "核心词汇 文化与传统 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=opera&type=2",
+      "chapter": "认知词汇 历史分类 电影发展史"
     }
   ]
 }

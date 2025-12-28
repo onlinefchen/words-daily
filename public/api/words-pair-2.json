@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-27T22:07:50.241Z",
+  "generated": "2025-12-28T22:08:04.466Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "classify",
-      "pronunciation": "/ˈklæs.ɪ.faɪ/",
+      "word": "freeway",
+      "pronunciation": "/ˈfriːˌweɪ/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "分类",
-          "en": "To arrange people or things into groups based on shared qualities or characteristics."
-        },
-        {
-          "pos": "v.",
-          "zh": "确定类别",
-          "en": "To determine the category or type of something."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Scientists classify animals based on their physical characteristics.",
-          "zh": "科学家根据动物的物理特征进行分类。"
-        },
-        {
-          "en": "The librarian will classify the new books in the correct section.",
-          "zh": "图书管理员会将新书归类到正确的区域。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'classify' comes from the Latin 'classis', meaning 'class' or 'category'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=classify&type=2",
-      "chapter": "基本词汇 动词200 Unit 3"
-    },
-    {
-      "word": "corporal",
-      "pronunciation": "/ˈkɔːr.pɚ.əl/",
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "肉体的",
-          "en": "Relating to the body; physical."
+          "pos": "n.",
+          "zh": "高速公路",
+          "en": "A major road designed for fast traffic, often with multiple lanes."
         },
         {
           "pos": "n.",
-          "zh": "军衔中士",
-          "en": "A rank of officer in the military, below sergeant."
+          "zh": "快速道路",
+          "en": "A large road that allows vehicles to travel quickly between cities."
         }
       ],
       "examples": [
         {
-          "en": "The corporal trained the new recruits every morning.",
-          "zh": "中士每天早晨训练新兵。"
+          "en": "Driving on the freeway allows you to reach your destination faster.",
+          "zh": "在高速公路上驾驶可以更快到达目的地。"
         },
         {
-          "en": "Corporal punishment is banned in many schools today.",
-          "zh": "许多学校现在禁止体罚。"
+          "en": "Many people prefer to take the freeway for longer trips.",
+          "zh": "许多人在长途旅行中更喜欢走高速公路。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'corporal' comes from the Latin 'corpus', meaning 'body'."
+        "association": "Think of the word 'free' as in 'freedom' to drive fast without many stops."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=corporal&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=freeway&type=2",
+      "chapter": "阅读真题认知词汇 电脑化的交通工具"
+    },
+    {
+      "word": "mechanical watch",
+      "pronunciation": "/məˈkænɪkəl wɑtʃ/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "机械手表",
+          "en": "A watch that uses gears and springs to keep time."
+        },
+        {
+          "pos": "n.",
+          "zh": "机械表",
+          "en": "A traditional type of watch, as opposed to a digital one."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many people prefer a mechanical watch for its craftsmanship and style.",
+          "zh": "许多人更喜欢机械手表，因为它的工艺和风格。"
+        },
+        {
+          "en": "A mechanical watch can last for many years with proper care.",
+          "zh": "机械手表如果得到妥善保养，可以使用很多年。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'mechanical' as relating to machines and 'watch' as something that tells time. Together, they create a classic, timeless beauty."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=mechanical%20watch&type=2",
+      "chapter": "认知词汇 历史分类 记时器发展史"
     }
   ]
 }

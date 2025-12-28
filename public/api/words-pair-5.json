@@ -1,70 +1,69 @@
 {
-  "generated": "2025-12-27T22:07:50.241Z",
+  "generated": "2025-12-28T22:08:04.466Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "promote",
-      "pronunciation": "/prəˈmoʊt/",
+      "word": "preserve",
+      "pronunciation": "/prɪˈzɜrv/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "促进，提升",
-          "en": "To help something grow or develop."
+          "zh": "保护，保存",
+          "en": "To keep something in its original state or condition."
         },
         {
-          "pos": "v.",
-          "zh": "推销，宣传",
-          "en": "To advertise or publicize something to increase its visibility."
+          "pos": "n.",
+          "zh": "保护措施",
+          "en": "The act of maintaining something, especially to prevent it from being damaged."
         }
       ],
       "examples": [
         {
-          "en": "The campaign aims to promote healthy eating among children.",
-          "zh": "该活动旨在促进儿童健康饮食。"
+          "en": "It is important to preserve wildlife for future generations.",
+          "zh": "保护野生动物对未来世代很重要。"
         },
         {
-          "en": "The company wants to promote its new product through social media.",
-          "zh": "该公司希望通过社交媒体宣传其新产品。"
+          "en": "They will preserve the historical documents in a secure location.",
+          "zh": "他们会把历史文件保存在一个安全的地方。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'promote' as 'pro' (for) + 'mote' (motion) - to move something forward."
+        "association": "Think of 'preserve' as keeping something safe, like jam is preserved in a jar."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=promote&type=2",
-      "chapter": "核心词汇 文化与传统 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=preserve&type=2",
+      "chapter": "基本词汇 动词200 Unit 9"
     },
     {
-      "word": "relic",
-      "pronunciation": "/ˈrɛlɪk/",
+      "word": "chronic",
+      "pronunciation": "/ˈkrɒnɪk/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "遗物",
-          "en": "An object or item that has historical or cultural significance."
+          "pos": "adj.",
+          "zh": "慢性的",
+          "en": "Describing something that persists over a long time, especially a disease."
         },
         {
-          "pos": "n.",
-          "zh": "遗迹",
-          "en": "Something that remains from the past and is often of interest."
+          "pos": "adj.",
+          "zh": "长期的",
+          "en": "Referring to problems or situations that are ongoing and difficult to resolve."
         }
       ],
       "examples": [
         {
-          "en": "The museum displayed a relic from an ancient civilization.",
-          "zh": "博物馆展出了一个古代文明的遗物。"
+          "en": "He suffers from chronic pain that affects his daily life.",
+          "zh": "他遭受慢性疼痛，影响了他的日常生活。"
         },
         {
-          "en": "Archaeologists uncovered a relic buried deep in the ground.",
-          "zh": "考古学家在地下深处发现了一个遗迹。"
+          "en": "Chronic stress can lead to serious health issues over time.",
+          "zh": "长期压力会导致严重的健康问题。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'relic' comes from the Latin 'reliquiae', meaning 'remains' or 'things left behind'.",
-        "association": "Think of 'relic' as something that 'relies' on the past for its significance."
+        "etymology": "The word 'chronic' comes from the Greek word 'khronikos', meaning 'time'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=relic&type=2",
-      "chapter": "核心词汇 文化与传统 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=chronic&type=2",
+      "chapter": "认知词汇 健康分类 吸烟与被动吸烟"
     }
   ]
 }

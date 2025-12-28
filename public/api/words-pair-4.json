@@ -1,69 +1,67 @@
 {
-  "generated": "2025-12-27T22:07:50.241Z",
+  "generated": "2025-12-28T22:08:04.466Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "enthusiasm",
-      "pronunciation": "/ɪnˈθuːziæzəm/",
+      "word": "cheating",
+      "pronunciation": "/ˈtʃiːtɪŋ/",
       "meanings": [
-        {
-          "pos": "n.",
-          "zh": "热情",
-          "en": "A strong feeling of excitement and eagerness."
-        },
-        {
-          "pos": "n.",
-          "zh": "热爱",
-          "en": "Great interest in or enjoyment of a particular activity."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Her enthusiasm for learning languages is truly inspiring.",
-          "zh": "她对学习语言的热情确实令人鼓舞。"
-        },
-        {
-          "en": "The team's enthusiasm helped them win the championship.",
-          "zh": "团队的热情帮助他们赢得了冠军。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'enthusiasm' as 'in the spirit of the moment,' where you feel excited and eager."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=enthusiasm&type=2",
-      "chapter": "基本词汇 名词200 Unit 4"
-    },
-    {
-      "word": "peer",
-      "pronunciation": "/pɪr/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "同龄人",
-          "en": "A person who is equal to another in age, status, or ability."
-        },
         {
           "pos": "v.",
-          "zh": "仔细看",
-          "en": "To look closely or carefully at something."
+          "zh": "作弊",
+          "en": "To act dishonestly to gain an advantage, especially in a test or game."
+        },
+        {
+          "pos": "n.",
+          "zh": "作弊行为",
+          "en": "The act of deceiving or breaking rules to achieve unfair success."
         }
       ],
       "examples": [
         {
-          "en": "Students often feel pressure to fit in with their peers.",
-          "zh": "学生常常感受到与同龄人融入的压力。"
+          "en": "Many students resort to cheating during exams to pass.",
+          "zh": "许多学生在考试中作弊以及格。"
         },
         {
-          "en": "She peered through the window to see what was happening outside.",
-          "zh": "她透过窗户仔细观察外面发生了什么。"
+          "en": "Cheating undermines the integrity of academic institutions.",
+          "zh": "作弊破坏了学术机构的诚信。"
+        }
+      ],
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cheating&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 4"
+    },
+    {
+      "word": "absorption",
+      "pronunciation": "/əbˈzɔːrpʃən/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "吸收",
+          "en": "The process of taking in substances, like nutrients or energy."
+        },
+        {
+          "pos": "n.",
+          "zh": "理解",
+          "en": "The ability to understand and retain information."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The plant's absorption of sunlight is crucial for photosynthesis.",
+          "zh": "植物对阳光的吸收对光合作用至关重要。"
+        },
+        {
+          "en": "Her quick absorption of new concepts impressed the teacher.",
+          "zh": "她快速理解新概念让老师印象深刻。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'peer' as 'peer into' something, like looking closely."
+        "etymology": "The word 'absorption' comes from the Latin 'ab-,' meaning 'away from,' and 'sorbere,' meaning 'to suck.'"
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=peer&type=2",
-      "chapter": "基本词汇 名词200 Unit 6"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=absorption&type=2",
+      "chapter": "基本词汇 名词200 Unit 1"
     }
   ]
 }
