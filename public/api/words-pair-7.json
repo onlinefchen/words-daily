@@ -1,69 +1,67 @@
 {
-  "generated": "2025-12-28T22:08:04.466Z",
+  "generated": "2025-12-29T22:08:06.858Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "elimination",
-      "pronunciation": "/ɪˌlɪməˈneɪʃən/",
+      "word": "compass",
+      "pronunciation": "/ˈkʌm.pəs/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "消除，剔除",
-          "en": "The act of removing something completely."
+          "zh": "指南针",
+          "en": "A device used for finding direction."
         },
         {
-          "pos": "n.",
-          "zh": "淘汰",
-          "en": "The process of getting rid of something that is not needed or useful."
+          "pos": "v.",
+          "zh": "指引",
+          "en": "To guide or direct someone."
         }
       ],
       "examples": [
         {
-          "en": "The elimination of waste is crucial for a cleaner environment.",
-          "zh": "消除废物对一个更清洁的环境至关重要。"
+          "en": "He used a compass to navigate through the dense forest.",
+          "zh": "他用指南针在茂密的森林中导航。"
         },
         {
-          "en": "They focused on the elimination of errors in the final report.",
-          "zh": "他们专注于消除最终报告中的错误。"
+          "en": "The teacher helped compass the students' interests in science.",
+          "zh": "老师帮助引导学生对科学的兴趣。"
         }
       ],
       "memoryTips": {
-        "etymology": "Derived from the Latin word 'eliminare', meaning 'to remove' or 'to turn out'."
+        "association": "Think of a 'compass' as a 'compass rose' that shows all directions."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=elimination&type=2",
-      "chapter": "基本词汇 名词200 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compass&type=2",
+      "chapter": "认知词汇 动物分类 动物航行能力"
     },
     {
-      "word": "ecology",
-      "pronunciation": "/ɪˈkɑːlədʒi/",
+      "word": "property",
+      "pronunciation": "/ˈprɒp.ər.ti/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "生态学",
-          "en": "The study of living things and their environment."
+          "zh": "财产；属性",
+          "en": "A thing that someone owns, like land or a building."
         },
         {
           "pos": "n.",
-          "zh": "生态",
-          "en": "The relationship between living organisms and their surroundings."
+          "zh": "特性；特征",
+          "en": "A quality or characteristic of something."
         }
       ],
       "examples": [
         {
-          "en": "Ecology helps us understand how species interact with each other.",
-          "zh": "生态学帮助我们理解物种之间是如何相互作用的。"
+          "en": "The property market in the city has increased significantly this year.",
+          "zh": "今年城市的房地产市场显著增长。"
         },
         {
-          "en": "Protecting ecology is essential for the survival of our planet.",
-          "zh": "保护生态对我们星球的生存至关重要。"
+          "en": "Water is an essential property of life on Earth.",
+          "zh": "水是地球生命的重要特性。"
         }
       ],
-      "memoryTips": {
-        "etymology": "The word 'ecology' comes from the Greek 'oikos' meaning 'house' and 'logos' meaning 'study'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ecology&type=2",
-      "chapter": "基本词汇 名词200 Unit 3"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=property&type=2",
+      "chapter": "核心词汇 法制与犯罪 Unit 4"
     }
   ]
 }

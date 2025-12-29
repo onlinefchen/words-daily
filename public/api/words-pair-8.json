@@ -1,69 +1,65 @@
 {
-  "generated": "2025-12-28T22:08:04.466Z",
+  "generated": "2025-12-29T22:08:06.858Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "remove",
-      "pronunciation": "/rɪˈmuːv/",
+      "word": "squid",
+      "pronunciation": "/skwɪd/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "移除",
-          "en": "To take something away from a place."
+          "pos": "n.",
+          "zh": "鱿鱼",
+          "en": "A type of sea creature with a long body and tentacles."
         },
         {
           "pos": "v.",
-          "zh": "解除",
-          "en": "To eliminate or get rid of something."
+          "zh": "快速移动",
+          "en": "To move quickly, especially in a sudden way."
         }
       ],
       "examples": [
         {
-          "en": "Please remove your shoes before entering the house.",
-          "zh": "请在进屋前脱掉鞋子。"
+          "en": "The chef prepared a delicious dish with fresh squid.",
+          "zh": "厨师用新鲜的鱿鱼做了一道美味的菜。"
         },
         {
-          "en": "He decided to remove the old paint from the walls.",
-          "zh": "他决定把墙上的旧油漆去掉。"
+          "en": "The children squidded away when they saw the wave approaching.",
+          "zh": "孩子们看到海浪逼近时迅速逃跑。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'remove' as 're-move' or moving something away again."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=remove&type=2",
-      "chapter": "基本词汇 动词200 Unit 10"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=squid&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "guarantee",
-      "pronunciation": "/ˌɡærənˈti/",
+      "word": "cruising speed",
+      "pronunciation": "/ˈkruːzɪŋ spiːd/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "保证",
-          "en": "To promise that something will happen or be done."
+          "pos": "n.",
+          "zh": "巡航速度",
+          "en": "The speed at which a vehicle travels steadily."
         },
         {
           "pos": "n.",
-          "zh": "保证",
-          "en": "A formal assurance that certain conditions will be fulfilled."
+          "zh": "稳定的行驶速度",
+          "en": "A constant speed maintained during travel, especially in aviation or shipping."
         }
       ],
       "examples": [
         {
-          "en": "The company guarantees that the product will last for five years.",
-          "zh": "公司保证该产品将使用五年。"
+          "en": "The airplane reached its cruising speed after takeoff.",
+          "zh": "飞机在起飞后达到了巡航速度。"
         },
         {
-          "en": "She received a guarantee for her new car's warranty.",
-          "zh": "她收到了新车质保的保证。"
+          "en": "The ship maintained a cruising speed to optimize fuel efficiency.",
+          "zh": "这艘船保持巡航速度以优化燃油效率。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'guarantee' as a 'guard' that ensures something will happen."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=guarantee&type=2",
-      "chapter": "基本词汇 动词200 Unit 7"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cruising%20speed&type=2",
+      "chapter": "认知词汇 动物分类 动物航行能力"
     }
   ]
 }

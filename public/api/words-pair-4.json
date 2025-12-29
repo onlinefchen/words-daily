@@ -1,67 +1,67 @@
 {
-  "generated": "2025-12-28T22:08:04.466Z",
+  "generated": "2025-12-29T22:08:06.857Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "cheating",
-      "pronunciation": "/ˈtʃiːtɪŋ/",
+      "word": "inject",
+      "pronunciation": "/ɪnˈdʒɛkt/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "作弊",
-          "en": "To act dishonestly to gain an advantage, especially in a test or game."
+          "zh": "注射",
+          "en": "To introduce a substance into something, usually with a syringe."
         },
         {
-          "pos": "n.",
-          "zh": "作弊行为",
-          "en": "The act of deceiving or breaking rules to achieve unfair success."
+          "pos": "v.",
+          "zh": "加入",
+          "en": "To add or insert something into a situation to improve it."
         }
       ],
       "examples": [
         {
-          "en": "Many students resort to cheating during exams to pass.",
-          "zh": "许多学生在考试中作弊以及格。"
+          "en": "The doctor will inject the vaccine into your arm.",
+          "zh": "医生会在你的手臂上注射疫苗。"
         },
         {
-          "en": "Cheating undermines the integrity of academic institutions.",
-          "zh": "作弊破坏了学术机构的诚信。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cheating&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 4"
-    },
-    {
-      "word": "absorption",
-      "pronunciation": "/əbˈzɔːrpʃən/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "吸收",
-          "en": "The process of taking in substances, like nutrients or energy."
-        },
-        {
-          "pos": "n.",
-          "zh": "理解",
-          "en": "The ability to understand and retain information."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The plant's absorption of sunlight is crucial for photosynthesis.",
-          "zh": "植物对阳光的吸收对光合作用至关重要。"
-        },
-        {
-          "en": "Her quick absorption of new concepts impressed the teacher.",
-          "zh": "她快速理解新概念让老师印象深刻。"
+          "en": "We need to inject new ideas into our project to make it better.",
+          "zh": "我们需要为项目加入新想法，以使其更好。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'absorption' comes from the Latin 'ab-,' meaning 'away from,' and 'sorbere,' meaning 'to suck.'"
+        "association": "Think of 'inject' as 'injecting' energy or ideas into a conversation or project."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=absorption&type=2",
-      "chapter": "基本词汇 名词200 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=inject&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
+    },
+    {
+      "word": "flexible",
+      "pronunciation": "/ˈflɛksəbl/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "灵活的",
+          "en": "Able to change or adapt easily."
+        },
+        {
+          "pos": "adj.",
+          "zh": "可弯曲的",
+          "en": "Capable of bending without breaking."
+        }
+      ],
+      "examples": [
+        {
+          "en": "She has a flexible schedule that allows her to travel often.",
+          "zh": "她的日程安排灵活，允许她经常旅行。"
+        },
+        {
+          "en": "The material is flexible, making it easy to shape into different forms.",
+          "zh": "这种材料很灵活，容易塑造成不同的形状。"
+        }
+      ],
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=flexible&type=2",
+      "chapter": "核心词汇 工作与生活 Unit 3"
     }
   ]
 }

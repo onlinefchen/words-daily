@@ -1,69 +1,63 @@
 {
-  "generated": "2025-12-28T22:08:04.466Z",
+  "generated": "2025-12-29T22:08:06.858Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "preserve",
-      "pronunciation": "/prɪˈzɜrv/",
+      "word": "inexperience",
+      "pronunciation": "/ˌɪnɪkˈspɪərəns/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "保护，保存",
-          "en": "To keep something in its original state or condition."
+          "pos": "n.",
+          "zh": "缺乏经验",
+          "en": "The state of having little or no experience in a particular field."
         },
         {
           "pos": "n.",
-          "zh": "保护措施",
-          "en": "The act of maintaining something, especially to prevent it from being damaged."
+          "zh": "无知",
+          "en": "The lack of knowledge or skills in a specific area."
         }
       ],
       "examples": [
         {
-          "en": "It is important to preserve wildlife for future generations.",
-          "zh": "保护野生动物对未来世代很重要。"
+          "en": "Her inexperience in negotiations led to a poor agreement.",
+          "zh": "她在谈判中的缺乏经验导致了一个糟糕的协议。"
         },
         {
-          "en": "They will preserve the historical documents in a secure location.",
-          "zh": "他们会把历史文件保存在一个安全的地方。"
+          "en": "Inexperience can be a barrier to success in many careers.",
+          "zh": "缺乏经验可能是许多职业成功的障碍。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'preserve' as keeping something safe, like jam is preserved in a jar."
+        "etymology": "The word 'inexperience' comes from the prefix 'in-' meaning 'not' and 'experience', which refers to the knowledge or skill gained through involvement.",
+        "association": "Think of 'in-experience' as 'not having experiences', which can help you remember its meaning."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=preserve&type=2",
-      "chapter": "基本词汇 动词200 Unit 9"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=inexperience&type=2",
+      "chapter": "核心词汇 法制与犯罪 Unit 2"
     },
     {
-      "word": "chronic",
-      "pronunciation": "/ˈkrɒnɪk/",
+      "word": "swim bladder",
+      "pronunciation": "/swɪm ˈblædər/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "慢性的",
-          "en": "Describing something that persists over a long time, especially a disease."
-        },
-        {
-          "pos": "adj.",
-          "zh": "长期的",
-          "en": "Referring to problems or situations that are ongoing and difficult to resolve."
+          "pos": "n.",
+          "zh": "游泳囊",
+          "en": "A gas-filled sac in fish that helps them control buoyancy."
         }
       ],
       "examples": [
         {
-          "en": "He suffers from chronic pain that affects his daily life.",
-          "zh": "他遭受慢性疼痛，影响了他的日常生活。"
+          "en": "The swim bladder allows fish to maintain their depth in water.",
+          "zh": "游泳囊使鱼能够保持水中的深度。"
         },
         {
-          "en": "Chronic stress can lead to serious health issues over time.",
-          "zh": "长期压力会导致严重的健康问题。"
+          "en": "Some fish can adjust their swim bladder to float or sink.",
+          "zh": "一些鱼可以调节它们的游泳囊以浮动或下沉。"
         }
       ],
-      "memoryTips": {
-        "etymology": "The word 'chronic' comes from the Greek word 'khronikos', meaning 'time'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=chronic&type=2",
-      "chapter": "认知词汇 健康分类 吸烟与被动吸烟"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=swim%20bladder&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

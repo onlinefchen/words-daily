@@ -1,64 +1,67 @@
 {
-  "generated": "2025-12-28T22:08:04.466Z",
+  "generated": "2025-12-29T22:08:06.858Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "coronary heart disease",
-      "pronunciation": "/ˈkɔr.ə.nɛr.i hɑrt dɪˌziːz/",
+      "word": "air sac",
+      "pronunciation": "/ˈɛr sæk/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "冠心病",
-          "en": "A heart condition caused by narrowed coronary arteries."
+          "zh": "气囊",
+          "en": "A small, flexible structure in animals that holds air."
+        },
+        {
+          "pos": "n.",
+          "zh": "空气囊",
+          "en": "A part of a plant or animal that helps with breathing and gas exchange."
         }
       ],
       "examples": [
         {
-          "en": "Coronary heart disease is a leading cause of death worldwide.",
-          "zh": "冠心病是全球主要的死亡原因之一。"
+          "en": "Birds have air sacs that help them breathe efficiently while flying.",
+          "zh": "鸟类有气囊，帮助它们在飞行时高效呼吸。"
         },
         {
-          "en": "Lifestyle changes can help reduce the risk of coronary heart disease.",
-          "zh": "生活方式的改变可以帮助降低冠心病的风险。"
+          "en": "The air sacs in fish allow them to control their buoyancy in water.",
+          "zh": "鱼类的空气囊使它们能够控制在水中的浮力。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'coronary' as 'crown' arteries that supply the heart, emphasizing their importance."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=coronary%20heart%20disease&type=2",
-      "chapter": "认知词汇 健康分类 吸烟与被动吸烟"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=air%20sac&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "experience",
-      "pronunciation": "/ɪkˈspɪə.ri.əns/",
+      "word": "deserve",
+      "pronunciation": "/dɪˈzɜrv/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "经历",
-          "en": "The knowledge or skill gained through doing something."
+          "pos": "v.",
+          "zh": "应得",
+          "en": "To be worthy of something, usually a reward or punishment."
         },
         {
           "pos": "v.",
-          "zh": "经历，体验",
-          "en": "To go through or live through an event."
+          "zh": "值得",
+          "en": "To have a right to something because of actions or qualities."
         }
       ],
       "examples": [
         {
-          "en": "She has a lot of experience working in international relations.",
-          "zh": "她在国际关系方面有很多经验。"
+          "en": "She deserves recognition for her hard work and dedication.",
+          "zh": "她应当因她的努力和奉献而受到认可。"
         },
         {
-          "en": "I experienced a wonderful trip to Japan last summer.",
-          "zh": "我去年夏天经历了一次美妙的日本之旅。"
+          "en": "After all his efforts, he truly deserves a break.",
+          "zh": "在他所有的努力之后，他确实值得休息一下。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'experience' as 'ex-perience', where 'ex' means something that is out of the ordinary, and 'perience' relates to perception or trying something new."
+        "association": "Think of 'deserve' as 'de-serve', meaning to serve what you have earned."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=experience&type=2",
-      "chapter": "基本词汇 动词200 Unit 7"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=deserve&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 2"
     }
   ]
 }

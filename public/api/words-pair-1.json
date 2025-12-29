@@ -1,62 +1,67 @@
 {
-  "generated": "2025-12-28T22:08:04.466Z",
+  "generated": "2025-12-29T22:08:06.857Z",
   "pair": 1,
   "count": 2,
   "words": [
     {
-      "word": "pessimism",
-      "pronunciation": "/ˈpɛsɪˌmɪzəm/",
+      "word": "metallic money",
+      "pronunciation": "/məˈtælɪk ˈmʌni/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "悲观主义",
-          "en": "A tendency to see the worst aspect of things or believe that the worst will happen."
+          "zh": "金属货币",
+          "en": "Money made of metal, typically coins."
         },
         {
           "pos": "n.",
-          "zh": "消极情绪",
-          "en": "A feeling of negativity or lack of hope about future events."
+          "zh": "实物货币",
+          "en": "Physical currency that has intrinsic value, unlike paper money."
         }
       ],
       "examples": [
         {
-          "en": "Her pessimism about the project discouraged the team from trying their best.",
-          "zh": "她对这个项目的悲观态度使团队失去了最佳表现的动力。"
+          "en": "In many countries, metallic money is still widely used for small transactions.",
+          "zh": "在许多国家，金属货币仍广泛用于小额交易。"
         },
         {
-          "en": "Despite the challenges, his optimism overcame her pessimism about the future.",
-          "zh": "尽管面临挑战，他的乐观战胜了她对未来的悲观。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'pessimist' as someone who always sees the glass as half empty."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pessimism&type=2",
-      "chapter": "核心词汇 工作与生活 Unit 4"
-    },
-    {
-      "word": "gaseous contaminant",
-      "pronunciation": "/ˈɡeɪ.zi.əs kənˈtæmɪnənt/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "气体污染物",
-          "en": "A substance in the air that can harm health or the environment."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Gaseous contaminants can lead to respiratory problems in humans.",
-          "zh": "气体污染物可能导致人类呼吸问题。"
-        },
-        {
-          "en": "Reducing gaseous contaminants is essential for cleaner air.",
-          "zh": "减少气体污染物对清洁空气至关重要。"
+          "en": "Metallic money can last longer than paper bills, making it a practical choice.",
+          "zh": "金属货币比纸币更耐用，是一种实用的选择。"
         }
       ],
       "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=gaseous%20contaminant&type=2",
-      "chapter": "认知词汇 健康分类 室内空气综合征"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=metallic%20money&type=2",
+      "chapter": "认知词汇 历史分类 钱币发展史"
+    },
+    {
+      "word": "self-interest",
+      "pronunciation": "/sɛlf ˈɪn.tə.rest/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "自我利益",
+          "en": "The personal gain or benefit that someone seeks."
+        },
+        {
+          "pos": "n.",
+          "zh": "自我中心",
+          "en": "The concern for one's own advantage or welfare."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many decisions in politics are driven by self-interest rather than public good.",
+          "zh": "政治中的许多决策是由自我利益而非公共利益驱动的。"
+        },
+        {
+          "en": "In a competitive market, companies often act out of self-interest to maximize profits.",
+          "zh": "在竞争激烈的市场中，公司通常出于自我利益来最大化利润。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'self' as referring to yourself and 'interest' as what you care about the most."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=self-interest&type=2",
+      "chapter": "核心词汇 伦理与道德 Unit 4"
     }
   ]
 }

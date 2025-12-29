@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-28T22:08:04.466Z",
+  "generated": "2025-12-29T22:08:06.858Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "increment",
-      "pronunciation": "/ˈɪŋkrəmənt/",
+      "word": "anomaly",
+      "pronunciation": "/əˈnɑː.mə.li/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "增加",
-          "en": "An increase or addition, especially in amount or value."
+          "zh": "异常",
+          "en": "A deviation from the common rule or pattern."
         },
         {
-          "pos": "v.",
-          "zh": "逐渐增加",
-          "en": "To make something greater in size, amount, or value."
+          "pos": "n.",
+          "zh": "不规则现象",
+          "en": "Something that is unusual or unexpected."
         }
       ],
       "examples": [
         {
-          "en": "The company announced a small increment in salaries for all employees.",
-          "zh": "公司宣布所有员工的薪资将小幅增加。"
+          "en": "The scientist noted an anomaly in the experiment results.",
+          "zh": "科学家注意到实验结果中的异常现象。"
         },
         {
-          "en": "You can expect an increment in your grades with consistent study.",
-          "zh": "你可以期待通过持续学习来提升你的成绩。"
+          "en": "This anomaly could indicate a problem with the data collection.",
+          "zh": "这个异常可能表明数据收集存在问题。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'increment' as 'increasing' something step by step."
+        "association": "Think of 'anomaly' as 'a-nom' (not normal) which helps recall its meaning of being unusual."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=increment&type=2",
-      "chapter": "认知词汇 环境分类 欧洲森林保护"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=anomaly&type=2",
+      "chapter": "核心词汇 法制与犯罪 Unit 1"
     },
     {
-      "word": "popularisation",
-      "pronunciation": "/ˌpɑːp.jə.ləˈzeɪ.ʃən/",
+      "word": "cobra",
+      "pronunciation": "/ˈkoʊbrə/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "普及，推广",
-          "en": "The act of making something widely known or accepted."
+          "zh": "眼镜蛇",
+          "en": "A venomous snake known for its ability to raise its hood."
         },
         {
           "pos": "n.",
-          "zh": "流行化，通俗化",
-          "en": "The process of making something popular or well-liked."
+          "zh": "一种毒蛇",
+          "en": "A type of snake that can be dangerous to humans."
         }
       ],
       "examples": [
         {
-          "en": "The popularisation of technology has changed our daily lives significantly.",
-          "zh": "技术的普及显著改变了我们的日常生活。"
+          "en": "The cobra is famous for its distinctive hood when threatened.",
+          "zh": "眼镜蛇在受到威胁时以其独特的鬃毛而闻名。"
         },
         {
-          "en": "The popularisation of healthy eating has influenced many people's diets.",
-          "zh": "健康饮食的普及影响了许多人的饮食习惯。"
+          "en": "Many people fear cobras due to their lethal venom.",
+          "zh": "许多人因眼镜蛇的致命毒液而感到恐惧。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'popularisation' comes from the Latin 'popularis', meaning 'of the people', combined with the suffix '-ation' to indicate a process."
+        "association": "Think of the cobra's hood as a 'crown' that makes it look regal yet dangerous."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=popularisation&type=2",
-      "chapter": "基本词汇 名词200 Unit 6"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cobra&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-28T22:08:04.466Z",
+  "generated": "2025-12-29T22:08:06.858Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "instinct",
-      "pronunciation": "/ˈɪn.stɪŋkt/",
+      "word": "neurological",
+      "pronunciation": "/ˌnʊr.əˈlɑː.dʒɪ.kəl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "本能",
-          "en": "A natural tendency to behave in a certain way."
+          "pos": "adj.",
+          "zh": "神经的",
+          "en": "Relating to the nervous system or its functions."
         },
         {
-          "pos": "n.",
-          "zh": "直觉",
-          "en": "A feeling that guides your decisions without logical reasoning."
+          "pos": "adj.",
+          "zh": "神经病学的",
+          "en": "Relating to the study of diseases of the nervous system."
         }
       ],
       "examples": [
         {
-          "en": "Her instinct told her to avoid the dark alley.",
-          "zh": "她的直觉告诉她要避开那条黑暗的小巷。"
+          "en": "Neurological disorders can significantly affect a person's quality of life.",
+          "zh": "神经系统疾病可以显著影响一个人的生活质量。"
         },
         {
-          "en": "Babies have an instinct to cry when they are hungry.",
-          "zh": "婴儿有饥饿时哭泣的本能。"
+          "en": "The doctor specialized in neurological research and treatment options.",
+          "zh": "这位医生专注于神经学研究和治疗方案。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'instinct' as 'in-stinct'—like being 'in sync' with your natural feelings."
+        "etymology": "The word 'neurological' comes from the Greek 'neuron' meaning 'nerve' and 'logia' meaning 'study of'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=instinct&type=2",
-      "chapter": "基本词汇 名词200 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=neurological&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "opera",
-      "pronunciation": "/ˈɒp.ə.rə/",
+      "word": "degenerate",
+      "pronunciation": "/dɪˈdʒɛn.ə.reɪt/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "歌剧",
-          "en": "A dramatic work set to music, usually sung."
+          "pos": "v.",
+          "zh": "退化",
+          "en": "To decline in quality, strength, or moral standards."
         },
         {
-          "pos": "n.",
-          "zh": "歌剧院",
-          "en": "A building where opera performances take place."
+          "pos": "adj.",
+          "zh": "堕落的",
+          "en": "Having lost the physical, mental, or moral qualities considered normal."
         }
       ],
       "examples": [
         {
-          "en": "I enjoy watching opera because of the beautiful music and stories.",
-          "zh": "我喜欢看歌剧，因为美妙的音乐和故事。"
+          "en": "The environmental conditions caused the species to degenerate over time.",
+          "zh": "环境条件导致该物种随着时间退化。"
         },
         {
-          "en": "The opera house was filled with an excited audience last night.",
-          "zh": "昨晚，歌剧院里坐满了兴奋的观众。"
+          "en": "His behavior began to degenerate after he lost his job.",
+          "zh": "他失业后行为开始堕落。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'opera' as 'opulent drama' because operas are often grand and luxurious."
+        "etymology": "The word 'degenerate' comes from the Latin 'degenerare', meaning 'to fall from one's kind'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=opera&type=2",
-      "chapter": "认知词汇 历史分类 电影发展史"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=degenerate&type=2",
+      "chapter": "核心词汇 法制与犯罪 Unit 1"
     }
   ]
 }

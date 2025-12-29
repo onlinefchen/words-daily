@@ -1,69 +1,64 @@
 {
-  "generated": "2025-12-28T22:08:04.466Z",
+  "generated": "2025-12-29T22:08:06.857Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "greed",
-      "pronunciation": "/ɡriːd/",
+      "word": "sparrow",
+      "pronunciation": "/ˈspæroʊ/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "贪婪",
-          "en": "A strong desire for more than you need, especially wealth."
-        },
-        {
-          "pos": "n.",
-          "zh": "贪心",
-          "en": "An excessive wish to acquire more possessions or power."
+          "zh": "麻雀",
+          "en": "A small bird that is common in many places, often found in cities."
         }
       ],
       "examples": [
         {
-          "en": "His greed for money led him to make unethical decisions.",
-          "zh": "他对金钱的贪婪使他做出了不道德的决定。"
+          "en": "The sparrow chirped happily while sitting on the branch.",
+          "zh": "麻雀在树枝上快乐地鸣叫。"
         },
         {
-          "en": "Greed can destroy relationships and lead to unhappiness.",
-          "zh": "贪婪会破坏人际关系，导致不快乐。"
+          "en": "In the park, I saw a flock of sparrows searching for food.",
+          "zh": "在公园里，我看到一群麻雀在寻找食物。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a person greedily grabbing all the food at a buffet, unable to stop."
+        "association": "Think of 'sparrow' as a 'small' bird that 'sparks' joy with its cheerful chirping."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=greed&type=2",
-      "chapter": "核心词汇 伦理与道德 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sparrow&type=2",
+      "chapter": "认知词汇 动物分类 动物航行能力"
     },
     {
-      "word": "World Health Organisation",
-      "pronunciation": "/wɜrld hɛlθ ˌɔrɡənaɪˈzeɪʃən/",
+      "word": "salmon habitat",
+      "pronunciation": "/ˈsælmən ˈhæbɪtæt/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "世界卫生组织",
-          "en": "An international organization working to promote health and prevent diseases worldwide."
+          "zh": "鲑鱼栖息地",
+          "en": "The natural environment where salmon live and grow."
         },
         {
           "pos": "n.",
-          "zh": "全球健康标准制定者",
-          "en": "A global authority that sets health standards and guidelines for countries."
+          "zh": "鱼类栖息地",
+          "en": "A specific area in water that provides food and safety for salmon."
         }
       ],
       "examples": [
         {
-          "en": "The World Health Organisation plays a crucial role in fighting pandemics.",
-          "zh": "世界卫生组织在抗击疫情中发挥着至关重要的作用。"
+          "en": "The salmon habitat is crucial for the fish's survival and reproduction.",
+          "zh": "鲑鱼栖息地对鱼的生存和繁殖至关重要。"
         },
         {
-          "en": "Many countries rely on the World Health Organisation for health advice.",
-          "zh": "许多国家依赖世界卫生组织提供健康建议。"
+          "en": "Conservation efforts are needed to protect the salmon habitat from pollution.",
+          "zh": "保护鲑鱼栖息地免受污染的努力是必要的。"
         }
       ],
       "memoryTips": {
-        "association": "Think of the WHO as a 'worldly helper' for global health."
+        "association": "Imagine a serene river where salmon swim, representing their habitat."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=World%20Health%20Organisation&type=2",
-      "chapter": "认知词汇 健康分类 室内空气综合征"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=salmon%20habitat&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-28T22:08:04.466Z",
+  "generated": "2025-12-29T22:08:06.857Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "freeway",
-      "pronunciation": "/ˈfriːˌweɪ/",
+      "word": "distinguish",
+      "pronunciation": "/dɪsˈtɪŋɡwɪʃ/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "高速公路",
-          "en": "A major road designed for fast traffic, often with multiple lanes."
+          "pos": "v.",
+          "zh": "区分",
+          "en": "To recognize or note the difference between two or more things."
         },
         {
-          "pos": "n.",
-          "zh": "快速道路",
-          "en": "A large road that allows vehicles to travel quickly between cities."
+          "pos": "v.",
+          "zh": "辨别",
+          "en": "To be able to tell apart the unique qualities of something."
         }
       ],
       "examples": [
         {
-          "en": "Driving on the freeway allows you to reach your destination faster.",
-          "zh": "在高速公路上驾驶可以更快到达目的地。"
+          "en": "It is important to distinguish fact from opinion in discussions.",
+          "zh": "在讨论中区分事实和观点是很重要的。"
         },
         {
-          "en": "Many people prefer to take the freeway for longer trips.",
-          "zh": "许多人在长途旅行中更喜欢走高速公路。"
+          "en": "Children can easily distinguish between different animal sounds.",
+          "zh": "孩子们可以很容易地区分不同动物的声音。"
         }
       ],
       "memoryTips": {
-        "association": "Think of the word 'free' as in 'freedom' to drive fast without many stops."
+        "etymology": "The word 'distinguish' comes from the Latin 'distinguere', meaning 'to separate' or 'to mark out'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=freeway&type=2",
-      "chapter": "阅读真题认知词汇 电脑化的交通工具"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=distinguish&type=2",
+      "chapter": "认知词汇 动物分类 动物智力与语言习得"
     },
     {
-      "word": "mechanical watch",
-      "pronunciation": "/məˈkænɪkəl wɑtʃ/",
+      "word": "acoustic faculty",
+      "pronunciation": "/əˈkuːstɪk ˈfækəlti/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "机械手表",
-          "en": "A watch that uses gears and springs to keep time."
+          "zh": "声学能力",
+          "en": "The ability to perceive sound and its qualities."
         },
         {
           "pos": "n.",
-          "zh": "机械表",
-          "en": "A traditional type of watch, as opposed to a digital one."
+          "zh": "声学系统",
+          "en": "A system or faculty that relates to sound and hearing."
         }
       ],
       "examples": [
         {
-          "en": "Many people prefer a mechanical watch for its craftsmanship and style.",
-          "zh": "许多人更喜欢机械手表，因为它的工艺和风格。"
+          "en": "Her acoustic faculty allowed her to distinguish subtle sound differences.",
+          "zh": "她的声学能力使她能够区分微妙的声音差异。"
         },
         {
-          "en": "A mechanical watch can last for many years with proper care.",
-          "zh": "机械手表如果得到妥善保养，可以使用很多年。"
+          "en": "The concert hall was designed to enhance the acoustic faculty of the music.",
+          "zh": "音乐厅的设计旨在增强音乐的声学效果。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'mechanical' as relating to machines and 'watch' as something that tells time. Together, they create a classic, timeless beauty."
+        "association": "Think of 'acoustic' as related to sound, and 'faculty' as a skill or ability, linking sound perception with capability."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=mechanical%20watch&type=2",
-      "chapter": "认知词汇 历史分类 记时器发展史"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=acoustic%20faculty&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }
