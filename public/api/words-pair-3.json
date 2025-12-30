@@ -1,64 +1,69 @@
 {
-  "generated": "2025-12-29T22:08:06.857Z",
+  "generated": "2025-12-30T22:07:53.002Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "sparrow",
-      "pronunciation": "/ˈspæroʊ/",
+      "word": "social",
+      "pronunciation": "/ˈsoʊʃəl/",
       "meanings": [
         {
+          "pos": "adj.",
+          "zh": "社交的",
+          "en": "Related to interactions between people."
+        },
+        {
           "pos": "n.",
-          "zh": "麻雀",
-          "en": "A small bird that is common in many places, often found in cities."
+          "zh": "社交活动",
+          "en": "Activities that involve meeting and interacting with others."
         }
       ],
       "examples": [
         {
-          "en": "The sparrow chirped happily while sitting on the branch.",
-          "zh": "麻雀在树枝上快乐地鸣叫。"
+          "en": "He enjoys attending social gatherings with his friends.",
+          "zh": "他喜欢和朋友参加社交聚会。"
         },
         {
-          "en": "In the park, I saw a flock of sparrows searching for food.",
-          "zh": "在公园里，我看到一群麻雀在寻找食物。"
+          "en": "Social media has changed how we communicate today.",
+          "zh": "社交媒体改变了我们今天的沟通方式。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'sparrow' as a 'small' bird that 'sparks' joy with its cheerful chirping."
+        "association": "Think of 'social' as 'sociable', which helps you remember it's about people and interaction."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sparrow&type=2",
-      "chapter": "认知词汇 动物分类 动物航行能力"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=social&type=2",
+      "chapter": "核心词汇 工作与生活 Unit 5"
     },
     {
-      "word": "salmon habitat",
-      "pronunciation": "/ˈsælmən ˈhæbɪtæt/",
+      "word": "atmosphere",
+      "pronunciation": "/ˈætməsˌfɪr/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "鲑鱼栖息地",
-          "en": "The natural environment where salmon live and grow."
+          "zh": "气氛",
+          "en": "The mood or feeling in a place."
         },
         {
           "pos": "n.",
-          "zh": "鱼类栖息地",
-          "en": "A specific area in water that provides food and safety for salmon."
+          "zh": "大气层",
+          "en": "The layer of gases surrounding the Earth."
         }
       ],
       "examples": [
         {
-          "en": "The salmon habitat is crucial for the fish's survival and reproduction.",
-          "zh": "鲑鱼栖息地对鱼的生存和繁殖至关重要。"
+          "en": "The atmosphere at the concert was electric and exciting.",
+          "zh": "音乐会的气氛令人振奋和激动。"
         },
         {
-          "en": "Conservation efforts are needed to protect the salmon habitat from pollution.",
-          "zh": "保护鲑鱼栖息地免受污染的努力是必要的。"
+          "en": "The Earth's atmosphere protects us from harmful solar radiation.",
+          "zh": "地球的大气层保护我们免受有害的太阳辐射。"
         }
       ],
       "memoryTips": {
-        "association": "Imagine a serene river where salmon swim, representing their habitat."
+        "association": "Think of 'atmosphere' as the 'air' or 'mood' that surrounds you in different places."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=salmon%20habitat&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=atmosphere&type=2",
+      "chapter": "基本词汇 名词200 Unit 1"
     }
   ]
 }

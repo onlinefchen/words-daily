@@ -1,68 +1,63 @@
 {
-  "generated": "2025-12-29T22:08:06.858Z",
+  "generated": "2025-12-30T22:07:53.004Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "anomaly",
-      "pronunciation": "/əˈnɑː.mə.li/",
+      "word": "American Sign Language",
+      "pronunciation": "/əˈmɛrɪkən saɪn ˈlæŋɡwɪdʒ/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "异常",
-          "en": "A deviation from the common rule or pattern."
-        },
-        {
-          "pos": "n.",
-          "zh": "不规则现象",
-          "en": "Something that is unusual or unexpected."
+          "zh": "美国手语",
+          "en": "A visual language used by the deaf community in the United States."
         }
       ],
       "examples": [
         {
-          "en": "The scientist noted an anomaly in the experiment results.",
-          "zh": "科学家注意到实验结果中的异常现象。"
+          "en": "Many deaf individuals use American Sign Language to communicate effectively.",
+          "zh": "许多聋人使用美国手语进行有效沟通。"
         },
         {
-          "en": "This anomaly could indicate a problem with the data collection.",
-          "zh": "这个异常可能表明数据收集存在问题。"
+          "en": "Learning American Sign Language opens up new ways to connect with others.",
+          "zh": "学习美国手语为与他人建立联系打开了新的方式。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'anomaly' as 'a-nom' (not normal) which helps recall its meaning of being unusual."
+        "association": "Think of 'American' as a country where sign language is used, creating a link between culture and communication."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=anomaly&type=2",
-      "chapter": "核心词汇 法制与犯罪 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=American%20Sign%20Language&type=2",
+      "chapter": "认知词汇 动物分类 动物智力与语言习得"
     },
     {
-      "word": "cobra",
-      "pronunciation": "/ˈkoʊbrə/",
+      "word": "operculum",
+      "pronunciation": "/əˈpɜr.kjʊ.ləm/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "眼镜蛇",
-          "en": "A venomous snake known for its ability to raise its hood."
+          "zh": "盖子",
+          "en": "A lid or covering that protects or closes an opening."
         },
         {
           "pos": "n.",
-          "zh": "一种毒蛇",
-          "en": "A type of snake that can be dangerous to humans."
+          "zh": "鳃盖",
+          "en": "A structure in some animals, like fish, that covers their gills."
         }
       ],
       "examples": [
         {
-          "en": "The cobra is famous for its distinctive hood when threatened.",
-          "zh": "眼镜蛇在受到威胁时以其独特的鬃毛而闻名。"
+          "en": "The operculum in fish helps protect their gills from damage.",
+          "zh": "鱼的鳃盖帮助保护它们的鳃不受损伤。"
         },
         {
-          "en": "Many people fear cobras due to their lethal venom.",
-          "zh": "许多人因眼镜蛇的致命毒液而感到恐惧。"
+          "en": "In some plants, the operculum covers the flower bud until it blooms.",
+          "zh": "在某些植物中，盖子在花蕾开放之前覆盖着它。"
         }
       ],
       "memoryTips": {
-        "association": "Think of the cobra's hood as a 'crown' that makes it look regal yet dangerous."
+        "etymology": "The word 'operculum' comes from Latin, meaning 'cover' or 'lid'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cobra&type=2",
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=operculum&type=2",
       "chapter": "认知词汇 动物分类 常考生物"
     }
   ]

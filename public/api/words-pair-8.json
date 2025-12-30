@@ -1,65 +1,69 @@
 {
-  "generated": "2025-12-29T22:08:06.858Z",
+  "generated": "2025-12-30T22:07:53.003Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "squid",
-      "pronunciation": "/skwɪd/",
+      "word": "reciprocate",
+      "pronunciation": "/rɪˈsɪprəˌkeɪt/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "鱿鱼",
-          "en": "A type of sea creature with a long body and tentacles."
+          "pos": "v.",
+          "zh": "回报",
+          "en": "To give back the same kind of feeling or action."
         },
         {
           "pos": "v.",
-          "zh": "快速移动",
-          "en": "To move quickly, especially in a sudden way."
+          "zh": "相互作用",
+          "en": "To respond to someone's action or feeling in a similar way."
         }
       ],
       "examples": [
         {
-          "en": "The chef prepared a delicious dish with fresh squid.",
-          "zh": "厨师用新鲜的鱿鱼做了一道美味的菜。"
+          "en": "If you help me, I will reciprocate your kindness in the future.",
+          "zh": "如果你帮助我，我将在未来回报你的善良。"
         },
         {
-          "en": "The children squidded away when they saw the wave approaching.",
-          "zh": "孩子们看到海浪逼近时迅速逃跑。"
+          "en": "They decided to reciprocate the invitation to their friends.",
+          "zh": "他们决定回请他们的朋友。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=squid&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "memoryTips": {
+        "association": "Think of 'reciprocal' relationships where both parties give and take equally."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=reciprocate&type=2",
+      "chapter": "核心词汇 伦理与道德 Unit 4"
     },
     {
-      "word": "cruising speed",
-      "pronunciation": "/ˈkruːzɪŋ spiːd/",
+      "word": "symptom",
+      "pronunciation": "/ˈsɪmptəm/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "巡航速度",
-          "en": "The speed at which a vehicle travels steadily."
+          "zh": "症状",
+          "en": "A sign that indicates a condition or illness."
         },
         {
           "pos": "n.",
-          "zh": "稳定的行驶速度",
-          "en": "A constant speed maintained during travel, especially in aviation or shipping."
+          "zh": "迹象",
+          "en": "An indication of something that is happening or about to happen."
         }
       ],
       "examples": [
         {
-          "en": "The airplane reached its cruising speed after takeoff.",
-          "zh": "飞机在起飞后达到了巡航速度。"
+          "en": "Fever can be a common symptom of the flu.",
+          "zh": "发烧可能是流感的常见症状。"
         },
         {
-          "en": "The ship maintained a cruising speed to optimize fuel efficiency.",
-          "zh": "这艘船保持巡航速度以优化燃油效率。"
+          "en": "Headaches are often a symptom of stress or fatigue.",
+          "zh": "头痛通常是压力或疲劳的症状。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cruising%20speed&type=2",
-      "chapter": "认知词汇 动物分类 动物航行能力"
+      "memoryTips": {
+        "association": "Think of 'symptom' as a 'signal' from your body that something is wrong."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=symptom&type=2",
+      "chapter": "基本词汇 名词200 Unit 9"
     }
   ]
 }

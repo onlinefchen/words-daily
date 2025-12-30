@@ -1,69 +1,64 @@
 {
-  "generated": "2025-12-29T22:08:06.857Z",
+  "generated": "2025-12-30T22:07:52.992Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "distinguish",
-      "pronunciation": "/dɪsˈtɪŋɡwɪʃ/",
+      "word": "alevin",
+      "pronunciation": "/ˈælɪvɪn/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "区分",
-          "en": "To recognize or note the difference between two or more things."
-        },
-        {
-          "pos": "v.",
-          "zh": "辨别",
-          "en": "To be able to tell apart the unique qualities of something."
+          "pos": "n.",
+          "zh": "鱼卵孵化出的幼鱼",
+          "en": "Alevin is a young fish that has just hatched and still carries its yolk sac."
         }
       ],
       "examples": [
         {
-          "en": "It is important to distinguish fact from opinion in discussions.",
-          "zh": "在讨论中区分事实和观点是很重要的。"
+          "en": "The alevin stage is crucial for the survival of salmon.",
+          "zh": "幼鱼阶段对鲑鱼的生存至关重要。"
         },
         {
-          "en": "Children can easily distinguish between different animal sounds.",
-          "zh": "孩子们可以很容易地区分不同动物的声音。"
+          "en": "Alevins remain in the gravel until they are ready to swim.",
+          "zh": "幼鱼在沙砾中待到它们准备游泳时。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'distinguish' comes from the Latin 'distinguere', meaning 'to separate' or 'to mark out'."
+        "association": "Think of 'a' for 'a' little fish, as alevins are very small."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=distinguish&type=2",
-      "chapter": "认知词汇 动物分类 动物智力与语言习得"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=alevin&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "acoustic faculty",
-      "pronunciation": "/əˈkuːstɪk ˈfækəlti/",
+      "word": "ambiguity",
+      "pronunciation": "/æmˈbɪɡ.juː/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "声学能力",
-          "en": "The ability to perceive sound and its qualities."
+          "zh": "模棱两可",
+          "en": "The quality of being open to more than one interpretation."
         },
         {
           "pos": "n.",
-          "zh": "声学系统",
-          "en": "A system or faculty that relates to sound and hearing."
+          "zh": "不明确",
+          "en": "A situation where something is not clear or has multiple meanings."
         }
       ],
       "examples": [
         {
-          "en": "Her acoustic faculty allowed her to distinguish subtle sound differences.",
-          "zh": "她的声学能力使她能够区分微妙的声音差异。"
+          "en": "The ambiguity in her statement caused confusion among the team members.",
+          "zh": "她的陈述中的模棱两可让团队成员感到困惑。"
         },
         {
-          "en": "The concert hall was designed to enhance the acoustic faculty of the music.",
-          "zh": "音乐厅的设计旨在增强音乐的声学效果。"
+          "en": "Legal documents often contain ambiguity, making them hard to understand.",
+          "zh": "法律文件通常包含模糊不清的内容，这使得它们难以理解。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'acoustic' as related to sound, and 'faculty' as a skill or ability, linking sound perception with capability."
+        "etymology": "The word 'ambiguity' comes from the Latin word 'ambiguitas', which means 'doubtfulness'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=acoustic%20faculty&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ambiguity&type=2",
+      "chapter": "核心词汇 科技发展 Unit 1"
     }
   ]
 }

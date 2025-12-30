@@ -1,737 +1,745 @@
 {
-  "generated": "2025-12-29T22:08:06.856Z",
-  "date": "2025-12-29",
+  "generated": "2025-12-30T22:07:52.983Z",
+  "date": "2025-12-30",
   "totalWords": 20,
   "words": [
     {
-      "id": "w03994",
-      "word": "metallic money",
-      "type": "phrase",
-      "chapterIndex": 65,
-      "globalIndex": 3994,
-      "chapter": "ch128",
-      "chapterName": "认知词汇 历史分类 钱币发展史",
-      "pronunciation": {
-        "us": "/məˈtælɪk ˈmʌni/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "金属货币",
-          "en": "Money made of metal, typically coins."
-        },
-        {
-          "pos": "n.",
-          "zh": "实物货币",
-          "en": "Physical currency that has intrinsic value, unlike paper money."
-        }
-      ],
-      "examples": [
-        {
-          "en": "In many countries, metallic money is still widely used for small transactions.",
-          "zh": "在许多国家，金属货币仍广泛用于小额交易。"
-        },
-        {
-          "en": "Metallic money can last longer than paper bills, making it a practical choice.",
-          "zh": "金属货币比纸币更耐用，是一种实用的选择。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=metallic%20money&type=2"
-    },
-    {
-      "id": "w01179",
-      "word": "self-interest",
+      "id": "w02826",
+      "word": "asphyxiate",
       "type": "single",
-      "chapterIndex": 19,
-      "globalIndex": 1179,
-      "chapter": "ch059",
-      "chapterName": "核心词汇 伦理与道德 Unit 4",
+      "chapterIndex": 6,
+      "globalIndex": 2826,
+      "chapter": "ch110",
+      "chapterName": "认知词汇 环境分类 伦敦大雾",
       "pronunciation": {
-        "us": "/sɛlf ˈɪn.tə.rest/"
+        "us": "/əˈsfɪk.si.eɪt/"
       },
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "自我利益",
-          "en": "The personal gain or benefit that someone seeks."
+          "pos": "v.",
+          "zh": "窒息",
+          "en": "To cause someone to be unable to breathe."
         },
         {
-          "pos": "n.",
-          "zh": "自我中心",
-          "en": "The concern for one's own advantage or welfare."
+          "pos": "v.",
+          "zh": "抑制",
+          "en": "To prevent something from developing or being expressed."
         }
       ],
       "examples": [
         {
-          "en": "Many decisions in politics are driven by self-interest rather than public good.",
-          "zh": "政治中的许多决策是由自我利益而非公共利益驱动的。"
+          "en": "The smoke from the fire can asphyxiate anyone trapped inside.",
+          "zh": "火灾产生的烟雾可以使被困在里面的人窒息。"
         },
         {
-          "en": "In a competitive market, companies often act out of self-interest to maximize profits.",
-          "zh": "在竞争激烈的市场中，公司通常出于自我利益来最大化利润。"
+          "en": "Many animals can asphyxiate if they are kept in small cages.",
+          "zh": "许多动物如果被关在小笼子里会窒息。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'self' as referring to yourself and 'interest' as what you care about the most."
+        "etymology": "The word comes from the Greek 'asphyxia', meaning 'lack of pulse', from 'a-' meaning 'without' and 'sphyxis' meaning 'pulse'.",
+        "association": "Think of 'asphyxiate' like 'suffocate', both relate to breathing issues."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=self-interest&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=asphyxiate&type=2"
     },
     {
-      "id": "w02399",
-      "word": "distinguish",
+      "id": "w00521",
+      "word": "distinguished",
       "type": "single",
-      "chapterIndex": 17,
-      "globalIndex": 2399,
-      "chapter": "ch100",
-      "chapterName": "认知词汇 动物分类 动物智力与语言习得",
+      "chapterIndex": 1,
+      "globalIndex": 521,
+      "chapter": "ch027",
+      "chapterName": "基本词汇 形容词和副词400 Unit 7",
       "pronunciation": {
-        "us": "/dɪsˈtɪŋɡwɪʃ/"
+        "us": "/dɪsˈtɪŋɡwɪʃt/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "杰出的，著名的",
+          "en": "Recognized for excellence; well-known and respected."
+        },
+        {
+          "pos": "adj.",
+          "zh": "不同的，区别的",
+          "en": "Clearly different or distinct from others."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The distinguished professor received an award for his research.",
+          "zh": "这位杰出的教授因其研究而获得奖项。"
+        },
+        {
+          "en": "Her distinguished career includes many prestigious positions.",
+          "zh": "她杰出的职业生涯包括许多著名的职位。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'distinguished' comes from the Latin 'distinguere', meaning to separate or mark out.",
+        "association": "Think of a 'distinguished' person as someone standing out in a crowd due to their achievements."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=distinguished&type=2"
+    },
+    {
+      "id": "w01962",
+      "word": "alevin",
+      "type": "single",
+      "chapterIndex": 62,
+      "globalIndex": 1962,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/ˈælɪvɪn/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "鱼卵孵化出的幼鱼",
+          "en": "Alevin is a young fish that has just hatched and still carries its yolk sac."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The alevin stage is crucial for the survival of salmon.",
+          "zh": "幼鱼阶段对鲑鱼的生存至关重要。"
+        },
+        {
+          "en": "Alevins remain in the gravel until they are ready to swim.",
+          "zh": "幼鱼在沙砾中待到它们准备游泳时。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'a' for 'a' little fish, as alevins are very small."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=alevin&type=2"
+    },
+    {
+      "id": "w00802",
+      "word": "ambiguity",
+      "type": "single",
+      "chapterIndex": 2,
+      "globalIndex": 802,
+      "chapter": "ch041",
+      "chapterName": "核心词汇 科技发展 Unit 1",
+      "pronunciation": {
+        "us": "/æmˈbɪɡ.juː/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "模棱两可",
+          "en": "The quality of being open to more than one interpretation."
+        },
+        {
+          "pos": "n.",
+          "zh": "不明确",
+          "en": "A situation where something is not clear or has multiple meanings."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The ambiguity in her statement caused confusion among the team members.",
+          "zh": "她的陈述中的模棱两可让团队成员感到困惑。"
+        },
+        {
+          "en": "Legal documents often contain ambiguity, making them hard to understand.",
+          "zh": "法律文件通常包含模糊不清的内容，这使得它们难以理解。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'ambiguity' comes from the Latin word 'ambiguitas', which means 'doubtfulness'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ambiguity&type=2"
+    },
+    {
+      "id": "w01684",
+      "word": "social",
+      "type": "single",
+      "chapterIndex": 4,
+      "globalIndex": 1684,
+      "chapter": "ch085",
+      "chapterName": "核心词汇 工作与生活 Unit 5",
+      "pronunciation": {
+        "us": "/ˈsoʊʃəl/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "社交的",
+          "en": "Related to interactions between people."
+        },
+        {
+          "pos": "n.",
+          "zh": "社交活动",
+          "en": "Activities that involve meeting and interacting with others."
+        }
+      ],
+      "examples": [
+        {
+          "en": "He enjoys attending social gatherings with his friends.",
+          "zh": "他喜欢和朋友参加社交聚会。"
+        },
+        {
+          "en": "Social media has changed how we communicate today.",
+          "zh": "社交媒体改变了我们今天的沟通方式。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'social' as 'sociable', which helps you remember it's about people and interaction."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=social&type=2"
+    },
+    {
+      "id": "w00214",
+      "word": "atmosphere",
+      "type": "single",
+      "chapterIndex": 14,
+      "globalIndex": 214,
+      "chapter": "ch011",
+      "chapterName": "基本词汇 名词200 Unit 1",
+      "pronunciation": {
+        "us": "/ˈætməsˌfɪr/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "气氛",
+          "en": "The mood or feeling in a place."
+        },
+        {
+          "pos": "n.",
+          "zh": "大气层",
+          "en": "The layer of gases surrounding the Earth."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The atmosphere at the concert was electric and exciting.",
+          "zh": "音乐会的气氛令人振奋和激动。"
+        },
+        {
+          "en": "The Earth's atmosphere protects us from harmful solar radiation.",
+          "zh": "地球的大气层保护我们免受有害的太阳辐射。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'atmosphere' as the 'air' or 'mood' that surrounds you in different places."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=atmosphere&type=2"
+    },
+    {
+      "id": "w00271",
+      "word": "exchange",
+      "type": "single",
+      "chapterIndex": 11,
+      "globalIndex": 271,
+      "chapter": "ch014",
+      "chapterName": "基本词汇 名词200 Unit 4",
+      "pronunciation": {
+        "us": "/ɪksˈtʃeɪndʒ/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "交换",
+          "en": "To give something and receive something in return."
+        },
+        {
+          "pos": "n.",
+          "zh": "交流",
+          "en": "The act of giving and receiving things, ideas, or information."
+        }
+      ],
+      "examples": [
+        {
+          "en": "We will exchange gifts during the holiday season.",
+          "zh": "我们将在假期期间互换礼物。"
+        },
+        {
+          "en": "The students exchanged ideas on their projects last week.",
+          "zh": "学生们上周交流了他们项目的想法。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'exchange' as 'ex-changing' items or ideas with someone else."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=exchange&type=2"
+    },
+    {
+      "id": "w01250",
+      "word": "discriminate",
+      "type": "single",
+      "chapterIndex": 10,
+      "globalIndex": 1250,
+      "chapter": "ch063",
+      "chapterName": "核心词汇 青少年教育 Unit 3",
+      "pronunciation": {
+        "us": "/dɪsˈkrɪm.ə.neɪt/"
       },
       "meanings": [
         {
           "pos": "v.",
           "zh": "区分",
-          "en": "To recognize or note the difference between two or more things."
+          "en": "To recognize or show the difference between things."
         },
         {
           "pos": "v.",
-          "zh": "辨别",
-          "en": "To be able to tell apart the unique qualities of something."
+          "zh": "歧视",
+          "en": "To treat someone unfairly based on their group or characteristics."
         }
       ],
       "examples": [
         {
-          "en": "It is important to distinguish fact from opinion in discussions.",
-          "zh": "在讨论中区分事实和观点是很重要的。"
+          "en": "It is important to discriminate between fact and opinion in a debate.",
+          "zh": "在辩论中区分事实和观点很重要。"
         },
         {
-          "en": "Children can easily distinguish between different animal sounds.",
-          "zh": "孩子们可以很容易地区分不同动物的声音。"
+          "en": "We should not discriminate against people based on their race or gender.",
+          "zh": "我们不应根据种族或性别歧视他人。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'distinguish' comes from the Latin 'distinguere', meaning 'to separate' or 'to mark out'."
+        "association": "Think of 'discriminate' as 'dis- + criminate,' where 'criminate' relates to 'create distinctions'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=distinguish&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=discriminate&type=2"
     },
     {
-      "id": "w02034",
-      "word": "acoustic faculty",
+      "id": "w02453",
+      "word": "crustal movement",
       "type": "phrase",
-      "chapterIndex": 134,
-      "globalIndex": 2034,
+      "chapterIndex": 6,
+      "globalIndex": 2453,
+      "chapter": "ch102",
+      "chapterName": "认知词汇 自然分类 地震",
+      "pronunciation": {
+        "us": "/ˈkrʌstl ˈmuːvmənt/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "地壳运动",
+          "en": "The movement of the Earth's crust, causing changes in the surface."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Crustal movement can lead to earthquakes and volcanic eruptions.",
+          "zh": "地壳运动可能导致地震和火山喷发。"
+        },
+        {
+          "en": "Scientists study crustal movement to understand geological changes.",
+          "zh": "科学家研究地壳运动以了解地质变化。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=crustal%20movement&type=2"
+    },
+    {
+      "id": "w02230",
+      "word": "intruder",
+      "type": "single",
+      "chapterIndex": 330,
+      "globalIndex": 2230,
       "chapter": "ch096",
       "chapterName": "认知词汇 动物分类 常考生物",
       "pronunciation": {
-        "us": "/əˈkuːstɪk ˈfækəlti/"
+        "us": "/ɪnˈtruːdər/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "声学能力",
-          "en": "The ability to perceive sound and its qualities."
+          "zh": "入侵者",
+          "en": "A person who enters a place without permission."
         },
         {
           "pos": "n.",
-          "zh": "声学系统",
-          "en": "A system or faculty that relates to sound and hearing."
+          "zh": "侵扰者",
+          "en": "Someone who disrupts a situation or activity."
         }
       ],
       "examples": [
         {
-          "en": "Her acoustic faculty allowed her to distinguish subtle sound differences.",
-          "zh": "她的声学能力使她能够区分微妙的声音差异。"
+          "en": "The intruder was caught by the security cameras at night.",
+          "zh": "入侵者在夜间被监控摄像头捕捉到。"
         },
         {
-          "en": "The concert hall was designed to enhance the acoustic faculty of the music.",
-          "zh": "音乐厅的设计旨在增强音乐的声学效果。"
+          "en": "She felt like an intruder in the close-knit community.",
+          "zh": "她感觉自己在这个紧密团结的社区中像个入侵者。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'acoustic' as related to sound, and 'faculty' as a skill or ability, linking sound perception with capability."
+        "association": "Think of an 'intruder' as someone who 'intrudes' into your space or privacy."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=acoustic%20faculty&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=intruder&type=2"
     },
     {
-      "id": "w02336",
-      "word": "sparrow",
+      "id": "w01682",
+      "word": "sense",
       "type": "single",
-      "chapterIndex": 39,
-      "globalIndex": 2336,
-      "chapter": "ch097",
-      "chapterName": "认知词汇 动物分类 动物航行能力",
+      "chapterIndex": 2,
+      "globalIndex": 1682,
+      "chapter": "ch085",
+      "chapterName": "核心词汇 工作与生活 Unit 5",
       "pronunciation": {
-        "us": "/ˈspæroʊ/"
+        "us": "/sɛns/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "麻雀",
-          "en": "A small bird that is common in many places, often found in cities."
+          "zh": "感觉",
+          "en": "The ability to perceive or feel something through the body."
+        },
+        {
+          "pos": "v.",
+          "zh": "意识到",
+          "en": "To become aware of something through the senses."
         }
       ],
       "examples": [
         {
-          "en": "The sparrow chirped happily while sitting on the branch.",
-          "zh": "麻雀在树枝上快乐地鸣叫。"
+          "en": "She has a strong sense of responsibility towards her family.",
+          "zh": "她对家庭有很强的责任感。"
         },
         {
-          "en": "In the park, I saw a flock of sparrows searching for food.",
-          "zh": "在公园里，我看到一群麻雀在寻找食物。"
+          "en": "The teacher sensed that the students were confused about the topic.",
+          "zh": "老师意识到学生们对这个主题感到困惑。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'sparrow' as a 'small' bird that 'sparks' joy with its cheerful chirping."
+        "association": "Think of 'sense' as related to your five senses: sight, hearing, touch, taste, and smell."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sparrow&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sense&type=2"
     },
     {
-      "id": "w02017",
-      "word": "salmon habitat",
+      "id": "w01992",
+      "word": "habitat",
+      "type": "single",
+      "chapterIndex": 92,
+      "globalIndex": 1992,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/ˈhæbɪtæt/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "栖息地",
+          "en": "The natural environment where an animal or plant lives."
+        },
+        {
+          "pos": "n.",
+          "zh": "居住地",
+          "en": "A place that is home to a particular species."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The Amazon rainforest is an important habitat for many species.",
+          "zh": "亚马逊雨林是许多物种的重要栖息地。"
+        },
+        {
+          "en": "Urban areas can also serve as habitats for various wildlife.",
+          "zh": "城市地区也可以作为各种野生动物的栖息地。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'habitat' as 'habit' + 'at', like where your habits are formed."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=habitat&type=2"
+    },
+    {
+      "id": "w02639",
+      "word": "shield volcano",
       "type": "phrase",
-      "chapterIndex": 117,
-      "globalIndex": 2017,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
+      "chapterIndex": 54,
+      "globalIndex": 2639,
+      "chapter": "ch105",
+      "chapterName": "认知词汇 自然分类 火山",
       "pronunciation": {
-        "us": "/ˈsælmən ˈhæbɪtæt/"
+        "us": "/ʃiːld vɒlˈkeɪnoʊ/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "鲑鱼栖息地",
-          "en": "The natural environment where salmon live and grow."
+          "zh": "盾形火山",
+          "en": "A type of volcano with broad, gentle slopes formed by the eruption of low-viscosity lava."
         },
         {
           "pos": "n.",
-          "zh": "鱼类栖息地",
-          "en": "A specific area in water that provides food and safety for salmon."
+          "zh": "盾状火山",
+          "en": "A volcano that resembles a large, shield-like shape due to the flow of lava."
         }
       ],
       "examples": [
         {
-          "en": "The salmon habitat is crucial for the fish's survival and reproduction.",
-          "zh": "鲑鱼栖息地对鱼的生存和繁殖至关重要。"
+          "en": "Shield volcanoes often produce large amounts of basaltic lava.",
+          "zh": "盾形火山通常会喷发大量的玄武岩熔岩。"
         },
         {
-          "en": "Conservation efforts are needed to protect the salmon habitat from pollution.",
-          "zh": "保护鲑鱼栖息地免受污染的努力是必要的。"
+          "en": "Mauna Loa in Hawaii is the world's largest shield volcano.",
+          "zh": "夏威夷的莫纳罗亚是世界上最大的盾形火山。"
         }
       ],
       "memoryTips": {
-        "association": "Imagine a serene river where salmon swim, representing their habitat."
+        "association": "Think of a shield protecting a warrior; a shield volcano protects its lava from rising steeply."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=salmon%20habitat&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=shield%20volcano&type=2"
     },
     {
-      "id": "w02273",
-      "word": "inject",
+      "id": "w00428",
+      "word": "alluring",
       "type": "single",
-      "chapterIndex": 373,
-      "globalIndex": 2273,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
+      "chapterIndex": 8,
+      "globalIndex": 428,
+      "chapter": "ch022",
+      "chapterName": "基本词汇 形容词和副词400 Unit 2",
       "pronunciation": {
-        "us": "/ɪnˈdʒɛkt/"
+        "us": "/əˈlʊrɪŋ/"
       },
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "注射",
-          "en": "To introduce a substance into something, usually with a syringe."
+          "pos": "adj.",
+          "zh": "诱人的",
+          "en": "Very attractive or charming, often in a way that draws attention."
         },
         {
-          "pos": "v.",
-          "zh": "加入",
-          "en": "To add or insert something into a situation to improve it."
+          "pos": "adj.",
+          "zh": "迷人的",
+          "en": "Having a quality that is pleasing or tempting."
         }
       ],
       "examples": [
         {
-          "en": "The doctor will inject the vaccine into your arm.",
-          "zh": "医生会在你的手臂上注射疫苗。"
+          "en": "The alluring landscape captivated everyone who visited.",
+          "zh": "迷人的风景吸引了所有来访的客人。"
         },
         {
-          "en": "We need to inject new ideas into our project to make it better.",
-          "zh": "我们需要为项目加入新想法，以使其更好。"
+          "en": "She wore an alluring dress that caught everyone's eye.",
+          "zh": "她穿着一件诱人的裙子，吸引了所有人的目光。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=alluring&type=2"
+    },
+    {
+      "id": "w01173",
+      "word": "reciprocate",
+      "type": "single",
+      "chapterIndex": 13,
+      "globalIndex": 1173,
+      "chapter": "ch059",
+      "chapterName": "核心词汇 伦理与道德 Unit 4",
+      "pronunciation": {
+        "us": "/rɪˈsɪprəˌkeɪt/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "回报",
+          "en": "To give back the same kind of feeling or action."
+        },
+        {
+          "pos": "v.",
+          "zh": "相互作用",
+          "en": "To respond to someone's action or feeling in a similar way."
+        }
+      ],
+      "examples": [
+        {
+          "en": "If you help me, I will reciprocate your kindness in the future.",
+          "zh": "如果你帮助我，我将在未来回报你的善良。"
+        },
+        {
+          "en": "They decided to reciprocate the invitation to their friends.",
+          "zh": "他们决定回请他们的朋友。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'inject' as 'injecting' energy or ideas into a conversation or project."
+        "association": "Think of 'reciprocal' relationships where both parties give and take equally."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=inject&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=reciprocate&type=2"
     },
     {
-      "id": "w01645",
-      "word": "flexible",
+      "id": "w00365",
+      "word": "symptom",
       "type": "single",
       "chapterIndex": 5,
-      "globalIndex": 1645,
-      "chapter": "ch083",
-      "chapterName": "核心词汇 工作与生活 Unit 3",
+      "globalIndex": 365,
+      "chapter": "ch019",
+      "chapterName": "基本词汇 名词200 Unit 9",
       "pronunciation": {
-        "us": "/ˈflɛksəbl/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "灵活的",
-          "en": "Able to change or adapt easily."
-        },
-        {
-          "pos": "adj.",
-          "zh": "可弯曲的",
-          "en": "Capable of bending without breaking."
-        }
-      ],
-      "examples": [
-        {
-          "en": "She has a flexible schedule that allows her to travel often.",
-          "zh": "她的日程安排灵活，允许她经常旅行。"
-        },
-        {
-          "en": "The material is flexible, making it easy to shape into different forms.",
-          "zh": "这种材料很灵活，容易塑造成不同的形状。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=flexible&type=2"
-    },
-    {
-      "id": "w01737",
-      "word": "inexperience",
-      "type": "single",
-      "chapterIndex": 17,
-      "globalIndex": 1737,
-      "chapter": "ch087",
-      "chapterName": "核心词汇 法制与犯罪 Unit 2",
-      "pronunciation": {
-        "us": "/ˌɪnɪkˈspɪərəns/"
+        "us": "/ˈsɪmptəm/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "缺乏经验",
-          "en": "The state of having little or no experience in a particular field."
+          "zh": "症状",
+          "en": "A sign that indicates a condition or illness."
         },
         {
           "pos": "n.",
-          "zh": "无知",
-          "en": "The lack of knowledge or skills in a specific area."
+          "zh": "迹象",
+          "en": "An indication of something that is happening or about to happen."
         }
       ],
       "examples": [
         {
-          "en": "Her inexperience in negotiations led to a poor agreement.",
-          "zh": "她在谈判中的缺乏经验导致了一个糟糕的协议。"
+          "en": "Fever can be a common symptom of the flu.",
+          "zh": "发烧可能是流感的常见症状。"
         },
         {
-          "en": "Inexperience can be a barrier to success in many careers.",
-          "zh": "缺乏经验可能是许多职业成功的障碍。"
+          "en": "Headaches are often a symptom of stress or fatigue.",
+          "zh": "头痛通常是压力或疲劳的症状。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'inexperience' comes from the prefix 'in-' meaning 'not' and 'experience', which refers to the knowledge or skill gained through involvement.",
-        "association": "Think of 'in-experience' as 'not having experiences', which can help you remember its meaning."
+        "association": "Think of 'symptom' as a 'signal' from your body that something is wrong."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=inexperience&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=symptom&type=2"
     },
     {
-      "id": "w02104",
-      "word": "swim bladder",
-      "type": "phrase",
-      "chapterIndex": 204,
-      "globalIndex": 2104,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/swɪm ˈblædər/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "游泳囊",
-          "en": "A gas-filled sac in fish that helps them control buoyancy."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The swim bladder allows fish to maintain their depth in water.",
-          "zh": "游泳囊使鱼能够保持水中的深度。"
-        },
-        {
-          "en": "Some fish can adjust their swim bladder to float or sink.",
-          "zh": "一些鱼可以调节它们的游泳囊以浮动或下沉。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=swim%20bladder&type=2"
-    },
-    {
-      "id": "w02279",
-      "word": "neurological",
+      "id": "w01703",
+      "word": "adolescent",
       "type": "single",
-      "chapterIndex": 379,
-      "globalIndex": 2279,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/ˌnʊr.əˈlɑː.dʒɪ.kəl/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "神经的",
-          "en": "Relating to the nervous system or its functions."
-        },
-        {
-          "pos": "adj.",
-          "zh": "神经病学的",
-          "en": "Relating to the study of diseases of the nervous system."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Neurological disorders can significantly affect a person's quality of life.",
-          "zh": "神经系统疾病可以显著影响一个人的生活质量。"
-        },
-        {
-          "en": "The doctor specialized in neurological research and treatment options.",
-          "zh": "这位医生专注于神经学研究和治疗方案。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'neurological' comes from the Greek 'neuron' meaning 'nerve' and 'logia' meaning 'study of'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=neurological&type=2"
-    },
-    {
-      "id": "w01718",
-      "word": "degenerate",
-      "type": "single",
-      "chapterIndex": 18,
-      "globalIndex": 1718,
+      "chapterIndex": 3,
+      "globalIndex": 1703,
       "chapter": "ch086",
       "chapterName": "核心词汇 法制与犯罪 Unit 1",
       "pronunciation": {
-        "us": "/dɪˈdʒɛn.ə.reɪt/"
+        "us": "/ˌæd.əˈlɛs.ənt/"
       },
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "退化",
-          "en": "To decline in quality, strength, or moral standards."
+          "pos": "adj.",
+          "zh": "青少年的",
+          "en": "Relating to a young person, typically between 13 and 19 years old."
+        },
+        {
+          "pos": "n.",
+          "zh": "青少年",
+          "en": "A young person who is in the stage of development between childhood and adulthood."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many adolescents face challenges related to their identity and self-esteem.",
+          "zh": "许多青少年面临与自我认同和自尊相关的挑战。"
+        },
+        {
+          "en": "Adolescents often experience significant physical and emotional changes.",
+          "zh": "青少年往往经历重大身体和情感变化。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'adolescent' comes from the Latin 'adolescens', which means 'growing up'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=adolescent&type=2"
+    },
+    {
+      "id": "w02543",
+      "word": "geophysical",
+      "type": "single",
+      "chapterIndex": 15,
+      "globalIndex": 2543,
+      "chapter": "ch103",
+      "chapterName": "认知词汇 自然分类 \"厄尔尼诺\"现象",
+      "pronunciation": {
+        "us": "/ˌdʒiːoʊˈfɪzɪkəl/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "地球物理的",
+          "en": "Relating to the physical properties and processes of the Earth."
         },
         {
           "pos": "adj.",
-          "zh": "堕落的",
-          "en": "Having lost the physical, mental, or moral qualities considered normal."
+          "zh": "地球物理学的",
+          "en": "Pertaining to the science that studies the Earth's physical characteristics."
         }
       ],
       "examples": [
         {
-          "en": "The environmental conditions caused the species to degenerate over time.",
-          "zh": "环境条件导致该物种随着时间退化。"
+          "en": "Geophysical studies help us understand Earth's structure and behavior.",
+          "zh": "地球物理研究帮助我们理解地球的结构和行为。"
         },
         {
-          "en": "His behavior began to degenerate after he lost his job.",
-          "zh": "他失业后行为开始堕落。"
+          "en": "Scientists use geophysical methods to explore underground resources.",
+          "zh": "科学家使用地球物理方法来探索地下资源。"
         }
       ],
-      "memoryTips": {
-        "etymology": "The word 'degenerate' comes from the Latin 'degenerare', meaning 'to fall from one's kind'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=degenerate&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=geophysical&type=2"
     },
     {
-      "id": "w02304",
-      "word": "compass",
-      "type": "single",
-      "chapterIndex": 7,
-      "globalIndex": 2304,
-      "chapter": "ch097",
-      "chapterName": "认知词汇 动物分类 动物航行能力",
-      "pronunciation": {
-        "us": "/ˈkʌm.pəs/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "指南针",
-          "en": "A device used for finding direction."
-        },
-        {
-          "pos": "v.",
-          "zh": "指引",
-          "en": "To guide or direct someone."
-        }
-      ],
-      "examples": [
-        {
-          "en": "He used a compass to navigate through the dense forest.",
-          "zh": "他用指南针在茂密的森林中导航。"
-        },
-        {
-          "en": "The teacher helped compass the students' interests in science.",
-          "zh": "老师帮助引导学生对科学的兴趣。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of a 'compass' as a 'compass rose' that shows all directions."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compass&type=2"
-    },
-    {
-      "id": "w01770",
-      "word": "property",
-      "type": "single",
-      "chapterIndex": 10,
-      "globalIndex": 1770,
-      "chapter": "ch089",
-      "chapterName": "核心词汇 法制与犯罪 Unit 4",
-      "pronunciation": {
-        "us": "/ˈprɒp.ər.ti/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "财产；属性",
-          "en": "A thing that someone owns, like land or a building."
-        },
-        {
-          "pos": "n.",
-          "zh": "特性；特征",
-          "en": "A quality or characteristic of something."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The property market in the city has increased significantly this year.",
-          "zh": "今年城市的房地产市场显著增长。"
-        },
-        {
-          "en": "Water is an essential property of life on Earth.",
-          "zh": "水是地球生命的重要特性。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=property&type=2"
-    },
-    {
-      "id": "w02101",
-      "word": "squid",
-      "type": "single",
-      "chapterIndex": 201,
-      "globalIndex": 2101,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/skwɪd/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "鱿鱼",
-          "en": "A type of sea creature with a long body and tentacles."
-        },
-        {
-          "pos": "v.",
-          "zh": "快速移动",
-          "en": "To move quickly, especially in a sudden way."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The chef prepared a delicious dish with fresh squid.",
-          "zh": "厨师用新鲜的鱿鱼做了一道美味的菜。"
-        },
-        {
-          "en": "The children squidded away when they saw the wave approaching.",
-          "zh": "孩子们看到海浪逼近时迅速逃跑。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=squid&type=2"
-    },
-    {
-      "id": "w02305",
-      "word": "cruising speed",
+      "id": "w02386",
+      "word": "American Sign Language",
       "type": "phrase",
-      "chapterIndex": 8,
-      "globalIndex": 2305,
-      "chapter": "ch097",
-      "chapterName": "认知词汇 动物分类 动物航行能力",
+      "chapterIndex": 4,
+      "globalIndex": 2386,
+      "chapter": "ch100",
+      "chapterName": "认知词汇 动物分类 动物智力与语言习得",
       "pronunciation": {
-        "us": "/ˈkruːzɪŋ spiːd/"
+        "us": "/əˈmɛrɪkən saɪn ˈlæŋɡwɪdʒ/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "巡航速度",
-          "en": "The speed at which a vehicle travels steadily."
-        },
-        {
-          "pos": "n.",
-          "zh": "稳定的行驶速度",
-          "en": "A constant speed maintained during travel, especially in aviation or shipping."
+          "zh": "美国手语",
+          "en": "A visual language used by the deaf community in the United States."
         }
       ],
       "examples": [
         {
-          "en": "The airplane reached its cruising speed after takeoff.",
-          "zh": "飞机在起飞后达到了巡航速度。"
+          "en": "Many deaf individuals use American Sign Language to communicate effectively.",
+          "zh": "许多聋人使用美国手语进行有效沟通。"
         },
         {
-          "en": "The ship maintained a cruising speed to optimize fuel efficiency.",
-          "zh": "这艘船保持巡航速度以优化燃油效率。"
+          "en": "Learning American Sign Language opens up new ways to connect with others.",
+          "zh": "学习美国手语为与他人建立联系打开了新的方式。"
         }
       ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cruising%20speed&type=2"
+      "memoryTips": {
+        "association": "Think of 'American' as a country where sign language is used, creating a link between culture and communication."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=American%20Sign%20Language&type=2"
     },
     {
-      "id": "w02035",
-      "word": "air sac",
-      "type": "phrase",
-      "chapterIndex": 135,
-      "globalIndex": 2035,
+      "id": "w02086",
+      "word": "operculum",
+      "type": "single",
+      "chapterIndex": 186,
+      "globalIndex": 2086,
       "chapter": "ch096",
       "chapterName": "认知词汇 动物分类 常考生物",
       "pronunciation": {
-        "us": "/ˈɛr sæk/"
+        "us": "/əˈpɜr.kjʊ.ləm/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "气囊",
-          "en": "A small, flexible structure in animals that holds air."
+          "zh": "盖子",
+          "en": "A lid or covering that protects or closes an opening."
         },
         {
           "pos": "n.",
-          "zh": "空气囊",
-          "en": "A part of a plant or animal that helps with breathing and gas exchange."
+          "zh": "鳃盖",
+          "en": "A structure in some animals, like fish, that covers their gills."
         }
       ],
       "examples": [
         {
-          "en": "Birds have air sacs that help them breathe efficiently while flying.",
-          "zh": "鸟类有气囊，帮助它们在飞行时高效呼吸。"
+          "en": "The operculum in fish helps protect their gills from damage.",
+          "zh": "鱼的鳃盖帮助保护它们的鳃不受损伤。"
         },
         {
-          "en": "The air sacs in fish allow them to control their buoyancy in water.",
-          "zh": "鱼类的空气囊使它们能够控制在水中的浮力。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=air%20sac&type=2"
-    },
-    {
-      "id": "w01434",
-      "word": "deserve",
-      "type": "single",
-      "chapterIndex": 14,
-      "globalIndex": 1434,
-      "chapter": "ch072",
-      "chapterName": "核心词汇 动物权益与保护 Unit 2",
-      "pronunciation": {
-        "us": "/dɪˈzɜrv/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "应得",
-          "en": "To be worthy of something, usually a reward or punishment."
-        },
-        {
-          "pos": "v.",
-          "zh": "值得",
-          "en": "To have a right to something because of actions or qualities."
-        }
-      ],
-      "examples": [
-        {
-          "en": "She deserves recognition for her hard work and dedication.",
-          "zh": "她应当因她的努力和奉献而受到认可。"
-        },
-        {
-          "en": "After all his efforts, he truly deserves a break.",
-          "zh": "在他所有的努力之后，他确实值得休息一下。"
+          "en": "In some plants, the operculum covers the flower bud until it blooms.",
+          "zh": "在某些植物中，盖子在花蕾开放之前覆盖着它。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'deserve' as 'de-serve', meaning to serve what you have earned."
+        "etymology": "The word 'operculum' comes from Latin, meaning 'cover' or 'lid'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=deserve&type=2"
-    },
-    {
-      "id": "w01706",
-      "word": "anomaly",
-      "type": "single",
-      "chapterIndex": 6,
-      "globalIndex": 1706,
-      "chapter": "ch086",
-      "chapterName": "核心词汇 法制与犯罪 Unit 1",
-      "pronunciation": {
-        "us": "/əˈnɑː.mə.li/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "异常",
-          "en": "A deviation from the common rule or pattern."
-        },
-        {
-          "pos": "n.",
-          "zh": "不规则现象",
-          "en": "Something that is unusual or unexpected."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The scientist noted an anomaly in the experiment results.",
-          "zh": "科学家注意到实验结果中的异常现象。"
-        },
-        {
-          "en": "This anomaly could indicate a problem with the data collection.",
-          "zh": "这个异常可能表明数据收集存在问题。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'anomaly' as 'a-nom' (not normal) which helps recall its meaning of being unusual."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=anomaly&type=2"
-    },
-    {
-      "id": "w02261",
-      "word": "cobra",
-      "type": "single",
-      "chapterIndex": 361,
-      "globalIndex": 2261,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/ˈkoʊbrə/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "眼镜蛇",
-          "en": "A venomous snake known for its ability to raise its hood."
-        },
-        {
-          "pos": "n.",
-          "zh": "一种毒蛇",
-          "en": "A type of snake that can be dangerous to humans."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The cobra is famous for its distinctive hood when threatened.",
-          "zh": "眼镜蛇在受到威胁时以其独特的鬃毛而闻名。"
-        },
-        {
-          "en": "Many people fear cobras due to their lethal venom.",
-          "zh": "许多人因眼镜蛇的致命毒液而感到恐惧。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of the cobra's hood as a 'crown' that makes it look regal yet dangerous."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cobra&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=operculum&type=2"
     }
   ]
 }

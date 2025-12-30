@@ -1,62 +1,61 @@
 {
-  "generated": "2025-12-29T22:08:06.858Z",
+  "generated": "2025-12-30T22:07:53.003Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "inexperience",
-      "pronunciation": "/ˌɪnɪkˈspɪərəns/",
+      "word": "crustal movement",
+      "pronunciation": "/ˈkrʌstl ˈmuːvmənt/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "缺乏经验",
-          "en": "The state of having little or no experience in a particular field."
-        },
-        {
-          "pos": "n.",
-          "zh": "无知",
-          "en": "The lack of knowledge or skills in a specific area."
+          "zh": "地壳运动",
+          "en": "The movement of the Earth's crust, causing changes in the surface."
         }
       ],
       "examples": [
         {
-          "en": "Her inexperience in negotiations led to a poor agreement.",
-          "zh": "她在谈判中的缺乏经验导致了一个糟糕的协议。"
+          "en": "Crustal movement can lead to earthquakes and volcanic eruptions.",
+          "zh": "地壳运动可能导致地震和火山喷发。"
         },
         {
-          "en": "Inexperience can be a barrier to success in many careers.",
-          "zh": "缺乏经验可能是许多职业成功的障碍。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'inexperience' comes from the prefix 'in-' meaning 'not' and 'experience', which refers to the knowledge or skill gained through involvement.",
-        "association": "Think of 'in-experience' as 'not having experiences', which can help you remember its meaning."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=inexperience&type=2",
-      "chapter": "核心词汇 法制与犯罪 Unit 2"
-    },
-    {
-      "word": "swim bladder",
-      "pronunciation": "/swɪm ˈblædər/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "游泳囊",
-          "en": "A gas-filled sac in fish that helps them control buoyancy."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The swim bladder allows fish to maintain their depth in water.",
-          "zh": "游泳囊使鱼能够保持水中的深度。"
-        },
-        {
-          "en": "Some fish can adjust their swim bladder to float or sink.",
-          "zh": "一些鱼可以调节它们的游泳囊以浮动或下沉。"
+          "en": "Scientists study crustal movement to understand geological changes.",
+          "zh": "科学家研究地壳运动以了解地质变化。"
         }
       ],
       "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=swim%20bladder&type=2",
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=crustal%20movement&type=2",
+      "chapter": "认知词汇 自然分类 地震"
+    },
+    {
+      "word": "intruder",
+      "pronunciation": "/ɪnˈtruːdər/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "入侵者",
+          "en": "A person who enters a place without permission."
+        },
+        {
+          "pos": "n.",
+          "zh": "侵扰者",
+          "en": "Someone who disrupts a situation or activity."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The intruder was caught by the security cameras at night.",
+          "zh": "入侵者在夜间被监控摄像头捕捉到。"
+        },
+        {
+          "en": "She felt like an intruder in the close-knit community.",
+          "zh": "她感觉自己在这个紧密团结的社区中像个入侵者。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of an 'intruder' as someone who 'intrudes' into your space or privacy."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=intruder&type=2",
       "chapter": "认知词汇 动物分类 常考生物"
     }
   ]

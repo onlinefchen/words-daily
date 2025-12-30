@@ -1,67 +1,67 @@
 {
-  "generated": "2025-12-29T22:08:06.858Z",
+  "generated": "2025-12-30T22:07:53.004Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "air sac",
-      "pronunciation": "/ˈɛr sæk/",
+      "word": "adolescent",
+      "pronunciation": "/ˌæd.əˈlɛs.ənt/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "气囊",
-          "en": "A small, flexible structure in animals that holds air."
+          "pos": "adj.",
+          "zh": "青少年的",
+          "en": "Relating to a young person, typically between 13 and 19 years old."
         },
         {
           "pos": "n.",
-          "zh": "空气囊",
-          "en": "A part of a plant or animal that helps with breathing and gas exchange."
+          "zh": "青少年",
+          "en": "A young person who is in the stage of development between childhood and adulthood."
         }
       ],
       "examples": [
         {
-          "en": "Birds have air sacs that help them breathe efficiently while flying.",
-          "zh": "鸟类有气囊，帮助它们在飞行时高效呼吸。"
+          "en": "Many adolescents face challenges related to their identity and self-esteem.",
+          "zh": "许多青少年面临与自我认同和自尊相关的挑战。"
         },
         {
-          "en": "The air sacs in fish allow them to control their buoyancy in water.",
-          "zh": "鱼类的空气囊使它们能够控制在水中的浮力。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=air%20sac&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
-    },
-    {
-      "word": "deserve",
-      "pronunciation": "/dɪˈzɜrv/",
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "应得",
-          "en": "To be worthy of something, usually a reward or punishment."
-        },
-        {
-          "pos": "v.",
-          "zh": "值得",
-          "en": "To have a right to something because of actions or qualities."
-        }
-      ],
-      "examples": [
-        {
-          "en": "She deserves recognition for her hard work and dedication.",
-          "zh": "她应当因她的努力和奉献而受到认可。"
-        },
-        {
-          "en": "After all his efforts, he truly deserves a break.",
-          "zh": "在他所有的努力之后，他确实值得休息一下。"
+          "en": "Adolescents often experience significant physical and emotional changes.",
+          "zh": "青少年往往经历重大身体和情感变化。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'deserve' as 'de-serve', meaning to serve what you have earned."
+        "etymology": "The word 'adolescent' comes from the Latin 'adolescens', which means 'growing up'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=deserve&type=2",
-      "chapter": "核心词汇 动物权益与保护 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=adolescent&type=2",
+      "chapter": "核心词汇 法制与犯罪 Unit 1"
+    },
+    {
+      "word": "geophysical",
+      "pronunciation": "/ˌdʒiːoʊˈfɪzɪkəl/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "地球物理的",
+          "en": "Relating to the physical properties and processes of the Earth."
+        },
+        {
+          "pos": "adj.",
+          "zh": "地球物理学的",
+          "en": "Pertaining to the science that studies the Earth's physical characteristics."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Geophysical studies help us understand Earth's structure and behavior.",
+          "zh": "地球物理研究帮助我们理解地球的结构和行为。"
+        },
+        {
+          "en": "Scientists use geophysical methods to explore underground resources.",
+          "zh": "科学家使用地球物理方法来探索地下资源。"
+        }
+      ],
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=geophysical&type=2",
+      "chapter": "认知词汇 自然分类 \"厄尔尼诺\"现象"
     }
   ]
 }

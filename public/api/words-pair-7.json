@@ -1,67 +1,67 @@
 {
-  "generated": "2025-12-29T22:08:06.858Z",
+  "generated": "2025-12-30T22:07:53.003Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "compass",
-      "pronunciation": "/ˈkʌm.pəs/",
+      "word": "shield volcano",
+      "pronunciation": "/ʃiːld vɒlˈkeɪnoʊ/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "指南针",
-          "en": "A device used for finding direction."
+          "zh": "盾形火山",
+          "en": "A type of volcano with broad, gentle slopes formed by the eruption of low-viscosity lava."
         },
         {
-          "pos": "v.",
-          "zh": "指引",
-          "en": "To guide or direct someone."
+          "pos": "n.",
+          "zh": "盾状火山",
+          "en": "A volcano that resembles a large, shield-like shape due to the flow of lava."
         }
       ],
       "examples": [
         {
-          "en": "He used a compass to navigate through the dense forest.",
-          "zh": "他用指南针在茂密的森林中导航。"
+          "en": "Shield volcanoes often produce large amounts of basaltic lava.",
+          "zh": "盾形火山通常会喷发大量的玄武岩熔岩。"
         },
         {
-          "en": "The teacher helped compass the students' interests in science.",
-          "zh": "老师帮助引导学生对科学的兴趣。"
+          "en": "Mauna Loa in Hawaii is the world's largest shield volcano.",
+          "zh": "夏威夷的莫纳罗亚是世界上最大的盾形火山。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a 'compass' as a 'compass rose' that shows all directions."
+        "association": "Think of a shield protecting a warrior; a shield volcano protects its lava from rising steeply."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=compass&type=2",
-      "chapter": "认知词汇 动物分类 动物航行能力"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=shield%20volcano&type=2",
+      "chapter": "认知词汇 自然分类 火山"
     },
     {
-      "word": "property",
-      "pronunciation": "/ˈprɒp.ər.ti/",
+      "word": "alluring",
+      "pronunciation": "/əˈlʊrɪŋ/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "财产；属性",
-          "en": "A thing that someone owns, like land or a building."
+          "pos": "adj.",
+          "zh": "诱人的",
+          "en": "Very attractive or charming, often in a way that draws attention."
         },
         {
-          "pos": "n.",
-          "zh": "特性；特征",
-          "en": "A quality or characteristic of something."
+          "pos": "adj.",
+          "zh": "迷人的",
+          "en": "Having a quality that is pleasing or tempting."
         }
       ],
       "examples": [
         {
-          "en": "The property market in the city has increased significantly this year.",
-          "zh": "今年城市的房地产市场显著增长。"
+          "en": "The alluring landscape captivated everyone who visited.",
+          "zh": "迷人的风景吸引了所有来访的客人。"
         },
         {
-          "en": "Water is an essential property of life on Earth.",
-          "zh": "水是地球生命的重要特性。"
+          "en": "She wore an alluring dress that caught everyone's eye.",
+          "zh": "她穿着一件诱人的裙子，吸引了所有人的目光。"
         }
       ],
       "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=property&type=2",
-      "chapter": "核心词汇 法制与犯罪 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=alluring&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 2"
     }
   ]
 }

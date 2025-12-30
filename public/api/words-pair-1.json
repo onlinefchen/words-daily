@@ -1,67 +1,71 @@
 {
-  "generated": "2025-12-29T22:08:06.857Z",
+  "generated": "2025-12-30T22:07:52.991Z",
   "pair": 1,
   "count": 2,
   "words": [
     {
-      "word": "metallic money",
-      "pronunciation": "/məˈtælɪk ˈmʌni/",
+      "word": "asphyxiate",
+      "pronunciation": "/əˈsfɪk.si.eɪt/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "金属货币",
-          "en": "Money made of metal, typically coins."
+          "pos": "v.",
+          "zh": "窒息",
+          "en": "To cause someone to be unable to breathe."
         },
         {
-          "pos": "n.",
-          "zh": "实物货币",
-          "en": "Physical currency that has intrinsic value, unlike paper money."
+          "pos": "v.",
+          "zh": "抑制",
+          "en": "To prevent something from developing or being expressed."
         }
       ],
       "examples": [
         {
-          "en": "In many countries, metallic money is still widely used for small transactions.",
-          "zh": "在许多国家，金属货币仍广泛用于小额交易。"
+          "en": "The smoke from the fire can asphyxiate anyone trapped inside.",
+          "zh": "火灾产生的烟雾可以使被困在里面的人窒息。"
         },
         {
-          "en": "Metallic money can last longer than paper bills, making it a practical choice.",
-          "zh": "金属货币比纸币更耐用，是一种实用的选择。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=metallic%20money&type=2",
-      "chapter": "认知词汇 历史分类 钱币发展史"
-    },
-    {
-      "word": "self-interest",
-      "pronunciation": "/sɛlf ˈɪn.tə.rest/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "自我利益",
-          "en": "The personal gain or benefit that someone seeks."
-        },
-        {
-          "pos": "n.",
-          "zh": "自我中心",
-          "en": "The concern for one's own advantage or welfare."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Many decisions in politics are driven by self-interest rather than public good.",
-          "zh": "政治中的许多决策是由自我利益而非公共利益驱动的。"
-        },
-        {
-          "en": "In a competitive market, companies often act out of self-interest to maximize profits.",
-          "zh": "在竞争激烈的市场中，公司通常出于自我利益来最大化利润。"
+          "en": "Many animals can asphyxiate if they are kept in small cages.",
+          "zh": "许多动物如果被关在小笼子里会窒息。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'self' as referring to yourself and 'interest' as what you care about the most."
+        "etymology": "The word comes from the Greek 'asphyxia', meaning 'lack of pulse', from 'a-' meaning 'without' and 'sphyxis' meaning 'pulse'.",
+        "association": "Think of 'asphyxiate' like 'suffocate', both relate to breathing issues."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=self-interest&type=2",
-      "chapter": "核心词汇 伦理与道德 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=asphyxiate&type=2",
+      "chapter": "认知词汇 环境分类 伦敦大雾"
+    },
+    {
+      "word": "distinguished",
+      "pronunciation": "/dɪsˈtɪŋɡwɪʃt/",
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "杰出的，著名的",
+          "en": "Recognized for excellence; well-known and respected."
+        },
+        {
+          "pos": "adj.",
+          "zh": "不同的，区别的",
+          "en": "Clearly different or distinct from others."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The distinguished professor received an award for his research.",
+          "zh": "这位杰出的教授因其研究而获得奖项。"
+        },
+        {
+          "en": "Her distinguished career includes many prestigious positions.",
+          "zh": "她杰出的职业生涯包括许多著名的职位。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'distinguished' comes from the Latin 'distinguere', meaning to separate or mark out.",
+        "association": "Think of a 'distinguished' person as someone standing out in a crowd due to their achievements."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=distinguished&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 7"
     }
   ]
 }

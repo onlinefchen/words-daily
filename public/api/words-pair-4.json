@@ -1,67 +1,69 @@
 {
-  "generated": "2025-12-29T22:08:06.857Z",
+  "generated": "2025-12-30T22:07:53.002Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "inject",
-      "pronunciation": "/ɪnˈdʒɛkt/",
+      "word": "exchange",
+      "pronunciation": "/ɪksˈtʃeɪndʒ/",
       "meanings": [
         {
           "pos": "v.",
-          "zh": "注射",
-          "en": "To introduce a substance into something, usually with a syringe."
+          "zh": "交换",
+          "en": "To give something and receive something in return."
         },
         {
-          "pos": "v.",
-          "zh": "加入",
-          "en": "To add or insert something into a situation to improve it."
+          "pos": "n.",
+          "zh": "交流",
+          "en": "The act of giving and receiving things, ideas, or information."
         }
       ],
       "examples": [
         {
-          "en": "The doctor will inject the vaccine into your arm.",
-          "zh": "医生会在你的手臂上注射疫苗。"
+          "en": "We will exchange gifts during the holiday season.",
+          "zh": "我们将在假期期间互换礼物。"
         },
         {
-          "en": "We need to inject new ideas into our project to make it better.",
-          "zh": "我们需要为项目加入新想法，以使其更好。"
+          "en": "The students exchanged ideas on their projects last week.",
+          "zh": "学生们上周交流了他们项目的想法。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'inject' as 'injecting' energy or ideas into a conversation or project."
+        "association": "Think of 'exchange' as 'ex-changing' items or ideas with someone else."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=inject&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=exchange&type=2",
+      "chapter": "基本词汇 名词200 Unit 4"
     },
     {
-      "word": "flexible",
-      "pronunciation": "/ˈflɛksəbl/",
+      "word": "discriminate",
+      "pronunciation": "/dɪsˈkrɪm.ə.neɪt/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "灵活的",
-          "en": "Able to change or adapt easily."
+          "pos": "v.",
+          "zh": "区分",
+          "en": "To recognize or show the difference between things."
         },
         {
-          "pos": "adj.",
-          "zh": "可弯曲的",
-          "en": "Capable of bending without breaking."
+          "pos": "v.",
+          "zh": "歧视",
+          "en": "To treat someone unfairly based on their group or characteristics."
         }
       ],
       "examples": [
         {
-          "en": "She has a flexible schedule that allows her to travel often.",
-          "zh": "她的日程安排灵活，允许她经常旅行。"
+          "en": "It is important to discriminate between fact and opinion in a debate.",
+          "zh": "在辩论中区分事实和观点很重要。"
         },
         {
-          "en": "The material is flexible, making it easy to shape into different forms.",
-          "zh": "这种材料很灵活，容易塑造成不同的形状。"
+          "en": "We should not discriminate against people based on their race or gender.",
+          "zh": "我们不应根据种族或性别歧视他人。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=flexible&type=2",
-      "chapter": "核心词汇 工作与生活 Unit 3"
+      "memoryTips": {
+        "association": "Think of 'discriminate' as 'dis- + criminate,' where 'criminate' relates to 'create distinctions'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=discriminate&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 3"
     }
   ]
 }

@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-29T22:08:06.858Z",
+  "generated": "2025-12-30T22:07:53.003Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "neurological",
-      "pronunciation": "/ˌnʊr.əˈlɑː.dʒɪ.kəl/",
+      "word": "sense",
+      "pronunciation": "/sɛns/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "神经的",
-          "en": "Relating to the nervous system or its functions."
+          "pos": "n.",
+          "zh": "感觉",
+          "en": "The ability to perceive or feel something through the body."
         },
-        {
-          "pos": "adj.",
-          "zh": "神经病学的",
-          "en": "Relating to the study of diseases of the nervous system."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Neurological disorders can significantly affect a person's quality of life.",
-          "zh": "神经系统疾病可以显著影响一个人的生活质量。"
-        },
-        {
-          "en": "The doctor specialized in neurological research and treatment options.",
-          "zh": "这位医生专注于神经学研究和治疗方案。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'neurological' comes from the Greek 'neuron' meaning 'nerve' and 'logia' meaning 'study of'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=neurological&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
-    },
-    {
-      "word": "degenerate",
-      "pronunciation": "/dɪˈdʒɛn.ə.reɪt/",
-      "meanings": [
         {
           "pos": "v.",
-          "zh": "退化",
-          "en": "To decline in quality, strength, or moral standards."
-        },
-        {
-          "pos": "adj.",
-          "zh": "堕落的",
-          "en": "Having lost the physical, mental, or moral qualities considered normal."
+          "zh": "意识到",
+          "en": "To become aware of something through the senses."
         }
       ],
       "examples": [
         {
-          "en": "The environmental conditions caused the species to degenerate over time.",
-          "zh": "环境条件导致该物种随着时间退化。"
+          "en": "She has a strong sense of responsibility towards her family.",
+          "zh": "她对家庭有很强的责任感。"
         },
         {
-          "en": "His behavior began to degenerate after he lost his job.",
-          "zh": "他失业后行为开始堕落。"
+          "en": "The teacher sensed that the students were confused about the topic.",
+          "zh": "老师意识到学生们对这个主题感到困惑。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'degenerate' comes from the Latin 'degenerare', meaning 'to fall from one's kind'."
+        "association": "Think of 'sense' as related to your five senses: sight, hearing, touch, taste, and smell."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=degenerate&type=2",
-      "chapter": "核心词汇 法制与犯罪 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sense&type=2",
+      "chapter": "核心词汇 工作与生活 Unit 5"
+    },
+    {
+      "word": "habitat",
+      "pronunciation": "/ˈhæbɪtæt/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "栖息地",
+          "en": "The natural environment where an animal or plant lives."
+        },
+        {
+          "pos": "n.",
+          "zh": "居住地",
+          "en": "A place that is home to a particular species."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The Amazon rainforest is an important habitat for many species.",
+          "zh": "亚马逊雨林是许多物种的重要栖息地。"
+        },
+        {
+          "en": "Urban areas can also serve as habitats for various wildlife.",
+          "zh": "城市地区也可以作为各种野生动物的栖息地。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'habitat' as 'habit' + 'at', like where your habits are formed."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=habitat&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }
