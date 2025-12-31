@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-30T22:07:53.003Z",
+  "generated": "2025-12-31T22:08:23.849Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "sense",
-      "pronunciation": "/sɛns/",
+      "word": "hormone",
+      "pronunciation": "/ˈhɔːrmoʊn/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "感觉",
-          "en": "The ability to perceive or feel something through the body."
+          "zh": "激素",
+          "en": "A hormone is a chemical made by the body that controls and regulates various functions."
         },
         {
-          "pos": "v.",
-          "zh": "意识到",
-          "en": "To become aware of something through the senses."
+          "pos": "n.",
+          "zh": "荷尔蒙",
+          "en": "Hormones are substances in the body that affect growth, metabolism, and mood."
         }
       ],
       "examples": [
         {
-          "en": "She has a strong sense of responsibility towards her family.",
-          "zh": "她对家庭有很强的责任感。"
+          "en": "Insulin is a hormone that helps control blood sugar levels.",
+          "zh": "胰岛素是一种帮助控制血糖水平的激素。"
         },
         {
-          "en": "The teacher sensed that the students were confused about the topic.",
-          "zh": "老师意识到学生们对这个主题感到困惑。"
+          "en": "Stress can lead to changes in hormone levels in the body.",
+          "zh": "压力可能导致体内激素水平的变化。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'sense' as related to your five senses: sight, hearing, touch, taste, and smell."
+        "association": "Think of 'hormone' as 'hormone balance' to remember its role in regulating body functions."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sense&type=2",
-      "chapter": "核心词汇 工作与生活 Unit 5"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=hormone&type=2",
+      "chapter": "认知词汇 动物分类 动物思维"
     },
     {
-      "word": "habitat",
-      "pronunciation": "/ˈhæbɪtæt/",
+      "word": "ethical",
+      "pronunciation": "/ˈɛθɪkəl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "栖息地",
-          "en": "The natural environment where an animal or plant lives."
+          "pos": "adj.",
+          "zh": "伦理的",
+          "en": "Related to what is right and wrong in behavior."
         },
         {
-          "pos": "n.",
-          "zh": "居住地",
-          "en": "A place that is home to a particular species."
+          "pos": "adj.",
+          "zh": "道德的",
+          "en": "Concerned with moral principles and values."
         }
       ],
       "examples": [
         {
-          "en": "The Amazon rainforest is an important habitat for many species.",
-          "zh": "亚马逊雨林是许多物种的重要栖息地。"
+          "en": "The company has an ethical responsibility to its employees.",
+          "zh": "公司对员工有道德责任。"
         },
         {
-          "en": "Urban areas can also serve as habitats for various wildlife.",
-          "zh": "城市地区也可以作为各种野生动物的栖息地。"
+          "en": "Many scientists debate the ethical implications of genetic research.",
+          "zh": "许多科学家讨论基因研究的伦理影响。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'habitat' as 'habit' + 'at', like where your habits are formed."
+        "association": "Think of 'ethics' when you hear 'ethical'. Both relate to morality."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=habitat&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ethical&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 3"
     }
   ]
 }

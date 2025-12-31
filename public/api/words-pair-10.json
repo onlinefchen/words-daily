@@ -1,64 +1,69 @@
 {
-  "generated": "2025-12-30T22:07:53.004Z",
+  "generated": "2025-12-31T22:08:23.849Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "American Sign Language",
-      "pronunciation": "/əˈmɛrɪkən saɪn ˈlæŋɡwɪdʒ/",
+      "word": "acoustic faculty",
+      "pronunciation": "/əˈkuːstɪk ˈfækəlti/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "美国手语",
-          "en": "A visual language used by the deaf community in the United States."
+          "zh": "声学能力",
+          "en": "The ability to perceive sound and its qualities."
+        },
+        {
+          "pos": "n.",
+          "zh": "声学系统",
+          "en": "A system or faculty that relates to sound and hearing."
         }
       ],
       "examples": [
         {
-          "en": "Many deaf individuals use American Sign Language to communicate effectively.",
-          "zh": "许多聋人使用美国手语进行有效沟通。"
+          "en": "Her acoustic faculty allowed her to distinguish subtle sound differences.",
+          "zh": "她的声学能力使她能够区分微妙的声音差异。"
         },
         {
-          "en": "Learning American Sign Language opens up new ways to connect with others.",
-          "zh": "学习美国手语为与他人建立联系打开了新的方式。"
+          "en": "The concert hall was designed to enhance the acoustic faculty of the music.",
+          "zh": "音乐厅的设计旨在增强音乐的声学效果。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'American' as a country where sign language is used, creating a link between culture and communication."
+        "association": "Think of 'acoustic' as related to sound, and 'faculty' as a skill or ability, linking sound perception with capability."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=American%20Sign%20Language&type=2",
-      "chapter": "认知词汇 动物分类 动物智力与语言习得"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=acoustic%20faculty&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "operculum",
-      "pronunciation": "/əˈpɜr.kjʊ.ləm/",
+      "word": "wrongdoer",
+      "pronunciation": "/ˈrɔŋˌduər/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "盖子",
-          "en": "A lid or covering that protects or closes an opening."
+          "zh": "违法者",
+          "en": "A person who commits a crime or does something illegal."
         },
         {
           "pos": "n.",
-          "zh": "鳃盖",
-          "en": "A structure in some animals, like fish, that covers their gills."
+          "zh": "错误的人",
+          "en": "Someone who behaves in a morally wrong way."
         }
       ],
       "examples": [
         {
-          "en": "The operculum in fish helps protect their gills from damage.",
-          "zh": "鱼的鳃盖帮助保护它们的鳃不受损伤。"
+          "en": "The police arrested the wrongdoer after a long investigation.",
+          "zh": "警察在长时间的调查后逮捕了违法者。"
         },
         {
-          "en": "In some plants, the operculum covers the flower bud until it blooms.",
-          "zh": "在某些植物中，盖子在花蕾开放之前覆盖着它。"
+          "en": "Society must hold wrongdoers accountable for their actions.",
+          "zh": "社会必须让违法者对他们的行为负责。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'operculum' comes from Latin, meaning 'cover' or 'lid'."
+        "association": "Think of 'wrong' in 'wrongdoer' to remember that it's someone who does wrong."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=operculum&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=wrongdoer&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 10"
     }
   ]
 }

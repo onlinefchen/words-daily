@@ -1,61 +1,66 @@
 {
-  "generated": "2025-12-30T22:07:53.003Z",
+  "generated": "2025-12-31T22:08:23.848Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "crustal movement",
-      "pronunciation": "/ˈkrʌstl ˈmuːvmənt/",
+      "word": "intolerable",
+      "pronunciation": "/ɪnˈtɒlərəbl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "地壳运动",
-          "en": "The movement of the Earth's crust, causing changes in the surface."
+          "pos": "adj.",
+          "zh": "无法忍受的",
+          "en": "Something that is too bad or severe to be tolerated."
+        },
+        {
+          "pos": "adj.",
+          "zh": "不可接受的",
+          "en": "Something that is not acceptable or bearable."
         }
       ],
       "examples": [
         {
-          "en": "Crustal movement can lead to earthquakes and volcanic eruptions.",
-          "zh": "地壳运动可能导致地震和火山喷发。"
+          "en": "The noise from the construction site was intolerable all night.",
+          "zh": "施工现场的噪音整晚都是无法忍受的。"
         },
         {
-          "en": "Scientists study crustal movement to understand geological changes.",
-          "zh": "科学家研究地壳运动以了解地质变化。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=crustal%20movement&type=2",
-      "chapter": "认知词汇 自然分类 地震"
-    },
-    {
-      "word": "intruder",
-      "pronunciation": "/ɪnˈtruːdər/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "入侵者",
-          "en": "A person who enters a place without permission."
-        },
-        {
-          "pos": "n.",
-          "zh": "侵扰者",
-          "en": "Someone who disrupts a situation or activity."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The intruder was caught by the security cameras at night.",
-          "zh": "入侵者在夜间被监控摄像头捕捉到。"
-        },
-        {
-          "en": "She felt like an intruder in the close-knit community.",
-          "zh": "她感觉自己在这个紧密团结的社区中像个入侵者。"
+          "en": "Many people find the heat during summer intolerable without air conditioning.",
+          "zh": "很多人觉得没有空调的夏天热得无法忍受。"
         }
       ],
       "memoryTips": {
-        "association": "Think of an 'intruder' as someone who 'intrudes' into your space or privacy."
+        "association": "Think of 'tolerable' and add 'in-' to remember it means the opposite."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=intruder&type=2",
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=intolerable&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 4"
+    },
+    {
+      "word": "imbibe",
+      "pronunciation": "/ɪmˈbaɪb/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "喝，饮",
+          "en": "To drink or consume a liquid."
+        },
+        {
+          "pos": "v.",
+          "zh": "吸收，接受",
+          "en": "To absorb ideas or knowledge."
+        }
+      ],
+      "examples": [
+        {
+          "en": "He likes to imbibe different cultures while traveling abroad.",
+          "zh": "他喜欢在国外旅行时吸收不同的文化。"
+        },
+        {
+          "en": "Students often imbibe new information during lectures.",
+          "zh": "学生们在讲座中经常吸收新信息。"
+        }
+      ],
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=imbibe&type=2",
       "chapter": "认知词汇 动物分类 常考生物"
     }
   ]

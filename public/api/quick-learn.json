@@ -1,70 +1,63 @@
 {
-  "generated": "2025-12-30T22:07:52.991Z",
+  "generated": "2025-12-31T22:08:23.848Z",
   "count": 2,
   "words": [
     {
-      "word": "asphyxiate",
-      "pronunciation": "/əˈsfɪk.si.eɪt/",
+      "word": "real estate",
+      "pronunciation": "/ˈriːəl ɪˈsteɪt/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "窒息",
-          "en": "To cause someone to be unable to breathe."
+          "pos": "n.",
+          "zh": "房地产",
+          "en": "Property consisting of land and any buildings on it."
         },
         {
-          "pos": "v.",
-          "zh": "抑制",
-          "en": "To prevent something from developing or being expressed."
+          "pos": "n.",
+          "zh": "房地产行业",
+          "en": "The business of buying, selling, or renting land and buildings."
         }
       ],
       "examples": [
         {
-          "en": "The smoke from the fire can asphyxiate anyone trapped inside.",
-          "zh": "火灾产生的烟雾可以使被困在里面的人窒息。"
+          "en": "Investing in real estate can provide good financial returns.",
+          "zh": "投资房地产可以带来良好的经济回报。"
         },
         {
-          "en": "Many animals can asphyxiate if they are kept in small cages.",
-          "zh": "许多动物如果被关在小笼子里会窒息。"
+          "en": "Many people choose real estate as a long-term investment option.",
+          "zh": "许多人选择房地产作为长期投资选择。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word comes from the Greek 'asphyxia', meaning 'lack of pulse', from 'a-' meaning 'without' and 'sphyxis' meaning 'pulse'.",
-        "association": "Think of 'asphyxiate' like 'suffocate', both relate to breathing issues."
+        "association": "Think of 'real' as something genuine and 'estate' as land; together they mean genuine land."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=asphyxiate&type=2",
-      "chapter": "认知词汇 环境分类 伦敦大雾"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=real%20estate&type=2",
+      "chapter": "阅读真题认知词汇 交通阻塞"
     },
     {
-      "word": "distinguished",
-      "pronunciation": "/dɪsˈtɪŋɡwɪʃt/",
+      "word": "external stimulus",
+      "pronunciation": "/ɪkˈstɜrnəl ˈstɪmjʊləs/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "杰出的，著名的",
-          "en": "Recognized for excellence; well-known and respected."
-        },
-        {
-          "pos": "adj.",
-          "zh": "不同的，区别的",
-          "en": "Clearly different or distinct from others."
+          "pos": "n.",
+          "zh": "外部刺激",
+          "en": "An external factor that causes a reaction or response."
         }
       ],
       "examples": [
         {
-          "en": "The distinguished professor received an award for his research.",
-          "zh": "这位杰出的教授因其研究而获得奖项。"
+          "en": "The external stimulus triggered a strong emotional reaction in the participants.",
+          "zh": "外部刺激引发了参与者强烈的情感反应。"
         },
         {
-          "en": "Her distinguished career includes many prestigious positions.",
-          "zh": "她杰出的职业生涯包括许多著名的职位。"
+          "en": "Animals often respond to external stimuli in their environment for survival.",
+          "zh": "动物通常会对环境中的外部刺激作出反应以求生存。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'distinguished' comes from the Latin 'distinguere', meaning to separate or mark out.",
-        "association": "Think of a 'distinguished' person as someone standing out in a crowd due to their achievements."
+        "association": "Think of 'external' as something outside and 'stimulus' as a trigger, helping you visualize an outside force causing a reaction."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=distinguished&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 7"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=external%20stimulus&type=2",
+      "chapter": "认知词汇 动物分类 动物行为"
     }
   ]
 }

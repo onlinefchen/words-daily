@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-30T22:07:53.002Z",
+  "generated": "2025-12-31T22:08:23.848Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "exchange",
-      "pronunciation": "/ɪksˈtʃeɪndʒ/",
+      "word": "siltation",
+      "pronunciation": "/sɪlˈteɪʃən/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "交换",
-          "en": "To give something and receive something in return."
+          "pos": "n.",
+          "zh": "淤积",
+          "en": "The accumulation of silt in a body of water, often affecting ecosystems."
         },
         {
           "pos": "n.",
-          "zh": "交流",
-          "en": "The act of giving and receiving things, ideas, or information."
+          "zh": "沉积物",
+          "en": "Material, usually fine particles, that settles at the bottom of a water body."
         }
       ],
       "examples": [
         {
-          "en": "We will exchange gifts during the holiday season.",
-          "zh": "我们将在假期期间互换礼物。"
+          "en": "Siltation can significantly reduce water quality in lakes and rivers.",
+          "zh": "淤积会显著降低湖泊和河流的水质。"
         },
         {
-          "en": "The students exchanged ideas on their projects last week.",
-          "zh": "学生们上周交流了他们项目的想法。"
+          "en": "The construction project led to increased siltation in the nearby wetlands.",
+          "zh": "建设项目导致附近湿地的淤积增加。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'exchange' as 'ex-changing' items or ideas with someone else."
+        "association": "Think of 'silt' as fine dirt that settles down, causing 'siltation' when it accumulates."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=exchange&type=2",
-      "chapter": "基本词汇 名词200 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=siltation&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "discriminate",
-      "pronunciation": "/dɪsˈkrɪm.ə.neɪt/",
+      "word": "fatal",
+      "pronunciation": "/ˈfeɪ.təl/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "区分",
-          "en": "To recognize or show the difference between things."
+          "pos": "adj.",
+          "zh": "致命的",
+          "en": "Causing death or able to cause death."
         },
         {
-          "pos": "v.",
-          "zh": "歧视",
-          "en": "To treat someone unfairly based on their group or characteristics."
+          "pos": "adj.",
+          "zh": "极其严重的",
+          "en": "Extremely serious or important."
         }
       ],
       "examples": [
         {
-          "en": "It is important to discriminate between fact and opinion in a debate.",
-          "zh": "在辩论中区分事实和观点很重要。"
+          "en": "The accident resulted in a fatal injury to the driver.",
+          "zh": "这起事故导致驾驶员致命受伤。"
         },
         {
-          "en": "We should not discriminate against people based on their race or gender.",
-          "zh": "我们不应根据种族或性别歧视他人。"
+          "en": "Ignoring safety rules can lead to fatal consequences.",
+          "zh": "忽视安全规则可能导致严重后果。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'discriminate' as 'dis- + criminate,' where 'criminate' relates to 'create distinctions'."
+        "association": "Think of 'fate', as in fate can be fatal."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=discriminate&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=fatal&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 3"
     }
   ]
 }

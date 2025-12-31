@@ -1,69 +1,64 @@
 {
-  "generated": "2025-12-30T22:07:53.003Z",
+  "generated": "2025-12-31T22:08:23.849Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "reciprocate",
-      "pronunciation": "/rɪˈsɪprəˌkeɪt/",
+      "word": "terrestrial mammal",
+      "pronunciation": "/təˈrɛstriəl ˈmæməl/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "回报",
-          "en": "To give back the same kind of feeling or action."
-        },
-        {
-          "pos": "v.",
-          "zh": "相互作用",
-          "en": "To respond to someone's action or feeling in a similar way."
+          "pos": "n.",
+          "zh": "陆生哺乳动物",
+          "en": "A mammal that lives primarily on land."
         }
       ],
       "examples": [
         {
-          "en": "If you help me, I will reciprocate your kindness in the future.",
-          "zh": "如果你帮助我，我将在未来回报你的善良。"
+          "en": "Lions are well-known terrestrial mammals that live in savannas.",
+          "zh": "狮子是生活在草原上的著名陆生哺乳动物。"
         },
         {
-          "en": "They decided to reciprocate the invitation to their friends.",
-          "zh": "他们决定回请他们的朋友。"
+          "en": "Many terrestrial mammals have adapted to various habitats around the world.",
+          "zh": "许多陆生哺乳动物已适应世界各地的不同栖息地。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'reciprocal' relationships where both parties give and take equally."
+        "association": "Think of 'terra' as in 'terrain' which relates to land, connecting it to land-dwelling mammals."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=reciprocate&type=2",
-      "chapter": "核心词汇 伦理与道德 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=terrestrial%20mammal&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "symptom",
-      "pronunciation": "/ˈsɪmptəm/",
+      "word": "lenient",
+      "pronunciation": "/ˈliːniənt/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "症状",
-          "en": "A sign that indicates a condition or illness."
+          "pos": "adj.",
+          "zh": "宽容的",
+          "en": "Not strict; willing to be forgiving or tolerant."
         },
         {
-          "pos": "n.",
-          "zh": "迹象",
-          "en": "An indication of something that is happening or about to happen."
+          "pos": "adj.",
+          "zh": "不严厉的",
+          "en": "Allowing more freedom; easygoing in rules or discipline."
         }
       ],
       "examples": [
         {
-          "en": "Fever can be a common symptom of the flu.",
-          "zh": "发烧可能是流感的常见症状。"
+          "en": "The teacher was lenient with students who missed classes.",
+          "zh": "老师对缺课的学生很宽容。"
         },
         {
-          "en": "Headaches are often a symptom of stress or fatigue.",
-          "zh": "头痛通常是压力或疲劳的症状。"
+          "en": "Judges are often lenient in sentencing first-time offenders.",
+          "zh": "法官在对初犯者的判刑时通常比较宽松。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'symptom' as a 'signal' from your body that something is wrong."
+        "association": "Think of 'lean' as being relaxed, which connects to being lenient."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=symptom&type=2",
-      "chapter": "基本词汇 名词200 Unit 9"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=lenient&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 4"
     }
   ]
 }

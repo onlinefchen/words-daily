@@ -1,67 +1,69 @@
 {
-  "generated": "2025-12-30T22:07:53.003Z",
+  "generated": "2025-12-31T22:08:23.849Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "shield volcano",
-      "pronunciation": "/ʃiːld vɒlˈkeɪnoʊ/",
+      "word": "wind resistance",
+      "pronunciation": "/wɪnd rɪˈzɪstəns/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "盾形火山",
-          "en": "A type of volcano with broad, gentle slopes formed by the eruption of low-viscosity lava."
+          "zh": "风阻",
+          "en": "The force that opposes the motion of an object through the air."
         },
         {
           "pos": "n.",
-          "zh": "盾状火山",
-          "en": "A volcano that resembles a large, shield-like shape due to the flow of lava."
+          "zh": "空气阻力",
+          "en": "Resistance experienced by objects due to air movement when they travel."
         }
       ],
       "examples": [
         {
-          "en": "Shield volcanoes often produce large amounts of basaltic lava.",
-          "zh": "盾形火山通常会喷发大量的玄武岩熔岩。"
+          "en": "The car's design minimizes wind resistance for better fuel efficiency.",
+          "zh": "汽车的设计减少了风阻，从而提高了燃油效率。"
         },
         {
-          "en": "Mauna Loa in Hawaii is the world's largest shield volcano.",
-          "zh": "夏威夷的莫纳罗亚是世界上最大的盾形火山。"
+          "en": "Athletes wear streamlined suits to reduce wind resistance during races.",
+          "zh": "运动员穿着流线型的服装，以减少比赛中的风阻。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a shield protecting a warrior; a shield volcano protects its lava from rising steeply."
+        "association": "Think of a windy day; the stronger the wind, the more resistance you feel while moving."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=shield%20volcano&type=2",
-      "chapter": "认知词汇 自然分类 火山"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=wind%20resistance&type=2",
+      "chapter": "认知词汇 动物分类 动物航行能力"
     },
     {
-      "word": "alluring",
-      "pronunciation": "/əˈlʊrɪŋ/",
+      "word": "immoral",
+      "pronunciation": "/ɪˈmɔrəl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "诱人的",
-          "en": "Very attractive or charming, often in a way that draws attention."
+          "zh": "不道德的",
+          "en": "Not conforming to accepted standards of morality."
         },
         {
           "pos": "adj.",
-          "zh": "迷人的",
-          "en": "Having a quality that is pleasing or tempting."
+          "zh": "邪恶的",
+          "en": "Wrong or evil in nature or behavior."
         }
       ],
       "examples": [
         {
-          "en": "The alluring landscape captivated everyone who visited.",
-          "zh": "迷人的风景吸引了所有来访的客人。"
+          "en": "Many people consider cheating on a test to be immoral behavior.",
+          "zh": "许多人认为考试作弊是不道德的行为。"
         },
         {
-          "en": "She wore an alluring dress that caught everyone's eye.",
-          "zh": "她穿着一件诱人的裙子，吸引了所有人的目光。"
+          "en": "The company's immoral practices harmed the environment significantly.",
+          "zh": "该公司的不道德行为严重损害了环境。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=alluring&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 2"
+      "memoryTips": {
+        "association": "Think of 'immoral' as 'not moral', which can help you remember its meaning."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=immoral&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 3"
     }
   ]
 }

@@ -1,64 +1,69 @@
 {
-  "generated": "2025-12-30T22:07:52.992Z",
+  "generated": "2025-12-31T22:08:23.848Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "alevin",
-      "pronunciation": "/ˈælɪvɪn/",
+      "word": "despoil",
+      "pronunciation": "/dɪˈspɔɪl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "鱼卵孵化出的幼鱼",
-          "en": "Alevin is a young fish that has just hatched and still carries its yolk sac."
+          "pos": "v.",
+          "zh": "掠夺",
+          "en": "To take away valuable things from a place, usually by force."
+        },
+        {
+          "pos": "v.",
+          "zh": "破坏",
+          "en": "To damage or ruin something, especially its beauty or quality."
         }
       ],
       "examples": [
         {
-          "en": "The alevin stage is crucial for the survival of salmon.",
-          "zh": "幼鱼阶段对鲑鱼的生存至关重要。"
+          "en": "The invaders sought to despoil the ancient city of its treasures.",
+          "zh": "入侵者试图掠夺这座古城的宝藏。"
         },
         {
-          "en": "Alevins remain in the gravel until they are ready to swim.",
-          "zh": "幼鱼在沙砾中待到它们准备游泳时。"
+          "en": "Pollution can despoil the natural beauty of the landscape.",
+          "zh": "污染会破坏自然风景的美丽。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'a' for 'a' little fish, as alevins are very small."
+        "association": "Think of 'spoil' in 'despoil' as losing something valuable, similar to spoiling food."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=alevin&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=despoil&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 2"
     },
     {
-      "word": "ambiguity",
-      "pronunciation": "/æmˈbɪɡ.juː/",
+      "word": "otter",
+      "pronunciation": "/ˈɑːtər/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "模棱两可",
-          "en": "The quality of being open to more than one interpretation."
+          "zh": "水獺",
+          "en": "A playful aquatic mammal with a long body and webbed feet."
         },
         {
           "pos": "n.",
-          "zh": "不明确",
-          "en": "A situation where something is not clear or has multiple meanings."
+          "zh": "海獺",
+          "en": "A marine animal known for its intelligence and use of tools."
         }
       ],
       "examples": [
         {
-          "en": "The ambiguity in her statement caused confusion among the team members.",
-          "zh": "她的陈述中的模棱两可让团队成员感到困惑。"
+          "en": "The otter swam gracefully through the clear water of the river.",
+          "zh": "水獺在清澈的河水中優雅地游泳。"
         },
         {
-          "en": "Legal documents often contain ambiguity, making them hard to understand.",
-          "zh": "法律文件通常包含模糊不清的内容，这使得它们难以理解。"
+          "en": "Many people enjoy watching otters play at the zoo.",
+          "zh": "許多人喜歡在動物園裡觀賞水獺玩耍。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'ambiguity' comes from the Latin word 'ambiguitas', which means 'doubtfulness'."
+        "association": "Think of 'otter' as 'water' because otters are always found in water."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ambiguity&type=2",
-      "chapter": "核心词汇 科技发展 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=otter&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

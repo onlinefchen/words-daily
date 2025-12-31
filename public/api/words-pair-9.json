@@ -1,67 +1,69 @@
 {
-  "generated": "2025-12-30T22:07:53.004Z",
+  "generated": "2025-12-31T22:08:23.849Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "adolescent",
-      "pronunciation": "/ˌæd.əˈlɛs.ənt/",
+      "word": "stimulate",
+      "pronunciation": "/ˈstɪm.jə.leɪt/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "青少年的",
-          "en": "Relating to a young person, typically between 13 and 19 years old."
+          "pos": "v.",
+          "zh": "刺激",
+          "en": "To encourage or make something happen more actively."
         },
         {
-          "pos": "n.",
-          "zh": "青少年",
-          "en": "A young person who is in the stage of development between childhood and adulthood."
+          "pos": "v.",
+          "zh": "激发",
+          "en": "To cause someone to have an interest or enthusiasm."
         }
       ],
       "examples": [
         {
-          "en": "Many adolescents face challenges related to their identity and self-esteem.",
-          "zh": "许多青少年面临与自我认同和自尊相关的挑战。"
+          "en": "The teacher used games to stimulate the students' interest in science.",
+          "zh": "老师用游戏来激发学生对科学的兴趣。"
         },
         {
-          "en": "Adolescents often experience significant physical and emotional changes.",
-          "zh": "青少年往往经历重大身体和情感变化。"
+          "en": "New policies can stimulate economic growth in the region.",
+          "zh": "新政策可以刺激该地区的经济增长。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'adolescent' comes from the Latin 'adolescens', which means 'growing up'."
+        "association": "Think of 'stimulate' as 'stimulus' which means something that provokes action."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=adolescent&type=2",
-      "chapter": "核心词汇 法制与犯罪 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=stimulate&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 9"
     },
     {
-      "word": "geophysical",
-      "pronunciation": "/ˌdʒiːoʊˈfɪzɪkəl/",
+      "word": "amoral",
+      "pronunciation": "/ˈeɪˌmɔrəl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "地球物理的",
-          "en": "Relating to the physical properties and processes of the Earth."
+          "zh": "非道德的",
+          "en": "Not concerned with right or wrong; lacking moral sense."
         },
         {
           "pos": "adj.",
-          "zh": "地球物理学的",
-          "en": "Pertaining to the science that studies the Earth's physical characteristics."
+          "zh": "无道德标准的",
+          "en": "Having no moral principles or ethics."
         }
       ],
       "examples": [
         {
-          "en": "Geophysical studies help us understand Earth's structure and behavior.",
-          "zh": "地球物理研究帮助我们理解地球的结构和行为。"
+          "en": "Some people believe that business is inherently amoral and profit-driven.",
+          "zh": "有些人认为商业本质上是非道德的，追求利润。"
         },
         {
-          "en": "Scientists use geophysical methods to explore underground resources.",
-          "zh": "科学家使用地球物理方法来探索地下资源。"
+          "en": "The character in the story was amoral, only focused on personal gain.",
+          "zh": "故事中的角色是非道德的，只关注个人利益。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=geophysical&type=2",
-      "chapter": "认知词汇 自然分类 \"厄尔尼诺\"现象"
+      "memoryTips": {
+        "association": "Think of 'a' meaning 'not' and 'moral' referring to ethics; together they imply 'not moral'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=amoral&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 1"
     }
   ]
 }
