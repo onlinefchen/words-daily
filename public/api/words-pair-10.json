@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-31T22:08:23.849Z",
+  "generated": "2026-01-01T22:08:07.147Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "acoustic faculty",
-      "pronunciation": "/əˈkuːstɪk ˈfækəlti/",
+      "word": "hygiene",
+      "pronunciation": "/haɪˈdʒin/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "声学能力",
-          "en": "The ability to perceive sound and its qualities."
+          "zh": "卫生",
+          "en": "The practice of keeping clean to prevent illness."
         },
         {
           "pos": "n.",
-          "zh": "声学系统",
-          "en": "A system or faculty that relates to sound and hearing."
+          "zh": "卫生习惯",
+          "en": "A set of practices to maintain health and cleanliness."
         }
       ],
       "examples": [
         {
-          "en": "Her acoustic faculty allowed her to distinguish subtle sound differences.",
-          "zh": "她的声学能力使她能够区分微妙的声音差异。"
+          "en": "Good hygiene practices can prevent the spread of diseases.",
+          "zh": "良好的卫生习惯可以防止疾病传播。"
         },
         {
-          "en": "The concert hall was designed to enhance the acoustic faculty of the music.",
-          "zh": "音乐厅的设计旨在增强音乐的声学效果。"
+          "en": "Regular handwashing is essential for personal hygiene.",
+          "zh": "定期洗手对个人卫生至关重要。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'acoustic' as related to sound, and 'faculty' as a skill or ability, linking sound perception with capability."
+        "association": "Think of 'hygiene' as 'high gene,' implying that good hygiene leads to better health and genes."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=acoustic%20faculty&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=hygiene&type=2",
+      "chapter": "核心词汇 环境保护 Unit 3"
     },
     {
-      "word": "wrongdoer",
-      "pronunciation": "/ˈrɔŋˌduər/",
+      "word": "discard",
+      "pronunciation": "/dɪsˈkɑrd/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "违法者",
-          "en": "A person who commits a crime or does something illegal."
+          "pos": "v.",
+          "zh": "丢弃",
+          "en": "To get rid of something that is no longer useful or wanted."
         },
         {
           "pos": "n.",
-          "zh": "错误的人",
-          "en": "Someone who behaves in a morally wrong way."
+          "zh": "被丢弃的东西",
+          "en": "An item that has been thrown away or rejected."
         }
       ],
       "examples": [
         {
-          "en": "The police arrested the wrongdoer after a long investigation.",
-          "zh": "警察在长时间的调查后逮捕了违法者。"
+          "en": "It is important to discard old papers to keep your workspace organized.",
+          "zh": "丢弃旧文件对保持工作空间的整洁很重要。"
         },
         {
-          "en": "Society must hold wrongdoers accountable for their actions.",
-          "zh": "社会必须让违法者对他们的行为负责。"
+          "en": "Many people discard plastic bottles instead of recycling them.",
+          "zh": "许多人丢弃塑料瓶而不是回收它们。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'wrong' in 'wrongdoer' to remember that it's someone who does wrong."
+        "association": "Think of 'discard' as 'dis' + 'card', where you throw away an unwanted card in a game."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=wrongdoer&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 10"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=discard&type=2",
+      "chapter": "核心词汇 环境保护 Unit 2"
     }
   ]
 }

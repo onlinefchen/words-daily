@@ -1,69 +1,70 @@
 {
-  "generated": "2025-12-31T22:08:23.848Z",
+  "generated": "2026-01-01T22:08:07.147Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "siltation",
-      "pronunciation": "/sɪlˈteɪʃən/",
+      "word": "industrialised",
+      "pronunciation": "/ɪnˈdʌstrɪəlaɪzd/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "淤积",
-          "en": "The accumulation of silt in a body of water, often affecting ecosystems."
+          "pos": "adj.",
+          "zh": "工业化的",
+          "en": "Describing a country or area that has developed industries."
         },
         {
-          "pos": "n.",
-          "zh": "沉积物",
-          "en": "Material, usually fine particles, that settles at the bottom of a water body."
+          "pos": "adj.",
+          "zh": "工业化的",
+          "en": "Referring to processes or products that are manufactured on a large scale."
         }
       ],
       "examples": [
         {
-          "en": "Siltation can significantly reduce water quality in lakes and rivers.",
-          "zh": "淤积会显著降低湖泊和河流的水质。"
+          "en": "Many industrialised nations face environmental challenges today.",
+          "zh": "许多工业化国家今天面临环境挑战。"
         },
         {
-          "en": "The construction project led to increased siltation in the nearby wetlands.",
-          "zh": "建设项目导致附近湿地的淤积增加。"
+          "en": "The industrialised sector has significantly boosted the economy.",
+          "zh": "工业化部门显著推动了经济发展。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'silt' as fine dirt that settles down, causing 'siltation' when it accumulates."
+        "etymology": "The word 'industrialised' comes from 'industry' which refers to manufacturing and production.",
+        "association": "Think of 'industrialised' as a place where factories and large machines are common."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=siltation&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=industrialised&type=2",
+      "chapter": "核心词汇 环境保护 Unit 3"
     },
     {
-      "word": "fatal",
-      "pronunciation": "/ˈfeɪ.təl/",
+      "word": "organism",
+      "pronunciation": "/ˈɔːrɡənɪzm/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "致命的",
-          "en": "Causing death or able to cause death."
+          "pos": "n.",
+          "zh": "生物体",
+          "en": "A living thing, such as a plant or animal."
         },
         {
-          "pos": "adj.",
-          "zh": "极其严重的",
-          "en": "Extremely serious or important."
+          "pos": "n.",
+          "zh": "有机体",
+          "en": "Any individual life form, including bacteria and fungi."
         }
       ],
       "examples": [
         {
-          "en": "The accident resulted in a fatal injury to the driver.",
-          "zh": "这起事故导致驾驶员致命受伤。"
+          "en": "Every organism plays a vital role in its ecosystem.",
+          "zh": "每个生物体在其生态系统中扮演着重要角色。"
         },
         {
-          "en": "Ignoring safety rules can lead to fatal consequences.",
-          "zh": "忽视安全规则可能导致严重后果。"
+          "en": "The study of microorganisms helps us understand diseases.",
+          "zh": "微生物学的研究帮助我们理解疾病。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'fate', as in fate can be fatal."
+        "etymology": "The word 'organism' comes from the Greek word 'organon', meaning 'tool or instrument'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=fatal&type=2",
-      "chapter": "核心词汇 动物权益与保护 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=organism&type=2",
+      "chapter": "认知词汇 动物分类 动物行为"
     }
   ]
 }

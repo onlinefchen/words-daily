@@ -1,69 +1,65 @@
 {
-  "generated": "2025-12-31T22:08:23.849Z",
+  "generated": "2026-01-01T22:08:07.147Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "wind resistance",
-      "pronunciation": "/wɪnd rɪˈzɪstəns/",
+      "word": "vegetation",
+      "pronunciation": "/ˌvɛdʒ.əˈteɪ.ʃən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "风阻",
-          "en": "The force that opposes the motion of an object through the air."
+          "zh": "植被",
+          "en": "The plants and trees in a particular area."
         },
         {
           "pos": "n.",
-          "zh": "空气阻力",
-          "en": "Resistance experienced by objects due to air movement when they travel."
+          "zh": "植物群落",
+          "en": "The collective growth of plants in a specific habitat."
         }
       ],
       "examples": [
         {
-          "en": "The car's design minimizes wind resistance for better fuel efficiency.",
-          "zh": "汽车的设计减少了风阻，从而提高了燃油效率。"
+          "en": "The dense vegetation in the rainforest supports many species.",
+          "zh": "雨林中茂密的植被支持着许多物种。"
         },
         {
-          "en": "Athletes wear streamlined suits to reduce wind resistance during races.",
-          "zh": "运动员穿着流线型的服装，以减少比赛中的风阻。"
+          "en": "Vegetation plays a crucial role in maintaining ecological balance.",
+          "zh": "植被在维持生态平衡中起着关键作用。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of a windy day; the stronger the wind, the more resistance you feel while moving."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=wind%20resistance&type=2",
-      "chapter": "认知词汇 动物分类 动物航行能力"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vegetation&type=2",
+      "chapter": "核心词汇 环境保护 Unit 5"
     },
     {
-      "word": "immoral",
-      "pronunciation": "/ɪˈmɔrəl/",
+      "word": "greenhorn",
+      "pronunciation": "/ˈɡriːnˌhɔrn/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "不道德的",
-          "en": "Not conforming to accepted standards of morality."
+          "pos": "n.",
+          "zh": "新手；菜鸟",
+          "en": "A person who is inexperienced or new to a particular activity."
         },
         {
-          "pos": "adj.",
-          "zh": "邪恶的",
-          "en": "Wrong or evil in nature or behavior."
+          "pos": "n.",
+          "zh": "初学者",
+          "en": "Someone who lacks experience in a specific area."
         }
       ],
       "examples": [
         {
-          "en": "Many people consider cheating on a test to be immoral behavior.",
-          "zh": "许多人认为考试作弊是不道德的行为。"
+          "en": "As a greenhorn in the industry, she learned quickly from her mistakes.",
+          "zh": "作为行业的新手，她很快从错误中学习。"
         },
         {
-          "en": "The company's immoral practices harmed the environment significantly.",
-          "zh": "该公司的不道德行为严重损害了环境。"
+          "en": "The greenhorn struggled to keep up with the more experienced team members.",
+          "zh": "这个菜鸟很难跟上更有经验的团队成员。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'immoral' as 'not moral', which can help you remember its meaning."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=immoral&type=2",
-      "chapter": "核心词汇 动物权益与保护 Unit 3"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=greenhorn&type=2",
+      "chapter": "核心词汇 工作与生活 Unit 3"
     }
   ]
 }

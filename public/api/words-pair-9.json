@@ -1,69 +1,67 @@
 {
-  "generated": "2025-12-31T22:08:23.849Z",
+  "generated": "2026-01-01T22:08:07.147Z",
   "pair": 9,
   "count": 2,
   "words": [
     {
-      "word": "stimulate",
-      "pronunciation": "/ˈstɪm.jə.leɪt/",
+      "word": "joey",
+      "pronunciation": "/ˈdʒoʊ.i/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "刺激",
-          "en": "To encourage or make something happen more actively."
+          "pos": "n.",
+          "zh": "袋鼠宝宝",
+          "en": "A joey is a young kangaroo that is still developing in its mother's pouch."
         },
         {
-          "pos": "v.",
-          "zh": "激发",
-          "en": "To cause someone to have an interest or enthusiasm."
+          "pos": "n.",
+          "zh": "小动物",
+          "en": "The term can also refer to the young of some marsupials."
         }
       ],
       "examples": [
         {
-          "en": "The teacher used games to stimulate the students' interest in science.",
-          "zh": "老师用游戏来激发学生对科学的兴趣。"
+          "en": "The mother kangaroo carried her joey safely in her pouch.",
+          "zh": "母袋鼠把她的小袋鼠安全地放在袋子里。"
         },
         {
-          "en": "New policies can stimulate economic growth in the region.",
-          "zh": "新政策可以刺激该地区的经济增长。"
+          "en": "A joey stays in its mother's pouch for several months after birth.",
+          "zh": "小袋鼠在出生后几个月内会待在母亲的袋子里。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'stimulate' as 'stimulus' which means something that provokes action."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=stimulate&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 9"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=joey&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "amoral",
-      "pronunciation": "/ˈeɪˌmɔrəl/",
+      "word": "overcrowding",
+      "pronunciation": "/ˌoʊvərˈkraʊdɪŋ/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "非道德的",
-          "en": "Not concerned with right or wrong; lacking moral sense."
+          "pos": "n.",
+          "zh": "过度拥挤",
+          "en": "The situation when there are too many people in a place."
         },
         {
-          "pos": "adj.",
-          "zh": "无道德标准的",
-          "en": "Having no moral principles or ethics."
+          "pos": "v.",
+          "zh": "使过度拥挤",
+          "en": "To make a place too full of people or things."
         }
       ],
       "examples": [
         {
-          "en": "Some people believe that business is inherently amoral and profit-driven.",
-          "zh": "有些人认为商业本质上是非道德的，追求利润。"
+          "en": "Overcrowding in cities leads to serious problems like pollution.",
+          "zh": "城市的过度拥挤导致严重的污染等问题。"
         },
         {
-          "en": "The character in the story was amoral, only focused on personal gain.",
-          "zh": "故事中的角色是非道德的，只关注个人利益。"
+          "en": "The school had to find ways to reduce overcrowding in classrooms.",
+          "zh": "学校必须寻找减少课堂过度拥挤的方法。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'a' meaning 'not' and 'moral' referring to ethics; together they imply 'not moral'."
+        "association": "Think of 'crowd' as a group of people. 'Over' means too many. So, 'overcrowding' is a crowd that's too big."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=amoral&type=2",
-      "chapter": "核心词汇 动物权益与保护 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=overcrowding&type=2",
+      "chapter": "核心词汇 环境保护 Unit 4"
     }
   ]
 }

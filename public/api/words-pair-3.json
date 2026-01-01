@@ -1,62 +1,69 @@
 {
-  "generated": "2025-12-31T22:08:23.848Z",
+  "generated": "2026-01-01T22:08:07.147Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "dipteran",
-      "pronunciation": "/ˈdɪptərən/",
+      "word": "nocturnal vision",
+      "pronunciation": "/nɒkˈtɜrnəl ˈvɪʒən/",
       "meanings": [
         {
+          "pos": "adj.",
+          "zh": "夜间活动的",
+          "en": "Describes animals or creatures that are active during the night."
+        },
+        {
           "pos": "n.",
-          "zh": "双翅目昆虫",
-          "en": "A type of insect that has two wings, such as flies and mosquitoes."
+          "zh": "夜视能力",
+          "en": "The ability to see well in low light conditions, typically at night."
         }
       ],
       "examples": [
         {
-          "en": "The dipteran species includes various types of flies and gnats.",
-          "zh": "双翅目昆虫种类包括各种类型的苍蝇和小虫。"
+          "en": "Many animals have nocturnal vision to hunt in the dark.",
+          "zh": "许多动物具备夜视能力，以便在黑暗中捕猎。"
         },
         {
-          "en": "Dipterans are essential for pollination in many ecosystems.",
-          "zh": "双翅目昆虫在许多生态系统中对授粉至关重要。"
-        }
-      ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dipteran&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
-    },
-    {
-      "word": "digestion",
-      "pronunciation": "/dɪˈdʒɛs.tʃən/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "消化",
-          "en": "The process by which the body breaks down food into smaller parts."
-        },
-        {
-          "pos": "n.",
-          "zh": "消化过程",
-          "en": "The system in the body that helps in transforming food into energy."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Proper digestion is essential for absorbing nutrients from food.",
-          "zh": "良好的消化对吸收食物中的营养至关重要。"
-        },
-        {
-          "en": "Exercise can improve your digestion by speeding up the process.",
-          "zh": "锻炼可以通过加速过程来改善你的消化。"
+          "en": "Owls are famous for their excellent nocturnal vision.",
+          "zh": "猫头鹰以其出色的夜间视力而闻名。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'digestion' as 'digging into food' to break it down."
+        "association": "Think of 'nocturnal' as relating to 'night' and 'vision' as seeing. Together, they remind you of seeing well at night."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=digestion&type=2",
-      "chapter": "核心词汇 健康话题 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=nocturnal%20vision&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
+    },
+    {
+      "word": "purify",
+      "pronunciation": "/ˈpjʊrɪfaɪ/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "净化",
+          "en": "To make something clean by removing impurities."
+        },
+        {
+          "pos": "v.",
+          "zh": "提纯",
+          "en": "To remove unwanted elements from a substance to improve its quality."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The water is purified before it is bottled for sale.",
+          "zh": "水在装瓶出售之前会被净化。"
+        },
+        {
+          "en": "They used a special process to purify the air in the building.",
+          "zh": "他们使用一种特殊的工艺来净化建筑物内的空气。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'pure' in purify; it relates to making something clean or clear."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=purify&type=2",
+      "chapter": "核心词汇 环境保护 Unit 4"
     }
   ]
 }

@@ -1,746 +1,759 @@
 {
-  "generated": "2025-12-31T22:08:23.847Z",
-  "date": "2025-12-31",
+  "generated": "2026-01-01T22:08:07.146Z",
+  "date": "2026-01-01",
   "totalWords": 20,
   "words": [
     {
-      "id": "w05209",
-      "word": "real estate",
-      "type": "phrase",
-      "chapterIndex": 18,
-      "globalIndex": 5209,
-      "chapter": "ch162",
-      "chapterName": "阅读真题认知词汇 交通阻塞",
+      "id": "w04008",
+      "word": "pawn",
+      "type": "single",
+      "chapterIndex": 79,
+      "globalIndex": 4008,
+      "chapter": "ch128",
+      "chapterName": "认知词汇 历史分类 钱币发展史",
       "pronunciation": {
-        "us": "/ˈriːəl ɪˈsteɪt/"
+        "us": "/pɔːn/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "房地产",
-          "en": "Property consisting of land and any buildings on it."
+          "zh": "卒子，象棋中的兵",
+          "en": "A pawn is a piece in chess that can only move forward."
         },
         {
-          "pos": "n.",
-          "zh": "房地产行业",
-          "en": "The business of buying, selling, or renting land and buildings."
+          "pos": "v.",
+          "zh": "典当",
+          "en": "To pawn something means to give it as security for a loan."
         }
       ],
       "examples": [
         {
-          "en": "Investing in real estate can provide good financial returns.",
-          "zh": "投资房地产可以带来良好的经济回报。"
+          "en": "He decided to pawn his watch to get some quick cash.",
+          "zh": "他决定典当他的手表以获得一些快速现金。"
         },
         {
-          "en": "Many people choose real estate as a long-term investment option.",
-          "zh": "许多人选择房地产作为长期投资选择。"
+          "en": "In chess, a pawn can be promoted to a queen when it reaches the end.",
+          "zh": "在国际象棋中，当卒子到达底线时可以升变为后。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'real' as something genuine and 'estate' as land; together they mean genuine land."
+        "association": "Think of a 'pawn' as a small piece that can lead to something bigger, like a queen in chess."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=real%20estate&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pawn&type=2"
     },
     {
-      "id": "w02363",
-      "word": "external stimulus",
-      "type": "phrase",
+      "id": "w00745",
+      "word": "superstitious",
+      "type": "single",
       "chapterIndex": 5,
-      "globalIndex": 2363,
+      "globalIndex": 745,
+      "chapter": "ch038",
+      "chapterName": "基本词汇 形容词和副词400 Unit 18",
+      "pronunciation": {
+        "us": "/ˌsuːpərˈstɪʃəs/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "迷信的",
+          "en": "Having beliefs that certain events or things can bring good or bad luck."
+        },
+        {
+          "pos": "adj.",
+          "zh": "相信迷信的",
+          "en": "Believing in supernatural influences on everyday life."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many people are superstitious about breaking a mirror.",
+          "zh": "很多人对打破镜子感到迷信。"
+        },
+        {
+          "en": "She avoided walking under ladders due to her superstitious beliefs.",
+          "zh": "由于她的迷信信仰，她避免在梯子下走。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'superstitious' as a person who is 'super' careful about avoiding 'bad luck' situations."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=superstitious&type=2"
+    },
+    {
+      "id": "w01280",
+      "word": "genius",
+      "type": "single",
+      "chapterIndex": 20,
+      "globalIndex": 1280,
+      "chapter": "ch064",
+      "chapterName": "核心词汇 青少年教育 Unit 4",
+      "pronunciation": {
+        "us": "/ˈdʒiː.ni.əs/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "天才",
+          "en": "A person with exceptional intellectual or creative abilities."
+        },
+        {
+          "pos": "adj.",
+          "zh": "天才的",
+          "en": "Relating to a person who has great mental abilities."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Einstein is often considered a genius in the field of physics.",
+          "zh": "爱因斯坦常被认为是物理学领域的天才。"
+        },
+        {
+          "en": "Her genius for solving complex problems amazed everyone.",
+          "zh": "她解决复杂问题的天才让每个人都感到惊讶。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'genius' comes from the Latin 'genius', meaning 'guardian spirit' or 'attendant spirit'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=genius&type=2"
+    },
+    {
+      "id": "w00962",
+      "word": "litter",
+      "type": "single",
+      "chapterIndex": 2,
+      "globalIndex": 962,
+      "chapter": "ch049",
+      "chapterName": "核心词汇 环境保护 Unit 4",
+      "pronunciation": {
+        "us": "/ˈlɪtər/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "垃圾，废物",
+          "en": "Waste material that is disposed of improperly."
+        },
+        {
+          "pos": "v.",
+          "zh": "乱扔，丢弃",
+          "en": "To throw away trash in a careless manner."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many parks are ruined by people who litter carelessly.",
+          "zh": "许多公园因人们随意乱扔垃圾而被破坏。"
+        },
+        {
+          "en": "The city organized a campaign to clean up litter from the streets.",
+          "zh": "这座城市组织了一场清理街道垃圾的活动。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'litter' as 'little trash' scattered around."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=litter&type=2"
+    },
+    {
+      "id": "w02282",
+      "word": "nocturnal vision",
+      "type": "phrase",
+      "chapterIndex": 382,
+      "globalIndex": 2282,
+      "chapter": "ch096",
+      "chapterName": "认知词汇 动物分类 常考生物",
+      "pronunciation": {
+        "us": "/nɒkˈtɜrnəl ˈvɪʒən/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "夜间活动的",
+          "en": "Describes animals or creatures that are active during the night."
+        },
+        {
+          "pos": "n.",
+          "zh": "夜视能力",
+          "en": "The ability to see well in low light conditions, typically at night."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many animals have nocturnal vision to hunt in the dark.",
+          "zh": "许多动物具备夜视能力，以便在黑暗中捕猎。"
+        },
+        {
+          "en": "Owls are famous for their excellent nocturnal vision.",
+          "zh": "猫头鹰以其出色的夜间视力而闻名。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'nocturnal' as relating to 'night' and 'vision' as seeing. Together, they remind you of seeing well at night."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=nocturnal%20vision&type=2"
+    },
+    {
+      "id": "w00972",
+      "word": "purify",
+      "type": "single",
+      "chapterIndex": 12,
+      "globalIndex": 972,
+      "chapter": "ch049",
+      "chapterName": "核心词汇 环境保护 Unit 4",
+      "pronunciation": {
+        "us": "/ˈpjʊrɪfaɪ/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "净化",
+          "en": "To make something clean by removing impurities."
+        },
+        {
+          "pos": "v.",
+          "zh": "提纯",
+          "en": "To remove unwanted elements from a substance to improve its quality."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The water is purified before it is bottled for sale.",
+          "zh": "水在装瓶出售之前会被净化。"
+        },
+        {
+          "en": "They used a special process to purify the air in the building.",
+          "zh": "他们使用一种特殊的工艺来净化建筑物内的空气。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'pure' in purify; it relates to making something clean or clear."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=purify&type=2"
+    },
+    {
+      "id": "w00958",
+      "word": "industrialised",
+      "type": "single",
+      "chapterIndex": 18,
+      "globalIndex": 958,
+      "chapter": "ch048",
+      "chapterName": "核心词汇 环境保护 Unit 3",
+      "pronunciation": {
+        "us": "/ɪnˈdʌstrɪəlaɪzd/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "工业化的",
+          "en": "Describing a country or area that has developed industries."
+        },
+        {
+          "pos": "adj.",
+          "zh": "工业化的",
+          "en": "Referring to processes or products that are manufactured on a large scale."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many industrialised nations face environmental challenges today.",
+          "zh": "许多工业化国家今天面临环境挑战。"
+        },
+        {
+          "en": "The industrialised sector has significantly boosted the economy.",
+          "zh": "工业化部门显著推动了经济发展。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'industrialised' comes from 'industry' which refers to manufacturing and production.",
+        "association": "Think of 'industrialised' as a place where factories and large machines are common."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=industrialised&type=2"
+    },
+    {
+      "id": "w02377",
+      "word": "organism",
+      "type": "single",
+      "chapterIndex": 19,
+      "globalIndex": 2377,
       "chapter": "ch099",
       "chapterName": "认知词汇 动物分类 动物行为",
       "pronunciation": {
-        "us": "/ɪkˈstɜrnəl ˈstɪmjʊləs/"
+        "us": "/ˈɔːrɡənɪzm/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "外部刺激",
-          "en": "An external factor that causes a reaction or response."
+          "zh": "生物体",
+          "en": "A living thing, such as a plant or animal."
+        },
+        {
+          "pos": "n.",
+          "zh": "有机体",
+          "en": "Any individual life form, including bacteria and fungi."
         }
       ],
       "examples": [
         {
-          "en": "The external stimulus triggered a strong emotional reaction in the participants.",
-          "zh": "外部刺激引发了参与者强烈的情感反应。"
+          "en": "Every organism plays a vital role in its ecosystem.",
+          "zh": "每个生物体在其生态系统中扮演着重要角色。"
         },
         {
-          "en": "Animals often respond to external stimuli in their environment for survival.",
-          "zh": "动物通常会对环境中的外部刺激作出反应以求生存。"
+          "en": "The study of microorganisms helps us understand diseases.",
+          "zh": "微生物学的研究帮助我们理解疾病。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'external' as something outside and 'stimulus' as a trigger, helping you visualize an outside force causing a reaction."
+        "etymology": "The word 'organism' comes from the Greek word 'organon', meaning 'tool or instrument'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=external%20stimulus&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=organism&type=2"
     },
     {
-      "id": "w01435",
-      "word": "despoil",
+      "id": "w00984",
+      "word": "sustain",
       "type": "single",
-      "chapterIndex": 15,
-      "globalIndex": 1435,
-      "chapter": "ch072",
-      "chapterName": "核心词汇 动物权益与保护 Unit 2",
+      "chapterIndex": 4,
+      "globalIndex": 984,
+      "chapter": "ch050",
+      "chapterName": "核心词汇 环境保护 Unit 5",
       "pronunciation": {
-        "us": "/dɪˈspɔɪl/"
+        "us": "/səˈsteɪn/"
       },
       "meanings": [
         {
           "pos": "v.",
-          "zh": "掠夺",
-          "en": "To take away valuable things from a place, usually by force."
+          "zh": "维持",
+          "en": "To keep something going over time."
         },
         {
           "pos": "v.",
-          "zh": "破坏",
-          "en": "To damage or ruin something, especially its beauty or quality."
+          "zh": "支持",
+          "en": "To support or provide what is needed for something."
         }
       ],
       "examples": [
         {
-          "en": "The invaders sought to despoil the ancient city of its treasures.",
-          "zh": "入侵者试图掠夺这座古城的宝藏。"
+          "en": "The city needs to sustain its resources for future generations.",
+          "zh": "这个城市需要维持其资源以供未来的世代使用。"
         },
         {
-          "en": "Pollution can despoil the natural beauty of the landscape.",
-          "zh": "污染会破坏自然风景的美丽。"
+          "en": "Farmers must find ways to sustain their crops during droughts.",
+          "zh": "农民必须找到在干旱期间维持作物的方法。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'spoil' in 'despoil' as losing something valuable, similar to spoiling food."
+        "etymology": "The word 'sustain' comes from the Latin 'sustinere', meaning 'to hold up'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=despoil&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sustain&type=2"
     },
     {
-      "id": "w02087",
-      "word": "otter",
-      "type": "single",
-      "chapterIndex": 187,
-      "globalIndex": 2087,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/ˈɑːtər/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "水獺",
-          "en": "A playful aquatic mammal with a long body and webbed feet."
-        },
-        {
-          "pos": "n.",
-          "zh": "海獺",
-          "en": "A marine animal known for its intelligence and use of tools."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The otter swam gracefully through the clear water of the river.",
-          "zh": "水獺在清澈的河水中優雅地游泳。"
-        },
-        {
-          "en": "Many people enjoy watching otters play at the zoo.",
-          "zh": "許多人喜歡在動物園裡觀賞水獺玩耍。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'otter' as 'water' because otters are always found in water."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=otter&type=2"
-    },
-    {
-      "id": "w02167",
-      "word": "dipteran",
-      "type": "single",
-      "chapterIndex": 267,
-      "globalIndex": 2167,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/ˈdɪptərən/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "双翅目昆虫",
-          "en": "A type of insect that has two wings, such as flies and mosquitoes."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The dipteran species includes various types of flies and gnats.",
-          "zh": "双翅目昆虫种类包括各种类型的苍蝇和小虫。"
-        },
-        {
-          "en": "Dipterans are essential for pollination in many ecosystems.",
-          "zh": "双翅目昆虫在许多生态系统中对授粉至关重要。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dipteran&type=2"
-    },
-    {
-      "id": "w01836",
-      "word": "digestion",
-      "type": "single",
-      "chapterIndex": 16,
-      "globalIndex": 1836,
-      "chapter": "ch092",
-      "chapterName": "核心词汇 健康话题 Unit 2",
-      "pronunciation": {
-        "us": "/dɪˈdʒɛs.tʃən/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "消化",
-          "en": "The process by which the body breaks down food into smaller parts."
-        },
-        {
-          "pos": "n.",
-          "zh": "消化过程",
-          "en": "The system in the body that helps in transforming food into energy."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Proper digestion is essential for absorbing nutrients from food.",
-          "zh": "良好的消化对吸收食物中的营养至关重要。"
-        },
-        {
-          "en": "Exercise can improve your digestion by speeding up the process.",
-          "zh": "锻炼可以通过加速过程来改善你的消化。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'digestion' as 'digging into food' to break it down."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=digestion&type=2"
-    },
-    {
-      "id": "w02023",
-      "word": "siltation",
-      "type": "single",
-      "chapterIndex": 123,
-      "globalIndex": 2023,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/sɪlˈteɪʃən/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "淤积",
-          "en": "The accumulation of silt in a body of water, often affecting ecosystems."
-        },
-        {
-          "pos": "n.",
-          "zh": "沉积物",
-          "en": "Material, usually fine particles, that settles at the bottom of a water body."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Siltation can significantly reduce water quality in lakes and rivers.",
-          "zh": "淤积会显著降低湖泊和河流的水质。"
-        },
-        {
-          "en": "The construction project led to increased siltation in the nearby wetlands.",
-          "zh": "建设项目导致附近湿地的淤积增加。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'silt' as fine dirt that settles down, causing 'siltation' when it accumulates."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=siltation&type=2"
-    },
-    {
-      "id": "w01452",
-      "word": "fatal",
-      "type": "single",
-      "chapterIndex": 12,
-      "globalIndex": 1452,
-      "chapter": "ch073",
-      "chapterName": "核心词汇 动物权益与保护 Unit 3",
-      "pronunciation": {
-        "us": "/ˈfeɪ.təl/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "致命的",
-          "en": "Causing death or able to cause death."
-        },
-        {
-          "pos": "adj.",
-          "zh": "极其严重的",
-          "en": "Extremely serious or important."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The accident resulted in a fatal injury to the driver.",
-          "zh": "这起事故导致驾驶员致命受伤。"
-        },
-        {
-          "en": "Ignoring safety rules can lead to fatal consequences.",
-          "zh": "忽视安全规则可能导致严重后果。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'fate', as in fate can be fatal."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=fatal&type=2"
-    },
-    {
-      "id": "w01467",
-      "word": "intolerable",
-      "type": "single",
-      "chapterIndex": 7,
-      "globalIndex": 1467,
-      "chapter": "ch074",
-      "chapterName": "核心词汇 动物权益与保护 Unit 4",
-      "pronunciation": {
-        "us": "/ɪnˈtɒlərəbl/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "无法忍受的",
-          "en": "Something that is too bad or severe to be tolerated."
-        },
-        {
-          "pos": "adj.",
-          "zh": "不可接受的",
-          "en": "Something that is not acceptable or bearable."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The noise from the construction site was intolerable all night.",
-          "zh": "施工现场的噪音整晚都是无法忍受的。"
-        },
-        {
-          "en": "Many people find the heat during summer intolerable without air conditioning.",
-          "zh": "很多人觉得没有空调的夏天热得无法忍受。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'tolerable' and add 'in-' to remember it means the opposite."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=intolerable&type=2"
-    },
-    {
-      "id": "w02130",
-      "word": "imbibe",
-      "type": "single",
-      "chapterIndex": 230,
-      "globalIndex": 2130,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/ɪmˈbaɪb/"
-      },
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "喝，饮",
-          "en": "To drink or consume a liquid."
-        },
-        {
-          "pos": "v.",
-          "zh": "吸收，接受",
-          "en": "To absorb ideas or knowledge."
-        }
-      ],
-      "examples": [
-        {
-          "en": "He likes to imbibe different cultures while traveling abroad.",
-          "zh": "他喜欢在国外旅行时吸收不同的文化。"
-        },
-        {
-          "en": "Students often imbibe new information during lectures.",
-          "zh": "学生们在讲座中经常吸收新信息。"
-        }
-      ],
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=imbibe&type=2"
-    },
-    {
-      "id": "w02348",
-      "word": "hormone",
+      "id": "w00970",
+      "word": "poison",
       "type": "single",
       "chapterIndex": 10,
-      "globalIndex": 2348,
-      "chapter": "ch098",
-      "chapterName": "认知词汇 动物分类 动物思维",
+      "globalIndex": 970,
+      "chapter": "ch049",
+      "chapterName": "核心词汇 环境保护 Unit 4",
       "pronunciation": {
-        "us": "/ˈhɔːrmoʊn/"
+        "us": "/ˈpɔɪ.zən/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "激素",
-          "en": "A hormone is a chemical made by the body that controls and regulates various functions."
+          "zh": "毒药",
+          "en": "A substance that can cause illness or death when ingested."
         },
         {
-          "pos": "n.",
-          "zh": "荷尔蒙",
-          "en": "Hormones are substances in the body that affect growth, metabolism, and mood."
+          "pos": "v.",
+          "zh": "毒害",
+          "en": "To make something harmful or deadly, especially by adding poison."
         }
       ],
       "examples": [
         {
-          "en": "Insulin is a hormone that helps control blood sugar levels.",
-          "zh": "胰岛素是一种帮助控制血糖水平的激素。"
+          "en": "The scientist studied how poison affects the human body.",
+          "zh": "科学家研究毒药如何影响人体。"
         },
         {
-          "en": "Stress can lead to changes in hormone levels in the body.",
-          "zh": "压力可能导致体内激素水平的变化。"
+          "en": "He was poisoned by a toxic substance in the food.",
+          "zh": "他被食物中的有毒物质毒害了。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'hormone' as 'hormone balance' to remember its role in regulating body functions."
+        "association": "Think of 'poison' as a 'poisonous' drink that can harm you."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=hormone&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=poison&type=2"
     },
     {
-      "id": "w01446",
-      "word": "ethical",
+      "id": "w01519",
+      "word": "corruption",
       "type": "single",
-      "chapterIndex": 6,
-      "globalIndex": 1446,
-      "chapter": "ch073",
-      "chapterName": "核心词汇 动物权益与保护 Unit 3",
+      "chapterIndex": 19,
+      "globalIndex": 1519,
+      "chapter": "ch076",
+      "chapterName": "核心词汇 民主与权利 Unit 1",
       "pronunciation": {
-        "us": "/ˈɛθɪkəl/"
+        "us": "/kəˈrʌpʃən/"
       },
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "伦理的",
-          "en": "Related to what is right and wrong in behavior."
+          "pos": "n.",
+          "zh": "腐败",
+          "en": "Dishonest or unethical behavior by people in power."
         },
         {
-          "pos": "adj.",
-          "zh": "道德的",
-          "en": "Concerned with moral principles and values."
+          "pos": "n.",
+          "zh": "损坏",
+          "en": "The process of something becoming damaged or altered."
         }
       ],
       "examples": [
         {
-          "en": "The company has an ethical responsibility to its employees.",
-          "zh": "公司对员工有道德责任。"
+          "en": "Corruption in government can lead to serious social issues.",
+          "zh": "政府中的腐败可能导致严重的社会问题。"
         },
         {
-          "en": "Many scientists debate the ethical implications of genetic research.",
-          "zh": "许多科学家讨论基因研究的伦理影响。"
+          "en": "The corruption of data can affect the accuracy of research.",
+          "zh": "数据的损坏可能影响研究的准确性。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'ethics' when you hear 'ethical'. Both relate to morality."
+        "association": "Think of 'corrupt' as 'broken' or 'damaged', which can help remember its meanings."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ethical&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=corruption&type=2"
     },
     {
-      "id": "w02338",
-      "word": "wind resistance",
+      "id": "w02298",
+      "word": "aerodynamic construction",
       "type": "phrase",
-      "chapterIndex": 41,
-      "globalIndex": 2338,
+      "chapterIndex": 1,
+      "globalIndex": 2298,
       "chapter": "ch097",
       "chapterName": "认知词汇 动物分类 动物航行能力",
       "pronunciation": {
-        "us": "/wɪnd rɪˈzɪstəns/"
+        "us": "/ˌɛəroʊdaɪˈnæmɪk kənˈstrʌkʃən/"
       },
       "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "空气动力学的",
+          "en": "Relating to the way air moves around things."
+        },
         {
           "pos": "n.",
-          "zh": "风阻",
-          "en": "The force that opposes the motion of an object through the air."
-        },
-        {
-          "pos": "n.",
-          "zh": "空气阻力",
-          "en": "Resistance experienced by objects due to air movement when they travel."
+          "zh": "气动结构",
+          "en": "A design or shape that reduces air resistance."
         }
       ],
       "examples": [
         {
-          "en": "The car's design minimizes wind resistance for better fuel efficiency.",
-          "zh": "汽车的设计减少了风阻，从而提高了燃油效率。"
+          "en": "The car's aerodynamic construction helps it move faster on highways.",
+          "zh": "这辆车的空气动力学结构帮助它在高速公路上更快行驶。"
         },
         {
-          "en": "Athletes wear streamlined suits to reduce wind resistance during races.",
-          "zh": "运动员穿着流线型的服装，以减少比赛中的风阻。"
+          "en": "Engineers focus on aerodynamic construction to improve fuel efficiency.",
+          "zh": "工程师们专注于气动结构，以提高燃油效率。"
         }
       ],
       "memoryTips": {
-        "association": "Think of a windy day; the stronger the wind, the more resistance you feel while moving."
+        "association": "Think of 'aero' as related to air, and 'dynamic' as something that moves or changes. Together, they describe how shapes interact with air."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=wind%20resistance&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aerodynamic%20construction&type=2"
     },
     {
-      "id": "w01458",
-      "word": "immoral",
-      "type": "single",
-      "chapterIndex": 18,
-      "globalIndex": 1458,
-      "chapter": "ch073",
-      "chapterName": "核心词汇 动物权益与保护 Unit 3",
-      "pronunciation": {
-        "us": "/ɪˈmɔrəl/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "不道德的",
-          "en": "Not conforming to accepted standards of morality."
-        },
-        {
-          "pos": "adj.",
-          "zh": "邪恶的",
-          "en": "Wrong or evil in nature or behavior."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Many people consider cheating on a test to be immoral behavior.",
-          "zh": "许多人认为考试作弊是不道德的行为。"
-        },
-        {
-          "en": "The company's immoral practices harmed the environment significantly.",
-          "zh": "该公司的不道德行为严重损害了环境。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'immoral' as 'not moral', which can help you remember its meaning."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=immoral&type=2"
-    },
-    {
-      "id": "w02107",
-      "word": "terrestrial mammal",
-      "type": "phrase",
-      "chapterIndex": 207,
-      "globalIndex": 2107,
-      "chapter": "ch096",
-      "chapterName": "认知词汇 动物分类 常考生物",
-      "pronunciation": {
-        "us": "/təˈrɛstriəl ˈmæməl/"
-      },
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "陆生哺乳动物",
-          "en": "A mammal that lives primarily on land."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Lions are well-known terrestrial mammals that live in savannas.",
-          "zh": "狮子是生活在草原上的著名陆生哺乳动物。"
-        },
-        {
-          "en": "Many terrestrial mammals have adapted to various habitats around the world.",
-          "zh": "许多陆生哺乳动物已适应世界各地的不同栖息地。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'terra' as in 'terrain' which relates to land, connecting it to land-dwelling mammals."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=terrestrial%20mammal&type=2"
-    },
-    {
-      "id": "w01471",
-      "word": "lenient",
-      "type": "single",
-      "chapterIndex": 11,
-      "globalIndex": 1471,
-      "chapter": "ch074",
-      "chapterName": "核心词汇 动物权益与保护 Unit 4",
-      "pronunciation": {
-        "us": "/ˈliːniənt/"
-      },
-      "meanings": [
-        {
-          "pos": "adj.",
-          "zh": "宽容的",
-          "en": "Not strict; willing to be forgiving or tolerant."
-        },
-        {
-          "pos": "adj.",
-          "zh": "不严厉的",
-          "en": "Allowing more freedom; easygoing in rules or discipline."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The teacher was lenient with students who missed classes.",
-          "zh": "老师对缺课的学生很宽容。"
-        },
-        {
-          "en": "Judges are often lenient in sentencing first-time offenders.",
-          "zh": "法官在对初犯者的判刑时通常比较宽松。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'lean' as being relaxed, which connects to being lenient."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=lenient&type=2"
-    },
-    {
-      "id": "w01373",
-      "word": "stimulate",
+      "id": "w00993",
+      "word": "vegetation",
       "type": "single",
       "chapterIndex": 13,
-      "globalIndex": 1373,
-      "chapter": "ch069",
-      "chapterName": "核心词汇 青少年教育 Unit 9",
+      "globalIndex": 993,
+      "chapter": "ch050",
+      "chapterName": "核心词汇 环境保护 Unit 5",
       "pronunciation": {
-        "us": "/ˈstɪm.jə.leɪt/"
+        "us": "/ˌvɛdʒ.əˈteɪ.ʃən/"
       },
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "刺激",
-          "en": "To encourage or make something happen more actively."
+          "pos": "n.",
+          "zh": "植被",
+          "en": "The plants and trees in a particular area."
         },
         {
-          "pos": "v.",
-          "zh": "激发",
-          "en": "To cause someone to have an interest or enthusiasm."
+          "pos": "n.",
+          "zh": "植物群落",
+          "en": "The collective growth of plants in a specific habitat."
         }
       ],
       "examples": [
         {
-          "en": "The teacher used games to stimulate the students' interest in science.",
-          "zh": "老师用游戏来激发学生对科学的兴趣。"
+          "en": "The dense vegetation in the rainforest supports many species.",
+          "zh": "雨林中茂密的植被支持着许多物种。"
         },
         {
-          "en": "New policies can stimulate economic growth in the region.",
-          "zh": "新政策可以刺激该地区的经济增长。"
+          "en": "Vegetation plays a crucial role in maintaining ecological balance.",
+          "zh": "植被在维持生态平衡中起着关键作用。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'stimulate' as 'stimulus' which means something that provokes action."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=stimulate&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vegetation&type=2"
     },
     {
-      "id": "w01407",
-      "word": "amoral",
+      "id": "w01649",
+      "word": "greenhorn",
       "type": "single",
-      "chapterIndex": 7,
-      "globalIndex": 1407,
-      "chapter": "ch071",
-      "chapterName": "核心词汇 动物权益与保护 Unit 1",
+      "chapterIndex": 9,
+      "globalIndex": 1649,
+      "chapter": "ch083",
+      "chapterName": "核心词汇 工作与生活 Unit 3",
       "pronunciation": {
-        "us": "/ˈeɪˌmɔrəl/"
+        "us": "/ˈɡriːnˌhɔrn/"
       },
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "非道德的",
-          "en": "Not concerned with right or wrong; lacking moral sense."
+          "pos": "n.",
+          "zh": "新手；菜鸟",
+          "en": "A person who is inexperienced or new to a particular activity."
         },
         {
-          "pos": "adj.",
-          "zh": "无道德标准的",
-          "en": "Having no moral principles or ethics."
+          "pos": "n.",
+          "zh": "初学者",
+          "en": "Someone who lacks experience in a specific area."
         }
       ],
       "examples": [
         {
-          "en": "Some people believe that business is inherently amoral and profit-driven.",
-          "zh": "有些人认为商业本质上是非道德的，追求利润。"
+          "en": "As a greenhorn in the industry, she learned quickly from her mistakes.",
+          "zh": "作为行业的新手，她很快从错误中学习。"
         },
         {
-          "en": "The character in the story was amoral, only focused on personal gain.",
-          "zh": "故事中的角色是非道德的，只关注个人利益。"
+          "en": "The greenhorn struggled to keep up with the more experienced team members.",
+          "zh": "这个菜鸟很难跟上更有经验的团队成员。"
+        }
+      ],
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=greenhorn&type=2"
+    },
+    {
+      "id": "w02581",
+      "word": "runoff",
+      "type": "single",
+      "chapterIndex": 14,
+      "globalIndex": 2581,
+      "chapter": "ch104",
+      "chapterName": "认知词汇 自然分类 海沙流失",
+      "pronunciation": {
+        "us": "/ˈrʌn.ɔf/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "径流",
+          "en": "Water that flows over the ground after rain."
+        },
+        {
+          "pos": "n.",
+          "zh": "决赛",
+          "en": "A final race or contest to determine a winner."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The heavy rain caused a lot of runoff into the river.",
+          "zh": "大雨导致大量径流流入河中。"
+        },
+        {
+          "en": "She won the runoff election by a narrow margin.",
+          "zh": "她在决选中以微弱优势获胜。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'a' meaning 'not' and 'moral' referring to ethics; together they imply 'not moral'."
+        "association": "Think of 'runoff' as water running off the land."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=amoral&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=runoff&type=2"
     },
     {
-      "id": "w02034",
-      "word": "acoustic faculty",
-      "type": "phrase",
-      "chapterIndex": 134,
-      "globalIndex": 2034,
+      "id": "w00716",
+      "word": "satisfactory",
+      "type": "single",
+      "chapterIndex": 16,
+      "globalIndex": 716,
+      "chapter": "ch036",
+      "chapterName": "基本词汇 形容词和副词400 Unit 16",
+      "pronunciation": {
+        "us": "/ˌsætɪsˈfæktəri/"
+      },
+      "meanings": [
+        {
+          "pos": "adj.",
+          "zh": "令人满意的",
+          "en": "Good enough to meet a particular standard or requirement."
+        },
+        {
+          "pos": "adj.",
+          "zh": "足够好的",
+          "en": "Providing a level of quality that is acceptable."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The results of the experiment were satisfactory for our research needs.",
+          "zh": "实验结果对于我们的研究需求是令人满意的。"
+        },
+        {
+          "en": "Her performance in the exam was satisfactory, but not exceptional.",
+          "zh": "她在考试中的表现令人满意，但并不出色。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'satisfy' as satisfying your needs, leading to 'satisfactory' results."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=satisfactory&type=2"
+    },
+    {
+      "id": "w01933",
+      "word": "joey",
+      "type": "single",
+      "chapterIndex": 33,
+      "globalIndex": 1933,
       "chapter": "ch096",
       "chapterName": "认知词汇 动物分类 常考生物",
       "pronunciation": {
-        "us": "/əˈkuːstɪk ˈfækəlti/"
+        "us": "/ˈdʒoʊ.i/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "声学能力",
-          "en": "The ability to perceive sound and its qualities."
+          "zh": "袋鼠宝宝",
+          "en": "A joey is a young kangaroo that is still developing in its mother's pouch."
         },
         {
           "pos": "n.",
-          "zh": "声学系统",
-          "en": "A system or faculty that relates to sound and hearing."
+          "zh": "小动物",
+          "en": "The term can also refer to the young of some marsupials."
         }
       ],
       "examples": [
         {
-          "en": "Her acoustic faculty allowed her to distinguish subtle sound differences.",
-          "zh": "她的声学能力使她能够区分微妙的声音差异。"
+          "en": "The mother kangaroo carried her joey safely in her pouch.",
+          "zh": "母袋鼠把她的小袋鼠安全地放在袋子里。"
         },
         {
-          "en": "The concert hall was designed to enhance the acoustic faculty of the music.",
-          "zh": "音乐厅的设计旨在增强音乐的声学效果。"
+          "en": "A joey stays in its mother's pouch for several months after birth.",
+          "zh": "小袋鼠在出生后几个月内会待在母亲的袋子里。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'acoustic' as related to sound, and 'faculty' as a skill or ability, linking sound perception with capability."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=acoustic%20faculty&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=joey&type=2"
     },
     {
-      "id": "w01400",
-      "word": "wrongdoer",
+      "id": "w00966",
+      "word": "overcrowding",
       "type": "single",
-      "chapterIndex": 20,
-      "globalIndex": 1400,
-      "chapter": "ch070",
-      "chapterName": "核心词汇 青少年教育 Unit 10",
+      "chapterIndex": 6,
+      "globalIndex": 966,
+      "chapter": "ch049",
+      "chapterName": "核心词汇 环境保护 Unit 4",
       "pronunciation": {
-        "us": "/ˈrɔŋˌduər/"
+        "us": "/ˌoʊvərˈkraʊdɪŋ/"
       },
       "meanings": [
         {
           "pos": "n.",
-          "zh": "违法者",
-          "en": "A person who commits a crime or does something illegal."
+          "zh": "过度拥挤",
+          "en": "The situation when there are too many people in a place."
         },
         {
-          "pos": "n.",
-          "zh": "错误的人",
-          "en": "Someone who behaves in a morally wrong way."
+          "pos": "v.",
+          "zh": "使过度拥挤",
+          "en": "To make a place too full of people or things."
         }
       ],
       "examples": [
         {
-          "en": "The police arrested the wrongdoer after a long investigation.",
-          "zh": "警察在长时间的调查后逮捕了违法者。"
+          "en": "Overcrowding in cities leads to serious problems like pollution.",
+          "zh": "城市的过度拥挤导致严重的污染等问题。"
         },
         {
-          "en": "Society must hold wrongdoers accountable for their actions.",
-          "zh": "社会必须让违法者对他们的行为负责。"
+          "en": "The school had to find ways to reduce overcrowding in classrooms.",
+          "zh": "学校必须寻找减少课堂过度拥挤的方法。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'wrong' in 'wrongdoer' to remember that it's someone who does wrong."
+        "association": "Think of 'crowd' as a group of people. 'Over' means too many. So, 'overcrowding' is a crowd that's too big."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=wrongdoer&type=2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=overcrowding&type=2"
+    },
+    {
+      "id": "w00954",
+      "word": "hygiene",
+      "type": "single",
+      "chapterIndex": 14,
+      "globalIndex": 954,
+      "chapter": "ch048",
+      "chapterName": "核心词汇 环境保护 Unit 3",
+      "pronunciation": {
+        "us": "/haɪˈdʒin/"
+      },
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "卫生",
+          "en": "The practice of keeping clean to prevent illness."
+        },
+        {
+          "pos": "n.",
+          "zh": "卫生习惯",
+          "en": "A set of practices to maintain health and cleanliness."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Good hygiene practices can prevent the spread of diseases.",
+          "zh": "良好的卫生习惯可以防止疾病传播。"
+        },
+        {
+          "en": "Regular handwashing is essential for personal hygiene.",
+          "zh": "定期洗手对个人卫生至关重要。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'hygiene' as 'high gene,' implying that good hygiene leads to better health and genes."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=hygiene&type=2"
+    },
+    {
+      "id": "w00930",
+      "word": "discard",
+      "type": "single",
+      "chapterIndex": 10,
+      "globalIndex": 930,
+      "chapter": "ch047",
+      "chapterName": "核心词汇 环境保护 Unit 2",
+      "pronunciation": {
+        "us": "/dɪsˈkɑrd/"
+      },
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "丢弃",
+          "en": "To get rid of something that is no longer useful or wanted."
+        },
+        {
+          "pos": "n.",
+          "zh": "被丢弃的东西",
+          "en": "An item that has been thrown away or rejected."
+        }
+      ],
+      "examples": [
+        {
+          "en": "It is important to discard old papers to keep your workspace organized.",
+          "zh": "丢弃旧文件对保持工作空间的整洁很重要。"
+        },
+        {
+          "en": "Many people discard plastic bottles instead of recycling them.",
+          "zh": "许多人丢弃塑料瓶而不是回收它们。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of 'discard' as 'dis' + 'card', where you throw away an unwanted card in a game."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=discard&type=2"
     }
   ]
 }

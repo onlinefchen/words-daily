@@ -1,67 +1,69 @@
 {
-  "generated": "2025-12-31T22:08:23.848Z",
+  "generated": "2026-01-01T22:08:07.147Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "intolerable",
-      "pronunciation": "/ɪnˈtɒlərəbl/",
+      "word": "sustain",
+      "pronunciation": "/səˈsteɪn/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "无法忍受的",
-          "en": "Something that is too bad or severe to be tolerated."
+          "pos": "v.",
+          "zh": "维持",
+          "en": "To keep something going over time."
         },
         {
-          "pos": "adj.",
-          "zh": "不可接受的",
-          "en": "Something that is not acceptable or bearable."
+          "pos": "v.",
+          "zh": "支持",
+          "en": "To support or provide what is needed for something."
         }
       ],
       "examples": [
         {
-          "en": "The noise from the construction site was intolerable all night.",
-          "zh": "施工现场的噪音整晚都是无法忍受的。"
+          "en": "The city needs to sustain its resources for future generations.",
+          "zh": "这个城市需要维持其资源以供未来的世代使用。"
         },
         {
-          "en": "Many people find the heat during summer intolerable without air conditioning.",
-          "zh": "很多人觉得没有空调的夏天热得无法忍受。"
+          "en": "Farmers must find ways to sustain their crops during droughts.",
+          "zh": "农民必须找到在干旱期间维持作物的方法。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'tolerable' and add 'in-' to remember it means the opposite."
+        "etymology": "The word 'sustain' comes from the Latin 'sustinere', meaning 'to hold up'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=intolerable&type=2",
-      "chapter": "核心词汇 动物权益与保护 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sustain&type=2",
+      "chapter": "核心词汇 环境保护 Unit 5"
     },
     {
-      "word": "imbibe",
-      "pronunciation": "/ɪmˈbaɪb/",
+      "word": "poison",
+      "pronunciation": "/ˈpɔɪ.zən/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "喝，饮",
-          "en": "To drink or consume a liquid."
+          "pos": "n.",
+          "zh": "毒药",
+          "en": "A substance that can cause illness or death when ingested."
         },
         {
           "pos": "v.",
-          "zh": "吸收，接受",
-          "en": "To absorb ideas or knowledge."
+          "zh": "毒害",
+          "en": "To make something harmful or deadly, especially by adding poison."
         }
       ],
       "examples": [
         {
-          "en": "He likes to imbibe different cultures while traveling abroad.",
-          "zh": "他喜欢在国外旅行时吸收不同的文化。"
+          "en": "The scientist studied how poison affects the human body.",
+          "zh": "科学家研究毒药如何影响人体。"
         },
         {
-          "en": "Students often imbibe new information during lectures.",
-          "zh": "学生们在讲座中经常吸收新信息。"
+          "en": "He was poisoned by a toxic substance in the food.",
+          "zh": "他被食物中的有毒物质毒害了。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=imbibe&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "memoryTips": {
+        "association": "Think of 'poison' as a 'poisonous' drink that can harm you."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=poison&type=2",
+      "chapter": "核心词汇 环境保护 Unit 4"
     }
   ]
 }

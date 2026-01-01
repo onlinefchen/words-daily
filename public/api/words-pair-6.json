@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-31T22:08:23.849Z",
+  "generated": "2026-01-01T22:08:07.147Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "hormone",
-      "pronunciation": "/ˈhɔːrmoʊn/",
+      "word": "corruption",
+      "pronunciation": "/kəˈrʌpʃən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "激素",
-          "en": "A hormone is a chemical made by the body that controls and regulates various functions."
+          "zh": "腐败",
+          "en": "Dishonest or unethical behavior by people in power."
         },
         {
           "pos": "n.",
-          "zh": "荷尔蒙",
-          "en": "Hormones are substances in the body that affect growth, metabolism, and mood."
+          "zh": "损坏",
+          "en": "The process of something becoming damaged or altered."
         }
       ],
       "examples": [
         {
-          "en": "Insulin is a hormone that helps control blood sugar levels.",
-          "zh": "胰岛素是一种帮助控制血糖水平的激素。"
+          "en": "Corruption in government can lead to serious social issues.",
+          "zh": "政府中的腐败可能导致严重的社会问题。"
         },
         {
-          "en": "Stress can lead to changes in hormone levels in the body.",
-          "zh": "压力可能导致体内激素水平的变化。"
+          "en": "The corruption of data can affect the accuracy of research.",
+          "zh": "数据的损坏可能影响研究的准确性。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'hormone' as 'hormone balance' to remember its role in regulating body functions."
+        "association": "Think of 'corrupt' as 'broken' or 'damaged', which can help remember its meanings."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=hormone&type=2",
-      "chapter": "认知词汇 动物分类 动物思维"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=corruption&type=2",
+      "chapter": "核心词汇 民主与权利 Unit 1"
     },
     {
-      "word": "ethical",
-      "pronunciation": "/ˈɛθɪkəl/",
+      "word": "aerodynamic construction",
+      "pronunciation": "/ˌɛəroʊdaɪˈnæmɪk kənˈstrʌkʃən/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "伦理的",
-          "en": "Related to what is right and wrong in behavior."
+          "zh": "空气动力学的",
+          "en": "Relating to the way air moves around things."
         },
         {
-          "pos": "adj.",
-          "zh": "道德的",
-          "en": "Concerned with moral principles and values."
+          "pos": "n.",
+          "zh": "气动结构",
+          "en": "A design or shape that reduces air resistance."
         }
       ],
       "examples": [
         {
-          "en": "The company has an ethical responsibility to its employees.",
-          "zh": "公司对员工有道德责任。"
+          "en": "The car's aerodynamic construction helps it move faster on highways.",
+          "zh": "这辆车的空气动力学结构帮助它在高速公路上更快行驶。"
         },
         {
-          "en": "Many scientists debate the ethical implications of genetic research.",
-          "zh": "许多科学家讨论基因研究的伦理影响。"
+          "en": "Engineers focus on aerodynamic construction to improve fuel efficiency.",
+          "zh": "工程师们专注于气动结构，以提高燃油效率。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'ethics' when you hear 'ethical'. Both relate to morality."
+        "association": "Think of 'aero' as related to air, and 'dynamic' as something that moves or changes. Together, they describe how shapes interact with air."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ethical&type=2",
-      "chapter": "核心词汇 动物权益与保护 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aerodynamic%20construction&type=2",
+      "chapter": "认知词汇 动物分类 动物航行能力"
     }
   ]
 }

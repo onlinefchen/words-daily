@@ -1,64 +1,69 @@
 {
-  "generated": "2025-12-31T22:08:23.849Z",
+  "generated": "2026-01-01T22:08:07.147Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "terrestrial mammal",
-      "pronunciation": "/təˈrɛstriəl ˈmæməl/",
+      "word": "runoff",
+      "pronunciation": "/ˈrʌn.ɔf/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "陆生哺乳动物",
-          "en": "A mammal that lives primarily on land."
+          "zh": "径流",
+          "en": "Water that flows over the ground after rain."
+        },
+        {
+          "pos": "n.",
+          "zh": "决赛",
+          "en": "A final race or contest to determine a winner."
         }
       ],
       "examples": [
         {
-          "en": "Lions are well-known terrestrial mammals that live in savannas.",
-          "zh": "狮子是生活在草原上的著名陆生哺乳动物。"
+          "en": "The heavy rain caused a lot of runoff into the river.",
+          "zh": "大雨导致大量径流流入河中。"
         },
         {
-          "en": "Many terrestrial mammals have adapted to various habitats around the world.",
-          "zh": "许多陆生哺乳动物已适应世界各地的不同栖息地。"
+          "en": "She won the runoff election by a narrow margin.",
+          "zh": "她在决选中以微弱优势获胜。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'terra' as in 'terrain' which relates to land, connecting it to land-dwelling mammals."
+        "association": "Think of 'runoff' as water running off the land."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=terrestrial%20mammal&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=runoff&type=2",
+      "chapter": "认知词汇 自然分类 海沙流失"
     },
     {
-      "word": "lenient",
-      "pronunciation": "/ˈliːniənt/",
+      "word": "satisfactory",
+      "pronunciation": "/ˌsætɪsˈfæktəri/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "宽容的",
-          "en": "Not strict; willing to be forgiving or tolerant."
+          "zh": "令人满意的",
+          "en": "Good enough to meet a particular standard or requirement."
         },
         {
           "pos": "adj.",
-          "zh": "不严厉的",
-          "en": "Allowing more freedom; easygoing in rules or discipline."
+          "zh": "足够好的",
+          "en": "Providing a level of quality that is acceptable."
         }
       ],
       "examples": [
         {
-          "en": "The teacher was lenient with students who missed classes.",
-          "zh": "老师对缺课的学生很宽容。"
+          "en": "The results of the experiment were satisfactory for our research needs.",
+          "zh": "实验结果对于我们的研究需求是令人满意的。"
         },
         {
-          "en": "Judges are often lenient in sentencing first-time offenders.",
-          "zh": "法官在对初犯者的判刑时通常比较宽松。"
+          "en": "Her performance in the exam was satisfactory, but not exceptional.",
+          "zh": "她在考试中的表现令人满意，但并不出色。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'lean' as being relaxed, which connects to being lenient."
+        "association": "Think of 'satisfy' as satisfying your needs, leading to 'satisfactory' results."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=lenient&type=2",
-      "chapter": "核心词汇 动物权益与保护 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=satisfactory&type=2",
+      "chapter": "基本词汇 形容词和副词400 Unit 16"
     }
   ]
 }

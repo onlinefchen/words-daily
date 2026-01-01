@@ -1,69 +1,69 @@
 {
-  "generated": "2025-12-31T22:08:23.848Z",
+  "generated": "2026-01-01T22:08:07.147Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "despoil",
-      "pronunciation": "/dɪˈspɔɪl/",
+      "word": "genius",
+      "pronunciation": "/ˈdʒiː.ni.əs/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "掠夺",
-          "en": "To take away valuable things from a place, usually by force."
+          "pos": "n.",
+          "zh": "天才",
+          "en": "A person with exceptional intellectual or creative abilities."
         },
         {
-          "pos": "v.",
-          "zh": "破坏",
-          "en": "To damage or ruin something, especially its beauty or quality."
+          "pos": "adj.",
+          "zh": "天才的",
+          "en": "Relating to a person who has great mental abilities."
         }
       ],
       "examples": [
         {
-          "en": "The invaders sought to despoil the ancient city of its treasures.",
-          "zh": "入侵者试图掠夺这座古城的宝藏。"
+          "en": "Einstein is often considered a genius in the field of physics.",
+          "zh": "爱因斯坦常被认为是物理学领域的天才。"
         },
         {
-          "en": "Pollution can despoil the natural beauty of the landscape.",
-          "zh": "污染会破坏自然风景的美丽。"
+          "en": "Her genius for solving complex problems amazed everyone.",
+          "zh": "她解决复杂问题的天才让每个人都感到惊讶。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'spoil' in 'despoil' as losing something valuable, similar to spoiling food."
+        "etymology": "The word 'genius' comes from the Latin 'genius', meaning 'guardian spirit' or 'attendant spirit'."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=despoil&type=2",
-      "chapter": "核心词汇 动物权益与保护 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=genius&type=2",
+      "chapter": "核心词汇 青少年教育 Unit 4"
     },
     {
-      "word": "otter",
-      "pronunciation": "/ˈɑːtər/",
+      "word": "litter",
+      "pronunciation": "/ˈlɪtər/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "水獺",
-          "en": "A playful aquatic mammal with a long body and webbed feet."
+          "zh": "垃圾，废物",
+          "en": "Waste material that is disposed of improperly."
         },
         {
-          "pos": "n.",
-          "zh": "海獺",
-          "en": "A marine animal known for its intelligence and use of tools."
+          "pos": "v.",
+          "zh": "乱扔，丢弃",
+          "en": "To throw away trash in a careless manner."
         }
       ],
       "examples": [
         {
-          "en": "The otter swam gracefully through the clear water of the river.",
-          "zh": "水獺在清澈的河水中優雅地游泳。"
+          "en": "Many parks are ruined by people who litter carelessly.",
+          "zh": "许多公园因人们随意乱扔垃圾而被破坏。"
         },
         {
-          "en": "Many people enjoy watching otters play at the zoo.",
-          "zh": "許多人喜歡在動物園裡觀賞水獺玩耍。"
+          "en": "The city organized a campaign to clean up litter from the streets.",
+          "zh": "这座城市组织了一场清理街道垃圾的活动。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'otter' as 'water' because otters are always found in water."
+        "association": "Think of 'litter' as 'little trash' scattered around."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=otter&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=litter&type=2",
+      "chapter": "核心词汇 环境保护 Unit 4"
     }
   ]
 }
