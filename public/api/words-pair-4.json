@@ -1,70 +1,62 @@
 {
-  "generated": "2026-01-01T22:08:07.147Z",
+  "generated": "2026-01-02T22:08:11.445Z",
   "pair": 4,
   "count": 2,
   "words": [
     {
-      "word": "industrialised",
-      "pronunciation": "/ɪnˈdʌstrɪəlaɪzd/",
+      "word": "extremism",
+      "pronunciation": "/ɪkˈstriː.mɪ.zəm/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "工业化的",
-          "en": "Describing a country or area that has developed industries."
+          "pos": "n.",
+          "zh": "极端主义",
+          "en": "The belief in extreme measures or actions, often for political or religious purposes."
         },
         {
-          "pos": "adj.",
-          "zh": "工业化的",
-          "en": "Referring to processes or products that are manufactured on a large scale."
+          "pos": "n.",
+          "zh": "激进主义",
+          "en": "A view or behavior that promotes extreme ideas and actions, rejecting moderate approaches."
         }
       ],
       "examples": [
         {
-          "en": "Many industrialised nations face environmental challenges today.",
-          "zh": "许多工业化国家今天面临环境挑战。"
+          "en": "Many governments are working to combat religious extremism in their countries.",
+          "zh": "许多政府正在努力打击其国内的宗教极端主义。"
         },
         {
-          "en": "The industrialised sector has significantly boosted the economy.",
-          "zh": "工业化部门显著推动了经济发展。"
+          "en": "Extremism can lead to violence and disrupt social harmony in communities.",
+          "zh": "极端主义可能导致暴力并破坏社区的社会和谐。"
         }
       ],
       "memoryTips": {
-        "etymology": "The word 'industrialised' comes from 'industry' which refers to manufacturing and production.",
-        "association": "Think of 'industrialised' as a place where factories and large machines are common."
+        "etymology": "The word 'extremism' comes from 'extreme,' which means 'the furthest point' or 'very severe.' It adds the suffix '-ism,' indicating a belief system."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=industrialised&type=2",
-      "chapter": "核心词汇 环境保护 Unit 3"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=extremism&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 3"
     },
     {
-      "word": "organism",
-      "pronunciation": "/ˈɔːrɡənɪzm/",
+      "word": "intestinal blockage",
+      "pronunciation": "/ɪnˈtɛstɪnəl ˈblɒkɪdʒ/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "生物体",
-          "en": "A living thing, such as a plant or animal."
-        },
-        {
-          "pos": "n.",
-          "zh": "有机体",
-          "en": "Any individual life form, including bacteria and fungi."
+          "zh": "肠道阻塞",
+          "en": "A condition where the intestines are blocked, preventing normal digestion."
         }
       ],
       "examples": [
         {
-          "en": "Every organism plays a vital role in its ecosystem.",
-          "zh": "每个生物体在其生态系统中扮演着重要角色。"
+          "en": "An intestinal blockage can cause severe abdominal pain and discomfort.",
+          "zh": "肠道阻塞会导致严重的腹痛和不适。"
         },
         {
-          "en": "The study of microorganisms helps us understand diseases.",
-          "zh": "微生物学的研究帮助我们理解疾病。"
+          "en": "Doctors often perform surgery to relieve an intestinal blockage.",
+          "zh": "医生通常会进行手术来缓解肠道阻塞。"
         }
       ],
-      "memoryTips": {
-        "etymology": "The word 'organism' comes from the Greek word 'organon', meaning 'tool or instrument'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=organism&type=2",
-      "chapter": "认知词汇 动物分类 动物行为"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=intestinal%20blockage&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

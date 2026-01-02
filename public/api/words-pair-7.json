@@ -1,65 +1,69 @@
 {
-  "generated": "2026-01-01T22:08:07.147Z",
+  "generated": "2026-01-02T22:08:11.445Z",
   "pair": 7,
   "count": 2,
   "words": [
     {
-      "word": "vegetation",
-      "pronunciation": "/ˌvɛdʒ.əˈteɪ.ʃən/",
+      "word": "disposable",
+      "pronunciation": "/dɪˈspoʊ.zə.bəl/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "植被",
-          "en": "The plants and trees in a particular area."
+          "pos": "adj.",
+          "zh": "一次性的",
+          "en": "Something that is made to be used once and then thrown away."
         },
         {
           "pos": "n.",
-          "zh": "植物群落",
-          "en": "The collective growth of plants in a specific habitat."
+          "zh": "一次性产品",
+          "en": "An item that is intended for single use."
         }
       ],
       "examples": [
         {
-          "en": "The dense vegetation in the rainforest supports many species.",
-          "zh": "雨林中茂密的植被支持着许多物种。"
+          "en": "Many restaurants now use disposable utensils to reduce cleaning time.",
+          "zh": "许多餐馆现在使用一次性餐具以减少清洁时间。"
         },
         {
-          "en": "Vegetation plays a crucial role in maintaining ecological balance.",
-          "zh": "植被在维持生态平衡中起着关键作用。"
+          "en": "Disposable products are convenient but can harm the environment.",
+          "zh": "一次性产品很方便，但可能会对环境造成伤害。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=vegetation&type=2",
-      "chapter": "核心词汇 环境保护 Unit 5"
+      "memoryTips": {
+        "association": "Think of 'dispose' when you hear 'disposable', as both relate to throwing something away."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=disposable&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 2"
     },
     {
-      "word": "greenhorn",
-      "pronunciation": "/ˈɡriːnˌhɔrn/",
+      "word": "dorado",
+      "pronunciation": "/dəˈrɑː.doʊ/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "新手；菜鸟",
-          "en": "A person who is inexperienced or new to a particular activity."
+          "zh": "一种金色的鱼",
+          "en": "A type of golden fish found in warm waters."
         },
         {
-          "pos": "n.",
-          "zh": "初学者",
-          "en": "Someone who lacks experience in a specific area."
+          "pos": "adj.",
+          "zh": "金色的，闪闪发光的",
+          "en": "Describing something that is golden or shiny."
         }
       ],
       "examples": [
         {
-          "en": "As a greenhorn in the industry, she learned quickly from her mistakes.",
-          "zh": "作为行业的新手，她很快从错误中学习。"
+          "en": "The dorado fish is known for its beautiful golden color.",
+          "zh": "多拉多鱼以其美丽的金色而闻名。"
         },
         {
-          "en": "The greenhorn struggled to keep up with the more experienced team members.",
-          "zh": "这个菜鸟很难跟上更有经验的团队成员。"
+          "en": "Many fishermen dream of catching a dorado in the open sea.",
+          "zh": "许多渔民梦想在公海捕捉一条多拉多。"
         }
       ],
-      "memoryTips": {},
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=greenhorn&type=2",
-      "chapter": "核心词汇 工作与生活 Unit 3"
+      "memoryTips": {
+        "association": "Think of 'dorado' as 'golden' in Spanish, which can help you remember its meaning."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=dorado&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

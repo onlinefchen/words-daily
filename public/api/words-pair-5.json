@@ -1,69 +1,70 @@
 {
-  "generated": "2026-01-01T22:08:07.147Z",
+  "generated": "2026-01-02T22:08:11.445Z",
   "pair": 5,
   "count": 2,
   "words": [
     {
-      "word": "sustain",
-      "pronunciation": "/səˈsteɪn/",
-      "meanings": [
-        {
-          "pos": "v.",
-          "zh": "维持",
-          "en": "To keep something going over time."
-        },
-        {
-          "pos": "v.",
-          "zh": "支持",
-          "en": "To support or provide what is needed for something."
-        }
-      ],
-      "examples": [
-        {
-          "en": "The city needs to sustain its resources for future generations.",
-          "zh": "这个城市需要维持其资源以供未来的世代使用。"
-        },
-        {
-          "en": "Farmers must find ways to sustain their crops during droughts.",
-          "zh": "农民必须找到在干旱期间维持作物的方法。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'sustain' comes from the Latin 'sustinere', meaning 'to hold up'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=sustain&type=2",
-      "chapter": "核心词汇 环境保护 Unit 5"
-    },
-    {
-      "word": "poison",
-      "pronunciation": "/ˈpɔɪ.zən/",
+      "word": "cruelty",
+      "pronunciation": "/ˈkruːəlti/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "毒药",
-          "en": "A substance that can cause illness or death when ingested."
+          "zh": "残酷",
+          "en": "The quality of being very cruel and causing suffering."
         },
         {
-          "pos": "v.",
-          "zh": "毒害",
-          "en": "To make something harmful or deadly, especially by adding poison."
+          "pos": "n.",
+          "zh": "虐待行为",
+          "en": "An action that causes pain or harm to others."
         }
       ],
       "examples": [
         {
-          "en": "The scientist studied how poison affects the human body.",
-          "zh": "科学家研究毒药如何影响人体。"
+          "en": "The cruelty shown towards animals is unacceptable in our society.",
+          "zh": "对动物表现出的残酷在我们的社会中是不可接受的。"
         },
         {
-          "en": "He was poisoned by a toxic substance in the food.",
-          "zh": "他被食物中的有毒物质毒害了。"
+          "en": "Many people protested against the cruelty of war and violence.",
+          "zh": "许多人抗议战争和暴力的残酷。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'poison' as a 'poisonous' drink that can harm you."
+        "etymology": "The word 'cruelty' comes from the Latin 'crudelitas', which means 'harshness' or 'brutality'.",
+        "association": "Think of 'cruelty' as 'cruel' actions; both words share the same root and meaning."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=poison&type=2",
-      "chapter": "核心词汇 环境保护 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=cruelty&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 2"
+    },
+    {
+      "word": "enslave",
+      "pronunciation": "/ɪnˈsleɪv/",
+      "meanings": [
+        {
+          "pos": "v.",
+          "zh": "奴役",
+          "en": "To make someone a slave or force them to work for you."
+        },
+        {
+          "pos": "v.",
+          "zh": "束缚",
+          "en": "To control or dominate someone completely."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Many ancient societies enslaved people to build their monuments.",
+          "zh": "许多古代社会奴役人们来建造他们的纪念碑。"
+        },
+        {
+          "en": "The goal is to free those who have been enslaved by injustice.",
+          "zh": "目标是解放那些被不公正奴役的人。"
+        }
+      ],
+      "memoryTips": {
+        "etymology": "The word 'enslave' comes from the root 'slave', which derives from the Latin 'slavus', meaning 'Slav'."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=enslave&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 3"
     }
   ]
 }

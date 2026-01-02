@@ -1,69 +1,64 @@
 {
-  "generated": "2026-01-01T22:08:07.147Z",
+  "generated": "2026-01-02T22:08:11.445Z",
   "pair": 2,
   "count": 2,
   "words": [
     {
-      "word": "genius",
-      "pronunciation": "/ˈdʒiː.ni.əs/",
+      "word": "deserve",
+      "pronunciation": "/dɪˈzɜrv/",
       "meanings": [
         {
-          "pos": "n.",
-          "zh": "天才",
-          "en": "A person with exceptional intellectual or creative abilities."
-        },
-        {
-          "pos": "adj.",
-          "zh": "天才的",
-          "en": "Relating to a person who has great mental abilities."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Einstein is often considered a genius in the field of physics.",
-          "zh": "爱因斯坦常被认为是物理学领域的天才。"
-        },
-        {
-          "en": "Her genius for solving complex problems amazed everyone.",
-          "zh": "她解决复杂问题的天才让每个人都感到惊讶。"
-        }
-      ],
-      "memoryTips": {
-        "etymology": "The word 'genius' comes from the Latin 'genius', meaning 'guardian spirit' or 'attendant spirit'."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=genius&type=2",
-      "chapter": "核心词汇 青少年教育 Unit 4"
-    },
-    {
-      "word": "litter",
-      "pronunciation": "/ˈlɪtər/",
-      "meanings": [
-        {
-          "pos": "n.",
-          "zh": "垃圾，废物",
-          "en": "Waste material that is disposed of improperly."
+          "pos": "v.",
+          "zh": "应得",
+          "en": "To be worthy of something, usually a reward or punishment."
         },
         {
           "pos": "v.",
-          "zh": "乱扔，丢弃",
-          "en": "To throw away trash in a careless manner."
+          "zh": "值得",
+          "en": "To have a right to something because of actions or qualities."
         }
       ],
       "examples": [
         {
-          "en": "Many parks are ruined by people who litter carelessly.",
-          "zh": "许多公园因人们随意乱扔垃圾而被破坏。"
+          "en": "She deserves recognition for her hard work and dedication.",
+          "zh": "她应当因她的努力和奉献而受到认可。"
         },
         {
-          "en": "The city organized a campaign to clean up litter from the streets.",
-          "zh": "这座城市组织了一场清理街道垃圾的活动。"
+          "en": "After all his efforts, he truly deserves a break.",
+          "zh": "在他所有的努力之后，他确实值得休息一下。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'litter' as 'little trash' scattered around."
+        "association": "Think of 'deserve' as 'de-serve', meaning to serve what you have earned."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=litter&type=2",
-      "chapter": "核心词汇 环境保护 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=deserve&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 2"
+    },
+    {
+      "word": "monarch butterfly",
+      "pronunciation": "/ˈmɒn.ɑːrk ˈbʌtərflaɪ/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "帝王蝶",
+          "en": "A large orange and black butterfly known for its long migrations."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The monarch butterfly travels thousands of miles during migration.",
+          "zh": "帝王蝶在迁徙期间旅行数千英里。"
+        },
+        {
+          "en": "Many children learn about the life cycle of the monarch butterfly in school.",
+          "zh": "许多孩子在学校学习帝王蝶的生命周期。"
+        }
+      ],
+      "memoryTips": {
+        "association": "Think of a monarch as a king or queen, ruling over the skies like a butterfly."
+      },
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=monarch%20butterfly&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

@@ -1,69 +1,62 @@
 {
-  "generated": "2026-01-01T22:08:07.147Z",
+  "generated": "2026-01-02T22:08:11.446Z",
   "pair": 10,
   "count": 2,
   "words": [
     {
-      "word": "hygiene",
-      "pronunciation": "/haɪˈdʒin/",
+      "word": "poison",
+      "pronunciation": "/ˈpɔɪ.zən/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "卫生",
-          "en": "The practice of keeping clean to prevent illness."
+          "zh": "毒药",
+          "en": "A substance that can cause illness or death if taken into the body."
         },
-        {
-          "pos": "n.",
-          "zh": "卫生习惯",
-          "en": "A set of practices to maintain health and cleanliness."
-        }
-      ],
-      "examples": [
-        {
-          "en": "Good hygiene practices can prevent the spread of diseases.",
-          "zh": "良好的卫生习惯可以防止疾病传播。"
-        },
-        {
-          "en": "Regular handwashing is essential for personal hygiene.",
-          "zh": "定期洗手对个人卫生至关重要。"
-        }
-      ],
-      "memoryTips": {
-        "association": "Think of 'hygiene' as 'high gene,' implying that good hygiene leads to better health and genes."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=hygiene&type=2",
-      "chapter": "核心词汇 环境保护 Unit 3"
-    },
-    {
-      "word": "discard",
-      "pronunciation": "/dɪsˈkɑrd/",
-      "meanings": [
         {
           "pos": "v.",
-          "zh": "丢弃",
-          "en": "To get rid of something that is no longer useful or wanted."
-        },
-        {
-          "pos": "n.",
-          "zh": "被丢弃的东西",
-          "en": "An item that has been thrown away or rejected."
+          "zh": "毒害",
+          "en": "To make someone or something harmful or deadly."
         }
       ],
       "examples": [
         {
-          "en": "It is important to discard old papers to keep your workspace organized.",
-          "zh": "丢弃旧文件对保持工作空间的整洁很重要。"
+          "en": "The scientist studied how poison affects the human body.",
+          "zh": "科学家研究了毒药如何影响人体。"
         },
         {
-          "en": "Many people discard plastic bottles instead of recycling them.",
-          "zh": "许多人丢弃塑料瓶而不是回收它们。"
+          "en": "The villain tried to poison the hero's drink at the party.",
+          "zh": "坏人试图在聚会上毒害英雄的饮料。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'discard' as 'dis' + 'card', where you throw away an unwanted card in a game."
+        "association": "Think of 'poison' as something that 'poisons' or corrupts life, linking the word to danger."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=discard&type=2",
-      "chapter": "核心词汇 环境保护 Unit 2"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=poison&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 4"
+    },
+    {
+      "word": "warm pool",
+      "pronunciation": "/wɔrm puːl/",
+      "meanings": [
+        {
+          "pos": "n.",
+          "zh": "温暖的泳池",
+          "en": "A swimming pool that is heated or feels warm."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The warm pool is perfect for relaxing after a long day.",
+          "zh": "温暖的泳池非常适合在漫长的一天后放松。"
+        },
+        {
+          "en": "Many people enjoy swimming in the warm pool during winter.",
+          "zh": "许多人喜欢在冬天游泳于温暖的泳池。"
+        }
+      ],
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=warm%20pool&type=2",
+      "chapter": "认知词汇 自然分类 \"厄尔尼诺\"现象"
     }
   ]
 }

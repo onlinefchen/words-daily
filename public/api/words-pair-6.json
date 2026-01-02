@@ -1,69 +1,71 @@
 {
-  "generated": "2026-01-01T22:08:07.147Z",
+  "generated": "2026-01-02T22:08:11.445Z",
   "pair": 6,
   "count": 2,
   "words": [
     {
-      "word": "corruption",
-      "pronunciation": "/kəˈrʌpʃən/",
+      "word": "hawkmoth",
+      "pronunciation": "/ˈhɔːkˌmɔːθ/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "腐败",
-          "en": "Dishonest or unethical behavior by people in power."
+          "zh": "鹰蛾",
+          "en": "A large moth known for its size and swift flying."
         },
         {
           "pos": "n.",
-          "zh": "损坏",
-          "en": "The process of something becoming damaged or altered."
+          "zh": "鹰蛾",
+          "en": "A type of moth that resembles a hawk when flying."
         }
       ],
       "examples": [
         {
-          "en": "Corruption in government can lead to serious social issues.",
-          "zh": "政府中的腐败可能导致严重的社会问题。"
+          "en": "The hawkmoth can be seen flying during the night.",
+          "zh": "鹰蛾可以在夜间飞行时被看到。"
         },
         {
-          "en": "The corruption of data can affect the accuracy of research.",
-          "zh": "数据的损坏可能影响研究的准确性。"
+          "en": "She was fascinated by the vibrant colors of the hawkmoth.",
+          "zh": "她对鹰蛾鲜艳的颜色感到着迷。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'corrupt' as 'broken' or 'damaged', which can help remember its meanings."
+        "association": "Think of a hawk when you see a hawkmoth; both are agile and fast.",
+        "mnemonic": "Hawk and moth combine to create 'hawkmoth', linking the bird's speed to the moth's flight."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=corruption&type=2",
-      "chapter": "核心词汇 民主与权利 Unit 1"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=hawkmoth&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "aerodynamic construction",
-      "pronunciation": "/ˌɛəroʊdaɪˈnæmɪk kənˈstrʌkʃən/",
+      "word": "ecological",
+      "pronunciation": "/iː.kəˈlɒdʒ.ɪ.kəl/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "空气动力学的",
-          "en": "Relating to the way air moves around things."
+          "zh": "生态的",
+          "en": "Relating to the relationship between living things and their environment."
         },
         {
-          "pos": "n.",
-          "zh": "气动结构",
-          "en": "A design or shape that reduces air resistance."
+          "pos": "adj.",
+          "zh": "生态学的",
+          "en": "Concerned with the study of ecosystems and environmental issues."
         }
       ],
       "examples": [
         {
-          "en": "The car's aerodynamic construction helps it move faster on highways.",
-          "zh": "这辆车的空气动力学结构帮助它在高速公路上更快行驶。"
+          "en": "The ecological impact of pollution is a serious global concern.",
+          "zh": "污染的生态影响是一个严重的全球问题。"
         },
         {
-          "en": "Engineers focus on aerodynamic construction to improve fuel efficiency.",
-          "zh": "工程师们专注于气动结构，以提高燃油效率。"
+          "en": "Many ecological initiatives aim to protect endangered species.",
+          "zh": "许多生态倡议旨在保护濒危物种。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'aero' as related to air, and 'dynamic' as something that moves or changes. Together, they describe how shapes interact with air."
+        "etymology": "The word 'ecological' comes from the Greek 'oikos', meaning 'house' or 'environment'.",
+        "association": "Think of 'eco' as the 'house' of nature, where all living things interact."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aerodynamic%20construction&type=2",
-      "chapter": "认知词汇 动物分类 动物航行能力"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=ecological&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 3"
     }
   ]
 }

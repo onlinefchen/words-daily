@@ -1,69 +1,60 @@
 {
-  "generated": "2026-01-01T22:08:07.147Z",
+  "generated": "2026-01-02T22:08:11.445Z",
   "pair": 8,
   "count": 2,
   "words": [
     {
-      "word": "runoff",
-      "pronunciation": "/ˈrʌn.ɔf/",
+      "word": "commercial whaling",
+      "pronunciation": "/kəˈmɜːr.ʃəl ˈweɪ.lɪŋ/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "径流",
-          "en": "Water that flows over the ground after rain."
+          "zh": "商业捕鲸",
+          "en": "The practice of hunting whales for profit."
         },
         {
           "pos": "n.",
-          "zh": "决赛",
-          "en": "A final race or contest to determine a winner."
+          "zh": "商业捕鲸活动",
+          "en": "Activities related to the commercial hunting of whales."
         }
       ],
       "examples": [
         {
-          "en": "The heavy rain caused a lot of runoff into the river.",
-          "zh": "大雨导致大量径流流入河中。"
+          "en": "Many countries have banned commercial whaling to protect endangered species.",
+          "zh": "许多国家禁止商业捕鲸，以保护濒危物种。"
         },
         {
-          "en": "She won the runoff election by a narrow margin.",
-          "zh": "她在决选中以微弱优势获胜。"
+          "en": "Commercial whaling poses serious threats to marine ecosystems and biodiversity.",
+          "zh": "商业捕鲸对海洋生态系统和生物多样性构成严重威胁。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'runoff' as water running off the land."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=runoff&type=2",
-      "chapter": "认知词汇 自然分类 海沙流失"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=commercial%20whaling&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "satisfactory",
-      "pronunciation": "/ˌsætɪsˈfæktəri/",
+      "word": "aeronautical engineer",
+      "pronunciation": "/ˌɛəroʊˈnɔːtɪkəl ˈɛnɪdʒɪr/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "令人满意的",
-          "en": "Good enough to meet a particular standard or requirement."
-        },
-        {
-          "pos": "adj.",
-          "zh": "足够好的",
-          "en": "Providing a level of quality that is acceptable."
+          "pos": "n.",
+          "zh": "航空工程师",
+          "en": "An aeronautical engineer is a professional who designs aircraft and spacecraft."
         }
       ],
       "examples": [
         {
-          "en": "The results of the experiment were satisfactory for our research needs.",
-          "zh": "实验结果对于我们的研究需求是令人满意的。"
+          "en": "She wants to become an aeronautical engineer after finishing her studies.",
+          "zh": "她想在完成学业后成为一名航空工程师。"
         },
         {
-          "en": "Her performance in the exam was satisfactory, but not exceptional.",
-          "zh": "她在考试中的表现令人满意，但并不出色。"
+          "en": "Aeronautical engineers work on improving flight safety and efficiency.",
+          "zh": "航空工程师致力于提高飞行安全性和效率。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of 'satisfy' as satisfying your needs, leading to 'satisfactory' results."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=satisfactory&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 16"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=aeronautical%20engineer&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     }
   ]
 }

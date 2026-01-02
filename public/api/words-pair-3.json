@@ -1,69 +1,64 @@
 {
-  "generated": "2026-01-01T22:08:07.147Z",
+  "generated": "2026-01-02T22:08:11.445Z",
   "pair": 3,
   "count": 2,
   "words": [
     {
-      "word": "nocturnal vision",
-      "pronunciation": "/nɒkˈtɜrnəl ˈvɪʒən/",
+      "word": "lenient",
+      "pronunciation": "/ˈliːniənt/",
       "meanings": [
         {
           "pos": "adj.",
-          "zh": "夜间活动的",
-          "en": "Describes animals or creatures that are active during the night."
+          "zh": "宽容的",
+          "en": "Not strict; willing to be forgiving or tolerant."
         },
         {
-          "pos": "n.",
-          "zh": "夜视能力",
-          "en": "The ability to see well in low light conditions, typically at night."
+          "pos": "adj.",
+          "zh": "不严厉的",
+          "en": "Allowing more freedom; easygoing in rules or discipline."
         }
       ],
       "examples": [
         {
-          "en": "Many animals have nocturnal vision to hunt in the dark.",
-          "zh": "许多动物具备夜视能力，以便在黑暗中捕猎。"
+          "en": "The teacher was lenient with students who missed classes.",
+          "zh": "老师对缺课的学生很宽容。"
         },
         {
-          "en": "Owls are famous for their excellent nocturnal vision.",
-          "zh": "猫头鹰以其出色的夜间视力而闻名。"
+          "en": "Judges are often lenient in sentencing first-time offenders.",
+          "zh": "法官在对初犯者的判刑时通常比较宽松。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'nocturnal' as relating to 'night' and 'vision' as seeing. Together, they remind you of seeing well at night."
+        "association": "Think of 'lean' as being relaxed, which connects to being lenient."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=nocturnal%20vision&type=2",
-      "chapter": "认知词汇 动物分类 常考生物"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=lenient&type=2",
+      "chapter": "核心词汇 动物权益与保护 Unit 4"
     },
     {
-      "word": "purify",
-      "pronunciation": "/ˈpjʊrɪfaɪ/",
+      "word": "lava plateau",
+      "pronunciation": "/ˈlɑː.və plæˈtoʊ/",
       "meanings": [
         {
-          "pos": "v.",
-          "zh": "净化",
-          "en": "To make something clean by removing impurities."
-        },
-        {
-          "pos": "v.",
-          "zh": "提纯",
-          "en": "To remove unwanted elements from a substance to improve its quality."
+          "pos": "n.",
+          "zh": "熔岩高原",
+          "en": "A large flat area formed by volcanic lava flow."
         }
       ],
       "examples": [
         {
-          "en": "The water is purified before it is bottled for sale.",
-          "zh": "水在装瓶出售之前会被净化。"
+          "en": "The lava plateau was formed after many volcanic eruptions.",
+          "zh": "这个熔岩高原是在多次火山喷发后形成的。"
         },
         {
-          "en": "They used a special process to purify the air in the building.",
-          "zh": "他们使用一种特殊的工艺来净化建筑物内的空气。"
+          "en": "Scientists study lava plateaus to understand volcanic activity better.",
+          "zh": "科学家研究熔岩高原以更好地理解火山活动。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'pure' in purify; it relates to making something clean or clear."
+        "association": "Think of a 'plateau' as a flat surface, and 'lava' as the molten rock that creates it. Imagine a giant pancake made of lava."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=purify&type=2",
-      "chapter": "核心词汇 环境保护 Unit 4"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=lava%20plateau&type=2",
+      "chapter": "认知词汇 自然分类 火山"
     }
   ]
 }

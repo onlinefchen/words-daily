@@ -1,69 +1,62 @@
 {
-  "generated": "2026-01-01T22:08:07.147Z",
+  "generated": "2026-01-02T22:08:11.445Z",
   "pair": 1,
   "count": 2,
   "words": [
     {
-      "word": "pawn",
-      "pronunciation": "/pɔːn/",
+      "word": "bushland",
+      "pronunciation": "/ˈbʊʃ.lænd/",
       "meanings": [
         {
           "pos": "n.",
-          "zh": "卒子，象棋中的兵",
-          "en": "A pawn is a piece in chess that can only move forward."
-        },
-        {
-          "pos": "v.",
-          "zh": "典当",
-          "en": "To pawn something means to give it as security for a loan."
+          "zh": "灌木丛地",
+          "en": "An area of land covered with bushes and small trees."
         }
       ],
       "examples": [
         {
-          "en": "He decided to pawn his watch to get some quick cash.",
-          "zh": "他决定典当他的手表以获得一些快速现金。"
+          "en": "The bushland near the city is home to many unique animals.",
+          "zh": "城市附近的灌木丛地是许多独特动物的栖息地。"
         },
         {
-          "en": "In chess, a pawn can be promoted to a queen when it reaches the end.",
-          "zh": "在国际象棋中，当卒子到达底线时可以升变为后。"
+          "en": "Many hikers enjoy exploring the bushland trails on weekends.",
+          "zh": "许多徒步旅行者喜欢在周末探索灌木丛地的小径。"
         }
       ],
-      "memoryTips": {
-        "association": "Think of a 'pawn' as a small piece that can lead to something bigger, like a queen in chess."
-      },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=pawn&type=2",
-      "chapter": "认知词汇 历史分类 钱币发展史"
+      "memoryTips": {},
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=bushland&type=2",
+      "chapter": "认知词汇 动物分类 常考生物"
     },
     {
-      "word": "superstitious",
-      "pronunciation": "/ˌsuːpərˈstɪʃəs/",
+      "word": "migratory route",
+      "pronunciation": "/ˈmaɪɡrəˌtɔri ruːt/",
       "meanings": [
         {
-          "pos": "adj.",
-          "zh": "迷信的",
-          "en": "Having beliefs that certain events or things can bring good or bad luck."
+          "pos": "n.",
+          "zh": "迁徙路线",
+          "en": "A path that animals follow when they move from one place to another."
         },
         {
-          "pos": "adj.",
-          "zh": "相信迷信的",
-          "en": "Believing in supernatural influences on everyday life."
+          "pos": "n.",
+          "zh": "迁徙通道",
+          "en": "A route that is used for seasonal migration by wildlife."
         }
       ],
       "examples": [
         {
-          "en": "Many people are superstitious about breaking a mirror.",
-          "zh": "很多人对打破镜子感到迷信。"
+          "en": "Many birds travel thousands of miles along their migratory route.",
+          "zh": "许多鸟类沿着它们的迁徙路线飞行数千英里。"
         },
         {
-          "en": "She avoided walking under ladders due to her superstitious beliefs.",
-          "zh": "由于她的迷信信仰，她避免在梯子下走。"
+          "en": "The study of migratory routes helps protect endangered species.",
+          "zh": "研究迁徙路线有助于保护濒危物种。"
         }
       ],
       "memoryTips": {
-        "association": "Think of 'superstitious' as a person who is 'super' careful about avoiding 'bad luck' situations."
+        "association": "Think of 'migrate' as moving and 'route' as a path, so a 'migratory route' is a moving path."
       },
-      "audioUrl": "https://dict.youdao.com/dictvoice?audio=superstitious&type=2",
-      "chapter": "基本词汇 形容词和副词400 Unit 18"
+      "audioUrl": "https://dict.youdao.com/dictvoice?audio=migratory%20route&type=2",
+      "chapter": "认知词汇 动物分类 动物航行能力"
     }
   ]
 }
